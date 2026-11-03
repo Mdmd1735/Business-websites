@@ -2,15 +2,21 @@
 
 Goal: as many pitch-ready sites as possible per token. Don't re-explore the repo each time; follow this loop.
 
-0. Keys live in env only (`GOOGLE_MAPS_API_KEY`, `APIFY_TOKEN`). Never commit them.
-1. `python3 pipeline/scout.py discover --cats ... --areas ...` (Places: names, ratings, websites, phones), then `python3 pipeline/scout.py apify --top N` (Apify Maps scraper: reviews, owner replies, photos, popular times; about $0.03 per business). `enrich` is the Places-only path for a full, non-demo key.
-2. For each `data/businesses/<slug>.json` with `site_status: scouted`:
-   - Mine `reviews` (coach names, prices, landmarks), `owner_description`, `amenities`, `review_tags`, `popular_times`, `site_audit.text`. Build ONE contact sheet of `docs/<slug>/img/raw/` (PIL, 6 per row) and Read it to pick the hero and usable shots; copy picks to `img/` with descriptive names and delete `raw/`. Low-res review photos get the duotone treatment (see `docs/champions-gym-karama`).
-   - Run `python3 .claude/skills/ui-ux-pro-max/scripts/search.py "<category> <mood>" --design-system` for palette and type ideas, then pick from `playbook/THEMES.md`. Never invent prices: if none are found, use "Ask about memberships" style CTAs.
-   - Copy the closest kit from `docs/` (gyms: `docs/champions-gym-karama/` (real data, split hero) or `docs/forge-athletic-club/` (template, full-bleed hero)) and **change the layout, type pair and palette** per `playbook/THEMES.md`. No two sites may share hero layout + palette.
-   - Real reviews only (from the JSON). Keep `noindex`. Footer line: "Preview concept prepared for <name>".
-   - QA per `playbook/QUALITY_CHECKLIST.md` (Playwright script at `playbook/qa.js`).
-   - Set `site_status: built`, adjust `buy_likelihood` and add `notes` (why they'd buy).
-3. `python3 pipeline/scout.py leads`, then commit and push to `claude/uae-bulk-website-generation-7gkcoz`.
+0. Keys live in env only (`GOOGLE_MAPS_API_KEY`, `APIFY_TOKEN`). Never commit them. Setup once per container:
+   `pip install opencv-contrib-python-headless jinja2` and download `EDSR_x4.pb` (URL in `pipeline/upscale.py`) into `$SR_MODELS`.
+1. Scout: `python3 pipeline/scout.py discover --cats ... --areas ...` (Places: names, ratings, websites, phones; free tier).
+   Pick independent businesses (no chains or resort outlets, no massage-at-home) with many reviews and no website or a social-only one.
+2. Enrich: `python3 pipeline/scout.py apify --ids <place ids> --photos 20 --min-score 50` (reviews, owner replies, photos, popular times; ≈$0.03 per business),
+   then `python3 pipeline/scout.py socials` (Instagram, verified by phone or name+location only).
+3. For each `data/businesses/<slug>.json` with `site_status: scouted`:
+   - Contact sheet of `docs/<slug>/img/raw/` (PIL, 6 per row, labelled), Read it once, copy the picks to `img/` with descriptive names, delete `raw/`.
+   - `python3 pipeline/upscale.py docs/<slug>/img/*.jpg` (EDSR x4 on anything < 1000px; ≈45 s each, so run it in the background).
+   - Write `data/content/<slug>.json` (copy + design: preset, hero variant, frame, sections). Mine reviews for staff names, prices, landmarks, signature items.
+     Never invent prices or facts; when there are no prices, use the `asks` section (pre-filled WhatsApp questions).
+     Vary preset + hero variant (`split`/`full`/`stack`) + frame (`slant`/`arch`/`round`/`square`) so no two sites look alike.
+     Presets are in `pipeline/build.py`; `python3 .claude/skills/ui-ux-pro-max/scripts/search.py "<category> <mood>" --design-system` for ideas.
+   - `python3 pipeline/build.py <slug>` → `docs/<slug>/`. QA with `node playbook/qa.js <slug> <outdir>` and look at the hero screenshot.
+   - Set `site_status: built`, adjust `buy_likelihood`, add `notes` (why they'd buy).
+4. `python3 pipeline/scout.py leads`, commit, push to `claude/uae-bulk-website-generation-7gkcoz` (GitHub Pages serves `/docs`).
 
-Efficiency rules: build in parallel batches; keep each site to 3 files (index.html, styles.css, main.js) plus img/; compress images to ≤250 KB (`python3 -c` with PIL, 1600px max, q=72).
+Bespoke sites (not generated): `docs/champions-gym-karama/`, `docs/forge-athletic-club/` (fictional template, never pitch it).

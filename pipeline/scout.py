@@ -77,7 +77,11 @@ def audit_site(url):
     if not url: return out
     host = urllib.parse.urlparse(url).netloc.lower()
     if any(s in host for s in SOCIAL_HOSTS):
-        out["status"] = "social"; return out
+        out["status"] = "social"
+        for name, pat in {"instagram": r"instagram\.com/([\w.]+)", "facebook": r"facebook\.com/((?:profile\.php\?id=\d+)|[\w.\-]+)", "tiktok": r"tiktok\.com/@([\w.]+)"}.items():
+            m = re.search(pat, url, re.I)
+            if m: out["socials"][name] = m.group(1)
+        return out
     try:
         html, _, final = _req(url, raw=True, timeout=15)
         html = html.decode("utf-8", "ignore")
@@ -208,10 +212,16 @@ def enrich(args):
     leads(args)
 
 
-def _apify(actor, payload, timeout=560):
+def _apify(actor, payload, timeout=1800):
+    """Start an actor run, poll until it finishes, return dataset items (works for long runs)."""
     tok = os.environ.get("APIFY_TOKEN") or sys.exit("Set APIFY_TOKEN first.")
-    url = f"https://api.apify.com/v2/acts/{actor}/run-sync-get-dataset-items?token={tok}&timeout={timeout}"
-    return _req(url, payload, timeout=timeout + 30)
+    run = _req(f"https://api.apify.com/v2/acts/{actor}/runs?token={tok}", payload, timeout=60)["data"]
+    t0 = time.time()
+    while run["status"] in ("READY", "RUNNING") and time.time() - t0 < timeout:
+        run = _req(f"https://api.apify.com/v2/actor-runs/{run['id']}?token={tok}&waitForFinish=60", timeout=90)["data"]
+        print(f"  apify {run['status']} {int(time.time() - t0)}s", flush=True)
+    if run["status"] != "SUCCEEDED": sys.exit(f"Apify run {run['id']} ended {run['status']}")
+    return _req(f"https://api.apify.com/v2/datasets/{run['defaultDatasetId']}/items?token={tok}&clean=true", timeout=120)
 
 
 def _save_img(url, path):
@@ -232,7 +242,8 @@ def apify_enrich(args):
     cands = json.loads((DATA / "candidates.json").read_text())
     done = {p.stem for p in (DATA / "businesses").glob("*.json")}
     picked = []
-    for c in sorted(cands.values(), key=lambda c: -c["score"]):
+    pool = [cands[i] for i in args.ids.split(",")] if args.ids else sorted(cands.values(), key=lambda c: -c["score"])
+    for c in pool:
         if len(picked) >= args.top: break
         slug = slugify(c["displayName"]["text"])
         if slug in done or c.get("rejected"): continue
@@ -282,6 +293,44 @@ def apify_enrich(args):
     leads(args)
 
 
+def find_socials(args):
+    """Find Instagram accounts for built/scouted businesses that have none. Accept only verified matches:
+    phone digits in bio/link, or strong name match + UAE location words. ~$0.003 per search."""
+    from concurrent.futures import ThreadPoolExecutor
+    files = sorted((DATA / "businesses").glob("*.json"))
+    todo = [f for f in files if not json.loads(f.read_text()).get("socials", {}).get("instagram")]
+    def norm(x): return re.sub(r"[^a-z0-9]", "", (x or "").lower())
+    def one(f):
+        b = json.loads(f.read_text())
+        city = "Sharjah" if "Sharjah" in b["area"] else "Abu Dhabi" if "Abu Dhabi" in b["area"] else "Dubai"
+        base = re.split(r"[|(\-]", b["name"])[0].strip()
+        try:
+            res = _apify("apify~instagram-search-scraper", {"search": f"{base} {city}", "searchType": "user", "searchLimit": 6}, timeout=300)
+        except SystemExit as e:
+            return f.stem, None, str(e)
+        tail = re.sub(r"\D", "", b.get("phone", ""))[-7:]
+        key = norm(base)
+        best = None
+        for u in res:
+            if not u.get("username"): continue
+            blob = " ".join([u.get("biography") or "", u.get("externalUrl") or "", json.dumps(u.get("externalUrls") or [])])
+            digits = re.sub(r"\D", "", blob)
+            uname, full = norm(u["username"]), norm(u.get("fullName"))
+            phone_hit = bool(tail) and tail in digits
+            name_hit = len(key) >= 5 and (key[:10] in uname or key[:10] in full or (uname and uname in key and len(uname) >= 6))
+            loc_hit = re.search(r"dubai|sharjah|uae|abu ?dhabi|ajman|971", blob, re.I)
+            score = 3 if phone_hit else 2 if (name_hit and loc_hit) else 0
+            if score and (not best or score > best[0]): best = (score, u["username"], u.get("followersCount"))
+        if best:
+            b.setdefault("socials", {})["instagram"] = best[1]
+            b["instagram_match"] = {"how": "phone" if best[0] == 3 else "name+location", "followers": best[2]}
+            f.write_text(json.dumps(b, indent=1, ensure_ascii=False))
+        return f.stem, best, None
+    with ThreadPoolExecutor(6) as ex:
+        for slug, best, err in ex.map(one, todo):
+            print(f"{slug:42} {'@' + best[1] + ' (' + ('phone' if best[0] == 3 else 'name+loc') + ')' if best else (err or 'no verified match')}")
+
+
 def leads(_args=None):
     rows = []
     for f in sorted((DATA / "businesses").glob("*.json")):
@@ -318,6 +367,7 @@ if __name__ == "__main__":
     e = sub.add_parser("enrich"); e.add_argument("--top", type=int, default=10); e.add_argument("--photos", type=int, default=10)
     e.add_argument("--min-score", type=int, default=60)
     a2 = sub.add_parser("apify"); a2.add_argument("--top", type=int, default=10); a2.add_argument("--photos", type=int, default=30)
-    a2.add_argument("--min-score", type=int, default=60)
+    a2.add_argument("--min-score", type=int, default=60); a2.add_argument("--ids", help="comma-separated place ids to enrich")
+    sub.add_parser("socials")
     sub.add_parser("leads")
-    a = ap.parse_args(); {"discover": discover, "enrich": enrich, "apify": apify_enrich, "leads": leads}[a.cmd](a)
+    a = ap.parse_args(); {"discover": discover, "enrich": enrich, "apify": apify_enrich, "socials": find_socials, "leads": leads}[a.cmd](a)

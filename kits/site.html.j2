@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en" class="mode-{{ t.mode }} hero-{{ hero.variant }} frame-{{ t.frame }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ seo.title }}</title>
+<meta name="description" content="{{ seo.description }}">
+<meta name="robots" content="noindex, nofollow"><!-- preview: remove once the client signs -->
+<meta name="theme-color" content="{{ t.bg }}">
+<meta property="og:title" content="{{ b.name }} · {{ b.area }}">
+<meta property="og:description" content="{{ seo.description }}">
+<meta property="og:image" content="{{ hero.image }}">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='{{ t.accent|replace('#','%23') }}'/%3E%3Ctext x='50%25' y='56%25' text-anchor='middle' dominant-baseline='middle' font-family='Georgia,Arial' font-weight='700' font-size='34' fill='{{ t.on_accent|replace('#','%23') }}'%3E{{ brand.mark }}%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?{{ t.google_fonts }}&display=swap" rel="stylesheet">
+<link rel="preload" as="image" href="{{ hero.image }}">
+<link rel="stylesheet" href="styles.css">
+<script type="application/ld+json">{{ schema|safe }}</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav" id="nav">
+  <a href="#top" class="brand" aria-label="{{ b.name }}, home">
+    <span class="brand__mark">{{ brand.mark }}</span>
+    <span class="brand__name">{{ brand.name }}<small>{{ brand.sub }}</small></span>
+  </a>
+  <nav class="nav__links" aria-label="Main">{% for n in nav %}<a href="#{{ n.id }}">{{ n.label }}</a>{% endfor %}</nav>
+  <div class="nav__right">
+    {% if hours %}<span class="status" data-status><i></i><b>Hours</b></span>{% endif %}
+    <a class="btn btn--accent btn--sm" href="{{ cta.href }}" {% if cta.ext %}target="_blank" rel="noopener"{% endif %}>{{ cta.short }}</a>
+    <button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="drawer"><span></span><span></span></button>
+  </div>
+</header>
+<div class="drawer" id="drawer" hidden>
+  {% for n in nav %}<a href="#{{ n.id }}">{{ n.label }}</a>{% endfor %}
+  <a class="btn btn--accent" href="{{ cta.href }}" {% if cta.ext %}target="_blank" rel="noopener"{% endif %}>{{ cta.label }}</a>
+</div>
+
+<main id="main">
+<section class="hero" id="top">
+  <div class="hero__copy">
+    <p class="hero__kicker in-1">{% if hero.ar_name %}<span class="ar" lang="ar" dir="rtl">{{ hero.ar_name }}</span><span class="sep"></span>{% endif %}{{ hero.kicker }}</p>
+    <h1 class="hero__title">{% for l in hero.title_lines %}<span class="ln{% if loop.index0 == hero.accent_line %} ln--accent{% endif %}"><span>{{ l }}</span></span>{% endfor %}</h1>
+    <p class="hero__lede in-2">{{ hero.lede }}</p>
+    <div class="hero__cta in-3">
+      <a class="btn btn--accent btn--lg" href="{{ cta.href }}" {% if cta.ext %}target="_blank" rel="noopener"{% endif %}>{% if cta.wa %}<svg class="wa" viewBox="0 0 24 24" aria-hidden="true"><path d="{{ wa_path }}"/></svg>{% endif %}{{ cta.label }}</a>
+      <a class="btn btn--line btn--lg" href="{{ hero.secondary.href }}">{{ hero.secondary.label }}</a>
+    </div>
+    {% if b.rating %}<a class="proof in-4" href="#reviews"><b>{{ b.rating }}</b><span class="stars" aria-hidden="true">★★★★★</span><span>{{ b.userRatingCount }} Google reviews{% if proof_note %}<small>{{ proof_note }}</small>{% endif %}</span></a>{% endif %}
+  </div>
+  <div class="hero__visual in-2">
+    <div class="hero__slab" aria-hidden="true"></div>
+    <figure class="hero__frame"><img src="{{ hero.image }}" alt="{{ hero.image_alt }}" fetchpriority="high">{% if hero.caption %}<figcaption>{{ hero.caption }}</figcaption>{% endif %}</figure>
+    {% if crowd %}<div class="live" aria-live="polite"><p class="live__label"><i></i>Right now</p><p class="live__text" data-live-text>Checking…</p><div class="live__bars" data-live-bars aria-hidden="true"></div><p class="live__src">From Google Maps popular times</p></div>
+    {% elif hero.badge %}<div class="live badge"><p class="live__label"><i></i>{{ hero.badge.label }}</p><p class="live__text">{{ hero.badge.text }}</p></div>{% endif %}
+  </div>
+</section>
+
+{% if ticker %}<div class="ticker" aria-label="{{ ticker|join(', ') }}"><div class="ticker__track" aria-hidden="true">{% for _ in range(2) %}{% for x in ticker %}<span>{{ x }}</span>{% endfor %}{% endfor %}</div></div>{% endif %}
+
+{% for s in sections %}
+{% if s.type == 'services' %}
+<section class="sec" id="{{ s.id }}">
+  <header class="sec__head"><p class="eyebrow">{{ s.eyebrow }}</p><h2 class="rv">{{ s.title }} {% if s.title_dim %}<span class="dim">{{ s.title_dim }}</span>{% endif %}</h2>{% if s.lede %}<p class="sec__lede">{{ s.lede }}</p>{% endif %}</header>
+  <div class="svc svc--{{ s.layout or 'grid' }}">
+  {% for it in s['items'] %}
+    <article class="svc__item rv{% if it.img %} has-img{% endif %}{% if it.feature %} is-feature{% endif %}">
+      {% if it.img %}<div class="svc__img{% if it.duo %} duo{% endif %}"><img loading="lazy" src="{{ it.img }}" alt="{{ it.alt or it.name }}"></div>{% endif %}
+      <div class="svc__body">
+        {% if it.tag %}<span class="tag">{{ it.tag }}</span>{% endif %}
+        <h3>{{ it.name }}</h3>
+        {% if it.desc %}<p>{{ it.desc }}</p>{% endif %}
+        {% if it.price %}<p class="price">{{ it.price }}</p>{% endif %}
+        {% if it.quote %}<p class="q">"{{ it.quote }}"<cite>{{ it.cite }}</cite></p>{% endif %}
+      </div>
+    </article>
+  {% endfor %}
+  </div>
+  {% if s.perks %}<ul class="perks rv">{% for p in s.perks %}<li>{{ p }}</li>{% endfor %}</ul>{% endif %}
+</section>
+{% elif s.type == 'menu' %}
+<section class="sec sec--alt" id="{{ s.id }}">
+  <header class="sec__head"><p class="eyebrow">{{ s.eyebrow }}</p><h2 class="rv">{{ s.title }} {% if s.title_dim %}<span class="dim">{{ s.title_dim }}</span>{% endif %}</h2>{% if s.lede %}<p class="sec__lede">{{ s.lede }}</p>{% endif %}</header>
+  <div class="menu">
+    {% if s.categories|length > 1 %}<div class="menu__tabs" role="tablist">{% for c in s.categories %}<button role="tab" aria-selected="{{ 'true' if loop.first else 'false' }}" data-tab="{{ loop.index0 }}">{{ c.name }}</button>{% endfor %}</div>{% endif %}
+    {% for c in s.categories %}
+    <div class="menu__panel" data-panel="{{ loop.index0 }}" {% if not loop.first %}hidden{% endif %}>
+      {% for it in c['items'] %}<div class="menu__row"><div><b>{{ it.name }}</b>{% if it.desc %}<small>{{ it.desc }}</small>{% endif %}</div><i></i><span>{{ it.price or '' }}</span></div>{% endfor %}
+    </div>
+    {% endfor %}
+    {% if s.note %}<p class="menu__note">{{ s.note }}</p>{% endif %}
+  </div>
+</section>
+{% elif s.type == 'crowd' and crowd %}
+<section class="sec sec--alt" id="{{ s.id }}">
+  <div class="crowd">
+    <header><p class="eyebrow">{{ s.eyebrow }}</p><h2 class="rv">{{ s.title }} {% if s.title_dim %}<span class="dim">{{ s.title_dim }}</span>{% endif %}</h2><p class="crowd__sum" data-crowd-sum>Typical busyness by hour, from Google Maps.</p></header>
+    <div class="crowd__chart rv"><div class="days" role="tablist" aria-label="Day of week" data-days></div><div class="bars" data-bars role="img" aria-label="Busyness chart"></div>
+      <div class="axis" aria-hidden="true"><span>12 AM</span><span>6 AM</span><span>12 PM</span><span>6 PM</span><span>11 PM</span></div>
+      <p class="legend"><span class="k k--now"></span>Now <span class="k k--quiet"></span>Quiet <span class="k k--busy"></span>Busy</p></div>
+  </div>
+</section>
+{% elif s.type == 'team' %}
+<section class="sec" id="{{ s.id }}">
+  <header class="sec__head"><p class="eyebrow">{{ s.eyebrow }}</p><h2 class="rv">{{ s.title }} {% if s.title_dim %}<span class="dim">{{ s.title_dim }}</span>{% endif %}</h2></header>
+  <div class="team">{% for m in s['items'] %}
+    <article class="person rv{% if not m.quote %} person--sm{% endif %}">{% if m.count %}<p class="person__count"><b>{{ m.count }}</b> reviews mention {{ m.short or m.name }}</p>{% endif %}<h3>{{ m.name }}</h3>{% if m.role %}<p class="person__role">{{ m.role }}</p>{% endif %}{% if m.quote %}<blockquote>"{{ m.quote }}"</blockquote><cite>{{ m.cite }}</cite>{% endif %}</article>
+  {% endfor %}</div>
+</section>
+{% elif s.type == 'gallery' %}
+<section class="gallery" aria-label="Photos">
+  <div class="gallery__track">{% for g in s.images %}<figure class="{% if g.duo %}duo{% endif %}{% if g.wide %} wide{% endif %}"><img loading="lazy" src="{{ g.src }}" alt="{{ g.alt }}"></figure>{% endfor %}</div>
+  <p class="gallery__cap">{{ s.caption or 'Photos from the ' ~ b.name ~ ' Google Maps listing' }}</p>
+</section>
+{% elif s.type == 'reviews' %}
+<section class="sec sec--light" id="{{ s.id }}">
+  <div class="rev">
+    <aside class="rev__score rv"><p class="eyebrow">Google reviews</p><p class="big">{{ b.rating }}</p><p class="stars stars--lg" aria-hidden="true">★★★★★</p><p class="muted">{{ b.userRatingCount }} reviews</p>
+      {% if dist %}<ul class="dist" aria-label="Rating breakdown">{% for d in dist %}<li><span>{{ d.stars }}</span><i style="--w:{{ d.pct }}%"></i><em>{{ d.n }}</em></li>{% endfor %}</ul>{% endif %}
+      <a class="link" href="{{ b.maps_url }}" target="_blank" rel="noopener">Read all reviews on Google →</a></aside>
+    <div class="rev__list">{% for r in reviews %}
+      <blockquote class="r rv"><p>"{{ r.text }}"</p><footer><b>{{ r.author }}</b><span>{{ '★' * r.rating }} · {{ r.when }}</span></footer>{% if r.owner_reply %}<p class="reply"><b>Owner replied:</b> {{ r.owner_reply }}</p>{% endif %}</blockquote>
+    {% endfor %}</div>
+  </div>
+</section>
+{% elif s.type == 'asks' %}
+<section class="offer" id="{{ s.id }}"><div class="offer__in">
+  <p class="eyebrow eyebrow--on">{{ s.eyebrow }}</p><h2 class="rv">{{ s.title }}</h2><p class="offer__lede">{{ s.lede }}</p>
+  <div class="asks">{% for a in s.asks %}<a href="{{ ask_href(a) }}" {% if cta.ext %}target="_blank" rel="noopener"{% endif %}>{{ a }}<span>→</span></a>{% endfor %}</div>
+  {% if s.quote %}<p class="offer__quote">"{{ s.quote }}"<cite>{{ s.cite }}</cite></p>{% endif %}
+</div></section>
+{% elif s.type == 'faq' %}
+<section class="sec" id="{{ s.id }}">
+  <header class="sec__head"><p class="eyebrow">{{ s.eyebrow }}</p><h2 class="rv">{{ s.title }}</h2></header>
+  <div class="faq">{% for f in s['items'] %}<details class="rv"><summary>{{ f.q }}</summary><p>{{ f.a }}</p></details>{% endfor %}</div>
+</section>
+{% elif s.type == 'visit' %}
+<section class="sec" id="{{ s.id }}">
+  <header class="sec__head"><p class="eyebrow">{{ s.eyebrow or 'Find us' }}</p><h2 class="rv">{{ s.title }} {% if s.title_dim %}<span class="dim">{{ s.title_dim }}</span>{% endif %}</h2></header>
+  <div class="visit">
+    <div class="visit__map rv">{% if b.location %}<iframe title="Map showing {{ b.name }}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q={{ b.location.lat }},{{ b.location.lng }}&z=17&output=embed"></iframe>{% endif %}</div>
+    <div class="visit__info rv">
+      <div><h3>Address</h3><p>{{ address_html|safe }}{% if s.landmark %}<br><span class="dim">{{ s.landmark }}</span>{% endif %}</p><a class="link" href="{{ b.maps_url }}" target="_blank" rel="noopener">Get directions →</a></div>
+      {% if hours %}<div><h3>Hours</h3><table class="hours" data-hours>{% for h in hours %}<tr data-d="{{ h.d }}"><th>{{ h.day }}</th><td>{{ h.text }}</td></tr>{% endfor %}</table></div>{% endif %}
+      <div><h3>Contact</h3><p><a href="tel:{{ phone_tel }}">{{ b.phone }}</a>{% if cta.wa %} <span class="dim">(call or WhatsApp)</span>{% endif %}</p>
+        {% if socials %}<div class="socials">{% for so in socials %}<a href="{{ so.url }}" target="_blank" rel="noopener" aria-label="{{ so.label }}">{{ so.icon|safe }}</a>{% endfor %}</div>{% endif %}</div>
+    </div>
+  </div>
+</section>
+{% endif %}
+{% endfor %}
+</main>
+
+<footer class="foot">
+  <p class="foot__word" aria-hidden="true">{{ brand.footer_word }}</p>
+  <div class="foot__row">
+    <span>{{ b.name }} · {{ b.area }}{% if hero.ar_name %} · <span lang="ar" dir="rtl">{{ hero.ar_name }}</span>{% endif %}</span>
+    {% if socials %}<span class="foot__social">{% for so in socials %}<a href="{{ so.url }}" target="_blank" rel="noopener">{{ so.label }}</a>{% endfor %}</span>{% endif %}
+    <span class="dim">Preview concept prepared for {{ b.name }}. Photos and reviews from the {{ b.name }} Google Maps listing.</span>
+  </div>
+</footer>
+{% if cta.wa %}<a class="wa-fab" href="{{ wa_base }}?text={{ ('Hi ' ~ b.name)|urlencode }}" target="_blank" rel="noopener" aria-label="Message {{ b.name }} on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="{{ wa_path }}"/></svg></a>{% endif %}
+<script>window.SITE={{ site_js|safe }};</script>
+<script src="main.js" defer></script>
+</body>
+</html>
