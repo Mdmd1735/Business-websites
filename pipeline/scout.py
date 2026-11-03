@@ -4,7 +4,8 @@
 Stdlib only. Needs GOOGLE_MAPS_API_KEY (Places API (New) enabled).
 
   python3 pipeline/scout.py discover --cats gym,restaurant --areas "Al Quoz, Dubai" "Al Nahda, Sharjah"
-  python3 pipeline/scout.py enrich --top 10          # details + reviews + photos + old-site scrape
+  python3 pipeline/scout.py apify --top 10           # Apify Maps scraper: reviews, owner replies, photos, popular times (preferred)
+  python3 pipeline/scout.py enrich --top 10          # Places-API-only enrichment (needs a full, non-demo key)
   python3 pipeline/scout.py leads                    # rebuild LEADS.md / leads.csv
 
 Data lands in data/candidates.json and data/businesses/<slug>.json;
@@ -129,6 +130,7 @@ def buy_likelihood(b):
     x += 0.5 if b.get("phone", "").startswith("+971 5") else 0      # mobile = reachable on WhatsApp
     x += 0.5 if b["site_audit"].get("emails") else 0
     x -= 1.0 if (b.get("rating") or 0) < 4.0 else 0
+    x += 1.0 if b.get("owner_reply_rate", 0) >= 0.5 else 0      # owner actively manages their Google profile
     return max(1, min(10, round(x)))
 
 
@@ -144,7 +146,8 @@ def discover(args):
                 res = places("places:searchText", body, SEARCH_FIELDS); pages += 1
                 for p in res.get("places", []):
                     if p["id"] in cands or p.get("businessStatus") != "OPERATIONAL": continue
-                    if p.get("userRatingCount", 0) < args.min_reviews or len(p.get("photos", [])) < 5: continue
+                    if p.get("userRatingCount", 0) < args.min_reviews: continue
+                    if "photos" in p and len(p["photos"]) < 5: continue  # some keys (demo) never return photos
                     host = urllib.parse.urlparse(p.get("websiteUri", "")).netloc
                     pre = "none" if not host else "social" if any(s in host for s in SOCIAL_HOSTS) else "unknown"
                     p["photos"] = p.get("photos", [])[:10]
@@ -205,6 +208,80 @@ def enrich(args):
     leads(args)
 
 
+def _apify(actor, payload, timeout=560):
+    tok = os.environ.get("APIFY_TOKEN") or sys.exit("Set APIFY_TOKEN first.")
+    url = f"https://api.apify.com/v2/acts/{actor}/run-sync-get-dataset-items?token={tok}&timeout={timeout}"
+    return _req(url, payload, timeout=timeout + 30)
+
+
+def _save_img(url, path):
+    blob, _, _ = _req(url, raw=True, timeout=30)
+    try:
+        from PIL import Image, ImageOps; import io
+        im = ImageOps.exif_transpose(Image.open(io.BytesIO(blob))).convert("RGB")
+        im.thumbnail((1600, 1600)); im.save(path, quality=72, optimize=True, progressive=True)
+        return im.size
+    except ImportError:
+        path.write_bytes(blob); return None
+
+
+def apify_enrich(args):
+    """Enrich top candidates through Apify's Google Maps scraper: reviews + owner replies, photos,
+    popular times, owner description, amenities. Works with any Places key (demo keys return no photos/reviews).
+    Cost: roughly $0.02-0.03 per business with 40 reviews + 30 photos."""
+    cands = json.loads((DATA / "candidates.json").read_text())
+    done = {p.stem for p in (DATA / "businesses").glob("*.json")}
+    picked = []
+    for c in sorted(cands.values(), key=lambda c: -c["score"]):
+        if len(picked) >= args.top: break
+        slug = slugify(c["displayName"]["text"])
+        if slug in done or c.get("rejected"): continue
+        audit = audit_site(c.get("websiteUri", ""))
+        score = worth_score(c, c["category_weight"], audit["status"])
+        if audit["status"] == "modern" or score < args.min_score:
+            c["rejected"] = f"{audit['status']} site / score {score}"; print("skip", slug, c["rejected"]); continue
+        picked.append((c, slug, audit, score))
+    (DATA / "candidates.json").write_text(json.dumps(cands, indent=1, ensure_ascii=False))
+    if not picked: return print("nothing to enrich")
+    print(f"Apify: scraping {len(picked)} places…")
+    items = _apify("compass~crawler-google-places", {
+        "startUrls": [{"url": c["googleMapsUri"]} for c, *_ in picked], "maxImages": args.photos, "maxReviews": 40,
+        "reviewsSort": "mostRelevant", "language": "en", "maxCrawledPlacesPerSearch": 1, "includeWebResults": False})
+    by_id = {it.get("placeId"): it for it in items}
+    for c, slug, audit, score in picked:
+        d = by_id.get(c["id"])
+        if not d: print("  no apify result for", slug); continue
+        img_dir = SITES / slug / "img" / "raw"; img_dir.mkdir(parents=True, exist_ok=True)
+        photos = []
+        srcs = [("owner", re.sub(r"=w\d+-h\d+.*$", "=w1600", u)) for u in d.get("imageUrls") or []]
+        srcs += [("review", u) for r in d.get("reviews") or [] for u in r.get("reviewImageUrls") or []]
+        for i, (kind, u) in enumerate(srcs):
+            fn = img_dir / f"{kind}-{i:02d}.jpg"
+            try: photos.append({"file": str(fn.relative_to(SITES / slug)), "source": kind, "size": _save_img(u, fn)})
+            except Exception as e: print("  photo fail", str(e)[:60])
+        revs = d.get("reviews") or []
+        biz = {
+            "slug": slug, "name": d.get("title") or c["displayName"]["text"], "place_id": c["id"], "category": c["category"],
+            "category_weight": c["category_weight"], "area": c["area"], "address": d.get("address"), "building": d.get("locatedIn"),
+            "location": d.get("location"), "phone": c.get("internationalPhoneNumber", d.get("phone", "")),
+            "rating": d.get("totalScore"), "userRatingCount": d.get("reviewsCount", 0), "rating_distribution": d.get("reviewsDistribution"),
+            "maps_url": d.get("url"), "website": c.get("websiteUri", ""), "categories": d.get("categories"),
+            "hours": d.get("openingHours"), "owner_description": d.get("ownerDescription", ""), "amenities": d.get("additionalInfo"),
+            "review_tags": [t.get("title") for t in d.get("reviewsTags") or []], "popular_times": d.get("popularTimesHistogram"),
+            "owner_reply_rate": round(sum(1 for r in revs if r.get("responseFromOwnerText")) / len(revs), 2) if revs else 0,
+            "reviews": [{"author": r.get("name"), "rating": r.get("stars"), "when": r.get("publishAt"),
+                         "text": (r.get("text") or "").replace("<br>", "\n"), "owner_reply": r.get("responseFromOwnerText")} for r in revs],
+            "photos": photos, "site_audit": audit, "worth_score": score, "socials": audit["socials"], "emails": audit["emails"],
+            "todo_manual": ["Pick hero + usable photos from img/raw (Read a contact sheet)", "Search Instagram (verify by phone number)"],
+            "site_status": "scouted", "site_url": f"{SITE_BASE}/{slug}/",
+        }
+        biz["buy_likelihood"] = buy_likelihood(biz)
+        (DATA / "businesses").mkdir(parents=True, exist_ok=True)
+        (DATA / "businesses" / f"{slug}.json").write_text(json.dumps(biz, indent=1, ensure_ascii=False))
+        print(f"OK {slug:40} score={score} buy={biz['buy_likelihood']}/10 photos={len(photos)} reviews={len(revs)} replies={biz['owner_reply_rate']:.0%}")
+    leads(args)
+
+
 def leads(_args=None):
     rows = []
     for f in sorted((DATA / "businesses").glob("*.json")):
@@ -240,5 +317,7 @@ if __name__ == "__main__":
     d.add_argument("--pages", type=int, default=1); d.add_argument("--min-reviews", type=int, default=25)
     e = sub.add_parser("enrich"); e.add_argument("--top", type=int, default=10); e.add_argument("--photos", type=int, default=10)
     e.add_argument("--min-score", type=int, default=60)
+    a2 = sub.add_parser("apify"); a2.add_argument("--top", type=int, default=10); a2.add_argument("--photos", type=int, default=30)
+    a2.add_argument("--min-score", type=int, default=60)
     sub.add_parser("leads")
-    a = ap.parse_args(); {"discover": discover, "enrich": enrich, "leads": leads}[a.cmd](a)
+    a = ap.parse_args(); {"discover": discover, "enrich": enrich, "apify": apify_enrich, "leads": leads}[a.cmd](a)

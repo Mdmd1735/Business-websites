@@ -14,8 +14,10 @@ const slug = process.argv[2], out = process.argv[3] || '.';
     await p.goto(`http://localhost:8765/${slug}/`, { waitUntil: 'domcontentloaded' });
     await p.waitForTimeout(1500);
     await p.screenshot({ path: `${out}/${slug}-${name}-hero.png` });
-    await p.evaluate(() => document.querySelectorAll('.reveal').forEach(e => e.classList.add('is-in')));
-    await p.waitForTimeout(1200);
+    // scroll through so lazy images + scroll animations fire, then force any reveal classes
+    await p.evaluate(async () => { for (let y = 0; y < document.body.scrollHeight; y += innerHeight * .6) { scrollTo(0, y); await new Promise(r => setTimeout(r, 120)); } scrollTo(0, 0); });
+    await p.evaluate(() => document.querySelectorAll('.reveal,.rv').forEach(e => e.classList.add('is-in', 'on')));
+    await p.waitForTimeout(1500);
     await p.screenshot({ path: `${out}/${slug}-${name}-full.png`, fullPage: true });
     const res = await p.evaluate(() => ({
       overflowX: document.documentElement.scrollWidth - innerWidth,

@@ -1,0 +1,1151 @@
+{
+ "slug": "champions-gym-karama",
+ "name": "Champions Gym",
+ "place_id": "ChIJ3WPsyNdCXz4RSltBqu1Huok",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Al Karama, Dubai",
+ "address": "Kuwait St - Al Karama - Dubai - United Arab Emirates",
+ "building": "Al Jafla Building",
+ "location": {
+  "lat": 25.2451008,
+  "lng": 55.3054621
+ },
+ "phone": "+971 50 854 5999",
+ "rating": 4.7,
+ "userRatingCount": 274,
+ "rating_distribution": {
+  "oneStar": 7,
+  "twoStar": 4,
+  "threeStar": 9,
+  "fourStar": 25,
+  "fiveStar": 229
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Champions%20Gym&query_place_id=ChIJ3WPsyNdCXz4RSltBqu1Huok",
+ "website": "",
+ "categories": [
+  "Gym",
+  "Aerobics instructor",
+  "Sauna",
+  "Swimming pool"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "4 to 10 PM"
+  }
+ ],
+ "owner_description": "Champions GYM help people to realize their goals and find their inner strength. We combine the most diverse amenities and most innovate training technique.\nService offer :\nGym\nSwimming pool\nKick boxing\nBoxing\nKarate\nZumba",
+ "amenities": {
+  "Service options": [
+   {
+    "Online classes": true
+   },
+   {
+    "Outdoor services": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Assistive hearing loop": false
+   },
+   {
+    "Wheelchair accessible entrance": false
+   },
+   {
+    "Wheelchair accessible seating": false
+   }
+  ],
+  "Offerings": [
+   {
+    "Sauna": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Swimming pool": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   },
+   {
+    "Restaurant": false
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "free pre workout",
+  "trainers",
+  "swimming pool",
+  "swimming pool access",
+  "cardio class",
+  "diet plan",
+  "free ore workout",
+  "coach lince",
+  "sauna",
+  "free training"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 0,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 86
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 0,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 73
+   }
+  ],
+  "We": [
+   {
+    "hour": 0,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 78
+   }
+  ],
+  "Th": [
+   {
+    "hour": 0,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 98
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 72
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 0,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 66
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 38
+   }
+  ]
+ },
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "Shahab Hafeez",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amazing Experience at Champions Gym 💪🏆\n\nI’m really happy with my experience at Champions Gym. The facility is excellent, the environment is motivating and the overall service is professional and welcoming.\n\nA special thanks to the trainers for their dedication, guidance and continuous motivation. They genuinely care about helping members achieve their fitness goals and always provide the right support and encouragement.\n\nHighly recommended for anyone looking for a professional, friendly and motivating gym.\nKeep up the great work, Champions Gym! 👏",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "Mohammed Shihas",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nAmazing gym with a great atmosphere and excellent equipment. The staff are friendly, supportive, and always helpful. Special thanks to Trainer Lince, who is very professional, friendly, and knowledgeable. He explains every exercise clearly and makes sure the form and technique are correct. Really appreciate his guidance and motivation throughout the workouts.\n\nHighly recommended gym for anyone looking for a positive and professional fitness environment! 💪🔥",
+   "owner_reply": "Thank you "
+  },
+  {
+   "author": "Shanu Hakkim",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I’ve had a great experience training with Lince at Champion Gym. He is highly professional, knowledgeable, and genuinely committed to helping clients achieve their fitness goals. His workout plans are well-structured, challenging, and tailored to individual needs, which makes every session effective and engaging.\n\nLince is also very motivating and supportive, always pushing you to do your best while ensuring proper form and safety. His positive attitude and dedication make a big difference, especially on days when motivation is low.\n\nI highly recommend Lince to anyone looking for a skilled and reliable trainer at Champion Gym. Training with him has been both enjoyable and rewarding.",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "Maneesh Vadukkumchery",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Champion Gym - One of the Best Gyms in Karama\n⭐⭐⭐⭐⭐\n\nChampion Gym is truly one of the best gyms in Karama, offering top-notch training at an affordable rate. With standard equipment and knowledgeable trainers, it's a great place for anyone looking to stay fit. Their evening aerobics class is ideal for those targeting weight loss. Plus, they offer free WiFi and have an accessories store for your workout essentials. Highly recommended for anyone seeking a quality gym experience without breaking the bank!",
+   "owner_reply": "Thank you maneesh wish you all the best 💪🏽"
+  },
+  {
+   "author": "Roshin Reji",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "\"Absolutely loved my experience at Champions Gym! As a beginner, I felt welcomed and supported by the friendly staff and fellow gym-goers. The equipment was top-notch and easy to use, plus the trainers were always available for guidance. Clean facilities and a positive atmosphere made each workout enjoyable. Can't wait to keep progressing on my fitness journey here!\"",
+   "owner_reply": "Thank you for the feed back .. wish you all the best <br>"
+  },
+  {
+   "author": "Fathima KN",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Champions Gym truly lives up to its name. The gym is well equipped, clean, and has a motivating atmosphere that keeps you going. The staff is welcoming and always ready to assist, making the overall experience excellent.\n\nA special thanks to Trainer Aryan – he’s incredibly knowledgeable, supportive, and pushes you to do your best while making sure you feel comfortable and confident. His sessions are well structured and truly effective.\n\nAlso, this gym is great for girls too. It’s a safe, friendly, and comfortable space, especially for those just starting their fitness journey.\n\nHighly recommend Champions Gym for anyone serious about getting fit in a supportive and professional environment.",
+   "owner_reply": "Thank you so much for your valuable feedback 🥰🥰🙏"
+  },
+  {
+   "author": "Lovewarriorin_pain",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Lince powereeezh amazing gym super trainers coach Rashid and coach aryan",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "Aryan Binu",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "Champions Gym an incredible atmosphere with high energy and a friendly vibe. The staff is exceptional, always supportive and knowledgeable, making every workout session enjoyable and motivating. Highly recommend for anyone seeking a good fitness experience.",
+   "owner_reply": "Thank you for the comments"
+  },
+  {
+   "author": "Muhsin",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Its a nice gym. Ther have an trainer mr.lince, he is very nice.",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "shaheed ali",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Karama’s best gym!! We got the best trainers here!!!!",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "junoj a",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "This gym might be dated, and its equipment traditional, yet the ambiance here is unparalleled.",
+   "owner_reply": "🥰🥰🙏"
+  },
+  {
+   "author": "Amith Raj",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing gym with well-trained and friendly trainers. The vibe keeps you motivated. Great place to get fit!",
+   "owner_reply": "Thanks bro keep the vibe up 😊🙏"
+  },
+  {
+   "author": "G K 400",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Very good gym . Friendly trainer's  especially coach lince very funny but danger guy.  Super set 👌👌👌👌👍💪💪💪",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "Rahul Rk",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great gym! Clean, well-equipped, and friendly staff. Perfect place to stay consistent with workouts. 💪",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "Arshid Ashique",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent Trainer and one of best gym in karama",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "Dagim Fentaye",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "This gym very good  coach lince rashi 😘😘😘😘 aerobics class very good",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "Subash chandra palai",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I am 3 days join the GYM   It’s very nyc and  happy 😊",
+   "owner_reply": "🙏🥰🫂"
+  },
+  {
+   "author": "Ajul Aju",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "lince is a superhuman so good at his work",
+   "owner_reply": "🥰👌💪🏽"
+  },
+  {
+   "author": "Avishka Nirmal",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Love this gym! awesome trainers who really know their stuff. The energy here is great, and you can feel the positive vibes all around. Plus, their prices are crazy affordable can't beat it!",
+   "owner_reply": "Thank bro stay cool 😎 "
+  },
+  {
+   "author": "Muhammed shameel CP",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "\"Best gym in town! Friendly staff, clean facilities, and top-notch equipment. Highly recommend!\" 👍\n\n100% professional",
+   "owner_reply": "Thank you 🥰🙏"
+  },
+  {
+   "author": "Shawn",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Really nice gym. Never faced any sort of trouble or lack of help even as a beginner. The trainers are really good and are very knowledgeable. The ambience is also very nice.",
+   "owner_reply": "Thank you 🙏 <br>Wish you all the best for your fitness journey "
+  },
+  {
+   "author": "Bijesh Mk",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Biju chetta thank you for your diet plans it really helped me a lot\n\nHighly Recommended!\nChampion Gym has excellent facilities and a motivating atmosphere. A special thanks to Trainer Rashi  for his continuous support and guidance. He is extremely knowledgeable, professional, and always pushes you to reach your best. His personalized training plans and positive attitude make every workout effective and enjoyable. Great experience overall!",
+   "owner_reply": "Wish you all the best "
+  },
+  {
+   "author": "Manogna M.L.",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I came across Champions Gym on Google when looking for gyms in Karama. This gym, tucked away in a quiet corner, above Viva Supermarket is a fun and bustling space for your workouts. The gym fee is nominal and they have good offers for longer-term memberships. The gym is well maintained and has all the essential equipment, a sauna, swimming pool, and they also conduct classes like aerobics, yoga, and boxing. The gym is run by Mr Binu Dasan who has won several awards for bodybuilding and has witnessed many transformation stories. The Trainers—Aryan and Rashid—are friendly and take proper care in recommending workout regimes based on your body types and fitness levels. They conduct fun cardio sessions and also guide you with your regular workouts. Personal training with any of them would be a bonus as many people have achieved impressive results. If you’re looking for a gym around Karama, I would happily recommend Champions!",
+   "owner_reply": "Thank you so much for your valuable comments and recommendation much appreciated 🙏"
+  },
+  {
+   "author": "Gunehgar Show",
+   "rating": 4,
+   "when": "3 years ago",
+   "text": "Champions Gym is The one and only affordable gym in Dubai. The gym claims that If you find a lower price than us with our offered facilities, your gym for free. A team of expert trainers is here to guide and support you. Get professional tips on the training scheme, intensity, and healthy nutrition based on your individual abilities and preferences. Regular membership starts from AED 150.",
+   "owner_reply": "Thank you "
+  },
+  {
+   "author": "asad Ihzaan",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amazing gym super ttainee",
+   "owner_reply": "Thank you "
+  },
+  {
+   "author": "Sumeesh Satheeshan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Thank you radhid!! Bcoz you my transmission happened. I loose more than 10kg!!",
+   "owner_reply": "Thank you Sumesh and wish you all the best "
+  },
+  {
+   "author": "Apple Solutions",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "the trainer are amazing, good enviroment to workout especially Coach Aryan who made my crazy fat loss transformation. and Sharuk my cardio class trainer thanks to both of them i am fit and heatlty 😄",
+   "owner_reply": "Thank you buddy for kind review 👍"
+  },
+  {
+   "author": "Manoj C Thomas",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best gym in Karama! Super friendly, experienced, INSPIRING & ENCOURAGING staff with Topnotch equipments. The vibe there is always awesome.",
+   "owner_reply": "Thank you Mr Manoj for the humble support 🙏"
+  },
+  {
+   "author": "Felix Winny",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Trainers are very friendly and polite and overall a good gym",
+   "owner_reply": "Thank you Felix 💪🏽"
+  },
+  {
+   "author": "Willy Varghese",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "It's a classic old school type of a gym with free weights and some modern machines. That's all you need to build a good physique.",
+   "owner_reply": "Thank you Willy wish you all the best "
+  },
+  {
+   "author": "Shanavas",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amazing amazing vibes amazing trainers",
+   "owner_reply": "Thank you 💪🏽"
+  },
+  {
+   "author": "Rahul Prasanth",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "One of the best gym in karama.\nGood friendly trainers you can find in UAE.\nMany offers and discounts are available, kindly join as soon as possible.",
+   "owner_reply": "Thank you for comments ..."
+  },
+  {
+   "author": "futy room",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Gym is very friendly and good vibe.. especially the coach Aryan very helpful..come on guys enjoy and hit the gym",
+   "owner_reply": "Thank you "
+  },
+  {
+   "author": "Jason Francis",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "One the best gym in town, Good friendly trainer especially Aryan. He is one of the best trainer i hv ever met. Very kind and helpful",
+   "owner_reply": "Thank you for comments and rating ... Master Aryan is one of our fine Trainer"
+  },
+  {
+   "author": "Mishal Shaji",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Looking for a nice gym….. like me i ended up at world of champions gym and i dont regret a single bit of joining this gym…. Quality machines and my trainer Sinish Menon he will give you the results you want… come try and thank me later.",
+   "owner_reply": "Thank you "
+  },
+  {
+   "author": "adhnan adhnu",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Good gym and trainers",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "Jerin Joy",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Super gym",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammed Rashid K.P",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "friendly nice gym",
+   "owner_reply": "👌👍💪🏽"
+  },
+  {
+   "author": "Mehfooz Ahmad",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Trainer is very good",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "Praveen Murali",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "Though it's little congested, you will never get time to think about it as you will be completely carried away with the trainers motivational workout drive. More than anything trainers, trainers and trainers are the outstanding part about this Gym.....",
+   "owner_reply": "Thank You very much for an Outstanding Rating. Hope to See you Soon."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/bikes.jpg",
+   "source": "review"
+  },
+  {
+   "file": "img/cardio.jpg",
+   "source": "review"
+  },
+  {
+   "file": "img/class-floor.jpg",
+   "source": "review"
+  },
+  {
+   "file": "img/floor-bench.jpg",
+   "source": "review"
+  },
+  {
+   "file": "img/floor-racks.jpg",
+   "source": "review"
+  },
+  {
+   "file": "img/hero-athlete.jpg",
+   "source": "owner"
+  },
+  {
+   "file": "img/logo-sticker.jpg",
+   "source": "review"
+  },
+  {
+   "file": "img/machines.jpg",
+   "source": "review"
+  },
+  {
+   "file": "img/member-flex.jpg",
+   "source": "review"
+  },
+  {
+   "file": "img/members-trio.jpg",
+   "source": "review"
+  },
+  {
+   "file": "img/pool-day.jpg",
+   "source": "owner"
+  },
+  {
+   "file": "img/pool-night.jpg",
+   "source": "owner"
+  }
+ ],
+ "site_audit": {
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": []
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/champions-gym-karama/",
+ "notes": "No website at all despite 274 reviews (4.7). Owner replied to 39 of the last 40 reviews, so they care about their online image. Pool, sauna and fight sports are differentiators no competitor page shows. No Instagram found. Pitch on WhatsApp with the live 'best time to train' chart and the coaches section.",
+ "buy_likelihood": 8
+}
