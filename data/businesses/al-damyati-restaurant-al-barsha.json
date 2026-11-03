@@ -1,0 +1,1978 @@
+{
+ "slug": "al-damyati-restaurant-al-barsha",
+ "name": "Al Damyati Restaurant Al Barsha",
+ "place_id": "ChIJBeCnBABrXz4RoT49kNfDaow",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Al Barsha, Dubai",
+ "address": "456R+VMM - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.1122074,
+  "lng": 55.191662
+ },
+ "phone": "+971 50 120 6363",
+ "rating": 4.7,
+ "userRatingCount": 519,
+ "rating_distribution": {
+  "oneStar": 20,
+  "twoStar": 4,
+  "threeStar": 17,
+  "fourStar": 43,
+  "fiveStar": 435
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Damyati%20Restaurant%20Al%20Barsha&query_place_id=ChIJBeCnBABrXz4RoT49kNfDaow",
+ "website": "https://www.facebook.com/share/1Jdi8H1Z3G/?mibextid=qi2Omg",
+ "categories": [
+  "Egyptian restaurant",
+  "Arab restaurant",
+  "Barbecue restaurant",
+  "Falafel restaurant",
+  "Fine dining restaurant",
+  "Mutton barbecue restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "Open 24 hours"
+  }
+ ],
+ "owner_description": "A Timeless Taste of Tradition: Celebrating 50+ Years of Grills, Hummus, and Falafel",
+ "amenities": {
+  "Service options": [
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Drive-through": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great tea selection": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Happy hour food": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Private dining room": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegan options": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Quiet": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Family-friendly": true
+   },
+   {
+    "Groups": true
+   },
+   {
+    "Tourists": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   },
+   {
+    "High chairs": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free street parking": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "lamb chops",
+  "hummus",
+  "authentic afghani food",
+  "karahi",
+  "lentil soup",
+  "kebabs",
+  "complimentary soup",
+  "complimentary salad",
+  "complimentary tea",
+  "karama branch"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.12,
+ "reviews": [
+  {
+   "author": "EH H",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Very clean restaurant, and the lamb chops taste so good!!!!! Ordering 1kg for 2-3adults is enough. Hot breads are served unlimitedly, but hummus is served only one time.",
+   "owner_reply": null
+  },
+  {
+   "author": "Insha",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I visited Al Damyati and came away impressed by both the quality and generosity of the experience. From the moment we sat down, the table was quickly filled with complimentary hummus and fresh salad, which set the tone for what was to come.\n\nThe meal began with lentil soup, and it was exceptional. Rich, comforting, and full of depth, it easily stood out as one of the best I have had. It felt like a dish that had been made with care and tradition.\n\nThe highlight, however, was the lamb chops. Al Damyati is known for them, and it is clear why. They were cooked perfectly, tender, juicy, and packed with flavour. Easily among the best lamb chops I have tried in Dubai.\n\nWe also ordered the mixed grill, which did not disappoint. The meat was succulent, well seasoned, and cooked just right. Every bite felt satisfying, and the portion sizes were more than generous.\n\nOverall, a reliable spot for hearty, flavourful food. You leave full, satisfied, and already thinking about your next visit.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed Ashraf",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "The food at Al Damyati is super authentic and delicious literally everything you need from Egyptian cuisine is right here.\nSpecial thanks to Mr. Ahmed for the amazing hospitality and great treatment. They really care about the small details and offer things you just don't see in other restaurants. High quality, warm atmosphere, and great service. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Raif Shaikh",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "This restaurant used to be my go to place for lamb chops and kabab when I was in my teen which is nearly more than 15 years ago and in the middle their taste had changed but today when we tried it it brought back memories of my childhood.\n\nThe lamb chops are toooo good and their kabab are still the same soft juicy and just melts in your mouth. Arayesh and falafel too. Will definitely be returning and thank you for bringing back the same taste.",
+   "owner_reply": null
+  },
+  {
+   "author": "Amaad",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "The kebabs here were so juicy and cooked perfectly. The lamb chops were tasty, juicy and charred. Exactly like how they should be. Very reasonable and will 100% be back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Noorah Noorah",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Good place to dine at a decent price; delicious and big serving food. Staff and owner are very accommodating. The best place to dine with friends and family at Al barsha:)",
+   "owner_reply": null
+  },
+  {
+   "author": "rashmi panoli",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Damayati is my favorite Egyptian restaurant and I visit regularly! Their falafel is honestly the best I’ve ever had – perfectly crispy on the outside and soft, flavorful inside. You can really taste the freshness and authentic spices.\n\nThe breads are also amazing – warm, soft, and the perfect match with the falafel and dips. Their complimentary soup is special.\n\nIf you love authentic Egyptian food, this place is a must-visit. Highly recommended! 🇪🇬✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Jacob Slopnicki",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Habibi you must come here and try true Egyptian cuisine! Great hospitality, great food and great value for money. In addition to what we ordered we were offered complimentary free soups, hummus, salads and very nice warm glass of tea at the end. For the minus part the waiters could smile a bit more and the interior is very simple, almost cold. Food on the other hand is very reasonably priced and very tasty. Come here for food - you will not regret, Habibi! Baba ghanong and mutabale was my absolute favourite (smoked eggplant with garlic and tomatoes).",
+   "owner_reply": null
+  },
+  {
+   "author": "Arriz Panopio",
+   "rating": 4,
+   "when": "10 months ago",
+   "text": "Super love their chicken pulao! I gisit their establishment at least once a week and they never disappoint with their rice. I also like the lentil soup and the tea that they give customers. Everyone is usually nice and warm and welcoming whenever I visit - even if I usually just go for take out.",
+   "owner_reply": null
+  },
+  {
+   "author": "András Łukasz Chabin",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have already been to Al Damyati express at the airport and always loved their lamb chops, which I believe is the best I have ever tried. I was super happy when I realized that they opened a new place in Barsha.\n\nThe food and the prices are the same as in the other locations, but the restaurant is new and much nicer than the express one. You can choose between table sitting or carpets in a box. The waiter was super nice and helpful. Can't wait to go back and try out their mixed grill options.\n\nLentil soup, hummus and salad are included, we paid 90-100 AED for the lamp chops, aubergine based food and falafel (including the tip).\n\nI would definitely recommend",
+   "owner_reply": "Thank you very much for your lovely words and your feedback.we can't wait to see you soon again . we are So proud hearing this lovely words 🙏"
+  },
+  {
+   "author": "Amr Heikal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Let me tell you something clearly. You can only eat the best lamb chops in Dubai at Al Damyati. Period.  I’ve been a loyal fan since 2010 and their new Al Barsha branch just made life easier for me. It’s closer to home, way more polished than the Karama one, and still keeps the same great food and friendly prices.\n\nFinding it on Google was a nightmare though. The search kept showing the two other branches but not this one. Turns out this place used to be Afghan Pallow Palace. Same spot, totally different vibe now. This new branch blows the Karama location out of the water. Everything looks so much nicer. The furniture, the utensils, even got a private dining room if you want it. You can sit on the floor in some dedicated corner areas too. Still the same incredible food but packaged way better. An updated Al Damyati vibe and a few Afghan dishes have been added to the menu like Bukhari rice and fresh Afghani bread. Good thing, because both are amazing.\n\nWe were a party of 4. Right after we sat, the feast began.They started us with complimentary lentil soup that scored a solid 20/10 in my book. Reminded me of my grandmother's soup back in the cold winters of Alexandria. I could honestly come back just for this soup. Then came fresh falafel, hummus, tahini, garlic sauce, spicy green chili sauce, and a nice side salad. What a spread, all complimentary, all tasty. We ordered 2 kilos of their signature lamb chops, 200 AED per kilo. That’s my go-to, and it never disappoints. Always juicy, always full of flavor. We added Egyptian kofta for 60 AED (9/10), one Arayess with minced meat (10/10), Alexandrian liver (8/10), and a plate of fried eggplant that wasn’t even on the menu, but they still made it for me (10/10). One of the staff offered us a complimentary Bukhari rice, since   we're regulars at Karama (normally 15 AED). That rice was cooked the Afghani way with carrots and raisins. Beautiful texture, perfect balance of sweet and savory (10/10). When we ordered tea we were surprised that it was not included in the bill; it was also offered to us as complimentary. I can’t thank enough the team of Al Damyati for their generosity and kindness.\n\nBefore leaving as usual, I grabbed my usual Egyptian foul to go. I freeze these boxes at home and pull one out whenever I need comfort food, an easy meal and it never fails me.\n\nThe service here is top-notch. The team went above and beyond to make sure we enjoyed everything. They are super friendly and welcoming. Best part? You can eat at Al Damyati for 15 AED or splurge for 200 AED. Sandwiches run 5 to 8 AED. Vegetarian dishes 10 to 40 AED. Grill items 20 to 50 AED.\n\nHaving my favorite comfort spot so much closer to home now makes me really happy. I'll definitely be coming here way more often. Al Damyati is deffintely a  Dubai icon and I highly highly recommend it.",
+   "owner_reply": "Truly we can't find the words to describe how much we are happy to see this wonderful words you left here and since your day first here we so grateful to every time you come back it's really been a pleasure for us serving you as itll always be so we really appreciate and thankfully for every visit you've been in our restaurant and glad that you are happy with us nearby you.thank you very much."
+  },
+  {
+   "author": "Syed Ali",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Food was plentiful and tasty. There were only a handful of customers at the time so we got very attentive service.\nComplimentary starters and a black tea to end the meal was a great gesture.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahsun Jilani",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "AMAZING chops, falafel, and hummus.\n\nI tried a chicken kabab once and it was great too!\n\nIn this location u get great service with warm soup, hot bread as well.\n\nspacious, lots of sitting area, and plentiful traffic.  Same quality as the Karama location minus the traffic and parking headaches.",
+   "owner_reply": null
+  },
+  {
+   "author": "Chris S",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The was absolutely delicious! 😋🤍 The lamb chops 😋were incredibly tender, juicy, and perfectly seasoned. The mixed grill was cooked to perfection with every bite full of flavour, and the arayes were crispy on the outside with a rich, tasty filling inside. Everything tasted fresh, authentic, and satisfying! Don’t forget to order extra bread it’s absolutely amazing! Fresh, warm, and perfect for scooping up every bite with HUMMUS",
+   "owner_reply": null
+  },
+  {
+   "author": "Beth Patulot",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best Egyptian food by far we enjoy it. Food was delicious, helpful staff and friendly, clean ambiance. Definitely coming back here on karama branch. Thanks to Mustapha for serving us.",
+   "owner_reply": null
+  },
+  {
+   "author": "Moon",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\nThe food here is really amazing! Very, very good taste and excellent service. I really love it — everything was fresh and delicious. If you’re looking for good and healthy food, this is definitely a must-visit place!",
+   "owner_reply": null
+  },
+  {
+   "author": "Virgiele Michelle Correos",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Tasty food, clean environment and attentive staffs. Highly recommended to eat with the family as they have good space. Easy to find parking in front of the restaurant.\n\n*4stars as we dined with 2 babies and they only have 1 highchair.",
+   "owner_reply": null
+  },
+  {
+   "author": "Riyah Altejos",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Craving for kebab 🇦🇪then here it goes, just my neighbor, and they have a great promotion just for 25. You will have to try this chicken, mutton, and beef kebab. I loved it. I never thought that the price for their food was so cheap it looked expensive, but the deal was perfect since the ambiance of their restaurant is so classy inside and out. You must try it and especially the \"KUNAFA\" cream for dessert. ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Ehlyne Beleno",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience! Muhammad Asher provided great service — very friendly, attentive, and professional. The food was excellent, full of flavor and beautifully presented. Highly recommend this restaurant!",
+   "owner_reply": null
+  },
+  {
+   "author": "Haiyu Lin",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Ahmed service very good , we requires any he always help us , food also very delicious",
+   "owner_reply": null
+  },
+  {
+   "author": "M.P. Production",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We visited this restaurant in March 2024. We received a very friendly welcome and got to know the wonderful flavors of Afghan cuisine. The portions are so huge that we couldn't even eat all the food. The prices are very reasonable and the overall atmosphere of the beautiful restaurant will make a wonderful impression on you. I'm really looking forward to take my friends here in March again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Thandi D.",
+   "rating": 4,
+   "when": "a week ago",
+   "text": "usually come at a quieter time. however, the food, service and atmosphere is fantastic! definitely worth the messiness of Al Barsha to get here.",
+   "owner_reply": null
+  },
+  {
+   "author": "Bee",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Damyati has been a childhood favorite.  No matter how many new places come up, no one beats it. They have the best kebabs period.",
+   "owner_reply": null
+  },
+  {
+   "author": "Asif Pesnani",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "Afghan Pallow is conveniently situated in Barsha, near the Novotel hotel. Visiting on a weekday night meant ample parking, although Barsha can sometimes pose a challenge in that regard.\n\nUpon entering, we found the restaurant to be spacious and well-lit. Our group was seated at a generously sized table tucked away in a corner, almost providing a sense of private dining. Acting on a friend's recommendation, we eagerly sampled the offerings, and we were not disappointed:\n\nSoup: 5/5 - Truly remarkable; a delightful surprise.\nLassi: 3.5/5 - Adequate, though I've had better elsewhere.\nSpecial Chicken Karahi: 4/5 - As a fervent enthusiast of Mutton Karahi, this commendation speaks volumes. While enjoyable, I've experienced superior versions elsewhere.\nLamb Chops: 4/5 - Tasty, though not the absolute best I've tasted.\nOther Kebabs: 4/5 - Decently satisfying.\n\nIn terms of value for money, we found it to be quite fair, earning a rating of 4/5.\n\nOverall, I would gladly revisit Afghan Pallow, perhaps exploring different items on the menu. Our departure left us content, with plans already in motion for a return visit.",
+   "owner_reply": null
+  },
+  {
+   "author": "Live the life",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Lamb chops at its best. Kebabs tastes good with Bread with hummus and tahini .\nKunafa could have served hot.",
+   "owner_reply": null
+  },
+  {
+   "author": "Adeel Shams",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "We received an invitation for dinner at this recently opened Afghan restaurant. The restaurant boasts impressive decor and big seating area, accompanied by excellent service. Ordered Peshawari Kadai and a Mix Platter with Kabuli pulow from their menu, we found the flavors to be delightful. The convenience of restaurant parking, a rarity in this area, was a definite plus. Highly recommended for families",
+   "owner_reply": null
+  },
+  {
+   "author": "Nouman Ahmed Films",
+   "rating": 5,
+   "when": "Edited 8 months ago",
+   "text": "Ramadan Kareem to all Muslims 🌙\n\nI had a great experience at Al Damyati Plus.\nThe food taste is very good, fresh, and full of flavor.\n\nDuring Ramadan, they are giving special offers for everyone.\nAll meals include free dates and juice, which is really nice and thoughtful.\n\nGood food, good service, and a perfect place for iftar with family or friends.\nHighly recommended 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Shie Sun",
+   "rating": 1,
+   "when": "2 years ago",
+   "text": "This is my first and last order from them, zero customer but took 25 minutes to give me the take a away, and i have special request to give me non spicy chicken kadai but it was so spicy and all bone. Roti was burned and non able to eat. Their price of food it so high and the quality is ZERO.\n\nAFGHAN PALLOW PALACE AL BARSHA",
+   "owner_reply": null
+  },
+  {
+   "author": "Rashid Alawadi (randomthings)",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I love to visit this place for lamb chops and arayes as they have good quality food with affordable prices.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ree A",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been a regular at their Karama branch for the past 4 years, and I’m so glad they’ve finally opened in Al Barsha! The lamb chops are absolutely out of this world — tender, flavorful, and perfectly grilled. The grilled boneless chicken and falafel are also fantastic. What makes the experience even better is that they serve complimentary falafel, hummus, tahini, pickled vegetables, and salad-such a generous touch. This new branch also features some amazing additions like Afghani mutton pulao, lentil soup, and their house-baked bread — all must-tries. Highly recommended!",
+   "owner_reply": "Thank you for your feedback and this wonderful words you kept it's really an honour to us and we're so glad with every time we get the chance to serve you again "
+  },
+  {
+   "author": "Vivian Fay Atienza",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very cool ambiance. They have big serving of food and worth it for the price. We ordered kebab and afghan pulao and they gave us complementary falafel and soup.Their staff Mohammad is very kind and accommodating. Good experience.",
+   "owner_reply": "We're so happy with this lovely feedback and so grateful for taking your time to send us this word's and we'd love to see you soon so can serve you with a better way than it was "
+  },
+  {
+   "author": "Asad Iqbal",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Lunch Order Review - Mutton Dish\n\nWe recently ordered lunch for our office from Afghan Pallow Place Resturant and opted for their mutton dish. While the flavour was acceptable, the food arrived cold, which was disappointing. Furthermore, the portion size was inadequate considering the prices.\n\nRating: 2.5/5\n\nAreas for Improvement:\n\n1. Ensure timely delivery and maintain food temperature.\n2. Reassess portion sizes to provide better value for money.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nabeel Hood",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Damyathi has opened in Barsha and I was very happy as I have been a client at Karama Baramch for abt 20 years now. This place is bigger and has great atmosphere.  The Manager Ahmed is amazing and very helpful.",
+   "owner_reply": null
+  },
+  {
+   "author": "Murad Hamed",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Al Damayati Restaurant is an Amazing Arabic food Restaurant , i love their  grilled lamb stews , kabab and chops , super tender and juicy.\n\nThe staff  are so kind , and generous, they fill the table with small sides with no extra charges, in other restaurants humus , soup salad and bread all been charged , but this one they just put on the table for free, and a good glass of tea at the end.\n\nI rate this restaurant 5/5 , i am definitely going again",
+   "owner_reply": "Really I can't find the words to describe how thankful we are for the lovely feedback you kept here it's really touching our heart and we will be so happy with every time serving you<br> Again Thank you so much   💟"
+  },
+  {
+   "author": "ABDUL SALEEM KIZHAKEE",
+   "rating": 3,
+   "when": "2 years ago",
+   "text": "Presentation was very good\nDramatic entry for the food\nGood for photo shoot\nPlace us neat, tidy and very comfortable\nVery spacious and good for family\n\nTaste and quality is just ok, not amazing\nQuality of the meat is good\nShinwari kadai and pulao was good\nNaan and roti just and average only\n\nComplimentary soups and the soup which we ordered mushroom soup is less than average,\n\ntaste and quality\nJust a same only soup\nNot recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Mehwish Khan",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "If you are looking for authentic afghani food in Dubai then you must try this restaurant. It has a huge menu of so many afghani delicacies. The taste and portion of food is good aa compared to the price which is budget friendly. Their new branch in Al barsha has a bigger place with majlis style seatings for larger groups or families.",
+   "owner_reply": null
+  },
+  {
+   "author": "Carlton Gajadhar",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great section of food fairy tasty and very efficient staff always come back here if I wanted some comfort food. The soup is especially nice, but can't taste a little bit different depending on the chef. Really nice experience especially if you in a group. Very local bar place.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rawal Mohsin",
+   "rating": 3,
+   "when": "2 years ago",
+   "text": "Well firstly..waiters and serving staff are absolutely untrained and are like headless chickens.\nThey don't any idea or know first thing about restaurant and giving service to the customers.\n\nHowever  I must say to food here is absolutely amazing.\nWe ordered Mutton Shenwari and roti..\nBoth were really very nice .\nThe restaurant has good interior and ambience.\n\nOrder takeout or delivery..if you don't want your blood pressure going thru the roof",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Abdallah",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I used to go to Damyati in Karama and I am so happy they opened a branch in Al Barsha. The food is fantastic and the prices are very reasonable.  The service is also excellent with the staff being very accommodating and friendly. I had the meat kabab, grilled chicken, lamb chops, they gave me complimentary soup which was soooo goood. If you haven’t tried them you need to soon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Santos Shetty",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Phenomenal good food in the most basic setting.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1408,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1440
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1140,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1140,
+    855
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1284,
+    614
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1457,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    365,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    466,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    398,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    424,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-131.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-132.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-133.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-134.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-135.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-136.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-137.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-138.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-139.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-140.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-141.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-142.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-143.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-144.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-145.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-146.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-147.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-148.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-149.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-150.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-151.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-152.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-153.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-154.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-155.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-156.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-157.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-158.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-159.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-160.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-161.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-162.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-163.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-164.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-165.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-166.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-167.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-168.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-169.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-170.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-171.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-172.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-173.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-174.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-175.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-176.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-177.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.facebook.com/share/1Jdi8H1Z3G/?mibextid=qi2Omg",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 73,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/al-damyati-restaurant-al-barsha/",
+ "buy_likelihood": 8
+}

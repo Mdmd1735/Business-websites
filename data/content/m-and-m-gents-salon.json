@@ -1,0 +1,35 @@
+{
+ "preset": "ocean-wash",
+ "theme": {"bg": "#F5F3EE", "surface_2": "#E8E3D8", "accent": "#141414", "accent_text": "#9A6B12", "on_accent": "#F5F3EE", "duo": "#D9CBAA", "busy": "#9A6B12", "glow": "rgba(154,107,18,.12)", "band_bg": "#141414", "band_text": "#F5F3EE", "band_accent": "#E2B04A", "ask_bg": "#F5F3EE", "ask_text": "#141414"},
+ "extra_css": ".offer{background:#9A6B12;color:#fff}.ticker{background:#141414;color:#E2B04A}",
+ "brand": {"name": "M&M", "sub": "Gents Salon · Karama", "mark": "M", "footer_word": "M&M SALON"},
+ "seo": {"title": "M&M Gents Salon | Barber, Facials & Grooming in Al Karama, Dubai", "description": "M&M Gents Salon on 17B Street, Karama, opposite Amer Center: haircuts, beard trims, hydra facials, keratin, foot spa and nails. Open daily 9 AM to 11:30 PM. 4.9 from 689 reviews."},
+ "hero": {"variant": "stack", "ar_name": "صالون مشط و مقص", "kicker": "17B Street · Karama · Opposite Amer Center", "title_lines": ["Sharp cuts,", "calm facials,", "open till 11:30."],
+   "lede": "Haircuts and beard work, hydra facials in a private room, keratin, foot spa and nails. A professional team that replies to almost every review.",
+   "image": "img/team.jpg", "image_alt": "The M&M Gents Salon team in black uniforms", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi M&M Gents Salon, I'd like to book.",
+ "proof_note": "97% of reviews get a reply",
+ "address_lines": ["M&M Gents Salon, Shop 15, 35 17B Street", "Al Karama, Dubai"],
+ "ticker": ["Haircut", "Beard trim", "Hydra facial", "Keratin", "Foot spa", "Manicure", "Waxing"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Grooming, properly done.", "title_dim": "For men, and their partners too.",
+   "items": [
+    {"name": "Haircut & beard", "feature": true, "img": "img/cut.jpg", "alt": "Barber cutting a client's hair", "desc": "Styles that suit your face, with a clean beard line.", "quote": "He was professional, attentive, and understood exactly the style I wanted.", "cite": "Manoj K."},
+    {"name": "Hydra facial", "img": "img/promo.jpg", "alt": "M&M summer promotion poster", "desc": "In a private facial room.", "price": "Summer offer: AED 149"},
+    {"name": "Keratin & hair care", "img": "img/shelves.jpg", "alt": "Product shelves and certificates", "desc": "Keratin, hair spa and colour with quality products."},
+    {"name": "Manicure, pedicure & foot spa", "desc": "Nails, foot spa and waxing."},
+    {"name": "Full body massage", "price": "Summer offer: AED 149", "desc": "Ask if the offer is still running."}
+   ],
+   "perks": ["Open daily 9 AM – 11:30 PM", "Private facial room", "Good for kids", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Walk in", "title": "Late cut?", "title_dim": "We're open till 11:30."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Names you'll hear", "title_dim": "at the front desk.",
+   "items": [
+    {"name": "Sarath", "count": 8, "role": "Barber", "quote": "Professional, attentive, and understood exactly the style I wanted.", "cite": "Manoj K."},
+    {"name": "Aashika", "count": 8, "role": "Reception", "quote": "The receptionist Ms. Aashika is well trained as well.", "cite": "Rohan F."},
+    {"name": "Akshay", "count": 4, "role": "Barber"}, {"name": "Babar", "count": 4, "role": "Barber"}, {"name": "Vishwanath", "role": "Barber"}, {"name": "Nida", "role": "Nails & waxing"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "M&M storefront lit up at night"}, {"src": "img/tools.jpg", "alt": "Clippers, scissors and brushes on an M&M mat", "wide": true}, {"src": "img/counter.jpg", "alt": "M&M reception counter with logo"}, {"src": "img/front.jpg", "alt": "M&M sign with barber pole"}, {"src": "img/night.jpg", "alt": "Shop front at night"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Opposite Amer Center,", "title_dim": "Karama.", "landmark": "Next to Karama Medical Fitness Center"}
+ ]
+}

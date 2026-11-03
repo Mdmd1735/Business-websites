@@ -1,0 +1,32 @@
+{
+ "preset": "noir-red",
+ "theme": {"accent": "#FFC52E", "accent_text": "#FFC52E", "on_accent": "#1A1206", "bg": "#100C08", "surface": "#1A140D", "surface_2": "#241B11", "duo": "#5A3F06", "busy": "#9A6A00", "glow": "rgba(255,197,46,.18)", "band_bg": "#FFF6DD", "band_text": "#1A1206", "band_accent": "#C2410C", "frame": "round", "hero_ratio": "1/1", "slab_o": ".9"},
+ "extra_css": ".hero-split .hero__slab{background:#E23D1F}",
+ "brand": {"name": "Cheezy Bites", "sub": "Restaurant · Al Karama", "mark": "C", "footer_word": "CHEEZY"},
+ "seo": {"title": "Cheezy Bites Karama | 24-Hour Pakistani Food, Shawarma, Pizza & Burgers", "description": "Cheezy Bites, Era Building, 4A Street, Al Karama: Pakistani karahi and biryani, shawarma platters, pizza, shami burgers and loaded fries. Open 24 hours, dine-in and delivery. 4.8 from 898 reviews."},
+ "hero": {"variant": "split", "kicker": "Era Building · 4A Street · Al Karama", "title_lines": ["Karahi at 3 AM?", "Pizza at noon?", "We're open."],
+   "lede": "Pakistani karahi, biryani and chargha next to cheesy pizzas, shawarma platters, shami burgers and loaded fries. Open 24 hours, seven days, for dine-in, takeaway and delivery.",
+   "image": "img/hero.jpg", "image_alt": "Pizza, chicken shawarma platter and biryani on a Cheezy Bites table", "secondary": {"label": "See the menu", "href": "#menu"}},
+ "cta_label": "Order on WhatsApp", "cta_text": "Hi Cheezy Bites, I'd like to order.",
+ "proof_note": "898 reviews · open 24/7",
+ "address_lines": ["Cheezy Bites, Era Building", "2 4A Street, Al Karama, Dubai"],
+ "ticker": ["Shawarma platter", "Chicken karahi", "Biryani", "Lahori chargha", "Shami burger", "Loaded fries", "Pizza", "Open 24 hours"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "What people order", "title": "Two kitchens,", "title_dim": "one table.",
+   "items": [
+    {"name": "Shawarma platter", "feature": true, "img": "img/shawarma.jpg", "alt": "Chicken shawarma platter with fries and sauces", "desc": "The most-mentioned dish in our reviews: 16 of the last 40.", "quote": "Great food, especially the Cheese Sticks, Pizza, Shami Kabab Burger, and Shawarma Platter.", "cite": "Abdul Rehman G."},
+    {"name": "Chicken karahi", "img": "img/karahi.jpg", "alt": "Chicken karahi in a copper wok", "desc": "Pakistani karahi, handi, nihari and paya."},
+    {"name": "Biryani", "img": "img/biryani.jpg", "alt": "Chicken biryani platter", "desc": "Fragrant biryani with raita and salad."},
+    {"name": "Pizza", "img": "img/pizza.jpg", "alt": "Loaded chicken pizza with olives and peppers", "desc": "Loaded and properly cheesy, as the name promises."},
+    {"name": "Lahori chargha", "img": "img/chargha.jpg", "alt": "Whole fried chargha chicken with fries", "desc": "Whole spiced chicken, Lahore style."},
+    {"name": "Burgers & loaded fries", "img": "img/fries.jpg", "alt": "Curly fries under melted cheese", "desc": "Shami kabab burgers, zinger burgers, curly cheese fries."}
+   ],
+   "perks": ["Open 24 hours", "Dine-in & takeaway", "Delivery (noon Food & more)", "Outdoor seating", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Hungry now?", "title": "Find a table fast.", "title_dim": "Avoid the dinner rush."},
+  {"type": "gallery", "images": [{"src": "img/interior.jpg", "alt": "Cheezy Bites dining room", "wide": true}, {"src": "img/storefront.jpg", "alt": "Cheezy Bites lit-up storefront", "wide": true}, {"src": "img/burger.jpg", "alt": "Burger and fries platter", "wide": true}, {"src": "img/dining.jpg", "alt": "Wooden tables and booths", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "order", "eyebrow": "Order or reserve", "title": "Hungry? Message us.", "lede": "Tap a question and it opens WhatsApp with the message ready to send.",
+   "asks": ["Can I see your full menu with prices?", "Do you deliver to my area?", "Can I book a table for a group?", "What's today's special?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Era Building,", "title_dim": "4A Street, Karama."}
+ ]
+}

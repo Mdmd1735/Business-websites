@@ -1,0 +1,1117 @@
+{
+ "slug": "ambi-fitness-club",
+ "name": "Ambi Fitness Club",
+ "place_id": "ChIJN3I_0lpdXz4RxZz5e1GwFyY",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Al Qusais, Dubai",
+ "address": "AMBI FITNESS CLUB OLD SUNRISE SUPERMARKET Qusais - BUILDING ( 1021 Damascus Street - opposite of Dubai Grand Hotel - Al Twar Fifth - Al Twar 5 - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2728997,
+  "lng": 55.3818722
+ },
+ "phone": "+971 50 299 5950",
+ "rating": 4.9,
+ "userRatingCount": 292,
+ "rating_distribution": {
+  "oneStar": 5,
+  "twoStar": 1,
+  "threeStar": 3,
+  "fourStar": 13,
+  "fiveStar": 270
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Ambi%20Fitness%20Club&query_place_id=ChIJN3I_0lpdXz4RxZz5e1GwFyY",
+ "website": "",
+ "categories": [
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "Closed"
+  }
+ ],
+ "owner_description": "24hrs GYM",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Online classes": true
+   },
+   {
+    "Outdoor services": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Child care": true
+   },
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Parking": [
+   {
+    "On-site parking": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "zumba classes",
+  "motivating trainers",
+  "welcoming atmosphere",
+  "personalized training",
+  "flexible timing",
+  "personal attention",
+  "weight loss",
+  "gym for beginners",
+  "effective workouts",
+  "clean facility"
+ ],
+ "popular_times": {
+  "Su": [],
+  "Mo": [
+   {
+    "hour": 0,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 36
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 0,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 38
+   }
+  ],
+  "We": [
+   {
+    "hour": 0,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 38
+   }
+  ],
+  "Th": [
+   {
+    "hour": 0,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 36
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 0,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 38
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 31
+   }
+  ]
+ },
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Soni Parveen",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Ambi is hands-down the most amazing gym trainer! From day one, she has welcomed everyone with an infectious smile and genuine warmth. She has a rare ability to treat her clients like family, creating a supportive environment where everyone feels valued. If you want a trainer who truly cares about your well-being and keeps you motivated, Ambi is the absolute best. Her energy is unmatched! No matter how tough the day is, she always meet us with a bright smile. Thank you for treating us like family and creating such a warm, welcoming community at the gym. You don't just train our bodies; you lift our spirits too!",
+   "owner_reply": "Thank you so much ❤️ "
+  },
+  {
+   "author": "Naseeba",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I used to feel that the gym wasn’t my thing at all. I lacked confidence and always stayed away, even though I admired the results others were getting. But joining Ambi Fitness Club completely changed my perspective.\n\nThe environment here is incredibly friendly and welcoming, which made it so much easier for a beginner like me to get started. I especially appreciate the private workout space for ladies—it adds a great level of comfort and confidence.\n\nA big thank you to the amazing coaches—Sharath, Ziyan, and Saji 🫡 Their constant motivation, support, and guidance make every session a positive experience.\n\nIf you’re someone who feels unsure or intimidated about joining a gym, this is the perfect place to begin. Highly recommended! 🙌🏻",
+   "owner_reply": "Thank you so much ❤️ "
+  },
+  {
+   "author": "mintu antony",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I had a very good experience at Ambi Gym & Fitness. When I started my training, I was 109 kg, and with personal training, regular workouts, and the diet plan provided by Ambika Madam, I was able to reduce 5 kg in just one month.The training was very effective, and the trainers were extremely supportive, motivating, and attentive throughout my fitness journey. The combination of proper diet guidance and structured training really helped me stay consistent and achieve visible results.\n\nA special thanks to Ambika Madam, Akhil, Sunil, and all the other trainers at the fitness center for their continuous support and encouragement. I truly appreciate the effort and guidance from the entire team.\n\nHighly recommended for anyone who is serious about improving their fitness and losing weight! 💪",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Alida Jose",
+   "rating": 4,
+   "when": "4 months ago",
+   "text": "I've really enjoyed my experience at this gym. Trainers Ambika , Mr.Sarath and Mr. Ziyan,  are approachable, supportive, and always ready to help whenever needed. They take the time to explain exercises properly, encourage everyone to do their best, and create a positive atmosphere during workouts. Their guidance has made it easier for me to stay consistent and feel more confident in my fitness journey. Thank you for all the support!",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Sinoj Daniel",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I joined Ambi Fitness Club about 2 months ago, and I’m really happy with my experience so far. The services are excellent, and the trainers are absolutely superb—professional, supportive, and always willing to guide properly.\nThe overall atmosphere is very positive and motivating, which makes it easier to stay consistent with my workouts. I’m glad I chose Ambi Fitness Club and would definitely recommend it to anyone looking for a good gym with excellent trainers and service.",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Riya Gafoor",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve had a great experience at Ambika Fitness Club. The gym has a comfortable, clean, and welcoming environment, especially for women. Trainer Ambika is very professional, supportive, and knowledgeable. She pays attention to proper form and guides you throughout the workouts. I really appreciate her dedication and motivation. Highly recommended for anyone looking for a professional and women-friendly gym!",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "NASILA PK",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Very friendly and supportive trainers! Ambi Ma’am is incredibly supportive, motivating, and makes every session so comfortable. Sunil and Akhil are also amazing trainers.\n\nI took personal training, and I must say it was absolutely worth it. We also did couple training, which was a great experience. I highly recommend their training to couples and everyone looking to get fit.\n\nThe best part is that with Ambi Ma’am’s guidance, we can enjoy our favorite foods and still stay in shape! ❤️💪 Highly recommended!",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Ramanathan Palaniappan",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I recently joined Ambi Fitness Club, and my experience has been really good so far. The gym has good equipment, a great atmosphere, and a very positive vibe that makes working out enjoyable.\n\nA special mention to Coach Akil, who is extremely helpful, friendly, and supportive. He takes the time to guide you properly and helps you feel comfortable while training. The overall environment is great, and I would definitely recommend Ambi Fitness Club to anyone looking for a good gym!",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "ANJU BHARATHAN",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "As a beginner, I had a really positive experience at this gym. The trainers are friendly, supportive, and patient, which made me feel comfortable from the beginning. They guide you properly and help you understand the exercises without making you feel overwhelmed.\n\nThe gym has a good atmosphere, clean equipment, and a motivating environment. I’m happy that I chose this place to start my fitness journey. Highly recommended",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Aarathi R Krishna",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "My experience with Ambi Fitness club has been truly positive and rewarding. Since starting my fitness journey, I have noticed a significant difference in my overall health and well-being. I have achieved weight loss as well as noticeable inch loss, which has been extremely motivating.\nOne of the biggest changes I have noticed is in my energy levels and daily routine. Earlier, I found it difficult to wake up in the morning, but now I can wake up with ease and feel much more energetic and refreshed.\nA special mention to Ms. Ambika Suneesh for her constant guidance, motivation and encouragement throughout my journey. I also really appreciate the trainers for their support, patience and dedication. Their guidance has helped me stay consistent and enjoy the process.\nThe combination of regular workouts, better eating habits, professional guidance and consistency has made a real difference. I am very happy with the progress I have made so far and grateful to the entire Ambi Fitness team for being such an important part of my fitness journey. I feel healthier, more active, energetic and confident than before",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Najus Najus",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Ambi Fitness Club is an excellent gym to work out at! The space is always clean, well-maintained, and equipped with a strong setup for both cardio and strength training. The trainers especially @ambi💓🥰 super supportive, knowledgeable, and always ready to help guide you through exercises or adjust your routines. Great community vibe and highly recommended for anyone looking to stay consistent.",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Adira Johny",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I recently joined this gym as a beginner, and I am very comfortable here. The atmosphere and ambience are excellent, making it a great place to work out. Special thanks to Trainer Sharath for his guidance and support He is very helpful and makes sure beginners feel confident and comfortable.",
+   "owner_reply": "Thank you so much ❤️ "
+  },
+  {
+   "author": "Waqas Mehboob",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\n\nI’m very happy with my experience at this gym. The environment is positive, the equipment is good, and the trainers are professional, supportive, and friendly.\n\nMy personal trainers always guide me properly, correct my form, and keep me motivated throughout my workouts. They understand my goals and help me stay consistent.\n\nHighly recommended for anyone looking for a clean, friendly gym with dedicated trainers! 💪🔥",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Sajila Tn",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I've had a great experience at Ambi Fitness. The gym is clean, well-maintained, and equipped with everything needed for effective workouts.\nA special thanks to Mr. Sarath, who is an exceptional trainer. His knowledge, dedication, and personalized approach have helped me stay consistent and achieve better results. He always ensures that exercises are performed correctly, keeps workouts challenging, and motivates me to push beyond my limits",
+   "owner_reply": "Thank you so much ❤️ "
+  },
+  {
+   "author": "Arathy 2009",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Ambi is a wonderful gym with a homely and friendly atmosphere. All the trainers are excellent, supportive, and genuinely care about their members’ progress. A great place to stay fit and motivated. Highly recommended!\n\nThere is a Excellent Zumba classes with energetic instructor  and a friendly atmosphere. The sessions are fun, motivating, and suitable for all fitness levels. Highly recommended!”",
+   "owner_reply": "Thank you so much ❤️ "
+  },
+  {
+   "author": "divya vasudevan",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Really happy with my experience at Ambi Fitness Club! ❤️ The gym has a great vibe, and my PT training has been amazing. My trainer is very supportive, motivating, and makes sure I’m doing the exercises correctly. Definitely recommend Ambi Fitness Club! 💪🏻",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Rahul Menon",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an excellent experience with trainers Zian and Prajul. Their personalized training sessions were instrumental in helping me achieve my fitness goals and significantly improve my physical fitness. Their expertise, guidance, and dedication made a noticeable difference in my journey.",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Indhu Mathi",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I am very happy with my experience at Ambi Fitness.the trainers are friendly, supportive and professional. The  gym has a great atmosphere and equipment. Highly recommend for anyone looking to stay fit and healthy💪 😊😊",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "MARIYA PAUL",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Ambi Fitness Gym is perfect for couples looking to build a healthy lifestyle together. My partner and I feel very comfortable working out here. The trainers are friendly and guide us properly. It’s a great space to stay consistent and motivated as a couple.",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "RIYA JOJU",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Ambi Fitness Club in Al Qusais is a great place to work out. The facility is clean, well-equipped, and has a very welcoming atmosphere. It has a Zumba class with amazing energy, which is a big plus for anyone looking for fun cardio. The staffs are friendly and professional, making it a top choice in the area!",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Dharani c s",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I Have been training here for more than 2 years, Since then Ambi fitness Club has truly set the standard for excellence in their commitment to providing exceptional service and top notch facilities which has exceed my expectations.They are very supportive, friendly & each everyone they treated you like their family.\nMy special thanks to Ambika mam and their staff's for encouraging me to weight loss after my postpartum journey with care, from the time I joined.\nIf you are seeking a gym and Zumba  experience near by region and planning to get benefits ,I whole heartedly recommend to Ambi fitness center.\n\nThank you so much once again....",
+   "owner_reply": "Thank you so much ❤️ "
+  },
+  {
+   "author": "Geeta Sairam",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Ambi Fitness Club is a Excellent gym.. Ambience and equipments are superb..Its gives very positive feeling.. Customers friendly, Highlight clean and Motivating atmosphere...Trainers are very friendly nature..Thanks to all Trainers...Thank you Ambika Mam..",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Sanya Hassan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "First of all, i want to applaud Ambi (my personal trainer) she has given me hope to get rid of the sciatica and back pain. I had this for a very long time and now with only 3 sessions i feel much better. I recommend this fitness club for those who have sciatica pain, or disc bulge pain.\n\nYou will feel great again!",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Nishad Majeed",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "AMBI FITNESS CENTER stands out for its exceptional training support and genuinely welcoming environment.If you want a motivating space where coaches care about your progress and everyone knows your name, this is the perfect place to reach your fitness goals.",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Abil Kunnuvila L B",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best fitness centers in the region! All the staff members are extremely helpful, especially the lady in charge, Hats off to her dedication—she is truly a role model for everyone. Very down-to-earth, humble, and genuinely committed to helping members achieve their fitness goals. Highly recommended!",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Nivetha Ramachandran",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I had a very good experience at Ambi Fitness Club. As a beginner, I felt a little nervous before joining, but now I feel confident and positive energy that I can do it. The gym is always clean and well maintained. Especially the trainers they are very humble and calmly explain everything. Their way of approach is really good and encouraging 😊Special thanks to Ms. Ambeka mam and trainers Mr. Sarath and Mr. Ziyan.",
+   "owner_reply": "Thank you so much ❤️ "
+  },
+  {
+   "author": "Aslam Afsal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing facility and great environment. Good service with friendly staff and super clean and comfortable gym for everyone from beginners to professional athletes to train at.\n\nBest Gym in Al Qusais 2\nAmbi Fitness Club\nOld Sunrise Building and room number is 1021\n\n“To keep the body in good health is a duty… otherwise we shall not be able to keep our mind strong and clear.”\n\nTrainers: Ambi, Ziyan, Shahid",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Sindhu Iyer",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Congratulations 👏🎉 n celebration 💐 extremely happy n proud of you n ur team dear Ami 🙏👏💞 it's a milestone for u all for coming so far a journey of motivation inspiration smile joy happiness to all of us ur Gym n zumba classes r truly a stress buster for people like me ur warmth encouraging words yes you can do is definitely a boost for us n we r quite fortunate to be part of ur Gym praying sai to bless you n ur team with more growth more branches more people so u can nourish the people around you with fitness and wellness dear 🙏 keep spreading ur wings n reach out to ur dreams in all ways wishing the bestest of universe to u all always ❤️💐 enjoy ur day coz u deserve it keep shining keep smiling keep growing keeping flying keep adding wings to ur feather really happy to be a part of Ami fitness centre",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Ajeesh Periya",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "One of the Best Fitness Club I ever met...\nProfessional Trainers at adequate Instructions provide me a Genre in Managing my schedule well maintained..Thanks for the Assistance.. Instruments are well maintained and Staffs are friendly in every Aspects...Suggested for Freshers who has a Quest in Health Maintenance",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "тнɛ_ғσятиιтɛ",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Really happy with the personal training at Ambi Gym😊 The trainers are friendly and approachable. Definitely recommend it if you're looking for good personal training💪",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "anas p",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing trainer! Pushes you just enough, keeps every session fun, and actually makes you look forward to working out. Highly recommend!",
+   "owner_reply": "Thank you so much ❤️ <br>"
+  },
+  {
+   "author": "Akshay K S",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This gym is amazing. Amazing facility, top equipment and great environment. Good service with friendly staff and super clean and comfortable gym for everyone from beginners to professional athletes to train at.\n\nZiyan and Ambika is extensively supporting from day 1 till day.\n\nI recommend Ambi fitness as a 'Great place to workout'.",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Preethy Thomas",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Recently Joined this gym and had a great experience so far.The environment is super motivating and the staffs are friendly and always ready to help without being pushy.Definitely Recommend !",
+   "owner_reply": "Thank you so much ❤️ "
+  },
+  {
+   "author": "indra dhanush",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Ambi Fitness Club is the best gym in Al Qusais! It's always clean, well-equipped, and has a great atmosphere. Owner Ambi is amazing—she’s dedicated, energetic, and really helps you stay motivated. If you want real results with a supportive trainer, this is the place to be. Highly recommend",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Vivek Clal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️ Best Fitness Club in Al Qusais – Ambi Fitness Club\n\nAmbi Fitness Club in Al Qusais, Dubai, is more than just a gym – it’s a complete transformation hub under the expert guidance of Coach Ambi, a highly professional fitness trainer and martial arts expert. Her dedication, knowledge, and passion for fitness make every workout session motivating and result-driven.\n\nThe club is well-equipped with modern machines, a clean and spacious environment, and a positive atmosphere that inspires consistency. What truly makes it stand out is the personal attention given by Coach Ambi and his team of skilled sub-trainers. Whether you’re a beginner, a fitness enthusiast, or someone looking to learn martial arts, you’ll find customized training plans tailored to your goals.\n\nCoach Ambi’s expertise in martial arts adds a unique edge – improving not just strength and stamina, but also discipline, self-defense, and mental focus. Her supportive approach ensures that every member feels encouraged, confident, and capable of pushing their limits safely.\n\nIf you’re looking for the perfect balance of fitness, martial arts training, and professional guidance, Ambi Fitness Club is the best choice in Dubai. Highly recommended for anyone serious about health, fitness, and personal growth!",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Roma Tellis",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I’ve been a member of this gym for some time now, and I must say, it’s not about the flashy equipment but the dedication of the trainers that makes it stand out. Our instructor, who happens to be a fantastic woman, goes above and beyond to help us achieve our fitness goals. Despite having fewer equipment options, the trainers here really know how to make the most out of what’s available. They provide personalized workouts, offer constant motivation, and create a supportive atmosphere that keeps us all motivated to shed those extra pounds. It’s not just a gym; it’s a place where real effort and commitment shine through. Highly recommended!”👍",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Shyma Bhoopesh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I highly recommend Ambi fitness club for their friendly staff.I had Excellent experience from personal training..and got great results through their organised workout...All the trainers are very supportive and always ready to help.",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Ajil Varghese",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "As a complete beginner to exercise, I recommend Ambi Fitness Club!\n\nThe entire experience has been fantastic. What truly sets them apart is the unwavering support and motivation from the trainers. They don't just instruct; they truly train with spirit, taking the time to explain proper form and making sure you feel comfortable, not intimidated.\n\nThe overall environment is welcoming, encouraging, and perfect for anyone just starting their fitness journey. Best gym in the neighborhood!\n\nThank you, Ambi Fitness Club team!",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Shahana Rasheed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I've been going to this gym for the past two months, and I’m really happy with the changes I’ve seen in myself. My size has visibly reduced, and I feel more energetic and confident every day.\n\nA big thanks to my amazing trainers – they are incredibly supportive, motivating, and know exactly how to push you just the right amount. Their workouts are effective and fun, and they always make sure I’m doing everything correctly and safely.\n\nThe overall gym atmosphere is super positive, clean, and well-maintained. I genuinely look forward to my workouts every day.\n\nHighly recommend this gym to anyone who’s serious about fitness and wants real results with the support of great trainer's.",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Sandhya Nair",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently joined for training and my overall experience had been positive.the space is well maintained and equipped with wide range of machines for your workout.\nAll the trainers are well trained and perfect at their job. Overall ambi fitness club is a great place for someone looking to get fit and healthy, do give it a try…",
+   "owner_reply": "Thank you so much ❤️"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    292,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/ambi-fitness-club/",
+ "buy_likelihood": 8
+}

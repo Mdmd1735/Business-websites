@@ -1,0 +1,895 @@
+{
+ "slug": "primex-auto-repair-workshop",
+ "name": "Primex Auto Repair Workshop",
+ "place_id": "ChIJicgCGFZZXz4ROZep_2un0bM",
+ "category": "car repair garage",
+ "category_weight": 12,
+ "area": "Al Nahda, Sharjah",
+ "address": "Industrial Areas - Industrial Area - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3112295,
+  "lng": 55.3834471
+ },
+ "phone": "+971 55 714 4229",
+ "rating": 4.7,
+ "userRatingCount": 159,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 6,
+  "fourStar": 25,
+  "fiveStar": 127
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Primex%20Auto%20Repair%20Workshop&query_place_id=ChIJicgCGFZZXz4ROZep_2un0bM",
+ "website": "",
+ "categories": [
+  "Auto repair shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 7:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 7:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 7:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 7:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "Closed"
+  },
+  {
+   "day": "Saturday",
+   "hours": "8 AM to 7:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "8 AM to 7:30 PM"
+  }
+ ],
+ "owner_description": "Primex Auto Repair Workshop – trusted since 1996 for affordable, reliable, and expert car care. From quick maintenance to major repairs, our skilled team keeps your car running smooth, safe, and worry-free. Drive in today and feel the difference!",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Mechanic": true
+   },
+   {
+    "Restroom": true
+   }
+  ]
+ },
+ "review_tags": [
+  "accident repair",
+  "reliable car repairs",
+  "car bumper repair",
+  "fast repair",
+  "paintwork",
+  "reliable workshop",
+  "professional team",
+  "cooperative staff",
+  "budget friendly",
+  "insurance process"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.05,
+ "reviews": [
+  {
+   "author": "Rajabtrd Sharjah",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I gave my vehicle for repair, and I am very satisfied with the service provided. The repair work was completed professionally, and the quality of the work exceeded my expectations. The staff was friendly, cooperative, and kept me informed throughout the process. They delivered my vehicle on time, and everything was handled smoothly. I highly recommend their excellent service to anyone looking for reliable vehicle repairs.\n\nThank you, Primex Auto Workshop, for your excellent service, professionalism, and dedication. I truly appreciate your hard work and wish your team continued success.",
+   "owner_reply": null
+  },
+  {
+   "author": "Steve Odinga",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I recently took my car to Primex Garage through Fujairah Insurance after a small incident, and I had a very positive experience. The staff were professional, and the customer service was excellent from start to finish. Sam and Mr. Amil were especially helpful, keeping me informed and making the whole process smooth and stress-free.\n\nThe car was fixed within one day, and the paintwork matched the original perfectly, it looks as good as new. Highly recommended for anyone looking for fast, reliable, and professional service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarah Martinez",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Best Garage in the UAE.\nThe most professional garage I have ever been to.\nThey pay attention to detail and they care about cars. They are excellent mechanics and they will leave your car in the best condition.\nI live in Al Ain and it is worth taking my car all the way to Sharja for their service. I know the car is the in the best hands and I have not enough words to say thank you and highly recommend it.\nThank you once again Sam for the most professional service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Awatef Habibi",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Excellent service from the garage. The staff were professional, and very helpful. They explained everything clearly, completed the work efficiently. My car was returned in great condition, thank you Mr.Sam. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Janelyn Deyparine",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I had a great experience with Primex Auto Repair workshop. The team was professional, knowledgeable, and very efficient in diagnosing and fixing the issue with my Veloz.\n\nThe service was completed on time, and the quality of work exceeded my expectations, thanks to Mr. Sam who assisted us.\n\nHighly recommended for anyone looking for reliable and trustworthy car service!",
+   "owner_reply": null
+  },
+  {
+   "author": "JASEEM MP",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I recently given my vehicle to primex garage through New India insurance The work was good and They  finished the work on time Totally satisfied",
+   "owner_reply": null
+  },
+  {
+   "author": "RAJABSHJ ACCOUNTS",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "We recently got our pickup shj 1 96007 serviced at Primex Car Workshop, and we are  happy with the overall experience. The team was professional, knowledgeable, and completed the service on time. They explained the issues clearly and handled the work with good attention to detail. My vehicle is running smoothly after the service, and the pricing was reasonable as well.\n\nI appreciate their customer service and reliability. Highly recommended for anyone looking for quality vehicle service .\nThank you",
+   "owner_reply": null
+  },
+  {
+   "author": "Sheldon Josef",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Brought my car in for some strange noises  and the team at Primex diagnosed the issue, called me back with clear explanation and a fair price. Will definitely be going back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Zyde.mohamed",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "This is the best garage guys, i used to come here since 5 years with different cars they are good respectful and fast and they know what to do. Special thanks to sam.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I had a great experience with Primex Garage and their owner Sam. The team is very professional, knowledgeable, and honest. Their service charges are fair and transparent, which is hard to find these days.\n\nThey diagnosed and fixed multiple issues in my car hyundai Sonata, including axle and steering problems, and the work was done properly without unnecessary upselling. The staff is cooperative and clearly knows what they’re doing.\n\nHighly recommended for anyone looking for reliable and trustworthy auto repair. I’ll definitely be coming back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kiran Saji",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Excellent service at Primex Auto! Mr. Sam was very helpful and professional throughout the process. The work was completed on time, and unlike other workshops that quoted very high prices, they fixed everything within my budget without compromising on quality. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sameer Dabekar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Excellent Service!\nThank you, Sam!\n\nSam has supported me all the way with outstanding service, punctuality, and economical pricing.\n\nWhen you’re dealing with Sam, your car is always in safe hands—no stress, no hassle. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "zaeemah kaunain",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Had a great experience with Primex Auto Repair! They handled my car repair through AFNIC and did an amazing paint job the finish looks brand new. The team was professional, and delivered the car on time. Highly recommend them for their excellent workmanship and service quality!",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammed Safwan",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Polite,professionsl,decent and knowledgeable staff.The best experience ever had for getting my car repaired on time.I write this merely on my personal experience.Recommending everyone to try this workshop.I had the best satisfactory experience with them.\n\nThanks Mr.Sam for helping us out.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lyudmyla Borysenko",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Thank you to the team and Sam for fixing my car after an accident. High quality work. They were always polite in communication. Hopefully nothing will happen to my car again but if it did I would trust them to fix it",
+   "owner_reply": null
+  },
+  {
+   "author": "Karim Ahmed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The team is professional, friendly, and respectful — especially the foreman, Sam, who was exceptionally professional.\nI visited them for some car maintenance, and they were very helpful.\nThanks to the entire team for your great efforts!\nContinue guys great work",
+   "owner_reply": "Appreciate the shout-out! Our experience shows in every job we do. Thanks for choosing Primex — we’re here anytime you need us!"
+  },
+  {
+   "author": "Jets Philip",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently visited Primex Workshop to fix my car issue, and their service was excellent. Sam was especially helpful, professional, and took the time to explain the problem clearly. The team worked quickly, and the workshop is well organized.I was impressed with their efficiency and quality of work. Highly recommend them for reliable car repairs.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rebal Baira",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Good workshop, they handle the car and communication perfectly.",
+   "owner_reply": null
+  },
+  {
+   "author": "ajay mamidala",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "According to my insurer's garage panel list, I found this garage, checked the reviews, and recently visited to see how their customer service was. It is really amazing of their staff and service. Also, Sam was very helpful, and they repaired my vehicle in time. I am very impressed with their service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mukesh Bhatia",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Excellent service provided by Sam and team @ Primex for repairing my car. They were reasonably priced compared to other garages without compromising on the work quality.",
+   "owner_reply": null
+  },
+  {
+   "author": "BINEESH PHILIP BIJU",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a fantastic experience at Primex Auto Repair Workshop, Not only did they provide top-notch repair services, but they also made the entire insurance process seamless. The staff guided me step-by-step, handled the paperwork efficiently, and coordinated with my insurance company to ensure everything was processed smoothly.\n\nThe repairs were completed on time, and they kept me updated throughout the process. The quality of the work was outstanding, and the pricing was transparent. If you're looking for a reliable workshop that also excels in handling insurance claims, I highly recommend Primex Auto Repair Workshop to anyone looking for reliable and efficient auto repair services in Sharjah!",
+   "owner_reply": null
+  },
+  {
+   "author": "fatoom",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I had an excellent service with my car repair, very quick replying regarding any questions or concerns, they’ve started repairing my car as soon as they’ve received the approval to do so. I highly recommend this company.",
+   "owner_reply": null
+  },
+  {
+   "author": "BinIqbal",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Excellent bodywork quality with very patient and understanding staff. Even though the location may seem a bit off, they deliver perfect results.",
+   "owner_reply": null
+  },
+  {
+   "author": "paresh shah",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Good service at low price. Sam was very experienced and done my car repair on time with full satisfaction",
+   "owner_reply": null
+  },
+  {
+   "author": "Salam Gumbat",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "Good service, u can rent a car for personal or for company,quick service",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammad Zwaylif",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I have so good experience with them in repair my car so good with short time and really prices unbelievable so thanks for their team best experience to me in repair my car in UAE",
+   "owner_reply": null
+  },
+  {
+   "author": "Adnan Zulfiqar",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I am very pleased with the service. They completed the work promptly and I received my car before the given time. The staff was knowledgeable, efficient especially Mr. Sam. I highly recommend them for their excellent customer service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Noman453",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Very good work and co operative staff",
+   "owner_reply": null
+  },
+  {
+   "author": "musthafa458 musthu",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "A handy workshop for your routine car repairs and maintenance.\nYou'll find that SAM is always ready to stand by those who care for their cars.\nHe has great experience and is very skilled.\nThe overall operation of the garage is very good and very kind and sincere towards the needs of the customers.  Maintenance work has been done very well in less time.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nasser Yousuf",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "This is my first time dealing with Primex Auto Repair Workshop, I found them very professional trying to satisfy customer they are very patient listening to customer issues , following up updating each and every step of the work showing how they are caring of your car.",
+   "owner_reply": "Appreciate the shout-out! Our experience shows in every job we do. Thanks for choosing Primex — we’re here anytime you need us!"
+  },
+  {
+   "author": "EBENIZER ARISTON",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "I recently took my car to their garage for repairs after an accident and they did a great job. Despite it being the EID holidays, they managed to get it done in just 3 days. The car was in perfect condition when I picked it up.",
+   "owner_reply": null
+  },
+  {
+   "author": "Roshan Shany",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "\"Primex Garage is hands down the best auto repair shop in Sharjah! The staff is friendly, professional, and extremely knowledgeable. They diagnosed my car's issue quickly and fixed it at a reasonable price.",
+   "owner_reply": null
+  },
+  {
+   "author": "fatima lakha",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Sam and the rest of the team are very sweet and great at what they do. I needed my car fixed urgently and it was done within a day, great service.",
+   "owner_reply": null
+  },
+  {
+   "author": "BIJEN GRG",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I did axle boots, brake shoe, air filter & transmission oil  replacement for Infiniti QX50 - they did it well and within the asked time they did finish the job. Hapoy with the service.",
+   "owner_reply": null
+  },
+  {
+   "author": "G Nair",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Genuine, supportive team and pricing is reasonable.",
+   "owner_reply": null
+  },
+  {
+   "author": "ghaz ouani",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Good workshop! The service is good and also they are fast. Thank you",
+   "owner_reply": null
+  },
+  {
+   "author": "Ihab Reda",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Even it was a third party fixing for our car under Al Fujairah National insurance, the team of primex auto give their best to give us back our car in the best condition with a smile and great attitude.\nI’m really appreciating their efforts.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmar Sayyed",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Trusted and reliable garage in sharjah. Been coming here since 2014 - Thanks a lot for great service and on time completion. Good for all mechanical and painting works. Ask for Sam.",
+   "owner_reply": null
+  },
+  {
+   "author": "Wasim Akram",
+   "rating": 5,
+   "when": "Edited 5 years ago",
+   "text": "I have been to many repair shops for my car denting work, over my 6 years of driving in UAE.\nBut I never found this better repair service anywhere else.\n\nGave my car to them, they fixed it and gave me back on time at a very very reasonable price.\n\nVery professional staffs ( specially Mr. Nithin and Mr. Sam) they took great care of my car and provided me with a great service.👌🏼",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed El Shoubaki",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Professional team working at this workshop. I have accident with my car Mitsubishi lancer with back side door right side damaged badly. They rectifiyed and restore it very good. Thx team. And also thx Mr. Sam.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 64,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/primex-auto-repair-workshop/",
+ "buy_likelihood": 7,
+ "notes": "Scouted, not built in batch 1 (weak photos or inactive owner)."
+}

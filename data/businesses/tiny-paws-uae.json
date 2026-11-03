@@ -1,0 +1,1588 @@
+{
+ "slug": "tiny-paws-uae",
+ "name": "Tiny Paws UAE",
+ "place_id": "ChIJpwztzQptXz4Rl1lgIWv1LCk",
+ "category": "pet grooming",
+ "category_weight": 10,
+ "area": "Jumeirah, Dubai",
+ "address": "RMT Residence 3655+GG5 - قرية جميرا الدائرية - Jumeirah Village Circle - Dubai Shop 2 - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.0588125,
+  "lng": 55.2088125
+ },
+ "phone": "+971 52 629 4444",
+ "rating": 4.9,
+ "userRatingCount": 172,
+ "rating_distribution": {
+  "oneStar": 2,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 1,
+  "fiveStar": 169
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Tiny%20Paws%20UAE&query_place_id=ChIJpwztzQptXz4Rl1lgIWv1LCk",
+ "website": "",
+ "categories": [
+  "Dog day care center",
+  "Cat boarding service",
+  "Pet groomer"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 6 PM"
+  }
+ ],
+ "owner_description": "Welcome to Tiny Paws at Shop 2, RMT Residence, JVC, Dubai! We are your one-stop destination for exceptional pet care and a wide range of pet supplies. Our dedicated team offers professional dog grooming and cat grooming services, ensuring that your furry friends look and feel their best. We also provide safe and engaging dog daycare and cat daycare facilities, allowing your pets to socialize and have a tail-wagging or purr-fectly fun time. If you're planning a trip, trust us with your pet's comfort and well-being. Our reliable dog boarding and cat boarding services provide a cozy and secure environment where your pets will receive personalized attention and care. We look forward to serving you and your beloved pets!",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   }
+  ]
+ },
+ "review_tags": [
+  "grooming",
+  "video updates",
+  "dog walks",
+  "spacious facility",
+  "kind groomer",
+  "personalized care",
+  "flexible scheduling",
+  "dog hotel",
+  "nervous dogs",
+  "daily updates"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Vesna Mitevska",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had a wonderful experience with Tiny Paws while I was abroad, they took amazing care of my cat and treated her like their own. When I got her back she was happy, comfortable, and even smelled so nice and fresh! It gave me so much peace of mind knowing she was in such caring and trustworthy hands while I was away. Thank you for the excellent care updates and love you gave her 🙏🩵🙏 I highly recommend Tiny Paws to any pet owner",
+   "owner_reply": null
+  },
+  {
+   "author": "Diana Kobeleva",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "We came with our dog Puer and had a really wonderful experience.\n\nYou can truly feel that caring and attentive people work here. Puer can be quite anxious when staying with unfamiliar people, so for us it is very important to feel comfortable and calm leaving him somewhere for the whole day.\n\nThe team was very kind, warm and reassuring, and we felt that our dog was in good hands!\n\nThank you so much for your care and attitude towards the animals 🙏",
+   "owner_reply": null
+  },
+  {
+   "author": "K J",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Really friendly and professional staff & owner - lovely place with parking outside. They provided vaccinations, microchip and grooming for my puppy and she was very well cared for during her time with them, will be taking her back regularly for boarding and all other care needs.",
+   "owner_reply": null
+  },
+  {
+   "author": "dandy",
+   "rating": 5,
+   "when": "Edited 3 months ago",
+   "text": "I recently left my dog for 2 days in Tiny Paws. I took him and saw a mark near the eye, as well as a swollen nail and part of the leg. He started licking these parts hard. Very disappointed in this place, it was our first and last time. As I was told at Tiny Paws, it's because of stress. Very strange Because when I previously left the dog in other places - he was always fine, there were no problems.\n\nUpdate :\nThe owner contacted me and we solved all the problems. I gave my son here again and didn't regret it. Everything is fine, sometimes situations like this happens.\nThank you for creating such an amazing place!\nI wish you and your business to thrive and grow!",
+   "owner_reply": null
+  },
+  {
+   "author": "omar rezgani",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I kept my little Pomeranian in Tiny Paws for few nights while I traveled, it was an amazing experience, they were sending me daily videos of her and walking her twice a day\nThen gave her a shower the day of the pick up\n\nAbsolutely amazing and highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Andreia Capelo",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Tiny paws are part of my baby boy Zuri’s life and I wouldn’t be more happy and grateful for the way they care about him.\nThank you guys 🙏🏻✨ highly recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Luci Tošenovská",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Lola just had her grooming at Tiny Paws and overall we had a really good experience.\nHer haircut came out great, and the team was super friendly. I also really like that they offer pick-up and drop-off, it makes everything so much easier.\nThe only small thing is that the grooming area is connected to the dog boarding, so it can get a bit loud. Lola is quite sensitive to noise, so she was a little stressed because of that. Other than that, everything was great and we'll definitely be back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Vikay Plonska",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "My partner & I were both anxious to leave our pup in doggy day care however Tiny Paws have quickly proven to us that they're the best in the business. We can tell Frankie absolutely loves going in to see his friends & has a truly special relationship with the staff here. The place is always clean & smells nice, no request is ever a problem, it's very reasonably priced & most importantly we feel at ease knowing our puppy is well taken care of whilst we're at work. Thank you so much Tania & the rest of Tiny Paws staff, we don't know what we'd do without you guys!",
+   "owner_reply": null
+  },
+  {
+   "author": "shahram zamani",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I would highly recommend this company to anyone with pets. They operate with genuine care and integrity, and it’s clear they treat every pet as if it were their own. Youssef’s passion and love for animals really stands out, and his generosity and dedication make the whole experience even better.\n\nWe also purchased a paw cleaner for our Cavalier, and it has been amazing, along with every other product we’ve bought from them. Great quality products and even better service. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "M Fares",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "The best pet shop around in Dubai, easy to navigate, daylight area for pets to play. the staff are always helpful and considerate, the selection of pet foods and accessories are awesome. The place is clean and always smells nice and the owner really cares about you and your pet. He is kind with knowledge about pets. My dog wants to visit every time we walk. Personally, I feel totally safe to keep my dog there for stay over like at home",
+   "owner_reply": null
+  },
+  {
+   "author": "Marwa Zbidi",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Really happy with my experience at Tiny Paw. I took my cat there and the service was great. Everyone was so friendly and gentle with her, which I really appreciated. Definitely coming back! 🐾❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Krengel Januszewski",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Leaving my dog for a long trip is always the hardest part of my year, and I usually spend the whole time worrying if he’s eating or if he’s lonely in a kennel. This place completely changed that for me this time because the boarding suites feel more like a cozy little hotel than a typical kennel, and the energy in the building is just calm and peaceful. I could tell from the first day that the staff actually spent time with him and let him explore the new smells at his own pace instead of forcing him out of his crate.\n\nThe updates they sent were so genuine, and they even noticed he loves curling up in his blanket for naps, which shows they were really paying attention and not just ticking a box. It’s so hard to find people who understand that dogs need a different kind of attention than cats, but they really got his personality down. I never felt like I was bothering them when I messaged to check in, and they always replied with so much kindness and detail about how he was settling in.\n\nWhen I finally picked him up, he was so relaxed and happy—he didn’t even do that anxious barking he usually does after staying somewhere else, which was the biggest relief. You can tell this place is run by people who genuinely live and breathe pet care and aren’t just doing it as a job. I’m already planning my next trip, and I won’t even look at another boarding place because I know he’s safe here. It’s such a weight off my shoulders knowing I have a reliable team to help me out 🙏",
+   "owner_reply": null
+  },
+  {
+   "author": "Sara Catania",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have been bringing my Luna for boarding since the moment I adopted her. I can see how much she loves this place by the way she recognises the premises when we arrive and the staff when we meet them.\n\nThe staff members are all caring and affectionate with her, they send updates about her morning and evening so I can check on her even while I’m travelling.\n\nThe place looks like a heaven: all dogs play together, happily running up and down. They also have grooming services: last time I asked them to get Luna a pony tail and she was super cute.\n\nSpecial mention to Taniya who has been the first person I had the pleasure to talk you and sorted out all the problems I have encountered so far. I was once stuck in Korea for work due to heavy snow, and they had no issue to pick up again Luna although they had just dropped her off.\n\nExtremely happy, and if Luna is happy, I am as well. Very recommended!!! 🐾",
+   "owner_reply": null
+  },
+  {
+   "author": "Karolina Storrar",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Tiny Paws is an amazing place. The staff are incredible. Very caring, lovely and super friendly. I love getting videos from there walks and playing time. The space is beautiful and clean and Buddy loves going there, he runs to the door the moment he see the building. He is absolutely in love with Tanya and Tharan. It's like his second family. I trust them fully with our little one and can't recommend them highly enough ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Glaiza Raposas",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Chippy's second home! The team truly cares for my baby as if he were their own. Everyone is so friendly, flexible, and easy to talk to, making the experience even better. I completely trust them and have never been disappointed. They even send me daily video updates without me needing to ask—such a thoughtful touch! Tania is amazing with Chippy, and honestly, the whole team is fantastic. Highly recommended! 😊🐾",
+   "owner_reply": null
+  },
+  {
+   "author": "ronald villegas",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "We've been taking our Luna to Tiny Paws for quite some time now, and we can confidently say that it's the best decision we've made!\n\nThe staff are caring and sweet—special shoutout to Vicky, Puspa, Gihan, Ruben, and the rest of the team. The place is clean and spacious enough for our tiny baby.\n\nThey provide regular updates, sending us photos and videos throughout the day, giving us peace of mind knowing Luna is happy and having a blast.\n\nOur Luna loves it and always comes home happy and tired. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "aqsa butt",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "One of the best daycare services I have used! My husky is always taken care of and he has lots of fun. The team is very professional, caring and trustworthy. The only daycare where I don’t feel worried as I know he is safe and having a great time! The team is very understanding and catering for your needs , the facilities is clean and they always keep up with all kind of celebrations ( birthdays , Halloween , national dog day ) which also keeps us all connected as a great dog community. I would not want my dog to be anywhere else. Thank you to Tania and the rest of the team for being so amazing 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "karolina",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Highly recommend day care!\nIt was our first visit and already our dog got so comfortable and happy which is very rare ( due to the past ). We will come back for sure , thank you so much !",
+   "owner_reply": null
+  },
+  {
+   "author": "Salam",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I usually take Kira to Tiny Paws UAE for daycare, and they always take such good care of her, sending me photos and videos that make me feel at ease 🐾💕. Yesterday they even celebrated her 4th birthday and captured the sweetest moments 🎂🥳.\nI truly appreciate the love and care they show Kira every time!",
+   "owner_reply": null
+  },
+  {
+   "author": "chloé BENABOUD",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "One of the best daycares i found in Dubai.\nThe fact that they have many poodles is a bonus for my lucky . So he made so many friends and loves it there . 🐩\nThe staff are gentle with the dogs and cater to their individual needs.\nThey are diligent with keeping the place clean and smelling good ( very rare) .\nAnd dogs are taken out to the park next door twice a day for walks . I can’t ask for more !\n100% recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "jeanine gonzalez",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "An amazing place to leave your littles furry babies, Mia never what’s to come back home, she always have an awesome time in here, they take very good care of them. I know my babies are in really good hands when I am not in Dubai, I recommend Tiny paws with my eyes close an the staff is just the best they give to much love to them. I am so happy I found this place 💕💕💕💕",
+   "owner_reply": null
+  },
+  {
+   "author": "Alaa Swaidat",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I have been to many pets daycares since I adopted my cat Lime. Tiny paws is the best by miles. Highly recommended and will be back in a heartbeat sooooooon",
+   "owner_reply": null
+  },
+  {
+   "author": "A A",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "One of the best pet daycare places I’ve tried. Clean, organized, and the staff are really helpful. Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "JOSHUA BARRABÁS",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I have been using the pet taxi for a few weeks now and it has honestly changed my whole morning routine since i dont have to rush through traffic anymore. the driver is always so polite and you can see he really likes the dogs plus the van is always super chilled which is a big deal in this heat. i love getting the little videos of him playing at the daycare while im stuck in meetings it makes me feel so much better. they really go the extra mile to make sure the pets are happy and it shows. its definitely the best service ive used since moving here.",
+   "owner_reply": null
+  },
+  {
+   "author": "Marc A",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We’ve been bringing Benji to Tiny Paws since moving to JVC, and we couldn’t be happier! It’s the perfect place for him to socialize, and we have peace of mind knowing he’s in great hands when we’re away. The staff is incredibly caring. Plus, their grooming services are top-notch. We wouldn’t go anywhere else!",
+   "owner_reply": null
+  },
+  {
+   "author": "Florentyna Muldowney",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Looked after our baby for two weeks and I don't think he wanted to leave. He loves going to daycare and all the staff are so kind and love your puppy like their own. As a highly anxious dog mom I feel so at ease! They always send videos whether in boarding or daycare♥️ thankyou tiny paws x",
+   "owner_reply": null
+  },
+  {
+   "author": "Tranz Digital Inc",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Choosing Tiny Paws Daycare was one of the best decisions I made for my pet. For three months, they took incredible care of my buddy Fifty, and I couldn’t be more thankful. From the very first day, the team made us feel welcome and confident that Fifty was in the right place.\n\nWhat really stood out was their constant communication and transparency. The daily updates, videos, and messages showed how much attention and effort they put into every pet. Seeing Fifty happy, active, and comfortable gave me total peace of mind.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vidana Abdel Khalek",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Don't know what I would have done without this team in my life. Dulce loves them and they love her. It gives me so much peace knowing that she is safe and protected and loved while I'm at work or going somewhere where Dulce can't accompany me. Thank you so much for taking care of her everyday!",
+   "owner_reply": null
+  },
+  {
+   "author": "Melike Su",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Amazing experience with Tiny Paws UAE! The staff are extremely caring, professional, and truly love animals. The place is clean, well-organized, and very safe for pets. My pet was treated with so much attention and care. Highly recommended for anyone looking for reliable pet daycare, grooming, or boarding services in Dubai!",
+   "owner_reply": null
+  },
+  {
+   "author": "Olivia Carey",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "What a lovely experience! Great staff! Great grooming services! Squid came out looking like a little bear 🐻 🥰 Thank you so much.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alexandra Polacikova",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I took my rabbit to Tiny Paws\nwhen he got sick and he needed to be given medicine every day for a few weeks. I couldn’t do it myself as I am a flight attendant and I am not at home every day. That’s when I met Taniya there. It is not an easy task to give oral medication to a rabbit who is very picky about his food, however she had a very special way with him. She was very gentle and she knew what she was doing. She managed the task very well and she helped me keep him alive.\nShe also helped me with my cats when they needed medicine daily after castration or when they got sick. I trust Tiny Paws (especially Taniya) in time of need and I leave my beloved pets with them stress free. Thank you! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "aix arias",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "David the groomer is such a kind soul. Really took his time and was so so gentle with the girls who are always nervous for a bath. Always on a hunt for such quality service and im just glad i got referred to TinyPaws here in JVC! The online booking is also a plus ☺️ overall, the staff is incredible and really friendly..thank you guys! See you again for another grooming sesh with my babies 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Celine Locke",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We always choose Tiny Paws UAE for our dog when we go away. Our dog loves the people who work there and always goes tail wagging. They walk her very frequently, play ball games and give a lot of cuddles. When we collect her, she has been washed and is clean. They also send us many many pictures so we can see she is doing well, which always a source of comfort. I would thoroughly recommend Tiny Paws UAE.",
+   "owner_reply": null
+  },
+  {
+   "author": "Maria Trishina",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been working with Tania and her team at Tiny Paws for the past six months, and I couldn’t be more grateful for the care they provide. Every time I travel, they take care of my young cat, Pretzel — and I truly couldn’t imagine leaving him with anyone else.\n\nWhether Tania drops by my apartment to refresh his food and litter and spend time playing with him, or he stays at their cozy boarding hotel, I always know he’s in safe, loving hands. Tania is one of the kindest people I’ve ever met, and her genuine care for my little boy shines through in everything she does — she even checks in with me to ask how he’s doing when I’m back!\n\nI’ve also had the pleasure of meeting her colleagues, and they’re just as warm and wonderful. I can’t recommend Tiny Paws enough — thank you all for your kind hearts and incredible support!",
+   "owner_reply": null
+  },
+  {
+   "author": "Nolan Menezes",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This is a genuine review from an Indian man, living in JVC for the last 5 years with my 5 year old Golden retriever (no affiliation with the company or staff, whatsoever)\n\nI came across tiny paws earlier this year (which is quite a late discovery according to me).\nI've seen the joy, the excitement, the love shared back and forth between my pup and the staff, especially Ms. Taneaa, Mr. Kasun, Mr. JJ and the rest.\nThey have helped me constantly and one such incident would be when I went on vacation in October and they took care of my pup, with constant updates and with consistently filling water in his bowl, switching on / off the AC and keeping the balcony open /closed (which were my instructions to them) everyday they picked / dropped my pup from home to the daycare.\nI kept his food with them and they would feed him twice as per my instruction as well.\n\nApart from that, I regularly send my pup for day care services and he comes back content and tired with updates (through WhatsApp videos) of all his shenanigans with his friends that take place during the day.\nI have also tried their grooming and my pup ends up being a fluffed up delight!\n\nI mean, for any pet owner this kind of service and dedication towards your pets is great and it also lowers your anxiety and worry about the safety and happiness of your child (when you are away or busy) and that is purely achieved with this great establishment, each and every time!!!\n\nAgain a shoutout to the AMAZING Ms  Taneaa. She's a real gem and lucky for all the pets to have her around.\n\nHighly recommended!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Marina Dymchenko",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Totally love this place! The dog comes back smelling relatively good (compared to other places we’ve been to when she’d go into the shower straight from the car!) Grooming services are very good to. Had my fur child boarded couple of times - I fully trust Tiny Paws and my doggo is happy there (see the happy tongue in picture 2!😂)🙏🏻❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Janelle Siy",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I recently had the most amazing experience at TinypawsUAE doggy daycare, and I couldn't be happier! From the moment I walked through the door, I knew my furry friend would be in good hands.\n\nThe staff at TinypawsUAE are incredible. They greeted us with warm smiles and genuine enthusiasm, making us feel right at home. They took the time to understand my dog's needs and preferences, ensuring a personalized and tailored experience.\n\nThroughout the day, my dog was showered with love, attention, and plenty of playtime. The facility is clean, spacious, and filled with toys and activities to keep the pups entertained. It was heartwarming to see my furry friend socializing and making new doggy buddies.\n\nWhat truly sets TinypawsUAE apart is their dedication to safety and well-being. They provided regular walks, fed my dog on schedule, and even sent me adorable updates and photos of our furry friend having a blast. It gave me peace of mind knowing that my dog was in the best care possible.\n\nI can't thank TinypawsUAE enough for their exceptional service. They truly go above and beyond to create a fun and loving environment for our furry companions. If you're looking for a doggy daycare that treats your pup like family, TinypawsUAE is the place to go. I highly recommend them to all dog parents out there!",
+   "owner_reply": null
+  },
+  {
+   "author": "Paige G",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "We have been sending out pups to tiny paws for over a year now. The team is great and always send updates throughout the day :)",
+   "owner_reply": null
+  },
+  {
+   "author": "Mr. T",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI cannot express enough gratitude to Tiny Paws Daycare for the exceptional care they provided for my buddy, Fifty, for three months. From the moment we arrived, it was clear that this is a place where pets are treated with genuine love and compassion.\n\nThe team at Tiny Paws went above and beyond to ensure that Fifty felt at home. Their flexibility in accommodating my schedule was incredibly reassuring, and I always felt supported knowing that he was in such caring hands. The constant updates and videos they shared about Fifty’s wellbeing were truly heartwarming. It was a joy to see him so happy and engaged, and it made being away from him much easier.\n\nThe attention to detail and the nurturing environment they provide is unmatched. I wholeheartedly recommend Tiny Paws Daycare to any pet owner looking for a safe, loving place for their furry family members. Thank you, Tiny Paws, for treating Fifty like one of your own!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ri MD",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Putting a 5-star review is easy, but I believe it wouldn't justify enough how this team is amazing! 💪\nFrom the updates, alerts, to the affection and love they show to our pooches, and I would remiss not to mention how they have been so supportive regarding my foster dog Arya (which now has a loving home) 😇\nCan't thank these folks enough! Great customer service too..\nKeep it up you guys!! 👏👌\n\nKisses from Tim/Yara&Arya  😉❤️",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1126,
+    855
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1128,
+    1279
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1043,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    768,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    640
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    910,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    960,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1250,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1414,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    357,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    334,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    510,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    366,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    361,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    237,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    395,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    361,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    347,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    452,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    466,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    432,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    512,
+    389
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    366,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    406,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    295,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    471,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    294,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    279,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    512,
+    394
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 64,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/tiny-paws-uae/",
+ "buy_likelihood": 6,
+ "notes": "Scouted, not built in batch 1 (weak photos or inactive owner)."
+}

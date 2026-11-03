@@ -1,0 +1,35 @@
+{
+ "preset": "barber-ink",
+ "theme": {"accent": "#C8102E", "accent_text": "#E8434F", "on_accent": "#FFFFFF", "duo": "#5C0A16", "busy": "#7A1220", "glow": "rgba(200,16,46,.16)", "band_bg": "#F3EFE9", "band_accent": "#A00D25", "hero_ratio": "3/4", "slab_o": ".9", "frame": "square"},
+ "brand": {"name": "Adres", "sub": "Turkish Gents Salon · Since 2009", "mark": "A", "footer_word": "ADRES"},
+ "seo": {"title": "Adres Turkish Gents Salon | Barber & Hammam in Al Barsha, Dubai", "description": "Turkish barbers in Al Raha Building, Al Barsha 1 since 2009: haircuts, hot-towel shaves, beard trims, Turkish hammam and Turkish coffee. 4.8 from 1,009 Google reviews."},
+ "hero": {"variant": "split", "ar_name": "صالون أدرس", "kicker": "Al Raha Building · Shop 4 · Al Barsha 1", "title_lines": ["Turkish barbers.", "Turkish hammam.", "Since 2009."],
+   "lede": "Haircuts, hot-towel shaves and beard work by Turkish barbers, a marble hammam in the back, and a Turkish coffee while you wait. Some customers have been coming for over ten years.",
+   "image": "img/hero.jpg", "image_alt": "Marble hammam room with carved wooden doors and copper bowls", "caption": "The hammam at Adres", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Adres, I'd like to book a haircut.",
+ "proof_note": "1,009 reviews · 4.8 average",
+ "address_lines": ["Adres Turkish Gents Salon, Al Raha Building, Shop 4", "Al Barsha 1, Dubai"],
+ "ticker": ["Haircut", "Beard trim", "Hot towel shave", "Turkish hammam", "Manicure", "Turkish coffee", "Kids cuts"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Personal care for gents", "title": "Everything a man needs,", "title_dim": "done the Turkish way.",
+   "items": [
+    {"name": "Haircut & beard", "feature": true, "img": "img/fade.jpg", "alt": "Fresh skin fade with textured top", "desc": "Fades, classic cuts and beard shaping by barbers trained in Turkey.", "quote": "Ask for Yüksel, he is one of the best.", "cite": "Serhat A., customer for 10 years"},
+    {"name": "Turkish hammam", "img": "img/hammam.jpg", "alt": "Hammam room with marble slab", "desc": "Marble hammam with scrub and foam wash."},
+    {"name": "Hot towel shave", "desc": "Straight-razor shave with hot towels and the full Turkish finish: ear and nose waxing on request."},
+    {"name": "Manicure & grooming", "desc": "Manicure, pedicure, facials and threading for gents."},
+    {"name": "Turkish coffee & tea", "img": "img/coffee.jpg", "alt": "Turkish coffee on an Adres Salon napkin", "desc": "On the house while you wait."}
+   ],
+   "perks": ["Good for kids", "Wheelchair accessible", "Translation help (Turkish, Arabic, English)", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "No waiting", "title": "Skip the queue.", "title_dim": "Come when it's quiet."},
+  {"type": "team", "id": "team", "nav": "Barbers", "eyebrow": "The barbers", "title": "Regulars ask", "title_dim": "for them by name.",
+   "items": [
+    {"name": "Yüksel", "count": 5, "role": "Master barber", "quote": "My son and I have been regular customers for over 8 years.", "cite": "Babur Y."},
+    {"name": "Mustafa", "count": 4, "role": "Barber", "quote": "Very professional and talented person.", "cite": "Mashaal A."},
+    {"name": "Mehmet", "count": 3, "role": "Barber", "quote": "Once you find a good barber, you stick with them.", "cite": "Babur Y."},
+    {"name": "Eser", "role": "Barber"}, {"name": "Yusuf", "role": "Barber"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Adres Salon storefront", "wide": true}, {"src": "img/salon.jpg", "alt": "Barber chairs and mirrors"}, {"src": "img/sign.jpg", "alt": "Red Adres Salon sign", "wide": true}, {"src": "img/tea.jpg", "alt": "Turkish tea glasses on a tray"}, {"src": "img/shop.jpg", "alt": "View across the salon to the street", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Raha Building,", "title_dim": "Al Barsha 1."}
+ ]
+}

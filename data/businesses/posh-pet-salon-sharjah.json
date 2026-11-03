@@ -1,0 +1,1318 @@
+{
+ "slug": "posh-pet-salon-sharjah",
+ "name": "Posh Pet Salon by Adore | Pet Grooming in Sharjah",
+ "place_id": "ChIJIabBJe5bXz4RmztMCpxFYME",
+ "category": "pet grooming",
+ "category_weight": 10,
+ "area": "Al Nahda, Sharjah",
+ "address": "al wathbah building - shop no 3 - 3 St - Al Khan - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3295327,
+  "lng": 55.3668655
+ },
+ "phone": "+971 58 588 3341",
+ "rating": 4.9,
+ "userRatingCount": 184,
+ "rating_distribution": {
+  "oneStar": 4,
+  "twoStar": 1,
+  "threeStar": 0,
+  "fourStar": 7,
+  "fiveStar": 172
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Posh%20Pet%20Salon%20by%20Adore%20%7C%20Pet%20Grooming%20in%20Sharjah&query_place_id=ChIJIabBJe5bXz4RmztMCpxFYME",
+ "website": "",
+ "categories": [
+  "Pet groomer",
+  "Pet store"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "12 to 9 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "1 to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Posh, a luxury pet salon in the heart of Sharjah, offers a professional yet gentle grooming experience for your beloved pet. Our fully trained staff ensures a high level of hygiene and provides a tranquil, luxurious spa experience. If you're seeking pet grooming in Sharjah, either dog grooming or cat grooming , we cater to all your needs. As a leading pet salon in Sharjah, Posh is dedicated to delivering exceptional care. Trust us for your pet's grooming needs at the finest pet grooming salon.",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   },
+   {
+    "On-site parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "gentle groomer",
+  "full grooming",
+  "professional groomer",
+  "patient groomer",
+  "pomeranian grooming",
+  "affordability",
+  "cat grooming",
+  "job by mr gerald",
+  "attention to detail",
+  "baby grooming"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Anushka Anu",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "We visited this shop on Sunday with our three cats, and it was a really nice experience. The groomer (mark) was very friendly, sweet, and welcoming from the moment we arrived. He mentioned that it had been a very busy and tiring day with many dogs and cats to handle, but despite that, he stayed patient and kind throughout.\n\nThe shop itself was cute,, and had a comforting atmosphere, You can tell he genuinely cares about the pets he works with. Overall, a lovely experience and we would definitely come back again. Thank you!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jenice Pinlac",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "We arrived 10 minutes before closing time, and they still happily accepted our booking. Mark (the groomer) welcomed us with a smile, and during a short chat, I found out they were fully booked for the whole day and he was the only groomer available. Despite being tired and having a busy schedule, he accommodated us and groomed our furbaby carefully and neatly. I truly appreciate his hard work and dedication.\n\nI also want to say thank you to the owner, who genuinely cares for her customers and their pets. I’ve been their customer since they had a shop in Al Qusais, which was closer to our place, and even now that they have transferred to Al Khan. Although it’s a bit far from us, we still keep coming back because of the quality of service they provide.\n\nHighly recommended for pet owners who want genuine care, patience, and excellent grooming service. We’ll definitely continue coming back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sumerah Khan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I have been taking my cats to them for years now and even let them for boarding when I travelled. Excellent services and grooming. Mark usually grooms all my cat and he is very gentle with them.\nI have recommended them to all my friends with pets, they treat your fur babies with lots of care and love.",
+   "owner_reply": null
+  },
+  {
+   "author": "Divya Bhola",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a wonderful experience with Posh Pet Salon! The service was professional, friendly, and my furry baby came back looking absolutely adorable. A special thank you to Mark, who did an amazing job with the grooming. He was patient, attentive, and clearly cared about my pet’s comfort and well-being.\n\nThe grooming was done beautifully, and my dog looked and smelled fantastic. I highly recommend Posh Pet Salon to anyone looking for quality pet grooming services. Thank you for taking such good care of my fur baby! 🐾❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Roshan Naz",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The groomer Mr Mark did very good job he taken time and he is very patience towards pets very much satisfied.!\nWe went to so many groomers but haven’t seen groomer working this nicely.!\nRecommended to everyone who loves their pet to bring their fur baby to Mr Mark.!😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Jmae Duag",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a great experience with the full grooming service! Mark was very kind, gentle, and patient with my dog. My dog was refusing to let him trim some areas, but he stayed calm and took his time until the grooming was done. You can really tell he cares about the pets he grooms.\n\nThe salon is clean, stylish, and in a very convenient location. My dog came home looking and smelling amazing!\n\nI will definitely come back and highly recommend this place, especially Mark. Thank you for the excellent service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Amany Munir",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Very good experience with pet salon, Mark the groomer is so professional and friendly, he made sure my cat is comfortable and very kind with her , he was gentle, caring, and professional. Their work is spotless and perfect. Highly recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Raina Mouallem",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Mark is exceptionally skilled with animals—his expertise truly stands out, and his gentle, caring approach makes all the difference. He gave my cat the most adorable haircut, and I couldn’t be happier with the result! On top of that, the salon offers very reasonable pricing, and the overall service is simply outstanding.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sara Al",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I brought my cat Leo for grooming, and I’m really happy with the service. They gave him a bath and a haircut, and he looks amazing. The staff member was very kind, friendly, and professional. They took good care of Leo, and the whole experience was great. I highly recommend this place. Thank you!",
+   "owner_reply": null
+  },
+  {
+   "author": "جميلة أمين",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Excellent Job! ⭐️⭐️⭐️⭐️⭐️\n\nI've been a loyal customer of POSH Pet Salon by Adore since their early days in Dubai- Al Qusais, and I can confidently say that they have consistently provided outstanding service. Although I can't visit as often as I would like due to the distance from my home, I still trust them completely with my pets, especially Gerald, the Filipino groomer.\n\nGerald has always been a standout professional in the grooming industry. His expertise and genuine love for animals truly shine through in his work. Knowing that he takes care of my dogs with such dedication gives me peace of mind. I always leave confident that my furry babies are in the best hands.\n\nEven though the salon might be a bit far for me, the quality of service and the trust I've built with Gerald makes the trip worthwhile. I highly recommend POSH Pet Salon by Adore to anyone looking for a reliable and skilled groomer. You can rest assured that your pets will be treated with kindness and care!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ace Carandang",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Great grooming service for both dogs and cats. The staff are caring and professional, and they handle pets very gently. Gerald and Mark they listened to exactly how I wanted the grooming done and delivered perfect results. My 2 Fur babies (2 Dogs and 1 Cat) looked fantastic after the grooming. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rodel Cruz",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Posh Pet Salon highly recommended for your pet’s grooming needs. They always do their job with patience and care. Both Gerald and Mark well done and keep it up!\nThank you Posh Pet!",
+   "owner_reply": null
+  },
+  {
+   "author": "Riya Grace",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great grooming by Mark! Clean, neat, and handled my dog with care. Very happy with the result.",
+   "owner_reply": null
+  },
+  {
+   "author": "Smitha Aji",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Adore Pet salon is an awesome salon to groom your puppy. Jerald, the Filipino groomer, did an amazing job giving my puppy a good shower, haircut, nail cut, and tooth care.  Highly recommend Jerald to get a neat job done with care. The prices are affordable and attractive at all times. I have been here many times for my puppy grooming and find this salon very tidy and clean. My puppy looks very happy after getting her groom done at Adore Pet Salon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ishita Singh",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "We always have a great experience at Posh Pet Salon. Our last visit with Mark was great. He listened to what we wanted and did a wonderful job with our cat Blue. He was also super kind and friendly, which helped put Blue at ease and made the whole process seamless.",
+   "owner_reply": null
+  },
+  {
+   "author": "Queen",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best grooming services \"\"Posh Pet Salon by Adore\"\"\" , very professional, very clean , high-quality, , everything you looking for in terms of hair cut styles and equipment & tools .\nGerald it's the cherry 🍒 on the cake the best in his services, very patient and very professional 👌. Well done Gerald , well done 👏👏👏👏👏👏👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Romeo Neverdies",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Mark groomer was super great, he has that fine touch for grooming. his skill are finesse, great grroming experience with him. and he loves to talk to my cats alot. which is by the way a great way to comfort the cats.",
+   "owner_reply": null
+  },
+  {
+   "author": "Conqueror",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best Service ever. Friendly staff and great service. Fast and very caring and affordable prices first time here but now this will be our regular groomer. Gerald was the one who assisted us and he is the best. Great service keep it up he groomed our dog at cat both🌹🌹",
+   "owner_reply": null
+  },
+  {
+   "author": "Omar “3moorHD” Ashraf",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I was greated by mark he handle my pet Joly in a professional and lovely way. He analyzed and recommended what is the best way to keep Joly always looking fresh and healthy. He handled Joly with love and care and that why I definitely be coming back as I see Joly made a new friend today",
+   "owner_reply": null
+  },
+  {
+   "author": "MUDDASSIR AHMED KHAN",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had an amazing experience at this pet salon! Mark did a fantastic job grooming our four cats exactly the way we wanted the results were beautiful and exceeded our expectations.\n\nWhat really stood out was his dedication and care. He even extended his working hours to make sure all four cats were perfectly groomed without rushing. That level of commitment is rare and truly appreciated.\n\nHighly recommend this place, especially Mark, if you’re looking for professional, patient, and high-quality grooming services!",
+   "owner_reply": null
+  },
+  {
+   "author": "arpana chhetri",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Gerald was amazing with my puppy, Zoe ! 🐶✨ He gave such a neat and adorable haircut, and the paw trim was perfect. My little one looked extra cute and came home happy and fresh. You can tell Gerald truly cares and is great at what he does. Highly recommend him for anyone looking for a groomer who’s gentle, skilled, and loves pets!",
+   "owner_reply": null
+  },
+  {
+   "author": "Reem Kannous",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Mark did an amazing job grooming my dog! The haircut was exactly what I wanted, and he was very professional and kind. My dog looks great. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammad Saidi",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I would like to thank Mark for his professional services and kindness, since I entered the shop and he approached with nice words, he did full grooming for my two cats exactly as I asked him and the hair cut was super nice.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alladin Llanillo",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience at Posh Pet Salon by Adore! Mr. Gerald was so gentle and caring with my pet Bella, making sure he felt safe and comfortable throughout the whole process. The grooming was done perfectly, he looks adorable and smells fantastic! I highly recommend this salon. 👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Khalid Mahmoud",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great Groomer Mr. Mark. Thank you for your care of my pet. This is the first time in 13 years old of my pet that it acts normally after grooming. Before my pet used to stay one or to days in a panic . Thanks Mark.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mandeep Vij",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "100000000/10 , they did a brilliant job with my dog , his cut has made it easier for him to run , bathe , etc , and its super soft ! 10/10",
+   "owner_reply": null
+  },
+  {
+   "author": "Hanna Mel",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Huge thank you to Mark for taking such good care of my two cats during their grooming session 🐱🐱 Grooming cats can be tricky, especially with different personalities, but he was so patient, gentle, and professional the whole time. My cats came back looking clean, fluffy, and well-groomed without seeming stressed, which says a lot.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shehan Weligama",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It’s my first time to take Simon and Coco to this branch in Sharjah. Very quiet and clean place. Gerald was a very friendly person specially with my cats and groomed them just the way I wanted. He was very careful and caring with my pets! Thank you Gerald and keep up the good work!",
+   "owner_reply": null
+  },
+  {
+   "author": "Dana Foz",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The best pet salon, Mark the groomer is so professional and friendly, he made sure my cat is comfortable and not scared at all, he was gentle, caring, and professional. Their work is spotless and perfect. Highly recommended 👍🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "saiqua bamne",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Experience was excellent.... Mr. Mark is  very kind ...he does  excellent job Thank you definitely I will visit... Posh pet salon... My poodle also very happy with his new look",
+   "owner_reply": null
+  },
+  {
+   "author": "Diana Jumaa",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I love bringing Chucky to Posh Pet Groomer! He always comes back clean, fluffy, and so happy. Mr. Gerald is amazing with him gentle, patient, and truly caring. Chucky actually gets excited to see him! Highly recommend❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Maria Rakeza Zapatero",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great experience! My husky came out looking incredibly neat, fluffy, and smelling amazing. Special thanks to Mark for his professionalism and care. You can really tell he knows how to handle dogs with patience and expertise.",
+   "owner_reply": null
+  },
+  {
+   "author": "sunil pillai",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Mark you have been very kind and patient towards my cat . I would recommend anytime Mark and his service for the pet grooming . Thanks a ton",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Yaseen",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Gerald’s hospitality at the Posh Pet Saloon’s cat grooming service is truly outstanding. From the moment you arrive, it’s clear that Gerald has a special way with cats—his calm and caring nature immediately puts even the most anxious felines at ease. He takes the time to understand each cat’s unique needs and preferences, ensuring a grooming experience that is both gentle and thorough. Gerald’s friendly and professional approach makes every visit a pleasure, and his attention to detail leaves your cat looking and feeling their best.",
+   "owner_reply": null
+  },
+  {
+   "author": "jan Roche",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Gerald was very thorough with the grooming. My cat is not very friendly to me when I groom myself but Gerald didn't even wear gloves and nothing happened! I highly recommend the place despite affordability quality is also delivered. I will come back again because of very good experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Chathura Liyanage",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I took my dog here today for a full grooming, and the experience was excellent. Gerald did a great job and took his time throughout the process. The haircut came out very nice, and my dog was cleaned properly and handled with care. You can see the attention and effort he puts into his work. I highly recommend this place for anyone looking for quality pet grooming.",
+   "owner_reply": null
+  },
+  {
+   "author": "Hina Rais",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "As usual Gerald was very meticulous about the grooming fr my furry frnd. His service was top - notch.\n\nAmple parking space.",
+   "owner_reply": null
+  },
+  {
+   "author": "Hertbert Domrigue",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience at Posh Pet Salon! Special thanks to Gerald, the groomer, who did an outstanding job. He was incredibly gentle, patient, and clearly experienced — my pet was completely at ease in his hands.\n\nGerald gave my fur baby the perfect cut and made sure every detail was just right. You can tell he genuinely cares about animals and takes pride in his work. The salon itself is clean, welcoming, and professional.\n\nIf you’re looking for a groomer who treats your pet like royalty, Gerald at Posh Pet Salon is the one to go to. Highly recommended — we’ll definitely be regulars!",
+   "owner_reply": null
+  },
+  {
+   "author": "Fahad Bin Thafar",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Gerald, the staff was amazing!\nI took my two cats for full grooming at Posh Pet Saloon, and he did a great job for both of them. One of my cats had Matts and his back was really messy due to long hair, Gerald took care of it very well with care.\nI highly recommend this place for cat owners 👍🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Sahal Sathar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Posh has done a very great job in grooming my cat. Mr.Gerald was very friendly and gentle, it was an excellent job.🥰🎉",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    437,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    289,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    291,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    408,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    261,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    307,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    512,
+    407
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    418,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    512,
+    413
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    432,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 65,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/posh-pet-salon-sharjah/",
+ "buy_likelihood": 6
+}

@@ -1,0 +1,186 @@
+{
+ "preset": "rose-blush",
+ "theme": {
+  "accent": "#B76E79",
+  "accent_text": "#9C4F5B",
+  "bg": "#FBF5F2",
+  "surface_2": "#F2E2DD",
+  "hero_ratio": "3/5",
+  "slab_o": ".35",
+  "frame": "arch"
+ },
+ "brand": {
+  "name": "Maira",
+  "sub": "Beauty Salon · Karama",
+  "mark": "M",
+  "footer_word": "Maira"
+ },
+ "seo": {
+  "title": "Maira Beauty Salon | Ladies Salon near BurJuman, Al Karama, Dubai",
+  "description": "Women-owned ladies' salon in Al Karama near BurJuman metro: hair spa, nail extensions, gel manicures, hydra facials and blow dry. 4.9 from 348 Google reviews."
+ },
+ "hero": {
+  "variant": "split",
+  "kicker": "15 2A Street · Al Karama · Near BurJuman metro",
+  "title_lines": [
+   "Wake up",
+   "like this."
+  ],
+  "lede": "A calm, spotless ladies' salon a short walk from BurJuman metro. Hair spa, nail extensions, gel manicures, hydra facials, waxing and blow dry, by a team clients ask for by name.",
+  "image": "img/hero.jpg",
+  "image_alt": "Maira's arched mirror with 'I woke up like this' lettering",
+  "secondary": {
+   "label": "Our services",
+   "href": "#services"
+  }
+ },
+ "cta_label": "Call to book",
+ "proof_note": "Rated 4.9, almost all five stars",
+ "address_lines": [
+  "Maira Beauty Salon, 15 2A Street",
+  "Al Karama, Dubai"
+ ],
+ "socials": {
+  "instagram": "mairabeautysalon"
+ },
+ "sections": [
+  {
+   "type": "services",
+   "id": "services",
+   "nav": "Services",
+   "layout": "grid",
+   "eyebrow": "Services",
+   "title": "Hair, nails and skin,",
+   "title_dim": "done gently and precisely.",
+   "items": [
+    {
+     "name": "Hair spa",
+     "feature": true,
+     "img": "img/waves.jpg",
+     "alt": "Long brunette waves after a blow dry",
+     "desc": "Schwarzkopf hydrating and Nashi Argan sulfate-free hair spas, head massage and hot oil treatments.",
+     "quote": "I tried their Schwarzkopf hydrating hair spa and absolutely loved the results.",
+     "cite": "Ashly L."
+    },
+    {
+     "name": "Nails",
+     "img": "img/nails.jpg",
+     "alt": "Baby blue nails with flower art",
+     "desc": "Gel manicures, nail extensions and nail art."
+    },
+    {
+     "name": "Pedicure & manicure",
+     "img": "img/pedicure.jpg",
+     "alt": "Pedicure chairs with nail polish wall",
+     "desc": "Comfortable pedicure stations with a full colour wall."
+    },
+    {
+     "name": "Cuts, colour & blow dry",
+     "img": "img/curls.jpg",
+     "alt": "Stylist curling brown hair",
+     "desc": "Cuts, root touch-ups, grey colouring and styling."
+    },
+    {
+     "name": "Facials & waxing",
+     "desc": "Hydra facials, threading and waxing with a careful finish check."
+    }
+   ],
+   "perks": [
+    "Women-owned",
+    "Near BurJuman metro",
+    "Free parking",
+    "Free Wi-Fi",
+    "Complimentary drinks",
+    "Cards & Apple Pay"
+   ]
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Team",
+   "eyebrow": "Stylists clients ask for",
+   "title": "Sobia, Husena",
+   "title_dim": "and Komal.",
+   "items": [
+    {
+     "name": "Husena",
+     "count": 7,
+     "role": "Nails & beauty",
+     "quote": "Extremely skilled, gentle, and precise in her work.",
+     "cite": "Google reviewer"
+    },
+    {
+     "name": "Sobia",
+     "count": 5,
+     "role": "Senior hair stylist",
+     "quote": "Ms. Sobia exceeded my expectations when it comes to a salon experience.",
+     "cite": "Ann Ville P."
+    },
+    {
+     "name": "Komal",
+     "count": 4,
+     "role": "Beauty therapist",
+     "quote": "Everything is always done neatly and beautifully.",
+     "cite": "Google reviewer"
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/front.jpg",
+     "alt": "Maira storefront"
+    },
+    {
+     "src": "img/interior.jpg",
+     "alt": "Maira reception and salon floor"
+    },
+    {
+     "src": "img/nails-wine.jpg",
+     "alt": "Wine-red almond nails"
+    },
+    {
+     "src": "img/blonde.jpg",
+     "alt": "Stylist curling blonde hair under the 'glowing skin' arch"
+    },
+    {
+     "src": "img/brand-wall.jpg",
+     "alt": "Maira logo wall"
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "faq",
+   "id": "faq",
+   "eyebrow": "Good to know",
+   "title": "Before your visit",
+   "items": [
+    {
+     "q": "Do I need an appointment?",
+     "a": "Appointments are recommended, especially evenings and weekends. Call +971 4 396 2048."
+    },
+    {
+     "q": "How do I get there by metro?",
+     "a": "Take the Red or Green Line to BurJuman. Maira is a short walk away on 15 2A Street in Al Karama."
+    },
+    {
+     "q": "Is there parking?",
+     "a": "Yes, there is free parking nearby."
+    }
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Near BurJuman,",
+   "title_dim": "in the heart of Karama."
+  }
+ ]
+}

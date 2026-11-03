@@ -1,0 +1,1186 @@
+{
+ "slug": "high-touch-automotive",
+ "name": "High Touch Automotive",
+ "place_id": "ChIJvwUZIL1pXz4RXbXvchv5H0s",
+ "category": "car detailing",
+ "category_weight": 11,
+ "area": "Al Quoz, Dubai",
+ "address": "Warehouse 36 17A St - Al Qouz Ind.second - Al Quoz - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.1357366,
+  "lng": 55.2423162
+ },
+ "phone": "+971 54 566 6560",
+ "rating": 4.7,
+ "userRatingCount": 199,
+ "rating_distribution": {
+  "oneStar": 10,
+  "twoStar": 1,
+  "threeStar": 1,
+  "fourStar": 5,
+  "fiveStar": 182
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=High%20Touch%20Automotive&query_place_id=ChIJvwUZIL1pXz4RXbXvchv5H0s",
+ "website": "",
+ "categories": [
+  "Car detailing service",
+  "Auto body shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "Closed"
+  }
+ ],
+ "owner_description": "High Touch Auto Care is committed to providing the best protection for modern and old cars. We revive and protect any car back to its former glory. We also provide paint protection services for brand new cars so your car looks and feels brand new for years to come. Get in touch with us today to know how we can protect your car!\n\nWe offer the following services:\n\n1. Paint Protection Film(PPF)\n2. Wrapping\n3. Window Tinting\n4. Wheel Repair and Restoration\n5. Interior Deep Cleaning\n6. Exterior Deep Cleaning\n7. Interior Restoration\n8. Exterior Restoration\n9. Ceramic Coating\n10.Paintless Dent Removing(PDR)\n11.Painting & Smart Paint Repair(SPR)",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible seating": false
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "ceramic package",
+  "ceramic coating",
+  "rim painting",
+  "professional team",
+  "Hidden",
+  "ppf installation",
+  "progress photos",
+  "interior detailing",
+  "clear explanations",
+  "Refined service"
+ ],
+ "popular_times": {
+  "Su": [],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.05,
+ "reviews": [
+  {
+   "author": "Marwan Ansari",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "An unexpected but amazing experience! Safiah, the barista at this automotive garage, truly elevates the whole visit. The coffee is consistently excellent—fresh, perfectly made, and better than many cafés. While your car is being serviced, you get to relax and enjoy a proper cup of coffee. Safiah is friendly, professional, and clearly passionate about what she does. It’s a small touch that makes a big difference and turns a routine garage visit into a genuinely pleasant experience. Highly recommended! ☕🚗",
+   "owner_reply": null
+  },
+  {
+   "author": "Ramesan Divakaran",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Just had ceramic coating done on my second car, and once again, the results are outstanding as always. The finish is flawless—deep gloss & rich shine.\n\nThe team was professional, thorough, and clearly passionate about what they do. From prep to application they ensured the end result was worth the wait. Shout out to yousef for being so professional and ensuring the car comes out better than expected.\n\nHighly recommended if you care about preserving your car’s appearance long-term. Consistent quality every time—definitely worth it!",
+   "owner_reply": null
+  },
+  {
+   "author": "Alia Alsumaiti",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Absolutely the best car service ever — my number one choice, hands down! I got both my PPF and tinting done here, and I couldn’t be happier with the results. The staff are incredibly friendly, professional, and genuinely nice people. Most importantly, they’re honest and trustworthy, which makes the whole experience even better. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Bernard Gerard",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "**Excellent PPF service for my Tesla Model Y**\n\nHigh Touch Automotive did an amazing job applying paint protection film to my Tesla Model Y in matte grey. Their team was professional from start to finish, understood exactly what I wanted, and gave great advice.\n\nThe work quality was perfect - no bubbles or flaws, and it looks fantastic with the matte finish. They kept me updated with progress photos throughout the process. The staff’s attention to detail and passion for cars really shows in their work.\n\nMy Tesla looks pristine and I’m confident the PPF will protect it on Dubai’s roads. Highly recommend High Touch Automotive for top-quality car care. 10/10 - I’ll definitely use them again",
+   "owner_reply": null
+  },
+  {
+   "author": "Sanjay Jayan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Just got my brand new Genesis GV70 and the best decision I made was giving it to High Touch Auto Care for a complete protection package. PPF, Interior Protection, Tinting and now car looks like a dream come true. Top of the class service and excellent customer service. Mr. Samil who’s the manager at HTAC guided me from step 1 till the end to ensure I was clear of every thing that’s being done on my car. If you truely care about your car then HTAC is where you should take your car 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Miltiadis Kyvernitis",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This place is beautiful and their staff are meticulous with their work. I brought in 3 cars to apply ceramic coating with additional paintwork, and they left their warehouse looking like showroom pieces. Thank you for the great passionate work!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jyothis Ramesh",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Amazing service provided by the high touch team ! I had taken the ceramic package for my car  plus an interior detailing done for another, offered up a great deal on it too.  Professional. Efficient and attention to detail that is impeccable. Highly recommend High Touch to anyone looking to spruce up their car. A big shout to Aslam and team for making the experience that much better.",
+   "owner_reply": null
+  },
+  {
+   "author": "Noora",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience at Hitouch Auto Care. The service was excellent, and the staff was professional and friendly. They serviced my car perfectly and in record time. Special thanks to Diab and Ahmed for their exceptional service. I highly recommend this place to anyone looking for reliable and high-quality car care. Thank you for the wonderful experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Alya Sultan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently visited High Touch Automotive for a PPF reapplication, and I was very impressed with the service. They finished the job in a short time with quick and efficient work.\n\nAlthough I initially had some miscommunication with the technician, the owner himself (an Emirati) personally called me, apologized, and even took my car back to fix everything that annoyed me . That level of care, understanding, and professionalism really stood out to me.\n\nIt’s rare to find this kind of service and attitude nowadays. Their willingness to listen and go the extra mile makes me confident about coming back again. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Salman Bashir",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Once again High Touch has not failed to impress.\n\nI visited after a year for my cars PPF refreshment where the team carried out interior detailing and ceramic coating on top of the PPF that they had applied last year.\n\nI am glad to say that from delivery to pickup, the service was impeccable. A big thank you to all High Touch team.\n\nSalman",
+   "owner_reply": null
+  },
+  {
+   "author": "Wins Mathew",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Top-Tier PPF Service and Customer Care\n\nI highly recommend High Touch Automotive for PPF. I entrusted them with my new Volkswagen Teramont R-Line, and they exceeded my expectations in every way.\n\nThe process was seamless, thanks to Youcef's clear communication and professionalism. They provided consistent updates and even sent progress photos, which demonstrated their transparency and pride in their work.\n\nThe quality of the installation is exceptional. The film is perfectly aligned and invisible, providing incredible peace of mind. This team clearly knows how to handle premium vehicles. For anyone looking for a stress-free experience and a flawless result, High Touch Automotive is the clear choice.",
+   "owner_reply": null
+  },
+  {
+   "author": "Danial Mokhtari",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I had an excellent experience at High Touch Automotive. From the moment I walked in, the staff was friendly, professional, and very knowledgeable. They explained the problem clearly, gave me a fair price, and finished the work on time. My car feels like new again. It is rare to find a shop that is both honest and skilled, but this place truly lives up to its name. I will definitely be coming back and recommending them to others.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed salim",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Great work and very professional service. Clean, precise, and excellent attention to detail. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sampath Welikala",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "High touch did a really good job on both my vehicles. Impressed and the cost is reasonable, highly recommended.\nHappy customer.",
+   "owner_reply": "Hi!<br><br>Thank you so much for taking the time to give us an amazing review. We really appreciate your business and we look forward to seeing you again at our detail studio.<br><br>Have a great day!"
+  },
+  {
+   "author": "Amer Allouz",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I brought my new car to High Touch Automotive and am highly impressed with their service.\n\nThe team handled everything carefully and professionally, giving me peace of mind.\n\nI want to thank Ms. Rama and Mr. Yousef, especially, for their outstanding support.\n\nThey explained everything clearly and ensured everything was done to the highest standard.\n\nGreat experience overall. I highly recommend them to anyone looking for reliable and high quality service for their vehicle.",
+   "owner_reply": null
+  },
+  {
+   "author": "FM",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Great work! Amazing customer service! Got to know them by the word of mouth.\nChanged my mind couple of times on whether to do glossy or matte ppf but they didnt charge me extra even though they had to replace a part and start again.\n\nThey are really worth it.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Almansoori",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "High class treatment and perfect work quality. Just contact Rama and your car will be in safe hands.",
+   "owner_reply": null
+  },
+  {
+   "author": "Adel Al Ali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently took my car to High Touch Automotive for body polishing, interior detailing, and the pamper paint service — and I’m honestly shocked (in the best way) by the results!\n\nThe team was incredibly professional, finished everything right on time, and the paint match was absolutely perfect — like factory finish. The attention to detail, both inside and out, exceeded my expectations.\n\nHighly recommend them if you're looking for high-quality car care with great service and reliable timing. Definitely coming back again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Obadah Alattal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "High touch thanks for amazing hospitality and commitment.\n\nmuch of gratitude for taking care of all the finest details for the PPF and all the state of the art parts\n\nspecial thanks to the very nice and kind man mr. yousef. was very helpful and respectful throughout the whole process ❤️💯",
+   "owner_reply": null
+  },
+  {
+   "author": "omar salah",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently had PPF installed on my car here and I couldn’t be happier with the result. Yusuf was extremely professional and made sure everything was done to perfection. The attention to detail and the level of care they gave my car were truly impressive.\n\nI’ve had previous experiences with two other places — both were more expensive, but the results didn’t come close to the quality I received here. This place offers exceptional value for money and top-notch service.\n\nOn top of that, they delivered the car even before the promised time, which was a great bonus. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "saeed alfalasi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Absolutely impressed with the attention to detail and professionalism! My cars looks and feels brand new inside and out. The team was friendly, efficient, and clearly takes pride in their work. Highly recommend this shop to anyone who wants top-quality detailing services!",
+   "owner_reply": null
+  },
+  {
+   "author": "Serhat Çalışır",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently got PPF installed for my car at High Touch, and I couldn’t be happier with the experience. From the moment I arrived, the team was incredibly professional and welcoming. Special thanks to Rama and Aslam for their amazing support throughout the entire process — they were knowledgeable, attentive, and made sure every detail was handled perfectly. The quality of the work is outstanding, and my car looks flawless. Highly recommend High Touch for anyone looking for top-notch service and results!",
+   "owner_reply": null
+  },
+  {
+   "author": "Bas",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Amazing experience from start to finish. Youssef and Manal provided outstanding customer service. The studio is clean, professional, and clearly run by people who genuinely care about cars and their craft.",
+   "owner_reply": null
+  },
+  {
+   "author": "Craig Matthews",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "in a word.. well, two words actually \"Exceedingly Professional\".\nThis is certainly one of the most professional car detailing businesses I have had the pleasure of dealing with in the UAE.\n\nIt is clearly evident the owner has high expectations of his employees, as the team at High Touch Automotive deliver through and through.\n\nBoth the interior and exterior finish on my car is nothing but flawless. Very, very pleased and impressed.\n\nProfessionalism - 10/10\nService - 10/10\nKnowledge - 10/10\nFriendly Staff - 10/10\nResponse time to questions/messages - 10/10\nKept up to date - 10/10\nOn time completion - 10/10\nCar Studio Cleanliness - 10/10\n\nThank you Youcef, and the team at High Touch.. you truly exceeded my expectations.\n\nSwafiyah, your coffee's are amazing.. thank you.",
+   "owner_reply": null
+  },
+  {
+   "author": "Slim Naairi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Did my PPF, window tinting, ceramic coating…They are so professional, dedicated, and clean and perfect work. Loved the fact they have a space that serves coffee and drinks while you are waiting. This workshop was above my expectations especially in term of prices and without forgetting the high level of customer service by the gentleman Youcef who was a dedicated, very decent and polite person.Keep it up HT.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aqib Khan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very professional guys - extremely detailed in taking care of your ride. Cost effective and great quality whether it’s tint or ceramic or PPF. They even do the blackout for cars like defender and others. Love the place, definitely will recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "salama al khatri",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was a great experience working with High Touch Automotive. They were very professional, reliable and efficient! One of the best places to get top notch service for your car! Thanks to Diab for his cooperation and unwavering dedication throughout the process! Highly recommend!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Fardan AlFardan",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "I took my brand-new car straight from the showroom to High Touch for PPF, and the experience has been a complete disaster. Instead of protecting my car, they returned it with scratches on the paint. On top of that, the parts they removed to apply the PPF were not reassembled properly, and clips were missing from the fender.\n\nI even highlighted these issues and asked them to fix their mistakes, but they still missed several points and handed the car back without properly addressing the problems. This shows not only poor workmanship but also a complete lack of accountability.\n\nFor a brand-new vehicle, this kind of carelessness is absolutely unacceptable. I expected professional service and attention to detail, but what I got was the opposite. I would never recommend High Touch to anyone who values their car.",
+   "owner_reply": null
+  },
+  {
+   "author": "A Basseda",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great service, always available and execution of the repair was great. Many thanks to Rama to ensure a seamless customer experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Hamad Ali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience with High Touch Auto Care for my PPF installation. Ahmed was incredibly humble and professional throughout the entire process. He kept me updated at every stage, ensuring I knew exactly what was happening with my car. Not only was the quality of work top-notch, but Ahmed also went out of his way to assist with transportation, making the whole experience smooth and hassle-free. If you’re looking for great service and attention to detail, I highly recommend this place!",
+   "owner_reply": null
+  },
+  {
+   "author": "Vivek Venkoban",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I got my PPF done at High Touch last month. They did a great job and were very quick! Extremely happy with the speed and professional setting.\nThere was a slight issue with the central console after the PPF, but they took full responsibility.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rohini Premraj",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently had my car's interior and exterior cleaned by High touch Auto care and I couldn't be happier with the results! The team did an incredible job, leaving my car looking and feeling brand new. Not only was the exterior shining, but the interior was spotless and smelled amazing. The attention to detail was impeccable, and the staff was friendly and professional throughout the entire process. I highly recommend High touch Auto care for anyone looking for top-notch car cleaning services. Thank you for the fantastic job!",
+   "owner_reply": null
+  },
+  {
+   "author": "Brandon",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "High Touch Automotive came recommended by a friend. As with most auto businesses, I was a little skeptical about leaving my brand new car with a detailer I'm not familiar with. But after dealing with Rama and Ahmed, I can say that I am perfectly satisfied with the service that they have provided.\n\nThey have gone above and beyond and delivered what they had promised and more. If you are looking for a reliable detailer I would strongly recommend High Touch Automotive, 5 stars!",
+   "owner_reply": null
+  },
+  {
+   "author": "Noura Farahmandi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "They are really professional, always give the right advice and listening to their clients needs\nGreat experience definitely recommend 20/10",
+   "owner_reply": null
+  },
+  {
+   "author": "al",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I brought my car in for glossy PPF, window tints, interior ceramic coating, chrome delete on the whole car, tire rims painting and brake caliper painting. Overall, I am satisfied with the results and the team did a good job! The car looks stunning and I can’t stop admiring the new look.",
+   "owner_reply": null
+  },
+  {
+   "author": "Prime Listing",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best service and such an amazing staff specially Me Aslam and Mr Zamil they always reply and provide car on time.\nHighly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aya",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Got ceramic and tints done at the garage. Ahmed was very helpful, and the team was fast, professional, and caring. Great customer service with useful car care tips. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jafar Joyaeian",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "First of all, staff are great. Their work and quality is perfect. I did ceramic coating with them and its wow. They are very fast and responsible. It takes only 8-10hrs to make the car shine and clean as u can’t believe. Highly recommend",
+   "owner_reply": "Hi!<br>Thank you so much for taking the time to give us an amazing review. We really appreciate vour business and we look forward to seeing vou again at our detail studio.<br>Have a great day!"
+  },
+  {
+   "author": "Nick Norgate",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The team at High Touch recently undertook a PPF colour change on my G63, converting form a dark blue to a desert yellow. Throughout the process High Touch were brilliant to deal with, and couldn’t have been more helpful. The job is immaculate and to my eye you couldn’t even tell the new colour isn’t the original. On top of this, the team transported my car from Dubai to Abu Dhabi twice to assist with the Authority colour change process. I couldn’t recommend the HT team more. Thank you so much.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ibrahim Janahi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I did PPF and window tenting. Honestly Excellent product, customer service and price. Highly recommended and for sure I will come back for all my future car detailing services.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1305
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    540,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    512,
+    502
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    289,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    506,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 64,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/high-touch-automotive/",
+ "buy_likelihood": 7
+}

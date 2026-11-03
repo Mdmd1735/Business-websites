@@ -1,0 +1,470 @@
+{
+ "slug": "first-care-dental-clinic",
+ "name": "First Care Dental Clinic",
+ "place_id": "ChIJxxUpGHdcXz4R8l69G9UV9OM",
+ "category": "dental clinic",
+ "category_weight": 15,
+ "area": "Al Nahda, Sharjah",
+ "address": "Malacca St - Hay Al Nahda - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3016402,
+  "lng": 55.3721538
+ },
+ "phone": "+971 6 536 6955",
+ "rating": 5,
+ "userRatingCount": 231,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 2,
+  "fiveStar": 228
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=First%20Care%20Dental%20Clinic&query_place_id=ChIJxxUpGHdcXz4R8l69G9UV9OM",
+ "website": "",
+ "categories": [
+  "Dental clinic"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 2 PM, 5 to 9 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 2 PM, 5 to 9 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 2 PM, 5 to 9 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 2 PM, 5 to 9 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10:30 AM to 1:30 PM, 5 to 9 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 2 PM, 5 to 9 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 2 PM, 5 to 9 PM"
+  }
+ ],
+ "owner_description": "Dental Services.",
+ "amenities": {
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "composite fillings",
+  "accommodating staff",
+  "root canal",
+  "clear explanations",
+  "painless experience",
+  "honest advice",
+  "clean clinic",
+  "patient explanation",
+  "braces",
+  "cavity filling"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.88,
+ "reviews": [
+  {
+   "author": "Lara Cosette Fajardo",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had a great experience at this clinic! I showed up even before their official opening time, but Dr. Jafferi was kind enough to welcome me right away. I got my wisdom tooth extracted and was honestly surprised by how painless and smooth the procedure was. Dr. Jafferi was exceptionally kind, gentle, and reassuring throughout the entire process. On top of the high-quality care, the prices were very reasonable and affordable compared to other places. I was in so much pain and just wanted my wisdom tooth removed immediately, so I didn't even have a chance to snap a photo of the place. Highly recommend this clinic to anyone looking for a skilled and caring dentist! 💯♥️",
+   "owner_reply": null
+  },
+  {
+   "author": "Vincyl Cawaling",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Great and welcoming experience Dr. Jaffer explain  very  well what happen to my molar tooth 🦷 and the treatment. It was quick , organized  and effective.Happy with the treatment in a very reasonable price. I always recommend this Dental clinic.",
+   "owner_reply": "thanks for ur kind words."
+  },
+  {
+   "author": "Besandi “Bes•_•andii”",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Love you Dr Jafferi for the smooth procedure, I'm 13 and I had to get 4 of my pre molars removed, I'm pretty nervous when it comes to removing teeth but every time I had to Dr Jafferi made sure to comfort me, removing my molars very smoothly!!! I really appreciate that!! The staff were kind and friendly! Absolutely recommend FIRST CARE DENTAL! And in my absolute opinion I say that the treatments were amazing with reasonable prices.\nThanks ALOTT once again  ♥️♥️♥️",
+   "owner_reply": "thank you so much for taking your time and writing a review for us."
+  },
+  {
+   "author": "Wathsala Mary",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had a wonderful experience at First Care Dental Clinic. The clinic is very clean, smells fresh, and the prices are very affordable. I went there for a clip-on denture for my missing tooth, and Dr. Jaffry did an amazing job restoring my smile back. He is very professional, kind, and caring. The staff are also very friendly and welcoming. Highly recommended for anyone looking for quality dental care!",
+   "owner_reply": "Thank you for your 5- star rating . We delighted to hear you had a comfortable treatment experience.Thank you for recommending our clinic-it truly means a lot to us.We look forward  to seeing you again."
+  },
+  {
+   "author": "Steven Dsouza",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Today i visited First Care Dental Clinic for my molar tooth extraction and it was so smooth painless. Dr. Seemab Jafferi is so professional and well experienced he made sure that during the process I dont feel any pain. He kept on asking if I am feeling pain making me feel so comfortable. I would blindly recommend Dr. Seemab to everyone who is looking for reliable doctor for dental care.",
+   "owner_reply": "Thank you for your kind review!We are delighted to hear you had a comfortable treatment experience.Thank you for recommending our clinic -it truly means a lot to us.We look forward to seeing you again."
+  },
+  {
+   "author": "Zehra jabeen Khan",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Went to First Care Dental for urgent crown capping. Dr. Jaffri was awesome, he saw the urgency and started the procedure immediately. No waiting, no consultation delay, just fast care.\nHe explained everything well and made me totally comfortable. Go here. Seriously great service!",
+   "owner_reply": "thank you so much madam"
+  },
+  {
+   "author": "Jocen Bernardo",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "The dental is good and gives confidence. Dr. Jaffer is so nice and welcoming and gives hope and confidence to everyone. First dental clinic is very nice and trusted, work and people there are all nice. I will gladly choose always the service of this dental clinic.",
+   "owner_reply": "Thank you for your 5 - star review.Your trust and support means a lot to us.We look forward to seeing you again."
+  },
+  {
+   "author": "Estarlia Mestiola",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Dr. Jaferi the dentist is sooo kind and very accomadating. He even educate me on how to take care of my teeth.. I really recommend this dental clinic. And the prices are very reasonable. Good choice!",
+   "owner_reply": null
+  },
+  {
+   "author": "Andrew Naz",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I have an appointment today for filling of my tooth and it was done very nice and satisfy and Also the front desk staff very accommodating and the dentist is very professional and accomodating and lastly there clinic in term of cleanliness is 100 % well maintain.",
+   "owner_reply": "Thank you for your 5-star rating!We are delighted to hear that you were satisfied with your treatment and our team's care.Your feedback means a lot to us."
+  },
+  {
+   "author": "NJ Marasigan",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Highly recommended! Dr. Seemab is very friendly, professional, and made me feel comfortable throughout my visit. Excellent service and great care. Thank you 🙏",
+   "owner_reply": null
+  },
+  {
+   "author": "Russel Motus",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "It's my first time to visit in this clinic.  It was good experience.  And Dr. Jeffrey  is very kind and gentle to do my cleaning session.  And also the ambiance and staff are very accommodating.  Thankyou",
+   "owner_reply": "Thank you for your kind words. We are pleased you had a good and comfortable experience with us.Your support and trust are greatly appreciated."
+  },
+  {
+   "author": "Arnold Secretario",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great experience at First Care Dental clinic. Dr Seemab made my cleaning and filling completely painless.Explained everything clearly. Wonderful staff and excellent care.",
+   "owner_reply": null
+  },
+  {
+   "author": "Maintenance Tiger Yarmook116",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "It was a great service, i am higjly recomend first care dental clinic",
+   "owner_reply": "thank you"
+  },
+  {
+   "author": "Jolens Calindas",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Hi\n\nBeen so struggling to my teeth lately. When we were young me and my siblings were so busy surviving for our life that we forgot to take care of our own. Due to life problems also we couldn’t afford to take any dental treatment as we are surviving to make ends meet. Now we are blessed to be in this country UAE, and some situations happened. I needed to take for dental and the first person I trusted to do hurts my confidence and make me feel afraid to go for dental anymore. I tried to call FIRST CARE DENTAL CLINIC and I was so afraid but I take risk. I cried as I was talking to the dentist which is Dr. Jefrey because the first dental I went is not so good that I ended up fearing going and seeking help to dental. Dr. Jeffrey is so good, professional and not only a doctor but a friend who boost up something in you to take action and do things for your own good. He is so nice, a doctor and dentist indeed. His work is also good, and gives a bright and light confidence again to me. The staff is also kind and gentle. Dr. Jeffrey and dental clinic as it is, is some kind of something you should have visit and trust. As newbie here in UAE, I swear that I will always go back to Dr. Jefrey when it comes to dental. His work is so great and his professionalism boost up and help people make feel better. I am glad, I choose FIRST CARE DENTAL CLINIC.",
+   "owner_reply": "Thank you for your kind words.Your trust and support means a lot to us.Thank you for recommending us and we look forward to seeing you again."
+  },
+  {
+   "author": "Amrin Shaikh Sayed",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Had a great experience. Dr. Seemab Jafferi was professional, caring, and very thorough, and took the time to explain everything clearly, which really put me at ease. The treatment was excellent and smooth, and I felt comfortable throughout the entire visit. The staff was friendly and welcoming, and the clinic was clean and well-organized. I’m very satisfied and content with the treatment. Highly recommended! Great service!\nThanks!",
+   "owner_reply": "thank you so much"
+  },
+  {
+   "author": "Annielyn Torres",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I had a great experience in First Care Dental Clinic, its a highly recommend to my friends and family. Specially Dr. Seemab Jafferi is a very professional, skilled, kind and genuinely caring dentist. Explained everything clearly and made me feel comfortable throughout the procedure. And also the staffs are very accomodating and friendly. Thank you very much for your wonderful service.",
+   "owner_reply": "thank you so much"
+  },
+  {
+   "author": "Pooja Rani",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "My parents and myself had the best dental treatment (Dental implant, root canal, crown fizing, fillings ) at First Care Dental Clinic.\n\nDr. Jafferi is friendly, considerate and patiently explains in details the issue and the procedure to be carried out. He is one of the bestest dentist we have come across\n\nMoreover the staff is friendly and the clinic is exceptionally clean and well maintained.\nHighly recommended to anyone looking out for the best dental care.",
+   "owner_reply": "Thank you so much for your kind words.We are so pleased to hear that you and your family  had a comfortable experience with our clinic .Thank you for recommending our clinic .Your support means a lot to us."
+  },
+  {
+   "author": "Sarah Fathima",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a wonderful experience at first dental clinic by Dr.Jafferi did a fabulous job, very professional gentle and attentive through out the treatment .\n\nThe client was clean and well organised the staff was friendly and supportive.\n\nI truly appreciate and definitely recommend to my friends and family.",
+   "owner_reply": "Thank you for your 5 - star review.Your trust and support means a lot to us.Thank you for recommending us and we look forward to seeing you again."
+  },
+  {
+   "author": "Svetlana Gumarova",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Today I visited my wonderful dentist again. It’s been a year since my last appointment, and all the fillings he placed are still in perfect condition — they don’t need any adjustments at all. I’m sure the new filling will be just as strong and long-lasting. His high level of professionalism and his careful, respectful approach to patients deserve great appreciation. I’m very grateful for the excellent treatment and can confidently recommend him.",
+   "owner_reply": "thank you so much for ur kind words"
+  },
+  {
+   "author": "Selvi Stephen",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Excellent service by first care the staffs were so nice had no trouble with getting my wisdom tooth extraction. Doctor was very supportive and had no pain before and after extraction",
+   "owner_reply": "Thank you for your kind review.We are delighted you had a smooth and comfortable wisdom tooth extraction and that our team made you feel well cared for.We look forward to seeing you again whenever you need us.Thankyou!"
+  },
+  {
+   "author": "Jayden Bautista",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Good service and even im new in this clinic doctor give me change to do the session. Very accommodating doctor Thank you dr, Jafferi",
+   "owner_reply": "Thank you for choosing our clinic and for your 5 star review.We truly appreciate your support and look forward to caring for you again."
+  },
+  {
+   "author": "Mercedes Dyangco",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "“Had a great experience at this dental clinic. The dentist was gentle and explained everything clearly. The staff were welcoming and the clinic was clean. I'm happy with the result. I left very satisfied!”",
+   "owner_reply": "Thank you for your 5 - star review.Your trust and support means a lot to us.Thank you for recommending us and we look forward to welcoming you again."
+  },
+  {
+   "author": "Tasin Mia",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a\ntruly outstanding experience at First Care Dental Clinic. From the moment I\nentered, I was greeted with a warm welcome and a calming atmosphere that\nimmediately put me at ease. The clinic is modern, spotless, and clearly\ndesigned with patient comfort in mind. The staff were incredibly\nprofessional and attentive, taking the time to explain each step of my\ntreatment and answering all my questions with patience and care.",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team"
+  },
+  {
+   "author": "joker san miguel",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "i made my dental treatment here...and im so happy...",
+   "owner_reply": null
+  },
+  {
+   "author": "nawab gnaniyar",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Very good hospitality and very kind doctor .we feel very comfortable while doing treatment .thank you doctor for your service.",
+   "owner_reply": "Thank you for your wonderful review!We are glad you had a comfortable and positive experience with us.Your feedback means a lot to us."
+  },
+  {
+   "author": "April Jay Bisoc",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I was really impressed with the level of professionalism and care I received at FIRST CARE DENTAL CLINIC, I would definitely recommend them to anyone looking for a great dentist.",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team"
+  },
+  {
+   "author": "Francisco Rudolf",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Im going this clinic from last 6 years and very happy with Dr seemab jaffrri....i highly reccomend this clinic.",
+   "owner_reply": "Thank you......"
+  },
+  {
+   "author": "Sahil Shetty",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I’ve been coming to First Care for a couple of procedures over the years - gum treatment, cavity treatment and composite fillings. Dr. Jaffri is very knowledgeable in his craft and I’m extremely happy with the service and results.",
+   "owner_reply": "thank you Mr sahil for your encouraging words."
+  },
+  {
+   "author": "Prudz Lucero",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had such a great experience in this Clinic. From the moment I walked in, the staff were friendly, patient, and reassuring. Dr. Jafferi explained every step clearly and made sure I was comfortable throughout my treatment.I  highly recommend this dental clinic to anyone who wants top-notch dental care in a welcoming environment.\n\n#nomirepain\n#better and healthier smile",
+   "owner_reply": "Thank you so much for your encouraging words..."
+  },
+  {
+   "author": "Prasith B.",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My family and I have been visiting First Care Dental Clinic for quite some time. The staff were welcoming and attentive, making us feel comfortable right away.\n\nDr. Sanjana is highly knowledgeable, friendly and provides excellent advice tailored to each of our needs. Her professionalism and expertise were evident throughout our visits.\n\nAdditionally, the clinic offers reasonable pricing, making quality dental care accessible. I highly recommend First Care Dental Clinic for anyone seeking top-notch dental services in a friendly environment.",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team"
+  },
+  {
+   "author": "rakhshanda khan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have been visiting since 2017 and recommended family n friends to this clinic.. The dental care provided is absolutely great with no complaints and very economical as well.\nDr. Seemab is an amazing person and gives explicit care n support to his patients.\nBest Wishes n Blessings to entire Team of Firstcare Dental Clinic.",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team"
+  },
+  {
+   "author": "sachith sulochana",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We had a recent visit to the clinic and Dr. Sanjana was very kind enough to explain to us the exact situation at hand to decide what we should do next, she suggested to us the obvious treatment needed and did not recommend any kind of false treatments to reap us for money. Prices are very reasonable and even the staff is very reliable and friendly. Also it's easy to book an appointment and get the job done in no time. Highly recommend 💯",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team"
+  },
+  {
+   "author": "nimesha kumari",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I visited today to get my cavity filled to doctor Seemsb Jafferi, and honestly, I didn’t feel anything throughout the whole procedure — it was like magic! If you're reading reviews and considering going here, don’t worry at all. You can go without any fear. The staff is professional, the experience is painless, and the prices are very reasonable — that’s another big plus!",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team"
+  },
+  {
+   "author": "Chris Madrigal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have a pleasant experience here for cleaning from  Dr.Seemab, and her assistant every one treated me so gently. I love it being here. The clinic is very well equipped. The doctors are expert.cleaning properly,and very good price. They gave me my smile and my confidence back. You can trust them with your teeth.,highly recomended..🥰🥰🥰",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team"
+  },
+  {
+   "author": "Madonna Candelario",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Ive been here 3 times since last year. The staff are friendly and the clinic is organized and neat.\n\nDr. Sanjana would always took care of me. She ensures that cleaning / scaling my teeth would not cause bleeding due to my previous condition. She would really take time to provide helpful recommendations. They would recommend only what is required. The price is also affordable plus it is near our community where we live.",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team<br>"
+  },
+  {
+   "author": "Sidonia Sequeira",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have been visiting first care dental clinic for all my dental treatment for quite sometime now...Dr Seemab is the best dentist in town. He will not just get the issue treated but also patiently explain the patient the root cause of the problem and will provide an apt solution. Amazing doctor. Highly recommended to visit this clinic for all your dental issues.",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team"
+  },
+  {
+   "author": "Rovelyn Javier",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best clinic I have been to . They have all the equipments and best of facilities. Dr. Seemab is an amazing doctor because the way he handle his patients during treatment. He is friendly and make patient so comfortable while treating. Highly recommended! 🤝",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team"
+  },
+  {
+   "author": "Janice Gabunada",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have been visiting first care dental clinic with my twin sister for adjusting braces and cleaning. All the doctors and staff was very welcoming and attentive, making us feel comfortable,,,,, the clinic is very Clean…. Highly recommended to visit this clinic for all your dental issues.",
+   "owner_reply": "Thank you so much for taking the time to leave a review for our Dental Clinic, your kind words and support truly means a lot to us and help others feel confident in choosing our care.<br><br>Warm Regards,<br>First Care Dental Clinic Team"
+  },
+  {
+   "author": "Roly fretch Manico",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "It's very good the doctor very accommodating\nVery good experience\nI'm always visiting first dental clinic because it was clean and the staff very friendly",
+   "owner_reply": "Thank you for your 5 - star review.Your trust and support means a lot to us.Thank you for recommending us and we look forward to seeing you again."
+  },
+  {
+   "author": "Joy Rich",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing service dok I'm so happy\nI a come again thank u so much ❤️❤️❤️",
+   "owner_reply": "Thank you so much for your 5 star  review.We are delighted to hear that you had a comfortable treatment experience . Your support and trust are greatly appreciated."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/first-care-dental-clinic/",
+ "buy_likelihood": 8
+}

@@ -1,0 +1,1190 @@
+{
+ "slug": "m-and-m-gents-salon",
+ "name": "M&M Gents Salon صالون مشط و مقص دبي",
+ "place_id": "ChIJN2BOt9VCXz4R4_InPgzn1dM",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Al Karama, Dubai",
+ "address": "Shop no 15 - 35 17B St - opp. Amer Center / Karama Medical Fitness Center - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2454987,
+  "lng": 55.3105546
+ },
+ "phone": "+971 58 128 4565",
+ "rating": 4.9,
+ "userRatingCount": 689,
+ "rating_distribution": {
+  "oneStar": 6,
+  "twoStar": 0,
+  "threeStar": 1,
+  "fourStar": 30,
+  "fiveStar": 652
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=M%26M%20Gents%20Salon%20%D8%B5%D8%A7%D9%84%D9%88%D9%86%20%D9%85%D8%B4%D8%B7%20%D9%88%20%D9%85%D9%82%D8%B5%20%D8%AF%D8%A8%D9%8A&query_place_id=ChIJN2BOt9VCXz4R4_InPgzn1dM",
+ "website": "",
+ "categories": [
+  "Barber shop",
+  "Facial spa",
+  "Foot care",
+  "Nail salon",
+  "Hairdresser",
+  "Waxing hair removal service"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 11:30 PM"
+  }
+ ],
+ "owner_description": "Welcome to our premium salon, where beauty meets comfort.\nWe specialize in stylish haircuts, skincare, grooming, and relaxing beauty treatments for men and women. Our expert team ensures you get personalized service, high-quality products, and a look that boosts your confidence. Visit us for a refreshing, modern salon experience.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "hydra facial",
+  "relaxing atmosphere",
+  "professional team",
+  "manicure",
+  "polite staff",
+  "keratin treatment",
+  "skilled staff",
+  "foot spa",
+  "grooming",
+  "beard trim"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 65
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 75
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 75
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   }
+  ]
+ },
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "Ahmed aboalela",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Did my nails, wax and hair cut! 10/10 experience so relaxing and staff are genuinely gentle and caring! Thanks to Sharad and Nida for the great experience! 100 recommending my friends to come here and will definitely come back for this pampering experience",
+   "owner_reply": "Dear Ahmed aboalela,<br><br>Thank you for the 10/10 rating and for sharing your relaxing experience with us. We are delighted to hear that you enjoyed your nail, wax, and haircut services. We will be sure to pass on your kind words to Sharad and Nida for their gentle and caring service.<br><br>We appreciate your recommendation and look forward to welcoming you back for your next pampering session!<br><br>Regards,<br>M&M Gents Salon."
+  },
+  {
+   "author": "Rohan Fernandes",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "This salon is amazing\nThe barbers here are professionally trained and are best at their work\nThe receptionist Ms. Aashika is well trained as well",
+   "owner_reply": "Thank you, Rohan, for the amazing review! We’re thrilled to hear you had such a great experience with our skilled barbers and Ms. Aashika. Looking forward to seeing you again soon!<br><br>Warm regards,<br><br>Team M&M Gents Salon"
+  },
+  {
+   "author": "Sweekriti Ghimire",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "“M&M Salon is a must-visit salon in Dubai Karama. The entire team is very polite, professional, and well-experienced. They make every customer feel comfortable and well taken care of. I truly appreciate all the staff, especially the receptionist, Aashika. She is very sweet, welcoming, and her smile can brighten anyone’s day. I absolutely love this place!”",
+   "owner_reply": "Dear Sweekriti Ghimire,<br><br>Thank you for your kind words! We are delighted to hear that you find our Al Karama team professional and experienced. It is wonderful to know that Aashika made such a positive impression with her welcoming personality. We truly appreciate your support and look forward to seeing you again!<br><br>Regards,<br>M&M Gents Salon."
+  },
+  {
+   "author": "vinay saka",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I have been getting salon services here for the past year. The staff is very professional, well-trained, and maintains excellent hygiene standards. I highly recommend trying their services anytime. For a complete makeover, I would definitely recommend this salon.\n\nA special mention to Nita, who does an excellent job with pedicures and manicures and provides a wonderful makeover experience. Aashika is very generous and always welcomes customers warmly.\n\nAkshay and Babar are highly talented hairstylists who can completely transform your look in an amazing way. Thank you very much for your service @ 5 Star @",
+   "owner_reply": "Dear vinay saka,<br><br>Thank you so much for the wonderful 5-star review and for being a loyal client over the past year! We are thrilled to hear that you highly recommend our professional staff and hygiene standards.<br><br>We will be sure to pass along your special mentions to Nita, Aashika, Akshay, and Babar, they will be delighted to hear your kind words about their services, from makeovers to hair styling. Thank you for choosing us for your grooming needs, and we look forward to seeing you again soon!<br><br>Regards,<br><br>M&M Gents Salon."
+  },
+  {
+   "author": "Manoj kumar",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had a great experience at the salon with Sharath. He was professional, attentive, and understood exactly the style I wanted. The haircut and overall service were excellent, and I left feeling really satisfied. Highly recommend Sharath if you’re looking for someone skilled and friendly",
+   "owner_reply": "Dear Manoj Kumar,<br><br>Thank you so much for the fantastic 5-star review! We are thrilled to hear you had a great experience with Sharath. It’s wonderful to know that he was professional, attentive, and gave you the exact style you were looking for.<br><br>We will be sure to pass your kind words and high recommendation along to Sharath, it will truly make his day! We look forward to welcoming you back to M&M Gents Salon for your next grooming session.<br><br>Warm Regards,<br><br>Team M&M Gents Salon 💈"
+  },
+  {
+   "author": "Samjhana Khanal",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "M&M Salon in Dubai Karama is hands down one of the best salons I’ve visited. The service is absolutely outstanding, and the entire team is incredibly professional, skilled, and attentive. From the moment you walk in, you’re welcomed with genuine warmth and made to feel completely comfortable. A special mention to the receptionist, Aashika, whose kindness, professionalism, and beautiful smile create such a positive first impression. The staff truly goes above and beyond to ensure every customer leaves happy and satisfied. Exceptional service, amazing atmosphere, and highly recommended!\nGood job dear ashika,keep it up 🫰",
+   "owner_reply": "Dear Samjhana Khanal,<br><br>Thank you for your outstanding review! We are so happy to hear that you had such a professional and skilled experience at our Al Karama location. A special thank you for recognizing Aashika, she truly goes above and beyond to make every guest feel welcome. We appreciate your recommendation and look forward to seeing you again!<br><br>Regards,<br>M&M Gents Salon."
+  },
+  {
+   "author": "Vacaciones inesperadas",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "The best place to make your beard,hair or facial they have also a private room to make your facial treatment… really good prices and best quality products…also pets allowed Shan is really good\nTotally recomended all the team is great you’ll feel like at home  🙏🏼",
+   "owner_reply": "Thank you so much for your amazing review! We truly value your feedback and look forward to welcoming you again!"
+  },
+  {
+   "author": "Zohimself Elasri",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Aasehika she’s amazing and take good care of her costumer smiling always and warming\nShe deserves recognition",
+   "owner_reply": null
+  },
+  {
+   "author": "Rohan Gangurde",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Great haircut, beard and face cleansing experience M&M saloon.\nTheir great staff that takes good care of your styling and grooming needs. 😇❤️",
+   "owner_reply": "Thank you, Rohan, for the fantastic review! We are so pleased to hear you enjoyed your haircut, beard trim, and face cleansing experience. Our team takes great pride in taking good care of your styling and grooming needs.<br><br>We truly appreciate your kind feedback and look forward to seeing you again soon!<br><br>Warm regards,<br><br>Team M&M Gents Salon"
+  },
+  {
+   "author": "Nufaila Faisal",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Ashika and sarath are very professional staffs\nAll facilities are good\nRecommended every one",
+   "owner_reply": "Dear Guest,<br><br>Ashika and Sarath are absolute pros at what they do, and we’re super happy to hear they took such great care of you. Glad you enjoyed the facilities and the grooming package setup. Thanks for passing along the recommendation.<br><br>Warm Regards,<br>Team M&M Gents Salon"
+  },
+  {
+   "author": "Charles Nivathin",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had opted for the Premium Touch Package ( Haircut, Beard, D-Tan, Manicure, Pedicure, Hair wash ) on 25.04.2026.\nMr. Sarath did my haircut, Beard, D-Tan, Manicure, Hair wash. Friendly staff, Great service, everything was spot on.\nMr. Babar ( I am not sure if I spelt his name right ) he did my pedicure. Great service, humble person.\nOverall, I was satisfied with their service. Mostly will visit them again.",
+   "owner_reply": "Dear Charles Nivathin,<br><br>Thank you so much for choosing our Premium Touch Package and for taking the time to share such a detailed review! We are thrilled to hear that your visit on April 25th was a success.<br><br>It is wonderful to know that Sarath provided a \"spot on\" experience with your grooming and that you appreciated the service and humility shown by Babar during your pedicure. We will be sure to pass your kind words along to both of them—they will be very happy to hear your feedback!<br><br>We look forward to welcoming you back for another satisfying experience soon.<br><br>Regards,<br>The M&M Gents Salon Team"
+  },
+  {
+   "author": "Animesh Ashtunkar",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had the pleasure of having Vishwanath (the owner himself) cut my hair today, and his colleague shaped my beard with an Italian style. All I can say is wow!\n\nWhat truly sets this place apart is the honesty. Vishwanath and his team don’t just blindly follow trends, they give you real, genuine opinions on what actually suits your face shape. No fluff, just expert advice..It’s refreshing to have a barber who cares about the final result as much as you do.\n\nHighly recommended! Will definitely be coming back.\n\nVishwanath, you and your team are legends! 🙌",
+   "owner_reply": "Dear Animesh Ashtunkar,<br><br>Thank you so much for this incredible five-star review and for your high recommendation! We are absolutely thrilled to hear about your experience with Vishwanath and the team.<br><br>Our core philosophy is always to provide genuine, expert advice tailored to each individual, so knowing that you appreciated our honest approach to finding the perfect look for your face shape truly means the world to us. We take immense pride in our craft, from the precision of the haircut to the classic Italian style beard shaping, and your kind words are the ultimate motivation.<br><br>Thank you for recognizing the team as legends, we cannot wait to welcome you back to the salon for your next visit!<br><br>Regards,<br><br>Team M&M Gents Salon"
+  },
+  {
+   "author": "Al",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I stumbled on this place completely by chance, and honestly, I’m so glad I did. From the moment I walked in, the atmosphere was warm and welcoming; it instantly put me at ease. I got a manicure and pedicure, and hands down, it was one of the best I’ve had in Dubai. Nida took such genuine care and didn’t rush a single step. You can tell she really loves what she does and wants you to walk out happy. If you’re searching for a place that feels like a little escape and delivers quality service, this is it. Don’t even think twice, you’ve found your spot.",
+   "owner_reply": "Thank you so much for your amazing review! Looking forward to serving you again!<br>"
+  },
+  {
+   "author": "Apekshya",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a wonderful experience at M&M Gents Salon. A huge thank you to Ashika Ghimire for the incredible service! She was professional, attentive, and made sure every detail was perfect. Highly recommend her for anyone looking for top-tier care",
+   "owner_reply": "Dear Apekshya,<br><br>Thank you for your wonderful feedback! We are so glad to hear you had a great experience and appreciated the professional and attentive service from Ashika Ghimire. We truly value your recommendation and look forward to your next visit!<br><br>Regards,<br>M&M Gents Salon."
+  },
+  {
+   "author": "Ashutosh Rungta",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I have been visiting them for almost a year now and have never had a complaint about overall service quality, warmth of the team, or value for money. Excellent choice for people looking for a full suite, budget-friendly, high-quality grooming solution.",
+   "owner_reply": "Thank you for being such a consistent part of the M&M family over the last year, Ashutosh. It’s awesome to hear that our team, pricing, and full range of grooming services have kept you coming back happy. See you next time.<br><br>Warm Regards,<br>Team M&M Gents Salon "
+  },
+  {
+   "author": "Ayesha Rubba",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Recently I have visited the salon for a normal haircut and experienced a good haircut. Mr. Shindee did his great work. I just shared my concern and he did the same what I was expecting.",
+   "owner_reply": "Hi Ayesha,<br><br>Thank you for visiting us and sharing your review. It’s great to know that Mr. Shinde was able to address your hair concerns and give you the precise result you were expecting. Your satisfaction means a lot to our team!<br><br>See you on your next visit.<br><br>Warm Regards,<br>M&M Gents Salon"
+  },
+  {
+   "author": "Info. mohammed",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "“Great experience at this hair salon! The staff was friendly, the service was quick, and my haircut turned out exactly how I wanted. Definitely coming back!” “I recently visited this hair salon and was genuinely impressed by both the service and the atmosphere. The staff were polite and attentive, and they took the time to understand the hairstyle I had in mind. The stylist worked patiently and delivered a clean, sharp finish that suited my face perfectly. The salon was hygienic, well-organized, and the overall vibe was relaxing. They also gave helpful suggestions for hair care. Totally worth it — I’ll definitely return for my next haircut.”",
+   "owner_reply": "Thank you so much, Mohammed, for your wonderful feedback!<br>We’re glad to hear that you enjoyed the service and atmosphere at our salon. Our team always aims to provide clean, sharp cuts with personalized attention, and it’s great to know we matched your expectations.<br>We truly appreciate your support and look forward to welcoming you again! <br><br>Team <br>M&M Gents Salon"
+  },
+  {
+   "author": "Mohd Faizul Haque",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "I went to thi salon by watching ad on Instagram..\nThey made my first experience pretty well.\nBabar did my styling and neeta did pretty good manicure and pedicure.\nIt was 135AED package and it was pretty good.\nWill go next time as well.",
+   "owner_reply": "Dear Mohd Faizul Haque,<br><br>Thank you so much for the 5-star review! We are thrilled that our Instagram ad brought you in and that your first experience with us was so positive.<br><br>It's wonderful to hear that you enjoyed our 135 AED package, and we will be sure to pass along your compliments to Babar for the styling and Neeta for the excellent manicure and pedicure. We truly appreciate your feedback and look forward to welcoming you back for your next grooming session!<br><br>Regards,<br>M&M Gents Salon."
+  },
+  {
+   "author": "akbar basha",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "My friend recommended m&m salon in Dubai karama I came from jabl Ali and took full man grooming PKG including pedicure manicure hydra facial it was great service and give professional service I will revisit this salon again thanks tream",
+   "owner_reply": "Dear Akbar Basha,<br>Thank you for your 5-star review and for sharing your wonderful feedback with us.We are delighted to know that you visited M&M Gents Salon based on your friend's recommendation and had a great experience with our Full Man Grooming Package, including the pedicure, manicure, and hydra facial. It is especially rewarding to hear that you appreciated our professional service and the efforts of our team.Your kind words and support mean a lot to us and motivate us to continue delivering the highest standards of grooming and customer care.We look forward to welcoming you back to M&M Gents Salon again soon.<br>Warm regards,<br>Team M&M Gents Salon ✨✂️"
+  },
+  {
+   "author": "Gautham B kanchan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "\"Very happy with my haircut! Great atmosphere, skilled barber, and outstanding customer service. I'll definitely be coming back again.\"\nThank you ❣️",
+   "owner_reply": "Dear Gautham B kanchan,<br><br>Thank you so much for the five-star review and for sharing your wonderful experience! We are absolutely thrilled to hear that you were very happy with your haircut, and that you enjoyed our great atmosphere, skilled team, and outstanding customer service.<br><br>Your kind words and the heart mean a lot to us, and we are so glad to know you will be coming back. We look forward to welcoming you again very soon!<br><br>Regards,<br>Team M&M Gents Salon"
+  },
+  {
+   "author": "Jagrti Pawar",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Amazing experience with Akshay at M&M Saloon! ⭐⭐⭐⭐⭐\n\nGreat skill, super friendly, quick service, and excellent value for money. I highly recommend M&M Saloon — will definitely be back! 💯",
+   "owner_reply": "Dear Jagrti,<br><br>Thank you so much for your kind words and the 5-star rating! We are thrilled to hear you had an amazing experience with Akshay. It is great to know you appreciated his skills and the value we provide.<br><br>We look forward to seeing you again soon.<br><br>Regards,<br>The M&M Gents Salon Team."
+  },
+  {
+   "author": "Saroj Nepal",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "M&M Salon in Dubai Karama is definitely worth visiting. The entire team is courteous, professional, and highly experienced, making every customer feel comfortable and well cared for. A special thanks to the receptionist, Aashika—she’s incredibly warm and welcoming, and her smile truly brightens the atmosphere. I genuinely love this place!",
+   "owner_reply": "Dear Saroj Nepal,<br><br>Thank you for your wonderful review! We are delighted to hear that you found our team professional and experienced, and that Aashika made you feel so welcome during your visit to our Al Karama location. We truly appreciate your support and look forward to welcoming you back soon!<br><br>Regards,<br>M&M Gents Salon."
+  },
+  {
+   "author": "Shiva Kumarraj",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "chat GTP recommend m&m salon in Dubai karama so went for hair cut and pedicure also had hydra face treatment it was very good service and hygiene and also staff very polite friendly highly recommend this salon",
+   "owner_reply": "Dear Shiva Kumarraj,<br>Thank you for your 5-star review and for sharing your wonderful experience with us.We are delighted to know that you chose M&M Gents Salon and enjoyed your haircut, pedicure, and hydra facial treatment. It's great to hear that you were pleased with our service, hygiene standards, and the friendliness and professionalism of our team.Your kind recommendation means a lot to us and motivates us to continue providing exceptional grooming services and a comfortable experience for all our clients.<br>We look forward to welcoming you back to M&M Gents Salon again soon.<br>Warm regards,<br>Team M&M Gents Salon ✨✂️"
+  },
+  {
+   "author": "Jim",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "5 star service, friendly staff that will take care of you from the moment you arrive. Aashika thank you for the warm welcome and drinks, Akshay is a very talented barber thank you for the amazing haircut and beard. Highly recommended salon truly 5 star service.",
+   "owner_reply": "Dear Jim,<br><br>Thank you so much for the fantastic 5-star review! We are thrilled to hear that you experienced true 5-star service and felt well taken care of from the moment you arrived.<br><br>We will gladly pass along your thanks to Aashika for the warm welcome and to Akshay for the amazing haircut and beard grooming. Your high recommendation means a lot to us, and we look forward to welcoming you back for your next visit!<br><br>Regards,<br>M&M Gents Salon."
+  },
+  {
+   "author": "Sojin K John",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "After a bad experience elsewhere, I found this place through a quick search and it turned out to be a great choice. The staff are very friendly, professional, and efficient. They understood my situation and completed everything on time without unnecessary delays.\nThe location is convenient, there is plenty of parking space, and the overall service experience was smooth and comfortable. Definitely a place I would prefer going forward.",
+   "owner_reply": "Dear Sojin K John,<br><br>Thank you for the 5-star review! We are delighted that you found us through your search and had a great first experience. We take pride in our professional staff and convenient location, and we are happy to have earned your preference for future visits.<br><br>See you again soon!<br><br>Regards,<br><br>M&M Gents Salon."
+  },
+  {
+   "author": "Shamim Khan",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Professional & Classy\n\nOne of the best gents salons I’ve visited. Professional barbers, quality products, and a relaxing atmosphere. Worth every dirham.\n\nFriendly & Casual\n\nAmazing service! The barber was very talented and polite. Loved the haircut and beard styling. Highly recommend this place 👍",
+   "owner_reply": "Thank you, Shamim, for your wonderful feedback. We’re truly glad you enjoyed our professional service, quality products, and relaxing atmosphere. Your appreciation motivates our team to maintain the highest standards. We look forward to welcoming you again soon.<br>Team M&M Gents Salon"
+  },
+  {
+   "author": "Yarav Mehta",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "This is my third visit to the salon. I went in for a haircut and Akshay did an excellent job. He understood exactly what I wanted and executed it perfectly, while also adding his own professional input to make it even better. He has great knowledge of different styles and took the time to explain what would suit me best, which was really helpful. Very friendly, skilled, and professional. Highly recommended place and definitely ask for Akshay.",
+   "owner_reply": "Thank you for your valuable feedback! We’re glad to hear you had a great experience with our services. Our team always strives to deliver quality grooming, comfort, and personalized care to every client. Your support truly motivates us, and we look forward to welcoming you again soon. 💈✨<br>— Team M&M Gents Salon"
+  },
+  {
+   "author": "rinu kurian",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I received a platinum card offer and shared it with my husband for grooming services at this salon. He was extremely happy with all the services provided. Excellent quality and outstanding service — highly recommended!",
+   "owner_reply": "Thank you so much for your amazing review! We truly value your feedback and look forward to welcoming you again!"
+  },
+  {
+   "author": "Hashim Abdullah",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "Requested service was Meni Pedi, Decent service with a decent price. Very friendly Staff.",
+   "owner_reply": "Dear Hashim Abdullah,<br>Thank you for your 4 star review and for choosing M&M Gents Salon.<br>We are delighted to hear that you were satisfied with your manicure and pedicure service and found it to be good value for money. Your kind words about our friendly staff are greatly appreciated and will be shared with the team.Thank you for your support and feedback. We look forward to welcoming you back to M&M Gents Salon for another relaxing grooming experience.<br>Warm regards,<br>Team M&M Gents Salon<br>"
+  },
+  {
+   "author": "Mudassar Nazar",
+   "rating": 5,
+   "when": "Edited 5 months ago",
+   "text": "Amazing experience! ✨\nLoved the haircut, manicure & pedicure services. The staff is very professional and friendly. Special appreciation to the management and the manager for such great customer service. Highly recommended salon! 💇‍♀️💅",
+   "owner_reply": "Thank you so much for your amazing review! We truly value your feedback and look forward to welcoming you again!"
+  },
+  {
+   "author": "Prashant Choudhary",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I got the haircut, beard and facial from them and it came out so good. Definitely recommend!!!\nSarath was very patient and understood what i wanted and did it perfectly. He also recommended me what i should do.\nSo overall I would say they understand their client and their requirements perfectly.",
+   "owner_reply": "Thank you, Prashant Choudhary, for your amazing 5-star review! ⭐️<br>We’re thrilled to hear that you had such a great experience with your haircut, beard, and facial. It’s wonderful to know everything turned out just the way you wanted!<br>A special thanks for appreciating Sarath he’ll be delighted to hear your kind words about his patience, understanding, and recommendations.<br>Your feedback truly means a lot to us, and we’re glad you felt well taken care of.<br>Looking forward to welcoming you again soon! 😊<br>Team M&M Gents Salon "
+  },
+  {
+   "author": "Chirag",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Vishwanath, Paras, Arun, Neeta everyone here is an expert and exactly knows what they are doing. The best part is they are never in a rush and make sure every service is done perfectly! Great customer service",
+   "owner_reply": "Thank you so much for your amazing review! Looking forward to serving you again!"
+  },
+  {
+   "author": "Jerin Johnson Samuel",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Seen Google review on page though try hair cut pedicure i was gret service by sarath and joyce thanks team wil revisit agian🥳",
+   "owner_reply": "Thank you so much for giving us a try after finding us on Google, Jerin! We’re thrilled to hear that you had such a great experience with Sarath and Joyce. They’ll be delighted to know their hard work made your haircut and pedicure special. We really appreciate your kind words and can’t wait to welcome you back again soon!<br><br>Warm Regards,<br>M&M Gents Salon"
+  },
+  {
+   "author": "Joan Nair",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Thank you team and special thanks to Vishwanath.. he didn't only understood my desire but also gave consultation honestly...\nI have attached my inspiration and then my look at work..\nWow ...that was the reaction of everyone..\n#mostrelated #mostrecommended",
+   "owner_reply": "Thank you so much, Joan Nair, for your wonderful 5-star review.<br>We’re truly happy to hear about your amazing experience. A special thank you for appreciating Vishwanath he always takes the time to understand exactly what our clients want and gives honest, professional consultation to achieve the perfect look.<br>Hearing that everyone said “Wow” to your new look makes us so proud Your satisfaction and confidence are what matter most to us.<br>Thank you for recommending us it means the world to our team<br>We can’t wait to welcome you back again at M&M Gents Salon"
+  },
+  {
+   "author": "Mammen Chacko",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great service & welcoming staff, I got my hair protein treatment done very nicely, definitely coming back in the future.",
+   "owner_reply": "Dear Mammen,<br><br>Thank you so much for your wonderful feedback! 😊 We’re glad to know you had a great experience with our hair protein treatment and hairstyling services.<br><br>It’s great to hear you appreciated our welcoming staff and quality service—your kind words truly motivate our team.<br><br>We look forward to welcoming you again soon for another premium grooming experience 💈✨<br><br>Warm regards,<br>Team M&M Gents Salon"
+  },
+  {
+   "author": "Abin Baby",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Very Good Service. Highly recommend . Friendly staff",
+   "owner_reply": "Thank you, Abin Baby, for your 5 star review. We are glad to hear you had a very good experience and found our team friendly.<br>Thank you for your recommendation, and we look forward to serving you again soon.<br>Team M&M Gents Salon."
+  },
+  {
+   "author": "Saleh Hosien",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had an amazing experience at M&M Gents Salon.\nSpecial thanks to Sarath for the professional perming service. He did an excellent job, and my hair looks perfect with natural curls.\n\nHe is very skilled, patient, and knows exactly what suits the client. The result was even better than I expected.\n\nI highly recommend Sarath for perm and haircut services in Dubai.\n\nWill definitely visit again.",
+   "owner_reply": "Thank you so much for your wonderful 5 star review! We’re truly delighted to hear that you had an amazing experience with us.<br>A special thank you for appreciating Sarath’s professional perming service. We’re glad you loved your natural curls and that the result exceeded your expectations. Your kind words about his skill, patience, and expertise mean a lot to our team.<br>Thank you for your recommendation it truly motivates us to keep delivering the best grooming services in Dubai. We look forward to welcoming you again soon..<br>Team M&M Gents Salon"
+  },
+  {
+   "author": "mohammed nafeed",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Exceptional pedicure and manicure.. Had a good experience. I suggest to visit",
+   "owner_reply": "Thank you for the recommendation, Mohammed! We're happy that our groomers took good care of you. See you again next time.<br><br>Warm Regards,<br>Team M&M Gents Salon"
+  },
+  {
+   "author": "Akshay Badhe",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Nice place to visit full pkg men grooming special thanks to nita pedicure did great job and hydra facial did sarath that's great results thanks team highly recommend",
+   "owner_reply": "Dear Akshay Badhe,<br><br>Thank you for your wonderful 5-star review! We’re glad you had a great experience with our grooming services. Your kind words for Nita and Sarath mean a lot to our team we’ll be sure to share your appreciation with them.<br><br>We’re happy you loved the pedicure and hydra facial results. Thank you for recommending us!<br><br>Regards,<br>The M&M Gents Salon Team.<br>"
+  },
+  {
+   "author": "Jackie Kirpalani",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Absolutely loved my experience at M&M Gents Salon. Babar did an excellent job with my haircut and beard trimming. He really listens to what you want and adds his own expertise to make it look even better. The finish was sharp, clean, and exactly what I was hoping for.\n\nA big shoutout to Neeta as well for the manicure and pedicure. She was extremely professional, gentle, and thorough, and the whole session felt relaxing from start to finish. You can tell she genuinely cares about her work and client comfort.\n\nOverall, a great team, friendly atmosphere, and top quality service.\n\nHighly recommend M&M Gents Salon if you want to walk out feeling fresh and well taken care of.",
+   "owner_reply": "Thank you so much, Jackie, for your wonderful review and for taking the time to share your experience with us ⭐⭐⭐⭐⭐<br><br>We’re truly happy to hear that you loved your haircut and beard trim with Babar. He always makes sure to listen carefully and deliver a sharp, clean finish, so your appreciation means a lot to him.<br><br>A big thank you as well for your kind words about Neeta. We’re glad you enjoyed a relaxing and professional manicure and pedicure experience—client comfort and care are always our top priorities.<br><br>Your recommendation motivates our entire team to keep delivering the best service possible. We look forward to welcoming you back soon for your next visit! ✂️✨<br><br>— M&M Gents Salon Team"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1350
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    464,
+    832
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1350
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    232,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/m-and-m-gents-salon/",
+ "buy_likelihood": 8
+}

@@ -1,0 +1,1147 @@
+{
+ "slug": "frontline-dental-karama",
+ "name": "Frontline Medical Center Dental clinic in Karama Dubai I Dental Clinic I Cosmetic I Orthodontics",
+ "place_id": "ChIJ2_sYCthCXz4RuuyEXDI48GE",
+ "category": "dental clinic",
+ "category_weight": 15,
+ "area": "Al Karama, Dubai",
+ "address": "Al Attar Center - 106, B - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.247493,
+  "lng": 55.3008322
+ },
+ "phone": "+971 4 397 9702",
+ "rating": 4.9,
+ "userRatingCount": 116,
+ "rating_distribution": {
+  "oneStar": 2,
+  "twoStar": 1,
+  "threeStar": 0,
+  "fourStar": 3,
+  "fiveStar": 110
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Frontline%20Medical%20Center%20Dental%20clinic%20in%20Karama%20Dubai%20I%20Dental%20Clinic%20I%20Cosmetic%20I%20Orthodontics&query_place_id=ChIJ2_sYCthCXz4RuuyEXDI48GE",
+ "website": "",
+ "categories": [
+  "Dental clinic",
+  "Dental hygienist",
+  "Dental implants periodontist",
+  "Dental radiology",
+  "Dentist",
+  "Emergency dental service",
+  "Endodontist",
+  "Medical clinic",
+  "Oral surgeon",
+  "Pain management physician"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 8:30 PM"
+  }
+ ],
+ "owner_description": "Welcome to our dental clinic in Dubai. Are you in search of a reliable dentist near you? Look no further! Our dental clinic is dedicated to providing top-notch dental care tailored to your individual needs. Conveniently located in Karama, our clinic is easily accessible to those seeking a trusted dental professional in the area. Whether you're due for a routine check-up or require specialized dental services, our experienced dentists are here to cater to all your oral health needs.\nAs a leading dental clinic in Dubai, we pride ourselves on offering a comprehensive range of services aimed at ensuring your smile radiates with confidence. From preventive care to restorative treatments, Experience the difference at our dental clinic in Karama",
+ "amenities": {
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": false
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "kind nurses",
+  "tooth extraction",
+  "dr vimal",
+  "fast extraction",
+  "welcoming staff",
+  "family dentist",
+  "gum issues",
+  "explains the process",
+  "gentle hand",
+  "polite doctor"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Nikeeth G T",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I have been coming here to visit an amazing homeopathic doctor with the most golden of hearts for years now.\n\nDr. Halowine Coelho is a remarkable practitioner who embodies the true spirit of healing. Throughout her long and dedicated career, she has consistently put her patients first, treating each individual with the utmost respect and compassion.\n\nTreats the Root Cause: She never just addresses symptoms. She takes the time to understand the whole person to find and heal the underlying issue.\n\nHolistic Approach: Her treatments integrate physical, mental, and emotional well-being beautifully.\n\nA Heart of Gold: Her warmth and genuine empathy instantly put you at ease, creating a safe space for true recovery.\n\nLife-Changing Care: Countless patients have found lasting wellness and vitality under her thoughtful guidance.\n\nShe is not just a homeopath; she is a comforting guide on the path to health. If you are seeking professional expertise combined with a genuinely kind heart, I cannot recommend her highly enough.",
+   "owner_reply": "Thank you for your wonderful feedback and trust in us! 😊 We’re proud to have Dr. Halowine Coelho on our team. Your kind words truly mean a lot. Wishing you good health always!"
+  },
+  {
+   "author": "Anna lakshmi Jose",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had a fantastic experience at Frontline dental clinic ,Karama with Dr. Upama and Dr. Nizana. Their expertise and efficiency were crucial as we were in a hurry before our travel. Despite the tight schedule, they accommodated us and performed a marvelous job, especially addressing corrections needed for me and my daughter, who was initially anxious. Both doctors were calm, patient, and explained procedures thoroughly, making my daughter comfortable with the tooth procedures. I highly recommend their professional and compassionate services.",
+   "owner_reply": "Dear Anna lakshmi Jose,<br><br>Thank you for the great review! We're so glad Dr. Upama and Dr. Nizana could help make your visit comfortable and efficient. We appreciate your recommendation and look forward to seeing you again soon"
+  },
+  {
+   "author": "Jeh Velasquez",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I had a cleaning teeth experience with Dr. Limy and Elsa, they are great at their work and friendly. Thank you for a good service. More success in your endeavor.",
+   "owner_reply": "Thank you so much, Jeh! 😊 We’re glad you had a good teeth cleaning experience with Dr. Limy and Elsa. They’ll be happy to hear your kind words. Thank you for your support and well wishes  we truly appreciate it! "
+  },
+  {
+   "author": "Raine",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I did a consultation today with Dr.Limy and will do a root canal treatment soon. She was very sweet and explained everything in detail. Also, Elsa was nice and welcoming🙏",
+   "owner_reply": "Thank you so much, Raine! 😊 We’re happy to hear that your consultation with Dr. Limy went well and that she explained everything clearly. We’ll be here to support you through your treatment. Also glad Elsa made you feel welcome — we’ll pass on your kind words to the team!"
+  },
+  {
+   "author": "Mary Janice Vizcarra",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I highly recommend Frontline Medical & Dental Clinic for their excellent service and professionalism. The staff are welcoming, attentive, and very well-organized, which made the entire visit comfortable and stress-free.\n\nDr. Vimalkumar Parthasarathy is truly the best dentist—very skilled, gentle, and thorough in explaining the procedure. He ensures you feel at ease and confident throughout the treatment.\n\nOverall, outstanding service and care. Definitely a clinic I would recommend to anyone looking for quality dental treatment.",
+   "owner_reply": "Thank you, Mary Janice, for your wonderful review! We’re happy you had a great experience with our team and Dr. Vimalkumar. We look forward to seeing you again at Frontline Medical & Dental Clinic, Karama."
+  },
+  {
+   "author": "Aloira S.",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I had a root canal with Dr. Vimal, and I really appreciate how concerned he was about making sure I didn’t feel any pain during the procedure. He has a very gentle hand, which made the experience much more comfortable. The nurses were also very approachable and kind. The price I paid was also reasonable, as my insurance covered 50% of the cost. Overall, I’m very satisfied with the care I received!",
+   "owner_reply": "Thank you, Aloira S., for your feedback 😊<br>We’re glad you had a comfortable experience with Dr. Vimal and our team at Frontline Medical Center Dubai.<br>Wishing you good health and a great smile! 🦷"
+  },
+  {
+   "author": "Nihal Akhtar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently had a surgical extraction of my wisdom tooth done by Dr. Limy, and I’m extremely satisfied with the entire experience. The procedure was completely painless, and Dr. Limy was incredibly professional and caring throughout.\n\nShe explained everything clearly before the treatment, which made me feel calm and informed. What impressed me even more was that the cost of the treatment was very reasonable for the quality of care I received.\n\nI highly recommend Dr. Limy to anyone looking for excellent dental care at a fair price!",
+   "owner_reply": "Thank you, Nihal Akhtar, for your feedback 😊<br>We’re glad you had a comfortable experience with Dr. Limy at Frontline Medical Center Dubai."
+  },
+  {
+   "author": "Jessica Ramirez",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a smooth, painless and efficient tooth extraction with Dr. Vimal. He's very thorough on explaining everything regarding the procedure and with the after care. Staffs are also gentle. Thank you Frontline Medical Center Team!",
+   "owner_reply": "Dear Jessica Ramirez,<br><br>Thank you for your kind words. We're happy to know your tooth extraction with Dr. Vimal went smoothly. We truly appreciate your feedback and hope to see you again at Frontline Medical Center."
+  },
+  {
+   "author": "Anjali Mayee",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Dr Vimal is one of the best dentist\nVery knowledgeable soft spoken\nExplains the process to the patient and then  proceeds with the treatment.\nI was made v comfortable during my tooth extraction and  made entire procedure magically painless\nI did not have pain even later\nI would very strongly recommend  to visit Dr Vimal for any kind of  dental  treatment.\n\nEntire staff in the clinic is very professional.",
+   "owner_reply": "Dear Anjali Mayee,<br><br>Thank you for your wonderful review! We're thrilled to hear that Dr. Vimal and the staff made your experience so comfortable and painless. Your recommendation means a lot to us, and we look forward to serving you again in the future."
+  },
+  {
+   "author": "Tasneem Kapasi",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had my wisdom tooth extracted by Frontline’s Dr. Vimal Kumar, and the entire experience was smooth and painless. I highly recommend him to anyone considering the procedure.",
+   "owner_reply": "Thank you for your kind words! 😊 We’re happy to hear your procedure with Dr. Vimal Kumar was smooth and painless. Appreciate your recommendation!"
+  },
+  {
+   "author": "Rajkumar N",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Dr. Vimal provided exceptional care during my tooth extraction procedure. His expertise ensured that I experienced no pain either before or after the extraction. The attentive care and thoughtful guidance I received made me feel both comfortable and at ease. I extend my sincere gratitude to Frontline Medical Center for their outstanding service.",
+   "owner_reply": "Dear Rajkumar,<br><br>Thank you for your wonderful feedback! We’re delighted to hear that Dr. Vimal and the team provided you with exceptional care and a comfortable experience during your tooth extraction. Your kind words motivate us to continue delivering excellent service. We appreciate your trust in Frontline Medical Center."
+  },
+  {
+   "author": "Tushar Mathew",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "You have any dental or any sort of oral related isuues, this is the place you want to go. Dr. Vimal, is the best I've seen so far. Not only he's the best Doctor but also a good strategist. Strategic approach on dealing with oral-related-diseases. Now that speaks volume of experience. Also, the staffs and receptionists are very helpful, one of the biggest plus. I highly recommend this place.",
+   "owner_reply": "Thank you, Tushar Mathew, for your kind words 😊<br>We’re glad you had a great experience with Dr. Vimal and our team at Frontline Medical Center Dubai.<br>We truly appreciate your recommendation."
+  },
+  {
+   "author": "Asmaa Th",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This is my go to clinic dental treatment I need. The staff is very friendly and helpful. They’re very welcoming and respond very quickly. Dr. Vimal is very professional and gentle in his work. My fillings are in a very good state and I always leave the clinic satisfied with the results ☺️",
+   "owner_reply": "Dear Asmaa,<br><br>Thank you for your valuable rating and detailed review.  "
+  },
+  {
+   "author": "Wenn Ronquillo",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Always and always coming back to this dental clinic as they have the most excellent services. Dr Vimal is one of a kind, he has passion,love & conviction of what he do and it really ends up with a flawless service and  kind nurses too. I cannot trust any dental clinic other than Frontline with such services with affordable charges. Keep up the good work and well done. Highly recommended to all  :)",
+   "owner_reply": "Thank you"
+  },
+  {
+   "author": "Zak Hussain",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The receptionist and Dr was very professional. I walked in without an appointment. I was seen instantly and the doctor saw me after waiting 5mins. They had a full schedule but managed to fit me in. Consultation was free and I was treated with utmost care and importance. I needed a filling or extraction. The Dr advised me well, acknowledged my concerns. I went for the extraction. It was very much a pain free experience. Best decision to extract the tooth as it was decaying. Highly recommended. Fair price. Even the follow-up was a very nice touch. I will be coming back again.\n\nThank you Frontline..",
+   "owner_reply": "Dear Zak Hussain,<br><br>Thank you for sharing your wonderful experience! We're thrilled to hear that our receptionist and Dr. provided you with professional and prompt care, even without an appointment. <br><br>We're glad the extraction was pain-free and that you felt well-advised and cared for throughout. Your recommendation means a lot to us, and we look forward to seeing you again."
+  },
+  {
+   "author": "yahya",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I very rarely leave reviews, however, this is one business that is most deserving of one!\nI would like to thank dr.vimalkumar and receptionist for the good treatment\nDr vimalkumar is very personable and professional. He explains everything clearly, and gives you options, as well as educated explanations of each. He is also very compassionate. You can tell he really cares for his patients and how they are feeling during the entire procedure.\nRight from the moment I walked into the clinic, everyone that I interacted with was amazing\nI will definitely be coming back, and referring everyone I know to this place! Thanks a lot ♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️",
+   "owner_reply": "Dear Yahya,<br><br>Thank you for your kind words! We're thrilled to hear about your positive experience with Dr. Vimalkumar and our team."
+  },
+  {
+   "author": "Maryam Rahmoun",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently had the pleasure of visiting the dentist clinic in Dubai, and I must say, it was an exceptional experience from start to finish. Without a doubt, this clinic stands out as the best dental clinic I've encountered in Dubai thus far.\n\nFrom the moment I walked in, the entire process was incredibly smooth. The staff were welcoming and efficient, and I was promptly taken care of. What truly impressed me was the attention to detail in explaining each step of the procedure. Every process was thoroughly explained to me, ensuring that I fully understood what was being done. This transparency and communication instilled a sense of confidence and trust in the clinic's expertise.\n\nFurthermore, the competitive pricing offered by this clinic sets it apart from others in Dubai. In a city where finding a reliable and affordable dental clinic can be challenging, this clinic truly delivers on both fronts.\n\nI must also commend Dr. Upama and Dr. Nizana for their professionalism and friendliness. They exuded expertise and made me feel comfortable throughout the entire visit. Their approachable demeanor and genuine concern for my well-being further solidified my trust in this clinic.\n\nOverall, my experience at this dental clinic was outstanding. From the seamless process to the knowledgeable and friendly staff, I can confidently say that this clinic is unparalleled in Dubai. I highly recommend it to anyone seeking top-notch dental care at a reasonable price.",
+   "owner_reply": "Thank you"
+  },
+  {
+   "author": "farhu fayas",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I had been experiencing severe dental troubles and i happened to visit Dr. Vimal Kumar when i could no more tolerate the pain. Visiting him was a life changing experience. In my first visit itself he helped to get rid of the pain i had been carrying for over years. He dealt with my situation with care and responsibility. I would like to thank Dr. Vimal for giving me his best advice and service. I highly recommend everyone to visit Frontline Medical Centre for the best dental treatment.",
+   "owner_reply": "Thank you"
+  },
+  {
+   "author": "tapan mehra",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Being an ex dentist myself, Dr Vimal is the go to dentist for myself & my referrals of ex patients '\nHes the local favourite across all age groups.\n3 smiles to FRONTLINE medical centre :)",
+   "owner_reply": "Thank you so much, Sir  We're truly grateful for your kind words and the trust you place in Dr. Vimal and our team. It means a lot coming from someone in the dental field. We’re happy to care for you and your referrals!"
+  },
+  {
+   "author": "chester dayag",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It's good dental clinic recommended for everyone..Big Thanks to Dr.Vimalkumar for removing my tooth smoothly and gently in a second...salute to Nurse Elsa and Nurse Anju for    assistance...thanks and God bless to this Dental Center",
+   "owner_reply": "Thank you so much, Chester, for your wonderful review and recommendation! We’re delighted to know you had a smooth and comfortable experience. Your kind words for Dr. Vimalkumar, Nurse Elsa, and Nurse Anju truly mean a lot to our entire team. We appreciate your trust and wish you continued good health. God bless, and we look forward to seeing you again if needed."
+  },
+  {
+   "author": "Lila Cherchian",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a route canal and fillings, I feel very comfortable. Great job was done by the doctor, and very good team. Highly recommend clinic.",
+   "owner_reply": "Thank you, Lila Cherchian, for your feedback 😊<br>We’re glad you had a comfortable experience at Frontline Medical Center Dubai."
+  },
+  {
+   "author": "Vineetha Panakkeel",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I am really happy to share my own experience with Front line medical centre Burjuman. Since one year i am doing my braces treatment . I was really tensed all the times but Dr nizana was giving positive support with full of smile on her faces which we can get more confident.Today ,at last i removed my braces i can see the drastic result on my smile 😎special thanks to Dr Nizana Anwar ,very supportive friendly and professional Doctor, also elza sister and other staffs was very friendly And impressive. All the best team.Highly recommended .",
+   "owner_reply": "Thank you "
+  },
+  {
+   "author": "Grace Delegiro",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I’ve known Doctor Vimal since I started to work here in Dubai (5 years). I was one of his dental assistant way back then when his Nurse was on vacation so I know how passionate and how good he is as a dentist. He makes sure that you’re okay through out the procedure. I’ve worked with several dentist after I left my 1st Job and He is still the BEST dentist for me.  So whenever I have trouble with my teeth, I only trusted Dr. Vimal to do the procedures for me.",
+   "owner_reply": "Thank you grace"
+  },
+  {
+   "author": "Shifad Wahid",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I was visiting Dubai from the states for 2 days & ended up with a dental emergency. I was recommended to Frontline Medical Center and Dr. Nizana by family & friends. Great recommendation indeed. Nizana was fantastic, professional, highly skilled and extremely knowledgeable. She fixed my broken RCT issues, completed my new RCT, fixed my infections and helped with crowning. The staff, management, peer doctors were all considering my case with highest dignity & priority. After this, if I ever need a dental hygiene or treatment, I am skipping US, taking a flight to Dubai and working directly with this group of smart professionals. Cheers frontline and Dr.Nizana, you rock!! Well done Frontline management for hiring such high quality doctors and staff.",
+   "owner_reply": "Dear Shifad Wahid,<br><br>Thank you so much for your amazing review! We’re thrilled to hear that Dr. Nizana and the team at Frontline Medical Center were able to provide you with such excellent care during your visit. Your kind words mean a lot to us, and we’re honored to be your trusted choice for dental care. We look forward to welcoming you back whenever you’re in Dubai! Safe travels. "
+  },
+  {
+   "author": "Priti Pandey",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Dr vimal, always do great work . My family always comes to him only for all kind of dental treatment.\nStaff is also helpful and nice . Surely recommend Dr. Vimal.",
+   "owner_reply": "Dear Priti,<br><br>Hello Priti,<br><br>Thank you for the amazing review,  We’re thrilled to hear that Dr. Vimal and our team have been taking great care of you and your family. We truly appreciate your recommendation."
+  },
+  {
+   "author": "Faye Bordeos",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Normally I’m scared at the Dentist but Dra.Limy was very good. She made me very comfortable the whole procedure.\nHighly recommend Front Line Clinic and Dra Limy.",
+   "owner_reply": "Thank you so much, Faye! 😊 We’re really happy to hear that you felt comfortable during your visit. Dr. Limy will be so glad to know her care made a difference. Your recommendation means a lot to us. Looking forward to seeing you again at Frontline Clinic! "
+  },
+  {
+   "author": "Rachit Kumar",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Wonderful experience with Dr Vimal. Everything from the appointment scheduling, pre-consultation paperwork and the consultation itself was a breeze. Dr Vimal patiently explained what he was doing, kept checking in regularly during my teeth cleaning, and also guided me on post-procedural care. I highly recommend Dr Vimal and his team!",
+   "owner_reply": "Thankyou rachit"
+  },
+  {
+   "author": "rismi jose",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Dr. Vimal’s service was very good . He  is very professional. He Handled my 4 yrs old son very easily for dental procedures. I would highly recommend Dr. Vimal, the Frontline Medical Center to both children and adults.",
+   "owner_reply": "Thank you Rismi"
+  },
+  {
+   "author": "Misquitta",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "I had severe issues with my gums and gaps between my teeth. I.had earlier spent huge sums on flap surgeries, root canals etc however I would still struggle with my gum issues.\nThen I was introduced to Dr.Vimal of Frontline Medical through a friend who praised his work.\nIn my first meeting itself I was very comfortable with Dr.Vimal and asked him to give me a long term solution. He arranged a periodontal meeting with another doctor and within a short span of time they both relieved me of most of my problems.\n\nDr.Vimal has great experience and works towards giving practical solutions to all issues. I would highly recommend his services as a Dentist.\n\nBest regards\nMelroy Misquitta",
+   "owner_reply": "Thank you"
+  },
+  {
+   "author": "Hannan Sabiq",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Dr. Vimal is very efficient and great at what he does. I had to get my wisdom tooth surgically extracted and it felt like a piece of cake. So skillfully done and I didn't feel no pain. He explained what is to be done post it also.\nThank you Doc\nHighly recommended it 👌",
+   "owner_reply": "Thank you hannan"
+  },
+  {
+   "author": "Sharath Raju K",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I've been going to frontline Medical center for 6 years now, Dr. Nizana and Dr. Upama are great, and they're really supportive and understand patient concerns. Their experience handling patients is very impressive, and I trust their work. I would highly recommend frontline Medical center.",
+   "owner_reply": "Thank you"
+  },
+  {
+   "author": "Nidhina Mathew",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Had good experience with Frontline dental services. Dr. Vimal is such an amazing doctor who explains the procedure and clarify the doubts without any hesitation. Highly recommended!!!",
+   "owner_reply": "Thank youb Nidhina"
+  },
+  {
+   "author": "Aryan Gupta",
+   "rating": 2,
+   "when": "3 years ago",
+   "text": "Good doctor, but money minded receptionist. Stated 150 on the call for cleaning and polishing. However she charged me 200 saying, sir we did polishing also for you and that apparently was not included. If it was not then why did you do it without asking? Anyhow enjoy the 50 extra that you scammed. I was going to come back for the other treatments which would have potentially brought you more money. But anyways enjoy your greed🫰",
+   "owner_reply": "Thank you"
+  },
+  {
+   "author": "INFORMATION DESK",
+   "rating": 1,
+   "when": "2 years ago",
+   "text": "The front desk's name is Salsa, she is not professional to her work. While I was talking and inquiring regarding the services of the dental clinic suddenly she cut the call. I called 3 times and with all the calls she cut it out. Don't let her answer the call, she is unprofessional.",
+   "owner_reply": "Dear sir / madam thank you for bringing this matter to our attention we sincerely apologize for the inconvenience and frustration you experienced while trying to inquire about our services  this is not the level of service we strive to provide<br>We take your fees back very seriously and will<br>Adress the issue promptly with our front desk staff to ensure it does not happen again.our goal is to offer Proffesional and courteous service to all our clients and we regret that we didi not meet your expectations on this occasion<br>Please allow us the opportunity to make it right you can reach out to our clinic manager directly at 0557288210 and we will be more than happy to assist you with you inquiries and any other needs you have<br>Thank you for your understanding and patience<br>Best regards<br>Dr VIMALKUMAR Parthasarthy<br>Manager<br>Frontline medical center"
+  },
+  {
+   "author": "FAYAS AZIZ MOHAMMED",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I would like to strongly recommend Dr.Vimalkumar of Frontline Medical Centre for any Dental requirements.\nMy daughter was suffering from toothache for the last couple of months. Dr.Vimalkumar addressed this with utmost care in a single session providing much needed relief to my daughter.",
+   "owner_reply": "Thank you"
+  },
+  {
+   "author": "Rohit Lakshmanan",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Very professional and great work by Dr. Vimal. Perfectly on time, and the most comfortable dentist I've had for myself. Easy to find parking and is very central in Dubai. 10/10 would recommend.",
+   "owner_reply": "Thank you rohit"
+  },
+  {
+   "author": "Irfaan Alibathsha",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Dr. Vimal has been our family dentist for years and he is extremely professional and provides right advice. We are thoroughly satisfied with his amazing service…",
+   "owner_reply": "Thank you irfaan"
+  },
+  {
+   "author": "Srirajaganapathy S",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Dr. Vimal is our family dentist for more than 5 years.  We are always happy and satisfied  with the services of him and frontline medical center.  We  are always assured of the best treatment. Thank you Dr. Vimal and frontline",
+   "owner_reply": "Thank you Sri raja"
+  },
+  {
+   "author": "Neb DPG",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best dental clinic, all staff are very friendly and special thanks to Dr. Limy Jose for smooth and easy extraction of my teeth. Well recommended clinic.",
+   "owner_reply": "Dear Neb DPG,<br><br>Thank you for your kind words. We're delighted to hear about your positive experience with Dr. Limy Jose and our friendly staff."
+  },
+  {
+   "author": "Misiel Gania",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The attending doctor Dra. Limy and her assistant are very kind and they know their job. Kudoos to the two of them. I will recommend this clinic to my friends and colleagues.",
+   "owner_reply": "Dear Misiel,<br><br>Thank you for your Excellent review and rating."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1257,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    750,
+    410
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    478,
+    850
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    500,
+    300
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    478,
+    850
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    478,
+    850
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/frontline-dental-karama/",
+ "buy_likelihood": 8
+}

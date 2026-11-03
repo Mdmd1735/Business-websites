@@ -1,0 +1,186 @@
+{
+ "preset": "steel-volt",
+ "theme": {
+  "accent": "#F2B705",
+  "accent_text": "#F5C230",
+  "on_accent": "#0C0E10",
+  "duo": "#4D3A00",
+  "busy": "#8A6A00",
+  "glow": "rgba(242,183,5,.14)",
+  "band_accent": "#8A6400",
+  "hero_pos": "center 60%"
+ },
+ "brand": {
+  "name": "Oxford",
+  "sub": "Fitness Center · Al Qusais",
+  "mark": "O",
+  "footer_word": "OXFORD"
+ },
+ "seo": {
+  "title": "Oxford Fitness Center | Gym & Personal Training in Al Qusais, Dubai",
+  "description": "Oxford Fitness Center, Al Qusais 2: strength and cardio floor, personal training and diet plans. Open 5 AM to 1 AM. Rated 4.8 from 233 Google reviews."
+ },
+ "hero": {
+  "variant": "full",
+  "kicker": "Al Hilal Bank Building · Al Qusais 2",
+  "title_lines": [
+   "Train with",
+   "coaches who know",
+   "your name."
+  ],
+  "lede": "Strength and cardio floor, personal training and diet plans in Al Qusais. Open 5 AM to 1 AM, six days a week, with coaches members thank by name in review after review.",
+  "image": "img/hero.jpg",
+  "image_alt": "The Oxford Fitness Center training floor with racks and cable machines",
+  "secondary": {
+   "label": "Meet the coaches",
+   "href": "#team"
+  }
+ },
+ "cta_label": "Ask about membership",
+ "cta_text": "Hi Oxford Fitness Center, I'd like to know your membership options.",
+ "proof_note": "The team replies to most reviews",
+ "ticker": [
+  "Personal training",
+  "Diet plans",
+  "Free weights",
+  "Cardio",
+  "Beginners welcome",
+  "Open 5 AM – 1 AM"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "training",
+   "nav": "Training",
+   "eyebrow": "What you get",
+   "title": "Clean floor, good kit,",
+   "title_dim": "and a coach watching your form.",
+   "items": [
+    {
+     "name": "Personal training",
+     "feature": true,
+     "img": "img/team.jpg",
+     "alt": "Oxford members and coaches in a group photo on the gym floor",
+     "desc": "One-to-one programmes built around your goal, with technique checked every set. Most of our 233 reviews thank a trainer by name.",
+     "tag": "Most booked"
+    },
+    {
+     "name": "Strength & cardio",
+     "img": "img/reception.jpg",
+     "alt": "Oxford reception desk with the gold logo",
+     "desc": "Racks, cable stations, free weights and cardio machines, kept clean and in working order."
+    },
+    {
+     "name": "Diet plans",
+     "desc": "Meal plans that match your training, from your coach.",
+     "quote": "As someone going to the gym for the first time, I felt comfortable.",
+     "cite": "Huda M., Google review"
+    },
+    {
+     "name": "Beginners welcome",
+     "img": "img/wall.jpg",
+     "duo": true,
+     "alt": "Push your limits mural on the gym wall",
+     "desc": "Patient trainers who show you the basics before the heavy stuff."
+    }
+   ],
+   "perks": [
+    "Cards & Apple Pay / Google Pay",
+    "Restrooms",
+    "Membership plans"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Beat the crowd",
+   "title": "Want the racks to yourself?",
+   "title_dim": "Come mid-afternoon."
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Coaches",
+   "eyebrow": "The coaches members name",
+   "title": "Faiz, Suhais, Remya.",
+   "title_dim": "Members' reviews keep naming them.",
+   "items": [
+    {
+     "name": "Coach Faiz",
+     "short": "Faiz",
+     "count": 20,
+     "role": "Manager & head coach",
+     "quote": "He always guides me with the correct workout techniques and makes sure I'm doing each exercise safely and properly.",
+     "cite": "David B."
+    },
+    {
+     "name": "Coach Suhais",
+     "short": "Suhais",
+     "count": 9,
+     "role": "Personal trainer",
+     "quote": "Extremely supportive, motivating, and professional. He always pays attention to proper form.",
+     "cite": "Neethukrishna"
+    },
+    {
+     "name": "Coach Remya",
+     "short": "Remya",
+     "count": 6,
+     "role": "Personal trainer",
+     "quote": "Her training style is professional, motivating, and perfectly tailored to my goals.",
+     "cite": "Varsha V."
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/members.jpg",
+     "alt": "Members in matching yellow t-shirts at an Oxford event",
+     "wide": true
+    },
+    {
+     "src": "img/coaches.jpg",
+     "alt": "Coaches posing on the gym floor",
+     "wide": true
+    },
+    {
+     "src": "img/logo.jpg",
+     "alt": "Gold Oxford logo detail",
+     "wide": true
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "join",
+   "eyebrow": "Memberships",
+   "title": "Ask for this month's rates.",
+   "lede": "Tap a question and WhatsApp opens with it ready to send. The team usually replies fast.",
+   "asks": [
+    "How much is a monthly membership?",
+    "What do personal training packages cost?",
+    "Do you include a diet plan?",
+    "Can I try a session before joining?"
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Al Hilal Bank Building,",
+   "title_dim": "Al Qusais 2.",
+   "landmark": "Units 301 & 303"
+  }
+ ],
+ "address_lines": [
+  "Al Hilal Bank Building, Units 301 & 303",
+  "Al Qusais 2, Dubai"
+ ]
+}

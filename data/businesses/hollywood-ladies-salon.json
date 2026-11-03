@@ -1,0 +1,1524 @@
+{
+ "slug": "hollywood-ladies-salon",
+ "name": "Hollywood Ladies Salon",
+ "place_id": "ChIJSboImmdDXz4RvsmtSWva3UM",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Karama, Dubai",
+ "address": "Khalid Al Attar Building - 4th - 17 Kuwait St - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2453443,
+  "lng": 55.3021794
+ },
+ "phone": "+971 55 685 9423",
+ "rating": 4.5,
+ "userRatingCount": 1029,
+ "rating_distribution": {
+  "oneStar": 112,
+  "twoStar": 3,
+  "threeStar": 8,
+  "fourStar": 34,
+  "fiveStar": 872
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Ladies%20Salon&query_place_id=ChIJSboImmdDXz4RvsmtSWva3UM",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "foot spa",
+  "hair color",
+  "keratin",
+  "eyelash extensions",
+  "eyelashes",
+  "hair bleaching",
+  "accommodating staff",
+  "waiting time",
+  "balayage",
+  "hair extension"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Rea barredo",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "had a really great experience at Hollywood Salon in Al Rigga! I got my toenails done and I’m very happy with the result. The staff were friendly, professional, and paid great attention to detail. My nails look clean, beautiful, and exactly how I wanted them. The service was also relaxing and pleasant.\n\nI definitely recommend this salon and will come back again. Thank you for the wonderful service! 💅❤️chinita Thank you chel",
+   "owner_reply": null
+  },
+  {
+   "author": "Sofie uy",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’m really happy with my experience at your salon! A special thank you to Ms. Tia in M02 for doing such a beautiful job with my nails. 💅✨ The service was lovely, and I’m very happy with the final result.\n\nThank you for the great work and attention to detail. I’ll definitely be coming back again! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Thwisha Martha D'Souza",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I always go to Hollywood for my nails it’s truly one of the best nail salons in Dubai! ✨\n\nA special thank you to Cris for doing my nails with so much patience and care. She paid attention to every little detail and made sure they looked absolutely perfect. I’m so happy with the results. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Roxanne Vergara",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "A quality of service with reasonable price!! So happy with the service that Holywood Salon located in Karama has provided. Amazing service from their staffs. Special thanks to Jessa for her excellent service. She's one of the best nail tech I've met. Will definitely come back again to this salon 😊.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alfiya Naz",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "had a wonderful experience at this beauty salon. Shany was extremely professional, friendly, and did an excellent job throughout my visit. I had a hair spa, foot spa, facial, and threading done, and I was very satisfied with all the services. She paid attention to every detail and made sure I was comfortable throughout the session. The service quality was excellent, and I truly appreciate her effort and dedication. Highly recommended for anyone looking for a great beauty care experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alina Sabetian Mojaveri",
+   "rating": 1,
+   "when": "Edited 4 months ago",
+   "text": "I am very happy with the hair services and eyebrow threading in the salon. High quality and affordable services.\n\nHowever, it is very disappointing to be receiving injuries and infections during the nail appointments. I don’t understand why even though you ask the nail technicians not to be harsh and not dig into the cuticle they still do. Very painful experience. It’s been 2 days and my toe nails are still hurting. I have difficulty wearing closed shoes like sneakers because of the pain. The tools were also not sanitized properly. I disinfected the wounds immediately after getting my nails done and they still got infected. I don’t understand if the technicians are doing that on purpose because she could clearly see the bleeding but still continues to cut. Very very disappointing",
+   "owner_reply": null
+  },
+  {
+   "author": "Jel C",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is my go to salon when I needed a boost of confidence. Jane's regular messaging usually reminds me to come back to their shop. Today they did hair color, protein + keratin, manicure & pedicure and eyebrow threading. My hubby had a massage too. Everything is great from service to friendly staff and price. Special thanks to Jessa for keeping me entertained while doing my lovely nails! My hair looks healthier again.🤩 Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sina Bettie",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "I came for a hair Botox treatment with the expectation of having smooth, straight, and silky hair. However, no one explained the procedure to me, the expected results, its benefits, or how I should take care of my hair afterward. I was simply given the treatment without any proper consultation.\n\nAfter my hair was washed, I requested a haircut with bangs, but the hairdresser immediately refused, saying it was not advisable because the front of my hair is becoming curly. I felt that my request was dismissed without any proper attempt to understand my preference.\n\nMoreover, I felt that the hairdresser was more focused on attending to other clients waiting in the queue and wanted to finish with me quickly. Due to the lack of staff coverage.\n\nMy purpose in visiting the salon was not just to have a treatment done, but to achieve straight, silky, and manageable hair with professional advice and personalized care. Unfortunately, I left feeling rushed, uninformed, and dissatisfied with the overall experience.\n\nI hope this feedback will be taken seriously for a better communication and customer service in the future.",
+   "owner_reply": null
+  },
+  {
+   "author": "روتيني اليومي فتيحة تفيفيحة",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Ara provided exceptional service! She was professional, friendly, and made me feel comfortable throughout my visit. She paid attention to every detail, and I absolutely love the results. Thank you, Ara, for your amazing work. I highly recommend her and will definitely be coming back! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Jayricka Bajolo",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I would like to express my appreciation for the excellent service and wonderful staff. ❤️\n\nSpecial thanks to Felson for my hair, Mia for my nails, and Ate Pekpek for my lashes and waxing. ✨ Also, the reception Ladies, Alina and the other Girl!\n\nThank you all for making me feel beautiful and well taken care of. Highly appreciated! ♥️🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "Anu Dias",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I always go to Tony because he consistently does an amazing job with my hair! It looks fabulous every time, and I’ve even been getting compliments from strangers 😀. The young lady who did my mani and pedi was also so nice and did a wonderful job. Thank you so much for the great service ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Charlotte Delgado",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Thank you Ate Ara for my cute nails. My daughter loves it too. We will surely comeback. Highly recommended Hollywood Salon in Karama! Thanks for the good service.",
+   "owner_reply": null
+  },
+  {
+   "author": "อาภา เจริญทรัพย์",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "This was my first time at this branch, and I was very dissatisfied with the service. They overcharged me excessively. They charged 90 dhs. for eyebrow and mustache trimming, 120 dhs. for my nails (even though the package was only 100 dhs. ), and an additional 20 dhs. for nail polish removal. I've been to other branches before and they never charged me this much. I will not be using this branch again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kaizen Mazi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Friendly and accomodating staff. Shout out to Ate Evelyn, Elena, Jean and Melanie for a warmth welcome! And to my hairstylist Leo a great service they have. Till next time!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rossey Sayco",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Hollywood salon staffs are friendly and  have a great services.  Especially  in balayage  the hair stylish have a good knowledge and good suggestion for the customer mentioned Dino his my hair stylish and the one who did my balayage. My colleagues at work like my hair coloured.  Thanks to Marilyn and Richelle make me feel comfortable everytime im coming to Hollywood salon she's make sure that im satisfied at the service and have a nice smile that feel ur welcomed ☺️",
+   "owner_reply": null
+  },
+  {
+   "author": "Manasvi M",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "I usually do not write bad reviews, but my recent experience at this salon has been traumatic, to say the least.I went in for a waxing session. During the service, everything seemed to go smoothly. While I have sensitive skin, I also have a very high pain tolerance, so I didn't immediately notice any major red flags. However, during the session, the technician noticed a darker color on the wax strip and commented, \"Oh, it's just dead skin,\" and \"Oh, your tan is coming off.\"After the session, I noticed my skin peeling. Initially, I thought it was just some leftover wax residue. I later realized that my skin was legitimately peeling off.It has been a couple of days now, and you can still clearly see where my skin was ripped off. The areas started off bright red and pink, and they now look raw and discolored because the top layer of skin was completely removed. This was a very upsetting experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Bhavya Veigas",
+   "rating": 1,
+   "when": "8 months ago",
+   "text": "Very Disappointing Experience\n\nI went in for nail extensions, but they didn’t even measure nail length. The service overall was very poor and felt rushed.\n\nDuring the pedicure, the staff was extremely harsh. I was actually bleeding (I’ve attached a picture), and not once did anyone apologize or check if I was okay. That level of carelessness is unacceptable, especially in a service that involves hygiene and sharp tools.\n\nI expected professionalism and basic courtesy, but unfortunately, I received neither. I would not recommend this place based on my experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "mark justin quirante",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Great experience at Hollywood Salon! Really happy with my haircut. The staff were friendly and professional, and the service was excellent. Definitely recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Maica Madla",
+   "rating": 1,
+   "when": "3 years ago",
+   "text": "It was an awful experience,  videos are very dramatic. I decided to come and ask for keratin protein paid for AED 400 after discount they given . I was pretty confident the result will be great as we can see in all their videos , they have asked me to come back after 3 days for washing my hair and I did . At first I was thinking it was nice result without realizing that my hair was nice because it was blow dried on that day. The next day I washed it the real result showed and my hair was very dry and got tangles.  I raised my concern to the salon manager and asked me to come back for redo  which I did but after the same result I got. And worse thing was when I came back for redo the staff treatment was so cold and even showing an attitude when he was doing my hair. After he ironed my hair he told me that it’s done and white particles from the medicine applied on my hair are all over my hair and blouse . I showed it to the manager and surprised for leaving a client without properly done the work. Again after washing my hair from second treatment the result is the same and contacted the salon manager and asked me again to come back for 3rd time which I refused. I cannot risk my hair for 3 treatments on the same month and ask for refund and they refused. Just be careful on choosing the salon and this is only the salon I had experience the worst service I had in my life. NEVER AGAIN in HOLLYWOOD SALON AL KARAMA !!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mycel Nalzaro",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is my fifth visit, and I’ve had my hair done twice—each time I left happy and satisfied. Ate Jessa did my manicure and pedicure, and her hands are so gentle—no pain at all. On top of that, their prices are great! 💕\n\nThank you, and see you again soon!",
+   "owner_reply": null
+  },
+  {
+   "author": "Amira Farhan",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "The service was very poor. I asked for a dark brown hair color, but they dyed it black instead using a cheap product that contained henna, which left the color on my hair for a very long time. My hair is now extremely dry and damaged.\n\nThey also gave me one price over the phone and then changed it when I arrived.\n\nI will never go back again and would not recommend this salon to anyone.",
+   "owner_reply": null
+  },
+  {
+   "author": "Cj Flores",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Thank you so much Hollywood ladies salon karama branch for taking good care of our hair. Your Quality customer Service are superb! ✨ We’ll surely recommend to our family and friends to try your services, special thanks to Dino who made this look good on me super gorgeous balayage make over and thank you as well to Maya & Lee for a Great job! #best #hairstylist #hairdresser ☺️💕\n\nThank you Ms Raquel super accommodating 💕",
+   "owner_reply": null
+  },
+  {
+   "author": "K Rod",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "I probably will not come back there because of the arrogant receptionist. She is ranting the entire morning about random stuff. Desperate to let people know that she runs the place. She gave me such bad headache while she was ranting loudly. One thing we are looking to get when we go to a salon is to relax and feel pampered. she made it hard for me to achieve that because of that “i own the place” attitude. she also needs a reality check that customers go to Karama for a good price. If they “want” to get a premium service and pay premium price. They will go somewhere  else.. They want a deal, if you cant give a deal, at least make them feel like they did.\n\nOther than that.. The service and  other staff was acceptable.",
+   "owner_reply": null
+  },
+  {
+   "author": "Saj Corih",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "I am extremely disappointed with the result of my rebond treatment. I went to the salon expecting smoother, healthier-looking hair, but instead my hair became burned, rough, brittle, and frizzy after wash. I am very unhappy with the result considering the amount I paid for the service.\n\nVery disappointing experience. I would not recommend this service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Julie Vie Veneranda",
+   "rating": 4,
+   "when": "Edited 2 years ago",
+   "text": "Didn’t regret that i had tried their services such as gelish mani,pedi and balayage ash gray hair color in this salon. ms. julie (manicurist) and Dino ( hairdresser) showed their passion and dedication towards their job in delivering excellent service and satisfaction. Highly recommended! Great job guys! 🙏🫡😊 big thanks as well to ms. Racquel for suggesting my hair color😘😍. Surely i will comeback. Satisfied customer here.",
+   "owner_reply": null
+  },
+  {
+   "author": "Susan Joseph",
+   "rating": 1,
+   "when": "3 years ago",
+   "text": "Generally love the place and the service so decided to take my sister, however they have ruined the colour in her hair and then explained that this is how it’s done. It looks boxy and abnormal. No apologies nothing!!! And they explained this is how it’s done if they were not to touch the scalp. My hair turned out pretty good. However her’s is a disaster and they did not offer to fix it aswell.",
+   "owner_reply": null
+  },
+  {
+   "author": "Andrea Valdez",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "It was my first time to visit this salon and I am so glad I came here! The hairstylist “Jun” did a great job with coloring and styling my hair. I really appreciated that he was so gentle in handling my hair as I have not experienced any sort of pain, chemical burn or discomfort during the process. He was also very patient and meticulous  and I was blown away with the beautiful outcome of my hair. I will definitely come back as this salon proves to be a great value for money without sacrificing the quality of the service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jesz Tonette",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I love this Hollywood Beauty Salon Room 419. Ambience is nice and relaxing.  I am so happy with their services especially with my beautiful eyelash and perfect nails, ALL Thanks to April! She’s the best. Very kind and very caring to her clients. I’ve been here in Dubai for 12 years and I am so lucky to have found April. Thank you also to Amina for always accommodating me and for replying promptly when I am Booking my appointment. She feel me at ease each time I will go to their salon. She is a gem. And to April, she can do almost everything😍 I will try now her full body massage🥰 Thank you April! You are really good and amazing of what you’re doing. Keep it up! You are wonderful!❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "wathon lay",
+   "rating": 1,
+   "when": "10 months ago",
+   "text": "I am a regular customer at Hollywood Salon and usually visit every month for nail and hair services. Unfortunately, my recent experience at the BurJuman branch was very disappointing due to poor customer service at the reception.\nYesterday evening I visited for my nails and was told the salon was busy and the waiting time would be 30 minutes. I understood because it was the weekend and agreed to come back the next day. However, no options or solutions were offered at that time. Only later did another staff member suggest making a booking and gave me a booking card.\nToday I returned as a walk-in customer, as I did not have time to make a booking. The same receptionist was there. When I asked how long the wait would be, she said that without a booking they could not do the service at all. Her tone and attitude were unprofessional, and there was no effort to assist or suggest any alternative, even though I was already at the salon.\nI also noticed her behavior was different toward other customers, which made me feel uncomfortable and disrespected. As a regular customer, I expected better communication and basic customer service, especially during busy hours.\nI understand salons can be busy, but customer service should always be polite and helpful. Sadly, this experience has made me reconsider visiting this branch again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Junizza Escalante",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It’s my first time to visit Hollywood Salon Karama and I definitely will come back. The staff are all friendly and accommodating, and they are professional in what they do. Julie and Celine did well for my nails. Micah is so expert for hair coloring and keratin. The place is luxurious yet the price is very affordable and they have good offers",
+   "owner_reply": null
+  },
+  {
+   "author": "Mellany Plopino",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "The hair and nail services are great! They know what their customers' needs. Ara and Jen are so accommodating. I will surely come back🫶🏻🌟",
+   "owner_reply": null
+  },
+  {
+   "author": "Sittie Jamela",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been going to Hollywood Salon for a while now, and I’ve never felt the need to look anywhere else. They’re always so accommodating, and Ace—the one I usually coordinate with—is absolutely amazing. She books my appointments, makes sure I’m comfortable, and always goes the extra mile to look after me.\n\nThe staff here are all very skilled. Even if the stylist I usually request isn’t available, whoever steps in always does just as great of a job. For hair color and treatment, look for Dino; for haircut and styling, Tony is excellent; and for nails, Julie is fantastic.\n\nThey also add thoughtful touches like offering snacks and beverages, which makes the whole experience even more pleasant.\n\nPrice-wise, it’s very reasonable—you definitely get your money’s worth and more!! highly recommend Hollywood Salon for anyone looking for excellent service and great results!",
+   "owner_reply": null
+  },
+  {
+   "author": "April Grace",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Been a regular client in Hollywood for years now.. always have looked forward for a well deserved pamper day.\n\nMiss Jean books the services i need and makes sure all well be done in a swift and sometimes even with my tight schedule. She is the beautiful face of the salon. Greets me with all the hospitality you can imagine. With my pamper schedule aligned. Since I drive from Al Ain just to get my salon day. Yes, it is well worth the drive.\n\nPat and of course Kevin have always been the angels of my hair. With all the abuse i put it under on my crazy duty days, their hands are like magic. Take note, my hair is loooonnngg, and thanks to them, healthy.\n\nNumbers of wonderful ladies also do magic on you lashes like Ria and Joanne is the best for pedicure and foot spa, feels like i have new legs after.. cant name them all, since they are all amazing.\n\nJust an advise, message Miss Jean, check for the best time to come to have everything set before you arrive, they get very busy. And if you are like me, that wants things done smoothly. It is best to book an appointment with her.\n\nCome, try and feel beautiful or more beautiful once again. That’s how i feel everytime i leave Hollywood. 😉",
+   "owner_reply": null
+  },
+  {
+   "author": "XFR",
+   "rating": 1,
+   "when": "2 years ago",
+   "text": "I am so disappointed to this hollywood salon. It is my first time to come today. I went there for hair color highlights, but the result is so disappointing. I did not expect to pay 250 for short hair highlights just for this cheap result.\n\nFirst, they used only plastic for my highlights. It's my first time to encounter such cheap service.\n\nSecond, when they tone down your hair, they will apply the chemicals. And yes including your skin face. My forehead turns red because of the reaction from chemical.\n\nThird, the result. I did not expect highlight color to be like this. As you can see on the photo, im trying my best to find where is the highlight but i cant find it.\n\nI came back for them to fix it but it is the same result. I don't know if they are just unprofessional or just not skilled with their works. But,\n\nI am very disappointed. I will never come back to this salon and will never recommend it yo anyone.\n\nThe name of the person who did my hair  is chenchen.\n\nI feel sorry for all the customers coming here.\n\nIt's very disappointing.",
+   "owner_reply": null
+  },
+  {
+   "author": "Diana Joseph",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "It was my first visit to Hollywood Beauty Saloon today. I got to know about them via TikTok and it was the best decision ever. I wanted a hair wash, haircut and style.\n\nShany washed my hair and James gave me a haircut and styled my hair. Shany is kind, polite and calm. She gave me the best head massage. James is a perfectionist. He takes his time and gave me the best haircut which he recommended. Loved their hospitality.\n\nThis will be not my last visit. Coming soon to try new services.",
+   "owner_reply": null
+  },
+  {
+   "author": "Agape Ricardo",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I will definitely come back to this chic salon, especially for gelish manicures and pedicures. If you want to go for a classy and simple look you can book with ate Julie. She’s very nice and a pro nail tech!🫶",
+   "owner_reply": null
+  },
+  {
+   "author": "Bethani",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "I just had my gel manicure and gel pedicure today and i was amaze with the result the shaping and presice in color application was indeed perfect love it. Thanks to Jobel, she did a great job! 💯",
+   "owner_reply": null
+  },
+  {
+   "author": "Tristine Erika Conde",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a really good experience at the salon with Jessa and Shany. Jessa did my pedicure and manicure with gel polish and it turned out so neat and beautiful. Shany took care of my foot spa which was very relaxing and refreshing. Both of them were very professional, friendly, and made me feel comfortable throughout. I’m really happy with the results and would definitely recommend them if you want great service",
+   "owner_reply": null
+  },
+  {
+   "author": "MILES LIZA MONDIGO",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Had a great experience with Holywood Salon. Staffs are very accommodating, friendly and helpful most especially ATE MADS. I HIGHLY RECOMMEND HER! I got my new lovely eyelashes and all thanks to her for doing such an amazing work. Cheers!",
+   "owner_reply": null
+  },
+  {
+   "author": "Carlota Castro",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Thank you so much Julie..I absolutely love the results of my nails.You are the best.Highly recommended.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    695,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    445,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    390,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    200,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    355,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    222,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    372,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    512,
+    328
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    512,
+    212
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    512,
+    316
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    512,
+    233
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    512,
+    249
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/hollywood-ladies-salon/",
+ "buy_likelihood": 7
+}

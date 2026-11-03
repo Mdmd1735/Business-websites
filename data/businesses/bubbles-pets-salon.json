@@ -1,0 +1,1256 @@
+{
+ "slug": "bubbles-pets-salon",
+ "name": "Bubbles pets salon",
+ "place_id": "ChIJpXvbRR9fXz4Ryw2sxBUJCIc",
+ "category": "pet grooming",
+ "category_weight": 10,
+ "area": "Al Nahda, Sharjah",
+ "address": "Muwaileh commercial - Alkhaf 7 building - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3043915,
+  "lng": 55.4566561
+ },
+ "phone": "+971 6 767 5045",
+ "rating": 4.8,
+ "userRatingCount": 246,
+ "rating_distribution": {
+  "oneStar": 9,
+  "twoStar": 2,
+  "threeStar": 1,
+  "fourStar": 12,
+  "fiveStar": 222
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Bubbles%20pets%20salon&query_place_id=ChIJpXvbRR9fXz4Ryw2sxBUJCIc",
+ "website": "https://www.instagram.com/bubbles.petssalon/",
+ "categories": [
+  "Pet groomer",
+  "Pet adoption service",
+  "Pet boarding service",
+  "Pet store",
+  "Pet supply store"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "2 to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11 AM to 9 PM"
+  }
+ ],
+ "owner_description": "Get your four legged friends pampered and spoiled with us!\nWe got everything your pet needs from grooming to pet food, accessories etc\nEvery service or purchase done in our store, 50% of it goes towards helping homeless animals of the UAE.\nOur instagrams\nBubbles.PetsRescue\nBubbles.PetsSalon",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "adoption",
+  "cat boarding",
+  "friendly team",
+  "calming atmosphere",
+  "rescue cats",
+  "cat grooming",
+  "calm cat",
+  "gentle grooming",
+  "donations to rescues",
+  "cleanliness"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.9,
+ "reviews": [
+  {
+   "author": "Ansherina Sauri",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "It was our first visit to Bubbles Pet Salon, and we had a great experience! The grooming was clean and gentle, and my dog looked so comfortable throughout the visit. The staff were all friendly, patient, and you could really tell they genuinely love and care for dogs.\n\nI also got to spend some time playing with their lovely rescue dogs, which made my visit even more special. It made me so happy to see how well they’re cared for. We’ll definitely be coming back. Highly recommend! ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️🐾",
+   "owner_reply": "Thank you so much for your lovely feedback🫶🏽"
+  },
+  {
+   "author": "Tibyan Esam",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "They have very good offers and prices. Plus, Bilal did a very good job on my cat grooming. Very good customer service. I am very happy with the experience. Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Yacht Coatings Consultings",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I have been to many Pet Salons in the Sharjah area till I found BUBBLES PET SALON I am totally satisfied with the cleanliness and service we receive for every visit my dog is happy to go there top notch service and very happy myself a great Salon 👏👏👏👏👏",
+   "owner_reply": "Grateful for your feedback! Thank you 🐈‍⬛"
+  },
+  {
+   "author": "Roldan Orbeta",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "My first visit to Bubbles Pets Salon did not disappoint at all. I was truly impressed with the quality of their grooming services and the way they genuinely care for every pet. Thank you to the entire Bubbles Pets Salon team for your excellent service and dedication. A special thank you to Ferdinand for doing such an amazing job grooming my dog, Lulu. Highly recommended! ❤️🐾I’m very thankful to Fidel his very accommodating kind and respectful.",
+   "owner_reply": "Thank you, Means alot🫶🏽🫶🏽"
+  },
+  {
+   "author": "Wessam",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Took my cat here, and she was comfortable during the whole thing. You can tell right away that the team genuinely loves animals and treats them as if they were their own. The place was clean, the staff were very gentle & welcoming, and me & my cat were happy with the overall experience",
+   "owner_reply": "Thank you for your feedback🤍🤍"
+  },
+  {
+   "author": "Fatima Almaazmi",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I have been a regular customer of the salon since it opened. The place is very clean and sterile and they pay attention to the smallest details. Their treatment of animals is second to none, they are very kind and understanding. My frequent visits to them demonstrate the quality of their service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Erika Jean Belmonte",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "They took such great care of my pet and made them look fantastic. The staff was friendly, gentle, and very professional. The salon is extremely clean and well-sanitized, which made me feel really comfortable leaving my pet there. The service was quick, careful, and high-quality. I’m very happy with the results. highly recommend this salon! 🐾✨\n\nThank you for your great service !",
+   "owner_reply": "Thank you very much🤍🐈‍⬛"
+  },
+  {
+   "author": "Rauda S",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Great location and a lovely place. You can tell the staff really care about animals, which is very reassuring if uou wanted to leave and come later. Definitely recommend it for your pet.",
+   "owner_reply": "Thank you very much for your feedback. We are grateful 🫶🏽🤍"
+  },
+  {
+   "author": "Tabinda U",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Have been searching a good cat groomer since a few months near sharjah, finally I think i have found the salon where i can regularly bring my cats! The staff was very gentle with them and took great care when giving them a cut. They sanitised the entire station and all the instruments as well.. my cats got comfortable soon enough and the entire process went smoothly! They look cute and well groomed! Bubbles also does a lot of work for rescue cats and stray cats that itself assures me that they are true cat lovers, attaching a few pics.\nMust visit!",
+   "owner_reply": "Thank you so much 🐾 "
+  },
+  {
+   "author": "Shabna Ahamed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My cat was very calm , normally is vefy fuzzy when we take for shower , at bubbles he didnt cey too much . There so many resued psts to play well. They are very apt on time .",
+   "owner_reply": "Thank you so much for your lovely comment🙏🏼❤️"
+  },
+  {
+   "author": "Ghadair Als",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "“I had such a great experience at bubbles pet salon! The staff were incredibly kind and knowledgeable, helping me find exactly what I needed for my pet. The store was clean, well-organized, and stocked with a wide variety of high-quality products. They even took the time to share some helpful tips for keeping my pet happy and healthy. It’s clear they genuinely care about animals and their customers. I’ll definitely be coming back!” And most importantly they give back to pet rescue. Special thanks to the team Lowella for her exceptional world class service and ayah, Raquel, Patrick, Fidel and king they always say yes when I come. It’s been a long two years and don’t want anywhere else. They best look at the loyally card (special treatment)",
+   "owner_reply": "Thank you so much for your review ❤️ Appreciated x"
+  },
+  {
+   "author": "rochelle decena",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Had an excellent time in Bubbles Pet Salon for full grooming of our pet Cat, Kassey. All the staff are friendly and professional in handling the animal. Great customer service and interaction. Thank you to the team— Fidel, Patrick, Roderick, Raquel and Lowella. Also love the place it’s welcoming and calming for pets and owners too. We will surely comeback and hoping for you to have a vet clinic soon inshallah. 🙏🏻💯",
+   "owner_reply": "Thanks so so much for the feedback, We are so glad ❤️"
+  },
+  {
+   "author": "Don Van Niekerk",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "The best pet grooming salon I have found in the Sharjah area",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmad Ismail",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great pet store with friendly staff and good prices. Came in for cat food and found exactly what I needed. The shop was clean and organized, and the service was really nice. Will definitely be back.",
+   "owner_reply": "Thank you 🤍🐈‍⬛🐈‍⬛"
+  },
+  {
+   "author": "kenzie ahmed",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I highly recommend this place! the staff are very sweet and friendly and my cat moldy had the best experience there, their prices are good too. I've had many bad experiences with cat groomers before but with full honesty this place is the best and has very good services and prices.",
+   "owner_reply": "Thank you so very much, This really means a lot to us because the animals here is our priority💖💖!!"
+  },
+  {
+   "author": "Ahmed Alomaishi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I can’t recommend Bubbles Pets Salon enough. The team here goes above and beyond to make sure every pet gets the care and attention they deserve. They are incredibly professional, gentle, and genuinely love what they do. You can really see the effort they put into ensuring all pets are comfortable, well groomed, and treated with kindness. It is clear how hard they work to provide excellent service and it truly shows in the results. Thank you to the whole team at Bubbles for taking such great care of our furry friends.",
+   "owner_reply": "Thank you Ahmed! See you next time 🐾 "
+  },
+  {
+   "author": "Rabiya Malik",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Highly recommended. We went to bubbles for the first time. Got an appointment with in 10 mins. Extremely happy and satisfied with their grooming.\nStaff is really friendly and professional.",
+   "owner_reply": "Thank you so much for your kind words🥰❤️ You have also supported a rescued animal in need by choosing to get your doggy groomed with us so THANK YOU❤️"
+  },
+  {
+   "author": "Nayel Alantali",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The customer service was top notch, they told me everything they have to do and called before doing anything to my dogs the grooming was amazing my dog looks like a show dog and they stayed for 15 minutes more after closing just to make sure she looks perfect, and the prices are pretty perfect for the services i got , this is my first time but for sure not last , thank you .",
+   "owner_reply": "Thank you very much for the feedback 🥹🫶🏽"
+  },
+  {
+   "author": "Dana Ammary",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I’ve been taking my cats here for a year now, if not more. I recommend this place to any pet owner out there. The staff is lovely, their work is good, and the rescue animals in the shop are the CUTEST. I have absolutely no complaints. 10/10 recommend.",
+   "owner_reply": "Thank you Dana very much 🐾 "
+  },
+  {
+   "author": "Rima Alhusainat",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I really recommend this place, today I booked my cat's full grooming appointment and it was an excellent choice. The price compared to the service was reasonable and not exaggerated, they treated my cat like a queen 👑 and she didn't feel any discomfort, the haircut was definitely what I wanted and it suited my cat, they were really friendly with me too.  thank you",
+   "owner_reply": "🫶🏽❤️🐾"
+  },
+  {
+   "author": "Zaina Sagga",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Honestly they are best at grooming and their staff are super friendly. I moved to Dubai but till this day I go there and groom my dog. Hands down to the best grooming place! Highly recommended!",
+   "owner_reply": "Thank you so much Zaina for visiting us!❤️"
+  },
+  {
+   "author": "Fedilmolina",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "If you're looking for a safe place to groom your pets, come to Bubbles Pets Salon. It's truly worth it! From the moment you step into the salon, you'll feel the joy, especially when you see the results of their work. You will see and feel the difference in the service done with love and care for your fur pets. I don't mind paying any amount because I'm confident that every cent I spend here goes towards helping pets in need. So if you're looking for a safe place for your fur pets, I rate Bubbles Pets Salon a 10/10. This is the place to go! 🫶",
+   "owner_reply": "❤️"
+  },
+  {
+   "author": "Hessa Alshehhi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My cat is usually aggressive and hard to handle, but the staff were so gentle and professional. They made him feel calm and happy. Really impressed and grateful\n\nThis definitely won’t be our last visit",
+   "owner_reply": "Thank you very much for your review 🐾 "
+  },
+  {
+   "author": "Hassan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The staff are super friendly and really caring. They handled my pet with so much patience and love, and the grooming turned out perfect. 🙏🏻",
+   "owner_reply": "Thank you Hassan very much for your feedback❤️"
+  },
+  {
+   "author": "Deena Jarbou",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Exceptional experience at bubbles pets salon! The staff were professional and attentive to my pet's needs. The grooming service was top-notch, leaving my furry friend looking and feeling fantastic. The salon's attention to detail and care for the animals truly sets them apart. Highly recommend to all pet owners!\nRegular customer and always going to come back🩵",
+   "owner_reply": "Thank you Deena so much❤️"
+  },
+  {
+   "author": "Maryam Ali",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I brought my dog Maxie here for the first time and i must say it is one of the best salons around! the staff are the friendliest and kindest ever, even with the animals!! I am very satisfied with the customer service. and the grooming for my dog was very gentle and with care he turned out to be absolutely beautiful, the place is funky and colorful and I have to say its very clean and neat too! The prices are very much affordable as well,I absolutely love this place and would highly recommend❤️.",
+   "owner_reply": "Thank you Mariam, Hope to see you and Maxie again 🫶🏽❤️🐾"
+  },
+  {
+   "author": "Noor Badr",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Best pet salon I've been to. Staff are so nice, caring and sweet. They handle my two cats very well and I've been here several times now. The place is clean and the prices for their services are amazing, and you get to see and meet cute animals that are up for adoption. The drawings on the board when you enter are always the cutest too!! 🤍",
+   "owner_reply": "Thank you Noor for your review ❤️"
+  },
+  {
+   "author": "Diana al harthi",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This place is fantastic!!!!! Price is great and they give you a loyalty card. We groomed our 3 cats here and had a great experience. To be honest I strongly recommend this grooming place. The staff are very nice and they make it a fun experience.",
+   "owner_reply": "Thank you Diana so much for your review ❤️"
+  },
+  {
+   "author": "Abdu Samad",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The only salon I trust for my cat, the pet groomers have genuine care and passion towards the animals. The salon fosters a loving environment for our pets which is why I’m comfortable with them, I recommend visiting 100%. I would rate 6 stars if I could.",
+   "owner_reply": "So lovely to read this, thank you very much for trusting us with your pet! 🐾 "
+  },
+  {
+   "author": "Shyam GK",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently took my pet to the pet salon for grooming, The staff were incredibly attentive and professional, making sure to listen to my specific requests. Not only did they groom my pet well, but they also seemed to genuinely care about their well-being. The salon itself was clean and well-maintained, creating a comfortable environment for both pets and owners. I highly recommend this pet salon to anyone looking for quality grooming services.",
+   "owner_reply": "Thank you very much! 🥹❤️🐾"
+  },
+  {
+   "author": "Maira Arshad",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I brought my cat Daisy here for the first time and I must say it is one of the best salons around! the staff are the friendliest and kindest ever,I am very satisfied with the customer service and the grooming for my cat was very gentle and with care she turned out to be absolutely beautiful.",
+   "owner_reply": "Thank you so much Maria, Sending you and Daisy so much love 🌼 "
+  },
+  {
+   "author": "Lhynn MPA",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Our only trusted pet salon to take care of our Maple. Staff are very friendly and passionate about their job. They make sure that they do their top-notch to give the best care and grooming our fur baby needs. I wish Bubbles the best of luck and I admire their advocacy of saving and nurturing animals that need help. Keep up the good work and thank you for what you do.",
+   "owner_reply": null
+  },
+  {
+   "author": "Angie Villanueva",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I would highly recommend Bubbles Pet Salon for your fur babies. Very professional and very loving staff. They will take care and make it sure your fur baby get the best service they have. When you bring your fur babies, surely you are very confident that they are in good care.",
+   "owner_reply": "Thank you for your kind words! We appreciate your support."
+  },
+  {
+   "author": "sal",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "literally one of the best salons out there!\nit is my absolute fav.\nmy cat is a bit aggressive around strangers & i struggle a bit with salons but this salon in specific has an amazing way to calm pets down and make them feel comfortable.\nregarding the prices, they are good too !\nas a cat owner, i recommend.\nthank you bubbles!",
+   "owner_reply": "Thank you so much for your feed back! We are so thankful ❤️"
+  },
+  {
+   "author": "Yasmina M.S",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "My husband took our medium to large sized doggo for a grooming session (shower, ear cleaning and nail clipping), and really liked the experience. First time visiting them and the experience was delightful. We usually go to our vet but because it was fully booked this was the nearest place and happy it happened so we have another place to go to for our servicing needs. Wish there was vet service here too :)",
+   "owner_reply": "Thank you Yasmina 🥹🫶🏽🐾 Hopefully in the future. Sending your doggie big virtual hugs! "
+  },
+  {
+   "author": "Ksenia Ch",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very nice place. Friendly staff. it shows that they love animals and care about their comfort and pay attention to each detail ( they even washed my cats bag🥰). Now I’m their regular customer and highly recommend them to my friends as well. Thank you Bubbles❤️",
+   "owner_reply": "Thanks very much for your review ❤️❤️"
+  },
+  {
+   "author": "Amna's Lens",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best pet salon ever, in terms of service, prices, loving and caring. The staff are full of care and affectionate towards all pets, your own pets and street pets. I love them and i always will deal with them. They do accept donations for rescuing pets they bring and you also can adopt if you wish. God bless you. Keep spreading kindness and love ❤️",
+   "owner_reply": "Thank you very much 🐾 "
+  },
+  {
+   "author": "Yiğit Bakır",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I brought my dog here, and I’m so glad I did. The staff was super nice, and they clearly love animals. My dog usually hates getting groomed, but she seemed surprisingly relaxed here. Would recommend!!",
+   "owner_reply": "Thank you! So lovely to read this. Im super happy your dog was comfortable with us! Thats the goal 🐾 "
+  },
+  {
+   "author": "S3OODCHII",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Hello, in terms of my experience with the store... I do not call it a store, but rather my dog’s second home. I loved their treatment and welcome of my wonderful dog. I loved the people working on this most wonderful job. They have the ability to deal with all types of animals with love and sincerity, and they also support animals in need in the Emirates (  Thank you Bubbles pets salon) I love you",
+   "owner_reply": "This means a lot! We really appreciate your feedback back🥹❤️"
+  },
+  {
+   "author": "Melissa Stanton",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Loooove Bubbles for so many reasons! They truly care about my babies unlike so many groomers who I’ve seen handling the animals so roughly! The place is clean, they stock great products, wonderful staff & the grooming beautiful! But love them because I feel safe leaving my little ones in their hands!! ♥️🙏🏼♥️",
+   "owner_reply": "Thank you very much for your review ❤️ 🐾 "
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1350
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    721,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    863,
+    863
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    345,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/bubbles.petssalon/",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {
+  "instagram": "bubbles.petssalon"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/bubbles-pets-salon/",
+ "buy_likelihood": 8,
+ "instagram_match": {
+  "how": "listed on Google Maps"
+ }
+}

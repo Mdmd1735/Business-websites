@@ -1,0 +1,1064 @@
+{
+ "slug": "oxford-fitness-center",
+ "name": "Oxford Fitness Center",
+ "place_id": "ChIJE6W0g_RdXz4R1gHlpEtTQO4",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Al Qusais, Dubai",
+ "address": "Al Hilal Bank Building, Al Qusais 2, Dubai Unit Number 301, 303 - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2658956,
+  "lng": 55.3829763
+ },
+ "phone": "+971 55 677 5461",
+ "rating": 4.8,
+ "userRatingCount": 233,
+ "rating_distribution": {
+  "oneStar": 6,
+  "twoStar": 2,
+  "threeStar": 5,
+  "fourStar": 9,
+  "fiveStar": 211
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Oxford%20Fitness%20Center&query_place_id=ChIJE6W0g_RdXz4R1gHlpEtTQO4",
+ "website": "",
+ "categories": [
+  "Fitness center",
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "4 to 10 PM"
+  }
+ ],
+ "owner_description": "Dubai's most Elegant fitness-oriented center, our expert fitness trainers are ready to help you become the healthier version of yourself.\nOxford Fitness Center aims to set Dubai into a healthy land. Leads with experienced & certified world's best trainers. World-class fitness facility built to help you achieve your fitness goals. A variety of cardio and strength training equipment as well as group exercise programs. We offer health, recreational, and social facility geared towards exercise, sports, and other physical activities.",
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "friendly coaches",
+  "personalized training",
+  "motivating trainers",
+  "motivating training style",
+  "diet plan",
+  "cordial instructors",
+  "patient trainer",
+  "small gym",
+  "free weights",
+  "effective workouts"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 23
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 30
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 30
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 30
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 19
+   }
+  ]
+ },
+ "owner_reply_rate": 0.57,
+ "reviews": [
+  {
+   "author": "Liezel",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Oxford Gym is an excellent gym! 💪\nThe gym is clean, well-maintained, and the equipment is always in good condition and kept clean. The coaches are very accommodating, friendly, and professional.\n\nMy PT coach, Suhais, is a jolly and friendly person, but once the workout starts, he becomes serious and focused. He is an excellent coach who pushes me to my limits and motivates me to always give my best. He is approachable, down-to-earth, and very accommodating. I have learned many new workout techniques from him, which have helped me improve my strength, form, and overall performance. I really appreciate his dedication and the way he motivates me during every session.\nCoach Faiz is one of the most experienced and skilled coaches I have ever met. He has excellent expertise in various training techniques and also has a good understanding of proper body massage and recovery after intense and heavy workouts. His guidance and experience have been very helpful in improving my workouts and overall fitness.\nCoach Remya is also a friendly and experienced coach who is always approachable and supportive.\nThe people at the gym are also friendly, which creates a great and welcoming atmosphere.\nOverall, I highly recommend Oxford Gym to anyone looking for a clean, well-equipped gym with knowledgeable and supportive coaches. I’m really happy with my experience here! 💪🔥",
+   "owner_reply": "Your feedbacks are always valuable to us. It really meant great that our Entire team had motivated and inspired you in one or other way.We are always happy to hear all those real experiences in your fitness journey.Lets rise up together."
+  },
+  {
+   "author": "Neethukrishna",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’m really happy with my experience at Oxford Gym! A special thanks to my coach, Suhais, who is extremely supportive, motivating, and professional. He always pays attention to proper form, pushes me to do better, and makes every session enjoyable.\nI’d also like to mention that all the other coaches are friendly, knowledgeable, and always ready to help. The gym is very well-equipped with modern machines. The overall atmosphere is positive and motivating.\nHighly recommended for anyone looking for a great gym with excellent coaches and a supportive environment!",
+   "owner_reply": "We are happy to hear your feedback.Our team are well dedicative and trained under professionalism.Well noted for your rating to Coach Suhais."
+  },
+  {
+   "author": "david benshar",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I would like to give special appreciation to my trainer Faiz. He is very professional, supportive, and motivating. He always guides me with the correct workout techniques and makes sure I’m doing each exercise safely and properly.\n\npatient and pays attention to my progress. His motivation and positive attitude really help me stay consistent and focused on my fitness goals.\n\nI’m very happy with his training and guidance. Highly recommended trainer! ⭐⭐⭐⭐⭐\n\nThank you, Faiz, for your continuous support and motivation! 💪👏",
+   "owner_reply": "It's been a great pleasure to know that Coach Faiz meant a lot to you. Thank you for you honest feedback & we would like to see your fitness journey and growth along with us! Cheers to next level."
+  },
+  {
+   "author": "Fasal Ibrahim",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’m really happy with my experience at this fitness centre! The gym is clean, well-equipped, and has a great atmosphere.\n\nA special thanks to my coach Fayiz, who is very supportive, motivating, and always ready to help. His guidance and training have really helped me improve my body physique and fitness. I truly appreciate his dedication and support throughout my journey.\nHighly recommended gym and an excellent coach! 💪🔥",
+   "owner_reply": "We always make sure to keep our facility and ambience along with the equipments in a professional way for our clients.We are so much happy to hear that our Coach Faiz is playing an prominent role in your fitness journey.Lets grow together!!"
+  },
+  {
+   "author": "Ahalya",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Really happy with my experience at this gym. It has a great atmosphere, good equipment and feels like a place where you genuinely enjoy coming to workout.\n\nA special thanks to my Trainer Suhais for being so supportive, patient and motivating. The guidance and encouragement make every workout better, and i'm really happy with the progress i'm making.",
+   "owner_reply": "That's an excellent feedback . Thank you for your rating to our Coach Suhais and appreciate your progress."
+  },
+  {
+   "author": "Shanib",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Oxford Gym has a great atmosphere with good equipment and a comfortable setup for training. The staff are friendly, and Mr. Faiz is especially helpful with proper technique and workout guidance. His attention to form makes the training more effective and gives you confidence while exercising. Overall, a solid gym for anyone serious about fitness.",
+   "owner_reply": "Thank you so much for your heartfelt review Mr. Shanib"
+  },
+  {
+   "author": "reni antony",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve been training here for the past two months with my trainer Mr. Faiz. The gym is well-equipped, clean, and has a nice atmosphere. Mr. Faiz is very supportive and guides me well. I can already see and feel the changes. Really happy with my experience! Highly recommended. 💪😊",
+   "owner_reply": "Your review meant so much to us. Looking forward to see you and your journey with us"
+  },
+  {
+   "author": "Nijin Shaj",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great experience at this gym, The atmosphere is motivating and the facilities are good. Special thanks to my coach Suhais for his guidance, support, and personalized training. He is very professional, friendly, and always motivates me to push myself. Highly recommended.",
+   "owner_reply": "We are so much glad to see that Coach Suhais meant a lot to you.Thank you for your genuine feedback and rating us."
+  },
+  {
+   "author": "firosrose firoskirose",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great gym with a positive and motivating atmosphere. A special thanks to Coach Suhais—he is knowledgeable, supportive, and always takes the time to guide and encourage everyone. His personalized training and friendly attitude make every workout enjoyable. Highly recommend this gym, especially if you're training with Coach Suhais.",
+   "owner_reply": "Thank you so much Mr.Firos. We are glad to hear that our coach Suhais had done a prominent role in your fitness journey."
+  },
+  {
+   "author": "shijin kshaji",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great gym with a motivating atmosphere, quality equipment, and a friendly team. The trainers are professional, supportive, and always willing to help. A special thanks to Suhais for the excellent guidance, encouragement, and dedication. He takes the time to ensure exercises are done correctly and keeps everyone motivated to achieve their fitness goals. Highly recommend this gym to anyone looking for a great place to work out!",
+   "owner_reply": "That was really a valuable feedback and made us proud that our team & Coach Suhais had made a special impact on your fitness journey.We always look forward in our quality along with facilities for making our clients the better environment."
+  },
+  {
+   "author": "Muhammad Dhanish",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve had a great experience at this gym. The equipment is good, the environment is motivating, and the overall atmosphere is very positive.\nA special thanks to trainer Mr Fayiz for the excellent guidance and support.",
+   "owner_reply": "Thank you for your feedback"
+  },
+  {
+   "author": "Ashwin",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "​Oxford Fitness Center in Al Qusais is an excellent gym. The facilities are always clean, and they have a great selection of well-maintained equipment. A huge shoutout to Faiz, the fitness trainer—he is incredibly knowledgeable and attentive, always tailoring workouts perfectly to align with your fitness goals. Highly recommended!",
+   "owner_reply": "Thank you for joining Oxford Fitness Center. We are pleased with your kind review for our team.Stay tuned!"
+  },
+  {
+   "author": "Mr&Ms Dictionary",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Oxford Fitness Gym has a welcoming atmosphere, modern equipment, and a supportive team. A special thanks to Coach Faiz for his dedication, motivation, and personalized guidance. His professional approach and constant encouragement make workouts enjoyable and help members stay focused on achieving their fitness goals. Highly recommended for anyone looking for a positive and results-driven fitness experience.",
+   "owner_reply": "Glad to hear your valuable feedback"
+  },
+  {
+   "author": "dilkush niyas",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Fayis is an excellent gym trainer. He is very knowledgeable, motivating, and always pushes me to achieve my fitness goals. His workout plans are effective. I have seen great improvements in my strength and fitness. Highly recommended!”",
+   "owner_reply": "Thank you so much for your wonderful review! We're delighted to hear that you had a great experience at Oxford Fitness Center. Our team works hard to provide the best facilities, guidance, and environment for our members. Your support motivates us to continue improving every day. We look forward to helping you achieve your fitness goals!"
+  },
+  {
+   "author": "Smitha Baben",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great experience with fantastic trainers.Good vibes and high energy. Thank you  Faiz ,Suhais and Remya\nYou all are awesome and am blessed to get you as my Coach.Especially Faiz you are agreat Manager and excellent coach making every exercise so easy.super experience !!",
+   "owner_reply": "Thank you for your review and experience with our team."
+  },
+  {
+   "author": "Huda Madathil",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Great gym with good equipment. The trainer is very patient and friendly. As someone going to the gym for the first time,I felt comfortable. Highly recommend",
+   "owner_reply": "Appreciate for your response with our team.Hurray !! lets make this fitness journey the best"
+  },
+  {
+   "author": "Ajeeb Ajeeb k",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Oxford Gym keeps things simple and focused—good space, decent equipment, and a no-nonsense workout vibe. Mr. Faiz stands out for his hands-on guidance and attention to form, which really helps.",
+   "owner_reply": "Thank you so much for your wonderful feedback! We're delighted to know you had a great experience at Oxford Fitness Center. Your support motivates our team to continue providing the best fitness environment and service. We look forward to seeing you again soon. Keep pushing towards your fitness goals!"
+  },
+  {
+   "author": "Manu Murali Nair",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Oxford Fitness Center is one of the best gyms in the Al Qusais area! The gym is very well-equipped with modern machines, free weights, and all the tools needed for a complete workout — whether you’re into strength training, cardio, or functional fitness.\n\nThe trainers here are extremely professional and supportive. A special mention goes to Coach Fayis, who stands out for his dedication, deep knowledge, and personalized training approach. His sessions are always well-structured, motivating, and tailored to help members achieve their goals efficiently. His professionalism and friendly attitude make workouts both challenging and enjoyable.\n\nThe supporting staff are also amazing — always welcoming, attentive, and ready to help. The gym maintains excellent cleanliness and hygiene, and the locker rooms and showers are kept spotless.\n\nAnother big plus is its easy accessibility, located conveniently near the metro station, making it very convenient for daily commuters.\n\nOverall, the environment at Oxford Fitness Center is positive, energetic, and community-driven. It’s a place where you feel motivated to push yourself and enjoy every workout session.\n\nFacility Rating: ⭐⭐⭐⭐⭐ (5/5)\nTrainer Professionalism: ⭐⭐⭐⭐⭐ (5/5)\nStaff Support & Cleanliness: ⭐⭐⭐⭐⭐ (5/5)\n\nHighly recommended for anyone looking for a professional, well-maintained, and welcoming fitness center in Al Qusais!",
+   "owner_reply": null
+  },
+  {
+   "author": "THARUN KUMAAR U 2022-CSE",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing gym with great vibes! The trainers are super motivating, the equipment is top-notch, and the atmosphere keeps you coming back. Perfect place to stay fit and feel good every day!",
+   "owner_reply": null
+  },
+  {
+   "author": "Varsha Vijayan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve had an amazing experience at Oxford Fitness Gym! My  trainer Ms. Remya has been absolutely incredible  — her training style is professional, motivating, and perfectly tailored to my goals. Thanks to her guidance, I’ve seen a visible change in my body and overall fitness.\nThe other coaches, Mr. Suhais, Aju, and Fayiz, are also extremely supportive and create a positive, energetic environment that keeps me motivated every day. The gym atmosphere is always friendly and encouraging.\nA special mention to Ms. Athulya at the reception — always welcoming with a smile and very helpful with any queries.\nOverall, Oxford Fitness is not just a gym, it’s a place that truly inspires you to become the best version of yourself. I’d definitely recommend it to all my friends! 💪✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Shilpa Sasikumar P",
+   "rating": 5,
+   "when": "Edited a month ago",
+   "text": "Really enjoying my experience here! The coach is very friendly especially coach Ramya is supportive, and the atmosphere is comfortable and motivating. 💪😊",
+   "owner_reply": "we appreciate for your response to our Coach Remya and our amenities. Good luck on your continued fitness journey."
+  },
+  {
+   "author": "Anandhu Nandhan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best gym in town! Clean facilities, excellent trainers, and a supportive community. The classes are fantastic, and I've loved every session.\n\nCoach Fayi's bro professional and dedicated approach is truly exceptional 💪🏾...",
+   "owner_reply": null
+  },
+  {
+   "author": "Sandeep Parvathi",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Oxford Gym has an excellent atmosphere with a very friendly and welcoming environment. The trainers are highly professional and knowledgeable, and Trainer Faiys provides excellent support and guidance. I am very happy with the training and overall experience. Highly recommended.😍💪",
+   "owner_reply": "Your feedback meant  lot to us."
+  },
+  {
+   "author": "Jairaj Londhe",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "It’s a very good gym for both men and women. My sister and I have been going here for the last 2–3 weeks, and the best thing about this gym is the trainers—they know exactly what needs to be done. They provide a proper diet plan and exercise routine, and in every session they are with you for support and guidance. I was suffering from back pain earlier, but thanks to the exercises, my back pain is no longer there. Special thanks to the trainer Mr. Faiz and Oxford Fitness Center. And special thanks to Athulya she is the one who helped us and I really appreciate her work that started with big smile on her face, thats how she welcome us in gym. If any one is looking for gym in Al Qusias they must come in this place.",
+   "owner_reply": "Thank you for your valuable feedback"
+  },
+  {
+   "author": "MUHAMMED SHIBILI",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Oxford Fitness Center is a great place to work out. The trainers are professional and supportive, and I’d especially like to appreciate Trainer Mr. Fayis. He is very cooperative, friendly, and always motivates and guides properly during workouts. Highly recommended for anyone looking for a good fitness center.",
+   "owner_reply": "Thank you"
+  },
+  {
+   "author": "Prasanth R Panicker",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I’ve been coming to Oxford Gym for the past 4 months, and I absolutely love the ambiance here! The facilities are well-maintained, and the atmosphere is really motivating.\nA special mention to my trainer, Mr. Faiz — he’s an excellent trainer and a genuinely good person. He always guides and supports you based on your goals, whether it’s weight loss or muscle gain. Highly recommend this gym to anyone looking to see real results!",
+   "owner_reply": null
+  },
+  {
+   "author": "malik shary",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "FAIZ Gym Coach is a great gym trainer is a knowledgeable, supportive mentor who builds confidence, provides personalized guidance, and creates an engaging experience, leading to solid, sustainable fitness success. Thank You Oxford Fitness Center ❤️‍🔥",
+   "owner_reply": null
+  },
+  {
+   "author": "v bhooshun",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best training center I had ever seen, I had enjoying this journey through oxford fitness center, all the staff members are treating like family members, Here Masters are all Top Notch . Here I am making memories through mind and muscles.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammed Shabas",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Professional, friendly, and inspiring. Coach Faiz knows how to help you achieve your fitness goals. Highly recommend",
+   "owner_reply": "Thank you for taking the time to leave us such a positive review! We're thrilled to know you're enjoying your experience at Oxford Fitness Center. Your encouragement inspires us to keep improving every day. We can't wait to welcome you back for another great workout!"
+  },
+  {
+   "author": "Sudeesh",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "Oxford Fitness Gym – Honest Feedback\n\nI would like to share my genuine feedback about Oxford Fitness Gym after being a member for almost six months.\n\nFirstly, I want to appreciate Mr. Fayis, who is an amazing trainer. He is very sincere, dedicated, and professional in his work.\n\nSecondly, I want to thank the Oxford Fitness team for maintaining a friendly environment and building a good connection with clients. Your team’s approach is great for both customer satisfaction and business growth.\n\nHowever, I would like to bring an important concern to the management’s attention. There are three other trainers (two male and one female) whose behavior is not professional. I’ve noticed that the two male trainers often spend time chatting, joking, and taking selfies with female clients instead of focusing on training. It sometimes seems like they are forming personal relationships rather than maintaining a professional atmosphere. The female trainer also appears to support this behavior.\n\nThis kind of conduct is not suitable for a fitness environment. I request the management to review this matter seriously and take appropriate action. If this continues, many genuine members may feel uncomfortable and might leave the gym.\n\nPlease be careful and take necessary steps to maintain the good reputation of Oxford Fitness.",
+   "owner_reply": null
+  },
+  {
+   "author": "DHANEESH KJ",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The Oxford Fitness Center provides a great workout atmosphere with clean, modern ambiance and top-notch, well-maintained equipment.Mr. Faiz an excellent and highly motivating trainer who genuinely cares about his clients' progress and fitness goals. I highly recommend this facility to anyone looking for a professional and effective fitness experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Dhanyu Suresh",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "This is an excellent fitness centre.\nEspecially the coaches here give individual attention to each and every gym mates. The coaches- faiz etc.. here are exceptionally knowledgeable, approachable and patient.\nMust try. Even for the beginners also its great!",
+   "owner_reply": null
+  },
+  {
+   "author": "SARA",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I joined Oxford Fitness Center, Al Qusais, Dubai, in August, and as a first-time gym-goer, I initially had doubts about achieving my weight-loss goals. But the friendly, positive, and stress-free atmosphere completely changed my mindset!\n\nA big thank you to the entire team —Mr. Faiz, Mr. Suhaiz, and Mr. Aju and Ms. Remya— for their constant support.\n\nA special appreciation to my trainer, Ms. Remya, whose warm attitude and consistent motivation kept me committed. She gave me a diet plan, monitored my progress, and even checked on me whenever I took leave. Because of her guidance, I was able to lose weight and gain confidence.\n\nThe gym mates are super friendly, supportive, and make workouts truly fun.\n\nAlso, the equipments are excellent, and the gym is always neat.\n\nMy heartfelt thanks to Ms. Athulya, who welcomes everyone with a smile and makes every visit pleasant.\n\nThank You Oxford Fitness, and Ms. Remya!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sayoojms 0073",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I’ve been training at this gym for the past 2 months, and it’s been a great experience.The atmosphere is motivating, and the coach especially Faiz is very supportive always guiding with the right techniques and pushing me to improve. I’ve really seen good progress in my fitness since joining and positive workout environment and a great trainer",
+   "owner_reply": null
+  },
+  {
+   "author": "ANGEL SANTHOSH",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "2 months in, the trainers are knowledgeable, supportive and always willing to help. They are always available to answer questions and provide feedback. Thanks to coach Faiz's expertise and guidance - always pushing to do better and correcting the form. The facilities are great too!",
+   "owner_reply": null
+  },
+  {
+   "author": "Vidya Rc0207",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Oxford Fitness Center is amazing! The facilities and the atmosphere is motivating. But what truly sets them apart is the exceptional support from the trainers, especially Coach Remya.\n\nTheir guidance and encouragement have been instrumental in my fitness journey. Highly recommend!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Sayooj EK",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Oxford Fitness is one of the best gyms around. The atmosphere is clean and motivating. Mr. Suhais is an excellent trainer always supportive and professional. I really enjoy training here!",
+   "owner_reply": null
+  },
+  {
+   "author": "MOHAMMED JISHAR",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "The atmosphere is energetic, positive, and super motivating. It really pushes you to give your best every workout.\nBig shoutout to my trainer faiz for his excellent guidance, motivation, and support. Highly recommended for anyone serious about fitness!",
+   "owner_reply": null
+  },
+  {
+   "author": "Thiyaga devan",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Absolutely love this gym! The coaches are super supportive and genuinely care about your progress—they’re always there to guide and motivate you. The gym has all the equipment you need, and the airflow inside is great, so it never feels stuffy while working out.\n\nIt’s always clean and well-maintained, which really adds to the overall experience. The vibe here is positive and energizing—makes it easy to stay focused and enjoy the workouts. I signed up for the 3-month package, and honestly, it’s such a good deal. Definitely worth it!",
+   "owner_reply": null
+  },
+  {
+   "author": "Hashim MB",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent gym! The trainer is friendly, patient, and genuinely cares about your progress.",
+   "owner_reply": "Happy to hear that.Looking forward to see you"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1065
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1064,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/oxford-fitness-center/",
+ "buy_likelihood": 8
+}

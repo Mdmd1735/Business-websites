@@ -1,0 +1,1763 @@
+{
+ "slug": "la-brew-tabu-cafe",
+ "name": "La Brew Tabu Cafe",
+ "place_id": "ChIJgzFcEv5dXz4RdGSDyxDwbl0",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "Al Nahda, Sharjah",
+ "address": "3rd St - Al Nahda First - Al Nahda - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2960577,
+  "lng": 55.3698483
+ },
+ "phone": "+971 56 533 0030",
+ "rating": 4.9,
+ "userRatingCount": 310,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 3,
+  "threeStar": 3,
+  "fourStar": 10,
+  "fiveStar": 293
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Brew%20Tabu%20Cafe&query_place_id=ChIJgzFcEv5dXz4RdGSDyxDwbl0",
+ "website": "https://www.instagram.com/labrewtabu?igsh=OXZ0c2c1ZHExZTh5",
+ "categories": [
+  "Restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "7 AM to 1 AM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Service options": [
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Drive-through": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Assistive hearing loop": false
+   },
+   {
+    "Wheelchair accessible entrance": false
+   },
+   {
+    "Wheelchair accessible parking lot": false
+   },
+   {
+    "Wheelchair accessible seating": false
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Halal food": true
+   },
+   {
+    "Healthy options": true
+   },
+   {
+    "Small plates": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Dinner": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Trendy": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Groups": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "spanish latte",
+  "matcha",
+  "welcoming staff",
+  "sliders",
+  "pizza",
+  "cozy cafe",
+  "milkshake",
+  "kind staff",
+  "crepe",
+  "hospitality"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 47
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 42
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 57
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 23
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 42
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 66
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 57
+   }
+  ]
+ },
+ "owner_reply_rate": 0.5,
+ "reviews": [
+  {
+   "author": "sree hari",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nAmazing experience at La Brew Tabu Café! ☕✨\nThe food and coffee were excellent, and the atmosphere was very relaxing. All the staff are very friendly, helpful, and provide excellent service. Special thanks to Mr. Saeed for his great hospitality and professional service.\n\nHighly recommended! Definitely a place I would love to visit again. ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Nata Krasnoperova",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "What an amazing experience! This place was such a wonderful surprise. Everything is truly top-level — the service is excellent, the food is easily 10/10, and the atmosphere is beautiful.\n\nThe moment you step inside, you feel like this place belongs somewhere on Jumeirah. Everything feels elegant, polished and very well thought out.\n\nA special compliment to the staff — incredibly attentive and professional, but never intrusive, which I really appreciate.\n\nI will definitely come back for the food and the whole experience. Thank you! Everything was beyond expectations and deserves the highest praise. 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Heizel Cervantes",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I really enjoyed everything I ordered — the Spaghetti Bolognese, Iced Spanish Latte, and Margarita Pizza were all amazing. Everything tasted so good, definitely a solid 10/10! I have nothing but good things to say about the food.\n\nThe ambiance was also great. It was a nice and relaxing place where I could enjoy my meal and spend quality time. Special thanks to Ram for the warm welcome and for providing such friendly and attentive service.\n\nI’ll definitely be coming back and I’m excited to try more dishes from their menu!",
+   "owner_reply": null
+  },
+  {
+   "author": "fritze alagao",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "This is my go to cafe in around Al Nahda,  kinda far from my place whenever I have errands nearby I’ll make sure I’ll stop and dine.  Crew are very welcoming,  easy to talk with and  cafe itself is  vibing.  food is absolutely delish!",
+   "owner_reply": "Thank you for your kind review! We’re thrilled you enjoyed your experience with us at La Brew Tabu Cafe. We truly appreciate your support and look forward to seeing you again soon!"
+  },
+  {
+   "author": "jerwin ramilo",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Great food, excellent service, and friendly staff! Highly recommended. Will definitely come back!",
+   "owner_reply": "Thank you for the lovely feedback! We’re so happy to hear you enjoyed your visit to La Brew Tabu Cafe. We truly appreciate your support and can’t wait to have you back for another great experience!"
+  },
+  {
+   "author": "Jappy Basco",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "An absolute gem of a spot! From the incredibly warm and attentive staff who make you feel right at home, to the beautifully crafted drinks and exceptional food, every detail is spot on. Vibrant flavors, welcoming energy, and top-tier hospitality, it doesn't get better than this.",
+   "owner_reply": "Thank you for your kind review! We’re thrilled you enjoyed your experience with us at La Brew Tabu Cafe. We truly appreciate your support and look forward to seeing you again soon!"
+  },
+  {
+   "author": "Lennel Rodriguez",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "The food was so good, the service was excellent thank you Kuya Mark. Will surely come back",
+   "owner_reply": null
+  },
+  {
+   "author": "Ivan Aguana",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Lovely spot! Great coffee, cozy vibe, and friendly staff. Perfect place to relax and unwind. Will definitely be back!",
+   "owner_reply": "Thank you for the lovely feedback! We’re so happy to hear you enjoyed your visit to La Brew Tabu Cafe. We truly appreciate your support and can’t wait to have you back for another great experience!"
+  },
+  {
+   "author": "Lara Luz Villanueva",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Food is delicious.\nGreat and cozy place.\nStaff is also very nice and accommodating especially kuya mark.\n\nThank you po!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Vidya Menon",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "A hidden gem in Al Nahda close to home but so cozy! Amazing food cozy vibes",
+   "owner_reply": "Thank you for visiting La Brew Tabu Café. We truly appreciate your kind feedback and look forward to welcoming you again."
+  },
+  {
+   "author": "Armisha Shahid",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "It’s my first time coming here, usually I see people asking for reviews. But see how happy I must be that I’m willingly give the review by myself. The service is top quality, good quality is amazing and then the mojito is I would love to come again",
+   "owner_reply": null
+  },
+  {
+   "author": "blessing kingsley`",
+   "rating": 4,
+   "when": "2 months ago",
+   "text": "Lovely Service\n\nAbsolutely lovely experience! Great service, friendly staff, and everything was excellent. I really enjoyed my time and would definitely recommend it. ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Mary grace Marticio",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Great Food, Refreshing Drinks, and Excellent Service!\nI was out exploring when I came across La Brew Tabu. I decided to check out their menu first, and I ordered a club sandwich and a passion mojito.\nI was honestly surprised by how delicious and worth it the club sandwich was! The serving was huge, and they also gave plenty of fries. Since it was really hot outside, the passion mojito was perfect for me. It was so refreshing!\nI highly recommend this shop. They offer coffee, pasta, pizza, burgers, and more. Definitely worth a visit!\nA special shoutout to the staff, Sanny and Dof. They were both friendly, accommodating, and provided great service. Thank you for making my visit even more enjoyable!\nI will definitely come back again. Highly recommended! ❤️",
+   "owner_reply": "Thank you for the lovely feedback! We’re so happy to hear you enjoyed your visit to La Brew Tabu Cafe. We truly appreciate your support and can’t wait to have you back for another great experience!"
+  },
+  {
+   "author": "Angeline Calog",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "This is such a chill and cozy place to unwind and catch up with friends. The food is affordable, and my caramel latte was perfectly made. The staff are incredibly friendly and welcoming, always greeting you with a smile. Definitely a great spot to relax, enjoy good food and coffee, and have a nice chat with friends",
+   "owner_reply": null
+  },
+  {
+   "author": "Amal Zeidan",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Food was perfect , service is exclusively brilliant , prices are great , we tried Pasta , panozzo chicken , salad, piza, everything was so great my feiends and our kids loved everything they tried, the atmosphere was so accommodating, the staff were extra kind and flexible, we will certainly return again and again .\nFor that zone , Alnahda first , absolutely no comparison to any food pkace at such level and quality .\nI will give 5 star ⭐️ fot it .",
+   "owner_reply": null
+  },
+  {
+   "author": "aneesha salam",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Awesome food and best quality ingredients.I had LBT chicken sandwich and it’s really delicious. Their panuzo bread is superb… very friendly staff. Speacial thanks to Sanny ..💕\nWe had a great time dining here…",
+   "owner_reply": "Thank you for the lovely feedback! We’re so happy to hear you enjoyed your visit to La Brew Tabu Cafe. We truly appreciate your support and can’t wait to have you back for another great experience!"
+  },
+  {
+   "author": "Nataly Poznakhivska",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great service, delicious food and the list amazing is the staff who smiles always and is super attentive!!!! Love it!",
+   "owner_reply": null
+  },
+  {
+   "author": "S Q",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I really love the vibe here! The place is super chill and the food are perfect for sharing. They also offer main courses. And the staff are really friendly! 🫶",
+   "owner_reply": "Thank you for your kind review! We’re thrilled you enjoyed your experience with us at La Brew Tabu Cafe. We truly appreciate your support and look forward to seeing you again soon!"
+  },
+  {
+   "author": "Jerreza Jacob",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "The chocolate fondant is my favorite, and I always come back for it! 🤎 I also tried their Pink Dragon smoothie for the first time today, and it was sooooo good!  Definitely worth trying! And they have accommodating staffs.",
+   "owner_reply": null
+  },
+  {
+   "author": "kirubhavathi Ark",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I have ordered a cheese cake and it was so good 🤌🤌🤌 and their hospitality, pleasant ambiance makes us to spend more time📈✅️.",
+   "owner_reply": null
+  },
+  {
+   "author": "ELIZZ VERA",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Very cozy cafe and friendly staffs specially Mark and Ram. 😊 Highly recommend, will definitely come back. ❤️",
+   "owner_reply": "Thank you for the lovely feedback, Elizz! We’re so happy to hear you enjoyed your visit to La Brew Tabu Cafe. We truly appreciate your support and can’t wait to have you back for another great experience!"
+  },
+  {
+   "author": "VIX 47",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "​\"I absolutely love the vibe at La Brew Tabu Cafe! It’s such a comfy and inviting place. The food is great, but what made our visit extra special was the staff—especially Ram and Julie. They were so warm, friendly, and accommodating! As first-time customers, Mary and I had a wonderful experience. We will definitely be back! 👍👍👍👍👍\"",
+   "owner_reply": "Thank you for your kind review! We’re thrilled you enjoyed your experience with us at La Brew Tabu Cafe. We truly appreciate your support and look forward to seeing you again soon!"
+  },
+  {
+   "author": "Julio Chinito",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Their food is really good. Their staff are all nice and very helpful while ordering our food.",
+   "owner_reply": "Thank you for your kind review! We’re thrilled you enjoyed your experience with us at La Brew Tabu Cafe. We truly appreciate your support and look forward to seeing you again soon!"
+  },
+  {
+   "author": "Chico Agustin",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "The ambience is good and all the staff are accomodating and friendly... its a must try cafe affordable and good...",
+   "owner_reply": null
+  },
+  {
+   "author": "Catherine Guinea",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Had a lovely experience at La Brew Tabu! The food and drinks were delicious, the place was cozy and relaxing, and the staff were friendly and welcoming.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jemmelet Velasco",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Best place to sit with your friends and have a chit-chat; the ambience is so Instagrammable, and the staffs are very nice and accommodating.",
+   "owner_reply": "Thank you for the lovely feedback! We’re so happy to hear you enjoyed your visit to La Brew Tabu Cafe. We truly appreciate your support and can’t wait to have you back for another great experience!"
+  },
+  {
+   "author": "Fetma Sharon",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I tested the best meal today. Now it's my favorite. Tunaliciou panuzzo. I love it",
+   "owner_reply": "Thank you for visiting La Brew Tabu Café. We truly appreciate your kind feedback and look forward to welcoming you again."
+  },
+  {
+   "author": "shee sulpicocamacho",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Newly discovered cafe in Al Nahda Dubai(opposite Sahara center). Service was excellent (especially our Kabayan🤩), food a bit pricey but totally worth the price! And the ambiance? perfect! Lastly, I think it would be nice to change the music playing, that suites the atmosphere and vibe of the cafe. something like Laufey vibes type of music.\np.s. we enjoyed the complimentary ice cream! <3 thank you so much we appreciate it.   highly recommemded and wl come back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Helen Go",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Amazing experience..... foods are delicious and the staffs are very accommodating and friendly. Would love to hangout in here again with my friends.",
+   "owner_reply": "Thank you for the lovely feedback! We’re so happy to hear you enjoyed your visit to La Brew Tabu Cafe. We truly appreciate your support and can’t wait to have you back for another great experience!"
+  },
+  {
+   "author": "A-y Bn",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Very nice and cozy place !!! The decoration is super cute and the staff are really friendly they even offered us refreshing juice once we arrived, and the food is super yummy and clean !!! Highly recommend it to everyone 🤍💛🤍💛",
+   "owner_reply": "Thank you for the lovely feedback! We’re so happy to hear you enjoyed your visit to La Brew Tabu Cafe. We truly appreciate your support and can’t wait to have you back for another great experience!"
+  },
+  {
+   "author": "Cmarie Adricula",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Finding a place that feels like your own living room is rare, but this cafe nails it. The cozy seating, friendly staff, and comforting food give it an unmistakable homestyle charm.",
+   "owner_reply": null
+  },
+  {
+   "author": "Salsabil Mohamed",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "The service was great and staff were attentive. The food was delicious and tasty. We had Shakshouka eggs and Spanish omelette. It was cooked to the perfection. Overall experience fantastic!",
+   "owner_reply": null
+  },
+  {
+   "author": "Fizza Daniyal",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Such a cute and beautiful spot! The ambiance was super pretty and cozy and the food looked awesome. Absolutely loved the Alfredo pasta, Red Velvet Cake, and Tabu Duo Sliders, def the highlights for me.  The Oreo Cheesecake was alright, could’ve been better\\. Great place for good food, pretty vibes, and some nice pictures too. Would definitely visit again",
+   "owner_reply": null
+  },
+  {
+   "author": "Selvi Pebrina",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Their coffee and smoothies are good. All staff are friendly and accommodating.",
+   "owner_reply": "Thank you for visiting La Brew Tabu Café. We truly appreciate your kind feedback and look forward to welcoming you again."
+  },
+  {
+   "author": "Ashelle Ann Lobrio",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "☕❤️ La Brew Tabu\n\nHad such a lovely experience at La Brew Tabu! The coffee was delicious, the ambiance was cozy, and the service was warm and welcoming. Everything made our visit extra special.\n\nSpecial mention to kuya Ram for the excellent service and for making us feel well taken care of. Your friendliness and attention to detail really made a difference. 👏😊\n\nDefinitely a place worth visiting again—great coffee, great vibes, and great service! ☕✨",
+   "owner_reply": "Thank you for your kind review! We’re thrilled you enjoyed your experience with us at La Brew Tabu Cafe. We truly appreciate your support and look forward to seeing you again soon!"
+  },
+  {
+   "author": "Mirasol Sarmiento",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Staffs are accommodating and friendly\nWith it comes to food,drinks and sweets its all scrumptious\nHighly recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Theaaren1046",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "This is an actually a good cafe that I'd like to recommend to others here.\n\nThe strawberry milkshake doesn't taste like a regular strawberry milkshake but it exactly tasted like strawberry that it made me feel awake\n\nRecommended to go.",
+   "owner_reply": "Thank you for your kind review! We’re thrilled you enjoyed your experience with us at La Brew Tabu Cafe. We truly appreciate your support and look forward to seeing you again soon!"
+  },
+  {
+   "author": "m serena",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Amazing place! Food was delicious",
+   "owner_reply": "Thank you for the lovely feedback! We’re so happy to hear you enjoyed your visit to La Brew Tabu Cafe. We truly appreciate your support and can’t wait to have you back for another great experience!"
+  },
+  {
+   "author": "Valentina Duran",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Beautiful place, very good service, the guys serve very well and are very attentive",
+   "owner_reply": null
+  },
+  {
+   "author": "Kirsten Mateo",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Had a really nice experience at La Brew Tabu Cafe! ☕✨\n\nWe did a calligraphy activity here, and it was such a relaxing and enjoyable experience. The food and coffee were both really good, and the prices were reasonable too.\n\nWhat stood out the most was the staff — everyone was kind, welcoming, and very friendly. It made the whole experience even better.\n\nDefinitely a nice place to visit if you’re looking for good food, coffee, and a relaxing atmosphere. Highly recommended! ❤️☕",
+   "owner_reply": "Thank you for your kind review! We’re thrilled you enjoyed your experience with us at La Brew Tabu Cafe. We truly appreciate your support and look forward to seeing you again soon!"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1203
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1461,
+    1099
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1203
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    1440,
+    1440
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    344,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/labrewtabu?igsh=OXZ0c2c1ZHExZTh5",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {
+  "instagram": "labrewtabu"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/la-brew-tabu-cafe/",
+ "buy_likelihood": 8,
+ "instagram_match": {
+  "how": "listed on Google Maps"
+ }
+}

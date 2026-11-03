@@ -1,0 +1,1324 @@
+{
+ "slug": "al-jazibiah-beauty-saloon",
+ "name": "Al Jazibiah beauty saloon",
+ "place_id": "ChIJcVZpHXdcXz4RUUtDCuiiZ4I",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Nahda, Sharjah",
+ "address": "Malaka street - Hay Al Nahda - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3021969,
+  "lng": 55.3721212
+ },
+ "phone": "+971 50 243 0796",
+ "rating": 4.7,
+ "userRatingCount": 801,
+ "rating_distribution": {
+  "oneStar": 32,
+  "twoStar": 10,
+  "threeStar": 15,
+  "fourStar": 75,
+  "fiveStar": 669
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Jazibiah%20beauty%20saloon&query_place_id=ChIJcVZpHXdcXz4RUUtDCuiiZ4I",
+ "website": "https://instagram.com/jazibiah.beauty?igshid=YmMyMTA2M2Y=",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "2 to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Al Jazibiah Beauty Salon is a ladies’ salon in Al Nahda, Sharjah, with over 20 years of experience in beauty and personal care. Our experienced team specialises in hair colouring, keratin and hair botox treatments, alongside nail care, facials, lymphatic facial massage, relaxing body massages and traditional Moroccan baths. Whether you are refreshing your look or enjoying time for yourself, we offer personalised attention in a welcoming, comfortable setting. We are dedicated to helping every client leave feeling confident, refreshed and beautifully cared for.",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "moroccan bath",
+  "keratin treatment",
+  "hair botox",
+  "accommodating staff",
+  "body massage",
+  "threading",
+  "protein treatment",
+  "hair color",
+  "foot spa",
+  "experienced staff"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.93,
+ "reviews": [
+  {
+   "author": "Veena Narayan",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I have visited Al Jazibiyah Salon many times, and I have always had a wonderful experience. The staff are very friendly, welcoming, and accommodating, and the salon is always clean and well maintained. I have been extremely satisfied with all the services I have received so far.\nMs. Era is highly experienced in facials, and every treatment with her is so relaxing and comfortable. She takes the time to understand your skin and recommends what is best for you. She performs every treatment with great care, dedication, and attention to detail.\n\nI would also like to mention Ms. Josie, who is very friendly, caring, and professional. She is highly experienced in protein treatments and hair styling, and she always does an excellent job.\n\nBoth Ms. Era and Ms. Josie consistently deliver excellent results, and I am always happy with their services. I will definitely continue visiting Al Jazibiyah Salon regularly and highly recommend it to anyone looking for professional, caring, and quality salon services.",
+   "owner_reply": "Thank you so much for your wonderful and detailed review! ❤️✨<br>We’re truly delighted to know that you’ve had such consistently positive experiences at Al Jazibiyah Beauty Salon. Your kind words about our cleanliness, welcoming team, and services mean so much to us. 💕<br><br>A special thank you for appreciating Ms. Era and Ms. Josie! 🌸 We’ll definitely share your lovely feedback with them. We’re so happy to hear that Ms. Era makes your facial treatments relaxing and comfortable, and that you’re always satisfied with Ms. Josie’s protein treatments and hair styling. Your appreciation will mean a lot to both of them. 🥰<br><br>Thank you for your continued trust and support. We truly value having you as our client and look forward to welcoming you back again and again! 💖✨"
+  },
+  {
+   "author": "varna ammu",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "This is my second time visiting Al Jazibiah Beauty Saloon, and I’m very happy with the service every time.\n\nA special thank you to Era for my Gelish manicure. The Gelish is long-lasting, the nail designs are beautiful, and she works quickly without compromising on quality. This is my second time getting my Gelish done by her, and I’ll definitely keep coming back.\n\nA big thank you to Yolly for the pedicure. She was very professional, gentle, and made the whole experience relaxing.\n\nHighly recommend Al Jazibiah Beauty Saloon for their excellent service and talented staff!",
+   "owner_reply": "Thank you so much for your wonderful and detailed review! 💕✨ We’re truly grateful that you chose Al Jazibiah Beauty Salon again and that you’ve been happy with our service every time.<br><br>A special thank you for appreciating Era’s Gelish manicure and beautiful nail designs! 💅🌸 We’re so happy to know you loved the long-lasting results and her attention to quality.<br><br>We’re also delighted to hear that Yolly made your pedicure experience relaxing and comfortable. 💖 Your kind words mean a lot to both of them and to our entire team.<br><br>Thank you for recommending us! We can’t wait to welcome you back again soon. 🥰✨"
+  },
+  {
+   "author": "Sapana Tamang",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Well, Sharry is very talented and professional nail tech. I done nail extension with her personally and she recommended me this nail extension, she knows the client choice.While nail extensions, She perfectly handled/care my nail as I know she is multi talented staff with confidence on her skills. Also She nicely interact with customer.\nWhenever you visit this Al Jazibiah beauty saloon, I recommend (Sharry) to every customer.",
+   "owner_reply": "Thank you so much for your wonderful review and recommendation! 🌷<br><br>We are delighted to hear that you had such a great experience with Sherry. She is truly passionate about her work, and it means a lot to know that her professionalism, attention to detail, and ability to understand her clients' preferences made your visit enjoyable.<br><br>Your kind words about her skills, confidence, and friendly interaction with customers will certainly make her day. We are proud to have talented team members like Sherry at Al Jazibiah Beauty Salon.<br><br>Thank you for choosing us, and we look forward to welcoming you again soon! 💕"
+  },
+  {
+   "author": "shiva honar",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I have visited this salon many times and have always had a great experience. The staff are very friendly, welcoming, and accommodating, and the salon is always clean and well maintained. I have been very satisfied with all the services I have received so far.\nMs. Samira is a highly experienced specialist in hair coloring and truly understands her clients’ needs. She takes time to listen and delivers excellent results every time. I will definitely continue visiting on a regular basis and highly recommend Al Jazibiyah Salon.",
+   "owner_reply": "Thank you so much beautiful 😍 for your kind words and continued trust in our salon! We’re truly happy to hear that you’ve consistently had a great experience with us. Your appreciation for our team’s friendliness, cleanliness, and service quality means a lot.<br>A special thank you for recognizing Ms. Samira — she will be delighted to know her efforts and passion for hair coloring are making such a positive impact. We always strive to listen carefully and deliver exactly what our clients are looking for.<br>We look forward to welcoming you again very soon! 💖"
+  },
+  {
+   "author": "Shweta Kakar",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "No review really matters when I say I have been going to this salon for almost 18 years now. From back then to now, it's always been a great experience. All the ladies are wonderful — from the front desk to all-rounders like Era, Krishna & all other staff, courteous and polite. The salon is very clean, and everything is under one roof. Overall It is superb, and I highly recommend it.",
+   "owner_reply": "Thank you so much beautiful 😍 for your wonderful review and for trusting us for almost 18 years! ❤️ It truly means a lot to our entire team. We’re so happy to know that you’ve enjoyed the same warm service and great experience from then to now. Your kind words about Era, Krishna, our front desk, and the whole team mean so much to us. We look forward to welcoming you for many more years! 🌸✨"
+  },
+  {
+   "author": "Chathu Hettiarachchi",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had a keratin treatment done by Josie and I'm very happy with the results. She was professional, friendly and made me feel comfortable throughout the entire process. The service was excellent and all the staff were friendly and welcoming. I highly recommend this place to everyone!",
+   "owner_reply": "Thank you so much for your wonderful review! 💕 We’re delighted to hear that you loved your keratin treatment with Josie. ✨ Your kind words about her professionalism and care mean so much to our entire team.<br><br>We’re happy you felt comfortable and welcomed throughout your visit. Thank you for recommending Al Jazibiah Beauty Salon—we look forward to seeing you again! 🌸💖"
+  },
+  {
+   "author": "sayana",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I got my eyebrows done by Ms. Era, and she was absolutely the sweetest!! 😋 She explained why she chose a specific shape for my eyebrows and did the threading INSAAANELY well!! My brows turned out exactly how I wanted them.\n\nBonus points because the salon was SO clean and smelled amazinggg. Definitely coming back to get my eyebrows done again!! 🤍🤍",
+   "owner_reply": "Thank you so much for your beautiful review! 🤍✨ We’re absolutely delighted to hear that you loved your eyebrow threading experience with Ms. Era! 🥰<br><br>She’ll be so happy to know that you loved the straighter shape and softer arch, and that you found the experience quick, comfortable, and precise. Your kind words about her skill and experience truly mean so much to us! 🌸<br><br>We’re also so glad you noticed how clean and fresh our salon is. 🫶🏻<br>Thank you for choosing Al Jazibiah Beauty Salon! We can’t wait to welcome you back for your next brow appointment. 🤍✨"
+  },
+  {
+   "author": "Esha Haridas",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Era is amazing! I live in Canada, but every time I come to visit, I make sure to go to her for my haircut. She does such a great job with my hair, and I have always been happy with the result ❤️❤️",
+   "owner_reply": "Thank you so much beautiful 😍 for your 5 stars, your recommendation means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "Sugandhana Shan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Great great service! The staff might seem laid back to you at first but their work is immaculate! Highly recommend! I’m leaving this review after a month. I forgot to upload. Era did my nails and i was so so impressed with the output. They helped me take good pictures also. Its the best nail service u can find in the area.. so dedicated!",
+   "owner_reply": "Dear Ms.Sugandha Shan<br><br>Thank you so much! We are happy to hear such a great review. Looking forward to seeing you soon.<br><br>Best wishes,<br>Team Al Jazibiah Beauty"
+  },
+  {
+   "author": "Jeanne Rajthala",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Thank you for taking care of my hair treatment Miss Josie and Miss Grace. The staff are all friendy and happy. ❤️ I recommend Al Jazibiah Beauty Salon for hair and nail care!",
+   "owner_reply": "Thank you so much beautiful 😍 for your 5 stars, your recommendation means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "fatiha kiran",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Yolly gave me Moroccan bath v.v.v good .... she is v.caring and loving with their clients ♥️  grace gave me proper pedicure services with care and gave me proper time .... there facial results also v.good and there all packages are pocket friendly 😀.... thank u jazibiah saloon....i really feel fresh and v.groomed after took all services which i needed",
+   "owner_reply": "Thank you so much for your 5 stars beautiful 😍, your reference means a lot for us looking forward to pamper you again soon 💓."
+  },
+  {
+   "author": "glaiza pomicpic",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "✨ Beauty days are better with the right girls by your side.\nEzra never disappoints with my haircut since 2023. I did my natural eyelash extensions today and it was good, plus her warm customer service in both English and Arabic is top tier. And Jen’s nail art? Always creative, clean, and beautiful 💅💕",
+   "owner_reply": "Thank you so much beautiful 😍 for your 5star rating, your recommendation means a lot to us, looking forward to pamper you soon ❤️"
+  },
+  {
+   "author": "Archana Brosale",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had such a great experience thanks to Anne! She did my waxing, facial and nails, and everything was done so professionally and with great care. I really appreciated how gentle and attentive she was throughout each service, making me feel comfortable and relaxed the whole time.\n\nMy skin felt amazing after the facial, and my nails turned out perfect — exactly what I wanted. You can tell she truly knows what she’s doing and takes pride in her work.\n\nHighly recommend Anne if you’re looking for someone skilled, friendly, and detail-oriented!",
+   "owner_reply": "Thank you so much for your 5 stars beautiful 😍, your reference means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "Gabe",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had a great experience getting my haircut in this Salon. The staff were so accommodating and the lady that did my hair, Ms. Era, She does excellent work with my hair, I'm so pleased with the results! Looking forward to my next visit!",
+   "owner_reply": "Thank you so much for your 5 stars beautiful your recommendation means a lot for us looking forward to pamper you again soon ❤️"
+  },
+  {
+   "author": "Asil Raweni",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Totally satisfied, i did gel manicure it was really good and all the staff there were really nice and friendly especially Era , sherry and sarah they helped me to finish fast and suggested me many things , thanks a lotttt",
+   "owner_reply": "Thank you so much for your 5 stars beautiful 🤩 your recommendation means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "Marie Grace Felomino",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I did a pedicure at Al Jazibiah Beauty Salon, I’m super happy with the service that Ms. Anne provided me. I definitely come back to this salon. Sharing here there promo (promo valid during weekdays only).\nThank you Ms. Anne for superb serivce 💯",
+   "owner_reply": "Thank you so much for your 5-star 🌟beautiful! 🤩<br>We’re thrilled to hear you had a great experience at Al Jazibiah Beauty Salon. Your support means the world to us, and we can’t wait to welcome you back again soon! 💖✨<br>"
+  },
+  {
+   "author": "Maria",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "i went for a haircut, blowdry and nail polish and it was fantastic my hair turned out amazing and I’m very satisfied with my nails aswell. The employees were very sweet and i will 100% be coming back.",
+   "owner_reply": "Thank you so much beautiful 😍for your wonderful review! 🌸 We’re delighted to hear that you loved your haircut, blowdry, and nail polish. It means a lot to us that you were happy with both your hair and nails. Our team truly appreciates your kind words, and we can’t wait to welcome you back again soon! 💕"
+  },
+  {
+   "author": "kirthana muthappa",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Big thanks to Ms. Josie for the beautiful hair colour! She really took the time to understand my needs and suggested a shade that suited me perfectly.\n\nThe result turned out amazing—so natural-looking and exactly what I wanted. I absolutely love how it looks!\n\nIt was such a friendly and comfortable experience throughout. Highly recommend her if you’re looking for a perfect hair colour transformation.",
+   "owner_reply": "Thank you for your kind words and 5 stars beautiful 😍, your reference means a lot for us looking forward to pamper you again soon."
+  },
+  {
+   "author": "Syed Ali Abbas",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "I visited the parlour and was afraid what I might come out with. But out of my surprise the friendly and assuring staff specially Ms Sameera who personally took things in her hand, shout out to the level of protocol they provide to the client it is really very amazing. My 6 year daughter had a simple cut and streaks but they made the experience so unforgettable for her they pampered her and took plenty of time from there schedule to insure the high quality of cut and hair dye is delivered. Adding photos.",
+   "owner_reply": null
+  },
+  {
+   "author": "amy bosque",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I highly recommend this salon for excellent service i avail their promotion moroccan bath and facial service. It  was really amazing and relaxing. I would recommend ate yolly and ate josie.",
+   "owner_reply": "Thank you so much for your 5 stars beautiful 😍, your reference means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "Cristina Caratiquet",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "i had a great experience  at al jazibiah beauty salon,sherry and mommy yoly did an amazing job for doing my manicure and pedicure's done. I will definitly be back.highly recomended!!",
+   "owner_reply": "Thank you so much for your 5 stars beautiful 😍, your reference means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "Henna official",
+   "rating": 1,
+   "when": "Edited a year ago",
+   "text": "Did waxing , by Ranveer..was very friendly and comfortable..  Would love to visit her again ☺️\n\nAfter two days there was burning on my arms . I did saw some patches of skin worn out on the day after waxing ..but never expected this would turn out worst ..its gonna be a permanent scar,..",
+   "owner_reply": "Thank you so much beautiful 😍 for your 5 stars, your rating and reference means a lot for us, eagerly waiting to pamper you again soon 💓<br><br>Thank you for sharing your feedback. We’re very sorry to hear about your experience after the waxing session. Your comfort and safety are always our top priorities. Please reach out to us directly or visit the salon so we can understand what happened and assist you properly. We truly value your trust and would like to make things right for you. 💛"
+  },
+  {
+   "author": "Saradha Arunkumar",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Recently I visit this salon , Mr.Era is a hair stylist\nShe did very nice and wonderful hair treatment\nThe staff are very friendly and price also reasonably\nOnces again thanks for your amazing service",
+   "owner_reply": "Thank you so much beautiful 😍 for your 5 stars, your recommendation means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "Valentina Dsouza",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Yolly for the best Beauty Sevices and Era the magical for my Facials and Hairstyles , the Best atey’s , they are such a professionals and they know their job very well.\nSo accommodating , I recommend visiting them and getting yourself pampered. 🥰",
+   "owner_reply": "Thank you so much for your wonderful review! 🌸<br>We’re truly happy to hear that you had such a great experience with our team. Your kind words mean a lot to us and motivate us to continue providing the best beauty services.<br>We really appreciate your recommendation and look forward to welcoming you back again soon at Al Jazibiah Beauty Salon. ✨💖"
+  },
+  {
+   "author": "Fereshteh Khosravani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Thank you ms. Ann for my gel manicure and gel pedicure you did an amazing job. Definitely worth come back again for the service.. neat and clean salon highly recommended..",
+   "owner_reply": null
+  },
+  {
+   "author": "Jennifer Mehta",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I really like the services of this parlour and they are very professional.. specifically for Era, I like to visit again and again.. She is very good, very professional, very knowledgeable and takes care of clients needs very well.",
+   "owner_reply": "Thank you so much for your 5 stars beautiful 😍, your reference means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "V Balaji",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "It’s a very self sufficient parlor with all facilities. Staff is very friendly and help you choose what’s the best for your skin, hair.\nEra and Grace did my highlights they had done amazing job and are very professional.\nThey have best massage as well Yuli does massage really amazing.\n\nI always enjoy my parlor trips and it’s. a must visit place those who look for neatness and best value for money.",
+   "owner_reply": "Dear Aditi Balaji,<br>Thank you for your fantastic review! We're delighted to hear that you found our parlor self-sufficient with friendly staff and excellent facilities. It's wonderful to know that Era and Grace did an amazing job with your highlights, showcasing their professionalism.<br><br>Yolly is fantastic massage skills are also appreciated, making your visits even more enjoyable. Providing the best value for money and maintaining a clean environment is essential to us.<br><br>We appreciate your recommendation and can't wait to welcome you back for another wonderful experience. If there's anything specific you'd like for your next visit, please don't hesitate to let us know. Thank you for choosing Al jazibiah beauty, and see you soon! <br>Best wishes.<br>Team Al jazibiah beauty!"
+  },
+  {
+   "author": "Cherry Lopez",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Very good service by Era and grace for making my hair look healthy and shiny, highly recommend, I'm excited to visit again.",
+   "owner_reply": "Thank you so much for your 5 stars beautiful 😍, your reference means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "Mary Ann Medina",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Thank you so much Al Jazibiah Beauty Salon😊🫶🏻 Especially Thank you Ate Jhosie for my amazing haircut! I love it!🤍 The place is nice and cozy, the staff are friendly as well as receptionist Ann very accommodating. 'Till next time again😍🌼 God bless 🙏🏼",
+   "owner_reply": "Dear Ms.Mary Ann Medina,<br><br><br>Thank you so much! We are happy to hear such a great review. Looking forward to seeing you soon.<br><br>Best wishes,<br>Team Al Jazibiah Beauty.<br>"
+  },
+  {
+   "author": "jimcy justin",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Today I visited Al Jazibiah Salon for the first time, and I was thoroughly impressed! The service was exceptional, thanks to the wonderful team, particularly Ms. Ann and Ms. Josie. Their politeness, warmth, and professionalism made me feel right at home. The welcoming atmosphere and excellent service have already made me a loyal customer. I highly recommend this salon and look forward to my next visit!",
+   "owner_reply": "Thank you so much for your wonderful review! 💖 We’re delighted to know that your first visit to Al Jazibiah Beauty Salon was such a great experience. It’s truly rewarding to hear your kind words about our team, especially Ms. Ann and Ms. Josie — they’ll be so happy to know they made you feel welcome and comfortable. We can’t wait to see you again soon for your next visit! 🌸✨<br><br>"
+  },
+  {
+   "author": "Cristina Pascual",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "I always had an amazing experience  in this salon! Love the Moroccan bath and Nail polish (acrylic). The staff are all expert, and most especially kind and accommodating. I've been doing the moroccan bath for 3 yrs with Ms. Yolly, she's very gentle on scrubbing my skin. And Ms. Era on my nails. Absolutely, it was all worth it! Looking forward for my next visit!! 😃😘",
+   "owner_reply": "Dear Cristina Pascual,<br>Thank you for your kind words and for trusting us with your beauty needs. We are so glad to hear that your experiences are always amazing and that our staff are expert and kind. We are so happy that you have been doing the Moroccan bath for 3 years with Ms. Yolly and that your nails were taken care of by Ms. Era. We look forward to welcoming you back soon!<br>Best wishes,<br>Team Al jazibiah beauty!"
+  },
+  {
+   "author": "rk reddy",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I really like the staff here, especially staff Era needs special appreciation. She has thorough knowledge and takes gentle good care of her clients. Her hair treatments are outstanding. Another positive point is their affordable pricing. Definitely my go to place and staff, no matter where i stay.",
+   "owner_reply": "Thank you so much beautiful 😍 for your kind words and appreciation! 💖 We’re delighted to know you had a great experience with us and that Era’s care and expertise made your visit special. Your trust and support mean a lot, and we look forward to welcoming you back always. 🌸✨<br>"
+  },
+  {
+   "author": "Amen",
+   "rating": 4,
+   "when": "11 months ago",
+   "text": "I was at Al Jazibiah for hair highlighting yesterday. I wasn't so sure at first but Ms. Era did a really wonderful job and the results are amazing !\nShe was also the one to do my hair keratin treatment last year. Overall, the hygeine of the place and the service is good.",
+   "owner_reply": "Thank you so much for your wonderful feedback! We’re delighted to hear that you had another great experience and that Ms. Era delivered amazing results once again. We truly appreciate your trust in our keratin services and your kind words about our hygiene and overall service.<br>Looking forward to welcoming you back again soon! 💖✨"
+  },
+  {
+   "author": "Shiny Shibu",
+   "rating": 5,
+   "when": "Edited a month ago",
+   "text": "Today , Ms Jocelyn did Pedicure with foot Spa, it was soothing. My feet looks soft and neat. Service was really good.",
+   "owner_reply": "Thank you so much for your lovely feedback! ✨ We’re truly happy to hear that you loved your hair colour, wash & blow dry and that it made you feel more confident. Your kind words mean a lot to us and motivate our team to keep giving their best. Wishing you a very Happy New Year, and we look forward to welcoming you again soon! 💖✨"
+  },
+  {
+   "author": "NNair",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I have visited Al Jazibiah almost a month back and had a wonderful experience from this saloon. Especially staff Era was very professional and attentive. She perfectly styled my hair and did my eye makeup the way I wanted. Overall, very nice service and highly recommended.",
+   "owner_reply": "Thank you so much for your 5 stars beautiful 🤩, your reference means a lot for us looking forward to pamper you again soon 💝"
+  },
+  {
+   "author": "Karen Peligrina",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I had an amazing experience of Moroccan bath with Ate Yolly and Grace. Highly recommended 👌🏼",
+   "owner_reply": "Thank you so much beautiful 😍 for your 5 stars, your recommendation means a lot for us looking forward to pamper you again soon 💓."
+  },
+  {
+   "author": "angela emmanuel",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I did gelish extension from this salon.\nSherry did fabulous job ❤️\nHighly recommended",
+   "owner_reply": "Thank you so much for your 5 stars beautiful 😍, your reference means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "Mary Antoniette Bitos",
+   "rating": 5,
+   "when": "Edited 8 months ago",
+   "text": "I had such a wonderful experience at the salon! The service was excellent from start to finish. Special mention to Ate Era, who did an amazing job. She was very professional, friendly, and truly skilled at what she does. She made me feel comfortable and made sure I was happy with the results. Highly recommended — I will definitely come back!",
+   "owner_reply": "Thank you so much for your 5 stars beautiful 😍, your reference means a lot for us looking forward to pamper you again soon 💓"
+  },
+  {
+   "author": "Sandhya Rajan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "❤️ Al Jazibiah team always leaves us feeling pampered and cared for, with such professionalism ❤️\nPedicure & Nail art - Thank you Ann for the amazing pedicure and nail art! Left me smiling endlessly!\nEyebrows - Thank you Wadad for such care of grooming by eyebrows.\nHaircut - Thank you Josie for the beautiful haircut.",
+   "owner_reply": null
+  },
+  {
+   "author": "Celine Cruz",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "This is the second time I've been to Al Jazibiah Beauty Salon and I have to say that I have nothing but good things to say about the services, staff and the client care.\n\nIt's my first time to have a good experience getting eyelash extensions, Ms. Era took great care of me and gave me a natural look.\n\nMs. Cha and Yolly also took great care of my mom who typically doesn't like going to salons.\n\nI recommend going to this salon, great services and hardworking staff.",
+   "owner_reply": "Dear Celine Cruz,<br>Thank you for the time to rate us 5*. Our team is very motivated and we look forward to welcoming you again soon.<br><br>Best Regards,<br>Team Al jazibiah beauty!"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1213
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1205,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1213
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1069
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1447
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1054,
+    1492
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1205,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1490
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1089,
+    1445
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    1440,
+    1440
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    1067,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    576,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    411,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    326,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    512,
+    500
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://instagram.com/jazibiah.beauty?igshid=YmMyMTA2M2Y=",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 75,
+ "socials": {
+  "instagram": "jazibiah.beauty"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/al-jazibiah-beauty-saloon/",
+ "buy_likelihood": 8,
+ "instagram_match": {
+  "how": "listed on Google Maps"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "preset": "bakery-butter",
+ "theme": {"bg": "#FFF7F8", "surface": "#FFFFFF", "surface_2": "#FBE4EA", "accent": "#2E9C95", "accent_text": "#1F7F79", "on_accent": "#FFFFFF", "duo": "#F7C9D6", "busy": "#E58BA5", "glow": "rgba(240,140,170,.25)", "band_bg": "#1E4E4B", "band_text": "#FFF7F8", "band_accent": "#FFB8CB", "frame": "arch", "hero_ratio": "3/4"},
+ "extra_css": ".hero-split .hero__slab{background:#F7BFD0}.ticker{background:#F7BFD0;color:#1E4E4B}",
+ "brand": {"name": "Cake Bloom", "sub": "Korean cakery · Jumeirah", "mark": "C", "footer_word": "Cake Bloom"},
+ "seo": {"title": "Cake Bloom | Korean Cakes, Lunchbox Cakes & Custom Birthday Cakes, Jumeirah Dubai", "description": "Cake Bloom, Umm Suqeim 1 on Jumeirah Road: the UAE's first Korean cakery. Lunchbox cakes, custom piped birthday cakes, mini cakes, cheesecake and coffee. 4.7 from 759 reviews."},
+ "hero": {"variant": "split", "kicker": "Jumeirah Road · Umm Suqeim 1", "title_lines": ["The UAE's first", "Korean", "cakery."],
+   "lede": "Lunchbox cakes, custom piped birthday cakes and the cheese cake Jerry would steal, in a pastel café next to Al Masraf Bank on Jumeirah Road.",
+   "image": "img/hero.jpg", "image_alt": "Cheese-shaped cake with Tom and Jerry figures", "secondary": {"label": "See the cakes", "href": "#cakes"}},
+ "cta_label": "Call to order", "proof_note": "759 reviews",
+ "address_lines": ["Cake Bloom, Jumeirah Road", "Umm Suqeim 1, next to Al Masraf Bank, Dubai"],
+ "socials": {"instagram": "cakebloomuae"},
+ "ticker": ["Lunchbox cakes", "Custom piping", "Mini cakes", "Cheesecake", "Strawberry cake", "Red velvet", "Coffee"],
+ "sections": [
+  {"type": "services", "id": "cakes", "nav": "Cakes", "eyebrow": "The cakes", "title": "Cute enough to photograph,", "title_dim": "good enough to finish.",
+   "items": [
+    {"name": "Lunchbox cakes", "feature": true, "img": "img/lunchbox.jpg", "alt": "Mini Korean lunchbox cake with ocean piping", "desc": "Mini Korean-style cakes in a takeaway box, piped with your message.", "quote": "The custom piping work is always so neat and exactly how I ask for it.", "cite": "Yasmin S., ordering for years"},
+    {"name": "Custom birthday cakes", "img": "img/floral.jpg", "alt": "Hand-piped floral birthday cake", "desc": "Tell us the theme. Vanilla, strawberry, red velvet and more."},
+    {"name": "The cheese cake", "img": "img/jerry.jpg", "alt": "Cheese wedge cake with Jerry figure", "desc": "Our signature cheese-wedge cake with Tom & Jerry."},
+    {"name": "Tiered & mini cakes", "img": "img/trio.jpg", "alt": "Three pastel tiered cakes on pink", "desc": "Pastel tiers for parties and celebrations."},
+    {"name": "Coffee & cake by the slice", "img": "img/latte.jpg", "alt": "Latte art and a lunchbox cake", "desc": "Sit in with a latte and a slice."}
+   ],
+   "perks": ["Dine-in & takeaway", "Delivery", "Gluten-free on request", "Wheelchair-accessible parking", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Visit", "title": "Pick up without", "title_dim": "the queue."},
+  {"type": "gallery", "images": [{"src": "img/interior.jpg", "alt": "Arched pink and teal café interior", "wide": true}, {"src": "img/display.jpg", "alt": "Display case of lunchbox cakes"}, {"src": "img/bear.jpg", "alt": "Bear-face cake"}, {"src": "img/storefront.jpg", "alt": "Cake Bloom pastel storefront"}, {"src": "img/choc.jpg", "alt": "Chocolate cake with strawberry", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "faq", "id": "faq", "eyebrow": "Ordering", "title": "Ordering a custom cake",
+   "items": [{"q": "How early should I order?", "a": "Call us at +971 4 344 6786 with your date and design. Lunchbox cakes are often available the same day; custom designs need more notice."},
+             {"q": "Can you write a message or copy a design?", "a": "Yes. Send a reference picture and the text you want piped."},
+             {"q": "Do you deliver?", "a": "Yes, we deliver across Dubai. You can also pick up in Umm Suqeim 1."}]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Jumeirah Road,", "title_dim": "next to Al Masraf Bank."}
+ ]
+}

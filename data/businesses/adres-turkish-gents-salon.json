@@ -1,0 +1,1296 @@
+{
+ "slug": "adres-turkish-gents-salon",
+ "name": "ADRES TURKISH GENTS SALON",
+ "place_id": "ChIJIXDhB8BrXz4RKF_njKhwqfM",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Al Barsha, Dubai",
+ "address": "Al Raha Building - Shop 4 - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+ "building": "بناية الراحة - Al Raha building",
+ "location": {
+  "lat": 25.1162802,
+  "lng": 55.2041611
+ },
+ "phone": "+971 50 426 1841",
+ "rating": 4.8,
+ "userRatingCount": 1009,
+ "rating_distribution": {
+  "oneStar": 26,
+  "twoStar": 10,
+  "threeStar": 20,
+  "fourStar": 29,
+  "fiveStar": 924
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=ADRES%20TURKISH%20GENTS%20SALON&query_place_id=ChIJIXDhB8BrXz4RKF_njKhwqfM",
+ "website": "",
+ "categories": [
+  "Barber shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10:30 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Best Turkish Gents Salon in Dubai, professional team, best good quality products, perfect design. Only in Adres Salon you can find all personal care services for Gents.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   }
+  ]
+ },
+ "review_tags": [
+  "turkish barbers",
+  "hammam",
+  "manicure",
+  "turkish salon",
+  "friendly business",
+  "gents salon",
+  "beard trim",
+  "turkish coffee",
+  "welcoming atmosphere",
+  "translation assistance"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.35,
+ "reviews": [
+  {
+   "author": "Babur Yazici",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "For Turkish people like me, finding the right barber is serious business—once you find a good one, you stick with them. My son and I have been regular customers at Adres Barber Shop for over 8 years.\nAfter my previous barber Mehmet left, Yüksel took over, and he has been absolutely outstanding. Yüksel is super friendly, highly professional, and a true master of his craft. From the moment you walk in, you’re made to feel completely comfortable. The haircut and shave are always perfect, the shop is exceptionally clean, and the atmosphere is great with good conversation.\nHighly recommended to anyone looking for top-tier service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Bobur Sadriddinov",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Hi, I came across ADRES Turkish Gents Salon and saw your amazing reviews — clearly a very popular place. I noticed you don’t have a strong website, and many top salons use one to attract more clients and manage bookings. Without it, you could be missing extra appointments. I help salons build clean, modern websites that bring in more clients. Open to a quick chat?",
+   "owner_reply": null
+  },
+  {
+   "author": "Moe Ayad",
+   "rating": 5,
+   "when": "Edited 8 years ago",
+   "text": "They are good and they know what are doing Eser is really good .. definitely they got me as a regular customer. Prices are reasonable too.  The Turkish bath is the best iev been too the guy so professional and his massage is really good. Good job guys",
+   "owner_reply": "Thank you so much for good review. Adres Salon is happy to read a good review from you. Please visit us again."
+  },
+  {
+   "author": "Mashaal Awan",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Tried a hair cut and beard at this salon, Mustafa was the one who gave me a great look.\nVery professional and talented person. I liked the services overall",
+   "owner_reply": null
+  },
+  {
+   "author": "Serhat Akgun",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Best Gents Salon in Dubai. I’m a customer of 10 years and never changing. Ask for Yüksel, he is one of the best.",
+   "owner_reply": null
+  },
+  {
+   "author": "akın aslan",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Such a great experience! Super friendly barber who really knows his job. Felt comfortable from the moment I walked in, and the haircut and shave turned out perfect. Clean place, great vibe, and good conversation. Definitely coming back. Highly recommended!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Elmer Cartoneros",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Normally I often go to Al Rigga Salon just for the haircut I’m a regular customer there bec he knows my style already but I tried this salon once because that time I had an event to attend to,. like I don’t have any choice bec it’s far to go there but I didn’t regret that decision tho. I’m one of the satisfied customers, kudos to Ahmit.",
+   "owner_reply": null
+  },
+  {
+   "author": "esteban arboleda",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "5 stars service... Mustafa Ateş the best barber. Very professional, very careful about the details!\nAlso Robby is amazing with the nails service.\nManicure and pedicure professional and very soft!\nThe saloon is very clear, the environment is amazing, nice music, free coffee, Turkish tea and water.\n\nÇok teşekkürler!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ben Williams",
+   "rating": 3,
+   "when": "3 years ago",
+   "text": "60 AED for a zero fade, came here because of the reviews. It was okay, the fade was alittle high, they offer tea and water which was great. You have to stand for hair wash. Overall was ok, but won't be back - glad I tried as its in a good location. Maybe next time barber needs to really understand what client wants. Thanks guys",
+   "owner_reply": "Dear customer, we are so sorry to hear that you had a bad experience in our Salon. Please WhatsApp message us or call throw the number +971504261841. Hope we can solve the issue and will be happy to assist you.<br><br>ADRES SALON MANAGEMENT"
+  },
+  {
+   "author": "Silver Daboul",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "A high to the sky shoutout to “Atesh” for his outstanding incredibly service. He gave me an excellent next level bread trim and fade & hair cut paying attention to every detail on every thing even the black heads.\nAdres Salon's  customer service, always incredible 👍🏻 Thank you for giving me the best experience in my life and make me stick with Atesh without going to anyone else.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ashkan Taheri",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Ahmad did an amazing job with my haircut. If you’re looking for someone truly talented, I highly recommend going to Ahmad.\nRuby was also excellent at manicure and pedicure — very patient, detail-oriented, and did a super clean and beautiful job.",
+   "owner_reply": null
+  },
+  {
+   "author": "Erkan Demirci",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Thank your everything guys , Mustafa he is amazing do my hair cut ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Shahbaz Rupani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Yusuf is the best barber. I highly recommend going to him he cuts the best hair and makes the best beard. Best barber in Dubai!!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Photo Viola Studio Official",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Very nice experience for us. All the person should to come here. Very kindly services",
+   "owner_reply": null
+  },
+  {
+   "author": "İbrahim Çalışkan",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Yuksel was very careful and friendly, i would recommend to anyone looking for a good haircut:",
+   "owner_reply": null
+  },
+  {
+   "author": "Adres Car rental",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Best service and care in Dubai adres saloon 🫰",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmet Sen",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "Great experience!\nHusam is my man, he is great at his work and great chat all the time! Thank you Husam 🫶",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdullah Elnekiti",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a great experience at this men’s hair salon. The place was very clean and well-maintained, which made it feel comfortable from the start. My barber, Fatih, was excellent—very helpful and accommodating, and he was available on short notice, which I really appreciated. I’m very happy with the results and would definitely recommend this salon to anyone looking for quality service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Karan Sharma",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Nice Turkish Salon & Mustafa does great haircut & beard.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Ahmed",
+   "rating": 3,
+   "when": "4 months ago",
+   "text": "I loved the experience but I was disappointed when I reached my home and noticed that the sides are not done the same.",
+   "owner_reply": null
+  },
+  {
+   "author": "uur aydin",
+   "rating": 5,
+   "when": "9 years ago",
+   "text": "It has been 4 years I am visiting this amazing place. Every single time I have better and better experience. Always suggested to my friends,colleagues , etc. all came back to me with positive feedback. Feel free to visit and give it a try for the best experience .",
+   "owner_reply": "Thank you for choosing us......<br>Ali Aslan<br>Adres Gents Salon ( Turkish Gents Salon )"
+  },
+  {
+   "author": "Ali Alegaidy",
+   "rating": 5,
+   "when": "9 years ago",
+   "text": "The best barbershop in town!!! Amazing atmosphere and amazing barbers!! They are the best at what they do!! Very clean also! I definitely recommend this shop for everyone!  Find Mr. Eser in the shop for the best styles!",
+   "owner_reply": "Thank you for choosing us......<br>Ali Aslan<br>Adres Gents Salon ( Turkish Gents Salon )"
+  },
+  {
+   "author": "Hassan Alnator",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "I have been a client for over a year now , I get a fresh clean cut with my beard , I have a big beard , they are very professional and clean , all equipment are sanitized they use gloves and they prices are great , highly recommended ask for Mehmet and thank me later 😎",
+   "owner_reply": "Dear customer, thank you so much for nice review and the rating. Our professional team is always happy to serve you better and give the best quality of services. Please come again. Adres Turkish Gents Salon"
+  },
+  {
+   "author": "Carlos Bala",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Yusuf is a very good barber, his haircut is very good, thank you, the address saloon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Chris de-Jonk",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Imran is my guy! Always upto the task I give him, making me look fantastic no matter what style I want to do. The price you pay is for what you get, a fresh cut and walking out of the shop in style, feeling like you are a celebrity.",
+   "owner_reply": null
+  },
+  {
+   "author": "Adil Bouhdadi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Go to turkish barber in Dubai! Ask for Yusuf, he’s a star, super kind, definitely recommend it!",
+   "owner_reply": null
+  },
+  {
+   "author": "Moataz Ibrahim",
+   "rating": 1,
+   "when": "Edited a year ago",
+   "text": "Negative experience, the Syrian guy to cut my hair did not even bother himself to ask me if the hair  cut is ok, not even showing me what he did and what I ask for, I even left the shop without arranging my hair. I guess he was not happy when he was asking me for extra services which I was declined. I paid 60 dirhams for normal haircut which I paid less in other shops and get a better haircut and better service. Not recommended.\nAdded to your reply, he was speaking Arabic in Syrian accent so I assumed he is Syrian, however, the service you shared has not been communicated to me and never received",
+   "owner_reply": "Kindly note that in ADRES SALOON all barbers are from Türkiye, haircut price it’s for longs years is same which is 60 AED. The service including free hair wash, face scrub, tonic massage and hair style "
+  },
+  {
+   "author": "Aly Elmasry",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "‏I passed by this barber shop and it looked neat from the outside, with a sign saying it's a Turkish salon. I decided to try it, but it was a big disappointment. The haircut was really bad, the staff were unprofessional and rude, and the prices were way too high for the poor quality of service. Definitely not recommended.",
+   "owner_reply": "Dear customer kindly note that you can place your complaint to our WhatsApp number +971504261841. Will be happy to hear more about your bad experience in our salon "
+  },
+  {
+   "author": "Roshan Dasan",
+   "rating": 5,
+   "when": "Edited 2 months ago",
+   "text": "I’d like to give a special shoutout to Yuksel for consistently providing excellent service. His attention to detail, professionalism, and commitment to making sure everything is just right really stand out.\n\nI’ve always been very satisfied with the haircut and beard trim, and Yuksel’s service has been exceptional every time. Adres Salon is lucky to have such a dedicated professional. Highly recommended! 👏",
+   "owner_reply": "Dear customer thanks for nice feedback, will be happy to serve you again.<br><br>ADRES SALON MANAGEMENT "
+  },
+  {
+   "author": "Okay Barutçu",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Best man's barber salon in town, in Dubai. Experienced, friendly and proud of their work, the team will never disappoint even the most demanding customers. And you get to taste the Turkish hospitality, sipping on your Turkish coffee while all your \"headly matters\" are taken care of professionally in a relaxing fashion.",
+   "owner_reply": "Dear customer thanks for nice feedback, will be happy to serve you again.<br><br>ADRES SALOON MANAGEMENT "
+  },
+  {
+   "author": "Batuhan Binkanat",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Best barber in Dubai. They are always so friendly and welcoming also their art of trimming,shaving and other care services are great!\n\nOnly option for me in Dubai.\n\nEspecially Ateş,last 2 years he is my barber and even when he is on vacation i just wait for him to come back instead of going somewhere else or someone else.",
+   "owner_reply": null
+  },
+  {
+   "author": "محمد الحضرمي",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I had the best service, Mohammed took a special care .and gave the best style and cut since along time",
+   "owner_reply": "Thanks a lot for nice feedback. Will be happy to assist you again. "
+  },
+  {
+   "author": "Loraine Lustado",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "best turkish gent saloon in dubai. thanks a lot to all barbers",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Aljammal",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "This Turkish salon is one of the best gents salon in dubai where you got a very friendly team and very generous ppl.\n\nIt's great and special experience,  mixed with a very delicious Turkish coffee and or Turkish tea while you got a very warming welcome and big smile filled in all of their faces.\n\nEser is my Barber and he is very responsible and respectful person to deal with,  thanks alot for your cooperation and understanding while you have lots of work man.\n\nKeep the good job adres team.\nYou are the best in dubai",
+   "owner_reply": "Dear customer, thank you so much for nice review and the rating. Our professional team is always happy to serve you better and give the best quality of services. Please come again. Adres Turkish Gents Salon"
+  },
+  {
+   "author": "Aqeel Abbas",
+   "rating": 5,
+   "when": "Edited 4 years ago",
+   "text": "The best in town, I have been visiting this Salon for almost 3 years now, they are just awesome.\nFrom past few months I have been having hair cut by Ahmet. His haircut skills and hair styling is exceptional. I think all of their barbers are good.\nI would highly recommend ADRES SALON to my friends and others.",
+   "owner_reply": "Thank you for trusting us! Together with our professional team, we promise to do our very best just to cater every little thing you need."
+  },
+  {
+   "author": "Doston Ubaydulloev",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "Best Barbers in town! I have tried many barber shops in Dubai but I was never satisfied with their service until I came to this place. My utmost thanks to Mehmet who gave me the hairstyle that I wanted. Their services are very reasonable priced as well.Amazing job, guys! Keep it up!",
+   "owner_reply": "Dear customer, thank you so much for nice review and the rating. Our professional team is always happy to serve you better and give the best quality of services. Please come again. Adres Turkish Gents Salon"
+  },
+  {
+   "author": "Ahmed Jaffer",
+   "rating": 5,
+   "when": "6 years ago",
+   "text": "My first time back in Dubai after 20 years, and I have never had such an amazing cut till today! Ahmed did a really good job and was very thorough and detailed. Not to mention a great name he has, but he's a quality guy. I'd highly recommend this place to anyone who wants to look fresh. I wish I could come here for my haircut every time!",
+   "owner_reply": "Dear customer, thank you so much for nice review and the rating. Our professional team is always happy to serve you better and give the best quality of services. Please come again."
+  },
+  {
+   "author": "Muhammad Amir",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "“Yuksel at Address Salon in Barsha (opposite MOE) is truly exceptional! His skills and attention to detail are unmatched. He listens carefully to what you want and always delivers a perfect cut. The salon has a welcoming and professional atmosphere, making every visit enjoyable. If you’re looking for a reliable and talented barber in the area, Yuksel is the one to see. Highly recommended!”",
+   "owner_reply": null
+  },
+  {
+   "author": "Life style of Salim Shaikh",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Freindly staff and goid clean place my favourite hair stylist is Ahmet he is really good they also have pedicure manicure service good staff",
+   "owner_reply": null
+  },
+  {
+   "author": "samit tamang",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "one of the staff member is very rude and not good atmosphere…\nEvery customers should be  treated nicely and my haircut was not as I expected\nI liked it last 2,3. times but this time\ndisappointed…..",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    406
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1317
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    360,
+    480
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    360,
+    480
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    1067,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    852
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    383,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    383,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    383,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    171,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    151,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    298,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/adres-turkish-gents-salon/",
+ "buy_likelihood": 6
+}

@@ -1,0 +1,207 @@
+{
+ "preset": "bistro-olive",
+ "theme": {
+  "bg": "#FFF5F7",
+  "surface": "#FFFFFF",
+  "surface_2": "#FBE3E9",
+  "accent": "#C4285F",
+  "accent_text": "#A81F50",
+  "on_accent": "#FFFFFF",
+  "duo": "#F5C6D3",
+  "busy": "#D9708F",
+  "glow": "rgba(196,40,95,.14)",
+  "band_bg": "#3A0F1F",
+  "band_text": "#FFF0F4",
+  "band_accent": "#FF9DBB",
+  "hero_ratio": "4/5",
+  "frame": "round"
+ },
+ "brand": {
+  "name": "Beauty by Bella",
+  "sub": "Salon · Al Barsha",
+  "mark": "B",
+  "footer_word": "Bella"
+ },
+ "seo": {
+  "title": "Beauty by Bella Salon | Nails, Lashes & Hair in Al Barsha, Dubai",
+  "description": "The all-pink salon in Dar Maryam building, Al Barsha 1: gel nails and extensions, lash extensions, brow lamination, keratin and colour. Same-day appointments. 4.6 from 325 Google reviews."
+ },
+ "hero": {
+  "variant": "split",
+  "kicker": "Dar Maryam Building · Al Barsha 1",
+  "title_lines": [
+   "The pink salon",
+   "Al Barsha",
+   "talks about."
+  ],
+  "lede": "Gel nails and extensions, lash extensions, brow lamination, keratin and colour in a spotless all-pink salon with parking in the building. Same-day appointments when you need a nail rescue.",
+  "image": "img/hero.jpg",
+  "image_alt": "Pink styling chairs and gold arched mirrors inside Beauty by Bella",
+  "secondary": {
+   "label": "See services",
+   "href": "#services"
+  }
+ },
+ "cta_label": "Book on WhatsApp",
+ "cta_text": "Hi Beauty by Bella, I'd like to book an appointment.",
+ "proof_note": "Replies to most reviews",
+ "address_lines": [
+  "Beauty by Bella Salon, Dar Maryam Building",
+  "Al Barsha 1, Dubai"
+ ],
+ "ticker": [
+  "Gel nails",
+  "Nail extensions",
+  "Lash extensions",
+  "Brow lamination",
+  "Keratin",
+  "Balayage",
+  "Henna"
+ ],
+ "extra_css": ".frame-round .hero__slab{border-radius:200px 200px 24px 24px}",
+ "sections": [
+  {
+   "type": "services",
+   "id": "services",
+   "nav": "Services",
+   "eyebrow": "Services",
+   "title": "Nails are our thing.",
+   "title_dim": "Lashes, brows and hair too.",
+   "items": [
+    {
+     "name": "Nails & extensions",
+     "feature": true,
+     "img": "img/nails-french.jpg",
+     "alt": "Almond French tip nails with 3D floral art",
+     "desc": "Gelish, gel refills, extensions and detailed nail art. Show us a reference and we'll recreate it.",
+     "quote": "I showed her a reference, and she recreated it exactly the way I wanted.",
+     "cite": "Sutasinee K."
+    },
+    {
+     "name": "Lash extensions",
+     "img": "img/lashes.jpg",
+     "alt": "Before and after lash extensions",
+     "desc": "Classic and volume sets."
+    },
+    {
+     "name": "Brow lamination",
+     "img": "img/brows.jpg",
+     "alt": "Brows before and after lamination",
+     "desc": "Shape and lift that lasts.",
+     "price": "Offer: AED 100 (was AED 350)"
+    },
+    {
+     "name": "Colour & keratin",
+     "img": "img/balayage.jpg",
+     "alt": "Balayage before and after",
+     "desc": "Balayage, protein and keratin treatments."
+    },
+    {
+     "name": "Henna",
+     "img": "img/henna.jpg",
+     "alt": "Detailed bridal henna on a hand",
+     "desc": "Fine henna designs for events and Eid."
+    }
+   ],
+   "perks": [
+    "Same-day appointments",
+    "Parking in the building",
+    "Free Wi-Fi",
+    "Cards & Apple Pay"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Plan your visit",
+   "title": "Get the chair",
+   "title_dim": "without the wait."
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Team",
+   "eyebrow": "Who to ask for",
+   "title": "Kainat for nails,",
+   "title_dim": "the whole team for the rest.",
+   "items": [
+    {
+     "name": "Kainat",
+     "count": 14,
+     "role": "Nail artist",
+     "quote": "Gentle, detail-oriented, and really listened to what I wanted.",
+     "cite": "Afia S."
+    },
+    {
+     "name": "Annie",
+     "count": 11,
+     "role": "Nails",
+     "quote": "So gentle and precise with my gel nails. They look absolutely perfect!",
+     "cite": "Tasheni S."
+    },
+    {
+     "name": "Cynthia",
+     "count": 7,
+     "role": "Manicure & pedicure",
+     "quote": "Professional, skilled, and very gentle.",
+     "cite": "Nikta Z."
+    },
+    {
+     "name": "Simran",
+     "role": "Lashes & brows"
+    },
+    {
+     "name": "Rose",
+     "role": "Beauty"
+    },
+    {
+     "name": "Roma",
+     "role": "Hair & keratin"
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/storefront.jpg",
+     "alt": "Beauty by Bella storefront",
+     "wide": true
+    },
+    {
+     "src": "img/nails-green.jpg",
+     "alt": "Green cat-eye nails",
+     "wide": true
+    },
+    {
+     "src": "img/waves.jpg",
+     "alt": "Brunette waves against a flower wall"
+    },
+    {
+     "src": "img/pedicure.jpg",
+     "alt": "Matching pink pedicure and manicure",
+     "wide": true
+    },
+    {
+     "src": "img/polish-wall.jpg",
+     "alt": "Wall of gel polish bottles",
+     "duo": true
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Dar Maryam Building,",
+   "title_dim": "Al Barsha 1.",
+   "landmark": "Parking at the back of the building"
+  }
+ ]
+}

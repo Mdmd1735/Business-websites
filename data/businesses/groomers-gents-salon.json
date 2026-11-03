@@ -1,0 +1,1005 @@
+{
+ "slug": "groomers-gents-salon",
+ "name": "Groomers Gents Salon (Main Branch)",
+ "place_id": "ChIJyxheYgtcXz4RUgQieXaDAS8",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Al Nahda, Sharjah",
+ "address": "Next to Baqer Mohebi Supermarket - Hay Al Nahda - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3031028,
+  "lng": 55.3826473
+ },
+ "phone": "+971 55 574 0137",
+ "rating": 4.9,
+ "userRatingCount": 1554,
+ "rating_distribution": {
+  "oneStar": 23,
+  "twoStar": 6,
+  "threeStar": 21,
+  "fourStar": 62,
+  "fiveStar": 1442
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Groomers%20Gents%20Salon%20(Main%20Branch)&query_place_id=ChIJyxheYgtcXz4RUgQieXaDAS8",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 11 PM"
+  }
+ ],
+ "owner_description": "Groomers Gents Salon is a premium grooming destination in Sharjah, dedicated to providing professional hair and skincare services tailored to the modern man. Our expert team specializes in precision haircuts, classic shaves, and rejuvenating facial treatments designed to help you look and feel your refined best. With a reputation built on consistent quality and meticulous attention to detail, we offer a welcoming environment for your regular grooming routine. Experience professional care in the heart of Sharjah. Book your appointment with us today to elevate your personal style.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible restroom": false
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "beard trim",
+  "grooming",
+  "keratin treatment",
+  "welcoming staff",
+  "skilled staff",
+  "attention to detail",
+  "dandruff treatment",
+  "foot massage",
+  "hair spa",
+  "shaving"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.35,
+ "reviews": [
+  {
+   "author": "Delson Thomas",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had an amazing experience at Groomers – Main Branch! Mr. Parveez did an excellent job with my haircut, beard, and hair spa. He was very professional, skilled, and paid great attention to every detail. I’m really happy with the final result!\n\nDefinitely one of the best grooming experiences I’ve had. I’ll surely be visiting again. Thanks a lot, bro, and keep up the great work! 🔥👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Shiri Appleby",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a great experience with Parvees! He is truly one of the best stylists I’ve come across. His technique is excellent, and he understands exactly what the customer wants. The way he handles hair shows real skill and experience.\n\nWhat impressed me the most was his customer care very polite, patient, and professional. He takes his time to make sure everything is perfect and makes you feel comfortable throughout the service.\n\nHighly recommended for anyone looking for a skilled stylist with great service and attention to detail!",
+   "owner_reply": "Thank you, Shiri, for your wonderful feedback! We're so pleased to hear that Parvees gave you a great experience and that his technique impressed you. He puts a lot of care and skill into every service, and it's amazing to hear it reflects in the results. We can't wait to see you again at Groomers Gents Salon!"
+  },
+  {
+   "author": "Shatus AS",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I have been coming to Groomers for more than 4 years, and Mr. Kaleem has been my go-to person throughout this time. My haircut, shaving, and facial are always done by him, and today again, he did an excellent job. His attention and consistency are truly impressive. After so many years, I can confidently say that I always leave completely satisfied with his service.\n\nI also had a pedicure done by Mr. Hritik, for the first time and he too was impressive. He too did a fantastic job as well. He took great care with every detail.\n\nA big thank you to Mr. Kaleem and Mr. Hritik for their excellent service. People like them are the reason customers keep coming back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Noel Gracious",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had an amazing experience! Rinshad is a true professional and an expert in both haircuts and beard styling. He really knows what he’s doing and takes the time to recommend a style that best suits your face and personality instead of just giving a standard cut.\n\nThe attention to detail, skill, and customer service were exceptional. I’m extremely happy with the result and highly recommend Rinshad to anyone looking for a top-quality haircut and beard styling. Thank you for the outstanding service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Abinand Mk",
+   "rating": 4,
+   "when": "4 months ago",
+   "text": "\"I had a great experience at this salon. Junu  staff were professional, friendly, and attentive. The haircut was done exactly as I requested, and the salon was clean and well-maintained. The service was quick, and the overall atmosphere was comfortable and welcoming. Highly recommended for anyone looking for quality grooming services. The water used during my salon service was far too hot and uncomfortabale pls check the water  temp before the service it is used to all people",
+   "owner_reply": "Thank you so much, Abinand, for your kind words and your valuable feedback! We're thrilled to hear that our team provided you with a great experience and that the haircut was exactly what you wanted. We truly appreciate you pointing out the water temperature issue — we sincerely apologize for any discomfort caused. We will ensure our staff checks the water temperature before every service. Your comfort is our priority, and we look forward to giving you an even better experience on your next visit!"
+  },
+  {
+   "author": "Mohammed Yasir",
+   "rating": 1,
+   "when": "Edited 7 months ago",
+   "text": "Overall review ,  Expensive Saloon and pricing inconsistency  .\n\nAfter I posted my initial review, I received calls and messages from the salon’s administrative team explaining that the keratin treatment for my hair length should normally cost around AED 160–180. However, I was charged AED 315 (AED 300 + AED 15 VAT), which was quite surprising.\n\nBecause of this experience, I recommend that customers confirm the exact charges before proceeding with any service to avoid misunderstandings.\n\nI have visited this salon one time only and have done hair\ncolouring, beard setting, hair styling, and keratin treatment. The staff are professional and the overall service quality is decent. Since it is a premium salon, I understand that prices are slightly higher for regular services like haircut and beard, which are still manageable occasionally.\n\nHowever, I was honestly disappointed with the keratin treatment pricing. I was charged AED 315 for keratin alone, and the total bill came to AED 493. My hair is not long, and compared to other premium salons in Dubai and AUH where I have paid around AED 190 for similar treatment, this felt excessively expensive.\n\nBecause of this, I did not feel fully satisfied with my experience. For keratin treatment especially, I would suggest customers confirm the price clearly in advance. I hope the salon considers reviewing their pricing to make it more reasonable for customers.",
+   "owner_reply": "Hello Mr. Yasser,<br><br>Thank you for your feedback. We sincerely apologize for the confusion regarding the keratin treatment pricing during your visit.<br><br>After seeing your review, our team had contacted you to clarify that the charge related confusion/understanding or miscommunication was not intentional and since we care a lot about our customer experience , we would want to win you back as a customer and request you to give us another chance to serve you better. As discussed, you are eligible for the amount discussed over the call and can coordinate with Supervisor Sujith for the refund as a goodwill gesture to resolve the matter.<br><br>We see that as an experience recovery action . Every customer experience is a learning for us, and we continuously try to identify and improve any loopholes in our processes to ensure better transparency and service.<br><br>We understand your disappointment and respect your decision. We also appreciate your kind words about our staff and service. Thank you for your feedback. 🙏"
+  },
+  {
+   "author": "DOCTORyT gaming",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "​\"An absolute premium experience! From the moment I walked in, the ambiance was sophisticated and welcoming. The staff is‘’mr parvez..highly professional, attentive, and skilled. They truly understand what the customer wants and deliver it with perfection. Highly recommended for anyone looking for top-notch grooming! (Groomers gents salon main branch al nahda)Thank u mr PARVEZ👌👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Sajic Salim",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I’ve been getting my haircuts and beard shaping done at Groomers, Al Nahda, Sharjah for the past four months. Their service and atmosphere are superb , the staff are always welcoming and friendly.\n\nMy stylist, Mr. Junu, is excellent! His styling skills and professional behaviour are outstanding. During my last visit, I did both a hair spa and beard shaping, and I was very happy with the results, especially with his service.\n\nI highly recommend Mr. Junu to everyone!",
+   "owner_reply": null
+  },
+  {
+   "author": "Hashim Th",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Parvees, staff good service and fully satisfied work 👍 👏 i recommend him my friends also",
+   "owner_reply": "Thank you so much, Hashim, for your wonderful review and recommendation! We're thrilled to hear that Parvees provided you with excellent service and left you fully satisfied. Your kind words and recommendations to your friends mean the world to us. We look forward to seeing you and your friends at Groomers Gents Salon!"
+  },
+  {
+   "author": "hari Prasad",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "This is my first time at Groomers. I'm going there because my friends told me to. I Didn't expect much. But when my service was over It was much cooler than I expected..He was very friendly n good behave.. am very satisfied.. guys ask Mr parvees..thank u parvees keep it up.. thanks groomers team..,,,❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "SHAMIL",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I recently got my haircut done by Parvez at Groomers and I m super impressed with the result He took the time to understand what I wanted and executed it perfectly Excellent customer service and top-notch skills Will definitely visit again\n\nThank you Mr parvez",
+   "owner_reply": null
+  },
+  {
+   "author": "Sreejith Azs",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "​\"I highly recommend Groomers Hair Cutting Salon! The entire staff is incredibly welcoming, but I have to give a huge shoutout to Mr. Parvees. He is a truly experienced and expert hairstylist. He knew exactly how to treat a customer and gave me exactly the haircut I wanted—honestly, it turned out even better than I expected! Thank you for making me look awesome, Parvees bro, and thanks to the whole Groomers team. Everyone needs to come explore the magic of this crew, especially my star dude  Parvees.broh  Hats off to you, man!\"",
+   "owner_reply": "Thank you so much, Sreejith, for your warm recommendation! We're thrilled to hear that our team made you feel so welcome. Your support means everything to us, and we look forward to continuing to provide you with the best grooming experience. See you at Groomers Gents Salon!"
+  },
+  {
+   "author": "prashob vp",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I had a great experience at Al nahda sharjah branch with full hair cut service . Mr Parvees ,who did service to me was very professional, listened to exactly what I wanted, and delivered a clean, sharp haircut and Keratin service .The shop was neat and the service was excellent. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Amalj Anil",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "​\"The best premium salon in al nahda ‘’‘Exceptional customer service, luxurious atmosphere, and highly talented staff mr parveez. They use high-quality products and ensure you get a VIP treatment. Worth every penny!\"thnks mr parveez‘’ definitely coming bak again with my friends..",
+   "owner_reply": null
+  },
+  {
+   "author": "Sameer Ss",
+   "rating": 5,
+   "when": "Edited 4 months ago",
+   "text": "⭐⭐⭐⭐⭐ Excellent Experience at Groomers Gents Salon (Main Branch)!\nI recently had another great experience at Groomers Gents Salon (Main Branch), where Mr. Junu, my personal stylist for many years, once again exceeded my expectations. He is highly professional, friendly, and exceptionally skilled at his work. He always listens carefully to what I want and consistently delivers clean, stylish results that suit me perfectly.\nOn his recommendation, I also tried the newly launched manicure and pedicure service, and I am extremely satisfied with the experience. The staff were professional, courteous, and attentive to every detail. The service was relaxing, hygienic, and carried out with great care, leaving my hands and feet feeling refreshed, clean, and beautifully groomed.\nThe salon itself is clean, welcoming, and well-maintained, and the entire team makes sure customers are comfortable throughout their visit. The quality of service, attention to detail, and professionalism of the staff truly stand out.\nI highly recommend Groomers Gents Salon (Main Branch) to anyone looking for quality grooming services in Sharjah. A special thanks to Mr. Junu for his continued excellent service, expert advice, and dedication over the years. I will definitely keep coming back and look forward to trying more services in the future.",
+   "owner_reply": "Hello Sameer Ss,<br><br>Thank you for taking the time to share your wonderful experience at Groomers Gents Salon (Main Branch). We're delighted to hear that Junu, your stylist, exceeded your expectations with his exceptional skills and friendly demeanor. It's great to know that he listened attentively to your requirements and delivered a haircut that met your style and preferences.<br><br>We're also thrilled to hear that you appreciated the cleanliness of our salon and the politeness of our staff. Your feedback is invaluable to us, and we're grateful for your loyalty. We'll make sure to pass on your compliments to Junu and the rest of the team.<br><br>We can't wait to welcome you back again and provide you with another exceptional experience. If there's anything we can do to improve or if you have any suggestions, please don't hesitate to reach out.<br><br>Warm Regards,<br>Team Groomers Gents Salon (Main Branch)"
+  },
+  {
+   "author": "Prasanth K V",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "Good afternoon,\n\nMy son (6 years old) and I have been customers of your salon for the past one and a half years, and this is the first time I have had such a disappointing experience.\nI arrived at 10:55 AM and waited for almost 40 minutes. were 3 staff members present, but they completely ignored us while we were waiting for a haircut. After finishing with their existing customers, one staff member was busy on their phone and another went outside for a smoke break.From a customer’s perspective, it would have been appreciated if the staff had communicated the situation and informed us about the approximate waiting or break time. Another concern was that customers were not being called in order of arrival.I wanted to bring this to your attention because this experience has caused you to lose a  customer. I found another salon opposite Lulu that provided much better service in minutes , hope you will consider this feedback and take the necessary steps to improve your customer service and run your business in a more professional manner. Thankyou",
+   "owner_reply": "Thank you for taking the time to share your feedback, and we sincerely apologize for the disappointing experience you and your son had. This is not the standard of service we strive for, and we understand how frustrating it must have been to wait 40 minutes without proper communication or acknowledgment from our team.<br><br>We take your concerns very seriously—the lack of courtesy from our staff, poor queue management, and their inattentiveness were completely unacceptable. We have already reviewed this incident internally and are implementing changes to ensure this doesn't happen again.<br><br>We'd genuinely like the opportunity to make this right. Please reach out to us at 0521786999 at your earliest convenience so we can discuss how we can restore your confidence in our salon. If you'd prefer, please feel free to share your contact number and we'll get back to you promptly.<br><br>We value our customers and would be honored to welcome you and your son back and show you the professional service you deserve.<br><br>Thank you again for holding us accountable. We would love to recover the experience you had with us this time,<br>Best regards,<br>"
+  },
+  {
+   "author": "Alen Thomas",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Parvees did an amazing job! He was professional and friendly. Favas was a great guy with a charming smile in front desk.\nHighly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "##########",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had a great experience at Groomers Saloon. The service was excellent and very professional. Special thanks to mr Parvees — he is very skilled and strong in his work. He understands exactly what style you want and gives a perfect result. Highly recommended for anyone looking for a clean and\nVery good service at Groomers Saloon. Parvees is a strong and professional barber. Highly recommended! Groomers gents salon main branch shrjah al nahda..",
+   "owner_reply": null
+  },
+  {
+   "author": "samjadh k s",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Always a great experience here—professional staff, clean environment, and consistently excellent service. Highly recommended!\nEspecially Rimshad …",
+   "owner_reply": "Thank you so much, Samjadh, for your glowing review! It's wonderful to hear that you consistently enjoy our services and that Rimshad has made such a great impression. We truly value your loyalty and kind words. Rimshad will be thrilled to know he's appreciated! We look forward to continuing to serve you at Groomers Gents Salon!"
+  },
+  {
+   "author": "Mohammed Thashreef",
+   "rating": 5,
+   "when": "Edited a month ago",
+   "text": "​\"If you're looking for a precise cut, go see Mr. Parvees at Groomers. I went in for an Eid refresh (hair and beard) and the results are amazing. He’s very skilled and has a great eye for style. The service at the salon was excellent as well. I’ll definitely be back!\"",
+   "owner_reply": "Thank you so much, Mohammed, for your wonderful and detailed review! We're thrilled to hear that Mr. Parveez delivered an amazing Eid experience for you. It's great to know that his suggestion for the Hair Spa treatment made such a positive difference for your hair. We're incredibly proud to have him on our team! Your kind words and continued loyalty mean the world to us. We look forward to serving you again soon — Eid Mubarak and see you at Groomers Gents Salon!"
+  },
+  {
+   "author": "mithun ks",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Absolutely delighted with my experience with Mr. Junu from Groomers Team! My hairdresser not only gave me a fantastic haircut and style but also provided expert advice and a specialized dandruff treatment that made a remarkable difference. From the moment I arrived, my stylist made me feel comfortable, listened carefully to my hair concerns, and explained each step of the scalp treatment clearly. The care and attention to detail were top-notch—my scalp feels healthier and free of flakes, and my hair has never looked better. I truly appreciate the knowledgeable advice on maintaining healthy hair at home. Highly recommended for anyone looking for real results and a welcoming salon experience.\n\nLoved your service brother ❤️ 💯",
+   "owner_reply": null
+  },
+  {
+   "author": "Sainu zyn",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great ambiance,polite staff,and amazing servicess...Groomer salon never disapoints..they maintain high hygine standards and the pricing is totally worth the quality the provide..a solid 5 star frm me..special thanks (mr parvez)🥰👌 will definitely visit again..",
+   "owner_reply": null
+  },
+  {
+   "author": "Steena Monie",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "My husband has been cutting his hair from groomers main branch located at Al nahda sharjah since 5 years. The staff named @Junu is well experienced and professional, he has a friendly nature towards everyone who comes to the shop, the service is awesome and whatever is requested he does it in the same way. He had also cut my daughter's hair, she was crying a lot but he had calmed her and did a wonderful haircut. The overall experience is awesome and the price is also very affordable.",
+   "owner_reply": null
+  },
+  {
+   "author": "KESTY ANTONY",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I had a great experience withRimshad He’s not just skilled with haircuts but also genuinely helpful when it comes to suggesting what style suits you best. I really appreciated how he took the time to understand what I wanted and offered suggestions that actually worked for me. He also recommended a de-tan pack for the summer, which made a big difference with my skin🙂it felt refreshed and looked way better after!\nSuper friendly, professional, and easy to talk to. Rimshad made the whole experience relaxed and enjoyable. Highly recommend him if you’re looking for someone who knows what they’re doing and truly cares about their clients.",
+   "owner_reply": null
+  },
+  {
+   "author": "Akshay Kumar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Parvees is one of the best staff - I had an amazing experience at this salon! From the moment I walked in, the staff were welcoming, professional, and made me feel completely relaxed. The haircut was exactly what I wanted — the stylist really understood my hair type and gave me a perfect, refreshing look.\n\nThe Hair spa session was absolutely rejuvenating — soothing ambiance, clean facilities, and top-quality products. I left feeling relaxed, confident, and pampered.\n\nHighly recommended for anyone looking for a perfect blend of professionalism, comfort, and quality service. Definitely my go-to place for hair and spa care! 💇‍♂️✨💆‍♀️",
+   "owner_reply": null
+  },
+  {
+   "author": "Nanda Kumar",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Just had one of the best grooming experiences ever! 🔥\n\nA huge thank you to Junu for the amazing work. I got a haircut, beard set, hair spa, and face D-tan, and everything was done perfectly. The haircut was sharp and exactly how I wanted it, and the beard set gave such a clean, fresh look. ✂️🧔\n\nThe hair spa was incredibly relaxing and made my hair feel super soft and healthy, and the D-tan for my face made a big difference—my skin feels brighter and refreshed. ✨\n\nJunu is very professional, friendly, and really pays attention to detail. You can tell he truly cares about giving the best results to his clients.\n\nHighly recommend Junu if you want a fresh look and a great salon experience. I’ll definitely be coming back again! 💯👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Johan Calvin",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Amazing experience with Parvees at Groomers Gents Salon (Main Branch Sharjah). He is a certified stylist with great technique and attention to detail. The salon is clean, has a beautiful interior, and offers excellent customer care. Highly recommended!🫡",
+   "owner_reply": "Thank you so much, Johan, for your fantastic review! We're thrilled to hear about your amazing experience with Parvees. He truly is a skilled and dedicated stylist, and we're proud to have him on our team. We look forward to welcoming you back at Groomers Gents Salon (Main Branch Sharjah)!"
+  },
+  {
+   "author": "Salman Salman",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Im first time in groomers..good experience.. Very good service.. Staff also very friendly..especially mr parvees.. Highly recommend this salon.. Groomers al nahda sharja. Main branch.. Thankyou mr parvees..",
+   "owner_reply": null
+  },
+  {
+   "author": "Fayis Ck",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I This is the fourth time in groomes. They have a good and great service. My hair stylist mr parvees.. Very nice guy..service is good. The stylist is Which In any model will cut your hair. He is a Good character n good behavior. This shop very clean n neat.. If a customer comes Do they need water?  U want tea..Do you want coffee? Whatever you want They will serve. They care about a customer so much. That is their success👍🏻... And all the staffs Good natured Very friendly... It is 42 aed Their rate hair and beard For cutting..Service for that They are doing it. One we can affordable the price...  I will come back here again and now my friends are coming with me my friends all so happy..now im regular customer@ Groomers..Thank u mr  parvees..and groomers taem.. ❤️Highly  recommended  Mr.pravees.. And groomers. Anyway Thank you. Mr.parvees. inshaallah..will meet next time..,,,, 🤝🤝 groomers gents salon main branch. Al nahda sharja..",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdul Manan",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I have been a regular customer for over a year, and I cannot recommend Danish enough! He is incredibly professional, not just in grooming but in every aspect of his work. His communication skills are excellent, and he always maintains a friendly and respectful demeanor.\n\nThe overall experience at the shop is superb. Everything is neat and clean, creating a welcoming environment that makes every visit enjoyable. If you're looking for top-notch grooming services in a well-maintained setting, Danish is the person to see!",
+   "owner_reply": null
+  },
+  {
+   "author": "PRANAY PRAMOD",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Arman Ali has done a great job every time i visited him. Very good place at a very affordable rate",
+   "owner_reply": "Thank you so much, Pranay, for your wonderful review! We're delighted to hear that Arman Ali consistently delivers great results for you. Your loyalty and kind words motivate our entire team. We're proud to offer quality services at affordable prices. Looking forward to your next visit at Groomers Gents Salon!"
+  },
+  {
+   "author": "Nihal Kannoth",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I had an excellent experience with Mr. Parvees Hair Stylist! The haircut was absolutely perfect—exactly what I wanted, with great attention to detail. His skill and professionalism truly stand out. Not just the haircut, but all the services provided were top-notch and done with care.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jafakash Ummer",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Had a beard service with the grooming specialist Mr. Parveez, and the experience was absolutely amazing! He gave me a complete makeover beyond my expectations. The service quality is excellent, and the staff are professional and friendly. Highly recommended — you’ll definitely get value for your money and won’t regret your visit.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ayman Moosa",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Had a really good experience at Groomers Gents Salon. Hair stylist Rimshad did my hair and beard very well, and I was really happy with the result. He was professional, friendly, and understood exactly what style I wanted. The service was neat and satisfying. Highly recommend Rimshad and Groomers Gents Salon for anyone looking for a good haircut and beard styling.",
+   "owner_reply": "Thank you so much, Ayman, for your wonderful feedback! We're thrilled to hear that Rimshad took great care of your hair and beard. He is a talented stylist who truly cares about his clients. We hope to see you again soon at Groomers Gents Salon!"
+  },
+  {
+   "author": "SUHAIL P V",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Very good service and very helpful staff especially Parvees, he was very good in providing the service along with choosing the correct style that matches perfectly. Overall it was a good experience. Will recommend here for all.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Thahir",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Nice customer service + punctual service. Liked it . 5/5. Definitely coming again . Kaleem bro nailed it.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shyam Cyrus",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Hi Groomers,\nI recently visited and got my haircut done by Mr Parvees. He was friendly, skilled, and gave helpful suggestions for a style that suited my face shape. The service was smooth and comfortable. Overall, a very satisfying experience. Will definitely book with Parvees again. Having a great day",
+   "owner_reply": null
+  },
+  {
+   "author": "Razzall",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I was so satisfied with the service provided by parvees and the cut was done exactly how I’ve shown the picture the service was bind blowing thanks groomers !",
+   "owner_reply": "Thank you so much, Razzall! We're thrilled to hear that Parvees nailed the exact cut you wanted based on the reference picture. Precision and customer satisfaction are what we strive for! Your kind words mean the world to us. We look forward to serving you again at Groomers Gents Salon!"
+  },
+  {
+   "author": "AKHIL AKHIII",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Visited Groomers Gents Saloon based on a friend’s recommendation, and I’m very impressed. The service was excellent and the overall experience was great. Special thanks to Mr. Parvees for his outstanding service and professionalism. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rakesh R",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "First time I visited groomers gents saloon..they changed my all look and I get new fresh look specialy thanks Mr parvees",
+   "owner_reply": "Thank you so much, Rakesh, for choosing us for your first visit and for this wonderful review! We're thrilled to hear that Mr. Parvees gave you a fresh new look that you loved. It's always a pleasure to welcome new customers, and we hope to see you again at Groomers Gents Salon for many more visits!"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    656,
+    369
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    640,
+    352
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    512,
+    358
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    286,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/groomers-gents-salon/",
+ "buy_likelihood": 6,
+ "notes": "Scouted, not built in batch 1 (weak photos or inactive owner)."
+}

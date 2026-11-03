@@ -1,0 +1,33 @@
+{
+ "preset": "cafe-mocha",
+ "theme": {"bg": "#F6F2E7", "surface": "#FFFDF7", "surface_2": "#EDE5CF", "accent": "#0E4746", "accent_text": "#0E4746", "on_accent": "#FFF7E0", "duo": "#F4C542", "busy": "#C9962A", "glow": "rgba(244,197,66,.35)", "band_bg": "#0E2C2B", "band_text": "#F6F2E7", "band_accent": "#F4C542", "frame": "round", "hero_ratio": "4/5"},
+ "extra_css": ".hero-split .hero__slab{background:#F4C542}.ticker{background:#F4C542;color:#0E2C2B}",
+ "brand": {"name": "La Brew Tabu", "sub": "Café · Al Nahda", "mark": "L", "footer_word": "La Brew"},
+ "seo": {"title": "La Brew Tabu Cafe | Coffee, Brunch & Pizza in Al Nahda", "description": "La Brew Tabu Cafe, 3rd Street, Al Nahda: Spanish lattes, matcha, eggs benedict, pasta, pizza and sliders. Open daily 7 AM to 1 AM. Rated 4.9 from 310 Google reviews."},
+ "hero": {"variant": "split", "kicker": "3rd Street · Al Nahda", "title_lines": ["Spanish latte", "at 7 AM.", "Pizza at midnight."],
+   "lede": "A cosy all-day café in Al Nahda: specialty coffee, matcha, brunch plates, pasta, pizza and sliders, served from 7 AM to 1 AM by a crew regulars call family.",
+   "image": "img/hero.jpg", "image_alt": "La Brew Tabu café seating with teal chairs and yellow cushions", "secondary": {"label": "What to order", "href": "#menu"}},
+ "cta_label": "Reserve on WhatsApp", "cta_text": "Hi La Brew Tabu, I'd like to reserve a table.",
+ "proof_note": "Rated 4.9 by 310 guests",
+ "address_lines": ["La Brew Tabu Cafe, 3rd Street", "Al Nahda, Dubai"],
+ "socials": {"instagram": "labrewtabu"},
+ "ticker": ["Spanish latte", "Matcha", "Eggs benedict", "Pasta", "Pizza", "Sliders", "Crêpes", "Milkshakes"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "What to order", "title": "Brunch, coffee", "title_dim": "and comfort food.",
+   "items": [
+    {"name": "Eggs benedict", "feature": true, "img": "img/benedict.jpg", "alt": "Eggs benedict on spinach and sourdough", "desc": "Brunch plates served from 7 AM.", "quote": "The Spaghetti Bolognese, Iced Spanish Latte, and Margarita Pizza were all amazing.", "cite": "Heizel C."},
+    {"name": "Specialty coffee", "img": "img/latte.jpg", "alt": "Latte art next to sliders and churros", "desc": "Spanish latte, flat whites and iced coffee."},
+    {"name": "Matcha", "img": "img/matcha.jpg", "alt": "Iced matcha lattes", "desc": "Iced matcha and matcha lattes."},
+    {"name": "Pizza", "img": "img/pizza.jpg", "alt": "Vegetable pizza on a wooden board", "desc": "Stone-baked pizzas, margherita to loaded."},
+    {"name": "Pasta", "img": "img/penne.jpg", "alt": "Penne arrabbiata with garlic bread", "desc": "Bolognese, arrabbiata and creamy pastas."},
+    {"name": "Desserts", "img": "img/lava.jpg", "alt": "Chocolate lava cake with ice cream", "desc": "Lava cake, crêpes and milkshakes."}
+   ],
+   "perks": ["Open 7 AM – 1 AM daily", "Halal", "Dine-in, takeaway & delivery", "Healthy options", "Wheelchair-accessible restroom"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Find a seat", "title": "Want the corner table?", "title_dim": "Come before the rush."},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "La Brew Tabu storefront on the corner", "wide": true}, {"src": "img/counter.jpg", "alt": "Coffee counter with hanging bulbs"}, {"src": "img/avo.jpg", "alt": "Avocado toast with eggs", "wide": true}, {"src": "img/sliders.jpg", "alt": "Sliders and fries", "wide": true}, {"src": "img/moody.jpg", "alt": "Moody Sips sign"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "reserve", "eyebrow": "Reserve", "title": "Bringing friends?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I reserve a table for tonight?", "Do you deliver to my building?", "Can you host a small birthday?", "What's on the breakfast menu?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "3rd Street,", "title_dim": "Al Nahda."}
+ ]
+}

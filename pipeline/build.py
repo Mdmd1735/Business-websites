@@ -22,7 +22,7 @@ ICONS = {
 SOCIAL_URL = {"instagram": "https://instagram.com/{}", "facebook": "https://facebook.com/{}", "tiktok": "https://tiktok.com/@{}"}
 
 # Design presets. Every site picks one and may override tokens; vary hero variant/frame per site too.
-BASE = {"r": "8px", "btn_r": "8px", "mark_r": "8px", "dstyle": "normal", "dcase": "none", "dtrack": "-0.01em", "dlh": ".98",
+BASE = {"frame": "slant", "r": "8px", "btn_r": "8px", "mark_r": "8px", "dstyle": "normal", "dcase": "none", "dtrack": "-0.01em", "dlh": ".98",
         "h1vw": "8vw", "h1max": "124px", "h1lh": ".92", "h2max": "78px", "hero_ratio": "4/5", "hero_pos": "center", "slab_o": "1",
         "arabic": '"Cairo","Noto Kufi Arabic",sans-serif', "max": "1280px", "gut": "clamp(16px,4vw,56px)", "ease": "cubic-bezier(.16,1,.3,1)"}
 DARK = {"mode": "dark", "text": "#F4F3EF", "text_2": "#C9C8C2", "dim": "#9C9B95", "line": "rgba(255,255,255,.1)", "line_strong": "rgba(255,255,255,.22)",
@@ -161,7 +161,7 @@ def build(slug):
     for s in c["sections"]: s.setdefault("id", s["type"])
     nav = c.get("nav") or [{"id": s["id"], "label": s.get("nav", s["type"].capitalize())} for s in c["sections"] if s.get("nav")]
     addr = b.get("address", "").replace(" - United Arab Emirates", "").replace(", United Arab Emirates", "")
-    address_html = "<br>".join(x.strip() for x in ([b["building"]] if b.get("building") and b["building"] not in addr else []) + addr.split(" - ") if x.strip())
+    address_html = "<br>".join(c["address_lines"]) if c.get("address_lines") else "<br>".join(x.strip() for x in ([b["building"]] if b.get("building") and b["building"] not in addr else []) + addr.split(" - ") if x.strip())
     schema = {"@context": "https://schema.org", "@type": c.get("schema_type", "LocalBusiness"), "name": b["name"], "telephone": phone,
               "address": {"@type": "PostalAddress", "streetAddress": addr, "addressCountry": "AE"},
               **({"geo": {"@type": "GeoCoordinates", "latitude": b["location"]["lat"], "longitude": b["location"]["lng"]}} if b.get("location") else {}),
@@ -178,7 +178,7 @@ def build(slug):
         site_js=json.dumps({"hours": hours or None, "busy": busy if use_crowd else None}))
     out = ROOT / "docs" / slug; out.mkdir(parents=True, exist_ok=True)
     (out / "index.html").write_text(html)
-    root = ":root{" + ";".join(f"{TOKEN_MAP[k]}:{v}" for k, v in tok.items() if k in TOKEN_MAP and k not in ("mode", "google_fonts")) + "}\n"
+    root = ":root{" + ";".join(f"{TOKEN_MAP[k]}:{v}" for k, v in tok.items() if k in TOKEN_MAP and k not in ("mode", "google_fonts", "frame")) + "}\n"
     (out / "styles.css").write_text(root + (KITS / "site.css").read_text() + c.get("extra_css", ""))
     (out / "main.js").write_text((KITS / "site.js").read_text())
     print("built", slug)

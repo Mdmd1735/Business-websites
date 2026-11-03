@@ -1,0 +1,1783 @@
+{
+ "slug": "maira-beauty-salon",
+ "name": "Maira Beauty Salon",
+ "place_id": "ChIJ3THkWC9DXz4RPrvau-G5j-I",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Karama, Dubai",
+ "address": "15 2A St - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2516727,
+  "lng": 55.3034327
+ },
+ "phone": "+971 4 396 2048",
+ "rating": 4.9,
+ "userRatingCount": 348,
+ "rating_distribution": {
+  "oneStar": 3,
+  "twoStar": 1,
+  "threeStar": 1,
+  "fourStar": 20,
+  "fiveStar": 323
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Maira%20Beauty%20Salon&query_place_id=ChIJ3THkWC9DXz4RPrvau-G5j-I",
+ "website": "https://www.instagram.com/mairabeautysalon/",
+ "categories": [
+  "Beauty salon",
+  "Eyelash salon",
+  "Nail salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10:30 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10:30 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10:30 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10:30 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10:30 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10:30 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11 AM to 9:30 PM"
+  }
+ ],
+ "owner_description": "Welcome to Maira! We offer a variety of professional services, including Massage, Waxing, Pedicure, Manicure and Facial treatments tailored just for you. Our experienced team will provide an unparalleled experience when it comes to caring for your hair. We specialize in Keratin and Protein Treatment – the perfect way to reduce fizziness and make your locks smooth & shiny all year round! Visit us today and let us take care of all your beauty needs.",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "nail extensions",
+  "gel manicure",
+  "hydra facial",
+  "head massage",
+  "welcoming staff",
+  "hot oil massage",
+  "hair spa",
+  "friendly staff",
+  "blow dry",
+  "protein treatment"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.17,
+ "reviews": [
+  {
+   "author": "Viola",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "I had a wonderful encounter with veteran hair stylist Ms. Sobia at this salon near Burjuman Station. The gray haircolor, shampoo, and cut were all excellent. We spoke in English, but the relaxing moment I felt it was divine guidance.\n\nI had an accident where some hair dye got on my fingers, but the staff members were quick to come up with ways to remove it. Some even tried applying remover-soaked cotton to my fingers, while the owner even secretly ran out to buy remover cleaner. The entire salon was filled with warmth and thoughtful kindness, and I was deeply moved. Perhaps because of the passage of time, the dye was not completely removed, but I went home optimistic. I'm happy to report that three days later, the dye on my fingers had completely disappeared.\n\nThe owner used translation software to show me questions in Japanese, such as, \"Are you satisfied with the hair color and cut?\", which made me feel a sense of familiarity. When I asked who the Maira in the salon's name was, she replied that there is no Maira at the salon. The owner's name was \"Devaangi,\" she wrote in beautiful, easy-to-read handwriting. Born in Dubai as the second generation of Indian immigrants, she started this salon after getting married and has been running it for three and a half years. She is a talented young woman with a warm and tactful personality, and she speaks Arabic, English, Hindi, and Gujarati.",
+   "owner_reply": null
+  },
+  {
+   "author": "Anushka Srivastava",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I was looking for a salon to pamper myself with easy access to the metro. I found Maira Salon on Google with great reviews and ratings, so I gave it a try. I got the following services done: nail extensions, blow dry, face massage, and pedicure. They use good-quality products. The staff is very experienced and guarantees the best service. They also have good packages, surely coming back to try more services.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ann Ville Purificacion",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a great head massage with hair spa, hair cut and blow dry last night. I was attended to carefully from the time I got it even until I left this salon. Ms Sobia exceeded my expectations when it comes to a salon.\n\nSobia is very meticulous. She really knows what she's doing. She carefully put treatment to my hair, cut it and blow dry it one by one.\n\nI'm surprised she's also the one who did my nails with so much passion. She made sure it's well-cleaned before she puts the polish. She's accommodating as well as the Indian lady.\n\nThey were very welcoming. Sobia asks from time to time if I want coffee or tea.\n\nThe place has this minimalist yet stylish look. You can definitely relax here because it's not really crowded. The place is overall clean and tidy.\n\nI can't wait to go back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Martina Cornelius",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had the most amazing experience. The parlour service was impeccable. Right from waxing where after process there was a thorough check done by the assistants. Also the root touch up was super since the color chosen was the perfect and blended into my current hair colour at the very first time. Nails pristine. Would definitely recommend for its quality service , cleanliness and warmth of the staff.",
+   "owner_reply": null
+  },
+  {
+   "author": "ashly lathislas",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had a really good experience at Maira Beauty Saloon ✨ I tried their Schwarzkopf hydrating hair spa and absolutely loved the results. The staff were very friendly, the service felt personalized, and the whole experience was super relaxing. My hair felt much softer, healthier, and refreshed after the treatment. Definitely recommend visiting if your hair needs some care and hydration 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Dee",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "It's an amazing salon! The place is neat, clean, and quite spacious. The staff are warm, hospitable, and genuinely kind. They carefully listen to your concerns and make sure the service meets your expectations.\n\nI've had a few bad experiences at other salons, so I was quite skeptical about trying Maira Salon for the first time. However, they completely exceeded my expectations. The waxing was flawless, and so was the root touch-up, hair wash, and haircut. Everything was done with great care, and the quality of service was exceptional.\n\nI have absolutely no complaints and would highly recommend Maira Salon to anyone looking for quality service and a wonderful overall experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shonyophi Vashim",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Absolutely love this salon! ❤️\n\nA huge thank you to Sobia, who always does my haircut, threading, and nails so beautifully. She is extremely skilled, gentle, and precise in her work. Everything is always done neatly and perfectly, and I leave feeling refreshed and confident every time.\n\nSpecial thanks as well to Komal and Hussaina for their amazing manicure and pedicure services. They are skilled, thorough and always do a fantastic job.\n\nA special appreciation to the owner for creating such a warm and welcoming salon. She is kind, approachable, and always takes the time to understand her clients’ needs, offering honest and thoughtful advice. Her dedication truly makes every visit a pleasant experience.\n\nExcellent service, lovely staff, and great results every visit. Highly recommended, and I’ll definitely keep coming back! ✨💇‍♀️💅🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Mia O.",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I am very happy & satisfied to their service. This is my very first time having a nail art & I would like to thank my nail tech ( she is so passionate & artistic 💯💖)  & her team for  the being hospitable, approchable & accommodating.\n\nI appreciate their suggestions for the cute & adorable designs that is suitable for me.\n\nThe ambiance are very relaxing & clean 💯.\n\nThank you for the take away that you have given to me ( mini perfume & for the chocolate) that was very thoughtful.\n\nService is 10/10. 🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "Deeksha Halankar",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I recently got a hair spa, and I absolutely loved the experience! I tried the Nashi Argan paraben sulfate free hair spa and the entire process was very relaxing. The service was amazing, and the staff made me feel so comfortable throughout. My hair feels so soft and refreshed. I highly recommend everyone to visit this salon at least once and try their hair spa. You won’t regret it.",
+   "owner_reply": null
+  },
+  {
+   "author": "G. VC",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "The relaxed and friendly environment created by owner and staff was lovely!\nVery pleasant and professional service,\nI tried their hair spa, and it felt very good., and my hair looked shiny and healthy  afterward. Also tried the manicure and pedicure with spa. Everything was perfect! Definitely recommend the place!!",
+   "owner_reply": null
+  },
+  {
+   "author": "tejaswini satya",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "The saloon is very clean and calm .. I got my gel nails done . They did it very perfect …. Loved the experience",
+   "owner_reply": null
+  },
+  {
+   "author": "A V",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was my first visit, and it did not disappoint! Ms. Husena did my nails so beautifully — she’s very talented and super friendly. I truly wish her all the best! The owner is also very accommodating, and all the staff are polite and welcoming. This will definitely be my go-to salon from now on. Highly recommended!\nPS: I am from Philippines ❤️😊",
+   "owner_reply": null
+  },
+  {
+   "author": "zoobi pandit",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "If you are looking to go for a relaxing facial and hair spa, then this is the place. Salon is so clean, hygienic, and well maintained. I truly enjoyed my hair spa and facial, which was done so efficiently by Michelle. I felt so relaxed and calm after both the services and would highly recommend this salon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Dimple Mehbubani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was time for my new nails, so I visited Maira Beauty Salon in Karama, and I’m so glad I did! The salon has a lovely ambiance, and the staff is both attentive and professional, made me feel comfortable from the moment i walk in.\n\nI had my old nails removed and opted for Gelish nail extensions. The staff followed all the necessary procedures carefully, which I really appreciated. I also decided to try red nail polish for the first time, and I must say, the team was so patient and supportive throughout the process. They took their time to ensure I was happy with the shade and the finish.\n\nI was really happy with the final results! My nails looked great and the entire experience was smooth and enjoyable. I’ll definitely be coming back for my next nail appointment. Highly recommend Maira Beauty Salon for anyone looking for quality service and a great nail experience in Karama!",
+   "owner_reply": null
+  },
+  {
+   "author": "Elsa C",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Such a nice salon with lovely workers. Everyone was so kind and caring.   They listened to my wishes and did their very best. Service done with care and attention to detail, and relaxing salon experience. My nails turned out so gorgeous, just how I wanted!   Highly recommend!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Anushka Manjanwal",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I was looking for a salon which offers good hair oil massage and is pocket friendly as well. Found this salon on instagram and thought of trying out their services. It is a cosy and cute salon which offers all the beauty services. I would highly recommend getting the hot oil head massage ( massage +wash + Blow dry) from here because they use good quality oil, the massage is super relaxing. The salon is well equipped and well maintained ,it also has positive energy as you you are welcomed with a smile by the lovely owner, who wants to offer you the best service.\nI also got manicure done which was very well done.",
+   "owner_reply": "Your positive feedback means the world to us, Anushka. We're committed to providing top-notch beauty services, and we're thrilled that you enjoyed your visit. Thanks for choosing us!<br>We hope to see you soon."
+  },
+  {
+   "author": "amrutha",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Visited twice for a detan facial and a haircut, and both experiences were wonderful. I did the facial along with my friend, and we were both extremely satisfied with the service. The facial and massage were very relaxing, soothing, and done with great care. The hospitality was also excellent and truly commendable. Overall, it was a very pleasant experience, and I’ll definitely visit again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ravina Khemani",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Got a butterfly haircut done, and shobita was my hairstylist, I’m sososo happy with it and she cut my hair exactly the way I wanted more so even better than I wanted. I did a blast dry not blow dry. This picture doesn’t do justice. She also did my pedicure and it came out great!",
+   "owner_reply": null
+  },
+  {
+   "author": "Larissa Dsouza",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had a good experience visiting Maira beauty salon for the first time. The staff were friendly and welcoming. I got a hair spa done which made my hair smooth and shiny. The whole experience with the head massage was relaxing. I opted for russian manicure and nail art, the nail artist did a good job with it and I’m happy with the results.",
+   "owner_reply": null
+  },
+  {
+   "author": "Deepthi Amin",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I’ve been visiting this salon for the past two years, and the service has always been excellent. The staff is friendly, professional, and very attentive.\n\nA special mention to Husena and Komal — they are truly wonderful. Their warmth, skill, and dedication make every visit a great experience.\n\nHighly recommended for anyone looking for quality service and a welcoming atmosphere.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sony Pedraza",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Is my favorite salon for more than 1 year.\nThe service is excellent, the team is very friendly and will always guide you to make the best decision regarding what you need. The place is clean, they take good care in using the materials. Many thanks to the girls.",
+   "owner_reply": null
+  },
+  {
+   "author": "Noora Gram",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "The elegant-looking salon has a spacious and relaxing setup for its customers, offering best range of services for women. You just name it - right from Nail care, hair spa & treatments, massage, and much more!\n\nI totally love my pampering session at this salon. Took a gelish Manicure and pedicure, and hot Oil Hair was with Blow dry which made my hair healthy, shinny and Soft.",
+   "owner_reply": "Dear Maam,<br><br>We're thrilled to hear about your wonderful experience at our salon! Thank you for taking the time to share your positive review. Our team is dedicated to providing a spacious and relaxing environment for our customers, along with a wide range of services. We're delighted that you enjoyed your pampering session, including the Gelish Manicure, Pedicure, and the Hot Oil Hair Treatment with Blow Dry. It's fantastic to hear that your hair now looks healthy, shiny, and soft. Your satisfaction means the world to us, and we can't wait to have you back for another indulgent beauty session. If you ever have any specific requests or if there's anything more we can do to enhance your experience, please don't hesitate to let us know. We look forward to pampering you again soon!"
+  },
+  {
+   "author": "Gayathma Dharmaratne",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Husna did an incredible job with my gel nail extensions! She was gentle, calm, and very focused on perfecting the nail art. The overall experience was fantastic, and I truly enjoyed it. I’m definitely planning to return to try out their other services soon!",
+   "owner_reply": "Thank you so much for your kind words and recommendation. Hope to see you soon."
+  },
+  {
+   "author": "Ashika Mohan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently had gel nail extensions done at Maira Beauty Salon by Ms. Husena, and I couldn't be happier with the results. Ms. Husena's expertise and polite demeanor made the experience exceptional. The staff members were incredibly friendly and sweet. I highly recommend their services to anyone looking for top-notch nail care.",
+   "owner_reply": "Thank you so much for your kind words and recommendation. Hope to see you soon."
+  },
+  {
+   "author": "Krisshan Tecson",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It's my first time to visit the salon and will definitely come back and recommend it to others. The service was excellent. Staff are very professional. Very cute place. They will ask for your chosen design and they will also suggest what's best for their customers. Husena did my nails and it was perfectly done! She is superb! I took all her recommendations and it was so pretty!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sayali More",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had an amazing experience with Maira salon. Ambience is aesthetic and beautiful.I really liked the interior. I took facial service and it was very nice. I really felt fresh and relaxed. Thanks to the team for taking care of me and my concerns about my skin as it’s highly sensitive.",
+   "owner_reply": "Thank you so much for your wonderful feedback! We're so glad you enjoyed the ambiance and the facial service. It’s great to hear that you felt fresh and relaxed after your treatment. Our team always strives to ensure our clients feel comfortable, especially with sensitive skin concerns. We look forward to welcoming you back for more pampering soon!"
+  },
+  {
+   "author": "Nina Lauren Silvestre",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "They say your hair grows faster and becomes healthier when your hair is cut by a really good hairstylist. And I'm a strong believer of that.\n\nMy first visit at Maira was in January, had a haircut and got my hair colored. I loved the outcome of it, so did my husband and my colleagues at work.\n\nI initially wanted to go for a lighter haircolor. At a normal salon, they would just go for what the customer wants. But here, they will actually tell you what's good and not good for your hair. And glad I listened!\n\nThen my on next visit, I did a hairfall treatment and facial. Which again, was superb! Aside from experiencing a great service at Maira, I could tell that their products are also great! Again, 2nd visit, not a disappointment.\n\nMy 3rd visit was tonight. After 3mos from getting my last haircut, I again had to go today. I had no style in mind. I just went and said she can experiement on my hair. I already knew that whatever it is, it will look great. And it did!\n\nThank you so much for the great service everytime! Maira is a place where you can relax and really have that \"me time\" you've been wanting to have.\n\nLots of love to you guys ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Nafeesa M",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I don’t usually write reviews but this salon deserves it. Every single service is excellent…. Absolutely flawless from start to finish. Staff are skilled, kind, and really listen. Hair, nails, brows, Botox — everything I’ve tried here is 10/10. The place is spotless, vibe is relaxing, and prices are fair for the quality. I walked out feeling like the best version of myself. This is my salon now..",
+   "owner_reply": null
+  },
+  {
+   "author": "Dhanshri Shinde",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Got my eyebrow threading and head massage done by Komal, and it was such a relaxing experience. She made me feel very comfortable and was very caring throughout. Loved the service!❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Travel With Biva And Ashish",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Excellent Service :- \"I had a great experience at this salon! The staff were Very friendly and professional,\n•⁠   \"The ambiance was lovely and the stylist was very skilled. I Mentioned the Name of the Lady @Mishal & @Husena . I got a Facial and Nails Extension with them.\n•⁠  ⁠\"I felt so pampered and relaxed during my visit. I'll definitely be back!\"\n•⁠  ⁠\"I've been searching for a good salon for ages, and I'm so glad I found this one. The prices are reasonable, and the quality of service is top-notch.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nishi Gurbani",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "The salon is very cozy and great work from all the ladies there. They take their time to do everything very thoroughly. I'm very sensitive in getting my eyebrows done and told her about this, and she took extra care to make sure it wasn't too painful or irritating for me. Also got gellish nails done about a week ago, and even after an entire week of hectic work and crazy days, the nails are absolutely perfect and look great.",
+   "owner_reply": "Hi Nishi Maam,<br>Thank you so much for your wonderful review! We're delighted to hear that you had a positive experience at our salon. Our team is dedicated to providing a cozy and thorough beauty experience for all our clients. We truly appreciate your feedback about your eyebrow service, and we're glad we could make it as comfortable as possible for you. It's fantastic to hear that your Gellish nails are still looking perfect after a week of hectic days. Your satisfaction and comfort are our top priorities, and we can't wait to welcome you back for another beauty session. If you ever have more specific requests or need any further assistance, please don't hesitate to let us know. We're here to make you feel and look your best!"
+  },
+  {
+   "author": "Shazia Khan",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "We Initially booked nail extensions and hair colour with Maira Salon. The professionalism and customer service was second to none.The ladies were lovely and made me feel welcome. I’ve rebooked for a Keratin treatment.\nMy stylist Sobia was amazing, very talented indeed. Owner came to check on progress and again a very lovely lady with total customer focus.  Would recommend this salon for the  customer focus ,  their expertise and  amazing price list.  They deserve 5 stars all day long!",
+   "owner_reply": null
+  },
+  {
+   "author": "Hira Baig",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had an amazing experience getting a keratin treatment at Maira's Beauty Salon! The staff was incredibly friendly, the atmosphere was relaxing, and the results were fantastic. My hair feels healthier, smoother, and looks absolutely stunning. I highly recommend their keratin services!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Anishkaa Duraivelu",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I got a gel manicure with nail art, waxing, eyebrow threading, and a pedicure done here. The nail art was really well done, super neat and creative. The overall experience was great, the staff were friendly, the salon had a nice, comfortable atmosphere, and everything was done professionally. Definitely recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ekta Patel",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I’ve visited Maira Salon three times so far and every experience has been consistently excellent. I’ve used multiple services including a hydra facial, hair colour, haircut, hair spa, manicure & pedicure, along with nail art and I’ve been extremely happy with the results each time.\n\nHussaina is a great all-rounder, with a clear speciality in skin and nails. My hydra facial and nail services with her were excellent, and she gives very honest advice based on what actually suits you and is very detail oriented.\n\nSobia took care of all my hair services, and she is amazing at what she does from colour to cut, she truly understands hair and delivers exactly what you’re looking for.\n\nKomal handled my pedicure,hair spa and back massage, and she is very thorough and gentle.\n\nThe owner is extremely welcoming, kind, and well-researched, and treats every customer with the utmost respect and care. You really feel valued from the moment you walk in.\n\nThe entire team is skilled, focused, and professional, and they take the time to understand your skin and hair needs rather than pushing unnecessary services. The quality of work is high, yet the pricing is very reasonable and affordable. I’ll definitely continue coming back and highly recommend Maira Salon to anyone looking for quality services with a personal touch.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rency Rachel",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Such a great hospitality. They give more importance to customers and their wellness. I loved my experience. I did hair color, hair spa, and gel nail extension.",
+   "owner_reply": null
+  },
+  {
+   "author": "Photos anushka",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I found this salon via Instagram and was impressed by the Google rating. I inquired about hair services and nails. The entire process of booking an appointment and receiving the services was amazing; everything was handled well. I generally never get my nails done, but I was impressed with the nail technician. I got the press-on nails done, and they turned out really good. The service was quick, and she paid attention to detail.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kokila Rajarathnam",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I recently visited Maira, and it was truly uplifting. The salon is immaculate, which instantly put me at ease. Each treatment area has a calming vibe that enhances the experience. The staff is both skilled and attentive.\n\nWhat stood out to me was their holistic approach to beauty. They focus on enhancing natural features while promoting self-love and confidence. It’s all about boosting your inner glow, making it a great spot for anyone looking to uplift their self-esteem.\n\nThe hydra facial was fabulous and cateyes gel nails were impeccably done.\n\nI highly recommend Maira—you'll leave feeling beautiful inside and out!",
+   "owner_reply": null
+  },
+  {
+   "author": "momina anjum",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This salon provided me with a gel manicure and nail art. The nail artist was quite talented, and she completed my nails beautifully after just one glance at my reference photo. I really liked how adorable the summer nail art was. completed quite promptly as well. Both the personnel and the salon are incredibly well-groomed. I was certainly drawn to the pink décor. Very pleased with my visit there!",
+   "owner_reply": null
+  },
+  {
+   "author": "Maheshika Dassanayake",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Visited the salon for the first time. The staff treated with care and were absolutely amazing. Mostly, I would like to note that since my underarms are quite sensitive, every salon I visited in UAE messed it up. I’ve had many dark scars and injury patches. But, fortunately I found this salon and they did a great job. My nails were perfectly done as well. No complaints. Hats off.",
+   "owner_reply": "Thank you for giving us a try! We're delighted to hear that your first visit was a success, and we could provide you with the care and service you needed. We understand the importance of addressing sensitive areas, and we're thrilled to know that you had a positive experience with us, without any complaints. Your kind words and positive feedback mean a lot, and we look forward to serving you again. Hats off to you for choosing us! 👏😊"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    768,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1085,
+    1215
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1199,
+    1251
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1056,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    960,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    850,
+    421
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    422,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    204,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    237,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    332,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    329,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    364,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    512,
+    490
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/mairabeautysalon/",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 73,
+ "socials": {
+  "instagram": "mairabeautysalon"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/maira-beauty-salon/",
+ "buy_likelihood": 7,
+ "instagram_match": {
+  "how": "listed on Google Maps"
+ }
+}

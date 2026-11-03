@@ -1,0 +1,659 @@
+{
+ "slug": "al-khalid-auto-garage",
+ "name": "Al Khalid Auto Garage (AKG)",
+ "place_id": "ChIJL9g6LcNrXz4RdO4FJS5TaiI",
+ "category": "car repair garage",
+ "category_weight": 12,
+ "area": "Al Barsha, Dubai",
+ "address": "Al mulla warehouse - 23rd St - Al Qouz Ind.third - Al Quoz - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.1215683,
+  "lng": 55.2147292
+ },
+ "phone": "+971 50 806 6285",
+ "rating": 4.5,
+ "userRatingCount": 195,
+ "rating_distribution": {
+  "oneStar": 12,
+  "twoStar": 5,
+  "threeStar": 9,
+  "fourStar": 9,
+  "fiveStar": 160
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Khalid%20Auto%20Garage%20(AKG)&query_place_id=ChIJL9g6LcNrXz4RdO4FJS5TaiI",
+ "website": "https://www.instagram.com/alkhalid.garage",
+ "categories": [
+  "Auto repair shop",
+  "Auto body shop",
+  "Auto dent removal service",
+  "Auto painting",
+  "Auto tune up service",
+  "Car repair and maintenance service",
+  "Vehicle inspection service"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "Closed"
+  }
+ ],
+ "owner_description": "All your automotive issues solved under one roof. Visit us now and get your car repaired reliably and affordably.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Oil change": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Mechanic": true
+   },
+   {
+    "Restroom": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "honda crv",
+  "ac repair",
+  "friendly team",
+  "engine work",
+  "friendly technicians",
+  "car inspection",
+  "polite staff",
+  "on time",
+  "budget friendly",
+  "quality work"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.72,
+ "reviews": [
+  {
+   "author": "Fabrice Djomo",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "ALKHALID AUTO GARAGE repaired my car today, They were prompt & carried out the repair in a timely & professional way. All the scratches are gone, and my car looks brand new again.\nI will definitely use their services again & recommend them.",
+   "owner_reply": "Thanks for your valuable feedback."
+  },
+  {
+   "author": "Shahd Siraj",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Al Khalid Garage delivered exceptional service when I chose them to paint my rims glossy black. The craftsmanship was top-notch, and the staff displayed professionalism throughout. The glossy finish transformed the look of my vehicle, and I appreciate the precision and care put into the job. Highly recommended for anyone seeking quality automotive customization.",
+   "owner_reply": "Thank you for taking the time to leave us such a fantastic review! We're thrilled to hear about your satisfaction with the glossy black paint job on your rims. At Al Khalid Garage, we take pride in our craftsmanship and the professionalism of our staff, and it's great to know that these qualities stood out to you during your service.<br><br>We're delighted that the glossy finish has transformed the look of your vehicle, and we're glad you appreciated the precision and care we put into every job. Thank you for your high recommendation for anyone seeking quality automotive customization."
+  },
+  {
+   "author": "Divya Jain",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had the pleasure of purchasing my first car in Dubai with the exceptional guidance and service provided by Sachin Patni at Al Khalid Auto. His expertise and patience made the entire process smooth and enjoyable. Sachin went above and beyond to ensure I found the perfect car that suited my needs and budget. His professionalism and dedication are truly commendable. I highly recommend Sachin and Al Khalid Auto to anyone looking for a seamless car buying experience from Bestune, Dubai. Thank you, Sachin, for your outstanding assistance!",
+   "owner_reply": "Thank you so much for taking the time to leave us such a wonderful review! We're thrilled to hear about your positive experience with Sachin Patni and the rest of our team here at Al Khalid Auto. Your recommendation means a lot to us,Here at Al Khalid Auto, customer satisfaction is our top priority, and it's feedback like yours that motivates us to keep improving and delivering the best service possible."
+  },
+  {
+   "author": "Mohammed Aasif",
+   "rating": 1,
+   "when": "5 years ago",
+   "text": "I had done AC compressor change from the workshop last year in Aug for my Honda CRV; The AC compressor was newly replaced, firstly the A/C gas was half filled up. I had filled up the gas straight after taking the vehicle out from workshop, then the A/C itself was not chilling. They told me as its a new compressor after 2-3 months it will be ok. Its almost a year now the A/C compressor stalled & had a bursted in a year. The engine, radiator, belt everything got impacted due to the burst & my car has broken down. I had called them regarding it and their response was one year was gone & they are not responsible towards what has happened. I checked with the authorized Honda service they told me that due to faulty method of A/C compressor installation this has happened. I would never ever recommend this workshop.",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "Sam Shugaa",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Great services, very good clean job and great value.. Will be visiting them again for sure.",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "Farooq Wali",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I would simply like to express my deep thanks and appreciation for your wonderful service and quick turnaround at your auto repair garage. You were great in dealing with my problem and got the job done quickly and well.\n\nYou have exceeded my expectations and demonstrated your professional auto repair skills exceptionally well. I am very grateful to you for your tremendous efforts and commitment to providing quality service.\n\nThank you again for your excellent service and quick turnaround. I am really happy with my experience with you and look forward to doing business with you in the future.",
+   "owner_reply": null
+  },
+  {
+   "author": "Leony Sowah",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Rapid response, quality work at affordable pricing and excellent customer services and communication. Definitely recommend.\nI had oil leakage and vibrating issues with my Evoque. I called them after reading previous reviews, on the same day, they picked up the car from a different garage that was charging almost double the labour cost and high markups on the parts.\nThey completed the repairs and delivered the car to me in just a couple of days. 6 weeks later and the car is doing great. I definitely recommend their services",
+   "owner_reply": "Thanks for your valuable feedback😊"
+  },
+  {
+   "author": "Tim Livingston",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I have been to this auto service several times. The first time the mechanic changed the oil and cooling in my car. The second time was to remove an error and fix a problem with low engine speed. The third time I brought my car in for a headlight polish. All the work was done perfectly! And the mechanics do not charge a lot of money for their work. I will come to them again and recommend them to my friends!",
+   "owner_reply": null
+  },
+  {
+   "author": "Areeb Khan",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Fast response, quality work at affordable pricing and excellent customer services and communication. Definitely recommend.\nI had A/C issues with my Jaguar. I called them after reading previous reviews, on the same day, they picked up the car and give me the cost half of the amount of other garages.\nA/C is chilling now, now almost two months gone A/C working perfectly.\nHighly Recommended 😊",
+   "owner_reply": "Thanks for your valuable feedback👍"
+  },
+  {
+   "author": "Lorraine",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "I don’t normally write reviews but felt I had to this time. Booked my car in for body work repairs and the efficiency, quality and cost of the job was exceptional. This is the third garage I’ve used since being in Dubai, and this is definitely one of the best experiences I’ve had. Would definitely recommend.",
+   "owner_reply": "Thanks for your valuable response."
+  },
+  {
+   "author": "Sascha Winter",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "Gotta say that these guys were super quick. Car pickup within an hour after my call, car being finished way before promised schedule, car delivery within half an hour after I’ve received that the car is ready.\n\nIssues being fixed for a reasonable price, very pleased with these guys, can only recommend them.",
+   "owner_reply": "Thanks for your valuable feedback."
+  },
+  {
+   "author": "Lorna",
+   "rating": 5,
+   "when": "6 years ago",
+   "text": "Amazing service! I broke down and they arrived within 15 mins. They fixed the car enough for me to be able to drive it home and then I returned to the garage a day later to fix the issue properly. All done very quickly and professionally. My new favourite garage in Dubai! Great service!",
+   "owner_reply": "Thanks for your valuable feedback."
+  },
+  {
+   "author": "Hasher Hamza",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very good and professional service and people. My mustang had some drivability issues, I showed it in some other garage and they told me it was issue with tyre and I got my tyre replaced but the problem didn’t go away . Then I came here and they found out 3 of my wheel bearings were bad and steering tie rod something of one side is also damaged.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nasar Ahmad",
+   "rating": 5,
+   "when": "6 years ago",
+   "text": "My Lexus RX350 brakes got hard and back lights were not lighting up resulting into failure to ignite through push button. I gave car to a garage where they took two days to tell me to replace fuse box. After reading reviews of Al Khalid, i brought car to them. They took couple of hours to identify and later repaired/returned car same day. Owner Mr. Bilal's response was very quick & professional. His team was very cooperative & friendly. Highly recommended.",
+   "owner_reply": "Thank you for your valuable feedback.👍"
+  },
+  {
+   "author": "Moh Samer Khabazeh",
+   "rating": 5,
+   "when": "6 years ago",
+   "text": "I finally found my go to for car repairs! I've been to other shops but those other shops were either very very expensive, too busy to even answer the phone or just not friendly. Found them through google, read the reviews and they definitely deserve 5+ stars! They did an excellent work! The staff and owner were super nice too! They're very knowledgeable and go above and beyond to explain things to you. Awesome customer service and left there feeling very satisfied! Definitely going here for any future car issues and will recommend them to my family and friends :)",
+   "owner_reply": "THANKS 😌"
+  },
+  {
+   "author": "priyan s priyan",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Excellent & Wonderful service, thank you team Al Khalid . they are very  Professional, friendly and efficient. Have total trust you guys and you all made it very simple and trustworthy . I have experienced one of the best car garage in Dubai ( Al-Quoz )  Thank you Shafik , you & your team had done a great job . I really appreciated the work which was done total care and trust  .\nAlways a pleasure doing business with you.",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "Shahla Kashif",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Amazing service. Adnan and his team were fast , efficient, and organised. They were able to explain to me the issues with my car and walked me through the steps they would take to fix those issues. They promised and delivered on their promise. They will be my go to garage from now on.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Anaas",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I dealt with Mr Mujeeb and Mr Shahbaz, a totally wonderful service experience they provide me the solution to my problem and a very good customer service at all times.\n\nMr Mujeeb is a Doctor to all cars and could almost give a solution in a toughest situation.\n\nDefinetly would recommend to friends and family.",
+   "owner_reply": null
+  },
+  {
+   "author": "Stelios Michaelides",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "I have taken both my cars to Al Khalid garage and I am very happy with the service. Mr Bilal and his team are very competent and they offer very good value for money.\n\nOn my cars they have done work on both mechanical and electrical repairs.",
+   "owner_reply": "Thanks for your valuable feedback."
+  },
+  {
+   "author": "Ruslan Abuzant",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Great and fast service, the guys are friendly and provided me with accurate time and cost estimate, I'd recommend them if you need any car work.",
+   "owner_reply": null
+  },
+  {
+   "author": "Safu Sheri",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I have a Toyota Yaris car.\nwhile driving, there was more sound. I went to them. They did diagnose and find the issue quickly. The same day they did all suspension work and gave back. I appreciate team Al Khalid, highly recommend.\nThanks all.",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "Praveen K P",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Excellent job done, they solve my several months nightmare. My Honda CRV had some gear shifting issue, I showed many garages, and all are recommending to service the gear box which will cost you nearly 6000AED. Thanks to Mr. Mujeeb, he advised to replace the transmission oil and filter before doing the same, but the filter was not available with them. They gave the part number 25430-PLR-003, it was available online. After replacing both the gear shifting is very smooth like butter...\nThanks to the whole team..",
+   "owner_reply": null
+  },
+  {
+   "author": "Arijit Paul",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Range Rover Sport V8. Have used the services of all these fancy garages. I mean you type keywords like best service fir Range Rover on google and all these places pop up on google which are add boosted with huge budgets. However my experience with these workshops have always been disappointing and the bills just keep getting high, don’t need to name them though. This time when my AC cranked totally I did the same thing like every time but only this time I was on a short budget due to COVID pay situation. Took the car to usual places and each one gave me quotes which are half the value of the car.\n\nThen after a lot of research as I was adamant to find someone trustworthy and honest, I came across AK Khalid auto. So this place is not your usual auto centre with all services but a small place in Al Quoz. Met Bilal and his team who immediately found the problem. The first ever honest mechanics I have met who gave me two to three options and assures some with company warranty and the lower prices (half the quote of others) was assured with his guarantee. I took the risk and let kid you not, these guys did not let me down.\n\nAmazing job done by them. Very happy with their work. They maybe small but know their job very well. I would recommend everyone to go check these guys out when you need assistance with your car repairs.\n\nI will only take mine to them only.",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "shanavas k hamza",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "My 3rd visit to Garage very happy with the work they done .A very good garage and amazingly honest service. My car literally shutdown and they could have charged me anything and I would have paid it. However they fixed it for free as it was a very minor thing.\nHighly Recommended",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "Asmil Shan",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I have got some engine work, maintenance at this garage by Mujeeb , and I have to say I was very impressed with the service I received by mujeeb did an excellent job with the engine work, and my car feels smoother than before. The maintenance work was done perfectly and efficiently. He's professional and friendly, and the overall experience was fantastic. I would highly recommend Mujeeb Ad in particular, for any car repairs or maintenance needs. Thank you for the great service!❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Adnan Rauf",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Excellent services. They charge reasonable and professional in their job. Garage Manager Mr Shafiq is quite nice and make sure that his team job done properly.",
+   "owner_reply": null
+  },
+  {
+   "author": "Amir Jamil",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "I had an issue with my Audi Q7 and I took my car to another garage where even after two visits the issue was not resolved. I called Bilal and handed over the car to them. They were professional in identifying the issue and providing the economical solution. Rizwan has been dealing my case and he is a pro gentleman. His attitude and support for the minor details was impressive. He goes beyond to satisfy the customer.\nI would highly recommend this auto garage.",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "MissF125",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "This garage is great at offering a super quick and efficient service. I broke my side mirror, they ordered me a new one and repaired it within 24hours. Someone came out to me and repaired it so I didn’t need to go anywhere!",
+   "owner_reply": "Thanks for your valuable feedback😊"
+  },
+  {
+   "author": "Romano Fionda",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "These guys really know good Customer Service. From fixing door trim on my Range Rover Sport at shirt notice on a Thursday night late to coming to my house to top up my car ac gas.\n\nI cannot recommend them highly enough. Thank you Bilal and your team. 👍🏾",
+   "owner_reply": "Thanks for your valuable feedback."
+  },
+  {
+   "author": "Asif Khan",
+   "rating": 3,
+   "when": "Edited 4 years ago",
+   "text": "I will write my full review with ratings once they provide their findings. As of now, my BMW is in their garage since yesterday. My car starts and engine shuts off in few seconds. Their mechanic is struggling to know the cause. Hope they sort this out. Will edit review based on experience. I arranged home service to check dead car issue and guy who came, asked to send car to garage after just pressing start stop issue.  May be he is not aware much but neverthless, will provide my honest review anyhow. I paid 200 AED for the guy who did not used any tool but chit chat. No worries for 200, i own bmw so garage owners were paid 6000 aed by me but lets see how they come out as resolvers. Fingers crossed.",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "Yusuf S",
+   "rating": 1,
+   "when": "5 years ago",
+   "text": "Just last week, I was driving my car and the muffler piece just feel off the car alongside the bumper....I was surprised because the welding job they did was so poor, the muffler fell out just after a few months and also the bumper (the bumper was fixed poorly, with missing support), in addition to the muffler, the support was missing. This ended up me in me paying additional AED1,000 because of this garage's poor work!!! Not recommended if you're looking for reliable job. Thank you.",
+   "owner_reply": "Another fake review. We would like to inform our customers that we really appreciate genuine reviews but these reviews are a result of frustration from our competitors. Please provide full detail of work , which car u brought to garage and when u bring . And for ur kind information we are not doing welding job so where u did take car .will wait for your response in this regard."
+  },
+  {
+   "author": "sarah coldwell",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "These guys are reputable and professional for all of your car breakdown and running repairs. I called Bilal and a mechanic was dispatched immediately. Reasonably priced and cane when they said they would. Highly recommended!",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "EM SINDO",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I Highly recommend Al khalid Auto Garage . Since day one they keep on updates on my car . Very accommodating staff. They giving a reasonable price .First time in there service but i surprise and satisfied. Thank you so much. Now my transmission all working well😊  Godbless",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "MUSTHAFA V",
+   "rating": 5,
+   "when": "Edited 5 years ago",
+   "text": "I've taken my cars to Al Khalid auto garage a few times and I've always received great service. They have an employee named Shafeeq who has exceptional knowledge of cars! I highly recommend that you go thru him!",
+   "owner_reply": "Thanks 😊"
+  },
+  {
+   "author": "Silvia B.",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Adhan has been great!\nVery helpful and available.\nHopefully my car now will be fixed after the bad experience with other garages!\nHighly recommend!\n\nHere his number :) +971 52 802 4889",
+   "owner_reply": null
+  },
+  {
+   "author": "Allana Thomas",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "The Best Garage in Dubai !!!\n2nd visit was excellent as well (for 130K km car service).\nI am your regular customer now and will recommend to my friends.\nKeep it up.\nRegards,\n(Blue Nissan Tiida)",
+   "owner_reply": "Thank you for your valuable feedback.👍"
+  },
+  {
+   "author": "Dee Vine",
+   "rating": 5,
+   "when": "6 years ago",
+   "text": "The garage mechanics were the only ones able to fix the broken gear box cable in my car.  My insurance company and Kia were unable to help.\n\nThe mechanics worked on the problem straightaway and managed to fix it under difficult circumstances (in the underground park at my work place and on top of an automated car platform so they were unable to get under the car because of the mechanical equipment).\n\nThe cost was very reasonable as well.\n\nThank you, I will definitely recommend you to my friends and colleagues.",
+   "owner_reply": "Thanks for your valuable feedback"
+  },
+  {
+   "author": "AJ D",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "I found these guys on Google on a Friday morning. My car wouldn't start and the technician came within 30mins and replaced the battery for aed550. So far very happy with the service and I'll be trying them out for a service. Will edit this once that's done.",
+   "owner_reply": "Thanks for your valuable feedback☺️"
+  },
+  {
+   "author": "Omid roshan",
+   "rating": 5,
+   "when": "6 years ago",
+   "text": "Came in for car AC repair, they did a great job for me and kept their promise on their date of delivery. Will definitely go to them for any future repair job which i may have.",
+   "owner_reply": "Thanks for your valuable feedback."
+  },
+  {
+   "author": "Sanad Shaikh",
+   "rating": 1,
+   "when": "5 years ago",
+   "text": "Clueless mechanics and poor quality - AVOID! Visited the garage in October 2020 after having A/C issues with a 2011 BMW 316i, they checked, gave a long list of items to be replaced (condenser, compressor and so on), claiming 6 months warranty. Exactly after 6 months and a week, entire A/C went bust, not just a minor issue, but gone! I called them giving invoice reference and job details, garage owner asked me to drop the car saying he will have it checked in 30 minutes, stating this check-up will be at no cost since this was a major job. Within just 5 minutes he claimed there might be a leak and that the car has to be left overnight for a full check-up, adding a new cost of 300, which then he said will be reduced to 100. I refused and was about to leave when garage owner then claimed that he will do a full check for free within an hour. The LOW PRICE comes at a VERY HIGH RISK! Better off paying a higher price to a well reputed garage than risking additional mechanical problems.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    768,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    512,
+    415
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/alkhalid.garage",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {
+  "instagram": "alkhalid.garage"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/al-khalid-auto-garage/",
+ "buy_likelihood": 8,
+ "instagram_match": {
+  "how": "listed on Google Maps"
+ }
+}

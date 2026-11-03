@@ -1,0 +1,36 @@
+{
+ "preset": "royal-plum",
+ "theme": {"accent": "#D9B26F", "accent_text": "#E6C48A", "on_accent": "#1A1310", "bg": "#0F0C10", "surface": "#18141A", "surface_2": "#221C24", "duo": "#4A3A2A", "busy": "#7F6436", "glow": "rgba(217,178,111,.15)", "band_bg": "#F4EFEA", "band_accent": "#8A6A34", "hero_pos": "center 40%"},
+ "brand": {"name": "Hollywood", "sub": "Ladies Salon · Karama", "mark": "H", "footer_word": "Hollywood"},
+ "seo": {"title": "Hollywood Ladies Salon | Hair, Nails & Lashes in Al Karama, Dubai", "description": "Hollywood Ladies Salon on Kuwait Street, Al Karama: balayage, keratin, hair extensions, nails, eyelash extensions and foot spa. Open daily 10 AM to 10 PM. 1,000+ Google reviews."},
+ "hero": {"variant": "full", "kicker": "Khalid Al Attar Building · Kuwait Street · Karama", "title_lines": ["Your close-up,", "every day", "of the week."],
+   "lede": "Balayage, keratin, extensions, nails and lashes in a glossy marble salon on Kuwait Street. Open 10 AM to 10 PM, seven days, with more than a thousand Google reviews behind us.",
+   "image": "img/hero.jpg", "image_alt": "Hollywood salon floor with marble walls, mirrors and styling chairs", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Hollywood Ladies Salon, I'd like to book an appointment.",
+ "proof_note": "Over 1,000 reviews",
+ "address_lines": ["Hollywood Ladies Salon, Khalid Al Attar Building", "17 Kuwait Street, Al Karama, Dubai"],
+ "ticker": ["Balayage", "Keratin", "Hair extensions", "Eyelash extensions", "Gel nails", "Foot spa", "Hair spa"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Hair, lashes and nails", "title_dim": "under one roof.",
+   "items": [
+    {"name": "Colour & balayage", "feature": true, "img": "img/highlights.jpg", "alt": "Long hair with caramel highlights", "desc": "Balayage, highlights, bleaching and colour correction.", "tag": "Most requested"},
+    {"name": "Keratin & smoothing", "img": "img/straight.jpg", "alt": "Sleek straight black hair after keratin", "desc": "Keratin, protein and smoothing treatments."},
+    {"name": "Nails", "img": "img/nails.jpg", "alt": "Sky blue almond nails", "desc": "Gel, extensions and nail art."},
+    {"name": "Lashes & brows", "desc": "Eyelash extensions, threading and waxing."},
+    {"name": "Spa & care", "img": "img/waves.jpg", "alt": "Soft brunette waves", "desc": "Hair spa, foot spa, facials and hair extensions."}
+   ],
+   "perks": ["Open daily 10 AM – 10 PM", "Wheelchair accessible", "Complimentary drinks", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Skip the wait", "title": "Walk in when", "title_dim": "it's quiet."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Names from our reviews", "title": "A big team,", "title_dim": "and clients have favourites.",
+   "items": [
+    {"name": "Julie", "count": 5, "role": "Stylist"}, {"name": "Jessa", "count": 4, "role": "Stylist", "quote": "Special thanks to Jessa for her excellent service.", "cite": "Roxanne V."},
+    {"name": "Dino", "count": 4, "role": "Hair"}, {"name": "Shany", "count": 3, "role": "Hair spa & facials", "quote": "Shany was extremely professional, friendly, and did an excellent job throughout my visit.", "cite": "Alfiya N."},
+    {"name": "Ara", "count": 3, "role": "Beauty"}, {"name": "Tony", "role": "Hair"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/sign.jpg", "alt": "Hollywood Beauty Salon neon sign", "wide": true}, {"src": "img/chair.jpg", "alt": "Client in a styling chair"}, {"src": "img/mirror.jpg", "alt": "Clients posing in the mirror"}, {"src": "img/nails-pink.jpg", "alt": "Pink glitter nails"}, {"src": "img/coffee.jpg", "alt": "Complimentary Hollywood Salon coffee cup"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews", "review_note": ""},
+  {"type": "asks", "id": "book", "eyebrow": "Book or ask", "title": "Ask for today's price.", "lede": "Prices depend on hair length and treatment. Tap a question to send it on WhatsApp.",
+   "asks": ["How much is balayage for my hair length?", "What does keratin cost?", "Do you have a slot today?", "How much are eyelash extensions?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Kuwait Street,", "title_dim": "Al Karama."}
+ ]
+}

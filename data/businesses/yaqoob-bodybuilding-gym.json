@@ -1,0 +1,1157 @@
+{
+ "slug": "yaqoob-bodybuilding-gym",
+ "name": "Yaqoob Bodybuilding Gym Al Nahda Sharjah | Ladies and Gents | Best gym in Al Nahda",
+ "place_id": "ChIJUYXePN9dXz4RelpNCRZcEA4",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Al Nahda, Sharjah",
+ "address": "Street 4 - behind Ansar mall & Night to Night - Sharjah - United Arab Emirates",
+ "building": "Al Zarooni Building - Block A",
+ "location": {
+  "lat": 25.3010754,
+  "lng": 55.3677215
+ },
+ "phone": "+971 58 237 5999",
+ "rating": 4.8,
+ "userRatingCount": 186,
+ "rating_distribution": {
+  "oneStar": 7,
+  "twoStar": 0,
+  "threeStar": 2,
+  "fourStar": 9,
+  "fiveStar": 168
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Yaqoob%20Bodybuilding%20Gym%20Al%20Nahda%20Sharjah%20%7C%20Ladies%20and%20Gents%20%7C%20Best%20gym%20in%20Al%20Nahda&query_place_id=ChIJUYXePN9dXz4RelpNCRZcEA4",
+ "website": "",
+ "categories": [
+  "Fitness center",
+  "Gym",
+  "Weight loss service"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "4 to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "5 AM to 2 AM"
+  }
+ ],
+ "owner_description": "Ladies & Gents GYM\nWeight Loss Programs\nWeight Gain Programs\nAerobic Classes\nZumba Classes\nGroup classes\nPersonal Training\nBody Transformation Plans\nLadies-only training",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Online classes": true
+   },
+   {
+    "Outdoor services": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": false
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "supportive trainers",
+  "enthusiastic trainers",
+  "flexible timing",
+  "flexible gym timing",
+  "modern workout machinery",
+  "reasonable fees",
+  "body shaping",
+  "guidance for beginners",
+  "spacious gym",
+  "good machinery"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 38
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 49
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 36
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 45
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 43
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 36
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Shuhaib Cp",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "If you’re looking for a gym that keeps you motivated and focused on your goals, Yaqoob Bodybuilding Gym in Al Nahda, Sharjah, is a great choice! The atmosphere is energetic, the setup is great for bodybuilding and strength training, and it’s a place where you can push your limits and work on becoming the best version of yourself. Perfect for anyone passionate about fitness and building discipline. Definitely worth checking out! 🏋️‍♂️💯",
+   "owner_reply": null
+  },
+  {
+   "author": "Yaseen Chottilody",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Excellent gym with good trainers. Highly recommended! The gym is open day and night, making it very convenient for everyone.",
+   "owner_reply": null
+  },
+  {
+   "author": "Satendra Singh Choudhary",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I am a proud member of the Gym from last 2+ years. A complete value for money experience justified in every means including full range of equipment and personal training. Very supportive staff and offers extended gym timings even on public holidays.",
+   "owner_reply": null
+  },
+  {
+   "author": "Samuel singh",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "This gym offers excellent facilities at a very reasonable price. The equipment is modern and properly maintained. The staff are professional and helpful. A great choice for anyone looking for a quality workout experience within budget.",
+   "owner_reply": null
+  },
+  {
+   "author": "Subin backer",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\nAmazing gym with excellent training and coaching. The coach is fantastic, and the owner is also very welcoming and supportive. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "ANANDA RAJ",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Peaceful good gym. Dedicated coaching  staff. No disturb to any one. Every body respect each other. Latest exercise machine. Best gym of Al Nadha.",
+   "owner_reply": null
+  },
+  {
+   "author": "Huzaifa Rehman",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Clean space, plenty of weights, and everything works like it should. The staff is very friendly, the gym offers mostly everything thing with a reasonable price..",
+   "owner_reply": null
+  },
+  {
+   "author": "Huzaifa Mughal",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great gym with helpful trainers and latest machines. The place is always clean and the fees are very reasonable. I highly recommend everyone to join",
+   "owner_reply": null
+  },
+  {
+   "author": "sumesh Sivapuram",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "​\"Great gym with excellent equipment and a motivating atmosphere. The management and trainers are very supportive and professional!\"\n​",
+   "owner_reply": null
+  },
+  {
+   "author": "Arul Alex",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Good service with friendly staff and excellent trainers",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Afsal",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best gym I had  flexible timing ,friendly trainers good package good and condition equipments",
+   "owner_reply": null
+  },
+  {
+   "author": "Carl Sequeira",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I've been training at this fantastic gym in town for nearly 2 years now, and I couldn't be happier with my experience. The trainers are not only friendly but also highly knowledgeable and supportive. The gym offers convenient timings, creating a flexible and accommodating environment for everyone. The equipment is top-notch and well-maintained, and the overall atmosphere is motivating and energizing. Whether you're a beginner or an experienced athlete, this gym provides everything you need to achieve your fitness goals. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Golden Wing",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "Nice and clean gym., friendly staff and great group of trainers are very ENTHUSIASTIC,ENGAGING and WELL PREPARED..they will help you what you need for your body improvements and they also advise some knowledge how to stick to your diet plan..",
+   "owner_reply": null
+  },
+  {
+   "author": "tijo jacob",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Very nice gym with amazing trainers. And reasonable price.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mubin Dhanse",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Good place and peaceful place for workout.\nLot of machine available with good quality",
+   "owner_reply": null
+  },
+  {
+   "author": "SURAJ S",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve had an amazing experience at Yakoob’s Gym. The facility is well-maintained, clean, and equipped with a wide range of high-quality machines to cater to all fitness levels. What truly sets this gym apart is the professionalism and expertise of the trainers. They are incredibly knowledgeable, attentive, and always ready to guide you through your fitness journey, ensuring proper techniques and personalized workout plans. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Faiz Siddiqui",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently joined and have been impressed with the overall atmosphere. The equipment is modern and well-maintained, making workouts enjoyable. The staff is friendly and always available to assist. Classes are diverse and cater to all fitness levels. Overall, it’s a great place to stay motivated and achieve your fitness goals",
+   "owner_reply": null
+  },
+  {
+   "author": "Nirmal Kumar",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "One of the best gym I should say in all aspects, Trainers are spot on they will guide you to get your desired result. The special thing I have notice here even you don’t have personal coach  still the gym trainers will come voluntarily and assess and guide you appropriately. In top of that they will provide you suitable workouts based on body condition. I will give full credit to Yaqoob for his versatile knowledge in this business and  they way he managing the gym🔥🔥🔥\nFinally Kudos to all supporting staffs🤩🤩🤩",
+   "owner_reply": null
+  },
+  {
+   "author": "Ramesh Pai",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Yakoob Fitness is very good training center for body builders as well as for those who wants to be fit. Fitness is a lifestyle, enjoy it with Yakoob Fitness under the guidance of excellent trainers. I am proud to be a part of Yakoob Fitness for past 2 years, enjoying daily workouts. Best wishes. Ramesh Pai.",
+   "owner_reply": null
+  },
+  {
+   "author": "midhun subash",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Perfect Gym to be in. The staff are very welcoming and warm. The atmosphere & trainers are something which i should highlight. I am very new to this gym and trust me i never felt so. This place is very positive that you yourself make sure to go there and work on yourself each day without fail. Your life only get better, when you get better.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ramrattan Punia",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Very good Gym to achieve my exercises and fitness goals. The staff are friendly, knowledgeable, gym environment is positive. Coaches are very good, they guide very well.\nVery good equipments, you'll find whatever you need for a cardio, weight lifting for all type of exercises.\nGym environment is very good. It has windows on 2 sides, good ventilation.",
+   "owner_reply": null
+  },
+  {
+   "author": "shoby joy",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best value for money gym in Al nahda ,well maintained and last but not the least is the trainer Yaqoob a down to earth person who is having extensive knowledge and experience in the field will happily assist anyone anytime .",
+   "owner_reply": null
+  },
+  {
+   "author": "Kamran latif malik",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Having resident of UAE for more than a decade, joined many gyms but this one has a unique feature that every member  is ready to help you in your fallen sets. Gym instructor make you feel that you are important and gives you full attention. Overall if you really into fitness than this gym has really good treats.",
+   "owner_reply": null
+  },
+  {
+   "author": "Bilal Amin",
+   "rating": 5,
+   "when": "Edited 5 months ago",
+   "text": "Middle of the city center,\nWith a great atmosphere,\nMr. Yaqoob is a coach who is always there to support and guide you to the point..",
+   "owner_reply": null
+  },
+  {
+   "author": "Agha Shahroze Khan",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "All the management, specially Yaqoob is very cooperative and humble. Both the coaches guide properly. Especially Ismail, he is a good trainer and has a very good grasp over knowledge essentials to be a good trainer. 5 stars for you guys!",
+   "owner_reply": null
+  },
+  {
+   "author": "louie rosette",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I been working out here on and off. the owner and staff are very accomodating. and the gym is well maintain",
+   "owner_reply": null
+  },
+  {
+   "author": "manoj vamshy",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Best gym around for the price! The vintage feel. Loved the ambience!❤️\n\nWorth every penny🏋️💪",
+   "owner_reply": null
+  },
+  {
+   "author": "Haseeb Vohra",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "My experience at this gym has been really amazing. They have the latest equipments available, also it’s very pocket friendly, and they have the best trainers on job. They pay alot of attention on cleanliness and hygiene as well.",
+   "owner_reply": null
+  },
+  {
+   "author": "david gathungu",
+   "rating": 4,
+   "when": "4 years ago",
+   "text": "Great place for work out,the staff are friendly at the same time .lots of space,modern workout machinery and excellent trainers 24 /7 ready to guide and help you to achieve you goal,totally recommend best in alnadha sharjar near new night and night shop.\nits the best place to be if you're new in gym.\ntrainer will guide until you're surely fit.\naffordable gym with commitment trainer.....",
+   "owner_reply": null
+  },
+  {
+   "author": "Alirio Menezes",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Yaqoob Gym is an absolute gem! The spacious and spotlessly clean environment immediately sets it apart. What's truly remarkable is the owner, Yaqoob, who's been personally trained by UAE's top bodybuilders, bringing a unique level of expertise. The gym's young, enthusiastic trainers go above and beyond, providing personalized guidance and creating a motivating atmosphere. If you want a fitness destination that combines cleanliness, expertise, and passion, Yaqoob Gym is the perfect choice for an exceptional fitness journey.",
+   "owner_reply": null
+  },
+  {
+   "author": "vivek shetty",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Very good gym. You have ample amount of equipment and trainers are well knowled and very friendly. Price is very reasonable. One of the best place for workout in the vicinity",
+   "owner_reply": null
+  },
+  {
+   "author": "JeSeeM MaHmooD",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Very nice gym with amazing trainers. And reasonable price.",
+   "owner_reply": null
+  },
+  {
+   "author": "mark flores",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "the Gym is clean, and very organized equipment. A beginner friendly environment, they will assist you if you don’t have knowledge on how to start the training.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ammar Khan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very good gym and super clean equipments & floors, very supportive coach and trainers. Mainly timing is very convenient as per office routine.",
+   "owner_reply": null
+  },
+  {
+   "author": "shanavas mp",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Yaqoob center is an amazing gym and I’m so happy I joined. All the staff members are extremely friendly and helpful. It is also a very clean and spacious gym with a great selection of equipments. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Manuzon Joshua",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’m bery greatful this gym because all coaches are very good and also the gym is very clean and comfortable to use all the equipment inside.",
+   "owner_reply": null
+  },
+  {
+   "author": "sajith menon",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "One of the best gyms I ever trained at...If you aim to train your body or build muscles or You want to reduce your body fat, whatever ur goal this gym is the best solution for u.. Very talented and well-educated trainers are the real asset for this gym...moreover I uod like to mention about the owner and the main trainer Yaqoob, he is really a nice guy, very professional and very very down to earth person I ever met in this fitness industry. He knows his game very well...so I am giving 5 stars...",
+   "owner_reply": null
+  },
+  {
+   "author": "Rahul Bahedia",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Fantastic gym! Always clean, well-equipped, and the staff is so supportive",
+   "owner_reply": null
+  },
+  {
+   "author": "mobin babu",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I've been working out here since last one month and I suggest this is one of the best gyms to achieve your fitness goals\nThe cleanliness of the training area and the equipments are well maintained and the trainers are friendly and helping (Mr. Yaqoob and Aravind)",
+   "owner_reply": null
+  },
+  {
+   "author": "Rashid Ali Ansari",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Yaqoob Body Building Center is well equipped center, enough machines and environment is good. Instructors are well mannered, cooperative and supportive. Reasonable fee and time slots are good.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    504,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    512,
+    231
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/yaqoob-bodybuilding-gym/",
+ "buy_likelihood": 8,
+ "notes": "Scouted, not built in batch 1 (weak photos or inactive owner)."
+}

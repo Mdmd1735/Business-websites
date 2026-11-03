@@ -298,7 +298,7 @@ def find_socials(args):
     phone digits in bio/link, or strong name match + UAE location words. ~$0.003 per search."""
     from concurrent.futures import ThreadPoolExecutor
     files = sorted((DATA / "businesses").glob("*.json"))
-    todo = [f for f in files if not json.loads(f.read_text()).get("socials", {}).get("instagram")]
+    todo = [f for f in files if not json.loads(f.read_text()).get("socials", {}).get("instagram") and json.loads(f.read_text()).get("site_status") != "backup"]
     def norm(x): return re.sub(r"[^a-z0-9]", "", (x or "").lower())
     def one(f):
         b = json.loads(f.read_text())

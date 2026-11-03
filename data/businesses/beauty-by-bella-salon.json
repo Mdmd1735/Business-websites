@@ -1,0 +1,1704 @@
+{
+ "slug": "beauty-by-bella-salon",
+ "name": "Beauty By Bella Salon",
+ "place_id": "ChIJLRpXYfprXz4RzAMvLGro7sI",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Barsha, Dubai",
+ "address": "Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.1138207,
+  "lng": 55.2059319
+ },
+ "phone": "+971 50 206 7921",
+ "rating": 4.6,
+ "userRatingCount": 325,
+ "rating_distribution": {
+  "oneStar": 31,
+  "twoStar": 2,
+  "threeStar": 4,
+  "fourStar": 6,
+  "fiveStar": 282
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Beauty%20By%20Bella%20Salon&query_place_id=ChIJLRpXYfprXz4RzAMvLGro7sI",
+ "website": "https://linktr.ee/beautybybellasalon",
+ "categories": [
+  "Beauty salon",
+  "Eyelash salon",
+  "Nail salon",
+  "Hairdresser"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Beauty by Bella Salon is a luxurious haven for beauty enthusiasts. Step into an elegant ambiance where expert stylists and beauticians offer a wide range of premium services, including hair styling, nail artistry, skincare, and more. Renowned for its exceptional attention to detail and personalized care, the salon uses top-quality products to ensure every client leaves feeling confident and radiant. Indulge in the ultimate pampering experience at Beauty by Bella.",
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "On-site parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "lashes",
+  "nail extensions",
+  "lash extensions",
+  "gel nails",
+  "welcoming staff",
+  "gelish pedicure",
+  "welcoming atmosphere",
+  "nail art",
+  "protein treatment",
+  "eyebrow lamination"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.57,
+ "reviews": [
+  {
+   "author": "Nariman Al Hindi",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Love love love this saloon! I was exploring it for the first time and it sooo met my expectations! Its so clean and cozy with the pinky interiors. Very professional booking system. I was warmly welcomed by the lovely (RoseI went there for eyelashes extension, gelish pedicure and hard gel manicure and wow! Did my lashes with (Simran) and she made my lashes exactly how i wanted them. The hard gel manicure with (Annie) very beautiful shape and color. Finally the gelish pedicure with (Mary) super nice. All these ladies were efficient and charming. Am happy and satisfied, Will definitely come baaaack.",
+   "owner_reply": "Thank you for your review ,we are happy to see you satisfied and hope to see you again. "
+  },
+  {
+   "author": "Afia Sheikh",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I had a great experience getting my nails done! Kainat was gentle, detail-oriented, and really listened to what I wanted. My nails came out clean, even, and beautifully shaped. The salon was welcoming and the service was quick but never rushed. I’ll definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ruvini Bandara",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I messaged up my nails pretty bad - chipped it, and they were very sweet to accommodate my appointment for the same day. Nicely recovered - keeping the original shape with a cute nude shade of Gelish.\nKaynat (sorry if I misspelled it!) is super efficient and sweet❤️",
+   "owner_reply": "Thank you so much for taking your time to review us. We are glad you liked us. Hope to see you again ❤️"
+  },
+  {
+   "author": "Tasheni Sasanka",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Had an amazing experience today! Roma did a fantastic job with my keratin treatment—my hair feels silky and smooth. Annie was so gentle and precise with my gel nails, they look absolutely perfect! Also, the Rose , Cynthia and Simran havegave me at the end was such a sweet touch. The whole experience was relaxing and professional. Highly recommend!\" 💖🫂",
+   "owner_reply": null
+  },
+  {
+   "author": "Sutasinee Kesungnoen",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I’m absolutely in love with my nails! Thank you to Kainat for making me so happy — she is truly professional. I showed her a reference, and she recreated it exactly the way I wanted. All the staff were very kind and welcoming. I will definitely come back again for sure. Thank you!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jennie Veronika",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Today was the first time visiting this cute all pink saloon located in Al Barsha, I parked inside the building itself (on the back of the building). I got an appointment same day, and ended up doing both my nails (french extension) and pedicure with gel. I am super happy with the result and the lady’s name was Kaimat, she was fairly fast and very detailed oriented and asked me a couple of times if i wanted something to drink etc 💓🌸 Very sweet girl. The lady who did my pedicure was Mona, also very happy with my result. Very resonable priced.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nikta Zamani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I went to the salon today for a manicure, pedicure, and gel refill. The atmosphere is super welcoming, and Cynthia and Mainardi were professional, skilled, and very gentle. I will definitely come back. I highly recommend it and can’t wait to return!",
+   "owner_reply": "Dear Ms. Nikta,<br><br>Thank you for taking time to leave a review and for your feedback. it was a pleasure serving you and we look forward to serving you you again.<br><br>Thank you,<br>Beauty By Bella Team<br><br>"
+  },
+  {
+   "author": "Liss Gwinnett",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I have been going to the salon since May / June I think.\nI genuinely love going here, I look forward to my pamper days. my nails by Kayanat are always immaculate and perfect, my gel pedicure is always amazing, my feet have never felt so smooth.\n\nBeko does my lashes and I will only have her, she is perfect. Always listens to what I like/want and the results are PERFECT 🤍🤍",
+   "owner_reply": "Dear Ms. Liss,<br><br>Thank you for taking time to write a review and for visiting our salon. It was a pleasure serving you. We appreciate your feedback as it helps us improve and motivates us and we will definitely look into the points mentioned. All our utensils are sterilized before use, we also use the manicure tray for easy access during service. Once again thank you, we hope to serve you again in the nearest future.<br><br>Warm Regards,<br>Beauty By Bella Team"
+  },
+  {
+   "author": "Naomi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "simran was amazing! she did my lashes and i’m in love with them 💗staff was super sweet and welcoming. they reply quickly and it was easy talking with them. 🌸",
+   "owner_reply": "Thank you so much for the lovely review madam.  We are so glad you are satisfied and happy with our service.  Do visit us again. 🩷"
+  },
+  {
+   "author": "Jasmine G",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful manicure experience at this salon! The space is spotless, creating a relaxing and hygienic atmosphere. The staff is incredibly welcoming and Bella, the owner is friendly and takes the time to ensure every client has a great experience. Highly recommend!",
+   "owner_reply": "Dear Ms. Jasmine,<br><br>Thank you for taking time to write such a beautiful review about our salon. It is our pleasure to provide exceptional services and we are glad that it was up to your satisfaction. We hope that you visit us again <br><br>Warm Regards,<br>Beauty By Bella Team"
+  },
+  {
+   "author": "Sujata Rai",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "I recently got my nails done by the amazing Ms. Anne and Ms. Kinath, and I couldn't be happier! They did a fantastic job, and I absolutely love how my nails turned out.\n\nThe shape and color are perfect, and the shiny finish is just what I wanted.\n\nWhat impressed me the most was how they managed to complete everything in such a short amount of time without compromising on quality.\nTheir attention to detail and professionalism really stood out.\nThank you, Ms. Anne and Ms. Kinath, for making my nails look fabulous! I'll definitely be returning for my next appointment.",
+   "owner_reply": "Thank you for your kind words we hope to see you soon 💕"
+  },
+  {
+   "author": "kavyasree kolapalli",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is my first time getting nail extensions in this salon and I will certainly go back. Kainat is soo good at what she does, I showed her a reference picture and she exactly did as shown in the picture. I am very happy with how my nails looked right after.",
+   "owner_reply": "Dear Ms. Kavyasree,<br><br>Thank you for your positive feedback, we truly appreciate you and look forward to serving you again.<br><br>Warm Regards,<br>Beauty By Bella Team"
+  },
+  {
+   "author": "Полина Курцева",
+   "rating": 2,
+   "when": "a year ago",
+   "text": "I’ve visited this salon once for lash extensions. Full set was done for 45 minutes, what I really like, it also looks so nice till I found my lashes are damaged by using wrong technique of extension. She didn’t separate my lashes and just put big chunks randomly without caring what will happen in few weeks.\nOn pictures you can see what amount of my lashes I lost and quality of extension 🤷‍♀️",
+   "owner_reply": null
+  },
+  {
+   "author": "Jess Santiago",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "great service and great work! i was not expecting anything since it was cheap but it feels like i paid 500 AED for what I received 🤩\n\nstaffs are very meticulous and I love their work. they even have complimentary foot scrub and foot spa for gelish pedicure. anne pays so much attention to your nails recommends what she thinks is the best for you. thanks to anne and kainat!\n\nowner is so lovely and welcoming! everyone just checks on you from time to time to make sure you're having a great experience.\n\ni'll definitely come back. this is my new go-to nail salon in barsha 🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "Jasmine Panganiban",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is my first time in this salon and I will certainly go back. Kaina is soooo good at what she does, very nice lady, and would make you feel really comfortable. Cannot wait for my next visit as I am very happy with how my nails looked right after.",
+   "owner_reply": "Dear Ms. Jasmine,<br><br>Thank you for your positive feedback and for visiting. We appreciate and look forward to serving you again.<br><br>Warm Regards,<br>Beauty By Bella Salon"
+  },
+  {
+   "author": "Racheal Oyenuga",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "What a transformation! My nails went from bare to breathtaking—thanks to Kainat’s magic touch. They look healthy, polished, and so well cared for. I couldn’t stop staring!\n\nMy hair? A dream. Cynthia and Hannah took down my braids and Hannah styled my natural hair quickly, yet so beautifully, shiny, clean, and full of life.\n\nRose at the reception was the cherry on top, so calm, welcoming, and thorough. She made the whole process seamless, from booking to final touches.\n\nThe best part? All three services were done in under 2 hours! Highly recommend Beauty by Bella. Splendid job, ladies!",
+   "owner_reply": "Dear Ms. Racheal,<br><br>Thank you for taking time to give a detail review about your experience with us. The ladies are very glad to know that you are happy with their services and this motivates them to be at their best. We appreciate you and thank you for visiting. See you soon.<br><br>Warm Regards,<br>Beauty By Bella Team"
+  },
+  {
+   "author": "Bronwen Otter",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The saddest part of leaving the UAE is not being able to get my nails done by Annie anymore. Truly the best nail tech I have been to in my 4 years of living in Dubai, she is a magician and she is so kind ❤️👌🏼 will mis her a lot✨💗",
+   "owner_reply": "Thank you for leaving us a review. We and Annie will also miss you a lot madam , hope to see you again whenever you visit madam. Have a safe flight and good luck for your journey ❤️❤️"
+  },
+  {
+   "author": "mai mhana2222",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Loved my experience here! Mary was so professional, sweet, and friendly. The owner was also very kind and welcoming. I’ll definitely come back again 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Vanessa Bothrel",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had excellent service in the salon from the moment I entered. I did nail extensions with Anna, and she was incredible with me! My nails were wonderful, delicate, beautiful and perfect. I will definitely come back to do more things in this salon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Persie G",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Great Manicure and pedicure done for me today, the ladies are so kind and genuinely helpful.  Thank you Ann, Kunait and Rubby! Highly recommended to anyone looking for a clean and friendly saloon. Thank you Ranibel for maintaining such high quality standards. I will definitely come back!",
+   "owner_reply": "Dear Persie,<br>It was definitely a pleasure to have you do your manicure and pedicure with us and we are glad to learn that our service was up to you standard. Thank you for leaving a positive feedback, we look forward to your visit again.<br><br>warm regards,<br>Ladoll Team"
+  },
+  {
+   "author": "Golden Shesking",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Anne did my mani and pedi…. I loved it  and her banana cake was delicious. very patient and  pays attention to details, She’s a master nail tech and I recommend you ask for her on your next  appointment",
+   "owner_reply": null
+  },
+  {
+   "author": "Nondumiso Yende - Butsana",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a great experience at the salon. Rose and Mary are simply the best. Ladies Mary’s are magic for braids! Thank you for your great service.",
+   "owner_reply": "Thank you so much for your review madam.  We are delighted to serve you and so glad you are happy. Hope to see you again "
+  },
+  {
+   "author": "A K",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "It was amazing experience\nWith nail extensions and color with ms.Anne\nAlso I had make wave hair with madam Fawzia it was really nice experience and will have it it every month,\nI recommend to do your nails with professional staff and hair stylist 🥰🥰🥰",
+   "owner_reply": "We are glad you had a good experience we hope to see you back soon 💕"
+  },
+  {
+   "author": "Gaia Carrara",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Kaimat did a wonderful job with my nails! 💅😍 look how beautiful they are. Thank you again girls for your amazing service",
+   "owner_reply": "Dear Ms. Gaia,<br><br>We appreciate you for visiting and it was a pleasure serving you. See you soon.<br><br>Thanks and Warm Regards,<br>Beauty By Bella Team"
+  },
+  {
+   "author": "Mera Osama",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Kinat is super talented  . She is very cute , polite  and She  did my nails quickly wihtin 1 hour  salon is very clean .\nThis the first time and not the  last",
+   "owner_reply": null
+  },
+  {
+   "author": "Shikky Ann John",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I had my russian nail extension done by Kainat - she’s really good and give you the perfect nails consistently. The salon is also pretty in pink and quite neat. ♥️",
+   "owner_reply": "Dear Ms. Shikky,<br><br>Thank you for leaving a review, we are glad to know that you liked our service. We hope to serve you again in the nearest future.<br><br>Warm Regards,<br>Beauty By Bella Team"
+  },
+  {
+   "author": "Nazira A",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Thank you Anne for your customer care and quality work! I will definitely come back to you again and again . I will recommend you to my friends.🥰\n\nThank you to your Boss for her hospitality, for suggesting shades of nail polish, she is very friendly, I liked her very much for her warm welcome and for her beautiful smile.❤️\n\nAnd thanks you Kainat for the gorgeous pedicure. I am very satisfied with everything and will recommend your salon to everyone. 🙏",
+   "owner_reply": null
+  },
+  {
+   "author": "Alisha Coelho",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience at this ladies’ salon! From the moment I stepped in, I felt welcomed and taken care of. The reception staff, especially Rose, was so warm and professional—she greeted me with a smile and made sure my appointment was perfectly organized.\n\nCynthia, the nail technician, did a fantastic job with my nails. She paid great attention to detail, took her time to make sure everything was perfect, and was so friendly throughout the process.\n\nRoma, the hair stylist, was incredible. She listened carefully to what I wanted and gave me the perfect cut and style. I walked out of the salon feeling confident and so happy with how my hair looked!",
+   "owner_reply": null
+  },
+  {
+   "author": "Eva shahwan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Amazing work with nails and lashes. I did my nail extensions with Muna and she is wonderful. Her work is very clean and precise, she cleans every cuticle. The salon overall is amazing with good prices. I would recommend everyone to come nail extensions here.",
+   "owner_reply": "Thank you for your kind words we are happy you are pleased with your visit see you soon 💕"
+  },
+  {
+   "author": "Megan Osterloh",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "My lashes look beautiful thanks to Simran. She is clean, patient, gentle and very sweet. Thank you for a welcoming experience!",
+   "owner_reply": "Dear Megan,<br><br>Thank you for leaving a positive review. We are glad to know that our service was up to your expectation and hope to serve you in the nearest future.<br><br>Thank you,<br>Ladoll Team"
+  },
+  {
+   "author": "Cristina",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Can highly recommend Ladoll! Ms. Anne advised me on which type of polish best suits my nails and paid great attention to detail. Thank you very much!",
+   "owner_reply": "Dear Cristina,<br><br>We are very delighted to receive you positive feedback about our service and staff. It was a pleasure for us to serve you and we look forward to see you again. Thank you so much.<br><br>Warm regards,<br>Ladoll Team"
+  },
+  {
+   "author": "michelle awad",
+   "rating": 2,
+   "when": "2 years ago",
+   "text": "I visited this salon first time and I enjoyed my experience there and what I did is gelish hands feet, brow lamination and a hair cut! Since the gelish lasted for 2 weeks, I decided to visit again! However the second time I chose the red gelish color! 2 days later it came all off without even trying to remove the gelish! I sent them a message right away, they didn't reply! Now after one week they replied and said: mam you should inform us within 2 days! Yes that's what I did! Noting that I paid 150 aed for a gelish I won't come again. Ah and they still didn't reply",
+   "owner_reply": null
+  },
+  {
+   "author": "Diya Jacob",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I got my nails done by Kaynath, and I honestly have to say this is the best set I’ve ever gotten! I absolutely love my nails — the attention to detail, the precision, and the overall quality are just perfect. The service was amazing from start to finish, and Kaynath made the whole experience so comfortable and enjoyable. Highly recommend this place and definitely coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Joudy Alshikh",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I had a very nice experience. The stuff was very nice with me and their work is very nice. Thanks for kainat. She is professional In nails . and Simran for the lash extension, they are very nice and I will always ask for this two names there",
+   "owner_reply": "Dear Joudy,<br><br>Thank you for your positive feedback. We hope to see you again and sooner 💕"
+  },
+  {
+   "author": "Jackie Sheryn",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Amazing service! I did my lash extensions for the first time there and absolutely loved it! Simeon did a wonderful job and will sure to be back! Thank you 💗",
+   "owner_reply": null
+  },
+  {
+   "author": "Laure Doukmaji",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I have been going to this salon for more than a year, and they are really good. Last time, I had nail extensions done by Anna. She is so good and kind.",
+   "owner_reply": "Thank you for your kind words we hope to see you soon 💕"
+  },
+  {
+   "author": "Irene Ogutu",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Simian did my eyelashes and eyebrow lamination and I was very happy with how they both turned out. I definitely recommend 10 out 10. Kainth did my pedicure and service was amazing. Annie did my gel nail extensions and I can’t stop looking at them. If you need your hair braided please ask for Cynthia she did an amazing job on me.",
+   "owner_reply": "Dear Ms. Maurine,<br><br>Thank you for taking time to give a detail feedback of your experience. It is our pleasure to provide our clients with the best possible experience, and we are glad that you are happy with the services. We hope to see you soon.<br><br>Warm Regards,<br>Beauty By Bella Team"
+  },
+  {
+   "author": "HESSA Abdullah",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Anne is amazing she’s the most professional nail tech I’ve seen she really did a great job with my nails she did exactly like what I showed her this salon so lucky to have her",
+   "owner_reply": null
+  },
+  {
+   "author": "Sheena Pearl Perez",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience with Cynthia for my nail extension! She was incredibly professional, attentive, and took the time to understand exactly what I wanted. The nails turned out stunning—beautifully shaped, perfectly applied, and with a flawless finish. I’ll definitely be returning for my next appointment!",
+   "owner_reply": null
+  },
+  {
+   "author": "زينب المظرب",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I loved the nails and I come to them every time and I do my nail with Cynthia she are perfect 🩷",
+   "owner_reply": "Dear ms. زينب المظرب,<br><br>Thank you for visiting and for leaving a positive feedback. We appreciate you.<br><br>Warm Regards,<br>Beauty By Bella Team"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1366
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1597
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1282
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1593
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1278
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1284
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1258
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1596
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1437,
+    1312
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1359
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    1263,
+    1263
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    494,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    437,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    416,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    426,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    512,
+    219
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    512,
+    416
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://linktr.ee/beautybybellasalon",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/beauty-by-bella-salon/",
+ "buy_likelihood": 8
+}

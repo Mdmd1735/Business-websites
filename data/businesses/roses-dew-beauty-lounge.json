@@ -1,0 +1,712 @@
+{
+ "slug": "roses-dew-beauty-lounge",
+ "name": "Smitha's Roses Dew Beauty Lounge Al Nahda",
+ "place_id": "ChIJ08PJWvtdXz4RldfPk4H69kw",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Nahda, Sharjah",
+ "address": "Hay Al Nahda - Al Qusais Industrial Area - Sharjah - United Arab Emirates",
+ "building": "Al Yarmook C",
+ "location": {
+  "lat": 25.3026235,
+  "lng": 55.3842945
+ },
+ "phone": "+971 6 561 9690",
+ "rating": 4.6,
+ "userRatingCount": 849,
+ "rating_distribution": {
+  "oneStar": 62,
+  "twoStar": 7,
+  "threeStar": 6,
+  "fourStar": 52,
+  "fiveStar": 722
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Smitha's%20Roses%20Dew%20Beauty%20Lounge%20Al%20Nahda&query_place_id=ChIJ08PJWvtdXz4RldfPk4H69kw",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Roses Dew Ladies Saloon is a high-end beauty and wellness establishment located in the heart of the city. We pride ourselves on providing an exceptional and luxurious experience to our valued clientele. With a team of highly skilled and trained professionals, we offer a wide range of services including hair styling, makeup application, nail care, and spa treatments.\n\nAt Roses Dew, we understand the importance of personal care and beauty enhancement for women. Our vision is to empower and uplift women by enhancing their natural beauty and boosting their self-confidence. We believe that every woman deserves to be pampered and to feel beautiful inside and out.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "hair coloring",
+  "botox treatment",
+  "hair protein treatment",
+  "threading",
+  "balayage",
+  "olaplex treatment",
+  "hair spa",
+  "anti frizz treatment",
+  "cooperative staff",
+  "dandruff treatment"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.72,
+ "reviews": [
+  {
+   "author": "Thyia Colt",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Sisam did my gel nail art SOOO beautifully. She was super patient even though I had some shaky hands she did and awesome job. The photos speak for themselves. Sisam also had very good attention to detail as the inspo pics I showed her had a different design for each nail and she did all of them perfectly.\n\nI highly recommend sisam and roses dew for their great service.",
+   "owner_reply": "Thank you so much, Thyia, for your wonderful review. We’re thrilled Sisam delivered beautiful gel nail art and was patient while working with you. It means a lot that she matched each inspo design and that the photos speak for themselves. We appreciate your recommendation and look forward to welcoming you back to Roses Dew.<br><br>Roses Dew "
+  },
+  {
+   "author": "Anmol Saxena",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I’d heard so many good things about Aarti, and now I completely understand why people love getting their hair done by her! ❤️\n\nShe did my root touch-up and haircut, and not only did she fix a previous touch-up done poorly by another salon, but she also made sure everything was done while keeping my time constraints in mind. She was professional, attentive and genuinely caring throughout the appointment. You can tell she really values her clients and wants them to leave happy, not just with great hair but with the knowledge of how to look after it too. She even shared some really helpful tips on maintaining my hair’s shine!\n\nIt’s rare to find someone who combines skill, care and such a thoughtful approach to their work. I’m so glad I finally got my hair done by Aarti. Highly recommend her if you’re looking for someone who genuinely knows her craft!",
+   "owner_reply": null
+  },
+  {
+   "author": "ADITHYA Premkumar",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a wonderful experience at RosesDew Salon.Especially thanks to Gisilla for providing the best service and she was incredibly friendly and professional. I got a haircut and hair treatment, and I'm extremely happy with the results. My hair feels so much smoother, healthier, and much easier to manage.",
+   "owner_reply": "Thank you for the wonderful 5-star review, Adithya. We're delighted Gisilla provided friendly, professional care and that your haircut and treatment left your hair smoother and easier to manage. Your feedback means a lot to our team. We look forward to welcoming you back to RosesDew Salon.<br><br>Roses Dew "
+  },
+  {
+   "author": "abhirami AbhiZ",
+   "rating": 1,
+   "when": "6 months ago",
+   "text": "I had the Nanopalstia treatment at Roses Dew Salon Al Nahda and my experience has been extremely disappointing. Just one week after the service, my hair is severely dry, damaged, and in the worst condition it has ever been. *My hair has started to curl unnaturally and feels very dry*, rough, brittle, and completely unhealthy — which is the opposite of what a Nanopalstia treatment is supposed to deliver.\n\nI paid 750 AED for the service, expecting professional results and proper aftercare. On top of that, I purchased their recommended shampoo and conditioner at the salon, hoping it would help maintain the treatment. Instead, it made the situation worse — my hair feels even drier and more unmanageable since using those products.\n\nThe staff member who attended to me was polite and professional, so I want to acknowledge that. However, the overall quality of the service, the treatment outcome, and the products provided were far below acceptable standards.\n\nI chose this salon because of its reputation and because I genuinely believed it would be a safe and reliable choice. Unfortunately, I cannot recommend Roses Dew Salon Al Nahda based on my experience, and I will not be returning unless there are significant improvements in their service and quality control. _Please don’t go here if you value your hair._\n\nI hope the management reviews this feedback seriously and takes steps to address the issue.",
+   "owner_reply": null
+  },
+  {
+   "author": "Selveena Dcruz",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had a really wonderful experience at Roses Dew Al Nahda branches today! This was my first time visiting the salon, so I was a little nervous about whether I would get the result I wanted. But Anjali was absolutely amazing! She was very friendly, warm and easy to talk to, and she understood exactly what I wanted. I had a haircut, balayage, hair mask and blow-dry done, and everything was done so neatly and professionally. She paid attention to every detail and made sure I was happy with the result. I have visited many salons before, but honestly, this was one of the best experiences I’ve had. I’m extremely happy with the service and definitely recommend Anjali and Roses Dew to anyone looking for a friendly and professional salon experience. ❤️✨",
+   "owner_reply": "Thank you so much for your wonderful review, Selveena. We’re delighted Anjali made your first visit comfortable and that you loved the haircut, balayage, hair mask and blow-dry. We will share your kind words with Anjali and the team. Your recommendation means a lot to us and we look forward to welcoming you back to Roses Dew Al Nahda.<br><br>Roses Dew "
+  },
+  {
+   "author": "Harsha Yogesh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Absolutely loved my cat-eye French nails at Roses Dew by Sisam Rai! ✨ Beautiful work, great attention to detail, and a flawless finish. Highly recommend for stunning, long-lasting nails! 💅💕",
+   "owner_reply": "Thank you so much, Harsha! We’re thrilled you loved your cat-eye French nails and appreciate your kind words about Sisam Rai’s attention to detail and flawless finish. Your recommendation means a lot to our team, and we look forward to welcoming you back for more stunning, long-lasting nails.<br><br>Roses Dew "
+  },
+  {
+   "author": "Shravya S",
+   "rating": 5,
+   "when": "Edited 2 weeks ago",
+   "text": "Absolutely loved my gel nail polish done by Sisam at Rose Dew, Al Nahda branch ! 💅🏻✨ It’s been three weeks and my nails still look beautiful and well-done. Sisam did an amazing job and paid great attention to detail. Really happy with the service and the lasting quality.",
+   "owner_reply": null
+  },
+  {
+   "author": "Anushka Deepak",
+   "rating": 5,
+   "when": "Edited 2 weeks ago",
+   "text": "I had an excellent experience at Roses Dew Salon, thanks to Ms. Gisilla. She was professional, friendly, and made me feel comfortable throughout my appointment. She listened carefully to what I wanted, paid great attention to detail, and delivered amazing results. Her skill, patience, and caring attitude truly made the experience special. I left the salon feeling very happy with the service. Thank you, Ms. Gisilla, for your outstanding work. I highly recommend her to anyone looking for exceptional salon service.",
+   "owner_reply": "Thank you, Anushka, for your wonderful review and for recognizing Ms. Gisilla’s professionalism and care. We are delighted she made your visit comfortable and delivered results you love. We will share your kind words with Gisilla and the team. We look forward to welcoming you back to Roses Dew Salon.<br><br>Roses Dew "
+  },
+  {
+   "author": "Grace Philip",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I had hair Botox treatment at Roses Dew, and I’m very happy with the experience. The place was lovely, the staff were friendly and professional, and the service was excellent. A special thanks to Jissa for providing such a wonderful service. I’m very satisfied with the results and would definitely recommend Roses Dew to others!",
+   "owner_reply": "Thank you for the lovely review, Grace. We are so pleased you enjoyed your hair Botox treatment and found our team friendly and professional. We will pass your special thanks to Jissa, and we appreciate your recommendation.<br><br>Roses Dew "
+  },
+  {
+   "author": "Adithy B.R",
+   "rating": 5,
+   "when": "Edited a month ago",
+   "text": "Aarti, I absolutely love her haircuts! She has been cutting my hair for over a year now, and I’ve always loved the results—it’s amazing every single time. Definitely check her out! She gives the best advice on hair treatments and how to take care of your hair, especially if it’s coloured. Highly recommend her! ❤️",
+   "owner_reply": "Thank you, Adithy, for the wonderful review. We are delighted Aarti’s haircuts and advice for coloured hair have been consistently excellent. Your recommendation means a lot, and we look forward to welcoming you again.<br><br>Roses Dew "
+  },
+  {
+   "author": "muhsi aries",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had a great time with Miss Atheera (Hair stylist)and Miss Sanseen\n\n⭐⭐⭐⭐⭐\n\n“Absolutely loved my hair transformation! 💕 The stylist did an amazing job with the haircut and styling. My hair looks so beautiful, smooth, voluminous, and perfectly styled. They were professional, patient, and really understood the look I wanted. I’m extremely happy with the final result and would definitely recommend this stylist to anyone looking for a great hair makeover. Thank you so much! ❤️✨”",
+   "owner_reply": "Thank you so much for your glowing review, muhsi aries. We are delighted Miss Atheera and Miss Sanseen created a look you love and appreciate your kind words about their professionalism and attention. Your recommendation means a great deal to us, and we look forward to welcoming you back soon.<br><br>Roses Dew "
+  },
+  {
+   "author": "swetha baburaj",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Really happy with my experience ❤️ Loved the facial, hair styling, and threading. Everything was done with care and attention to detail. The staff were friendly, and the service was excellent. Definitely recommend this salon!",
+   "owner_reply": null
+  },
+  {
+   "author": "Tissy Thomas",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I have been coming to Roses Dew Salon for a long time, and Arthi has always been amazing with both my daughter and me. ❤️ She has such a magical touch when it comes to haircuts! ✨ She understands exactly what suits us and always gives the perfect haircut.\n\nThank you, Arthi, for your wonderful magical touch and for always taking such good care of us! 🌸 Highly recommended! ❤️",
+   "owner_reply": "Thank you so much, Tissy, for your kind words and for being a loyal client of Roses Dew Salon. We’re thrilled Arthi consistently gives you and your daughter perfect haircuts and takes such great care of you. We will be sure to share your lovely feedback with Arthi—she will be delighted. We appreciate your recommendation and look forward to seeing you both again.<br><br>Roses Dew "
+  },
+  {
+   "author": "Athulya Mathew",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had a great haircut at Roses Dew with Aarthi! It was my first time with her, and she understood exactly what I wanted and did an amazing job. I’m really happy with the haircut and the overall service. Aarthi was friendly and professional. Highly recommend her! ✨",
+   "owner_reply": "Thank you, Athulya Mathew. We are so pleased Aarthi captured exactly what you wanted and that you enjoyed the service. Your recommendation means a lot to us. We look forward to seeing you again.<br><br>Roses Dew "
+  },
+  {
+   "author": "Meera Kareem",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a wonderful experience at this salon. Gizella did an amazing job with my haircut and hair coloring. She listened carefully to what I wanted and gave me exactly the look I was hoping for. The color turned out beautiful, and the haircut suits me perfectly. She was professional, friendly, and made me feel comfortable throughout the appointment. Highly recommend her services. Thank you for the excellent work",
+   "owner_reply": "Thank you, Meera, for your wonderful review. We’re delighted Gizella listened closely and delivered the haircut and color you were hoping for — we’ll be sure to share your kind words with her. We appreciate your recommendation and look forward to welcoming you back.<br><br>Roses Dew "
+  },
+  {
+   "author": "Veena Hemanth",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I’m so happy with my new look! I visited Rosedew today for a chocolate brown balayage with highlights and a haircut, and the results exceeded my expectations. A heartfelt thank you to Ms. Anjali for her amazing work. She understood exactly what I wanted and transformed my hair beautifully. The color blend is perfect, the haircut suits me so well, and the overall experience was fantastic. Highly recommended!",
+   "owner_reply": "Thank you, Veena, for your wonderful review. We’re delighted your chocolate brown balayage, highlights, and haircut exceeded expectations. Ms. Anjali and the team will be thrilled to know you appreciated her work and the overall experience. We look forward to welcoming you back for your next visit.<br><br>Roses Dew "
+  },
+  {
+   "author": "Arfeena",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had a great experience with Aarti yesterday🥰 She gave me a haircut that perfectly suits my face shape and added beautiful volume to my hair. I’m really happy with the service and loved how the haircut turned out. Aarti was professional, understood exactly what I wanted, and did an amazing job. Highly recommend her!",
+   "owner_reply": "Thank you so much, Arfeena, for your wonderful review. We’re delighted Aarti gave you a haircut that suits your face shape and added the volume you wanted. She’ll be thrilled to hear you appreciated her professionalism and care. We appreciate your recommendation and look forward to welcoming you back.<br><br>Roses Dew "
+  },
+  {
+   "author": "Liji Kollara Francis",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Today, I done my hair treatment and face treatment. Both are wanderful. Good service. Charu was assisted me her approach was very professional. Excellent service. Thank you Rose's Dew",
+   "owner_reply": "Thank you, Liji, for your wonderful review. We are so pleased the hair and face treatments met your expectations and that Charu’s professional care stood out. Your kind words mean a lot to the Rose's Dew team and we look forward to seeing you again.<br><br>Roses Dew "
+  },
+  {
+   "author": "iswarya .m",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a wonderful experience at Roses Dew Al Nahda branch.  I got balayage (chocolate brown )and I’m extremely happy with the results. The balayage looks beautiful, soft, and natural, and the hair mask left my hair feeling smooth, healthy, and refreshed. The staff were very professional, friendly, and attentive. Thank you Aarti for the wonderful service . I’m really happy with the overall service and would definitely recommend this parlor and Aarti ! ❤️",
+   "owner_reply": "Thank you so much, Iswarya, for your wonderful 5-star review. We’re delighted that you’re happy with your chocolate brown balayage and the hair mask, and we will pass on your compliments to Aarti and the team. It’s wonderful to hear the service felt professional, friendly, and attentive. We appreciate your recommendation and look forward to welcoming you back to Roses Dew Al Nahda.<br><br>Roses Dew "
+  },
+  {
+   "author": "Shree J",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Had a very refreshing experience at the Smitha's Roses salon, Al Nahda branch.\nHair colouring by Aarathi was done beautifully. she was professional, attentive, and made sure the colour suited me perfectly.\nThe O3 facial by Athulya was extremely relaxing and left my skin feeling fresh, glowing, and rejuvenated.\nOverall, a wonderful experience with great service. Highly recommended! ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Jasmine Freeda",
+   "rating": 2,
+   "when": "3 weeks ago",
+   "text": "Really appreciate the care and attention given by sisam and she did well for protein hair treatment. ​I had a disappointing experience on prices in this salon. Their Instagram advertisement said “Any length & thickness AED 399 only,” and they confirmed AED 399 when I messaged them. But when I visited on 09 October, they added extra charges because my hair is frizzy, making the price AED 399 and AED 250, totaling AED 649. Price in advertising was AED 399 and they confirmed AED 399 through message, but when I visited, they told me a total of AED 649. If prices depend on hair type, this should be clearly informed before the visit. This felt misleading and was a bad first experience.",
+   "owner_reply": "Thank you, Jasmine. We are delighted to hear everything went smoothly for you. Your positive note brightens our team’s day and motivates us to keep delivering great experiences.<br><br>Roses Dew "
+  },
+  {
+   "author": "Josline Nannu",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I did my hair treatment ( Tanino plastia) in roses dew al nadha branch ,special thanks to Arya my stylist ,she was amazing and highly professional. she checked my hair condition first and suggest the right treatment for me,from the moment I walked in the staff greet me nicely and the all staffs are very friendly highly recommended 😍😍\n\nThanks to Smitha ma'am and the whole staffs in alnadha branch ....🥰😍",
+   "owner_reply": "Thank you so much for your wonderful 5-star review, Josline. We’re thrilled Arya provided a professional consultation and treatment, and that Smitha ma'am and the entire Al Nadha team made you feel so welcome. Your recommendation means a lot to us. We look forward to welcoming you back soon.<br><br>Roses Dew "
+  },
+  {
+   "author": "Sruthi Krishna",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had a wonderful experience with Gisilla. She did an amazing job with both my hair colouring and pedicure service. The hair colour turned out exactly the way I wanted, and the pedicure was very relaxing and professionally done. She was friendly, skilled, and attentive throughout the entire service. I’m very satisfied with both services and would highly recommend her to anyone looking for excellent beauty care.",
+   "owner_reply": "Thank you so much for your wonderful review, Sruthi. We’re delighted to hear Gisilla delivered the exact hair color you wanted and provided a relaxing, professional pedicure. I will pass your kind words along to her—she’ll be thrilled to know you appreciated her skill and attentiveness. We appreciate your recommendation and look forward to welcoming you back.<br><br>Roses Dew "
+  },
+  {
+   "author": "Madhumidha Rajamanoharan",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Aarti was very good and perfect for my haircut. She cut the exact same length how I wanted and gave a beautiful look. Very satisfied with my look and haircut. Very happy coming here. It's my first time trying out this salon and very satisfied.",
+   "owner_reply": "Thank you Madhumidha for your lovely review. We are thrilled Aarti delivered the exact length and look you wanted on your first visit. Your happiness means a great deal to our team. We appreciate you choosing us and look forward to welcoming you again.<br><br>Roses Dew "
+  },
+  {
+   "author": "Sneha Vaisakh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Had a wonderful experience with Gissila. She was very professional, understood exactly what I wanted, and did an amazing job with my hair. I absolutely loved the final result. Highly recommend her for anyone looking for a talented and skilled hairdresser ✨❤️",
+   "owner_reply": "Thank you so much for your wonderful review, Sneha. We’re thrilled Gissila understood your vision and delivered results you loved. Your recommendation means a lot to our team. We look forward to welcoming you back.<br><br>Roses Dew "
+  },
+  {
+   "author": "Nissyann Jacob",
+   "rating": 5,
+   "when": "Edited 3 weeks ago",
+   "text": "I had a wonderful experience at the salon. Aarthi did an amazing job with my haircut and Olaplex treatment—she was professional, skilled, and made me feel completely at ease. Athulya was equally excellent; she shaped my eyebrows perfectly and did a fantastic protein treatment. Both of them were attentive, friendly, and highly talented. I’m very happy with the results and would definitely recommend them!",
+   "owner_reply": "Thank you so much for sharing your experience, Nissyann. We’re thrilled Aarthi and Athulya provided such attentive and skilled service with your haircut, Olaplex and protein treatments, and eyebrow shaping. We will pass along your kind words to them. We appreciate your recommendation and look forward to welcoming you back.<br><br>Roses Dew "
+  },
+  {
+   "author": "Nina Kj",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "Extremely disappointed with the service and staff attitude. It felt like only celebrity or influencer clients receive proper attention, while regular paying customers are treated as if they don’t matter. Every customer deserves the same level of respect and professionalism regardless of their social status. Unfortunately, my experience was far from welcoming, and I left feeling undervalued and ignored. I hope management takes customer service seriously and treats all clients equally.”",
+   "owner_reply": null
+  },
+  {
+   "author": "Minu Rose",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "Extremely disappointing experience. After coloring my hair, it looks like it has been bleached. They never asked me whether I wanted bleach or not, so I’m not even sure if they actually colored my hair. It looks exactly like bleach.\n👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "wilsy william",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Really happy with my anti-frizz treatment! ✨ My hair feels smooth, soft and much more manageable. A special thanks to Aarti for her wonderful service and attention. Highly recommended! ❤️",
+   "owner_reply": "Thank you so much for the glowing review, Wilsy. We are thrilled the anti-frizz treatment left your hair smooth, soft and more manageable. We will share your kind words with Aarti. Your recommendation means a great deal and we look forward to welcoming you back.<br><br>Roses Dew "
+  },
+  {
+   "author": "Sreelakshmi Shibu",
+   "rating": 4,
+   "when": "a month ago",
+   "text": "Aarti did an amazing job with my haircut! I’m a regular customer, and this is honestly the best haircut I’ve ever had. She understood exactly what I wanted and did it perfectly. Highly recommend Aarti! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Marium Fahad",
+   "rating": 5,
+   "when": "Edited 3 months ago",
+   "text": "Thankyou Smitha you did a great job. My daughter and I like the haircut. I know the boy cut is so difficult but u cut it so calmly and great...",
+   "owner_reply": "Thank you so much for the wonderful review, Marium. We're thrilled Aarti and the team provided excellent service and that you enjoyed the atmosphere. We appreciate your kind words and look forward to serving you again.<br><br>Roses Dew "
+  },
+  {
+   "author": "Silpa Unni AP",
+   "rating": 1,
+   "when": "11 months ago",
+   "text": "Very Disappointing Botox Treatment\n\nI did a hair Botox treatment on October 16. Within the first two weeks, some of my hair started going back to curls, and instead of getting smooth and shiny results, my hair looked damaged and lifeless.\n\nEven after one month, my hair only started returning to its normal state on its own. The results were nowhere near what they claimed, and the entire experience left me very unhappy.\n\nThey also pressured me to buy their products like shampoo, hair mask, and even a face mask. The way they insisted was extremely uncomfortable. Honestly, it was a very terrible experience.\n\nI will not recommend the Sharjah Al Nahda Rose’s Dew salon to anyone. And dont trust any discounts.",
+   "owner_reply": null
+  },
+  {
+   "author": "sabbu thapa",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Amazing hair work , did mt balayge hair and curtin bangs . Loved it ... ❤️❤️❤️ i will visit her again and again no doubt",
+   "owner_reply": "We are so glad you loved the balayage and curtain bangs, Sabbu Thapa. Your kind words and those hearts mean a lot to our team. We appreciate your trust and are excited to welcome you back again and again.<br><br>Roses Dew "
+  },
+  {
+   "author": "Nandini viswam",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "A huge thank you to Ghisilla for my beautiful new hairstyle! From the consultation to the final look, everything was perfect. She truly knows her craft and made me feel so comfortable. I love the result and will definitely be back!✨💇‍♀️💕",
+   "owner_reply": "Thank you so much, Nandini, for your wonderful review! We're thrilled Ghisilla provided a comfortable consultation and a hairstyle you love. She’ll be delighted to hear your praise. We look forward to welcoming you back soon.<br><br>Roses Dew "
+  },
+  {
+   "author": "kesia kuriakose",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had an amazing experience with Soumya.She did my hair color, haircut, and anti-frizz treatment, Her professionalism and attention to detail made the whole experience enjoyable. I highly recommend Soumya to anyone looking for a talented and caring hairstylist. Thank you for making me love my hair",
+   "owner_reply": "Thank you so much for the wonderful review, Kesia. We’re thrilled Soumya’s professionalism and attention to detail made your color, cut, and anti-frizz treatment such a positive experience. Your recommendation means a lot to us, and we’re delighted you love your hair. We look forward to welcoming you back soon.<br><br>Roses Dew "
+  },
+  {
+   "author": "sandra susan varghese",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had my hair colored by Aarathi, and I absolutely love the results! She took the time to understand exactly what I wanted and recommended a shade that suited me perfectly. The color came out even better than I expected, and my hair still feels healthy and soft.",
+   "owner_reply": "Thank you for your wonderful review, Sandra. We’re delighted Aarathi understood your vision and that the color exceeded your expectations while keeping your hair healthy and soft. We’ll be sure to pass your compliments along to her. We appreciate you choosing our salon and look forward to caring for your hair again.<br><br>Roses Dew "
+  },
+  {
+   "author": "Manisha Vg",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Today i did my all beauty services from your al nhda sharjha branch , sharnya did my all services, she is so nice and good lovely ,and the salon maintance is very well and atmosphere so nice ♥️🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "poornendhu r muraly",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Aarti did the anti frizz treatment for my hair. She has done it very professionally and I felt relaxing and calm. I would recommend her and Roses Dew to everyone.",
+   "owner_reply": "Thank you, Poornendhu. We're so glad Aarti's anti frizz treatment left you feeling relaxed and calm. Your recommendation means a lot, and we will share your kind words with Aarti and the Roses Dew team. We look forward to your next visit.<br><br>Roses Dew "
+  },
+  {
+   "author": "Golda Ronney",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Excellent service and a great experience overall! I had a spa, hair colour, and clean-up done, and everything was handled professionally. Special thanks to Arya and Sharanya for their amazing work and warm hospitality. Highly recommended! ⭐⭐⭐⭐⭐",
+   "owner_reply": "Thank you, Golda, for the wonderful five-star review. We’re delighted you enjoyed the spa, hair colour, and clean-up, and that Arya and Sharanya made your visit so warm and professional. We’ll be sure to pass along your kind words to them. We truly appreciate your recommendation and look forward to welcoming you back.<br><br>Roses Dew "
+  },
+  {
+   "author": "Yasmin Smrity",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "**⭐☆☆☆☆ Extremely Disappointing Experience**\nI went for a protein treatment and the service was a complete disaster. My scalp got burnt during the process, and the staff were very unprofessional and rude. Most of them don’t even understand English or Hindi, making communication extremely difficult.\n\nThe salon didn’t even have basic amenities like drinking water. The advertised price was AED399, but they added hidden charges and the final bill came to AED550. They also pressured me to buy their shampoos and other hair products, and when I refused, they behaved badly and made unpleasant faces.\n\nOverall, a terrible experience untrained staff, poor customer service, and misleading pricing. I’ll never visit this place again and don’t recommend it.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    540,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1207
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    520,
+    1152
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    478,
+    850
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    1079,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    421,
+    599
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1440
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    402,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    345,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/roses-dew-beauty-lounge/",
+ "buy_likelihood": 8
+}

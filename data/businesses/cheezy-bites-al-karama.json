@@ -1,0 +1,2060 @@
+{
+ "slug": "cheezy-bites-al-karama",
+ "name": "CHEEZY BITES|Al KARAMA",
+ "place_id": "ChIJk8yKhclDXz4RPY3c8GSlvLc",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Al Karama, Dubai",
+ "address": "Era Building - 2 4A St - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.253095,
+  "lng": 55.305557
+ },
+ "phone": "+971 54 266 9524",
+ "rating": 4.8,
+ "userRatingCount": 898,
+ "rating_distribution": {
+  "oneStar": 17,
+  "twoStar": 7,
+  "threeStar": 11,
+  "fourStar": 77,
+  "fiveStar": 786
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=CHEEZY%20BITES%7CAl%20KARAMA&query_place_id=ChIJk8yKhclDXz4RPY3c8GSlvLc",
+ "website": "https://www.instagram.com/",
+ "categories": [
+  "Pakistani restaurant",
+  "Chinese restaurant",
+  "Fast food restaurant",
+  "Hamburger restaurant",
+  "Indian restaurant",
+  "Pizza restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "Open 24 hours"
+  }
+ ],
+ "owner_description": "Cheezy Bites is a Pakistani restaurant in Al Karama, Dubai, serving authentic Pakistani food alongside a selection of pizzas, burgers and Chinese favourites. Our Pakistani menu includes biryani, karahi, handi, nihari, paya, haleem, BBQ, Pakistani breakfast, naan, chicken curries, daal, rice dishes, Anda Shami Burger and our signature Pakistani Pitta Shawarma. Located in Al Karama near BurJuman, Cheezy Bites is ideal for breakfast, lunch, dinner, dine-in, takeaway and delivery. We focus on freshly prepared food, generous portions and authentic Pakistani flavours for families and food lovers across Karama and Bur Dubai!!!",
+ "amenities": {
+  "Service options": [
+   {
+    "Outdoor seating": true
+   },
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Drive-through": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Assisted listening devices": true
+   },
+   {
+    "Assistive hearing loop": true
+   },
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Happy hour food": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Organic dishes": true
+   },
+   {
+    "Private dining room": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegan options": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Counter service": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Trendy": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Groups": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   },
+   {
+    "High chairs": true
+   },
+   {
+    "Kids' menu": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "shawarma",
+  "tawa chicken",
+  "shami burger",
+  "pakistani food",
+  "cheezy bites",
+  "chapli kabab",
+  "loaded fries",
+  "biryani",
+  "lahori chargha",
+  "mota chawal"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 4,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 6
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 7
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 7
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 8
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 9
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 8
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 11
+   }
+  ]
+ },
+ "owner_reply_rate": 0.12,
+ "reviews": [
+  {
+   "author": "Farooq Chattha",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Had a great experience at Cheezy Bites in Karama! The food was fresh, cheesy (as the name promises 😄), and full of flavor. The portions were generous and totally worth the price. Service was quick and friendly, and the staff made us feel welcome.\n\nPerfect spot if you’re craving comfort food like loaded fries, burgers, or anything cheesy. Will definitely be coming back!”",
+   "owner_reply": null
+  },
+  {
+   "author": "Wakezone LLC",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I had a great experience at Cheezy Bites! The food was fresh, tasty, and served quickly. The staff were friendly and welcoming, and the place was clean and comfortable. Definitely a good spot if you're craving cheesy snacks and quick bites. I’ll be coming back again!",
+   "owner_reply": "Thank you for such a great review. We will look forward to host you again."
+  },
+  {
+   "author": "Abdul Rehman Ghayas",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Great food, especially the Cheese Sticks, Pizza, Shami Kabab Burger, and Shawarma Platter absolutely loved them! The service was also very nice and welcoming.",
+   "owner_reply": null
+  },
+  {
+   "author": "Husnain Rizvi",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "We really enjoyed the food, it's delicious, tasty and fresh.\nStrongly recommended because economic food price with best service\nBehavior of staff is so professional and excellent.\nAdvice for restaurant: keep extra tissues in the table which help to not call for service",
+   "owner_reply": null
+  },
+  {
+   "author": "mak tradelink",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I recently had one of the best meals I’ve ever experienced. Everything was spot on from the presentation to the taste. The food was fresh, full of flavor, and clearly made with care. Every bite felt balanced and satisfying, and you could tell quality ingredients were used.\n\nWhat really stood out was how consistent everything was. The main dish was excellent, and even the sides were just as impressive. The service added to the experience, making it even more enjoyable.\n\nHonestly, this is the kind of place you remember and want to come back to. Highly recommended for anyone who truly enjoys good food.",
+   "owner_reply": "Thank you so much for your wonderful review! We’re truly delighted to hear that every aspect of your experience from the food and presentation to the service met your expectations. Our team puts great care into ensuring consistency and quality<br><br>We can’t wait to welcome you back for another memorable meal :-)"
+  },
+  {
+   "author": "Basit Ellahi",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Amazing food and a very friendly atmosphere! The service was excellent, and Muheeb was especially impressive. He was very active, attentive, and constantly checking on each table to make sure every customer was well taken care of.\n\nGreat food, great service, and a welcoming atmosphere. Highly recommended! ⭐⭐⭐⭐⭐",
+   "owner_reply": null
+  },
+  {
+   "author": "Kashaf Umar",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Visited cheezy bite restaurant in Karama it was 10/10 – super tasty junk food, delicious desi food with amazing quality! 🍔🥤\nThe staff is very cooperative and friendly, and the prices are totally budget-friendly — highly recommended! 🙌💯",
+   "owner_reply": null
+  },
+  {
+   "author": "Waqas Jamil",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Very Nice Experience special thanks to Mr. Imtiaz, and Mr Zafar . They will remind you Pakistan try there Shawarma and Burger Plus Tawa Chicken",
+   "owner_reply": "Thank you Mr Waqas, we are glad you enjoyed the food."
+  },
+  {
+   "author": "Joanne Simbulan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "4th time here at Cheezybites! Our go-to shawarma loaded fries😋😋 Mutton was very tender and we love it. We also had the shawarma, very yummy but it would be better if it’s more spicy! 🌶️ Will always come back at cheezy bites",
+   "owner_reply": null
+  },
+  {
+   "author": "Hannah Maddocks",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Lovely atmosphere and delicious food! There is a large choice on the menu so it's perfect for families and friends, we tried pizza, shawarma, lasagne and garlic bread and all the food was well flavoured and tasty. Very impressed and would highly recommend 😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Emmie Gresola",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Today was my first visit, and I can't help but share how incredible the experience was! 🎉 I’m already looking forward to becoming a regular at this fantastic restaurant. The ambiance is inviting, and the staff are truly wonderful—especially Sakita, who made our visit even more special. 🥰 We indulged in their Chicken Shawarma, Lahori Chargha, and an Avocado Shake, and let me tell you, each dish was a delight! If you haven't tried it yet, you're missing out! 😉",
+   "owner_reply": null
+  },
+  {
+   "author": "Areesha",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Friendly and welcoming staff, good ambiance. Love the bun kabab and chicken shawarma fries. Excellent service. Shagun was so sweet and helpful. Can’t wait to visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Dr A Rahman Khan",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Cheezy bites Restaurant near BurJuman Exit is one of the best places for loaded Pakistani and Indian dishes. The food is rich in flavor, generously portioned, and truly satisfying. The staff are extremely friendly, polite, and welcoming, which makes the dining experience even better. Highly recommended for anyone craving authentic desi food.",
+   "owner_reply": null
+  },
+  {
+   "author": "My Google",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "From USA, I heard a lot of good things about this place. Their swarma chicken wrap was soo good!! Also the service is like nowhere else. There was something else I was also in the mood to eat and it wasnt even in the menu and they made it! Top 5 best food place i have been in Dubai",
+   "owner_reply": null
+  },
+  {
+   "author": "Dr. Imran Shaikh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great Service. Their Bun Kabab is authentic and spicy. The Tandoori Chicken Hot Pizza was excellent and the Shawarma was made spicy as it should be. All in all, I feel like I've had one of the best street foods.",
+   "owner_reply": null
+  },
+  {
+   "author": "kaamini singh",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had a fantastic experience at Cheesy Bite restaurant. The food was absolutely delicious and every dish was so flavorful. The ambiance was great and the place was clean and welcoming. The best part was the staff—they were all very polite and attentive. Especially Januka, who provided exceptional service—she took care of us so well. I highly recommend Cheesy Bite for amazing food and top-notch service! ⭐⭐⭐⭐⭐",
+   "owner_reply": null
+  },
+  {
+   "author": "Sheetal Gaikwad",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "It was a wonderful experience. I ordered garlic bread. Chicken cheese naan n chicken shawarma cheesy fires. The food was absolutely delicious. However the chicken shawarma cheesy fries just had 3 small pieces of chicken. Little expensive. Food quality is good and the staff is very kind.",
+   "owner_reply": "<br>Thank you for your feedback. We’ll definitely take note of the portion size for the Chicken Shawarma Cheesy Fries and see how we can improve it to ensure better value for our customers.<br>Your input is invaluable in helping us refine our offerings. We appreciate your visit and hope to serve you again soon!<br>"
+  },
+  {
+   "author": "Von Du30",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I think this is a newly opened restaurant in the neighborhood. Was craving for burgers so we decided to come here and try.\n\nWe had some pasta, shawarma, burgers and loaded fries. My most favorite is the loaded fries! The best! Superb! The pasta was good too.. although they needed to calm down on the peppercorns on the pasta. I believe I tasted way too much pepper on the pasta- but the food was still super good regardless! 👌🏻\n\nWe weren't able to try the burger and shawarma yet because we were already full from the loaded fries and pasta so we had it for take away and eat tomorrow at work! 😄\n\nThe staff were amazing although I feel like they are in a rush or something. But understandable cause they're a bit busy during my visit. Very friendly and accommodating on the other hand. Thanks!\n\nPlace was amazing. Clean and tidy! Super love the ambiance as it feels cozy and elegant. Love the wooden chairs and table and the walls! Although I feel the area is a bit too tight? Nonetheless very nice ambiance as it was super clean!\n\nI recommend visiting and will definitely come again soon!\n\nThank you!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Saqib Abbas",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I dined in cheezy bites, great atmosphere, delicious food, and the service is v good. U have to wait a bit longer due to plenty of orders but it's worth due to food taste. I tried chargha which is superb. Mr. Sajid gave the best service there.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rajiv Das",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "One of the best spots for fusion food all in one place! If you’re craving different flavors together—shawarma, pizza, tawa chicken and many more dishes—this restaurant is a perfect choice.\n\nThe food is fresh, tasty, and full of flavor. What I like most is that you don’t have to visit multiple places; everything is available here, making it great for families and friends with different cravings. The shawarma is juicy, the pizza is well-baked, and the tawa chicken is rich in spices.\n\nService is quick, prices are reasonable, and the overall vibe is very welcoming. Definitely a place I would recommend if you want variety and good taste at the same time.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sidra Ashraf",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Pure taste and flavor. hygienically so good and friendly. Sargun service and guest attendance is superb. Highly recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Zohaib Malik",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Great Ambiance, Great Taste, Great Staff.\nAll in All Good and too Good.\nMust Visit. Fully 200% Recommended.\nBest services by staff *Shagun*",
+   "owner_reply": null
+  },
+  {
+   "author": "Buntastic",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I came here for breakfast, and later the same day I also got dinner here. The Pakistani breakfast was very tasty, and so was the alfredo pasta. Would definitely recommend, this place is affordable but serves great food.",
+   "owner_reply": null
+  },
+  {
+   "author": "Zakir Chougle",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "One of the best restaurants in Karama. This was a hidden gem, how did I missed it! I loved their chicken pasta, chissy bites special pizza, and tawa chicken. Service is good and prompt. Sure will visit again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alberto",
+   "rating": 4,
+   "when": "8 months ago",
+   "text": "The shawarma was juicy, fresh, and full of flavor, and the masala French fries were really nice and tasty. The packaging was neat and well done.\n\nThe Chicken Handi was rich, well-spiced, and perfectly cooked.. Staff behavior was very pleasing and friendly.\n\nOverall, great food with good quality and service. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Diba Alizai",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The food was absolutely delicious and full of flavor. Every dish was fresh, well presented, and clearly made with care. The service was also excellent — warm, attentive, and professional throughout the experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdullah Jatt",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I tried the Pakistani shawarma at Cheesy Bites in Al Karama and it was amazing! The shawarma was very flavorful with the perfect mix of spicy sauces and juicy chicken. I really liked the addition of fries inside the wrap which made it even better. Definitely one of the best Pakistani-style shawarmas I’ve had in Dubai. Highly recommended!",
+   "owner_reply": "Thank you for the review Abdullah. Pakistani Shawarma is surely one of the best product of Cheezy Bites. Hope to serve you again soon :-)"
+  },
+  {
+   "author": "Saad Abdullah",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Great service by Zeshan 👍\nVery good food. We ordered burgers, pizza, and tawa chicken — it truly took us back to Pakistan with its authentic Pakistani taste and flavors.",
+   "owner_reply": null
+  },
+  {
+   "author": "Zaheer Abbas",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "It's was my 1st visit and experience was great.  Awesome food chicken karahi and Pakistani shawarma was outstanding highly recommend service was also awesome thank you cheezy bites guys keep it's. Up!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Lee Piper",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Ehtisham was a great server! We had a great time as he was very attentive, friendly and always smiling. Food was amazing and the place is buzzing! We will definitely come back! Great experience at Cheesy Bites ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Bazil Sjd",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The service we received was absolutely outstanding! We indulged in the shawarma platter, crown pizza, and loaded fries, and they were all incredibly delicious. And the drinks were simply amazing.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vishal Ainsley Fit",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "First time visit here it’s was first impression was the last impression ambience was good soft music clean we order food it was delicious too even the portion was good as per price waitress Shagun was friendly and good soft spoken good customer service even the manager Mr Zafar follow up for our food and dining experience over all our dinner night was excellent regarding food and service it will be on my list of favorite restaurant now highly recommend all to come and visit for delicious food and service shout out to all teams of cheezy bites🥰🥰🧘🏻‍♂️💪🙏",
+   "owner_reply": null
+  },
+  {
+   "author": "honey qureshi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "our  experience at cheezy bites was amazing\nEvery food we ordered had its own unique flavor reminding of Pakistan and childhood memories\nThe hospitality of  Mr.Sajid was really amazing\nWhat ever he suggested was really good",
+   "owner_reply": null
+  },
+  {
+   "author": "SCHIZO Prenny",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "The quality of food is exceptional. The service of the crew members cannot be that usual accommodating kind of service.\n\nUpdate: this is our 2nd time, the food is still unlike any others, not generic tastes. They served us cheesy bites special pizza and cheesy chicken pasta but the cheesy part is only mozarella. I'm expecting cheese taste than cream and aesthetics of mozarella strands.",
+   "owner_reply": null
+  },
+  {
+   "author": "Hennah by Sana",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I tried their shawarma, loaded fries and pizza. It was so delicious\nAlso the staff was so good\nTotally recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "i_am_ pia",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "We recently visited Cheezy Bites and tried their Chapli Kabab, Shawarma, and Mango Smoothie. Here’s how it went:\n\nChapli Kabab: The Chapli Kabab was full of flavor with a perfect blend of spices. The texture was just right—crispy on the outside, tender on the inside. It had an authentic taste.\n\nShawarma: The Shawarma was juicy and packed with ingredients. The meat was flavorful, and the sauces added a nice tang.\n\nMango Smoothie: The Mango Smoothie was refreshing, thick, and just the right level of sweetness. It paired well with the spicy dishes and was a perfect way to finish off the meal.\n\nOverall, Cheezy Bites offers great comfort food at reasonable prices, with the Chapli Kabab being the highlight for me. Definitely worth trying if you’re in the mood for flavorful bites!",
+   "owner_reply": null
+  },
+  {
+   "author": "Azeem Butt",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Best pakistani food with orignal pakistani taste.\n\nMuheeb the gentleman very humble and polite with good service",
+   "owner_reply": null
+  },
+  {
+   "author": "Paulito Paulino",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Hotel level vibes area was very clean and food was Superb. Mr Sajid Ali was very excellent with customer service and friendly as well... Looking forward to try their other menu 👌",
+   "owner_reply": null
+  },
+  {
+   "author": "Radha Kaushik",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The food was absolutely delicious, and the service was excellent. Zeeshan provided a very professional and attentive experience, serving the food exactly according to our preferences and requirements.",
+   "owner_reply": null
+  },
+  {
+   "author": "fathima s",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "A must try spot. They serve some amazing shami burger, loaded shawerma fries, pasta, and garlic bread. Loved the food and ambience.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1131
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1425,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1448,
+    1086
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1428,
+    1071
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1431
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1466,
+    1073
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1448,
+    1086
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1408,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1448,
+    1086
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    1181,
+    864
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    512,
+    458
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    411,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    398,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    377,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    401,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 77,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/cheezy-bites-al-karama/",
+ "buy_likelihood": 8
+}

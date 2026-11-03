@@ -1,0 +1,36 @@
+{
+ "preset": "spice-ember",
+ "theme": {"accent": "#E07A2E", "accent_text": "#F59A50", "bg": "#0E1418", "surface": "#141C21", "surface_2": "#1C262C", "duo": "#173A55", "busy": "#9C4B17", "glow": "rgba(30,96,150,.28)", "band_bg": "#F3EEE6", "band_accent": "#1F5F8B", "frame": "square"},
+ "extra_css": ".ticker{background:#1F5F8B;color:#fff}.sec--alt{background-image:radial-gradient(circle at 20% 0,rgba(31,95,139,.18),transparent 60%)}",
+ "brand": {"name": "Al Damyati", "sub": "Grills · Al Barsha", "mark": "D", "footer_word": "Al Damyati"},
+ "seo": {"title": "Al Damyati Restaurant Al Barsha | Egyptian Grills, Hummus & Lamb Chops, 24 Hours", "description": "Al Damyati, Al Barsha 1: 50+ years of grills, hummus and falafel. Lamb chops AED 60 a plate, mixed grills from AED 35, complimentary soup, salad and bread. Open 24 hours. 4.7 from 519 reviews."},
+ "hero": {"variant": "stack", "ar_name": "مطعم الدمياطي", "kicker": "Al Barsha 1 · Open 24 hours", "title_lines": ["Fifty years of", "grills, hummus", "and falafel."],
+   "lede": "Charcoal lamb chops, kebabs and mixed grills, with hot bread, hummus, lentil soup and salad on the table before you've ordered. Open around the clock in Al Barsha.",
+   "image": "img/hero.jpg", "image_alt": "Kofta and kebab platter with grilled bread, hummus and salad", "secondary": {"label": "Grill menu", "href": "#menu"}},
+ "cta_label": "Order on WhatsApp", "cta_text": "Hi Al Damyati, I'd like to order.",
+ "proof_note": "Complimentary soup, salad & tea",
+ "address_lines": ["Al Damyati Plus Restaurant", "Al Barsha 1, Dubai"],
+ "ticker": ["Lamb chops", "Kebab", "Arayes", "Hummus", "Falafel", "Lentil soup", "Mixed grill", "Open 24 hours"],
+ "sections": [
+  {"type": "menu", "id": "menu", "nav": "Menu", "eyebrow": "Grills · المشاوي", "title": "Our best sellers,", "title_dim": "off the charcoal.",
+   "categories": [
+    {"name": "Best sellers", "items": [{"name": "Lamb chops", "desc": "Four juicy Australian lamb chops with hummus and bread", "price": "AED 60"}, {"name": "Lamb chops by the kilo", "desc": "1 kg feeds 2 to 3 adults, say regulars", "price": "AED 230"}, {"name": "Lamb kebab", "desc": "4 skewers of minced Australian lamb", "price": "AED 35"}, {"name": "Lamb arayes", "desc": "Crispy bread stuffed with minced meat, grilled on charcoal", "price": "AED 35"}, {"name": "Lamb tikka", "desc": "Lamb cubes with hummus and bread", "price": "AED 40"}]},
+    {"name": "Platters", "items": [{"name": "Mix grill plate", "desc": "With hummus and bread", "price": "AED 35"}, {"name": "Al Damyati mix grill", "desc": "With hummus and bread", "price": "AED 50"}, {"name": "Al Damyati mix grill with chops", "desc": "With hummus and bread", "price": "AED 55"}]}
+   ],
+   "note": "From the restaurant's grill menu. Every table gets complimentary bread, hummus, salad and lentil soup."},
+  {"type": "services", "id": "table", "nav": "The table", "eyebrow": "What arrives first", "title": "Sit down, and the table", "title_dim": "fills up on its own.",
+   "items": [
+    {"name": "Lamb chops", "feature": true, "img": "img/chops.jpg", "alt": "Lamb chops with hummus, salad and bread", "desc": "Mentioned in 14 of our last 40 reviews.", "quote": "The lamb chops were tasty, juicy and charred. Exactly like how they should be.", "cite": "Amaad, Google review"},
+    {"name": "Complimentary soup & salad", "img": "img/hummus.jpg", "alt": "Hummus, bread and salad", "desc": "Lentil soup, hummus, salad and hot bread with every meal."},
+    {"name": "Falafel", "img": "img/falafel.jpg", "alt": "Crispy falafel balls", "desc": "Egyptian-style, green inside."},
+    {"name": "Mixed grill", "img": "img/grill.jpg", "alt": "Grilled chicken with green chillies", "desc": "Chicken, kofta and chops for the table."},
+    {"name": "Afghan dishes", "img": "img/feast.jpg", "alt": "Rice, curry and grills spread on a table", "desc": "Kabuli pulao and karahi for those who know."}
+   ],
+   "perks": ["Open 24 hours", "Dine-in, takeaway & delivery", "Breakfast", "Wheelchair accessible", "Cards & Apple Pay"]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Al Damyati Plus storefront by day"}, {"src": "img/night.jpg", "alt": "Al Damyati Plus at night", "wide": true}, {"src": "img/kebab.jpg", "alt": "Kebab skewers on sesame bread"}, {"src": "img/arches.jpg", "alt": "Arched family seating booths", "wide": true}, {"src": "img/mezze.jpg", "alt": "Mezze platter with tabbouleh"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "order", "eyebrow": "Order", "title": "Feeding a group?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I pre-order lamb chops by the kilo?", "Do you deliver to my area?", "Do you have family seating tonight?", "What's in the Al Damyati mix grill?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Barsha 1,", "title_dim": "open all night."}
+ ]
+}

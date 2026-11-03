@@ -1,0 +1,220 @@
+{
+ "preset": "pet-sky",
+ "theme": {
+  "accent": "#1D3FBF",
+  "accent_text": "#1A39AD",
+  "surface_2": "#FFF1A8",
+  "duo": "#FFE26A",
+  "busy": "#1D3FBF",
+  "glow": "rgba(255,212,0,.35)",
+  "band_bg": "#13235E",
+  "band_accent": "#FFD400",
+  "bg": "#FFFCF2",
+  "hero_ratio": "3/4",
+  "slab_o": "1",
+  "frame": "round"
+ },
+ "extra_css": ".hero-split .hero__slab{background:#FFD400}.ticker{background:#FFD400;color:#13235E}",
+ "brand": {
+  "name": "Ambi",
+  "sub": "Fitness Club · Al Qusais",
+  "mark": "A",
+  "footer_word": "AMBI"
+ },
+ "seo": {
+  "title": "Ambi Fitness Club | 24-Hour Gym in Al Qusais, Dubai, from AED 199",
+  "description": "Women-owned 24-hour gym in Al Qusais: personal training, Zumba, CrossFit sessions, kids' aerobics and diet plans. Memberships from AED 199. 4.9 from 292 Google reviews."
+ },
+ "hero": {
+  "variant": "split",
+  "kicker": "Damascus Street · Al Qusais",
+  "title_lines": [
+   "It's never",
+   "too late",
+   "to train."
+  ],
+  "lede": "A women-owned, 24-hour gym founded by trainer Ambika Suneesh. Personal training, Zumba, CrossFit sessions, kids' aerobics and diet plans, with memberships starting from AED 199.",
+  "image": "img/logo-wall.jpg",
+  "image_alt": "The Ambi Fitness Club logo on the yellow gym wall",
+  "secondary": {
+   "label": "What we offer",
+   "href": "#offer"
+  }
+ },
+ "cta_label": "Join from AED 199",
+ "cta_text": "Hi Ambi Fitness Club, I'd like to join. What's included from AED 199?",
+ "proof_note": "Every review gets a reply",
+ "ticker": [
+  "Weight loss",
+  "Weight gain",
+  "Body building",
+  "Kids aerobics",
+  "CrossFit sessions",
+  "Zumba",
+  "Personal training"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "offer",
+   "nav": "What we offer",
+   "eyebrow": "What we offer",
+   "title": "Whatever your goal,",
+   "title_dim": "there's a plan and a trainer for it.",
+   "items": [
+    {
+     "name": "Weight loss",
+     "img": "img/cardio.jpg",
+     "alt": "Cardio bikes and treadmills beside a mural",
+     "desc": "Training plus a diet plan.",
+     "quote": "I was 109 kg. With personal training and the diet plan, I reduced 5 kg in just one month.",
+     "cite": "Mintu A., Google review"
+    },
+    {
+     "name": "Personal training",
+     "img": "img/floor.jpg",
+     "alt": "Cable machine and weight stack on the gym floor",
+     "desc": "One-to-one sessions with Ambika and the team, including support for back pain.",
+     "tag": "Most booked"
+    },
+    {
+     "name": "Body building & weight gain",
+     "img": "img/weights.jpg",
+     "alt": "Barbell and dumbbell rack in front of a mirror",
+     "desc": "Free weights, racks and machines for building size and strength."
+    },
+    {
+     "name": "Zumba",
+     "desc": "High-energy classes members call a big plus for fun cardio."
+    },
+    {
+     "name": "CrossFit sessions",
+     "desc": "Coached circuits for conditioning and strength."
+    },
+    {
+     "name": "Kids aerobics",
+     "desc": "Active classes for children, plus child care on site.",
+     "price": "Memberships from AED 199"
+    }
+   ],
+   "perks": [
+    "Open 24 hours, Mon–Sat",
+    "Women-owned",
+    "Child care",
+    "On-site parking",
+    "Free Wi-Fi",
+    "Cards & Apple Pay"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Plan your session",
+   "title": "Open all night.",
+   "title_dim": "Quietest late morning."
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Trainers",
+   "eyebrow": "The trainers",
+   "title": "Founded and coached",
+   "title_dim": "by Ambika Suneesh.",
+   "items": [
+    {
+     "name": "Ambika Suneesh",
+     "short": "Ambika",
+     "count": 12,
+     "role": "Founder & head trainer",
+     "quote": "She has given me hope to get rid of the sciatica and back pain. With only 3 sessions I feel much better.",
+     "cite": "Sanya H."
+    },
+    {
+     "name": "Ziyan",
+     "count": 6,
+     "role": "Trainer",
+     "quote": "Their personalized training sessions were instrumental in helping me achieve my fitness goals.",
+     "cite": "Rahul M."
+    },
+    {
+     "name": "Sarath",
+     "count": 5,
+     "role": "Trainer",
+     "quote": "An exceptional trainer. His knowledge and dedication stand out.",
+     "cite": "Sajila T."
+    },
+    {
+     "name": "Akhil",
+     "role": "Trainer"
+    },
+    {
+     "name": "Sunil",
+     "role": "Trainer"
+    },
+    {
+     "name": "Prajul",
+     "role": "Trainer"
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/team.jpg",
+     "alt": "Ambi trainers and members posing together"
+    },
+    {
+     "src": "img/crew.jpg",
+     "alt": "Members smiling in front of the yellow wall",
+     "wide": true
+    },
+    {
+     "src": "img/wings.jpg",
+     "alt": "Painted angel wings photo wall"
+    },
+    {
+     "src": "img/brand.jpg",
+     "alt": "Ambi Fitness Club logo"
+    },
+    {
+     "src": "img/poster.jpg",
+     "alt": "Ambi poster: starting from 199 AED"
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "join",
+   "eyebrow": "Join Ambi",
+   "title": "Memberships from AED 199.",
+   "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": [
+    "What's included in the AED 199 membership?",
+    "What do personal training packages cost?",
+    "When are the Zumba classes?",
+    "Do you run kids' aerobics on weekends?"
+   ],
+   "quote": "I used to feel that the gym wasn't my thing at all. Joining Ambi Fitness Club completely changed my perspective.",
+   "cite": "Naseeba, Google review"
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Opposite Dubai Grand Hotel,",
+   "title_dim": "Damascus Street.",
+   "landmark": "Old Sunrise Supermarket building, Al Qusais"
+  }
+ ],
+ "address_lines": [
+  "Ambi Fitness Club, 1021 Damascus Street",
+  "Al Twar 5 (Al Qusais), Dubai"
+ ]
+}

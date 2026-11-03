@@ -1,0 +1,2377 @@
+{
+ "slug": "cake-bloom",
+ "name": "Cake Bloom",
+ "place_id": "ChIJNahX0E5rXz4R-AHRPHqPHcI",
+ "category": "bakery",
+ "category_weight": 9,
+ "area": "Jumeirah, Dubai",
+ "address": "Umm Suqeim 1, Jumeirah Road Next to Al Masraf Bank Jumeirah Branch - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.1649845,
+  "lng": 55.2117985
+ },
+ "phone": "+971 4 344 6786",
+ "rating": 4.7,
+ "userRatingCount": 759,
+ "rating_distribution": {
+  "oneStar": 33,
+  "twoStar": 9,
+  "threeStar": 18,
+  "fourStar": 62,
+  "fiveStar": 637
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Cake%20Bloom&query_place_id=ChIJNahX0E5rXz4R-AHRPHqPHcI",
+ "website": "https://www.instagram.com/cakebloomuae/?hl=en",
+ "categories": [
+  "Bakery"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 11 PM"
+  }
+ ],
+ "owner_description": "UAE’s first Korean cakery, CAKE BLOOM, will be the perfect addition to your celebration",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   }
+  ],
+  "Planning": [
+   {
+    "Quick visit": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   }
+  ]
+ },
+ "review_tags": [
+  "vanilla cake",
+  "cake design",
+  "cakes",
+  "cheesecake",
+  "korean cake",
+  "cute cakes",
+  "soft cake",
+  "strawberry cake",
+  "birthday cake",
+  "mini cakes"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 34
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 38
+   }
+  ]
+ },
+ "owner_reply_rate": 0.03,
+ "reviews": [
+  {
+   "author": "Céline M.",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Absolutely loved the cake! It was beautiful and honestly one of the best red velvet cakes I’ve ever had. There was a small issue with my order, but the team was incredibly responsive and fixed everything very quickly. Pick-up was also super smooth and efficient. Amazing cake and great service — I’ll definitely order again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Yasmin Salah",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I've been ordering from Cake Bloom for years, and they never disappoint. Their cakes always taste amazing, and the custom piping work is always so neat and exactly how I ask for it. They're super quick, the staff are always friendly and helpful, and the payment process is really easy. Definitely one of my go-to places for custom cakes in Dubai!",
+   "owner_reply": null
+  },
+  {
+   "author": "Irish Dacula",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "The cakes are beautifully presented with the cutest designs, and the shop itself is simply adorable! 😍 But it’s not just about the looks,  the cakes taste absolutely delicious too! 🧁❤️\n\nThank you, Bryan, for accommodating us. Definitely worth the stop before heading back to Abu Dhabi. We absolutely love this place! 😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Jeeval ShivaneGowda",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Ordered my birthday cake from here and it was delicious. I had the vanilla strawberry flavor. Overall the ordering process was quick and easy and the staff is good.",
+   "owner_reply": null
+  },
+  {
+   "author": "haniyeh fouladi",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "5/5 ⭐️⭐️⭐️⭐️⭐️\n\nWe were absolutely delighted with our order from Cake Bloom for my daughter’s birthday!\nThe cake was not only beautiful, but also delicious and fresh, and everything was prepared with great care and attention to detail.\n\nThe ordering process was smooth and easy, and the delivery was right on time. We really appreciated the excellent service and professionalism throughout the whole experience.\n\nThank you to the Cake Bloom team for making our celebration even more special. We will definitely be ordering from you again! 🌸",
+   "owner_reply": null
+  },
+  {
+   "author": "Chai Sam",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "The service was excellent, and the food was absolutely delicious. All the staff were very friendly, welcoming, and helpful.🫶🫶\n\nI visited your shop to celebrate my friend birthday, and I will definitely come back again for my own birthday. Thank you so much for making my friend birthday celebration so special. I truly appreciate the complimentary small cake and beautiful bloom. It was a wonderful surprise and made my friend day even more memorable.\n\nThank you to the entire team for your outstanding hospitality. I highly recommend this place!🫶❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Lauren",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "WOW WOW WOW! I am so so happy with my birthday cake from here. The service was outstanding, as was the look AND taste of the cake. Never had one so beautiful and tasty too. Worth every penny. The staff were so friendly and so patient with me. Thank you 💞",
+   "owner_reply": null
+  },
+  {
+   "author": "ta",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "My go to place to get cake. The first time I tried it, I was shocked with how good it was. I came in walk in and bought a cake, the pricing was reasonable and they offered to write something on it free of charge. It was so fresh and soft and the cream was the best part. I now order there whenever I have upcoming events such as birthdays and I am never disappointed by how good the cakes taste and how good the service is.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ria Vinuya",
+   "rating": 2,
+   "when": "4 years ago",
+   "text": "The taste of the cake is average. We ordered minimalist cake, a small one and the price was 75aed already. I don’t think the taste of the cake matches the price as you can find better cakes with lesser than 75aed.\nThe icing of the cake doesn’t have any taste and the bread more like just a sponge with no taste as well.\nThe concept was cute. Very simple and the staffs were nice though, apparently if you are looking for a cake just find somewhere else with better taste quality. This one will not satisfy you unless you like tasteless cakes.",
+   "owner_reply": null
+  },
+  {
+   "author": "Flugel 26 (Fuu)",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "I rarely do any reviews but because this place was really good, it made me feel to leave one.\n\nI visited the place at night with 2 friends and luckily there wasn't any customers so we had the place to ourselves. The shop has a really cute retro design that I really loved, simple in a good way and the retro feel of the old days had me thinking of nostalgic days. Staff was really friendly and accommodating that made our visit really satisfying. I recommend their Spanish latte if you have a sweet tooth as it was really satisfying.\n\nWhen we finished, we were treated to a shot of fresh aloe vera juice which was very refreshing, I highly recommend it!",
+   "owner_reply": null
+  },
+  {
+   "author": "Chelsea E",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "From the moment I walked in, I was charmed by the super cute ambiance , it’s like stepping into a pastel dream! Every little detail, from the decor to the cozy seating, is Instagram-worthy and radiates pure joy.\n\nThe staff were incredibly friendly and welcoming, making the whole experience feel extra special. You can tell they genuinely care about their customers and love what they do.\n\nAnd the cakes? Absolutely divine!\n\nWill definitely visit again",
+   "owner_reply": null
+  },
+  {
+   "author": "Yuna Jung",
+   "rating": 4,
+   "when": "4 years ago",
+   "text": "Recommend the place if you are looking for a customized cake shop. The taste of cake is light, soft and good. It is not too sweet which is really great. And the design of cakes are unique and cute. I'm not a big fan of sugar covered cakes so they were perfect to celebrate our special days.\nDelivery seems limited. This is the only reason I give 4 stars.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nawaal",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I love ordering mini cakes with custom designs from Cake Bloom, perfect for every occasion. Ordering via whatsapp is a smooth process, they pay attention to design requests and always complete my orders on time. Reliable, professional, and the cakes are delicious, never too sweet or heavy 🍰 Highly Recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "YEVHENIIA REHUSH",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The Korean concept of bento cakes and desserts is implemented perfectly. I was happy with my pudding cat, look how she shakes. The bento cake was not super sweet, you could really eat it yourself. But my boyfriend asking questions about the concept of Korean desserts and the staff couldn’t explain well why the bento cakes were small and what was included in them. Аlso the waitress's English was very basic.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nadia KS.",
+   "rating": 3,
+   "when": "4 years ago",
+   "text": "Was very excited for the Korean cakes but turns out it’s just some very simple sponge cake with cream and “fresh” strawberry, and the juice that strawberries contains was absorbed by the cream not the best tbh but they have some cute designs, and their coffee was okay. The shop’s interior looks nice and unique :). Overall was a bit let down on the cakes.",
+   "owner_reply": null
+  },
+  {
+   "author": "rina v",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I requested for a custom bento cake and they did it exactly the way I wanted. I highly recommend ordering their Tom and Jerry cheesecake. The staff and owner were nice and accommodating. They were also playing KPOP music. Price-wise, it’s worth what you pay for. I dont recommend coming in a large group as they have limited seats, will definitely come back here.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mia",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is my third time ordering a cake here.\nI wanted a nice one for a boat party.\n\nStaffs are nice and friendly.\nWhen I picked up the cake from the shop,\nThe staff assisted me to carry the cake to my car.\n\nI ordered a large size cake-vanilla with mixed fruits,decorated with nice lettering and pearls.\n\nThe cake is not only looking immaculate but tastes amazing. Everyone at the party asked me where I ordered it from. We were all happy about the cake including the birthday girl.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lea Descoutures",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of my friend recommended the place and o was not disapppinted! The whole process was so smooth, the team is super reactive, giving advice and came us with not one my a super beautiful cake for my son but it was also delicious!!\nThank you so much, so grateful to Cake Bloom for delivering an amazing service and beautiful cake!",
+   "owner_reply": null
+  },
+  {
+   "author": "Avani S",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Beautiful and cozy place for your celebrations..the staff was too good and the cakes are tasty and pretty at the same time❤️❤️loved the tom and jerry cake❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "ma. lilia liezle pilapil",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Cake Bloom UAE is an absolute gem! Their matcha is hands-down the best in Dubai — perfectly balanced, rich, and so comforting. I’ve tried matcha all over the city, and nothing comes close. Thank you Joey for making the best matcha.❤️\n\nAnd the cakes? Absolutely adorable and incredibly delicious! Every bite tastes as good as it looks. You can really feel the love and quality in everything they make.\n\nThe whole experience — from the flavors to the presentation to the warm atmosphere — is just perfect. Cake Bloom is officially one of my favorite spots in Dubai!",
+   "owner_reply": null
+  },
+  {
+   "author": "Fazil Omer",
+   "rating": 5,
+   "when": "Edited 5 years ago",
+   "text": "I don't know much about cake. But, Cake Bloom has served me freshly baked cake with real fruits stuffed in it. I think their flavors are Korean themed. They have authentic Korean drinks (non-alcoholic). They interior design is unique and you can have coffee with bite of a cake.",
+   "owner_reply": null
+  },
+  {
+   "author": "Monica Metry",
+   "rating": 4,
+   "when": "3 years ago",
+   "text": "First time trying Cake Bloom, a Korean concept in Dubai.\nFriendly & welcoming staff\nCute interiors\nGluten-free cakes that are surprisingly delicious and light on the stomach, aand fresh fruits  this experience made a difference.",
+   "owner_reply": null
+  },
+  {
+   "author": "Stella Yim",
+   "rating": 5,
+   "when": "Edited 9 months ago",
+   "text": "Following last year, we ordered a cake again for our child’s birthday.\nThis time we chose the vanilla strawberry flavor, and it was absolutely delicious.\nIt’s so great to be able to order with confidence every time\n\nI also had quite a lot of questions about the cake design and details, and I truly appreciate how kindly and patiently all of\nthe staff responded. Thank you so much to everyone on the customer service team.",
+   "owner_reply": null
+  },
+  {
+   "author": "Homemaker Diaries",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Went to have the viral tom and jerry cheese cake. Yes it was definitely worth it but too heavy on the pocket and I couldn't finish the whole thing by myself!",
+   "owner_reply": null
+  },
+  {
+   "author": "gwen",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Loved it!! 💛🩷🩵\n\nOrdered through their WhatsApp and everything went smoothly. They don’t do delivery for specific times (between 11am-5pm) so plan accordingly - this may be frustrating to some but you have to consider that they’re still a small business and Dubai is massive.\n\nCakes are Korean-style!! 🍰\nI’ll repeat that - they’re Korean-style! Which means that they’re simple in flavour, with a spongey inside and a lot of fresh cream (not buttercream!!) as Asians don’t like their cakes sweet like the West.\nThis type of cake will only cater to those who don’t like sweet cakes! I’ve tried a lot of cakes that are from Korean/Japanese/Chinese owned cafes and I assure you that most of them are made like this.\n\nAnywho, my bf loved the cake🥰\nOur first words on the cakes were\n“Wow so light and fluffy”\n“I love how it’s not too sweet”\n“Perfect size for the two of us”\n🥹🥹\n\n(Also credits to whoever made the cake design! I stole it haha)",
+   "owner_reply": "Thanks for your truthfully and sincerely review❤"
+  },
+  {
+   "author": "youssef ali",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I came to pick up a cake and was amazed by the amount of options available, i was greeted by Absar, she was very kind and she explained to me the different cakes and treats they had very patiently, and there was a lot of options",
+   "owner_reply": null
+  },
+  {
+   "author": "Nada J.",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Passed by to grab a ready-made bento cake. Since I couldn’t find a parking and was in a rush, the employee was nice enough to come to my car and show me a picture of their cake display after I called them. She was also very quick in adding the message on top so I appreciate the service!\n\nThe cake itself was surprisingly yummy as it had a nice cake to filling ratio. It was vanilla flavored and had berries in it which was nice.\n\nNote: parking is difficult as there’s only 2 spots in front of the shop and a bus stop, and the area is quite busy.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed Al Hammadi",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "First time trying Cake Bloom, a Korean concept in Dubai.\n\n1- Friendly & welcoming staff\n2- Pretty interiors\n3- Gluten-free cakes that are surprisingly delicious and light on the stomach, aaaand fresh fruits (strawberries) inside! As a person with a sweet tooth, I usually avoid such desserts with fruits chopped inside, however, this experience made a difference. 💫✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Anood Alketbi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The staff is always so friendly, welcoming, and helpful—it really makes a difference. On top of that, your cakes are absolutely delicious—truly the best I’ve ever had! It’s always a treat coming in, and I always leave with a smile (and something sweet). Keep up the amazing work!",
+   "owner_reply": null
+  },
+  {
+   "author": "LightOfHeaven",
+   "rating": 3,
+   "when": "3 years ago",
+   "text": "Staff very friendly, Cake very nice and cute taste is nice not amazing Price is very expensive for small cake i paid 80 dhs. the give us cookies very delicious and alo vera drink for free",
+   "owner_reply": null
+  },
+  {
+   "author": "Marwa Khost",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Cake Bloom offers a variety of tasty cakes, made with love and passion. You can pre-order two days in advance to get a customized 🍰! I truly loved the vibes at this place. You can also go to enjoy their coffee options and other drinks. Highly recommended! 감사합니다",
+   "owner_reply": null
+  },
+  {
+   "author": "Shams Dgh",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "One of my favorite places 🥰😍\nEverything is sooo delicious , the cakes are so fresh , A lot of choices actually, even for the drinks 😋\n+ you can take a great photos there .\nThe staff is so friendly\nAnd of course the owner of the place is the sweetest 💜💜 she’s so kind.",
+   "owner_reply": null
+  },
+  {
+   "author": "Abeer Alhashmi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Perfect Cakes, and it was a huge hit! Everyone who tried it couldn’t stop complimenting the taste. The cake has a perfect balance of flavors—moist and light, without being overly sweet. The sugar level is just right, unlike many traditional cakes that can be too sugary or heavy. I’m definitely ordering again for future occasions!",
+   "owner_reply": null
+  },
+  {
+   "author": "Hany Rahahleh (‫هاني رحاحلة‬‎)",
+   "rating": 4,
+   "when": "5 years ago",
+   "text": "I did have my birthday in this place. Staff is helpful, drinks & cake were very good. On the other hand, the prices are little expensive especially the cake!\n\nI recommend this place for a special occasions only.",
+   "owner_reply": null
+  },
+  {
+   "author": "Yosra Gamal",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "I am not lying when i say they have the best cakes. Personally i don’t even like cakes but the cakes here were so fluffy, soft, light and very delicious especially the vanilla with strawberry slices. The interior is very pretty and unique, i like the aesthetic of the restaurant from the outside and inside. 10/10",
+   "owner_reply": null
+  },
+  {
+   "author": "Kitty 16v Cat",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Fantastic cakes! Creamy and not too sweet. My father used to make the EXACT same vanilla cake with the fruit inside for our birthdays as a young one. I have never compared a cake to his, so that's saying something!\nThe bonus is gluten free! At last someone knows what they are doing with the ingredients! My hats off to your beautiful cute little establishment!\nAlso, it happened to be my niece's birthday and they gave her a little face mask for a pamper. What a lovely gesture! The owner was soooo kind and sweet and not to mention the staff too! Thank you, thank you💝",
+   "owner_reply": null
+  },
+  {
+   "author": "Zanzoon",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Highly recommend their delicious oat milk hot chocolate and of course their gluten free cakes. We sat down to enjoy it and to our surprise we recieved complementary scrumptious treats by the lovely owner. Always a treat, their cakes and sweets. We used to drive to Jumeirah to get our hands on their treats. Now it's close by in dubai hills mall. A must visit at both locations. Thnx Cake Bloom for putting a smile on my daughter's face on her special day.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aliya Sk",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It was my first time to try a Korean cake.\nIt was yummy, soft and rich in taste. Balanced taste ( not very sweet )\nThe cream was delicious, I was a bit sceptical at first looking at the cream and wondered if it was buttercream.\nI wish they had more variety of pastries 🍰\n(Just a slice)\n\nYay! Looking at the Korean staff I felt like I was in Korea 😄",
+   "owner_reply": null
+  },
+  {
+   "author": "Stella Park",
+   "rating": 3,
+   "when": "6 years ago",
+   "text": "The interior was really cute and colorful. The staff were very helpful and nice.\n\nHowever, when we went there there weren't a lot of options for dessert. Most of the cakes were similar-looking, just with different fruits. In addition, there weren't any labels or menu for the cakes so we didn't know all the ingredients.\n\nWe ordered the honey melon cake and cheesecake.\n\nThe cheesecake tasted good, it looked cool and had a pretty strong cheese taste. It also had some blueberry filling inside, which was a surprise.\n\nThe honey melon cake was decent, but the cake batter was a bit dry and crumbly and the melon pieces were hard and tasteless.\n\nIn addition, the cakes were decent, but they were quite overpriced. The cheesecake slice was really small but cost 20dhs while the honey melon cake slice was slightly bigger but cost 30dhs.\n\nOverall there wasn't anything particularly special, and though there was nothing wrong with the place I don't think I'll be going back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Khulood Nabeel",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "It was an amazing cake 🎂 I was so pleased to celebrate my son's birthday with such a yummy and moist cake, the amount of cream and sugar was super controlled, everybody likes it; even the gluten free cake was yummy and not so dry as we always have, I'm really glad that I choose you ❤️",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    864,
+    582
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1205,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1240,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1241,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1254,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-16.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-17.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-18.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-19.jpg",
+   "source": "owner",
+   "size": [
+    624,
+    1232
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    381,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    371,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    271,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    461,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    499,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    512,
+    480
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    512,
+    316
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    473,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    484,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    512,
+    503
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    512,
+    478
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    512,
+    411
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    512,
+    369
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    472,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    271,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    271,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-131.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-132.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-133.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-134.jpg",
+   "source": "review",
+   "size": [
+    274,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-135.jpg",
+   "source": "review",
+   "size": [
+    274,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-136.jpg",
+   "source": "review",
+   "size": [
+    274,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-137.jpg",
+   "source": "review",
+   "size": [
+    274,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-138.jpg",
+   "source": "review",
+   "size": [
+    274,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-139.jpg",
+   "source": "review",
+   "size": [
+    274,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-140.jpg",
+   "source": "review",
+   "size": [
+    274,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-141.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-142.jpg",
+   "source": "review",
+   "size": [
+    342,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-143.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-144.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-145.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-146.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-147.jpg",
+   "source": "review",
+   "size": [
+    253,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-148.jpg",
+   "source": "review",
+   "size": [
+    512,
+    294
+   ]
+  },
+  {
+   "file": "img/raw/review-149.jpg",
+   "source": "review",
+   "size": [
+    342,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-150.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-151.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-152.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-153.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-154.jpg",
+   "source": "review",
+   "size": [
+    253,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-155.jpg",
+   "source": "review",
+   "size": [
+    512,
+    294
+   ]
+  },
+  {
+   "file": "img/raw/review-156.jpg",
+   "source": "review",
+   "size": [
+    342,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-157.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-158.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-159.jpg",
+   "source": "review",
+   "size": [
+    253,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-160.jpg",
+   "source": "review",
+   "size": [
+    512,
+    294
+   ]
+  },
+  {
+   "file": "img/raw/review-161.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-162.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-163.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-164.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-165.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-166.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-167.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-168.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-169.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-170.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-171.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-172.jpg",
+   "source": "review",
+   "size": [
+    286,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-173.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-174.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-175.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-176.jpg",
+   "source": "review",
+   "size": [
+    509,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-177.jpg",
+   "source": "review",
+   "size": [
+    512,
+    499
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/cakebloomuae/?hl=en",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {
+  "instagram": "cakebloomuae"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/cake-bloom/",
+ "buy_likelihood": 6,
+ "instagram_match": {
+  "how": "listed on Google Maps"
+ }
+}

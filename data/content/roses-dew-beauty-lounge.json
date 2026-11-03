@@ -1,0 +1,37 @@
+{
+ "preset": "sage-spa",
+ "theme": {"bg": "#FBF7F2", "surface_2": "#F1E6DA", "accent": "#9E2A4B", "accent_text": "#8A2240", "duo": "#E7CBD3", "busy": "#C27A90", "glow": "rgba(158,42,75,.12)", "band_bg": "#2A1219", "band_text": "#FBEFF2", "band_accent": "#F2A7BC"},
+ "brand": {"name": "Roses Dew", "sub": "Ladies Salon · Al Nahda", "mark": "R", "footer_word": "Roses Dew"},
+ "seo": {"title": "Roses Dew Ladies Salon | Beauty Lounge in Al Nahda, Sharjah", "description": "Smitha's Roses Dew Beauty Lounge, Al Yarmook building, Al Nahda Sharjah: hair colour, balayage, Botox and protein treatments, facials, nails and value packages from AED 30. 4.6 from 849 reviews."},
+ "hero": {"variant": "full", "ar_name": "ندى الزهور", "kicker": "Al Yarmook Building · Al Nahda · Sharjah", "title_lines": ["A beauty lounge", "worth the", "drive to Nahda."],
+   "lede": "Smitha's award-winning ladies' salon: colour and balayage, Botox, protein and Olaplex treatments, facials, threading and nails in a lounge built to relax in.",
+   "image": "img/hero.jpg", "image_alt": "Roses Dew lounge with cream sofas, gold mirrors and chandeliers", "secondary": {"label": "Packages", "href": "#packages"}},
+ "cta_label": "Call to book", "proof_note": "849 reviews · the team replies",
+ "address_lines": ["Roses Dew Ladies Salon, Al Yarmook Building C", "Al Nahda, Sharjah"],
+ "sections": [
+  {"type": "menu", "id": "packages", "nav": "Packages", "eyebrow": "Value packages", "title": "Packages from AED 30.", "title_dim": "Bundled and discounted.",
+   "categories": [
+    {"name": "Bronze", "items": [{"name": "Detan + eyebrow", "desc": "Usually AED 50", "price": "AED 30"}, {"name": "Eyebrow, cleanup, face pack", "desc": "Usually AED 50", "price": "AED 40"}, {"name": "Eyebrow, detan, hot oil head massage, wash", "desc": "Usually AED 80", "price": "AED 60"}, {"name": "Eyebrow, fruit facial, face pack, detan", "desc": "Usually AED 90", "price": "AED 75"}]},
+    {"name": "Silver", "items": [{"name": "Haircut (any), hair spa, blow dry, eyebrow", "desc": "Usually AED 250", "price": "AED 150"}, {"name": "Eyebrow, detan, normal facial, full hand wax, underarms, full leg wax", "desc": "Usually AED 225", "price": "AED 130"}, {"name": "Eyebrow, detan, fruit facial, full hand & leg wax, underarms, hot oil head massage, wash", "desc": "Usually AED 250", "price": "AED 175"}, {"name": "Gold or pearl facial, hot oil, eyebrow, upper lip, detan, full arm wax or pedicure, full leg wax or manicure", "desc": "Usually AED 350", "price": "AED 250"}]}
+   ],
+   "note": "Package prices from the salon's posted offer. Call to confirm what's running this month."},
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Treatments", "title": "Hair is where we shine.", "title_dim": "Skin and nails too.",
+   "items": [
+    {"name": "Colour & balayage", "feature": true, "img": "img/colour.jpg", "alt": "Copper balayage on shoulder-length hair", "desc": "Root touch-ups, balayage and colour correction.", "quote": "She did my root touch-up and haircut, and fixed a previous bad cut.", "cite": "Anmol S."},
+    {"name": "Botox, protein & Olaplex", "img": "img/curls.jpg", "alt": "Glossy curled hair", "desc": "Repair and anti-frizz treatments, plus dandruff care."},
+    {"name": "Facials", "img": "img/facial.jpg", "alt": "Therapist giving a head massage", "desc": "Fruit, gold and pearl facials, cleanups and head massage."},
+    {"name": "Nails", "img": "img/nails.jpg", "alt": "Pink glitter nail art", "desc": "Gel polish, cat-eye and French nail art."},
+    {"name": "Threading & waxing", "desc": "Brows, upper lip, full arm and leg."}
+   ]},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Clients' favourites", "title": "Aarti for hair,", "title_dim": "Sisam for nails.",
+   "items": [
+    {"name": "Aarti", "count": 11, "role": "Senior stylist", "quote": "I'd heard so many good things about Aarti, and now I completely understand why.", "cite": "Anmol S."},
+    {"name": "Sisam", "count": 4, "role": "Nail artist", "quote": "It's been three weeks and my nails still look beautiful.", "cite": "Shravya S."},
+    {"name": "Gisilla", "count": 3, "role": "Hair & treatments", "quote": "Incredibly friendly and professional.", "cite": "Adithya P."},
+    {"name": "Anjali", "role": "Stylist"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/lounge.jpg", "alt": "Roses Dew lounge seating", "wide": true}, {"src": "img/blossom.jpg", "alt": "Cherry blossom tree inside the salon", "wide": true}, {"src": "img/award.jpg", "alt": "Roses Dew team receiving the Indo-Arab International Excellence Award 2023", "wide": true}, {"src": "img/storefront.jpg", "alt": "Roses Dew storefront", "wide": true}, {"src": "img/reception.jpg", "alt": "Reception desk with flowers", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Yarmook Building,", "title_dim": "Al Nahda, Sharjah."}
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "preset": "luxe-gold",
+ "theme": {"accent": "#B8895A", "accent_text": "#D4A877", "bg": "#120C0D", "surface": "#1B1314", "surface_2": "#261A1B", "duo": "#5A2230", "busy": "#7A2A3D", "glow": "rgba(142,31,63,.25)", "band_bg": "#F6EEE9", "band_accent": "#8E1F3F"},
+ "brand": {"name": "Al Jazibiah", "sub": "Beauty Salon · Al Nahda", "mark": "J", "footer_word": "Jazibiah"},
+ "seo": {"title": "Al Jazibiah Beauty Salon | Ladies Salon in Al Nahda, Sharjah", "description": "Ladies' salon in Al Nahda, Sharjah for over 20 years: keratin & protein Botox from AED 299, gel nails from AED 49, Moroccan bath, threading and facials. 4.7 from 801 Google reviews."},
+ "hero": {"variant": "stack", "ar_name": "صالون الجاذبية", "kicker": "Malaka Street · Al Nahda · Sharjah", "title_lines": ["Twenty years", "of good hair days", "in Al Nahda."],
+   "lede": "A women-owned ladies' salon for keratin and hair Botox, colour, gel nails, Moroccan bath and threading. Some clients have been coming for almost 18 years.",
+   "image": "img/hero.jpg", "image_alt": "Inside Al Jazibiah salon: red chairs, mirrors and styling stations", "secondary": {"label": "See prices", "href": "#prices"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Al Jazibiah, I'd like to book an appointment.",
+ "proof_note": "Owner replies to nearly every review",
+ "address_lines": ["Al Jazibiah Beauty Salon, Malaka Street", "Al Nahda, Sharjah"],
+ "socials": {"instagram": "jazibiah.beauty"},
+ "ticker": ["Keratin", "Protein Botox", "Gel nails", "Acrylic extensions", "Moroccan bath", "Threading", "Hair colour", "Foot spa"],
+ "sections": [
+  {"type": "menu", "id": "prices", "nav": "Prices", "eyebrow": "Price list", "title": "Clear prices,", "title_dim": "straight from the salon.",
+   "categories": [
+    {"name": "Keratin & protein Botox", "items": [{"name": "Short hair", "price": "AED 299"}, {"name": "Medium hair", "price": "AED 399"}, {"name": "Long hair", "price": "AED 599"}, {"name": "Extra long hair", "price": "AED 699"}]},
+    {"name": "Nails", "items": [{"name": "Gel manicure", "desc": "Perfectly polished, flawless finish", "price": "AED 49"}, {"name": "Gel pedicure", "price": "AED 79"}, {"name": "Hard gel / soft gel / poly gel", "desc": "Lightweight, strong, natural look", "price": "AED 119"}, {"name": "Acrylic extensions", "desc": "Strong and durable", "price": "AED 179"}]}
+   ],
+   "note": "Prices from the salon's current offers. Nail prices are a limited-time offer; ask on WhatsApp for colour, facials and Moroccan bath."},
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "What clients come back for", "title": "Hair, nails, skin", "title_dim": "and a proper Moroccan bath.",
+   "items": [
+    {"name": "Keratin & hair Botox", "feature": true, "img": "img/keratin.jpg", "alt": "Long straight glossy hair after a keratin treatment", "desc": "Smoothing treatments priced by hair length.", "quote": "I had a keratin treatment done by Josie and I'm very happy with the results.", "cite": "Chathu H."},
+    {"name": "Nails & nail art", "img": "img/nail-art.jpg", "alt": "Blue floral nail art", "desc": "Gelish, gel, poly gel and acrylic extensions."},
+    {"name": "Lashes & brows", "img": "img/lashes.jpg", "alt": "Close-up of eyelash extensions", "desc": "Eyelash extensions and threading by Era."},
+    {"name": "Colour & cuts", "img": "img/curls.jpg", "alt": "Balayage curls", "desc": "Colour, highlights and cuts."},
+    {"name": "Moroccan bath & spa", "img": "img/spa-room.jpg", "alt": "Treatment room with massage bed", "desc": "Moroccan bath, foot spa, body massage and facials."}
+   ],
+   "perks": ["Women-owned", "Appointments recommended", "Free Wi-Fi", "Cards & Apple Pay"]},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Ask for Era.", "title_dim": "Half our reviews do.",
+   "items": [
+    {"name": "Era", "count": 19, "role": "Hair, brows & nails", "quote": "I live in Canada, but every time I come to visit, I make sure to go to her for my haircut.", "cite": "Esha H."},
+    {"name": "Josie", "count": 7, "role": "Keratin & treatments", "quote": "She was professional, friendly and made me feel comfortable throughout the entire process.", "cite": "Chathu H."},
+    {"name": "Yolly", "count": 7, "role": "Moroccan bath", "quote": "Yolly gave me a Moroccan bath. Very good, she is very caring with her clients.", "cite": "Fatiha K."},
+    {"name": "Anne", "role": "Stylist"}, {"name": "Grace", "role": "Pedicure & treatments"}, {"name": "Sharry", "role": "Nail extensions"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Al Jazibiah storefront on Malaka Street", "wide": true}, {"src": "img/nails.jpg", "alt": "Nude almond gel nails"}, {"src": "img/nails-lines.jpg", "alt": "Black line nail art"}, {"src": "img/team.jpg", "alt": "The Al Jazibiah team with a client", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Malaka Street,", "title_dim": "Al Nahda, Sharjah.", "landmark": "Look for the red Al Jazibiah sign"}
+ ]
+}

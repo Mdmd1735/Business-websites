@@ -1,0 +1,1345 @@
+{
+ "slug": "bab-al-satwa-upholstery",
+ "name": "Bab Al Satwa Car Accessories Upholstery LLC",
+ "place_id": "ChIJZ8CBtDZtXz4RN0pWkVPYnC0",
+ "category": "car detailing",
+ "category_weight": 11,
+ "area": "Al Barsha, Dubai",
+ "address": "Hessa St - Al Barsha Third - Al Barsha - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.0818034,
+  "lng": 55.2042627
+ },
+ "phone": "+971 56 315 9555",
+ "rating": 4.8,
+ "userRatingCount": 386,
+ "rating_distribution": {
+  "oneStar": 13,
+  "twoStar": 1,
+  "threeStar": 4,
+  "fourStar": 10,
+  "fiveStar": 358
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Bab%20Al%20Satwa%20Car%20Accessories%20Upholstery%20LLC&query_place_id=ChIJZ8CBtDZtXz4RN0pWkVPYnC0",
+ "website": "",
+ "categories": [
+  "Car accessories store"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 12 AM"
+  }
+ ],
+ "owner_description": "We provide All type Car accessories and fixing.\nCar accessories\nCar fixing\nCar service\nCar upholstery\nCar battery replacement\nCar old charges\nCar parts\nCar polish\n3M Authorized car care center\nCar film protection\nCar sounds system fixing\nCar amplifier fixing\nCar gps tracker\nCar automotive GPS navigation fixing\nHUD Car head-up Display\nCar stereo audio system fixing\nCar android screen fixing\nAndroid car radio 2 din Bluetooth car multimedia system.",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "In-store pickup": true
+   },
+   {
+    "In-store shopping": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Checks": true
+   },
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "window tinting",
+  "headlight replacement",
+  "seat covers",
+  "battery change",
+  "car detailing",
+  "light fixing",
+  "neat and clean work",
+  "car upgrades",
+  "discount",
+  "speakers"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 42
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 36
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 52
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 73
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 36
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 42
+   }
+  ]
+ },
+ "owner_reply_rate": 0.42,
+ "reviews": [
+  {
+   "author": "Omar Omran",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "The best service you can had thank you  Yusuf@Bab al satwa",
+   "owner_reply": null
+  },
+  {
+   "author": "Darshan Shejekar",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "I spent 4k 2 years back on car audio, the pioneer amp failed within 1 year, when i went for service there was no clear answer for the failure. These guys charged very expensive and in the end i realised they are not able to support when needed",
+   "owner_reply": null
+  },
+  {
+   "author": "Laith",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Amazing staff! Very friendly and ready to help you out in any way. They did a 10/10 job and when something caught my eye I returned to them and they fixed it on the spot! Will recommend to friends and family. Check out the before and after shots and see for your self! Thanks Mahmoud for the help!",
+   "owner_reply": "Thanks a lot for your review 🙏 "
+  },
+  {
+   "author": "DrZeeshan Akhtar",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "very Nice team, highly recommended. did my car seat covering and headlights work. Reasonable Price",
+   "owner_reply": null
+  },
+  {
+   "author": "deepak ramesh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Superb shop, quick service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Saif",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "The shop has all you meed from window tinting, batteries all sizes, speakers, stereos, different accessories and seat covers. The staff treatment was amazing especially a guy named Mahmoud. Super recommend for the service and the price!",
+   "owner_reply": "So kind of u to give your feed back"
+  },
+  {
+   "author": "K D Francis Fernando",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Did a good job , and kind people . Thanks ☺️",
+   "owner_reply": null
+  },
+  {
+   "author": "Saleh Alkaabi",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Reasonable prices and professional service; I highly recommend visiting this shop for car window tinting.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Mirghani",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I recently visited Bab Al Satwa for windows tinting and fetching few accessories, and my experience was exceptional. ***MAHMOUD***, the tinting specialist, was outstanding in every aspect. He provided knowledgeable recommendations, paid attention to detail, and displayed professionalism throughout the tinting process. The 3M tinting applied to my car was flawless, enhancing its appearance and providing excellent heat reduction and UV protection. The store offers a wide range of high-quality accessories at reasonable prices. The staff, including Mahmoud, was friendly, professional, and accommodating, making me feel valued as a customer. I highly recommend this place for top-notch tinting and accessories, thanks to Mahmoud and the excellent team.",
+   "owner_reply": "So kind of u to give your feed back"
+  },
+  {
+   "author": "Avinesh Rao",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I came here expecting nothing, but mahmood and his team change my car literally. My seats, my interior, my screen, steering literally everything, i now have a new car after so long. Thanks to these guys honestly, please visit here, and check out the pictures below.",
+   "owner_reply": "So kind of you to give your feed back "
+  },
+  {
+   "author": "Andrew Tubaon",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I came here to replace the seat covers of my Honda City, and the quality and workmanship are very good.",
+   "owner_reply": null
+  },
+  {
+   "author": "Izabella Lukacs",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "The stuff is very helpful and professional. They are experienced and kind. I strongly recommend this shop. Great variety of profucts.",
+   "owner_reply": "So kind of u to give your feed back"
+  },
+  {
+   "author": "Sameer Rai",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Best quality good price and finest\nfinishing 👌\nHighly recommend Mr.Abdul Rauf is very good 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Hatem Bejaoui",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "100 STARS ⭐️\n\nHighly Deserved Praise for Ali\nAli is an honest and truly professional person. If you need your car roof repaired, don’t overthink it go straight to Ali. He fixed my car roof perfectly, with no mistakes, delays, or issues. The work was completed on time, and I highly recommend him.",
+   "owner_reply": null
+  },
+  {
+   "author": "john hammond",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "One of the best places in Dubai for very quick window tinting service. Used them 3 times now.",
+   "owner_reply": null
+  },
+  {
+   "author": "Leonard Amanna",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Fantastic work done for front sensor installation. Neat and professional. Mahmoud was amazing and they were very reasonable in terms of price.",
+   "owner_reply": null
+  },
+  {
+   "author": "Milashka Roks",
+   "rating": 4,
+   "when": "Edited 11 months ago",
+   "text": "I hope the team can improve the workman’s as work can be done better, thanks",
+   "owner_reply": null
+  },
+  {
+   "author": "Ibrahim B",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Excellent, rapid and reasonably priced service.\nParts of the upholstery in my car were replaced in just over an hour, the result being much better than the original, and at a very fair price.\nI would definitely use them again if I need to.",
+   "owner_reply": null
+  },
+  {
+   "author": "bill loski",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Good service. Staff very friendly and very attentive to details. They did my car tint windows perfectly. Thank you guys.",
+   "owner_reply": "So kind of u to give your feed back"
+  },
+  {
+   "author": "Mhmad Abbout",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very good staff. Thank you aali",
+   "owner_reply": null
+  },
+  {
+   "author": "Radhakrishnan k",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Very Good Service…Neat and clean Work…Affordable Pricing…",
+   "owner_reply": "So kind of you to give your feed back "
+  },
+  {
+   "author": "Jake : v",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Good customer service and affordable prices! And fast installation",
+   "owner_reply": "So kind of you to give your feed back"
+  },
+  {
+   "author": "Khalid Kamal",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Good price , quick service",
+   "owner_reply": null
+  },
+  {
+   "author": "philip joseph",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Came here for seat cover fitting, Amazing staff!!! Good job and fair price, Will recommend to friends any time.",
+   "owner_reply": "So kind of you to give your feed back "
+  },
+  {
+   "author": "Lei Izabelle Alarcon",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "This week I went to this shop and asked then to fix my door pillar sticker. Quality of service is very high standard. Very fast, good quality of material and specially price is very good because of discount. Mahmoud and his team is very accommodating with what I want. I definitely come back if need some service for my car.",
+   "owner_reply": "Thanks u so much for your review"
+  },
+  {
+   "author": "Yousef Al-Zaben",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Amazing place, fixed all lights and sensors\nStaff are very friendly and helpful, highly recommended",
+   "owner_reply": "Thank u so much for your review 🙏 "
+  },
+  {
+   "author": "Welito Peralta",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Price good, nice job and professional.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Hamad",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "Extremely disappointing shop. The products are overpriced and appear to be fake, and the staff shows a clear lack of respect. I do not recommend this place.”",
+   "owner_reply": null
+  },
+  {
+   "author": "ALaa Hamdi",
+   "rating": 1,
+   "when": "2 years ago",
+   "text": "The shop lacks experience and their approach seemed unprofessional, relying on trial and error.\n\nAfter installation, there were issues with the dash cam, which the shop attributed to poor quality despite it working previously.\n\nThe GPS was not functioning after the installation.\n\nThe price of the installation was higher than expected ,not recommend  shop at all",
+   "owner_reply": null
+  },
+  {
+   "author": "Kenny Jerome",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I have just walked in to this shop and to my surprise the service and cost of fixing was absolutely below the market price around in the neighborhood. Hats off to their customer service by specifically Mr. Mahmoud and his team for doing a great job on the tint and accessories. Would recommend them to a yone for a hassle free clean work. Thank you guys!!",
+   "owner_reply": "So kind of you to give your feed back "
+  },
+  {
+   "author": "Manish Verma",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "very professional and fast. I got my headlights changed and they were very quick and cost efficient.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmad Sanfoor",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Tha best place where you can do everything you need lovely people 100%",
+   "owner_reply": "Thank u so much for your great 5 star review"
+  },
+  {
+   "author": "das arun",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Excellent service and friendly staff. Mahmood , Hameed,",
+   "owner_reply": "Thank you so much for your review 🙏 "
+  },
+  {
+   "author": "Sathyendran Namasivayam",
+   "rating": 1,
+   "when": "2 years ago",
+   "text": "Had the worst experience while tinting my car! Had to make them remove 4 times as there were lotta bubbles everytime they did. Beyond which I got frustrated and made up my mind to live with the bubble finish tinting on my brand new car! Plus the door beading were all cut and damaged",
+   "owner_reply": null
+  },
+  {
+   "author": "harshit jain",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Great  work for seat covers!!\n10 /10",
+   "owner_reply": null
+  },
+  {
+   "author": "baher samy",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very honest and reliable\nThey inspected my car professionally and diagnosed the problem and even recommended another place for a cheaper repair, they refused to accept money!!!\nDefinitely a five stars for honesty",
+   "owner_reply": null
+  },
+  {
+   "author": "Maddan Saawant",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "This place is awesome for fixing car. The guy was able to spot the problem in the car and fixed in no time. My car lighter port was damaged for long. Mahmoud found out the issue with his tool and immediately changed the fuse. Since it was a small fix, he charged me a little for it. I went on to fix my head light.\n\nSometime it's difficult to find right garage for the car and I happy to find one on hessa street.",
+   "owner_reply": "Thank you so much for your review 🙏 "
+  },
+  {
+   "author": "abel XU",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Do you buy goods from China? I can provide DDP services from China to Dubai. If you need it, my profile picture has contact information",
+   "owner_reply": null
+  },
+  {
+   "author": "Ehsan Raheem khan",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Outstanding and super service neat and clean",
+   "owner_reply": "So kind of u to give your feed back"
+  },
+  {
+   "author": "Marwan A",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Excellent service, quick and efficient. I got my backup camera replaced with a better one. Gentlment over there are helpful and know what they are doing. I'm definitely going back.",
+   "owner_reply": "Thanks a lot for your review 🙏 "
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    413,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    402,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    426,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    426,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    431,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    231
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/bab-al-satwa-upholstery/",
+ "buy_likelihood": 7
+}
