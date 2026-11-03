@@ -1,0 +1,39 @@
+{
+ "preset": "bistro-olive",
+ "theme": {"display": "\"Baloo 2\",system-ui,sans-serif", "body": "\"Nunito\",system-ui,sans-serif", "google_fonts": "family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700&family=Cairo:wght@700", "dw": "800", "dtrack": "-0.02em",
+   "bg": "#F2FAF8", "surface": "#FFFFFF", "surface_2": "#D9F1EB", "accent": "#E8505B", "accent_text": "#C93B46", "on_accent": "#FFFFFF", "duo": "#BFE6DC", "busy": "#E8505B", "glow": "rgba(42,170,150,.2)", "band_bg": "#114A42", "band_text": "#F2FAF8", "band_accent": "#FFB3B8", "frame": "round", "hero_ratio": "1/1", "r": "20px", "btn_r": "999px"},
+ "extra_css": ".hero-split .hero__slab{background:#2AAA96}.ticker{background:#2AAA96;color:#fff}",
+ "brand": {"name": "Bubbles", "sub": "Pets Salon · Muwaileh", "mark": "B", "footer_word": "BUBBLES"},
+ "seo": {"title": "Bubbles Pets Salon | Pet Grooming, Cat Boarding & Adoption in Muwaileh, Sharjah", "description": "Bubbles Pets Salon, Al Khaf 7 building, Muwaileh Commercial, Sharjah: dog and cat grooming, cat boarding, pet store and adoption. 50% of every service or purchase helps homeless animals. 4.8 from 246 reviews."},
+ "hero": {"variant": "split", "kicker": "Al Khaf 7 Building · Muwaileh Commercial · Sharjah", "title_lines": ["Groom your pet.", "Help a stray."],
+   "lede": "Gentle grooming, cat boarding and a full pet shop, run by people who rescue animals. Half of every service or purchase goes towards helping homeless animals in the UAE.",
+   "image": "img/hero.jpg", "image_alt": "Fluffy Pomeranian wearing sunglasses after grooming", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Call to book", "proof_note": "50% goes to animal rescue",
+ "address_lines": ["Bubbles Pets Salon, Al Khaf 7 Building", "Muwaileh Commercial, Sharjah"],
+ "socials": {"instagram": "bubbles.petssalon"},
+ "ticker": ["Dog grooming", "Cat grooming", "Cat boarding", "Adoption", "Pet food", "Accessories", "Loyalty card"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "What we do", "title": "Grooming, boarding,", "title_dim": "and a second chance for strays.",
+   "items": [
+    {"name": "Dog & cat grooming", "feature": true, "img": "img/beforeafter.jpg", "alt": "Pomeranian before and after grooming", "desc": "Bath, cut, nails and ears, done calmly.", "quote": "The grooming was clean and gentle, and my dog looked so comfortable throughout the visit.", "cite": "Ansherina S."},
+    {"name": "Cat boarding", "img": "img/boarding.jpg", "alt": "Clean cat boarding area with heart mural", "desc": "Safe, clean stays while you travel."},
+    {"name": "Adoption", "img": "img/cat-wheel.jpg", "alt": "Rescue cat using a mobility cart", "desc": "Meet rescue cats and dogs looking for homes."},
+    {"name": "Pet shop", "img": "img/shelves.jpg", "alt": "Shelves of pet beds and carriers", "desc": "Food, beds, toys and accessories."},
+    {"name": "Loyalty card", "img": "img/loyalty.jpg", "alt": "Pink Bubbles loyalty card", "desc": "Collect hearts with every visit."}
+   ],
+   "perks": ["Women-owned", "50% to animal rescue", "Wheelchair-accessible parking", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Visit", "title": "Drop by", "title_dim": "when it's calm."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Animal people,", "title_dim": "through and through.",
+   "items": [
+    {"name": "Fidel", "count": 3, "role": "Groomer", "quote": "I was truly impressed with the quality of their grooming and the way they genuinely care for every pet.", "cite": "Roldan O."},
+    {"name": "Lowella", "role": "Groomer"}, {"name": "Raquel", "role": "Groomer"}, {"name": "Bilal", "role": "Cat grooming"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Bubbles Pets Salon storefront"}, {"src": "img/spitz.jpg", "alt": "Japanese Spitz with a yellow bandana"}, {"src": "img/groomers.jpg", "alt": "Two groomers trimming a cat"}, {"src": "img/golden.jpg", "alt": "Golden retriever after grooming"}, {"src": "img/cat-hug.jpg", "alt": "Staff member holding a ginger cat"}, {"src": "img/poodle.jpg", "alt": "Toy poodle after a teddy-bear cut"}, {"src": "img/shop.jpg", "alt": "Inside the Bubbles shop"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "faq", "id": "faq", "eyebrow": "Questions", "title": "Pet parents ask",
+   "items": [{"q": "Where does the money go?", "a": "50% of every service or purchase goes towards helping homeless animals."},
+             {"q": "Can I adopt?", "a": "Yes. Call +971 6 767 5045 or visit to meet the animals currently looking for homes."},
+             {"q": "Do you board cats?", "a": "Yes, in a clean, separate boarding area."}]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Khaf 7 Building,", "title_dim": "Muwaileh Commercial."}
+ ]
+}

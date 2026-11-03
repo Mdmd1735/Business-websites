@@ -1315,10 +1315,12 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/al-jazibiah-beauty-saloon/",
  "buy_likelihood": 8,
  "instagram_match": {
   "how": "listed on Google Maps"
- }
+ },
+ "notes": "801 reviews, 20+ years, owner replies to 93%. Instagram only; already designs price posters, so the menu-with-prices page is an easy sell.",
+ "display_name": "Al Jazibiah Beauty Salon"
 }

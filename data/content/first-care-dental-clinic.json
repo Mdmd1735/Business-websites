@@ -1,0 +1,35 @@
+{
+ "preset": "clinic-teal",
+ "theme": {"frame": "round", "hero_ratio": "4/3"},
+ "brand": {"name": "First Care", "sub": "Dental Clinic · Al Nahda", "mark": "F", "footer_word": "First Care"},
+ "seo": {"title": "First Care Dental Clinic | Affordable Dentist in Al Nahda, Sharjah · 5.0 Rating", "description": "First Care Dental Clinic, Tower D, Malacca Street, Al Nahda Sharjah: Dr. Seemab Jaffer and team for extractions, root canals, fillings, braces, dentures and children's dentistry. Rated 5.0 from 231 reviews."},
+ "hero": {"variant": "stack", "ar_name": "عيادة فيرست كير لطب الأسنان", "kicker": "Tower D · Malacca Street · Al Nahda, Sharjah", "title_lines": ["231 reviews.", "Every one five stars."],
+   "lede": "Gentle, honest dentistry from Dr. Seemab Jaffer and the team: extractions, root canals, fillings, braces and dentures at prices patients call very affordable. Nervous patients and children welcome.",
+   "image": "img/hero.jpg", "image_alt": "Treatment room at First Care Dental Clinic with a blue dental chair", "secondary": {"label": "Treatments", "href": "#treatments"}},
+ "cta_label": "Call to book", "proof_note": "Perfect 5.0 on Google",
+ "address_lines": ["First Care Dental Clinic, Tower D", "Malacca Street, Al Nahda, Sharjah"],
+ "sections": [
+  {"type": "services", "id": "treatments", "nav": "Treatments", "layout": "list", "eyebrow": "Treatments", "title": "General dentistry,", "title_dim": "explained before it's done.",
+   "items": [
+    {"name": "Tooth & wisdom tooth extraction", "desc": "Quick, careful extractions, including wisdom teeth. Patients describe it as painless."},
+    {"name": "Root canal treatment", "desc": "Saving the tooth where it can be saved, with honest advice when it can't."},
+    {"name": "Composite fillings", "desc": "Tooth-coloured fillings for cavities and chips."},
+    {"name": "Braces", "desc": "Orthodontic assessment and braces for teens and adults."},
+    {"name": "Dentures", "desc": "Partial and clip-on dentures for missing teeth."},
+    {"name": "Children's dentistry", "desc": "Patience for nervous kids: one 13-year-old patient had four premolars out and still wrote us a review."}
+   ],
+   "perks": ["Wheelchair accessible", "Appointments recommended", "Cards & Apple Pay"]},
+  {"type": "team", "id": "team", "nav": "Dentists", "eyebrow": "Your dentists", "title": "Dr. Seemab Jaffer", "title_dim": "and Dr. Sanjana.",
+   "items": [
+    {"name": "Dr. Seemab Jaffer", "short": "him", "count": 19, "role": "G.P. Dentist, B.D.S.", "quote": "I showed up even before their official opening time, but Dr. Jafferi was kind enough to welcome me right away.", "cite": "Lara C."},
+    {"name": "Dr. Sanjana", "role": "Dentist", "quote": "Clean, smells fresh, and the prices are very affordable.", "cite": "Wathsala M., on the clinic"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/surgery.jpg", "alt": "Dental chair and instrument tray"}, {"src": "img/nameplate.jpg", "alt": "Nameplate: First Care Dental Clinic, Dr. Seemab Jaffer, Dr. Sanjana"}, {"src": "img/door.jpg", "alt": "Clinic entrance"}, {"src": "img/tower.jpg", "alt": "Tower D building entrance", "wide": true}, {"src": "img/street.jpg", "alt": "First Care sign on Malacca Street at night"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "faq", "id": "faq", "eyebrow": "Before your visit", "title": "Good to know",
+   "items": [{"q": "What are your hours?", "a": "Daily 10 AM to 2 PM and 5 PM to 9 PM (Friday mornings 10:30 AM to 1:30 PM)."},
+             {"q": "Do you see children?", "a": "Yes. Many of our reviews come from parents and teenagers."},
+             {"q": "How do I book?", "a": "Call +971 6 536 6955. Walk-ins are seen when a chair is free, but booking is recommended."}]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Tower D, Malacca Street,", "title_dim": "Al Nahda."}
+ ]
+}

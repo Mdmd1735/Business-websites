@@ -306,8 +306,8 @@ def find_socials(args):
         base = re.split(r"[|(\-]", b["name"])[0].strip()
         try:
             res = _apify("apify~instagram-search-scraper", {"search": f"{base} {city}", "searchType": "user", "searchLimit": 6}, timeout=300)
-        except SystemExit as e:
-            return f.stem, None, str(e)
+        except (SystemExit, RuntimeError) as e:
+            return f.stem, None, str(e)[:80].split("token=")[0]
         tail = re.sub(r"\D", "", b.get("phone", ""))[-7:]
         key = norm(base)
         best = None
@@ -326,7 +326,7 @@ def find_socials(args):
             b["instagram_match"] = {"how": "phone" if best[0] == 3 else "name+location", "followers": best[2]}
             f.write_text(json.dumps(b, indent=1, ensure_ascii=False))
         return f.stem, best, None
-    with ThreadPoolExecutor(6) as ex:
+    with ThreadPoolExecutor(3) as ex:  # Apify free plan: max 5 concurrent runs
         for slug, best, err in ex.map(one, todo):
             print(f"{slug:42} {'@' + best[1] + ' (' + ('phone' if best[0] == 3 else 'name+loc') + ')' if best else (err or 'no verified match')}")
 
@@ -338,7 +338,7 @@ def leads(_args=None):
         built = (SITES / b["slug"] / "index.html").exists()
         ph = b.get("phone", "")
         rows.append({
-            "business": b["name"], "category": b["category"], "area": b["area"],
+            "business": b.get("display_name") or b["name"], "category": b["category"], "area": b["area"],
             "site_url": b["site_url"] if built else "(not built)", "buy_likelihood_10": b.get("buy_likelihood", ""),
             "phone": ph, "whatsapp": "https://wa.me/" + re.sub(r"\D", "", ph) if ph.startswith("+971 5") else "",
             "email": ", ".join(b.get("emails", [])), "instagram": b.get("socials", {}).get("instagram", ""),
@@ -346,7 +346,7 @@ def leads(_args=None):
             "google": f"{b.get('rating', '')}★ ({b.get('userRatingCount', 0)})", "maps": b.get("maps_url", ""),
             "status": b.get("site_status", ""), "notes": b.get("notes", ""),
         })
-    rows.sort(key=lambda r: -(r["buy_likelihood_10"] or 0))
+    rows.sort(key=lambda r: (r["site_url"] == "(not built)", -(r["buy_likelihood_10"] or 0)))
     if not rows: return print("no businesses yet")
     with open(ROOT / "leads.csv", "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=rows[0].keys()); w.writeheader(); w.writerows(rows)

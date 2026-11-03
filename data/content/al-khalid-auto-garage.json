@@ -1,0 +1,177 @@
+{
+ "preset": "garage-amber",
+ "theme": {
+  "frame": "square"
+ },
+ "brand": {
+  "name": "Al Khalid",
+  "sub": "Auto Garage · Al Quoz",
+  "mark": "K",
+  "footer_word": "AKG"
+ },
+ "seo": {
+  "title": "Al Khalid Auto Garage (AKG) | Car Repair, AC, Body & Paint in Al Quoz, Dubai",
+  "description": "Al Khalid Auto Garage, Al Mulla warehouse, 23rd Street, Al Quoz Industrial 3: engine and AC repair, body work, dent removal, painting and servicing, with pickup and delivery. 4.5 from 195 reviews."
+ },
+ "hero": {
+  "variant": "stack",
+  "ar_name": "كراج الخالد",
+  "kicker": "Al Mulla Warehouse · 23rd Street · Al Quoz 3",
+  "title_lines": [
+   "Engine, AC, body, paint.",
+   "One garage."
+  ],
+  "lede": "Mechanical repairs, AC, engine rebuilds, dent removal and painting under one roof in Al Quoz. Call us and we'll pick your car up, fix it, and bring it back.",
+  "image": "img/hero.jpg",
+  "image_alt": "Inside the Al Khalid Auto Garage workshop with cars on lifts",
+  "secondary": {
+   "label": "Services",
+   "href": "#services"
+  }
+ },
+ "cta_label": "Get a quote on WhatsApp",
+ "cta_text": "Hi Al Khalid Auto Garage, I need a quote for my car.",
+ "proof_note": "The team replies to most reviews",
+ "address_lines": [
+  "Al Khalid Auto Garage, Al Mulla Warehouse",
+  "23rd Street, Al Quoz Industrial 3, Dubai"
+ ],
+ "socials": {
+  "instagram": "alkhalid.garage"
+ },
+ "ticker": [
+  "Engine repair",
+  "AC repair",
+  "Dent removal",
+  "Body & paint",
+  "Rim painting",
+  "Oil change",
+  "Pickup & delivery"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "services",
+   "nav": "Services",
+   "eyebrow": "Services",
+   "title": "All your car problems,",
+   "title_dim": "solved under one roof.",
+   "items": [
+    {
+     "name": "Engine & gearbox",
+     "feature": true,
+     "img": "img/engine.jpg",
+     "alt": "Mechanic working on an engine during a rebuild",
+     "desc": "Diagnostics, engine rebuilds, oil leaks and vibration problems.",
+     "quote": "I finally found my go-to for car repairs!",
+     "cite": "Moh Samer K."
+    },
+    {
+     "name": "AC repair",
+     "img": "img/bay.jpg",
+     "alt": "Car with bonnet open in a service bay",
+     "desc": "Compressors, gas refill and leaks, for Dubai summers."
+    },
+    {
+     "name": "Body, dents & paint",
+     "img": "img/paint-prep.jpg",
+     "alt": "Car masked up for painting",
+     "desc": "Scratch and dent repair, full respray, rim painting."
+    },
+    {
+     "name": "Servicing & oil change",
+     "img": "img/oil.jpg",
+     "alt": "Mechanic topping up coolant and oil",
+     "desc": "Scheduled servicing, oil and coolant, inspections."
+    },
+    {
+     "name": "Pickup & delivery",
+     "img": "img/gwagon.jpg",
+     "alt": "Mercedes G-Class on a lift",
+     "desc": "We collect your car and bring it back when it's done."
+    }
+   ],
+   "perks": [
+    "Mon–Sat 8 AM – 8 PM",
+    "Pickup & delivery",
+    "All makes",
+    "Cards & Apple Pay"
+   ]
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Team",
+   "eyebrow": "Who you'll deal with",
+   "title": "Mechanics customers",
+   "title_dim": "trust with their cars.",
+   "items": [
+    {
+     "name": "Bilal",
+     "count": 6,
+     "role": "Service advisor",
+     "quote": "Fast response, quality work at affordable pricing and excellent communication.",
+     "cite": "Google reviewer"
+    },
+    {
+     "name": "Mujeeb",
+     "count": 3,
+     "role": "Technician",
+     "quote": "Very good and professional service and people.",
+     "cite": "Google reviewer"
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/lift.jpg",
+     "alt": "Car on a two-post lift"
+    },
+    {
+     "src": "img/jeep.jpg",
+     "alt": "Jeep Wrangler being repaired"
+    },
+    {
+     "src": "img/range.jpg",
+     "alt": "Range Rover in the workshop"
+    },
+    {
+     "src": "img/wheel.jpg",
+     "alt": "Mechanic fitting a wheel"
+    },
+    {
+     "src": "img/rims.jpg",
+     "alt": "Gloss black painted rims",
+     "duo": true
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "quote",
+   "eyebrow": "Quote",
+   "title": "Tell us what's wrong.",
+   "lede": "Tap a question and WhatsApp opens with it ready to send. Add a photo or video of the problem.",
+   "asks": [
+    "My AC isn't cooling. Can you check it today?",
+    "How much to repair a dent and repaint a panel?",
+    "Can you pick up my car for a service?",
+    "My engine light is on. When can you diagnose it?"
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Al Quoz Industrial 3,",
+   "title_dim": "23rd Street."
+  }
+ ]
+}

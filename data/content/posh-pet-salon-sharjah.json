@@ -1,0 +1,190 @@
+{
+ "preset": "pet-sky",
+ "theme": {
+  "bg": "#FBF7FC",
+  "surface_2": "#F3E6F7",
+  "accent": "#7B2D8E",
+  "accent_text": "#6A2479",
+  "duo": "#F2C6DE",
+  "busy": "#C873A6",
+  "glow": "rgba(240,150,200,.3)",
+  "band_bg": "#2B1233",
+  "band_accent": "#F7A8D2",
+  "frame": "arch",
+  "hero_ratio": "3/4"
+ },
+ "extra_css": ".hero-split .hero__slab{background:#F7C2DD}.ticker{background:#F7C2DD;color:#2B1233}",
+ "brand": {
+  "name": "Posh",
+  "sub": "A Pet Salon · Sharjah",
+  "mark": "P",
+  "footer_word": "POSH"
+ },
+ "seo": {
+  "title": "Posh Pet Salon by Adore | Dog & Cat Grooming in Al Khan, Sharjah",
+  "description": "Posh, a gentle pet grooming salon in Al Wathbah building, Al Khan, Sharjah: full grooming for dogs and cats, baby grooming and spa baths with Gerald and Mark. 4.9 from 184 reviews."
+ },
+ "hero": {
+  "variant": "split",
+  "kicker": "Al Wathbah Building · Shop 3 · Al Khan, Sharjah",
+  "title_lines": [
+   "Gentle grooming",
+   "for cats and dogs",
+   "who hate grooming."
+  ],
+  "lede": "A calm pink salon where groomers Gerald and Mark take their time with nervous pets: full grooms, baths, nail trims and first-time puppy and kitten grooms. Free parking out front.",
+  "image": "img/hero.jpg",
+  "image_alt": "Freshly groomed fluffy dog on the grooming table",
+  "secondary": {
+   "label": "Services",
+   "href": "#services"
+  }
+ },
+ "cta_label": "Book on WhatsApp",
+ "cta_text": "Hi Posh Pet Salon, I'd like to book a grooming appointment.",
+ "proof_note": "Rated 4.9 by 184 pet parents",
+ "address_lines": [
+  "Posh Pet Salon, Al Wathbah Building, Shop 3",
+  "3 Street, Al Khan, Sharjah"
+ ],
+ "ticker": [
+  "Full grooming",
+  "Cat grooming",
+  "Puppy & kitten grooms",
+  "Spa bath",
+  "Nail trim",
+  "Pomeranian cuts"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "services",
+   "nav": "Services",
+   "eyebrow": "Grooming",
+   "title": "Patient hands.",
+   "title_dim": "Happy pets.",
+   "items": [
+    {
+     "name": "Full dog grooming",
+     "feature": true,
+     "img": "img/maltese.jpg",
+     "alt": "White Maltese after a groom",
+     "desc": "Bath, blow-dry, breed cut, nails and ears.",
+     "quote": "My furry baby came back looking absolutely adorable.",
+     "cite": "Divya B."
+    },
+    {
+     "name": "Cat grooming",
+     "img": "img/cat.jpg",
+     "alt": "Fluffy white cat after grooming",
+     "desc": "Gentle handling for cats, including Persians and long-hairs."
+    },
+    {
+     "name": "Spa bath",
+     "img": "img/bath.jpg",
+     "alt": "Small dog being bathed",
+     "desc": "Shampoo, conditioner and a fluffy blow-dry."
+    },
+    {
+     "name": "Puppy & kitten grooms",
+     "img": "img/shihtzu.jpg",
+     "alt": "Happy Shih Tzu held by a groomer",
+     "desc": "Short, calm first grooms to build trust."
+    }
+   ],
+   "perks": [
+    "Women-owned",
+    "Free parking",
+    "Cats & dogs",
+    "Cards & Apple Pay"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Book ahead",
+   "title": "Weekends fill up.",
+   "title_dim": "Weekdays are calmer."
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Groomers",
+   "eyebrow": "The groomers",
+   "title": "Gerald and Mark.",
+   "title_dim": "Our reviews are full of them.",
+   "items": [
+    {
+     "name": "Gerald",
+     "role": "Senior groomer",
+     "quote": "Gerald and Mark listened to exactly how I wanted the grooming done and delivered perfect results.",
+     "cite": "Ace C.",
+     "count": 17,
+     "short": "Gerald"
+    },
+    {
+     "name": "Mark",
+     "role": "Groomer",
+     "quote": "Mark usually grooms all my cats and he is very gentle with them.",
+     "cite": "Sumerah K., customer for years"
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/storefront.jpg",
+     "alt": "Posh A Pet Salon storefront"
+    },
+    {
+     "src": "img/groom.jpg",
+     "alt": "Groomer trimming a dog on the table"
+    },
+    {
+     "src": "img/maltese2.jpg",
+     "alt": "Maltese with tongue out"
+    },
+    {
+     "src": "img/cat-sweater.jpg",
+     "alt": "White cat in a green sweater"
+    },
+    {
+     "src": "img/room.jpg",
+     "alt": "Pink grooming room"
+    },
+    {
+     "src": "img/night.jpg",
+     "alt": "Posh salon lit up at night",
+     "wide": true
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "book",
+   "eyebrow": "Book",
+   "title": "Tell us about your pet.",
+   "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": [
+    "How much is a full groom for my dog?",
+    "Do you groom Persian cats?",
+    "Can I book this weekend?",
+    "Do you offer boarding?"
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Al Wathbah Building,",
+   "title_dim": "Al Khan, Sharjah."
+  }
+ ]
+}

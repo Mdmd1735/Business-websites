@@ -1180,7 +1180,8 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/high-touch-automotive/",
- "buy_likelihood": 7
+ "buy_likelihood": 6,
+ "notes": "Premium detailing studio (PPF/ceramic on supercars); premium customers expect a site. Rarely replies (5%), so reach them via WhatsApp or visit."
 }

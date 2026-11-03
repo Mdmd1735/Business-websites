@@ -2368,10 +2368,11 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/cake-bloom/",
- "buy_likelihood": 6,
+ "buy_likelihood": 5,
  "instagram_match": {
   "how": "listed on Google Maps"
- }
+ },
+ "notes": "Brand-led ('UAE's first Korean cakery'), probably sells via Instagram DMs; rarely replies (3%). Pitch online ordering of custom cakes."
 }

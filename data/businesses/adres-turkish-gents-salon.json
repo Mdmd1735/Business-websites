@@ -1290,7 +1290,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/adres-turkish-gents-salon/",
- "buy_likelihood": 6
+ "buy_likelihood": 6,
+ "notes": "1,009 reviews, since 2009. Note: a web designer already pitched them in a Google review 7 months ago, so they may have been approached. Replies 35%.",
+ "display_name": "Adres Turkish Gents Salon"
 }

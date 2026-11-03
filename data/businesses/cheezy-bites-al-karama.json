@@ -2048,13 +2048,21 @@
   "text": ""
  },
  "worth_score": 77,
- "socials": {},
+ "socials": {
+  "instagram": "cheezybitesrestaurant"
+ },
  "emails": [],
  "todo_manual": [
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/cheezy-bites-al-karama/",
- "buy_likelihood": 8
+ "buy_likelihood": 7,
+ "notes": "898 reviews, 24/7 delivery business; a site with menu + WhatsApp ordering saves aggregator fees. Replies 12%.",
+ "display_name": "Cheezy Bites Karama",
+ "instagram_match": {
+  "how": "name+location",
+  "followers": 833
+ }
 }

@@ -1774,10 +1774,11 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/maira-beauty-salon/",
  "buy_likelihood": 7,
  "instagram_match": {
   "how": "listed on Google Maps"
- }
+ },
+ "notes": "4.9 from 348, Instagram only, near BurJuman metro. Landline only (no WhatsApp); call or visit. Owner replies to ~17%."
 }

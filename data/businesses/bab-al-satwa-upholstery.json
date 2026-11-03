@@ -1339,7 +1339,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/bab-al-satwa-upholstery/",
- "buy_likelihood": 7
+ "buy_likelihood": 6,
+ "notes": "386 reviews, women-owned, open till midnight. Replies 42%. Some complaints about audio warranty.",
+ "display_name": "Bab Al Satwa Car Accessories & Upholstery"
 }

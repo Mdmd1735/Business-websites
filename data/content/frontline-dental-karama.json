@@ -1,0 +1,202 @@
+{
+ "preset": "clinic-navy",
+ "theme": {
+  "frame": "round",
+  "hero_ratio": "3/4",
+  "slab_o": ".25"
+ },
+ "brand": {
+  "name": "Frontline",
+  "sub": "Medical Center · Dental · Karama",
+  "mark": "F",
+  "footer_word": "Frontline"
+ },
+ "seo": {
+  "title": "Frontline Medical Center Dental Clinic | Dentist in Al Karama, Dubai · Dr. Vimal",
+  "description": "Frontline Medical Center, Al Attar Center, Karama: family and emergency dentistry, root canals, implants, braces, smile design, whitening and extractions. Open daily 10 AM to 8:30 PM. 4.9 from 116 reviews."
+ },
+ "hero": {
+  "variant": "split",
+  "kicker": "Al Attar Center · Unit 106 B · Al Karama",
+  "title_lines": [
+   "The family dentist",
+   "Karama trusts",
+   "with its kids."
+  ],
+  "lede": "Gentle extractions, root canals, implants, braces and smile design, open every day of the week. Patients name Dr. Vimal in 24 of our last 40 reviews.",
+  "image": "img/hero.jpg",
+  "image_alt": "Frontline Medical Center reception with gold logo",
+  "secondary": {
+   "label": "Treatments",
+   "href": "#treatments"
+  }
+ },
+ "cta_label": "Call to book",
+ "proof_note": "Every review gets a reply",
+ "address_lines": [
+  "Frontline Medical Center, Al Attar Center",
+  "Unit 106 B, Al Karama, Dubai"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "treatments",
+   "nav": "Treatments",
+   "eyebrow": "Treatments",
+   "title": "Complete dental care",
+   "title_dim": "under one roof.",
+   "items": [
+    {
+     "name": "Family & children's dentistry",
+     "feature": true,
+     "img": "img/kids.jpg",
+     "alt": "Dentist and nurse treating a young girl",
+     "desc": "Check-ups, cleaning and gentle care for kids and adults.",
+     "quote": "Despite our tight schedule, they handled everything with expertise and efficiency.",
+     "cite": "Anna L."
+    },
+    {
+     "name": "Root canal & extractions",
+     "img": "img/surgery.jpg",
+     "alt": "Treatment room with dental chair",
+     "desc": "Fast, gentle extractions and root canal treatment."
+    },
+    {
+     "name": "Implants & dentures",
+     "img": "img/denture.jpg",
+     "alt": "Flexible partial denture",
+     "desc": "Tooth replacement with implants, bridges and dentures."
+    },
+    {
+     "name": "Braces & smile design",
+     "desc": "Orthodontics, smile designing and laser dentistry."
+    },
+    {
+     "name": "Whitening & cleaning",
+     "desc": "Bleaching, scaling and polishing."
+    },
+    {
+     "name": "Emergency dental care",
+     "desc": "Chipped or broken tooth? Call and we'll fit you in, any day."
+    }
+   ],
+   "perks": [
+    "Open daily 10 AM – 8:30 PM",
+    "Emergency appointments",
+    "Wheelchair-accessible parking",
+    "Cards & Apple Pay"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Short waits",
+   "title": "Come when",
+   "title_dim": "it's quiet."
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Dentists",
+   "eyebrow": "The team",
+   "title": "Dr. Vimal,",
+   "title_dim": "Dr. Limy, Dr. Nizana.",
+   "items": [
+    {
+     "name": "Dr. Vimal",
+     "short": "him",
+     "count": 24,
+     "role": "Dentist",
+     "quote": "Very skilled, gentle, and thorough in explaining the procedure.",
+     "cite": "Mary Janice V."
+    },
+    {
+     "name": "Dr. Limy",
+     "short": "her",
+     "count": 6,
+     "role": "Dentist",
+     "quote": "She was very sweet and explained everything in detail.",
+     "cite": "Raine"
+    },
+    {
+     "name": "Dr. Nizana",
+     "short": "her",
+     "count": 5,
+     "role": "Dentist",
+     "quote": "Their expertise and efficiency were crucial as we were in a hurry before our travel.",
+     "cite": "Anna L."
+    },
+    {
+     "name": "Dr. Upama",
+     "role": "Dentist"
+    },
+    {
+     "name": "Elsa",
+     "role": "Dental nurse"
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/reception.jpg",
+     "alt": "Reception desk"
+    },
+    {
+     "src": "img/doctor.jpg",
+     "alt": "Frontline dentist at his desk"
+    },
+    {
+     "src": "img/kids2.jpg",
+     "alt": "Child patient during treatment"
+    },
+    {
+     "src": "img/smile-kid.jpg",
+     "alt": "Young patient smiling with the dentist"
+    },
+    {
+     "src": "img/team-care.jpg",
+     "alt": "Dental nurse with a patient"
+    },
+    {
+     "src": "img/logo.jpg",
+     "alt": "Frontline Medical Center gold logo"
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "faq",
+   "id": "faq",
+   "eyebrow": "Questions",
+   "title": "Before you come in",
+   "items": [
+    {
+     "q": "Are you open on weekends?",
+     "a": "Yes, every day from 10 AM to 8:30 PM."
+    },
+    {
+     "q": "Do you handle dental emergencies?",
+     "a": "Yes. Call +971 4 397 9702 and we'll find the earliest slot."
+    },
+    {
+     "q": "Where exactly are you?",
+     "a": "Al Attar Center, unit 106 B, Al Karama, with parking nearby."
+    }
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Al Attar Center,",
+   "title_dim": "Karama."
+  }
+ ]
+}

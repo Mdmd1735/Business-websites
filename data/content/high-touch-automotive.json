@@ -1,0 +1,216 @@
+{
+ "preset": "steel-volt",
+ "theme": {
+  "display": "\"Unbounded\",system-ui,sans-serif",
+  "body": "\"Inter Tight\",system-ui,sans-serif",
+  "google_fonts": "family=Unbounded:wght@500;700&family=Inter+Tight:wght@400;500;600&family=Cairo:wght@700",
+  "dw": "500",
+  "dcase": "none",
+  "dtrack": "-0.03em",
+  "accent": "#E9E9E6",
+  "accent_text": "#FFFFFF",
+  "on_accent": "#0B0B0C",
+  "bg": "#0B0B0C",
+  "surface": "#141415",
+  "surface_2": "#1D1D1F",
+  "duo": "#2A2A2C",
+  "busy": "#6F6F73",
+  "glow": "rgba(255,255,255,.07)",
+  "band_bg": "#EDEDEA",
+  "band_accent": "#111111",
+  "h1max": "104px",
+  "r": "2px",
+  "btn_r": "999px",
+  "mark_r": "2px",
+  "accent_on_photo": "#FFFFFF",
+  "hero_pos": "center 65%"
+ },
+ "brand": {
+  "name": "High Touch",
+  "sub": "Automotive · Al Quoz",
+  "mark": "X",
+  "footer_word": "HIGH TOUCH"
+ },
+ "seo": {
+  "title": "High Touch Automotive | PPF, Ceramic Coating & Detailing in Al Quoz, Dubai",
+  "description": "High Touch Automotive, Warehouse 36, 17A Street, Al Quoz 2: paint protection film, ceramic coating, window tint, rim painting and interior detailing, with progress photos and a coffee bar. 4.7 from 199 reviews."
+ },
+ "hero": {
+  "variant": "full",
+  "kicker": "Warehouse 36 · 17A Street · Al Quoz 2",
+  "title_lines": [
+   "Paint protection,",
+   "ceramic,",
+   "and a proper flat white."
+  ],
+  "lede": "PPF, ceramic coating, tint and detailing for everything from a Model Y to a Diablo. Clear explanations, progress photos while you wait, and a barista in the lounge.",
+  "image": "img/supra.jpg",
+  "image_alt": "Grey Toyota Supra in the High Touch studio",
+  "secondary": {
+   "label": "Services",
+   "href": "#services"
+  }
+ },
+ "cta_label": "Get a quote on WhatsApp",
+ "cta_text": "Hi High Touch, I'd like a quote for PPF / ceramic.",
+ "proof_note": "Owners of Teslas, Defenders and supercars",
+ "address_lines": [
+  "High Touch Automotive, Warehouse 36",
+  "17A Street, Al Quoz Industrial 2, Dubai"
+ ],
+ "ticker": [
+  "Paint protection film",
+  "Ceramic coating",
+  "Window tint",
+  "Rim painting",
+  "Interior detailing",
+  "Paint correction"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "services",
+   "nav": "Services",
+   "eyebrow": "Services",
+   "title": "Protect it once.",
+   "title_dim": "Keep it looking new.",
+   "items": [
+    {
+     "name": "Paint protection film",
+     "feature": true,
+     "img": "img/hero.jpg",
+     "alt": "High Touch Auto Care studio with black SUVs",
+     "desc": "Gloss, matte and colour PPF. Mentioned in 18 of our last 40 reviews.",
+     "quote": "High Touch did an amazing job applying paint protection film to my Tesla Model Y in matte grey.",
+     "cite": "Bernard G."
+    },
+    {
+     "name": "Ceramic coating",
+     "img": "img/charger.jpg",
+     "alt": "Matte grey Dodge Charger after coating",
+     "desc": "Deep gloss and easy washing for years."
+    },
+    {
+     "name": "Window tint",
+     "img": "img/tesla.jpg",
+     "alt": "White Tesla in front of the logo wall",
+     "desc": "Heat-rejecting tint, fitted cleanly."
+    },
+    {
+     "name": "Rim painting & detailing",
+     "img": "img/dodge.jpg",
+     "alt": "Red Dodge with black hood",
+     "desc": "Rim colour changes, interior and exterior detailing."
+    },
+    {
+     "name": "The lounge",
+     "img": "img/coffee.jpg",
+     "alt": "Drift coffee cup in front of the High Touch logo",
+     "desc": "Wait with a coffee from Safiah at the bar."
+    }
+   ],
+   "perks": [
+    "Progress photos",
+    "Appointments recommended",
+    "Mon–Sat 10 AM – 8 PM",
+    "Cards & Apple Pay"
+   ]
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Team",
+   "eyebrow": "The team",
+   "title": "Names from",
+   "title_dim": "our reviews.",
+   "items": [
+    {
+     "name": "Rama",
+     "count": 5,
+     "role": "Detailing",
+     "quote": "Professional, thorough, and the finish is flawless: deep gloss and rich shine.",
+     "cite": "Google reviewer"
+    },
+    {
+     "name": "Ahmed",
+     "count": 4,
+     "role": "Service advisor"
+    },
+    {
+     "name": "Aslam",
+     "count": 3,
+     "role": "PPF installer"
+    },
+    {
+     "name": "Youcef",
+     "count": 3,
+     "role": "Detailer"
+    },
+    {
+     "name": "Safiah",
+     "count": 3,
+     "role": "Barista",
+     "quote": "Safiah, the barista at this automotive garage, truly elevates the whole visit.",
+     "cite": "Marwan A."
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/gt3.jpg",
+     "alt": "Porsche GT3 RS rear wing with High Touch plate"
+    },
+    {
+     "src": "img/lambo.jpg",
+     "alt": "Red Lamborghini Diablo with doors up",
+     "wide": true
+    },
+    {
+     "src": "img/rolls.jpg",
+     "alt": "Rolls-Royce wheel detail",
+     "wide": true
+    },
+    {
+     "src": "img/defender.jpg",
+     "alt": "White Land Rover Defender"
+    },
+    {
+     "src": "img/overhead.jpg",
+     "alt": "Team wrapping a classic Mustang, seen from above",
+     "wide": true
+    },
+    {
+     "src": "img/lounge.jpg",
+     "alt": "Customer lounge with coffee bar"
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "quote",
+   "eyebrow": "Quote",
+   "title": "Tell us the car.",
+   "lede": "Prices depend on the model and the package. Tap a question to send it on WhatsApp.",
+   "asks": [
+    "Full-body PPF price for my car?",
+    "Which ceramic package do you recommend?",
+    "How much for tint all round?",
+    "How long will my car need to stay?"
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Warehouse 36,",
+   "title_dim": "Al Quoz 2."
+  }
+ ]
+}

@@ -1247,10 +1247,12 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/bubbles-pets-salon/",
  "buy_likelihood": 8,
  "instagram_match": {
   "how": "listed on Google Maps"
- }
+ },
+ "notes": "Replies to 90%, charity angle (50% to animal rescue), adoption + boarding. Instagram only. Landline.",
+ "display_name": "Bubbles Pets Salon"
 }

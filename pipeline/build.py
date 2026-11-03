@@ -133,6 +133,7 @@ def clean(t):
 
 def build(slug):
     b = json.loads((ROOT / "data/businesses" / f"{slug}.json").read_text())
+    if b.get("rating"): b["rating"] = f"{float(b['rating']):.1f}"
     c = json.loads((ROOT / "data/content" / f"{slug}.json").read_text())
     tok = {**BASE, **PRESETS[c["preset"]], **c.get("theme", {})}
     hours, table = parse_hours(b.get("hours"))

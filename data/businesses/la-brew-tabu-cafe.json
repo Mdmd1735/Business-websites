@@ -1754,10 +1754,11 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/la-brew-tabu-cafe/",
- "buy_likelihood": 8,
+ "buy_likelihood": 7,
  "instagram_match": {
   "how": "listed on Google Maps"
- }
+ },
+ "notes": "4.9 from 310, Instagram only, replies 50%. Café owners like a reservation/menu page."
 }

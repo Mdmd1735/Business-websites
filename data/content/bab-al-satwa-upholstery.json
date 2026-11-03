@@ -1,0 +1,33 @@
+{
+ "preset": "steel-volt",
+ "theme": {"accent": "#FFD20A", "accent_text": "#FFD20A", "on_accent": "#111111", "bg": "#0D0D0F", "surface": "#161618", "surface_2": "#202024", "duo": "#7A0C14", "busy": "#C8102E", "glow": "rgba(200,16,46,.22)", "band_bg": "#F5F2EA", "band_accent": "#C8102E", "frame": "square", "hero_ratio": "3/4"},
+ "extra_css": ".hero-split .hero__slab{background:#C8102E}",
+ "brand": {"name": "Bab Al Satwa", "sub": "Car Accessories · Al Barsha", "mark": "B", "footer_word": "BAB AL SATWA"},
+ "seo": {"title": "Bab Al Satwa Car Accessories & Upholstery | Tinting, Seat Covers, Audio, Al Barsha", "description": "Car accessories superstore on Hessa Street, Al Barsha 3: window tinting, leather seat upholstery, audio, batteries, headlights and fitting. Open 9 AM to midnight. 3M authorized. 4.8 from 386 reviews."},
+ "hero": {"variant": "split", "ar_name": "باب السطوة لزينة السيارات", "kicker": "Hessa Street · Al Barsha 3", "title_lines": ["Tint, seats,", "sound, lights.", "Fitted tonight."],
+   "lede": "A car accessories superstore with an installation bay out front: window tinting, custom leather seats, speakers and amps, batteries and headlights. Open until midnight, every day.",
+   "image": "img/hero.jpg", "image_alt": "Bab Al Satwa storefront with a green supercar outside", "secondary": {"label": "What we fit", "href": "#services"}},
+ "cta_label": "Get a price on WhatsApp", "cta_text": "Hi Bab Al Satwa, I'd like a price for my car.",
+ "proof_note": "386 reviews · women-owned",
+ "address_lines": ["Bab Al Satwa Car Accessories & Upholstery", "Hessa Street, Al Barsha 3, Dubai"],
+ "ticker": ["Window tinting", "Leather seats", "Car audio", "Batteries", "Headlights", "3M authorized", "Open till midnight"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "What we fit", "title": "Everything for your car,", "title_dim": "fitted while you wait.",
+   "items": [
+    {"name": "Leather upholstery", "feature": true, "img": "img/red-seats.jpg", "alt": "Custom red leather seats in a sports coupe", "desc": "Custom-stitched seat covers and full re-trims in any colour.", "quote": "Did my car seat covering and headlights work. Reasonable price.", "cite": "Dr Zeeshan A."},
+    {"name": "Window tinting", "img": "img/tint.jpg", "alt": "Mustang rear window after tinting", "desc": "Heat-rejecting film, fitted in the bay."},
+    {"name": "Car audio", "img": "img/audio.jpg", "alt": "Kenwood and Pioneer subwoofer in a boot", "desc": "Speakers, amps, subwoofers and head units."},
+    {"name": "Batteries & lights", "img": "img/install.jpg", "alt": "Technician fitting parts to a car in the bay", "desc": "Battery replacement, headlights and bulbs."},
+    {"name": "Seat covers", "img": "img/black-seats.jpg", "alt": "Black leather seat covers", "desc": "Ready-made and custom-fitted covers."}
+   ],
+   "perks": ["Open daily till midnight", "3M authorized", "Women-owned", "Wheelchair accessible", "Delivery available"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Skip the wait", "title": "Drop in when", "title_dim": "the bay is free."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Ask for", "title": "Mahmoud.", "title_dim": "Customers keep naming him.",
+   "items": [{"name": "Mahmoud", "count": 9, "role": "Sales & fitting", "quote": "The staff treatment was amazing, especially a guy named Mahmoud. Super recommended.", "cite": "Saif"}]},
+  {"type": "gallery", "images": [{"src": "img/store.jpg", "alt": "Bright storefront with car accessories"}, {"src": "img/aisle.jpg", "alt": "Accessory aisles inside the store", "wide": true}, {"src": "img/red-interior.jpg", "alt": "Red leather interior with new dashboard screen"}, {"src": "img/aisle2.jpg", "alt": "Long aisle of car parts", "wide": true}, {"src": "img/night.jpg", "alt": "Store sign lit at night", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "quote", "eyebrow": "Prices", "title": "Send your car model,", "lede": "We'll reply with a price. Tap a question to open WhatsApp.",
+   "asks": ["How much for window tinting on my car?", "Price for leather seat upholstery?", "Do you have a battery for my car in stock?", "Can you fit a new speaker system tonight?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Hessa Street,", "title_dim": "Al Barsha 3."}
+ ]
+}

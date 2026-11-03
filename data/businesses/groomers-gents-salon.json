@@ -1001,5 +1001,6 @@
  "site_status": "backup",
  "site_url": "https://mdmd1735.github.io/Business-websites/groomers-gents-salon/",
  "buy_likelihood": 6,
- "notes": "Scouted, not built in batch 1 (weak photos or inactive owner)."
+ "notes": "Scouted, not built in batch 1 (weak photos or inactive owner).",
+ "display_name": "Groomers Gents Salon"
 }
