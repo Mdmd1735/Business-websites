@@ -1,0 +1,775 @@
+{
+ "slug": "ashwina-hair-and-beauty-salon",
+ "name": "Ashwina Hair & Beauty Salon",
+ "place_id": "ChIJy6W-QxdDXz4RDBxKakIIo-8",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Bur Dubai",
+ "address": "27 Sheikh Sabah Al-Ahmad Al-Jaber Al-Sabah St - Al Raffa - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2526847,
+  "lng": 55.2878466
+ },
+ "phone": "+971 4 351 7005",
+ "rating": 4.7,
+ "userRatingCount": 542,
+ "rating_distribution": {
+  "oneStar": 15,
+  "twoStar": 1,
+  "threeStar": 16,
+  "fourStar": 67,
+  "fiveStar": 443
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Ashwina%20Hair%20%26%20Beauty%20Salon&query_place_id=ChIJy6W-QxdDXz4RDBxKakIIo-8",
+ "website": "https://www.instagram.com/ashwinasalon/?hl=en",
+ "categories": [
+  "Beauty salon",
+  "Beautician",
+  "Beauty product supplier",
+  "Facial spa",
+  "Hair salon",
+  "Massage spa",
+  "Nail salon",
+  "Thermal baths",
+  "Hairdresser",
+  "Waxing hair removal service"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 8:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 8:30 PM"
+  }
+ ],
+ "owner_description": "For Ladies only -\nPersonalised Hair Consultations, Haircuts, Hair Colour, Hair Straightening , BlowDry, Hair Curls, Hair Wash, Smoothening,\nFacials\nNail Spa & Nail Extensions\nWaxing, Threading\nMoroccan Bath\nBody Massage, Henna Mehendi\n\nWhatsApp +971585607005 to chat for appointments 😊",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "hair color",
+  "keratin treatment",
+  "welcoming staff",
+  "highlights",
+  "global hair colour",
+  "hair styling",
+  "waxing",
+  "moroccan bath",
+  "blow dry",
+  "nail art"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Parvathy G",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "When it comes to my hair Bhagyashri is the one I truly trust. She is always my first choice and her advice never fails to make me feel my best.\n\nSuch a wonderful and talented lady who takes the time to listen, patiently understands what you want and thoughtfully explains what would work best for your hair.I genuinely trust her expertise. Thank you so much dear for always making me feel confident and happy with my hair ❤️",
+   "owner_reply": "Thank u for ur kind review ♥️"
+  },
+  {
+   "author": "faye F",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had such a great experience at Ashwina Beauty Salon in Mankhool! Bebo did my hair and she was absolutely amazing — very professional, friendly, and genuinely listened to exactly what I wanted. She took her time and did such a beautiful job with my hair. I’m really happy with the result and would highly recommend asking for Bebo if you’re visiting! ❤️",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "Manya Mirchandani",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had a wonderful experience at Ashwina! Got my mani-pedi and eyebrows done which were great, and especially loved my hair treatment and trim by Bebo - she did an amazing job and gave me super helpful tips and recommendations. Highly recommend!",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "shweta menon",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My mother and I've been going to Ashwina's Salon in Mankhool since 2014, and every single time their quality of service, talent, and kindness never fail to amaze us!\n\nIt's our go-to place for all hair and beauty-related needs 😍\n\nJust got my balayage done by Bhagashri - it was a great experience, she was very kind, understood what would suit me, gave me great tips for maintenance, and overall did a fantastic job! I absolutely love the results ❤️\n\nBesides hair color, she's also my regular hair artist for haircuts ❤️\n\nI 100% recommend checking out Ashwina's Salon 🤗",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "Aditi Kichloo",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Bhagyasri handled my expectations very well especially as someone who’s had no sort of treatment or color to hair before this. She was very honest and explained everything thoroughly and was also kind enough to do a follow up to adjust the color to meet my expectations. Couldn’t have had a better first experience!",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "Viara Bathija",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Went into the salon very insecure about my hair. After the haircut from Babitha aka bebo, Im feeling so confident and happy!\nShe helped me understand my hair type and gave me tips on how to keep my hair healthy!\nWill definitely visit again!",
+   "owner_reply": "Thank u for ur kind review🙏♥️"
+  },
+  {
+   "author": "Rakhi Ravindran",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I’ve been a regular client at Ashwina Salon for a while now and I absolutely love it. I mainly visit for haircuts and hair spas, and I’m always in the best hands with Bhagyasree.\nShe is truly exceptional at what she does. Not only is she highly skilled, but she also takes the time to understand my hair’s needs, explains everything clearly, and suggests the most suitable treatments. Her haircuts are precise, balanced, and thoughtfully tailored to suit my face shape and style. Thanks to her, my hair feels healthier and looks great every time.\nI truly appreciate the care and expertise she puts into every visit. Highly recommended. Thank you, Bhagyasree.",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "minita sodhi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I had an amazing experience at Ashwina. Being skeptical about cutting or colouring my hair- Bhagyashree from the Mankhool branch gave me a thorough walk through of what I can expect and what is good for my hair type. She was patient enough to answer all my questions and I completely trusted her with my hair. The result was amazing! Thank you Bhagyashree. Would highly recommend her for cut and colouring! She’s a genius!",
+   "owner_reply": "Thank u for ur kind review 🤗🙏🏻"
+  },
+  {
+   "author": "H M",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I have been to so many places but never found such passionate people  at work. Dhank (hairdresser) did my hair and she did amazing highlights and global. Owner is always around watching the girls if they’re doing a perfect job. She was nice to speek to and gives perfect ideas. prices are very good and affordable too! Definitely worth the visit. all the best",
+   "owner_reply": "Thank you so much for your kind review ❤️🙏🏻😊"
+  },
+  {
+   "author": "Nikita Bhandari",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "This was the first time I tried out this salon and it did not disappoint. It was recommended by a friend.\nBhagyashri was my stylist and she did a French balayage and knew exactly what type of color I am looking for! She was sweet and friendly! Professional as well and you could see she was loving what she does and seemed knowledgeable about it. Thanks again for the wonderful color! I love it :)",
+   "owner_reply": "Thank you for your kind review ❤️🙏🏻😊"
+  },
+  {
+   "author": "Namrata Dhakan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Yet again, i had an amazing time at Ashwina salon. I always get my hair done by Bhagyashri. Absolutely love her service. Her vast knowledge of hair colors, haircuts and all hair related treatments gives me the confidence to go back again & again. She provides professional suggestions on cuts that suit your face & haircolors that suit your complexion. Moreover, she makes sure you’re comfortable throughout and delivers a great result.\nThank you Bhagyashri & Ashwina Salon! ❤️",
+   "owner_reply": "Thank u for ur kind review❤️"
+  },
+  {
+   "author": "Reshmi Varma",
+   "rating": 5,
+   "when": "Edited 4 years ago",
+   "text": "Best salon in terms of service. Amazingly professional and courteous staff. Ashwina gives the most beautiful haircut and colour. They make sure my monthly visits are absolutely worth it.",
+   "owner_reply": "Thanks a lot for your kind review 😊"
+  },
+  {
+   "author": "Pooja Kukadia",
+   "rating": 4,
+   "when": "5 years ago",
+   "text": "Came to them with my hair color all worn out and faded and my hair out of shape after not having looked after it after a whole year. Ashwina has been great help right off the bat by suggesting what color and cut will help me look great with least maintenance. Her experience speaks for itself. Highly recommend if you’re looking for a hair makeover or touch up in general!! Thanks team Ashwina for becoming my go to hair care place!",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "sahana nayak",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I got my hair coloured from Ashwina salon. Being my first time I had no clue of the various methods. Bhagyashri helped me select a colour and type suitable for my skin tone. She suggested the style to set my hair as well. I was very happy with the service. She made the experience very special.",
+   "owner_reply": "Thank u for ur kind review❤️"
+  },
+  {
+   "author": "pooja venugopal",
+   "rating": 5,
+   "when": "6 years ago",
+   "text": "After years of contemplation, a pandemic took me to take the plunge to add some color to my hair . A thorough research lead me to Ashwinas and what an experience it’s been.\nAshwina, the owner of the salon has an immense knowledge and confidence which adds up to her youthful exuberance. Initially I went in with another plan for my hair but her suggestion and detailing enabled me to trust her and it turned out to be the best decision.\nI walked out of the salon with such happiness and loving my new look.\nIt’s been three days and my hair Is gorgeous!\nThis is a gem of a place. Kudos to you Ashwina and your team.\nCan’t wait to be back:)",
+   "owner_reply": "Thanks very much for your kind review 😊🙏🏻🙏🏻"
+  },
+  {
+   "author": "Rachna Rajendran",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I’m a regular at Ashwina’s and I love every service that I have received there. Sandra did a wonderful job with my hair colouring and even recommended the right products suited for my hair type. Dhanak is my go-to person for waxing; she always does a thorough job. The staff are welcoming, friendly and make you feel comfortable.",
+   "owner_reply": "Thank u for ur kind review😻"
+  },
+  {
+   "author": "Anitha Pillai",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "What a brilliant experience I had at Ashwina! Went in for a haircut, colour and a manicure. The services for all were exceptional and I got detailed feedback on the pros and cons of what I wanted! Shout out to Rita and Bhagyashree for such a brilliant job. The team were courteous and highly professional and handled the pressure of a busy salon with ease. Shall certainly be back the next time I'm in Dubai...",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "Firdous Mulla",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have been visiting Ashwina hair &beauty salon since a few months now and have been very happy to have found this place.  Rachna has been doing a fantastic job on my hair since day one. Rachna has been very honest with me regarding what will suit my hair , the products etc. Did general keratin treatment with global hair colour. My hair feels wonderful and I am very happy with the service. Will definitely recommend this to everyone! Thanks Rachna and Ashwina Salon team.",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "litty Varghese",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "Just had my hair color yesterday I must say this place has never disappointed me to a bit. Bhagyashri assisted me the entire process and she has just created the way i wanted it. I went there with less confidence but came out with happiness.",
+   "owner_reply": "Thank u for ur kind review mam♥️"
+  },
+  {
+   "author": "Saanvi Sadhwani",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Had a wonderful experience at this salon. The staff is very polite and welcoming, and the service was done with so much care and perfection. I walked out feeling confident and happy. Will definitely be coming back!",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "Laura Ralston",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "Thank you Ashwina!\n\nI had a 12hr layover in Dubai and Ashwina was wonderful enough to accommodate. She is talented, professional, knowledgeable and honest.  I put my hair in her hands and she repaired, cut and corrected my color. I even got my eyebrows waxed for the first time! Recommend!",
+   "owner_reply": "Thanks a lottt for your kind review 😊"
+  },
+  {
+   "author": "brown fox",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Had a really nice experience at Ashwina Hair & Beauty Salon. Everyone was super polite and actually listened to what I wanted, then gave honest suggestions. The place is spotless, comfy, and has a relaxed vibe, and the prices feel totally fair for the quality. Definitely somewhere I’d go back to in Dubai.",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "Sejal Shah",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was my first time I visit Ashwina beauty salon I walked in with lot of doubts in mind. But I got my hair transformation in the most  elegant look 😍Thanks to Bhagyasree.",
+   "owner_reply": "Thank u for ur kind review ♥️"
+  },
+  {
+   "author": "Ranu Jain",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "By far my most favourite!known Ashwina since 2010 but this women really knows her job well and has trained her staff v well!the best salon in Dubai.",
+   "owner_reply": "Thanku for Ur kind review♥️"
+  },
+  {
+   "author": "shriya dua",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Have been  getting my hair cut and styled by Debo in ashwina since few years. She is excellent and can be trusted blindly for her work.",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "Akshata Babel",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Visited Ashwina for the first time and had such a lovely experience. Babita did a fantastic job with my haircut and also shared some really helpful advice about my hair. She was very patient and also recommended right products for my hair type. Super happy with the service—thank you Babita! Definitely coming back again 😊",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "neha gurdasani",
+   "rating": 5,
+   "when": "6 years ago",
+   "text": "Love the vibe of Ashwina salon and great to be back. Fantastic color from Ashwina, as always. You've done a fantastic job on my transformation. Thank you so much. Safety measures are followed strictly and the staff is extremely pleasant. Highly recommend xo",
+   "owner_reply": "Thanks a lot for your kind review 😊🙏🏻"
+  },
+  {
+   "author": "priya karthikeyan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Bhagyashri is a very talented and professional hairstylist.I was very apprehensive about doing a balayage for my hair and had no idea how to go about it.it was a treat to myself on my birthday and Bhagyashri really made it not less than a cakewalk for me…The coffee caramel shade she chose with the highlights was soo perfect for my complexion that I really loved the entire thing on myself.She understood my concern, clarified my doubts and was very patient.She did her work soo artistically and must say the 5 minute head massage was a cherry on the cake.She advised me on the post care of the treatment and the professionalism with best hygiene standards was the highlight.Even Nova at the reception, was soo welcoming and the end result was more than just wow…she made me feel sooo different on my day that I felt as if m born again with a new hairdo..thank u sooo much for making it big for me…Thanks to Ashwina hair and beauty salon for having such professional stylists with u.",
+   "owner_reply": "Thank You For Your Kind Review Ma’am <br><br>Hope To See You Next Time …☺️"
+  },
+  {
+   "author": "linda varghese",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I am excited to finally share my review, even if it's a bit late! I truly appreciate everything Rachna has done for my hair over the past two years - she's always honest and recommends only what's best for my hair. I also love recommending Ashwina to others because their hospitality and hygiene are simply top-notch!!",
+   "owner_reply": "Thank u for ur kind review♥️"
+  },
+  {
+   "author": "Ayesha Khan",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Got a haircut from Bebo, she is very meticulous and took her time to recommend a suitable hairstyle.Would come again to get the service done from her.",
+   "owner_reply": "Thank u for ur kind review♥️"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    592,
+    334
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    480
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    992,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    739,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1532,
+    1026
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1024,
+    683
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    480
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    540,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    378,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    396,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    501,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    427,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    411,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    412,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    289,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    289,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/ashwinasalon/?hl=en",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "ashwinasalon"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 73,
+ "socials": {
+  "instagram": "ashwinasalon"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/ashwina-hair-and-beauty-salon/",
+ "buy_likelihood": 8
+}
