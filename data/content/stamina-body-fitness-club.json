@@ -1,0 +1,32 @@
+{
+ "preset": "clinic-navy",
+ "theme": {"accent": "#E0245E", "accent_text": "#C21C50", "surface_2": "#E7EAF4", "duo": "#C9D0EA", "busy": "#3B4FB8", "band_bg": "#121A3D", "band_accent": "#FF7AA2", "frame": "round", "hero_ratio": "4/3", "dcase": "none"},
+ "brand": {"name": "Stamina", "sub": "Body Fitness · Al Nahda", "mark": "S", "footer_word": "STAMINA"},
+ "seo": {"title": "Stamina Body Fitness Club | Gym in Al Nahda, Sharjah · Above Life Pharmacy", "description": "Stamina Body Fitness Club, Jawahara Silver building 1st floor, above Life Pharmacy, Al Nahda Sharjah: strength and cardio, functional turf, personal training and kids' fitness. Rated 5.0 from 118 reviews."},
+ "hero": {"variant": "stack", "kicker": "Jawahara Silver Building · Above Life Pharmacy · Al Nahda, Sharjah", "title_lines": ["Stamina mode:", "on."],
+   "lede": "A bright, spacious gym in Al Nahda with a full strength and cardio floor, a turf zone and trainers who coach everyone, not just personal-training clients. Rated a perfect 5.0.",
+   "image": "img/hero.jpg", "image_alt": "Long, bright gym floor at Stamina with mirrors and turf", "secondary": {"label": "The gym", "href": "#gym"}},
+ "cta_label": "Ask about membership", "cta_text": "Hi Stamina Body Fitness, I'd like to know your membership prices.",
+ "proof_note": "Perfect 5.0 · replies to every review",
+ "address_lines": ["Stamina Body Fitness Club, Jawahara Silver Building, 1st floor", "Above Life Pharmacy, Al Nahda, Sharjah"],
+ "ticker": ["Strength", "Cardio", "Functional turf", "Personal training", "Kids fitness", "Body shaping"],
+ "sections": [
+  {"type": "services", "id": "gym", "nav": "The gym", "eyebrow": "Inside", "title": "Space to train,", "title_dim": "coaches who care.",
+   "items": [
+    {"name": "Coaching for everyone", "feature": true, "img": "img/trainer.jpg", "alt": "Trainer guiding a member on a machine", "desc": "Trainers guide every member, not just PT clients.", "quote": "The instructors are super friendly and take the time to guide everyone, even if you are not doing personal training, which is so rare.", "cite": "Nisanth N."},
+    {"name": "Strength", "img": "img/racks.jpg", "alt": "Racks and plates", "desc": "Racks, plates and dumbbells."},
+    {"name": "Cardio", "img": "img/cardio.jpg", "alt": "Treadmills by the windows", "desc": "Treadmills, bikes and steppers."},
+    {"name": "Turf & stretching", "img": "img/stretch.jpg", "alt": "Trainer assisting a stretch", "desc": "Functional turf and mobility."},
+    {"name": "Kids fitness", "desc": "Members enrol their children too."}
+   ],
+   "perks": ["Open 5 AM – 12 AM", "Personal training", "Body shaping programmes"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan your session", "title": "Find the", "title_dim": "quiet hours."},
+  {"type": "team", "id": "team", "nav": "Trainers", "eyebrow": "Trainers", "title": "Ashiq and Swaroop.", "title_dim": "Named again and again.",
+   "items": [{"name": "Ashiq", "count": 12, "role": "Head trainer", "quote": "Swaroop and Ashik are very good trainers. They explain the exercises properly.", "cite": "Anoop T."}, {"name": "Swaroop", "count": 8, "role": "Trainer"}]},
+  {"type": "gallery", "images": [{"src": "img/reception.jpg", "alt": "Reception with Stamina logo", "wide": true}, {"src": "img/neon.jpg", "alt": "Stamina mode on neon sign"}, {"src": "img/turf.jpg", "alt": "Turf area", "wide": true}, {"src": "img/coach.jpg", "alt": "Coach spotting a dumbbell press"}, {"src": "img/team.jpg", "alt": "Members at a community event", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Ask for the admission offer.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a monthly membership?", "Do you have a kids' programme?", "What does personal training cost?", "Is there a family discount?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Above Life Pharmacy,", "title_dim": "Al Nahda."}
+ ]
+}

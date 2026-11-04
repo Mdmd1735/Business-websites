@@ -1,0 +1,1005 @@
+{
+ "slug": "zeenat-allibaas",
+ "name": "Zeenat Allibaas",
+ "place_id": "ChIJpeZsNTldXz4RMvqmuDHzRQQ",
+ "category": "tailor",
+ "category_weight": 10,
+ "area": "Deira, Dubai",
+ "address": "Shop no.18, MRM Bldg. Deira Abu Hail - 33 - Street 24 33rd St - Hor Al Anz East - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2813504,
+  "lng": 55.3523403
+ },
+ "phone": "+971 55 715 3869",
+ "rating": 4.9,
+ "userRatingCount": 140,
+ "rating_distribution": {
+  "oneStar": 0,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 8,
+  "fiveStar": 132
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Zeenat%20Allibaas&query_place_id=ChIJpeZsNTldXz4RMvqmuDHzRQQ",
+ "website": "https://www.facebook.com/Zeenat-Al-Libaas-105304001699008/",
+ "categories": [
+  "Tailor"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "11 AM to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11 AM to 11 PM"
+  }
+ ],
+ "owner_description": "Indian, Pakistani, Arabic & Western Ladies Tailoring & Embroidery. We also do alterations & mending of all kinds, both for ladies and gents",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   },
+   {
+    "Online appointments": false
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   }
+  ]
+ },
+ "review_tags": [
+  "stitching",
+  "pakistani suits collection",
+  "laces",
+  "salwar stitching",
+  "dresses",
+  "blouse stitching",
+  "friendly team",
+  "quick work",
+  "dressmaking",
+  "finishing of suits"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Anam Zafar Kazi",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Absolutely loved their work! It is very difficult to find nice tailors in dubai and having had such an amazing experience with Zeenat al Libas has put an end to my tailor search. Highly recommend them! They are very cooperative and work so neatly. I got my lehenga stitched with them and they did a fantastic job!",
+   "owner_reply": "Thankyou so much Anam for your wonderful feedback. We look forward to stitching more beautiful clothes for you in the future too !"
+  },
+  {
+   "author": "farah nazeer",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I have been stitching with Hubaib past 8-10 years... every time, it's perfect. They take care of the dyeing, laces, lining and even do delivery on time.\nI get the suits stitched from the comfort of my home without stepping out as they pick up and deliver it home too !! They also sell unstitched branded suits at reasonable prices.",
+   "owner_reply": "Asak Farah. I am glad you have been Zeenat Al Libaas' long term customer since years now. I have never met you as Hubaib personally ensures to collect and deliver your suits at your place directly. However i do note we regularly receive a huge number of your suits for tailoring. And you buy pakistani suit materials from us too. Thankyou for your continued trust in us & your valuable and appreciative feedback.<br><br>Best Regards<br>Afsha"
+  },
+  {
+   "author": "Sanikaa",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I got 2 kurtis made in Zeenat Al Libas all of them came out exactly how I wanted it. I absolutely love them it's so comfortable, and it fits perfectly. Thank you so much Zeenat Al Libas, I'll make sure to get another kurti made soon 🩷",
+   "owner_reply": "Thankyou Sanikaa for trusting us with your kurtis. We enjoyed tailoring them for you. We look forward to stitching more beautiful and comfortable clothes for you in the future too!"
+  },
+  {
+   "author": "Zarqa Shameel",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I got a couple of dresses stitched a few days back and Alhamdulillah they were done to perfection in the very first go. No changes needed. That's how a tailor should be. Blessed i found Afsha at the right time. She came to take my measurements in the peak hours of a hot summer day!! Thank you Afsha!! And was always there for my queries.\n\nAll my dresses are very neatly done and am highly satisfied with their work. My dresses are in safe hands now!\n\nHubaib bhai is very kind and helpful too. He came  to hand over my dresses when our car was stuck in the heavy traffic due to the football match. Thank you Hubaib bhai!\n\nA big Thumbs up to Afsha and her team. Wishing you the very best!",
+   "owner_reply": "We are humbled by your feedback and appreciation. Customer Satisfaction and Customer Care matters most to us. Thankyou for giving us the opportunity to stitch your dresses. We look forward to making more beautiful clothes for you💕"
+  },
+  {
+   "author": "Rekia Suliman",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent tailoring service! The stitching quality, fitting, and finishing are outstanding. Every dress is made with great attention to detail and delivered on time. Special thanks to Wajid and Najim for their professionalism, skill, and friendly service. Highly recommended!",
+   "owner_reply": "Thankyou so much Rekia for your very positive feedback. It means alot to us. Yes Najim is our Alteration Expert & Wajid an Excellent Master. Together with our entire team - Hubaib who multitasks managing the shop, senior expert tailor Muqqadas and remaining dedicated tailors Arman and Akbar Ali - the team works hard to deliver as committed to our customers. Truly grateful to having you all wonderful customers & a wonderful team !"
+  },
+  {
+   "author": "taniya dhananjani",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Very good tailoring service, neat stitching, and friendly staff. I am happy with the results. Highly recommended!",
+   "owner_reply": "Thankyou so much Taniya for your valuable feedback & appreciation. It means alot to us. We look forward to tailoring for you in the future too !"
+  },
+  {
+   "author": "Gazala Aga",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I had my mom dress stitched here and the experience was excellent. The tailor is very kind and delivered my dress in a short period of time without compromising on quality. The stitching was perfect, with great attention to detail, and the price was very reasonable. Highly recommend for anyone looking for quality work, quick service, and friendly customer care!",
+   "owner_reply": "Thankyou Gazala for your kind appreciation. We enjoyed stitching your mother's dress and look forward to making more beautiful clothes for you and your family.<br><br>Regards<br>Afsha<br>"
+  },
+  {
+   "author": "Zee Rizvi",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I had couple of outfits stitched and some pieces altered, and I couldn’t be happier. It was a short notice yet he completed my order right on time. The fit is perfect, the stitching is neat, and the tailor pays great attention to detail. Reliable, friendly, and skilled! I highly recommend. The best part is he comes home to pick the clothes and delivers back. Customer satisfaction is 100%.",
+   "owner_reply": "Thankyou Zee for your valuable feedback and for giving us the opportunity to serve you."
+  },
+  {
+   "author": "Zeba Shaikh",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Excellent tailoring service! Their stitching is very neat and perfect. They stitched my dress urgently in just one day which I really appreciated\nThey also have original Maria and brand new collections available\nHighly recommended!",
+   "owner_reply": "Thankyou Zeba for your acknowledgement & appreciation of our work. It motivates us to raise our standard of work.<br><br>Afsha"
+  },
+  {
+   "author": "Taaliah Lone",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Recommending their services big time.\nAfshaan with Wajid bhai and team have done a great job for my Pakistan formal wear suits.",
+   "owner_reply": "Thankyou Taaliah for your wonderful feedback. We enjoyed tailoring your dresses to be worn at your sister's wedding.<br>We look forward to stitching more beautiful clothes for you in the future too !"
+  },
+  {
+   "author": "Anysé Cazranee",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "My experience at Zeenat Al Libaas has been amazing!! Hubaib and Wajid have been a pleasure to work with. They have been going out of their way to work within my ridiculous timelines but the quality of work never looks rushed. They never once shut down my crazy design ideas! Instead, they have made all my ideas come to life and have been making sure all the work is done so neatly and carefully. Their finishing is really top notch! I really appreciate all the running around and also the frequent checking in to clarify designs by messaging before starting. Again, a special shoutout to Hubaib and Wajid - it is so rare to find people that are passionate and take pride in their work like this. Afsha, the owner, is also very sweet and helpful. Looking forward to doing more work with her! These are the kind of people we must be supporting! I am so so happy with all my outfits made! I will for sure be a regular here!! Thank you once again!",
+   "owner_reply": "Assalamoalaikum Anise.<br><br>It was a pleasure meeting you &  it was fun & interesting tailoring your designs and clothes. You made us raise our bar higher & higher with your experimental ideas & challenges. And yes you are correct - with the passionate, excited & hardworking spirit my entire team possesses, especially my masterminds Hubaib & Wajid, nothing seems impossible - all seems like cake.<br><br>Thankyou for trusting us with your delicate & embroidered dresses and choosing us for your work during your short visit to Dubai from your homeland Canada.<br><br>Looking forward to meeting you again in your winter trips here and yes we are ready for more challenges you throw at us. Thankyou once again.<br><br>Love,<br>Afsha"
+  },
+  {
+   "author": "Shaima Hashim",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "heir work is excellent, and the pricing is well justified by the quality. Mr. Wajid and his team are attentive, listen carefully to requirements, and provide helpful style suggestions. They consistently deliver outfits that closely match the reference designs, and are committed to their timeline.",
+   "owner_reply": "Thankyou Shaima for your candid and very detailed review. Yes, indeed Wajid ensures he understands his customers and their requirements for their clothes. He makes sure that his team delivers as per discussed.<br><br>Thankyou for giving us the opportunity to serve you. We look forward to stitching more clothes for you in the future too.<br><br>Best Regards<br>Afsha<br>(Owner)"
+  },
+  {
+   "author": "Iman Raheel",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Here in UAE a very good and reliable tailor shop where we can get our clothes stitcht just like a boutique... I am pretty satisfied",
+   "owner_reply": "A very warm thankyou Iman for coming to us to stitch your dresses. We are so glad you are happy with our work.<br>We look forward to tailoring more beautiful clothes for you in the future too !<br><br>Best Regards <br>Afsha"
+  },
+  {
+   "author": "afzia salam",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Best tailor in abu hail. They stitch every piece with perfection and neatness. On time completion and affordable prices. 100% recommended. My go to place for all my stitching needs since 5 years now.",
+   "owner_reply": "Thankyou Afzia for your trust & belief in our work. Thankyou also for giving us the opportunity to serve you since 5 years of our existence. We look forward to stitching more beautiful clothes for you in the future."
+  },
+  {
+   "author": "Zeba Ahmad",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Thank you @zeenatallibaas for the excellent fitting and finishing. Your personalised care is much appreciated. Finishing our dresses with ample time before Eid has taken away the last minute stress we usually face with Eid dresses",
+   "owner_reply": "Thankyou Zeba. It is the trust in us which motivates us to do our best"
+  },
+  {
+   "author": "aaliyah khan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Exceptional craftsmanship and super-fast delivery! The customer service was outstanding, making the whole experience smooth and hassle-free. A highly trusted Pakistani tailor, ideal for stitching traditional and designer dresses with perfection and style. If you're looking for quality tailoring that truly understands Pakistani fashion, this is the place to go. Highly recommended!",
+   "owner_reply": "Thankyou so much Aaliyah for recognising & appreciating our hardwork. Customer Satisfaction with no compromise on quality is our goal, for which our team is encouraged to go the extra mile. Alhamdulillah !<br><br>Best Regards<br>Afsha<br>(Owner)"
+  },
+  {
+   "author": "Shabnam Suboohi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Thank you for the wonderful stitching! It has always been a fantastic experience. The stitching and designing are truly beyond words. The tailoring is done by highly skilled and polite professionals who go above and beyond, delivering more than 100%. A heartfelt thanks to Afsha and the entire team for the hard work. The delivery was even completed ahead of time!",
+   "owner_reply": "Thankyou Shabnam for trusting us with your clothes since a couple of years now. Always a pleasure tailoring beautiful clothes for you."
+  },
+  {
+   "author": "Aafiya Kazia",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This is my regular tailoring shop now and I've already recommended them to many others. Perfect fitting, reasonable prices and neat work. Patient and polite tailors, they answer all our questions without getting irritated. Best thing is they get laces, lining etc if we need, so you just have to give them the cloth and tell them what you want, and they even suggest their own designs. I even trust them to do whatever design they want with my dresses because I know they will do a wonderful job.",
+   "owner_reply": "Asak Aafiya. That is a wonderful feedback. Jazakallah khair for your lovely appreciation of our work. It motivates us to do better and better."
+  },
+  {
+   "author": "Abeer Rahman",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Went to Zeenat Allibaas on a recommendation of a friend who has been a long time customer of theirs and was not disappointed. Their work is clearly skilled, clean and quick without compromising on the quality. They will help get fabric for lining/lace/decorations if needed which is very helpful. While I know other tailors who have cheaper rates, I went to ZAL for items I needed done for my wedding; for their work and speed, their rates and services are perfect.",
+   "owner_reply": "We are humbled by your appreciation. Thankyou so much.<br><br>Best Regards<br>Afsha (Owner)<br>"
+  },
+  {
+   "author": "Rabah Syed Kazmi",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Stitched a couple dresses from them. They were helpful and the stitching came out pretty neat as well. Will definitely go to them in the future as well",
+   "owner_reply": "Thankyou Rabah for your wonderful feedback. The dresses were part of your wedding trouseau. We are happy you tailored them through us. We look forward to tailoring more such beautiful dresses for you, especially for your special occasions.<br><br>Wishing you a beautiful marriage and a happy future.<br><br>Best regards<br>Afsha"
+  },
+  {
+   "author": "rimsha",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Hubaib is the guy to go for all your dress designing  and stitching.He does it really well.The turn around time is good.The icing on the cake is that they come pick and drop your clothes.Awesome service and Amazing stitch",
+   "owner_reply": "Hello Rimsha. I perfectly agree with you. Hubaib is our asset who takes care of every detail of our work and he does it with great passion, dedication & hardwork. The entire team puts their soul in the work. We thank you for your kind appreciation & acknowledgement."
+  },
+  {
+   "author": "Azalia Bouteak",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Excellent tailoring work, the stitching is neat and perfect, they pay great attention to details. very satisfied with the service.",
+   "owner_reply": "Thankyou Azalia for your positive feedback. We value our customers appreciation as it motivates us to work better. "
+  },
+  {
+   "author": "Taha Anwer",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I wore the zeenat al libaas made Anarkali set yesterday at my friend's wedding and everyone loved my clothes and kept asking about the details of the fabric, the work, the design, stitching, the fit. So I elaborately told them all about Zeenat allibaas and the exquisite work that you all are doing. They wanted to know if they can order clothes and would you deliver it to India? I hope, soon 😌",
+   "owner_reply": "Hello Taha, <br>We are so happy that you enjoyed wearing your dress and your friends loved it too.<br><br>We have customers who have moved to UK, USA & Canada. They select our clothes online. We tailor it for them, looking after the entire process - purchasing any lining, laces, accessories required. If colours are not available in lining & laces we get them dyed. We then have the clothes couriered to them by Emirates Post which  is reasonable.<br><br>Besides old customers, we have tourists to Dubai who  take the opportunity to buy and  stitch their Indian & Pakistani dresses here as it falls way cheaper than getting them stitched back home.<br><br>Indian tourists also stitch from us, as in India they are unable to get the perfect Pakistani styling & finishing.<br><br>It will be our pleasure to take up orders for your friends. <br>Please ask them to check our instagram and facebook accounts to know more about our work. We will take up the entire process as mentioned above.<br><br>Thankyou so much. I am available on whats app on my contact number for any further assistance.<br><br>Warm Regards,<br>Afsha<br>"
+  },
+  {
+   "author": "Anisha Rudolp",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Staff was extremely welcoming and the blouse stitching came out to be perfect the blouse had to be done within short period and it was done before time . Over all I really loved the experience\n\nThe material is also very well taken care and an amazing experience thank you so much",
+   "owner_reply": "Thankyou so much Anisha for your wonderful feedback. It means alot to us !<br><br>Best Regards<br>Afsha"
+  },
+  {
+   "author": "angel mae panizales",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "They stitch every piece with perfection and neatness. On time completion and affordable prices. 100% recommended. And also All staff are good",
+   "owner_reply": "Thankyou Angel for giving us the opportunity to serve you."
+  },
+  {
+   "author": "Dr. Fazilatun Nessa",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It’s my pleasure to write a review for Zeenat Al libaas. I first learned about this Tailoring and embroidery shop from a colleague and have since had several dresses made there—all of which turned out perfect. The tailors and the owner of the shop are kind and experienced individuals who quickly understand what a customer needs. I am extremely satisfied with the dresses they tailored for me and very happy with the service I received. I wish the shop continued growth and hope it attracts even more customers in the future.",
+   "owner_reply": "Thankyou so much Dr.Fazila for such a beautiful review. We love this entire process of clothes making and its wonderful interacting with all you customers. Thankyou so much again for your best wishes.<br><br>Regards<br>Afsha"
+  },
+  {
+   "author": "Laveena Sirnani",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "I have been getting dresses stitched from Zeenat Allibaas from 2021. Great customer service, good stitching quality, good at stitching any kind kind of complex neck patterns as per customer requirements.\nZeenat Allibass is also selling dress materials of well-known brands at reasonable prices.",
+   "owner_reply": "Hi Laveena. It has been a pleasure stitching dresses for you and your mother. Thankyou for trusting us with your clothes since years now.  We appreciate the wonderful review. Thankyou once again.<br>Warm Regards,<br>Afsha<br>(Owner)<br>"
+  },
+  {
+   "author": "lubna ahmed",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Very skilled and creative designers! They have immensely fine stitching and reasonable rates. Always have a great experience with them and they never disappoint me. My daughter is very keen with specific designs and even she is happy with their tailoring.",
+   "owner_reply": "Thankyou so much Lubna for your kind words. They motivate us to do better"
+  },
+  {
+   "author": "Zamina Khalilova",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Thank you a lot for the wonderful work! Ordered and got stitched with high quality several modest maxi dresses and some of complex design dresses. Prices are very affordable and timeline is sufficient. Very friendly team, always responding calls and messages and always true to their word MashaAllah! Highly recommend.",
+   "owner_reply": "Thankyou for your beautiful words. They inspire us to do better"
+  },
+  {
+   "author": "lamya rahman",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I had recently provided my saree blouses for stitching at the very last minute and I am really satisfied with the outcome and perfection. It came out just the way I wanted. And I am really lucky to be having the shop very close to where I stay. Would definitely recommend to all those who have customized stitching requirements.",
+   "owner_reply": "Thankyou Lamya for removing time for posting a review. We appreciate your beautiful feedback. It encourages us to do better. Customer satisfaction is our top priority. We look forward to stitching more beautiful clothes for you. Thankyou once again.<br><br>Regards,<br>Afsha"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1038,
+    1318
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1567
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1339
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    758,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1021,
+    1326
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1040,
+    1354
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    758,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1482
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    758,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    766,
+    1209
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.facebook.com/Zeenat-Al-Libaas-105304001699008/",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "facebook": "Zeenat-Al-Libaas-105304001699008"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {
+  "facebook": "Zeenat-Al-Libaas-105304001699008"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/zeenat-allibaas/",
+ "buy_likelihood": 8
+}

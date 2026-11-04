@@ -1,0 +1,1510 @@
+{
+ "slug": "happy-paws-veterinary-clinic",
+ "name": "Happy Paws Veterinary Clinic LLC",
+ "place_id": "ChIJb_TLbOZDXz4RdDL3LfAzjEE",
+ "category": "veterinary clinic",
+ "category_weight": 13,
+ "area": "Deira, Dubai",
+ "address": "G12 Block A, Al Hudaiba Awards Bldg - Jumeira St - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2414161,
+  "lng": 55.2719957
+ },
+ "phone": "+971 50 898 4782",
+ "rating": 4.6,
+ "userRatingCount": 324,
+ "rating_distribution": {
+  "oneStar": 22,
+  "twoStar": 5,
+  "threeStar": 4,
+  "fourStar": 24,
+  "fiveStar": 269
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Happy%20Paws%20Veterinary%20Clinic%20LLC&query_place_id=ChIJb_TLbOZDXz4RdDL3LfAzjEE",
+ "website": "",
+ "categories": [
+  "Veterinarian"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 9 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 9 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 9 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 9 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "8 AM to 11 PM"
+  }
+ ],
+ "owner_description": "We are a veterinary clinic with an experienced team who brings the best of our services with compassion, care & commitment.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": false
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ]
+ },
+ "review_tags": [
+  "neutering",
+  "accommodating staff",
+  "rescue care",
+  "stray animal care",
+  "vaccinations",
+  "accommodating doctor",
+  "genuine care for pets",
+  "clean clinic",
+  "baby care",
+  "caring staff"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.43,
+ "reviews": [
+  {
+   "author": "Sana Hoda",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "We cannot thank the team at Happy Paws Veterinary Clinic LLC enough for the exceptional care they gave our cat, Lucky.  From the moment we walked in, they treated him with such gentleness, patience, tenderness and genuine compassion. The veterinarians and staff took the time to explain everything clearly on every visit, answered all our questions, and made what could have been a stressful experience so much easier for both us and our sweet little boy.\nIt truly means the world to know your beloved pet is in kind and capable hands. We are so grateful for their professionalism, warmth, and the obvious love they have for the animals they care for. We would recommend Happy Paws Veterinary Clinic LLC to any pet parent without hesitation. Thank you for taking such wonderful care of our family. 🐾",
+   "owner_reply": null
+  },
+  {
+   "author": "Aziz Hameed",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I canot find the right words to articulate how much every person in this clinic has authentic love and care for the animals they tend too.\n\nThese guys were patient and went the extra mile at ever turn in the road. They truly went above and beyond taking care of my little boy.\n\nTheir attitude towars their patients and patiens parents is beyond reproach, and I ony have praise for each every member of the team.\n\nThank you Happy Paws, truly. God Bless you ALL.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jam0 _Ry (Jammity)",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "We brought my beloved Mokhi just yesterday, traveling 20 km to make sure he received the best care!! Ms. Julie and Sir Manuel were always been incredibly friendly, approachable, and professional making us feel completely at ease (as always). Thank you!\n\nOverflowing gratitude to Dr. Mark for your support advice and guidance 😊 way more than we could handle at once! Even though i couldn’t afford everything immediately, Doc Mark were so understanding and took the time to educate thoroughly, explaining the treatment plan and giving the cheapest and most practical options for Mokhi’s care.❤️ Doc Mark offered alternatives and carefully explained each step so we could do the best we could for Mokh without stress🙏. Thank you Doc!\n\nWe will always be grateful for your kindness, patience, and expertise. They were always been calm, approachable, and genuinely caring. It’s reassuring to know my Love is in such capable hands. I hope he gets well soon!\n\nWe highly recommend this clinic to anyone looking for compassionate, trustworthy, and genuinely pet-loving veterinary care!💯",
+   "owner_reply": null
+  },
+  {
+   "author": "arzuv kadyrova",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Kind atmosphere and professional team, after first visit my Persi is right eye got healed the next day. Thanks for vet doctor for providing the right care and advising useful information",
+   "owner_reply": null
+  },
+  {
+   "author": "Catherine Joy Lacap",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I bring my maltese pomeranian mix dog to Happy Paws Veterinary CLinic LLC..for check up as my dog not stop coughing for days now...and i thinking to make a review after..\n\nSo fast forward after went home..i seen my dog literally reduce coughing..and rest well...\n\nThank you to Doc HazeL..and another thanks to Doc HiLdy who spaying my dog few months back..i just forget to put reviews before but after very good experience for multiple times in Happy Paws Veterinary CLinic LLC i think it's deserve the very honest reviews..\n\nThank you so much for warm welcome and great treatment everytime me and my fur babies went there...\n\nIf you are a fur parents like me...Happy Paws Veterinary CLinic LLC  is the right place to entrust ur furr babies welfare... 🥰💪🏼😘❤️",
+   "owner_reply": "Thank you so much for the wonderful 5⭐️ review, Ms. Catherine! We’re truly happy to hear that Chanel felt better so quickly after her visit. Dr. Hazel and Dr. Hildy are grateful for your kind words, and we appreciate you trusting us with Chanel’s care—both recent and previous visits. 🐶💛<br><br>If you ever have concerns about your fur babies, we’re always here to help. 💜✨"
+  },
+  {
+   "author": "Chithra Unni",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Lovely experience with Happy Paws.\nI have visited earlier for dropping off a stray for TNR. And visited recently to do vaccinations for a stray as well.\nVet Rojan very nicely explained to me the that we shouldn't do vaccinations before a grooming session.\nHad a good experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Krizzia Marie Antiga",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an absolutely wonderful experience at this vet clinic today with my kitten Bebo! From the moment we walked in, the staff were incredibly friendly and welcoming. The meet-and-greet team and the assistant vet were all so kind and professional, making both us and my kitten feel at ease.\n\nA special shoutout to Dr. Dan, who is truly amazing! He is so hands-on, loving, and attentive to every pet patient he handles. His genuine care and passion for animals shine through in everything he does. He took the time to explain everything thoroughly, making sure I felt informed and confident about my kitten's care.\n\nThe level of care here is simply superb, and I can't recommend this clinic enough! If you're looking for a vet in Dubai, this is the place to go—100001x highly recommended! Thank you to the entire team for the outstanding service! 🎉🎉💯💯💯🥰🥰🥰 Will surely comeback soon after three weeks for the second visit. 😺🥰💖⭐⭐⭐⭐⭐💛💜",
+   "owner_reply": "Thank you for the amazing & glowing 5⭐️ review, Ms. Krizzia! We’ve shared your feedback with the whole team, especially to Dr. Dhan, and they were so happy to hear it. We are grateful for your kind words and appreciation for the outstanding service you and Bebo experience. If you have the chance to check as well, we have featured Bebo in our social media  accounts. How we love Bebo interacted with Dr. Dhan in his tiny cutesy sweater! 😊💜💛"
+  },
+  {
+   "author": "Mohamed Riyaz",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had an amazing experience at Happy Paws Veterinary Clinic LLC. Dr. Hazel, Nurse Salik, and Receptionist Jane were all very kind, professional, and caring.\n\nThey provided excellent service and truly showed that they care about my pet. I really appreciate their support, attention, and friendly approach throughout the visit.\n\nHighly recommended for anyone looking for a veterinary clinic that genuinely cares about pets!",
+   "owner_reply": null
+  },
+  {
+   "author": "Princess Ponce",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Thank you so much to the amazing team at Happy Paws for your incredible service! I lost my beloved cat Ashley for 380 long days. A kind rescuer, Ms. Amita, found her and brought her to your clinic. Because Ashley already had her microchip registered with you—and I'd previously informed the clinic that she was missing—they contacted me right away when she arrived. I'm incredibly grateful that we had her microchipped before she got lost; it made all the difference in bringing her home safely. Thank you from the bottom of my heart! 🐾❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Ynah Libunao",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "As a furmom of 4, I am very thankful for Happy Paws for being a vet clinic with a heart. They have genuine compassion to not only the pets but the owners as well. My visit and experience has always been a treat. The owners, the staff and doctors are pleasing to deal with. They are very accomodating, responsive and with good quality of service - very good value for money. There will be no reason for a furparent to not be responsible as their price point is also pocket friendly.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sachini Ishara",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I visited Happy paws clinic and they were really professional and friendly. I did my cat’s castration and it was very easy procedure. Very affordable prices. I attended many clinics which charged me unnecessarily. Thank you and i will continue with your clinic.",
+   "owner_reply": null
+  },
+  {
+   "author": "Zairene Gregorio",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I really love this vet! They took great care of my cat, and the staff were very accommodating and friendly. The cost of the services was also reasonable and affordable. I highly recommend this veterinary clinic!",
+   "owner_reply": null
+  },
+  {
+   "author": "Aybs Dyoys",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Our cats were diagnosed with liver disease and were given medications. After two weeks, they are better and one of our cat does not pee anymore outside his litter box. We also had our cats neutered and both did well after surgery. We are happy and satisfied with this vet. We know our cats are in good hands. Thank you Doctor Mark for handling our cats with care and for the advices. Grateful as well to the well trusted and very accommodating staffs & nurses ☺️☺️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Angie Villanueva",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I am happy with Happy Paws. All the people there, from nurses to doctors are amazing. They have taken care of my fur baby from the time I got her as a kitten from the street, now she is growing up healthy. Every time we arrive at the clinic, we are always welcomed warmly, and they lovingly take care and attend to my cat immediately. Very professional. Am fully satisfied, I think so is my cat. Thanks for your great help as always! We will be back!",
+   "owner_reply": null
+  },
+  {
+   "author": "jfer Perez",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "🐾✨ **Lucy’s Journey with Happy Paws** ✨🐾TESTIMONY\n\nWhat a whirlwind it’s been with my sweet Lucy! It all started when I noticed her ear was swollen, and my heart sank. I knew we had to see Dr. Dhan at Happy Paws. During our first visit, he carefully examined Lucy and suspected an ear hematoma. He explained everything with such compassion and professionalism, guiding us through the treatment options. I felt hopeful when he mentioned we could start with medicine and that surgery might not be necessary.\n\nWe went home, optimistic and armed with a treatment plan. For a week, I watched Lucy closely, hoping to see improvement. But as fate would have it, her ear swelled up again. Feeling anxious, I returned to Happy Paws for another check-up. Dr. Dhan’s reassurance made all the difference as we decided to go ahead with the surgery.\n\nThe day of the surgery was nerve-wracking, but the team was amazing. They kept me updated throughout the process, sending messages and even videos to show how Lucy was doing. It truly helped ease my worries during a tough time.\n\nWhen I finally brought Lucy home, I was filled with relief and gratitude. She started to heal quickly, and after a week, we returned to have her stitches removed. Watching her regain her playful spirit has been the highlight of my days!\n\nNow, Lucy is almost fully recovered and back to her mischievous self. While her ear may look a little different, her health and happiness are what matter most. I can’t thank Dr. Dhan and the entire Happy Paws team enough for their exceptional care and support throughout this journey.\n\nYou’ve made a lasting impact on our lives, and I’m forever grateful!",
+   "owner_reply": "Thank you so much Ms. Jenifer for choosing Happy Paws and for sharing Lucy’s journey with us and the community. We are overjoyed as your feedback motivates us to keep raising the bar and sets the standard for excellence in everything we do. Thank you again for your 5⭐️ rating and for being an amazing part of our journey as well. 😊💜💛"
+  },
+  {
+   "author": "Mish Mish",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Dear Doc Hildy and the team at Happy Paws Vet Clinic,\n\nI want to express my heartfelt gratitude to all of u for taking such wonderful care of Mishmish during his illness for 5 days. Your kindness, professionalism, and dedication gave me comfort during a stressful time.\n\nThank u Doc Hildy for your expertise and genuine compassion. U made all the difference in Mishmish’s recovery. I’m truly grateful to the entire staff for their support and care. Mishmish and I are lucky to have u as part of our lives.\n\nFurmom, Verlyn",
+   "owner_reply": "Thank you so much for your heartwarming message, Ms. Verlyn! 😻 We're thrilled to hear that you and Mishmish had such a positive experience at Happy Paws. Your trust in us means the world, and we look forward to continuing to provide the best possible care for Mishmish. 😊💜💛"
+  },
+  {
+   "author": "don bonaos",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Highly Recommended.\nHappy Paws team are really friendly and helpful.\nThey take care of your cats as if their own.\n\nI am really thankful for the whole team and the vets. Especially for Doc Hildy for taking good care of Sasha.",
+   "owner_reply": "Thank you so much for trusting Happy Paws with Sasha’s care, Mr. Don! 🐾💜<br><br>We are thrilled to hear you had a great experience with our team. Your kind words truly warm our hearts and we will happily share the love with Doc Hildy and the rest of the team! 😺💛"
+  },
+  {
+   "author": "Ann",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "We brought Uthred for his vaccination, and as soon as he entered the clinic, he was so nervous that he peed on the floor 😅. Sorry to kuya who immediately cleaned up the floor 🙏. We had an excellent experience overall. Dr Dhan was so kind and attentive, making sure Uthred felt comfortable despite his nervousness and a bit aggressive in the new environment. Dr. Dhan even took him for a short walk to calm him down, showing incredible patience and care. The staff were very friendly and helpful, making the entire process smooth. They took care of everything while we waited, and the transaction was quick and efficient. Dr. Dhan explained everything clearly and made sure Uthred received the most accurate shots and proper care. We’re very grateful for the wonderful service and will definitely be coming back!",
+   "owner_reply": "Thank you Ms. Ann for the glowing 5⭐️ & trusting us with our VIP Uthred’s care! We are grateful to you for sharing your pawsitive experience with Uthred’s lovely photos & appreciation to the team especially to Dr. Dhan & Anthony. We hope that Uthred will feel less nervous & more at home next time. 😊💜💛"
+  },
+  {
+   "author": "Boney Philip",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Just like the name it’s a Happy & tiny place. Very friendly staff, they were so gentle with our boy PIKU.\nDeworming Medicine\nFungal scan\nMicrochip\nAnnual vaccination , all inclusive we got a package of 400 AED.",
+   "owner_reply": null
+  },
+  {
+   "author": "Angela Caballero",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Thank you so much Doctor Dhan for saving our Shoku ! 😻And Thank you to all the staff of Happy Paws for accommodating us every night when we were visiting our baby. Godbless to all 🙏🏻❤️",
+   "owner_reply": "Thank you Ms. Angela for your kind words, the glowing 5 stars & sharing the photos of Shoku! We are extremely grateful to you for trusting us with Shoku’s care. 😊💜💛"
+  },
+  {
+   "author": "Dee Amuire",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Took a trip to the vet & they were certified Happy Paw Babies.. never could be happier my kids are well after being spayed.. 4 of them in 1 day 🙏🏻.. VET's are very approachable & well experienced.. deserve a 5 🌟.. Thank you so much ❤️‍🩹❤️",
+   "owner_reply": "Thank you Ms. Dee for sharing your photos & 5⭐️ review with the community & for trusting Happy Paws with the procedure & care of our VIPs Wiffy, Winter, Wiggy & Wimppy! 😊💜💛  "
+  },
+  {
+   "author": "Allendrey Duran",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Very accomodating staff and doctors. I have been bringing my pets and rescues here and I've had nothing but good experience to share. Keep it up.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ayako Yoshitomi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I mainly visit this vet for TNR. I like the beautiful stitch. Its a very important for stray cat to recover outside without infection.They provided a reasonable rate for Strays. Thank you.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kimmmeow",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Thank you, Doc Hildy and team!\nThey were so patient and kind with our grumpy sick babies. They were also following up with the progress after our visit.\n\nOur kittens are so much better now. We were so scared to death that we're gonna lose them. Thank you for taking care of them ❤️\n\n* booking an appointment was very easy\n* they have tabby in case you can't pay the fees in full\n* they have packages for specific needs (booking these soon for our babies)",
+   "owner_reply": null
+  },
+  {
+   "author": "mhae",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The Staffs are friendly and Doctor Dhan made an amazing job with our 3 cats no sweat❤️ the cats loves him.  Thank you Doc Dhan for making our visit memorable and happy at the same time to see you again! ❤️❤️❤️",
+   "owner_reply": "Thank you Ms. Mae for the 5⭐️ & for sharing your photos & review to the community! We are happy that you had a memorable experience at Happy Paws & we will surely share your compliments to Dr. Dhan & team. 😊💜💛 "
+  },
+  {
+   "author": "Maria Masi",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "We always have the pawsome experience with Happy Paws. We entrust our Milo’s health 💯 to their genuinely caring and well-skilled vets and staffs. Kudos to their staffs who maintain the sanitation and organized admin. Thank you especially to Doc Mark, Ma’am Jane and Ma’am Ela for taking care of our Milo and for sharing your precious time during our inquiries and short talks.\nWell wishes Happy Paws and more blessings to everyone.\n🐾 Milo & family",
+   "owner_reply": "Thank you Ms. Masi for trusting us with Milo and leaving us a 5-star review. We will surely share your kind words and lovely photos to the whole Happy Paws team. 😊💜💛"
+  },
+  {
+   "author": "Jovi Pauline Mabaquiao",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Went for a checkup because our furbaby Ash is having diarrhoea turns out to be an open pyometra. So glad we went there just in time. Their doctors are very competent and gentle w/ pets. We had Dr. Dhan for Ashki’s surgery. Everything went well, Ashki is feeling better now. The incision is clean, no infection and at day 5 post op Ash is healing fine. Thank you so much!",
+   "owner_reply": "We are happy to be of service Ms. Pauline & thank you for your kind words & 5⭐️ review! 😊💜💛 We’re glad Ashki’s condition is much better & we will surely share your appreciation to Dr. Dhan 🩺.  "
+  },
+  {
+   "author": "Guerlaine",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Brought my kitten here for her first vaccine. They are very accommodating. Their prices are also affordable. Thanks to Dr. Mark for taking care of my kitten.",
+   "owner_reply": null
+  },
+  {
+   "author": "Diana Rose Delgado",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I want to extend my heartfelt gratitude to Happy Paws Vet for the exceptional care provided to my precious feline, Bastet, during her recent spaying procedure. A special thank you goes out to Dr. Hazel for her understanding and patience in addressing our concerns and alleviating our anxieties as overprotective pet parents.\n\nThe level of understanding and care displayed by the team at Happy Paws truly stood out for us, and it is evident that they prioritize the well-being of every furry patient in their care. I wholeheartedly recommend Happy Paws Vet to all pet owners looking for a compassionate and skilled veterinary team to entrust their beloved pawbabies to.\n\nOnce again, thank you to the entire team at Happy Paws Vet for your dedication and exceptional service.\n\nRenel and Dian",
+   "owner_reply": "Thank you so much for your heartfelt review, Mr. Renel and Ms. Diane! 🌟💛<br>We’re delighted to hear that Bastet’s spay procedure went smoothly and that Dr. Hazel was able to ease your concerns.<br><br>We’re grateful for your trust and your warm recommendation. If you ever need anything for your furbabies, we’re always here to help! 😊💜🐾"
+  },
+  {
+   "author": "Arjun Singh",
+   "rating": 1,
+   "when": "11 months ago",
+   "text": "1st of all this clinic is not working 24 hours. The contact info is absolutely incorrect whether it’s online or offline on the board. It’s 7AM i am standing outside with a injured cat nobody is here. I mean how the hell they can show they are 24 hours open. I came from very far and the cat is in pain.",
+   "owner_reply": "We are truly sorry for your experience, Mr. Singh, especially when you were seeking urgent care for an injured cat. We understand your frustration and sincerely apologize.<br><br>Our veterinary schedule recently changed, and we have updated our online information to reflect this. Since vet unavailability can’t be shown online, we recommend calling ahead for guidance during times when we can only assist with food and medication.<br><br>We hope you’ll give us another chance to care for your furry friends. 🙏🏻"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    336,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    457,
+    487
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    410,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    356,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    284,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    512,
+    386
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    512,
+    478
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/happy-paws-veterinary-clinic/",
+ "buy_likelihood": 8
+}

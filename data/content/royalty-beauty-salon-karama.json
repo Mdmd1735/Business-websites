@@ -1,0 +1,31 @@
+{
+ "preset": "luxe-gold",
+ "theme": {"bg": "#0E0C10", "surface": "#18151B", "surface_2": "#221E26", "accent": "#C9A24E", "accent_text": "#DDB866", "duo": "#3F3420", "band_bg": "#F5F0E6", "band_accent": "#8C6C22", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "The Royalty", "sub": "Beauty Salon · Karama", "mark": "R", "footer_word": "Royalty"},
+ "seo": {"title": "The Royalty Beauty Salon Karama | Keratin, Hair Spa, Facials & Nails near ADCB Metro", "description": "The Royalty Beauty Salon, Al Wasl Building, 35th St, near ADCB Metro, Karama: keratin, protein and Botox hair treatments, hair spa, facials, nails and home service, with 4–8 PM packages from AED 59. 4.9 from 338 reviews."},
+ "hero": {"variant": "split", "kicker": "Al Wasl Building · 35th St · Near ADCB Metro", "title_lines": ["Treat your hair", "like royalty."],
+   "lede": "Keratin, protein and Botox treatments, hair spa, facials and nails a minute from ADCB Metro in Karama, with 4 to 8 PM packages from AED 59 and home service too.",
+   "image": "img/hero.jpg", "image_alt": "The Royalty salon with gold chairs, arched mirrors and a green wall", "secondary": {"label": "Offers", "href": "#offers"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi The Royalty Beauty Salon, I'd like to book.",
+ "proof_note": "4.9 · the owner replies to every review",
+ "address_lines": ["The Royalty Beauty Salon, Shop 1, Al Wasl Building (R405)", "35th Street, near ADCB Metro, Al Karama, Dubai"],
+ "ticker": ["Keratin", "Protein", "Hair Botox", "Hair spa", "Facials", "Nails", "Home service"],
+ "sections": [
+  {"type": "menu", "id": "offers", "nav": "Offers", "eyebrow": "4 PM – 8 PM offers", "title": "Three packages,", "title_dim": "AED 59 each.",
+   "categories": [{"name": "Packages", "items": [{"name": "Manicure package", "desc": "Manicure, nail polish, hand massage, eyebrow, forehead", "price": "AED 59"}, {"name": "Pedicure package", "desc": "Deep pedicure, foot spa, nail polish, foot massage", "price": "AED 59"}, {"name": "Skin package", "desc": "Clean-up, de-tan, eyebrow, forehead", "price": "AED 59"}]}],
+   "note": "From the salon's offer poster, valid 4 PM to 8 PM. Message to confirm."},
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Smooth, shiny,", "title_dim": "healthy hair.",
+   "items": [
+    {"name": "Keratin, protein & Botox", "feature": true, "img": "img/sleek.jpg", "alt": "Very long sleek black hair after keratin", "desc": "Smoothing and repair for frizzy, damaged hair.", "quote": "The staff were knowledgeable, careful, and used good-quality products.", "cite": "Purnima K."},
+    {"name": "Hair colour & spa", "img": "img/colour.jpg", "alt": "Burgundy hair colour", "desc": "Colour, highlights and hair spa."},
+    {"name": "Bridal & party", "img": "img/bride.jpg", "alt": "Bride with veil and jewellery", "desc": "Bridal makeup and hair."},
+    {"name": "Nails & facials", "img": "img/nails.jpg", "alt": "Red almond nails", "desc": "Manicure, pedicure, facials and threading."},
+    {"name": "Home service", "desc": "Treatments at your home."}
+   ],
+   "perks": ["Open daily 10 AM – 10 PM", "Near ADCB Metro", "Home service"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Happy hours", "title": "Offers run", "title_dim": "4 PM to 8 PM."},
+  {"type": "gallery", "images": [{"src": "img/offer.jpg", "alt": "Royalty offer poster"}, {"src": "img/sleek2.jpg", "alt": "Long straight hair"}, {"src": "img/brunette.jpg", "alt": "Brunette highlights"}, {"src": "img/station.jpg", "alt": "Styling station"}, {"src": "img/wall.jpg", "alt": "Green wall"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Near ADCB Metro,", "title_dim": "Karama."}
+ ]
+}

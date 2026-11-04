@@ -1,0 +1,1089 @@
+{
+ "slug": "royalty-beauty-salon-karama",
+ "name": "The Royalty Beauty Salon - Best salon in Karama Dubai",
+ "place_id": "ChIJVYOaMCxDXz4Rr-IPClY9PV8",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Karama, Dubai",
+ "address": "KW-251, Al Wasl Building (R405) - Shop. 1 35th St - Metro Station - near ADCB - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2418063,
+  "lng": 55.3019558
+ },
+ "phone": "+971 56 462 9378",
+ "rating": 4.9,
+ "userRatingCount": 338,
+ "rating_distribution": {
+  "oneStar": 4,
+  "twoStar": 0,
+  "threeStar": 1,
+  "fourStar": 4,
+  "fiveStar": 329
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Royalty%20Beauty%20Salon%20-%20Best%20salon%20in%20Karama%20Dubai&query_place_id=ChIJVYOaMCxDXz4Rr-IPClY9PV8",
+ "website": "",
+ "categories": [
+  "Beauty salon",
+  "Eyelash salon",
+  "Facial spa",
+  "Hair salon",
+  "Nail salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "The Royalty Beauty Salon\nBest salon in KARAMA Dubai for FACIAL , HAIR and NAILS 💅\nBest Hair Treatment\nKeratin\nProtein\nBotox....\nHOME SERVICE also AVAILABLE",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "On-site parking": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "hair spa",
+  "keratin treatment",
+  "relaxing atmosphere",
+  "protein treatment",
+  "kind staff",
+  "threading",
+  "blow dry",
+  "shinier hair",
+  "affordability",
+  "hair color"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Abi Athira",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I finally had the chance to visit The Royalty Beauty Salon, and it was an absolutely incredible experience from start to finish. The hospitality here is outstanding; Miss Padma took excellent care of all my needs, ensuring I felt welcome and completely comfortable throughout my visit. Miss Parvati, who performed my services, was truly phenomenal—she possesses immense patience and has a literal magic touch in everything she does. My pedicure session was especially awesome, featuring a deep leg massage that was profoundly relaxing and melted all my tension away. The team's exceptional hospitality, patience, and genuine service-minded attitude naturally draw you in and make you want to return again and again. I have already completely made up my mind to make this my permanent salon, and I look forward to coming back every single month to try out all of their different packages.",
+   "owner_reply": "Thank you very much ma'am for your kind words ♥️ 🙏 <br>See you again ma'am ♥️ "
+  },
+  {
+   "author": "purnima kalita",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Best Salon in Karama, Dubai ❤️\nI was really happy with the quality of the service and the final result. The staff were knowledgeable, careful, and used good-quality products. From the moment I arrived until the service was completed, I felt well taken care of.\n\nI highly recommend The Royalty Beauty Salon to anyone looking for professional beauty and hair services in Dubai. I will definitely be coming back again! ❤️✨",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again 🙏 😘 "
+  },
+  {
+   "author": "Pranami Hazarika",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Best Salon in Karama, Dubai 🥰\nI had a wonderful experience at The Royalty Beauty Salon. The staff were very friendly, professional, and welcoming. The salon was clean, beautiful, and comfortable, which made my visit very relaxing. I really appreciated the staff’s attention to detail and the care they took while providing the service. The quality of the service was excellent, and I was very happy with the final result. Everyone was polite and made me feel comfortable throughout my appointment. Overall, it was a great experience, and I would happily recommend The Royalty Beauty Salon to anyone looking for professional and quality beauty services. I will definitely visit again and try more services in the future.",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again 🙏 ♥️"
+  },
+  {
+   "author": "Ruby Stane Freeda",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Best salon in ksrama, Dubai😘Had a really great experience at the salon! The service was excellent, and the staff were very friendly, professional, and attentive. They understood exactly what I wanted and made sure I was comfortable throughout the service. I’m really happy with the results and would definitely recommend this salon to others. Will surely be coming back! ❤️✨",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again ♥️ "
+  },
+  {
+   "author": "roshna kh",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Best Salon in Karama, Dubai.😘.i recently had a hair protein treatment, and I'm really happy with the results. My hair feels much smoother, softer, and easier to manage. The frizz has reduced significantly, and my hair looks shinier and healthier than before. Styling now takes less time, and my hair stays neat throughout the day. Overall, it was a great experience, and I would definitely recommend this treatment to anyone looking to improve the texture and appearance of their hair.",
+   "owner_reply": "Thank you very much ma'am for your kind words ♥️ 🙏 <br>See you again ♥️ "
+  },
+  {
+   "author": "kanika joshi",
+   "rating": 5,
+   "when": "Edited a month ago",
+   "text": "Best Salon in Karama, Dubai ❤️My experience at the salon was truly amazing! The staff is extremely friendly and helpful. I was very satisfied with all the services I did. Would definitely recommend to anyone looking for nails, hair, and facial services. 😇",
+   "owner_reply": "Thank you very much ma'am for your kind words ♥️ 🙏 <br>See you again 😘"
+  },
+  {
+   "author": "Roopa Mohamed",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Best Salon in Karama, Dubai 🥰\nAmazing service and very professional staff. I am very happy with my experience. The team was friendly, attentive, and made me feel comfortable throughout. The salon is clean, and the results exceeded my expectations. Highly recommended for anyone looking for quality beauty services. Thank you for the wonderful experience! ❤️✨",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏<br>See you again ♥️ "
+  },
+  {
+   "author": "Sangeeta Vijayan",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Best Salon in Karama, Dubai ❤️. Absolutely loved my experience here! The staff is so friendly, professional, and really listens to what you want. The service was amazing and the results exceeded my expectations, my hair looks and feels incredible. The salon is clean, welcoming, and has such a relaxing vibe. Highly recommend to anyone looking for quality service and great care. Will definitely be coming back!.❤️",
+   "owner_reply": "Thank you so much ma'am 💓 <br>For your kind words 💓 <br>See you soon 😊"
+  },
+  {
+   "author": "Mahera Siddiqui",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Best salon in Karama, Dubai .The service was amazing. Got a wash and a blow dry. Gave me the silkiest hair even in this humid Dubai weather. 10/10 definitely would recommend",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏. <br>See you again ♥️ "
+  },
+  {
+   "author": "Megha Madhu",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Best Salon in Karama, Dubai ♥️I recently visited this salon for a hair spa and cleanup, and I had an excellent experience. The service was really good, and the staff were very professional and friendly. Highly recommended!",
+   "owner_reply": "Thank you so much ma'am for your kind words 🙏 💕 <br>See you again ❤️"
+  },
+  {
+   "author": "Ammara Ansari",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Best salon in karama, Dubai ♥️Very great service, i came out here for a blowout padma and paru madam were both so amazing and helpful, the salon is hygienic and staff is super amazing. The price was also very affordable. Overall a 10/10 experience.",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again ma'am ♥️ "
+  },
+  {
+   "author": "Mitali Mishra",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Best Salon in Karama, Dubai 🥰Absolutely loved my Kerasmoothing treatment at Royalty Beauty Salon, Karama! My hair is now smooth, shiny, and so much easier to manage. The staff were friendly, professional, and made the whole experience very much fun and comfortable. Highly recommend for anyone looking for great hair treatments and excellent service!",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again ma'am ♥️ "
+  },
+  {
+   "author": "Marilou Tudlasan",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Best salon in Karama, Dubai😘⭐⭐⭐⭐⭐ Excellent keratin treatment! My hair is now smooth, soft, shiny, and much easier to manage. The staff were friendly, professional, and made me feel comfortable throughout the service. Highly recommended! 💕",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again 🙏 ❤️ "
+  },
+  {
+   "author": "Rajni Khatri",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Best Salon in Karama Dubai ❤️❤️❤️, \"I had a wonderful experience at The Royalty Beauty Salon. The staff were very friendly, professional, and welcoming. I’m really happy with the service and the results. Highly recommended! ⭐⭐⭐⭐⭐”",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again 🙏 😘 "
+  },
+  {
+   "author": "Swarna naidu",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Best Salon in karama, Dubai😘  Had a wonderful experience! Felt so relaxed and refreshed after the service. Highly recommended!",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again 🙏 ❤️ "
+  },
+  {
+   "author": "Manikutty",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Best salon in karama, DUBAI ❤️It's my favourite salon in KARAMA.. Customer comfort is their main priority. I feel so relaxed after every visit. ❤️❤️",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again 🙏  "
+  },
+  {
+   "author": "raji Senthil",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Best Salon in karama, Dubai 🥰This my first visit here and I had great service with friendly manner and I felled very relaxed.",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again ma'am ♥️ "
+  },
+  {
+   "author": "kaviyabharathi Kaviyabharathi",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best Salon in karama, Dubai ❣️ I came here for botox and keratin treatment. My hair feel alive now after this☺️☺️☺️.. Staff are too friendly.. Highly recommend",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again ❤️ "
+  },
+  {
+   "author": "Andrea DCunha",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Best Salon in karama, Dubai ❤️Salon was amazing ! I did a head massage and Padma was fantastic. I left the saloon feeling so relaxed. Definitely recommend .",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again ♥️ "
+  },
+  {
+   "author": "chionophile nc",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Best Salon in Karama, Dubai😍\nLoved my experience here!\nGot my hair, manicure & pedicure done and everything turned out so good 😍\nSuper clean, professional, and relaxing. Will definitely come back! 🤍",
+   "owner_reply": "Thank you so much ma'am 💓 for your kind words 🙏 <br>See you again ma'am ♥️ "
+  },
+  {
+   "author": "Abhi Ajith",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Best salon in karama. Dubai.Excellent service provided by the team❤️",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again ♥️ "
+  },
+  {
+   "author": "Koki Subi",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best Salon in Karama, Dubai❤️I am satisfied with the service , initially i came for my protein treatment  doubtfully... but i am so impressed and happy with their hair care treatmwnt... it needs  so much of patience to do the hair treatment ... they are 110% did the treatment perfectly more than my expectation... surely i will tell my friends also to visit... i am so happy... thank u for the service.",
+   "owner_reply": "Thank you so much ma'am for your kind words 🙏 😊♥️<br>See you again ❤️ "
+  },
+  {
+   "author": "Priyanka s nair",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best Salon in Karama, Dubai🥰Their service was excellent, well mannered owner and staffs and very friendly atmosphere. I would highly recommend this salon to everyone.",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again 🙏 ♥️"
+  },
+  {
+   "author": "Dulshika Sadamini",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best Salon in Karama. Dubai Good service\nWe can recommend here. ❤️‍🩹",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again ❤️ "
+  },
+  {
+   "author": "La Dz",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I went to the salon for hair color and blow dry they did a very good job i recommend to go there price are very good and servive is amazing thank you !! ❤️",
+   "owner_reply": "Thank you so much ma'am 💓 for your kind words ♥️ 🙏<br>See you again ma'am 🙏 "
+  },
+  {
+   "author": "Nayana Raju",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best Salon in Karama, Dubai\nI had a good experience from here. I liked the work they done for me and also their behavior also good. Thank you 🙂",
+   "owner_reply": "Thank you so much ma'am for your kind words 🙏 😊♥️<br>See you again ❤️ "
+  },
+  {
+   "author": "Mythri Y Patavardhan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best Salon in Karama, Dubai 🥰Great hospitality and service. Felt very good after haircut. Very friendly staff.",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again ❤️ "
+  },
+  {
+   "author": "aiswariya mv",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best Salon in Karama , Dubai .❤️ Excellent Service, friendly staff Noor and Parboti and also Prantika maam . Clean environment, and amazing results. Highly recommend. See you soon❤️",
+   "owner_reply": "We appreciate your feedback! It was a pleasure serving you, and we’re glad you enjoyed your visit. Hope to welcome you back for your next Service. 🙏"
+  },
+  {
+   "author": "Anisha Tamang",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best Salon in Karama, Dubai ❤️I had a great experience here❤️ Thank you so much all of you to make my hair beautiful❤️",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again 🙏 ♥️"
+  },
+  {
+   "author": "Milanthika Rathnayaka",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Best Salon in Karama, Dubai😘Amazing experience I got  I am coming to this place long time highly recommended",
+   "owner_reply": "Thank you so much ma'am for your kind words ♥️ 🙏 <br>See you again ♥️   "
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1131,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1067,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    864
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/royalty-beauty-salon-karama/",
+ "buy_likelihood": 8,
+ "notes": "Replies 100%, posts designed offer posters, keyword-stuffs its Maps name (wants to be found).",
+ "display_name": "The Royalty Beauty Salon"
+}

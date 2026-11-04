@@ -1,0 +1,23 @@
+{
+ "preset": "ink-paper",
+ "theme": {"accent": "#B08D57", "accent_text": "#8A6A38", "on_accent": "#FFFFFF", "duo": "#DCCDB3", "busy": "#8A6A38", "band_bg": "#1A1714", "band_accent": "#D8B57A", "frame": "square", "hero_ratio": "3/4", "display": "\"Fraunces\",Georgia,serif", "google_fonts": "family=Fraunces:ital,opsz,wght@0,9..144,500;1,9..144,500&family=Inter+Tight:wght@400;500;600&family=Cairo:wght@700", "dw": "500"},
+ "brand": {"name": "The First Studio", "sub": "Gents Salon · JLT", "mark": "F", "footer_word": "The First Studio"},
+ "seo": {"title": "The First Studio Gents Salon JLT | Executive Men's Grooming, Cluster A", "description": "The First Studio, Lakeside Residence, Shop B2, Cluster A, JLT: executive men's grooming with haircuts, fades, beard line-ups, shaves and manicures. Open daily 10 AM to 11 PM. 4.8 from 363 reviews."},
+ "hero": {"variant": "split", "kicker": "Lakeside Residence · Shop B2 · Cluster A, JLT", "title_lines": ["Executive", "grooming,", "around the corner."],
+   "lede": "Cuts, fades, beard line-ups, shaves and manicures in a warm, spacious studio by the lake in Cluster A. Owner-run, with a welcome that regulars keep mentioning.",
+   "image": "img/hero.jpg", "image_alt": "Barber cutting a client's hair in the wood-and-brick studio", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi The First Studio, I'd like to book a haircut.",
+ "proof_note": "The owner replies to every review",
+ "address_lines": ["The First Studio Gents Salon, Shop B2", "Lakeside Residence, Cluster A, JLT, Dubai"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "layout": "list", "eyebrow": "Services", "title": "Cut, shave", "title_dim": "and more.",
+   "items": [{"name": "Haircut & fade", "desc": "Classic, textured or skin-faded."}, {"name": "Beard line-up", "desc": "Sharp edges and shaping."}, {"name": "Hot towel shave", "desc": "Straight razor, hot towels."}, {"name": "Manicure & grooming", "desc": "Nails, facials and finishing."}],
+   "perks": ["Open daily 10 AM – 11 PM", "Owner-run", "Spacious & clean"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "No queue", "title": "Pop in", "title_dim": "when it's quiet."},
+  {"type": "team", "id": "team", "nav": "Barbers", "eyebrow": "The barbers", "title": "Marco, Khalid", "title_dim": "and Adel.",
+   "items": [{"name": "Marco", "count": 3, "role": "Barber", "quote": "Very professional, friendly, and attentive to every detail.", "cite": "Dario P."}, {"name": "Khalid", "count": 3, "role": "Barber"}, {"name": "Adel", "count": 3, "role": "Barber"}]},
+  {"type": "gallery", "images": [{"src": "img/cut.jpg", "alt": "Barber styling a client"}, {"src": "img/lounge.jpg", "alt": "Waiting lounge by the windows"}, {"src": "img/tower.jpg", "alt": "Lakeside Residence tower"}, {"src": "img/logo.jpg", "alt": "Gold scissors logo"}, {"src": "img/floor.jpg", "alt": "Studio floor", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Cluster A,", "title_dim": "JLT."}
+ ]
+}

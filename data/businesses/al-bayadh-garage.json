@@ -1,0 +1,1256 @@
+{
+ "slug": "al-bayadh-garage",
+ "name": "Al Bayadh Garage",
+ "place_id": "ChIJx3AAYK1ZXz4RBRsDtHi44To",
+ "category": "car repair garage",
+ "category_weight": 12,
+ "area": "Ajman",
+ "address": "44 Amr Ibn El Aas St - opposite to Baithak Restaurant - Industrial area 2 - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3770738,
+  "lng": 55.4792413
+ },
+ "phone": "+971 55 119 9065",
+ "rating": 4.6,
+ "userRatingCount": 678,
+ "rating_distribution": {
+  "oneStar": 48,
+  "twoStar": 7,
+  "threeStar": 18,
+  "fourStar": 47,
+  "fiveStar": 558
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Bayadh%20Garage&query_place_id=ChIJx3AAYK1ZXz4RBRsDtHi44To",
+ "website": "",
+ "categories": [
+  "Car repair and maintenance service",
+  "Auto repair shop",
+  "Small engine repair service"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 1 PM, 3:30 to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 1 PM, 3:30 to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 1 PM, 3:30 to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 1:30 PM, 3:30 to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 1 PM, 3:30 to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "8 AM to 1 PM, 3:30 to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "8 AM to 1 PM, 3:30 to 10 PM"
+  }
+ ],
+ "owner_description": "We have all kind of Mechanical electrical a/c denting and painting plus polishing services. injectors cleaning and radiator flashing and engine cooling systems also available.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "injector cleaning",
+  "catalytic converter cleaning",
+  "throttle body cleaning",
+  "clean work",
+  "spark plug replacement",
+  "radiator flushing",
+  "fair pricing",
+  "fuel efficiency",
+  "ac repair",
+  "reliable garage"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Mohamed Abdul Khader",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I visited the garage to get an emissions issue checked and repaired on my car, and I’m very happy with the overall experience. The team was professional, helpful, and efficient from start to finish. They quickly identified the issue and completed all the necessary work within just a few hours.\n\nI really appreciate how smoothly everything was handled and how they made sure the job was done properly. The quality of their work and the level of service were excellent, and I was completely satisfied with the results.\n\nIf you’re looking for a reliable garage with good service, professional staff, and quality workmanship, I would definitely recommend them. Great experience overall!",
+   "owner_reply": null
+  },
+  {
+   "author": "MASUD MASUD",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI had my car serviced at Al Bayadh Garage for the brakes and injectors, and I’m happy with the service. The team was professional, the work was done well, and everything was handled smoothly. Overall, a good experience and I would recommend Al Bayadh  Garage to anyone looking for reliable car servicing. Keep up the good work!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Nerekar",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Visited Bayadh yesterday for the first time for for a full engine service which included catalyst injectors throttle body servicing and I must say they have done an excellent job! Would highly recommend Bayadh for your car fixes!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Hussain Rampurawala",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had an Amazing experience at Al Bayadh Garage, experienced technician, they works well with car without rushing the process. Satisfied by the service, Mr. Lakhmal worked on my car, and did an amazing work.\n\nKudos to the team",
+   "owner_reply": null
+  },
+  {
+   "author": "numan mohd",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "One of the best garages in ajman.\nThey do repairing of all kind of vehicles.\nI came for injector cleaning and engine tuning. They did it extremely well.\n\nMr mobender assisted & explained to me the process and mr pravin did the work exceptionally well in a very reasonable price.\n\nI highly recommend this garage to anyone who wants to repair his vehicle.",
+   "owner_reply": null
+  },
+  {
+   "author": "Akhil",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "\"I had an excellent experience at this garage! They performed a thorough cleaning of the fuel injection, throttle body, MAF sensor, O2 sensor, and the catalytic converter for my 2020 Corolla.\n\nThe team was highly professional, ensuring every detail was taken care of perfectly. I highly recommend their services for anyone looking for reliable car care.\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahsan Rehman",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent service at Al Bayadh Garage! I did a fuel injector cleaning and catalyst cleaning here. I was noticing some sluggish acceleration before, but after their work, the throttle response is sharp again and the engine feels brand new. The team was professional, quick, and explained everything clearly. Will definitely come back.\"",
+   "owner_reply": null
+  },
+  {
+   "author": "aan soriano",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I visited yesterday for a full service including catalytic converter and fuel injector cleaning, plus brake pad replacement and disc skimming. I am extremely satisfied with the results! The staff is very knowledgeable and polite, and the owner is hands-on, making sure every client is well-taken care of. The pricing is very reasonable and affordable compared to other shops. Most importantly, I can feel a massive difference in performance—the power boost in my car is immediate. Highly recommended!100%",
+   "owner_reply": null
+  },
+  {
+   "author": "Junaid Virk",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Done my car service at Al Bayadh garage, even the car is very old model but they did wonderful job.",
+   "owner_reply": null
+  },
+  {
+   "author": "Norma Fajardo",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I wanted to share my recent experience with your throttle body and injector cleaning service. The quality of the cleaning was excellent, and I was very impressed.\n\nAdditionally, I appreciated how accommodating your staff were while I waited for my car to be finished. The waiting area was comfortable and thoughtfully provided complimentary coffee and tea, which made the wait pleasant.\n\nThank you for the outstanding service. I look forward to recommending your shop to others and returning for future maintenance.",
+   "owner_reply": null
+  },
+  {
+   "author": "Zeeshan Shaikh",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent service from start to finish! The staff were professional, honest, and explained everything clearly before starting the work. My car was repaired on time, and the quality of workmanship was outstanding. The pricing was fair with no hidden charges, and they kept me updated throughout the process. It's refreshing to find a garage that genuinely cares about customer satisfaction. Highly recommended, and I'll definitely be returning for future servicing and repairs.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sanjay Day",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Highly recommend Al Bayadh Garage! I took my car in to fix some troublesome engine oil leaks, and they did an excellent job. The team was professional, diagnosed the issue quickly, and completed the repair efficiently. The pricing was fair, and my car has been running perfectly with no leaks since. Great service!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Faisal Mushtaq",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI had an excellent experience with Al Bayadh Garage. The service was outstanding from start to finish.\n\nThe entire staff was very friendly, honest, professional, and genuinely helpful.\n\nThey took the time to explain everything clearly guided me through the repair process and advised me on the best and most cost effective options instead of recommending unnecessary work.\n\nA special thanks to Mr. Basit who went above and beyond to assist me. He was extremely helpful knowledgeable and customer focused.\n\nHis honest advice and willingness to help made the whole experience smooth and stress-free.\n\nIt's not easy to find a garage you can truly trust but Al Bayadh Garage has earned my confidence.\n\nI highly recommend them to anyone looking for reliable honest and high-quality automotive service.\n\nKeep up the excellent work",
+   "owner_reply": null
+  },
+  {
+   "author": "Ali Syed.Mohammed",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "I had a great experience with Al Bayadh Garage. The service was excellent, and the staff were very helpful and professional. Special thanks to Mr. Ateeq, who helped me a lot and made sure my car was ready on time. I really appreciate the excellent service and support. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdul Ashique",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "I am writing this to warn others about the lack of technical expertise and professionalism at this garage. My experience here resulted in significant financial loss and further damage to my vehicle.\n​The Issues:\n​Negligence: I initially visited for routine catalyst and injector cleaning. After the service, the engine began \"missing.\" Upon returning the car for inspection, the garage claimed the engine failed during a test drive due to an oil pump issue and had to be recovered.\n​False Promises: Despite claiming they were experienced in repairing similar engines (like the Nissan Patrol), they left my car untouched for 10 days. It was only after I insisted they open the engine that they admitted they could not repair it due to a crack in the engine block.\n​Technical Incompetence: I sourced a 2017 replacement engine (an upgrade for my 2014 model). Before delivering it, I explicitly asked if their mechanics could handle the installation/upgrade. They assured me they could, only to backtrack the next day with excuses once the engine arrived.\n​Poor Management: Both the staff and the owner were dismissive and unprofessional when confronted with their mistakes.\n​Damaged/Missing Parts: After losing trust and moving my car to a different garage, the new mechanics discovered that my AC compressor was broken, the fuel pump socket was snapped, and several parts were missing.\n​Verdict:\nThis garage lacks the basic honesty and technical skill required for automotive repair. They will say \"yes\" to any job just to take your money, even if they aren't qualified to do the work. Avoid this place at all costs if you value your vehicle.",
+   "owner_reply": null
+  },
+  {
+   "author": "Syed Kanaan Bari",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I recently visited Al Bayadh Garage with my FJ Cruiser 2014 due to noticeable thudding and perks while driving. The team quickly identified the issue and informed me that the gear oil and gear oil filter needed to be replaced.\nThe inspection was prompt, the explanation was clear, and the service was carried out efficiently. Since the change, my vehicle has shown significant improvement and the driving experience is now smooth and trouble-free.\nI'm happy with the technicians expertise and the professionalism of the management staff. Highly recommend for anyone looking for reliable and honest automotive service in Ajman.",
+   "owner_reply": null
+  },
+  {
+   "author": "Khuram Ijaz",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Took my car to Al Bayadh Garage for an injector cleaning service and I'm very impressed. Before the service, the engine was idling rough and felt sluggish. The team did a thorough job cleaning the injectors, and the difference is night and day. The acceleration is much smoother now, and the engine feels responsive again. Professional service and fair pricing. Highly recommend them if your car needs fuel system maintenance.",
+   "owner_reply": null
+  },
+  {
+   "author": "vladimir villanueva",
+   "rating": 5,
+   "when": "Edited 9 months ago",
+   "text": "Had suspension repair done here and I’m very impressed. They diagnosed the issue accurately, explained the work clearly, and fixed it with precision. The ride quality is noticeably better. Honest service and great value.\n\nI didnt have time to know their names but from owner to staffs are professional in all ways,  reliable auto garage with skilled mechanics. They diagnosed the issue accurately and fixed it on time. Communication was clear and pricing was transparent. Highly recommended for anyone looking for trustworthy service. It Feels like home.",
+   "owner_reply": null
+  },
+  {
+   "author": "Naveed Gujjar",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Brought my car into Al Bayadh Garage for a much-needed fuel injector cleaning, and I'm incredibly happy with the results.\n​Before the service, my car was idling rough, sluggish on acceleration, and eating through more fuel than usual. The team here diagnosed the issue quickly and walked me through the cleaning process. They used professional equipment and made sure everything was perfectly balanced and calibrated before handing back the keys.\n​The difference was immediate—the engine is now running incredibly smooth, throttle response is sharp again, and my fuel economy is right back to where it should be. The mechanics are honest, highly skilled, and don't try to push unnecessary extras on you. Fair pricing and excellent customer service. Highly recommend them if your car needs its injectors sorted out!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jayson Bernabe",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Excellent service from Al Bayadh Garage! They did a great job fixing my car. The team was professional, helpful, and completed the work properly. I’m very happy with the quality of the repair and their service. Highly recommended to anyone looking for a reliable garage!",
+   "owner_reply": null
+  },
+  {
+   "author": "Guriqbal Singh",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Brought my car to Al Bayadh Garage to get the fuel injectors serviced and the throttle body cleaned, and I am incredibly impressed with the results.\n\nBefore taking it in, the car was idling rough, stalling occasionally at red lights, and felt sluggish when accelerating. The team here diagnosed the issue quickly and got straight to work. They did a thorough job cleaning out the carbon buildup in the throttle body and completely serviced the fuel injectors.\n\nThe difference is night and day. The idle is now perfectly smooth, throttle response is sharp and immediate, and the engine feels like it has its original power back. The mechanics clearly know what they are doing, the pricing was fair, and they completed the work right on time. Highly recommend them if your car needs precise engine tuning or cleaning.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Maroof",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I am going specially from dubai to Ajman in Al Bayadh Garage this is the best  Garage in Ajman so good staff thay do so good work 🙏🙏",
+   "owner_reply": null
+  },
+  {
+   "author": "salam umer",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Fantastic service at Al Bayadh Garage! I took my vehicle in to fix a faulty steering rack and a bad black smoke issue. The mechanics here really know their craft—diagnosed the root causes quickly without pushing unnecessary repairs. Steering feels tight and responsive now, and the smoke problem is totally solved. Fair charges and very professional team. Will definitely be coming back",
+   "owner_reply": null
+  },
+  {
+   "author": "sufyan raza",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Took my car to Al Bayadh Garage for a fuel injector cleaning, and the difference almost. My engine was idling roughly and felt sluggish, but after the service, it runs smooth as butter and acceleration is noticeably sharper.\nThe team was professional, honest about what needed to be done, and finished the job quickly at a fair price. Highly recommend them if you're looking for quality mechanic work and great customer service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Franz Tejano",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Very satisfied with the catalytic converter and carbon cleaning service. My car is now running much better, and the engine idle has improved significantly. The staff were honest, professional, and explained the work clearly. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "shakeer Aliyar",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "⭐⭐⭐⭐⭐\nI came here because my car had a high fuel consumption issue. The team carried out a complete diagnosis and performed around 10 different checks, including the fuel injectors, spark plugs, ignition system, catalytic converter, air filter, throttle body, sensors, fuel system, engine scan, and overall engine performance.\nThey replaced the spark plugs, cleaned the catalytic converter, and explained everything clearly. I am very satisfied with the quality of their work.\nThe staff were professional, friendly, and attentive. A special thanks to the Sri Lankan team for taking great care of my car.\nI was impressed by how efficient they were. They started checking my car within about 19 minutes, and the entire job was completed in around 3.5 hours. The technicians worked quickly and professionally.\nThank you to the whole team for the excellent service. I highly recommend this workshop! ⭐⭐⭐⭐⭐",
+   "owner_reply": null
+  },
+  {
+   "author": "Alaa Haik",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "One of the best garages I've visited. Very professional, good price for labour and parts, and definitely I'm coming back if there's anything with my car",
+   "owner_reply": null
+  },
+  {
+   "author": "Hafiz Adnan Riaz",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I recently visited Al Bayadh Garage for an engine performance check and ended up getting both an injector cleaning and a catalytic converter cleaning done. The difference in my car's performance is night and day.\n\nBefore the service, I was experiencing a sluggish throttle response, minor rough idling, and declining fuel efficiency. The team at Al Bayadh diagnosed the issue quickly and recommended cleaning the fuel injectors and flushing the catalytic system.\n\nThe technicians are clearly experienced—they explained the process thoroughly, used professional diagnostic tools, and didn't try to push unnecessary parts or repairs. After the cleaning, the engine runs incredibly smooth, idling is quiet, and the throttle feels crisp and responsive again.\n\nFair pricing, transparent communication, and efficient turnaround time. If your car is losing power or suffering from poor fuel economy, I highly recommend their specialized cleaning services. Will definitely return for future maintenance",
+   "owner_reply": null
+  },
+  {
+   "author": "Manoj Pabasara",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Brought my Mitsubishi Pajero to Al Bayadh Garage for injector and catalytic converter cleaning. The service was efficient, and the engine feels noticeably smoother and more responsive now. Professional work and great customer service—definitely recommend them for maintenance!",
+   "owner_reply": null
+  },
+  {
+   "author": "Herbert Buluma",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "So far they are the best,i come all the way from Dubai and I have been fixing my car here for the past 4 years,five star from my side to the customer service and professional mechanics",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    958
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1440
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    739,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1490,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    893
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    482,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/al-bayadh-garage/",
+ "buy_likelihood": 6,
+ "notes": "678 reviews, never replies. Marketing banners in shop suggest they'd value a site.",
+ "display_name": "Al Bayadh Garage"
+}

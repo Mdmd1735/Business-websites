@@ -1,0 +1,1186 @@
+{
+ "slug": "total-fit-abu-hail",
+ "name": "TOTAL FIT - Abu Hail",
+ "place_id": "ChIJTwob7-ldXz4RYjZBgMs14xs",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Deira, Dubai",
+ "address": "Granada Coffee Shop - Bldg - 3rd Floor - 288 Abu Hail St - near Emarat Petrol Pump - Hor Al Anz - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2794793,
+  "lng": 55.3434341
+ },
+ "phone": "+971 56 220 7578",
+ "rating": 5,
+ "userRatingCount": 152,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 3,
+  "fiveStar": 148
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=TOTAL%20FIT%20-%20Abu%20Hail&query_place_id=ChIJTwob7-ldXz4RYjZBgMs14xs",
+ "website": "",
+ "categories": [
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "4 to 10 PM"
+  }
+ ],
+ "owner_description": "Total Fit Gym is the first step in your fitness journey. Our Gym is one of the best in U.A.E with best equipments and experienced trainers. We offer a wide range of services and help you in any way we can to reach your goals.",
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "supportive trainers",
+  "motivating trainers",
+  "new machines",
+  "kickboxing centre",
+  "neat and clean gym",
+  "personalized guidance",
+  "special trainer",
+  "effective workouts",
+  "cardio system",
+  "nutrition instruction"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 98
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 27
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 23
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 26
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 17
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 20
+   }
+  ]
+ },
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "Abhijith AS",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I've had a great experience at this gym. The equipment is excellent, the atmosphere is motivating, and the staff are very friendly. A special thanks to my trainer, Nandhu, for his dedication, patience, and constant encouragement. He explains every exercise clearly, keeps me motivated, and has helped me make steady progress toward my fitness goals. I highly recommend this gym, especially if you get the chance to train with Nandhu!",
+   "owner_reply": "thanks for your response "
+  },
+  {
+   "author": "NIKHIL P V",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I’ve had a great experience at this gym. The atmosphere is motivating, the equipment is well-maintained, and the environment is clean and welcoming for everyone, whether you're a beginner or experienced.\n\nA special mention to Ansar, who is an outstanding trainer. He is highly professional, knowledgeable, and genuinely dedicated to helping clients achieve their fitness goals. Ansar pays close attention to form and technique, provides personalized guidance, and constantly motivates you to push beyond your limits in a safe and effective way. His positive attitude and supportive approach make every workout session productive and enjoyable.\n\nHighly recommend this gym, especially if you get the chance to train with Ansar! 💪",
+   "owner_reply": "thanks for your response"
+  },
+  {
+   "author": "rezvaan jalaludheen",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "If it's your leg day, please don't come to the gym because if you do, this is what you'll be like😹😹 thank u my coach Ansar 😎 One thing is that the trainer will always be with you until your workout is complete. That's a good thing, thanks again Ansar bro. 😎🏋🏻 You are such a good trainer keep going like this mahnn.🫂",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals"
+  },
+  {
+   "author": "Syed Sultan Zaib",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I started my gym journey one year ago at Total Fit Gym Abu Hai under the guidance of coaches Ansar, Sarath, and Nandu.\nOver this year, I’ve seen a complete transformation in myself. I truly feel the difference in my strength, confidence, and overall fitness.\nI’m very thankful to my coaches for their support, guidance, and for helping me build my body and stay motivated throughout the journey.",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals<br>"
+  },
+  {
+   "author": "Abhik K",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I’ve been a member of this gym for over 3 months, and it has completely transformed my fitness journey. The equipment is modern, well-maintained, and there’s a wide variety for strength training and cardio. The trainers are knowledgeable, supportive, and always ready to help with form corrections or workout plans. The facility is very clean, including locker rooms and showers. Even during busy hours, the environment stays motivating and energetic. Highly recommended for beginners and serious fitness enthusiasts alike",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals."
+  },
+  {
+   "author": "SANOOP P",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I've been training here for a few months and can honestly say this gym has changed the game for me. The equipment is top-tier, the vibe is motivating, and the trainers are super knowledgeable. It's always clean, and I never feel judged — just pushed to do better.",
+   "owner_reply": "thanks for your response<br>"
+  },
+  {
+   "author": "Naeel Mahamood",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "A great gym with plenty of modern equipment and a clean, motivating environment. The trainers are well-behaved, supportive, and always ready to help. Safwan, Nandu, Sarath, Ansar, and the rest of the team are highly experienced, approachable, and friendly. The owner's behavior is also very appreciative and welcoming, making the overall experience even better. Highly recommended!",
+   "owner_reply": "thanks for your response "
+  },
+  {
+   "author": "Basil Mohamed",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Having good atmosphere for workout with high quality new machines and with highly trained and qualified trainers. Especially coach Ansar,Sarath and Nanthu they will stand with us from the starting until the end of our workout like a special trainer. Thank you team.",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals"
+  },
+  {
+   "author": "jubin saju",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Well maintained, affordable gym in Abu hail. Certified and supportive trainers.. The gym is very neat and clean also plenty of equipments are available for different types of workouts.",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals"
+  },
+  {
+   "author": "Mohamed Sajid",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Expert  and very supportive trainers.\nbudget friendly and more offers in fees payment also tabby payment is available .\nAdditionally Kick Boxing training is also available on Tuesday and Thursday",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals"
+  },
+  {
+   "author": "Bhakthi Shervegar",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Really spacious and well-maintained gym. The equipment is good, and the overall environment is comfortable. The gym is also very well maintained for girls, with a clean and comfortable atmosphere. The staff and trainers are friendly and helpful. Definitely a good place to work out",
+   "owner_reply": "thanks for your response "
+  },
+  {
+   "author": "Jijeeshkp Calicut",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Great gym! 💪 The equipment is modern and well-maintained, and the facility is always clean. The staff are friendly and helpful, and the overall atmosphere is motivating. Definitely a good place to train and stay consistent. 👍",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals<br>"
+  },
+  {
+   "author": "Naseem T",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "This is a very good gym with a clean and well-maintained environment. The equipment is modern and always in good condition. The atmosphere is very positive and motivating for daily workouts.\n\nThe trainers Ansar, Sharath, and Nanthu are very friendly, professional, and supportive. They give proper guidance according to your fitness goals and always help with the correct techniques. Communication is easy, especially for Malayali members, which makes the experience even better.\n\nThe owner is also very friendly and approachable, which creates a comfortable and welcoming environment for everyone.\n\nOverall, it’s a great place for both beginners and experienced people. I highly recommend this gym to anyone looking for a good fitness environment with excellent trainers. 👍",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals<br>"
+  },
+  {
+   "author": "Jojin Mathew Thomas",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing gym with a great atmosphere and excellent support! Special thanks to trainer Nandu for his guidance, motivation, and dedication. He always pushes me to do better and keeps every workout effective. Highly recommended!",
+   "owner_reply": "thanks for your response "
+  },
+  {
+   "author": "Kattie Lauren",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I’m extremely happy with my training experience at this gym, especially with my trainer Sarath Arishnan. He is knowledgeable, patient, and truly cares about his clients’ progress. Every workout is well-planned, effective, and motivating. He explains exercises clearly and keeps me encouraged throughout the session. Highly recommend both the gym and Sarath as a trainer!",
+   "owner_reply": "thank you for your response"
+  },
+  {
+   "author": "Joel Mathew",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Good gym with nice machines and helpful instructors. Budget friendly and well maintained. Great place to work out.",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals"
+  },
+  {
+   "author": "Rahil mk",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I’ve had a fantastic experience at this gym. The facility is always clean, well-maintained, and equipped with a wide variety of modern machines and free weights. Whether you’re a beginner or experienced, there’s something for everyone.\n\nThe trainers are knowledgeable, friendly, and always ready to help with guidance and motivation. They genuinely care about members’ progress and ensure proper form and safety during workouts.\n\nHighly recommended for anyone looking to improve their fitness in a supportive and well-equipped gym! 💪",
+   "owner_reply": "thanks for your response<br>"
+  },
+  {
+   "author": "Ashik A",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Fantastic gym! Always clean, equipped with great machines, and the staff is super friendly. I highly recommend joining—it’s a truly motivating environment. Special thanks to Shibil, Ansar, and Adil for making the workouts so comfortable and creating such a friendly atmosphere.",
+   "owner_reply": "thanks for your feedback"
+  },
+  {
+   "author": "sathyan m",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I’ve been training at Total Fit Gym for a while now, and I’m truly impressed with the overall experience. The equipment is modern, well-maintained, and there’s always enough space to work out comfortably. The trainers are friendly, knowledgeable, and always ready to guide and motivate you.\n\nThe atmosphere is clean, energetic, and welcoming for both beginners and experienced fitness enthusiasts. It’s a great place to stay consistent, improve your fitness, and feel positive every day. Highly recommended for anyone looking for a supportive and professional gym environment!",
+   "owner_reply": "thanks for your response"
+  },
+  {
+   "author": "AMITH NAIR",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Absolutely amazing. One of the best gyms in UAE. The latest equipments, and enough space to exercise without feeling crowded. And the trainers are so helpful and supporting, and the managementis super friendly. Even the ambience makes you want to work out. Highly recommended.",
+   "owner_reply": "thanks for your feedback"
+  },
+  {
+   "author": "Telma Ntalabe",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I’ve had a wonderful experience at Total Fit Gym Abuhail. From day one, the trainers have been incredibly motivating and supportive. They have made my fitness journey much easier and more enjoyable than I ever imagined before starting. It has only been a month, and I already feel like I’m steadily moving toward my goals.\n\nThe gym itself is always clean, and the equipment is well organized, which creates a comfortable and positive environment to work out in.\n\nA special thank you to Sarath, who truly teaches rather than just trains. He explains the purpose behind every exercise with clarity and precision, which helps me understand what I’m doing and why. That guidance makes a big difference.\n\nAlso, appreciation to Nandu, whose positive smile and constant encouragement add so much motivation to every session.\n\nI’m really glad I chose this gym for my fitness goals, and I’m excited to see the amazing results ahead. Highly recommended!",
+   "owner_reply": "thanks for your response<br>"
+  },
+  {
+   "author": "Sarath Krishnan n k",
+   "rating": 5,
+   "when": "Edited 8 months ago",
+   "text": "Very good gym in Abhu hail.neat and clean,\nAll trainers and professional certified trainers,\nImported high quality equipments\nTrainers are very friendly, supportive and gives more support to push our limits",
+   "owner_reply": "thanks for your response"
+  },
+  {
+   "author": "Abdul Rahim",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Excellent gym with a spacious and well-maintained environment. I’ve been training here for the past 6 months, and my experience has been consistently positive. The trainers are experienced, professional, and very supportive. Highly recommended.",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals"
+  },
+  {
+   "author": "Sachin Somanna",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "It’s been six months working out here and the experience has been fantastic. The atmosphere is great, and the management is very supportive. A special thanks to Trainer Ansar he’s an amazing coach and truly dedicated to helping you improve. I highly recommend him for personal training!",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals"
+  },
+  {
+   "author": "ninja plays2009",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "The gym is very well maintained and has all necessary amenities,  The gym staff is also very kind and\ncooperative .\nWould recommend to join.",
+   "owner_reply": null
+  },
+  {
+   "author": "Tinu Thomas",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Nice gym with a great atmosphere! The receptionist is very supportive, and the trainers are always there to guide and motivate me every day. Really happy with the experience – definitely recommend this gym to others👍",
+   "owner_reply": "thanks for your feedback"
+  },
+  {
+   "author": "Anugrah Jayan",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "The trainers giving nice training and mentally support. Especially sarath krishnan. This is my 3 rd gym in dubai MR :SARATH giving training nobody gave to me. He is the hidden gem in total g\nFitt gym",
+   "owner_reply": "Thank you for your response. We hope to continue helping you achieve your goals."
+  },
+  {
+   "author": "Shijil Wayn",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Iam very happy with this gym the atmosphere, trainers everything is very amazing. Trainers are to friendly and helping  also gym cardio and machines system is separate very neat and clean gym. Highly recommend 🥰",
+   "owner_reply": "thanks for your response"
+  },
+  {
+   "author": "Abhinav",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "The experience at Total Fit Gym was positive and motivating. The gym provides a well-equipped workout space with modern fitness machines for strength and cardio training. The trainers are supportive and guide members in improving their fitness routines. The environment is clean, friendly, and suitable for people aiming to maintain a healthy and active lifestyle.",
+   "owner_reply": "Thank you. We hope to continue helping you achieve your goals<br>"
+  },
+  {
+   "author": "Nandhu",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I can’t say enough good things about Total Fit Gym! The facility is top-notch, but what really sets this place apart is the training staff. The trainers here are incredibly knowledgeable, motivating, and genuinely invested in your progress. They push you to reach your goals while making sure your form is perfect. If you're looking for a gym where the trainers actually care about your results, this is it!\"",
+   "owner_reply": "thanks for your response"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1440
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1068
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    996
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    289
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "skipped",
+ "site_url": "https://mdmd1735.github.io/Business-websites/total-fit-abu-hail/",
+ "buy_likelihood": 8,
+ "notes": "Has a website already (totalfitdubai.com, not linked on Maps)."
+}

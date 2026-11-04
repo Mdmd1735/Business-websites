@@ -1,0 +1,1345 @@
+{
+ "slug": "paw-prints-veterinary-clinic",
+ "name": "Paw Prints Veterinary Clinic",
+ "place_id": "ChIJb0GoRYlvXz4RDAthYM7ACQI",
+ "category": "pet grooming",
+ "category_weight": 10,
+ "area": "Al Barsha, Dubai",
+ "address": "Arjan, Nas 2 Building, Shop 1 - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.0600842,
+  "lng": 55.237386
+ },
+ "phone": "+971 54 433 7908",
+ "rating": 4.7,
+ "userRatingCount": 151,
+ "rating_distribution": {
+  "oneStar": 11,
+  "twoStar": 1,
+  "threeStar": 1,
+  "fourStar": 0,
+  "fiveStar": 138
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Paw%20Prints%20Veterinary%20Clinic&query_place_id=ChIJb0GoRYlvXz4RDAthYM7ACQI",
+ "website": "",
+ "categories": [
+  "Veterinarian"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "Open 24 hours"
+  }
+ ],
+ "owner_description": "Veterinary clinic specialized in Dogs and Cats treatment",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking garage": true
+   },
+   {
+    "Free parking lot": true
+   },
+   {
+    "On-site parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "grooming",
+  "clean clinic",
+  "dog bath",
+  "tooth extraction",
+  "professional vet",
+  "nail trim",
+  "friendly team",
+  "welcoming staff",
+  "experienced doctor",
+  "helpful advice"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 4,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 54
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 40
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 13
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 36
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 27
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 31
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 45
+   }
+  ]
+ },
+ "owner_reply_rate": 0.13,
+ "reviews": [
+  {
+   "author": "Rossella Discipio",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nDoctor Joseph was absolutely exceptional! He personally handled all the necessary paperwork to bring Heidi to Italy, taking care of every single detail with great professionalism, precision, and dedication.\nThanks to him, the entire process was incredibly easy, smooth, and completely stress-free. He was always available to answer my questions and made me feel reassured throughout the whole journey.\nI highly recommend Joseph to anyone who needs to travel with their pet. He is extremely knowledgeable, trustworthy, and truly cares about his clients and their animals. With Doctor Joseph, you are definitely in the best hands! Thank you so much for your outstanding work and for taking care of everything so perfectly. You are truly amazing!",
+   "owner_reply": null
+  },
+  {
+   "author": "Elizaveta Studenikina",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I’ve been bringing my cat to this clinic for two years, and I’m so happy we found them! Everyone is genuinely lovely, the prices are very reasonable, and you can really see how much they care about the animals they treat.\n\nWe also come here for grooming, and it’s always been a great experience. The team is kind, attentive, and happy to explain everything and answer questions, which makes such a difference as a pet owner.\n\nToday my cat had some teeth extracted, and he’s doing really well so far. The team explained his aftercare clearly and made sure I knew how to look after him at home. I’m so grateful for the care they’ve given him.\n\nA huge thank you to the whole team for looking after my boy so well. Highly recommend this clinic for both veterinary care and grooming!",
+   "owner_reply": null
+  },
+  {
+   "author": "Eli Di",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "I highly recommend Paw Prints Veterinary Clinic! I have two cats, and the doctors here always take proper and exceptional care of them during every visit. They are incredibly knowledgeable, patient, and truly care about the well-being of my pets. They always respond to my calls right away whenever I have a question or concern. It makes a huge difference knowing my cats are in such safe and loving hands.",
+   "owner_reply": null
+  },
+  {
+   "author": "KA B",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I purchased my pup from the clinic and have visited for her vaccinations - all the staff are really friendly and caring for your pet. The space is always clean and tidy. I even had to unfortunately make an emergency trip and they responded so quickly over WhatsApp and was seen to as soon as we arrived. Highly recommend for your pet in Dubai.",
+   "owner_reply": null
+  },
+  {
+   "author": "Grazvydas Tamasauskas",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Dr. Yussef and Dr. Ahmed at Paw Prints have taken wonderful care of my dog, Pablo. They are kind, knowledgeable, and genuinely care about their patients. The whole team is friendly and professional, and I always feel confident that Pablo is in great hands. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sara K",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I came to Paw Prints through recommendation after sharing my cat’s case and symptoms with an acquaintance. I came into the clinic for a second opinion and help with my cat, and that is exactly what I have received, beyond expectations\n\nI was fortunate enough to have gone into the clinic as three doctors were on shift, and through all of them I felt I received the guidance or information necessary accordingly\n\nDr. Ahmed; familiar with the case my cat came in with. Direct with his diagnosis, expectations and treatment suggestions, extra measures and tests felt like they brought clarity (usually feels like an upsell with some vets)\n\nDr. Khaoula; super empathetic and kind, falled and followed up on my cat, even stayed after her work hours to ensure my cat’s wellness\n\nDr. Yousef; has a great team on hand, you sense the kindness and care he has for animals and their wellness. Took the time to explain, converse and soothe.\n\nmy cat has received a comparatively thorough examination & treatment, and I’m so glad I moved his case to them from the initial vet I had visited. Great ethics and standards :)",
+   "owner_reply": null
+  },
+  {
+   "author": "nahed tarabishi",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I had a wonderful experience at Paw Prints Veterinary Clinic today. The vet was incredibly understanding and took all the time needed to listen to my concerns carefully. The clinic is exceptionally clean, and the overall service is beyond excellent. Highly recommended for anyone looking for top-tier care for their pets!",
+   "owner_reply": null
+  },
+  {
+   "author": "Eia Faye Suarez",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Bill is great with dogs! Team is overall very enthusiastic with you and your pet and is always ready to answer any questions you may have. I did everything with them for my toy poodles vaccinations and first time grooming - they are excellent and very gentle with your pet.",
+   "owner_reply": null
+  },
+  {
+   "author": "julia wamelink",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I took my 9 weeks old doberman pup to the clinic in an emergency as my puppy was not able to breath. They took it serious from the moment I came in. They are very open and honest about what treatment they did with my puppy. After 1 day of isolation and antibiotics she was already better. I could not believe my eyes!!! I was never expecting her to recover after 1 day!!! They really know how to take care of animals. I will always be thankful for this. If i did not come here she would probably not have survived!! Thank you Dr. Youssef and Dr. Ahmed for giving my puppy a second chance to live!🙏🏼",
+   "owner_reply": "Saving your 9 week old warrior and giving her a second chance is exactly why we do what we do. The entire team is so grateful for your trust and kind words. Lots of love to your little fighter 🐶🤍"
+  },
+  {
+   "author": "Leonor Gómez Ripollés",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Taking our poodle to Paw Prints Veterinary Clinic feels like leaving him with family — if that family also happened to be incredibly skilled and equipped with the latest tech! The medical baths are top-notch, the groomer is an absolute artist, and the whole team is kind, professional, and genuinely passionate about animals. Special shoutout to Joe, who is hands down the best vet in Dubai. Knowledgeable, caring, and always going the extra mile. Thank you for treating our furry one like your own!",
+   "owner_reply": null
+  },
+  {
+   "author": "Stefan Schranz",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very good and competent veterinary clinic. Very friendly and well-trained staff. Even in our most difficult times, we felt very well taken care of.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Hassan احمد حسن (Ahmed Hassan)",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Absolutely love Paw Prints Vet Clinic! 🐾 The whole team is super friendly and really cares about the animals. They always take their time to explain everything and make sure my pup feels comfortable (which is saying a lot, because he’s usually super nervous at the vet). The clinic is clean, appointments are on time, and they don’t try to upsell you on unnecessary stuff. Just honest, caring vets who clearly love what they do. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jackie Edward",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "This place is lovely, they are like family to me.. they take great care of my baby Brie ♥️. I always ask them for advise and always will do. Lovely doctors to staff.. they are professional and wouldnt ask for more.\nThank you guys very much",
+   "owner_reply": null
+  },
+  {
+   "author": "Saskia McBride",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I took my seriously unwell puppy to the vets and after 8 days in isolation he was ready to come home again. The vets and the front desk staff were always on hand to reassure me and provide me with updates on how he was doing. The clinic itself is super clean and inviting. The care they gave him was as if the puppy were there own and will be eternally thankful ❤️❤️ my puppy is on the mend and we will be going back there for his grooming as the grooming staff were so polite and playful with my fur baby. Thank you.",
+   "owner_reply": "Thank you for trusting u with your baby during such a worrying time. We’re over the moon that he’s home and healing.<br>He stole all our hearts here, and we’re already looking forward to spoiling him when you bring him back for grooming."
+  },
+  {
+   "author": "Liubov Vaniukova",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "Unfortunately, professionalism and customer service are clearly not for everyone. Some people are simply not suited to work in places that require respect, communication skills, and basic manners.\n\nI am honestly shocked by the level of unprofessionalism I experienced at this clinic.\n\nA dog was walking around the clinic without a leash while vomiting throughout the waiting area. I came with my own dog for vaccination, so naturally I asked whether the animal had any infectious condition and why it was freely roaming around the clinic in that state.\n\nInstead of receiving a calm and professional response, I was met with rudeness and an extremely dismissive attitude from a staff member named Ekaterina, who later turned out to be a veterinarian. New there.\n\nRather than de-escalating the situation or addressing valid hygiene and safety concerns, she became argumentative, rude, and openly disrespectful. Even in front of the manager, after he apologized for the situation, she continued behaving aggressively, looked me up and down in a very inappropriate manner, and stated:\n“I’m a doctor, not a clown to smile at you.” She doesn’t have simply respect, not for her management, not for the client.\n\nNo one expects doctors to be “clowns.” But clients absolutely expect basic professionalism, respect, communication skills, and sanitary control — especially inside a veterinary clinic where sick animals are present.\n\nWhat disappointed me most was not even the vomiting dog, but the complete lack of professionalism, empathy, and self-control displayed by a medical professional representing this clinic.\n\nVery disturbing experience, and definitely not the level of service or behavior one should encounter in a professional veterinary environment.\n\nFor sure my last time to come here .",
+   "owner_reply": "Dear Liubov,<br><br>Thank you for taking the time to share your feedback. We are truly sorry that you had such a disappointing and upsetting experience at our clinic.<br><br>We take hygiene, patient safety, and professional conduct very seriously. The dog in question had a simple upset stomach (non-contagious). However, this does not excuse the fact that it was loose and vomiting in the waiting area. This should not have happened, and we apologize for the distress this caused you and your dog.<br><br>Regarding the interaction with Dr. Ekaterina, we are disappointed to hear that you were met with rudeness instead of empathy and professionalism. This falls far below the level of respect and care our clients deserve. We have already addressed this internally with the team.<br><br>Your concerns about cleanliness, communication, and staff behavior are valid. We have reviewed our protocols for managing animals showing symptoms in the waiting area and reinforced expectations around professional conduct.<br><br>We would very much like the opportunity to make this right. Please feel free to contact us directly so we can discuss this further or offer a solution that better reflects the quality of care we strive to provide.<br><br>We hope to have another chance to regain your trust.<br><br>Best regards,<br>Paw Prints Team"
+  },
+  {
+   "author": "Hana Hossam El Din",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Amazing and helpful team, felt very comfortable leaving my dogs health in their hands. Dr Yousef and Dr Ahmed are both exceptional, they addressed all my concerns and I would recommend the clinic to anyone seeking compassionate veterinary care!",
+   "owner_reply": null
+  },
+  {
+   "author": "Kariman Diab",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful experience at Paw Prints Veterinary clinic! I brought in Phoebe for her vaccination and Leo for grooming, and the care they received was outstanding. The staff was incredibly friendly, professional, and patient, ensuring both pets were comfortable and well cared for.\n\nPhoebe’s vaccination was quick and stress-free, and Leo came out looking absolutely fantastic after his grooming session. The team clearly loves what they do, and it shows in how they treat their furry clients.\n\nThank you for making the visit so smooth and enjoyable for both Phoebe and Leo! I highly recommend Paw Prints Veterinary Clinic for anyone looking for exceptional pet care.",
+   "owner_reply": null
+  },
+  {
+   "author": "Conor Thompson",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "We’ve been bringing our puppy (toy poodle) to Youssef, Ahmed and the team for just over a month. The service is always top notch and we always leave feeling confident that we know exactly how to care for him. Grooming team is also superb",
+   "owner_reply": null
+  },
+  {
+   "author": "Rol Kaya",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have never seen such clean place,amazing staff and the doctors are amazing !\nAdding to this they have a lot of toys and gadgets for your furry one 😊My Two pets are in good hands 🙂‍↔️",
+   "owner_reply": null
+  },
+  {
+   "author": "Drei D",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Dr. Ahmad Bakr handled the feisty stray cat I have brought with patience and care. He knows how to handle the cat and made blood extraction for testing look easy.\n\nThe front desk personnel is very accommodating too.\n\nClinic smells good and looks clean. They even offer capsule coffee and some chocolates 😅\n\nRescue rates are good and they gave me good payment terms.\n\nI hope xrays and other medical tools will be soon available though. I also hope the clinic will be able to maintain all the good points I have mentioned even after years.\n\nGood job to the clinic.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alina Odwyer",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "This is absolutely amazing clinic and stuff. We brought our dog there and he got so much professional attention and care like it's them own pet. Them love animals like them own , and really amazing doctors",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Hossam",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Dr.Ahmed & Dr.Yousef in Paw print clinic Arjan are life saver and a true help in difficult times.They are there 24-7 offering the utmost help all the time . They saved my pets life multiple times and directed me on how to take care of my pet in a safe and sound way.\nThanks doctors for your help dedication and care.",
+   "owner_reply": null
+  },
+  {
+   "author": "Liliia Burtseva",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I would write a review and say big thanks to all doctors and specially Yosif to keep our pets safe and healthy and ready to help 24/7",
+   "owner_reply": null
+  },
+  {
+   "author": "T M",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I truly can’t thank this veterinary clinic enough for their humanity and compassion.\nI brought my cat in as an emergency due to a serious breathing issue. From the very first moment, they acted immediately and treated her with such care and urgency. Her condition was a bit complicated and she’s an older cat, but they went above and beyond staying with her, monitoring her closely, and putting in extra effort to make sure she was stable and comfortable the entire time.\n\nWhat really touched me was how they treated her as if she were their own pet. Their care didn’t feel commercial or money focused at all. They were very considerate about the costs and genuinely prioritized her wellbeing first. Alhamdulillah, she is much better now thanks to their dedication and constant care.\nI also want to mention that I’ve been coming to them even before this emergency for grooming, It’s actually the only place where my cat doesn’t get stressed during haircuts. Larry is incredibly gentle and kind with animals my cat truly loves him and feels completely safe during her sessions. That means everything to me, especially considering her age and emotional comfort.\n\nI highly recommend this clinic to anyone looking for a truly humane, compassionate place to care for their pets. Thank you from the bottom of my heart for taking such wonderful care of Nona 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Toh",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Larry I still can’t get over how you were grooming my dog like it was your own 😄 the way you paid attention and cared so gently really meant a lot to me. It wasn’t just about the grooming, it showed your kind heart and how thoughtful you are. Honestly, moments like that make me appreciate you even more 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Артур Фатулаев",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "this is the best clinic where you can treat a dog, the doctors are simply professionals in their field, they love dogs madly, they treat them very reverently. They always give feedback. I don't know how they cured our baby, but they are insanely cool doctors 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Yam Yawala",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This new clinic staff is so amazing, with highly trained professionals who  understands their jobs well, The doctor addresses everything kindly and make sure you understand what the issue is ,how to go about it and the after care,\nThe groomer Larry is well versed in grooming and understands the different modes of dogs, cats and how to handle them well he keeps it simple but professional.  I loved it there and I highly recommend to everyone who truly loves their pets and wants nothing but the best for them.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lorena ji",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Took my cat in an emergency as he was accidentally poisoned. The doctor took him in immediately, took it seriously, administered the antidote and did blood tests. The cat is fine. The doctor also had a mountain of patience with me as I panicked and asked 1000 questions. Took time to calm me down and showed care. Wonderful clinic and great doctor! Thank you",
+   "owner_reply": null
+  },
+  {
+   "author": "Dina Mansour",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing customer service. I have been taking my cocker spaniel since they opened and my puppy has been in mint shape. The doctors are very experienced. I absolutely love the glooming service they provide, my pup’s groom is 10\\10.",
+   "owner_reply": "Thank you for trusting us 🤍"
+  },
+  {
+   "author": "A. Stone",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "I don’t know the employee’s name, but it was a man. He behaved rudely and communicated poorly with clients, so the clinic’s management should pay attention to the level of service and train staff in polite and respectful communication.\nI do not recommend this clinic due to the unpleasant experience with the staff",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    512,
+    341
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    275,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 62,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/paw-prints-veterinary-clinic/",
+ "buy_likelihood": 6
+}

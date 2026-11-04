@@ -1,0 +1,1691 @@
+{
+ "slug": "alhan-cafe",
+ "name": "Alhan Cafe",
+ "place_id": "ChIJyV_PBSRZXz4RMNu5J0YdJgg",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "Ajman",
+ "address": "Al Ittihad St - Al Nuaimia 1 - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3892917,
+  "lng": 55.4694939
+ },
+ "phone": "+971 56 355 0712",
+ "rating": 4.7,
+ "userRatingCount": 3070,
+ "rating_distribution": {
+  "oneStar": 89,
+  "twoStar": 29,
+  "threeStar": 106,
+  "fourStar": 180,
+  "fiveStar": 2666
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Alhan%20Cafe&query_place_id=ChIJyV_PBSRZXz4RMNu5J0YdJgg",
+ "website": "",
+ "categories": [
+  "Cafe",
+  "Restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "Open 24 hours"
+  }
+ ],
+ "owner_description": "مقهى ومطعم",
+ "amenities": {
+  "Service options": [
+   {
+    "Outdoor seating": true
+   },
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Drive-through": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Fireplace": true
+   },
+   {
+    "Great coffee": true
+   },
+   {
+    "Great dessert": true
+   },
+   {
+    "Great tea selection": true
+   },
+   {
+    "Live music": true
+   },
+   {
+    "Live performances": true
+   },
+   {
+    "Rooftop seating": true
+   },
+   {
+    "Sports": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   },
+   {
+    "Good for working on laptop": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Happy hour food": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Private dining room": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegan options": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Cozy": true
+   },
+   {
+    "Quiet": true
+   },
+   {
+    "Trendy": true
+   },
+   {
+    "Upscale": true
+   }
+  ],
+  "Crowd": [
+   {
+    "College students": true
+   },
+   {
+    "Family-friendly": true
+   },
+   {
+    "Groups": true
+   },
+   {
+    "Tourists": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "High chairs": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "Cleanliness of the place",
+  "Watching matches",
+  "Luxurious",
+  "Maryam's service",
+  "Maryam",
+  "Jordanian Mansaf",
+  "Cafe in Ajman",
+  "Ramadan buffet",
+  "shesha",
+  "Beautiful place"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 4,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 11
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 9
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 11
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 8
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 3
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 15
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 17
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 18
+   }
+  ]
+ },
+ "owner_reply_rate": 0.07,
+ "reviews": [
+  {
+   "author": "Muhmmad Kashif",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "The food was delicious and the service was excellent. Staff were very polite and helpful.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Sammour",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "A place to be! We love spending our weekend evenings here. The atmosphere is always warm and welcoming, with great hospitality that makes every visit enjoyable.\n\nWe especially love the Tiger Room. A special thanks to Olla (علا) for always making us feel so welcome and taking such great care of us. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sasha",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "The customer sevice is excellent specially from Soumaya and Souad, they are brilliant. We have been a regular customer for an year and quality of service and shisha is always amazing. I fully recommend this cafe.",
+   "owner_reply": null
+  },
+  {
+   "author": "Wajeeha Zameer",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Review: A Hidden Gem with Great Food, Shisha, and Hospitality\n\nTucked away in a cosy corner of the city, this restaurant is a true hidden gem for anyone who appreciates good food, smooth shisha, and warm hospitality. From the moment you step inside, you’re greeted with a friendly smile and a welcoming atmosphere that makes you feel right at home.\n\nThe food is the real star here—every dish is made with care, and you can tell the ingredients are fresh. The grilled meats are perfectly cooked, tender, and full of flavour, while the mezze selection is generous and packed with authentic tastes. Whether you’re in the mood for a light bite or a full feast, there’s something on the menu to satisfy every craving.\n\nThe shisha is equally impressive—smooth, well-packed, and available in a variety of flavours. It’s clear they take pride in preparing it properly, with just the right amount of smoke and a long-lasting session that doesn’t burn out too quickly.\n\nWhat really sets this place apart, though, is the hospitality. The staff go above and beyond to ensure you’re comfortable, checking in just enough without being intrusive. They take the time to recommend dishes and make sure your shisha is always perfect, creating an experience that feels personal and genuine.\n\nWhether you're here for a relaxed evening with friends or a solo escape to unwind, this spot delivers on all fronts. It’s the kind of place you’ll find yourself returning to again and again—not just for the food and shisha, but for the warmth and care that make every visit special.",
+   "owner_reply": null
+  },
+  {
+   "author": "ahmed helmy",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "The food was great and the staff was so kindly and helpful, best cafe in Ajman",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammad Mukbil",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "This cafe has a screen big enough for the World Cup\nThe screen is like 10meters x 2 meters\nAnd the food is so great and the price is acceptable for everyone",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Mallak",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "best place to watch foot because of the huge screens.\nbest place to listen to arabic music\nbest place if you need to work online in my laptop\nFriendly working staff, specially Ms Fareeda very professional.",
+   "owner_reply": null
+  },
+  {
+   "author": "Adnan Asrar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Love the food, atmosphere and best part the Service. Really great staff.",
+   "owner_reply": null
+  },
+  {
+   "author": "Fauzia Yaqoob",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Visited for the first time, had shisha and a cold drink. Lovely ambience, relaxing atmosphere, and friendly staff. Really enjoyed the experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "khurram ghafoor",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "Nice sheesha flavour taste and good chilled environment 👌 very cooperative staff. Probably the best sheesha cafe in ajman",
+   "owner_reply": null
+  },
+  {
+   "author": "aaras kraidi",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Best Shisha coffee shop and restaurant  in Ajman ...whatever  you order is perfect 👌..staff are too much friendly and fast response ...not forgetting  the amazing  management always ready to satisfy customers... keep the same quality of services ✨️",
+   "owner_reply": "Thank you for your trust in us.<br>Alhan Cafe<br>The Happiness Factory<br>Welcome<br>At your service 24/7 for reservations and feedback<br>0563550712"
+  },
+  {
+   "author": "Hazem Salam",
+   "rating": 4,
+   "when": "8 months ago",
+   "text": "good , not bad and i believe this place is one of the best at ajman , i advice all my friends and relatives to visit this place . for many reasons ; good service , reputable place with policy ... by the end i  feel comfortable at this place than others",
+   "owner_reply": null
+  },
+  {
+   "author": "lhoucine asouab",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Great atmosphere and amazing place to gather with friends👍👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Farooq Ahmad",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Arabic Shesha Cafe, Moroccon Staff, They Have Russian Shesha Flavours As Well, Good Shehsa, Reasonable Price, Very Colourful Indoor And Outdoor Sitting Area, Separate Area For Families And Cabins For Couples.\nRecommended..",
+   "owner_reply": "Thank you for choosing Alhan Cafe, Alhan Al-Mahabba"
+  },
+  {
+   "author": "a86",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Very nice cafe, shisha and beverages are so good, but unfortunately my food experience was not good. Otherwise everything was very good.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mazin Nadim",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I tried the Syrian Molokhya at Alhan Cafe and it was absolutely delicious! Special thanks to Chef Fatima for creating such a rich, flavourful dish, the tender chicken and fragrant broth tasted truly homemade. The portion was generous and served piping hot. Friendly staff and a cosy atmosphere made the experience even better. Highly recommended if you want an authentic taste of Syrian cuisine.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohsen Mostafa Mohammed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My Favorite special thanks for Rajaa and new girl with the Orthodontist,\nher smile is amazing 🤩 💓",
+   "owner_reply": null
+  },
+  {
+   "author": "Real Reviews",
+   "rating": 4,
+   "when": "Edited 3 years ago",
+   "text": "Great service and excellent shisha",
+   "owner_reply": null
+  },
+  {
+   "author": "Al-Hasan Marak",
+   "rating": 3,
+   "when": "7 months ago",
+   "text": "It’s a vibe place however it’s too loud, if u want something quieter don’t come here, if ur looking for loud and vibrant this place is for you",
+   "owner_reply": null
+  },
+  {
+   "author": "abdulrahim elsherbiny",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Very nice place. Excellent prices",
+   "owner_reply": null
+  },
+  {
+   "author": "Karim Samy",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Excellent place\nKind staff\nEspecially Salwa",
+   "owner_reply": null
+  },
+  {
+   "author": "nawaf mohammed",
+   "rating": 1,
+   "when": "6 months ago",
+   "text": "A bad experience with the cashier; the price was inaccurate, and the cashier spoke to customers unprofessionally.",
+   "owner_reply": null
+  },
+  {
+   "author": "Cherrylourd Taborada",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Mashallah mashallah the food taste is perfect and amazing.they give a good service ..u should visit here u will never regret .",
+   "owner_reply": null
+  },
+  {
+   "author": "F Farseen",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "\"From the moment we walked in, the aroma of fresh coffee was incredible. The ambiance is perfect for working or catching up with friends\".",
+   "owner_reply": null
+  },
+  {
+   "author": "Alondra Freyre",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "This coffee shop has a cozy vibe and friendly staff. The drinks are consistently good, especially the lattes! However, the seating can get a bit cramped during peak hours. Overall, a solid spot for a caffeine fix.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aloud Alaswad perfumes",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Thanksvfor Salwa in AlHAn Caffè she help us alont . And the Fod was very nice as well the services .",
+   "owner_reply": null
+  },
+  {
+   "author": "Sabir Khan",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "Feedback !!\nDrove all the way from dubai to try this place ordered ViP shisha grape mind 1/10 no flavor and shisha was faulty so they didn't even change it, after calling them again and again they changed at last but the flavor was burnt during there tests ! No charcoal was changed as well in timely manner !!\nOrdered mix girl chicken was under cooked and lamb chunks were not tender. Staff don't speak english they prefer arabic so you need to have all kind of staff. Seats / sofas are extremely dirty even floor.\n\nPlease accept  this honest review its for your own good",
+   "owner_reply": null
+  },
+  {
+   "author": "Hani Ahmed",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Services are very good and faster services\nWe will bring our friends to try the food",
+   "owner_reply": null
+  },
+  {
+   "author": "Ali Murshad",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Im really appreciated and service is too good, I am very happy to being here thakn you for all",
+   "owner_reply": null
+  },
+  {
+   "author": "yasir badar",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Good service very nice staff good food.i recommend my friend here .",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    478,
+    850
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    750,
+    500
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1264,
+    847
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1078,
+    1539
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    558,
+    319
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1067,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    893,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    512,
+    386
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    286,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/alhan-cafe/",
+ "buy_likelihood": 6
+}

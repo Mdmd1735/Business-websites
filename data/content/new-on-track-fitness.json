@@ -1,0 +1,32 @@
+{
+ "preset": "citrus-pop",
+ "theme": {"bg": "#111111", "surface": "#1A1A1A", "surface_2": "#242424", "text": "#F5F3EE", "text_2": "#CFCBC2", "dim": "#9C988F", "line": "rgba(255,255,255,.1)", "line_strong": "rgba(255,255,255,.22)", "nav_bg": "rgba(17,17,17,.86)", "card_glass": "rgba(24,24,24,.9)", "tint": "rgba(255,255,255,.07)", "map_filter": "grayscale(1) invert(.9) contrast(.9)", "accent": "#FFD100", "accent_text": "#FFD100", "on_accent": "#111111", "duo": "#5C4A00", "busy": "#E23D28", "glow": "rgba(255,209,0,.15)", "band_bg": "#FFF8DB", "band_text": "#111111", "band_card": "#FFFFFF", "band_line": "#EDE3BE", "band_accent": "#E23D28", "ask_bg": "#111111", "ask_text": "#FFFFFF", "quiet": "#5C705E", "frame": "slant", "hero_ratio": "4/5", "dcase": "uppercase"},
+ "extra_css": ".hero-split .hero__slab{background:#E23D28}",
+ "brand": {"name": "New On Track", "sub": "Fitness · Al Rigga", "mark": "N", "footer_word": "ON TRACK"},
+ "seo": {"title": "New On Track Fitness | 24-Hour Gym & Boxing on Al Maktoum Road, Al Rigga", "description": "New On Track Fitness, Al Maktoum Road near Abu Shakra, Al Rigga: 24-hour gym with boxing and kickboxing, female coaches, personal training and beginner-friendly trainers. 4.9 from 279 reviews."},
+ "hero": {"variant": "split", "ar_name": "اون تراك فتنس", "kicker": "Al Maktoum Road · Near Abu Shakra · Al Rigga", "title_lines": ["Don't wish for it.", "Work for it."],
+   "lede": "A 24-hour gym in Al Rigga with boxing and kickboxing, female and male coaches, personal training and a crew that celebrates every milestone together.",
+   "image": "img/hero.jpg", "image_alt": "Member training in front of the bold red-and-yellow mural", "secondary": {"label": "Training", "href": "#training"}},
+ "cta_label": "Ask about membership", "cta_text": "Hi New On Track Fitness, I'd like to know your membership prices.",
+ "proof_note": "4.9 · replies to 97% of reviews",
+ "address_lines": ["New On Track Fitness, Al Maktoum Road", "Near Abu Shakra, Al Muraqqabat, Deira, Dubai"],
+ "ticker": ["Open 24 hours", "Boxing", "Kickboxing", "Personal training", "Female coaches", "Beginners welcome"],
+ "sections": [
+  {"type": "services", "id": "training", "nav": "Training", "eyebrow": "Training", "title": "Lift, punch,", "title_dim": "repeat.",
+   "items": [
+    {"name": "Boxing & kickboxing", "feature": true, "img": "img/boxing.jpg", "alt": "Group boxing session with gloves up", "desc": "Coached sessions on the bags and pads.", "quote": "I joined expecting just a regular gym, but I was pleasantly surprised. The trainers were incredibly supportive.", "cite": "Lika"},
+    {"name": "Strength floor", "img": "img/floor.jpg", "alt": "Barbells and racks under a mural", "desc": "Racks, plates, dumbbells and machines."},
+    {"name": "Cardio", "img": "img/treadmill.jpg", "alt": "Treadmills in front of a quote wall", "desc": "Treadmills and conditioning."},
+    {"name": "Personal training", "img": "img/pads.jpg", "alt": "Coach holding kick pads", "desc": "One-to-one plans with female or male coaches."}
+   ],
+   "perks": ["Open 24 hours (Sun 4 PM – 12 AM)", "Female coaches", "Beginners welcome"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Beat the crowd", "title": "Open all night.", "title_dim": "Pick your hour."},
+  {"type": "team", "id": "team", "nav": "Coaches", "eyebrow": "Coaches", "title": "Coach Chona,", "title_dim": "Coach Rahul and the team.",
+   "items": [{"name": "Coach Chona", "count": 11, "role": "Coach"}, {"name": "Coach Rahul", "count": 6, "role": "Coach", "quote": "Special thanks to Coach Rahul. He is very supportive.", "cite": "Dimple P."}, {"name": "Coach Anand", "count": 3, "role": "Coach"}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "On Track Fitness storefront", "wide": true}, {"src": "img/group.jpg", "alt": "Members group photo", "wide": true}, {"src": "img/kick.jpg", "alt": "Flying kick in class"}, {"src": "img/squad.jpg", "alt": "Members in front of the mural"}, {"src": "img/bag.jpg", "alt": "Branded heavy bag"}, {"src": "img/armwrestle.jpg", "alt": "Arm-wrestling challenge"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Ask for today's offer.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a monthly membership?", "When are the boxing classes?", "Do you have female coaches for personal training?", "Can I try a day pass?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Maktoum Road,", "title_dim": "Al Rigga."}
+ ]
+}

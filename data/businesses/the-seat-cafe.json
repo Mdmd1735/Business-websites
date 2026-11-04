@@ -1,0 +1,2094 @@
+{
+ "slug": "the-seat-cafe",
+ "name": "The seat cafe",
+ "place_id": "ChIJzR7viUzx9T4R16XrLHCcBFw",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "Ajman",
+ "address": "CJ2C+CF2 - Al Heliow - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.4009191,
+  "lng": 55.6210046
+ },
+ "phone": "+971 50 129 1451",
+ "rating": 4.7,
+ "userRatingCount": 913,
+ "rating_distribution": {
+  "oneStar": 29,
+  "twoStar": 11,
+  "threeStar": 35,
+  "fourStar": 58,
+  "fiveStar": 780
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20seat%20cafe&query_place_id=ChIJzR7viUzx9T4R16XrLHCcBFw",
+ "website": "",
+ "categories": [
+  "Coffee shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "6 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "6 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "6 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "6 AM to 1 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "6 AM to 1 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "6 AM to 1 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "6 AM to 1 AM"
+  }
+ ],
+ "owner_description": "قهوة مختصة بجوده عاليه",
+ "amenities": {
+  "Service options": [
+   {
+    "Outdoor seating": true
+   },
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Drive-through": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   },
+   {
+    "Great dessert": true
+   },
+   {
+    "Great tea selection": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   },
+   {
+    "Good for working on laptop": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Cozy": true
+   },
+   {
+    "Quiet": true
+   },
+   {
+    "Romantic": true
+   },
+   {
+    "Trendy": true
+   },
+   {
+    "Upscale": true
+   }
+  ],
+  "Crowd": [
+   {
+    "College students": true
+   },
+   {
+    "Groups": true
+   },
+   {
+    "Tourists": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   },
+   {
+    "Kids' menu": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "banana pudding",
+  "pavlova cake",
+  "outdoor seating",
+  "Quiet place",
+  "San Sebastian",
+  "kinder cookie",
+  "v60",
+  "Mondays are for women",
+  "specialty coffee",
+  "kind staff"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 98
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 98
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 41
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 37
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 29
+   }
+  ],
+  "We": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 33
+   }
+  ],
+  "Th": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 38
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 41
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 44
+   }
+  ]
+ },
+ "owner_reply_rate": 0.1,
+ "reviews": [
+  {
+   "author": "tanbin sikder",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The nicest staff along with the very cozy place! Loved travelling all the way to the seat cafe to finally have enjoyed all the types of drinks and some desserts that we have ordered and not one was not delicious! We loved the staff sm as well and they even gifted us very cute lipsticks as a departure gift! Really really really loved the whole experience",
+   "owner_reply": null
+  },
+  {
+   "author": "Nazeem p",
+   "rating": 4,
+   "when": "6 months ago",
+   "text": "The highlight of this spot is definitely the ambience. It has a very nice, welcoming vibe—perfect for relaxing or meeting up with friends. The interior design is tasteful and makes you want to stay a while.\nFood & Drinks\n• Acai Bowl: Really fresh and a solid choice if you're looking for something healthy and refreshing.\n• Coffee: Not bad at all! It’s well-made and pairs perfectly with the atmosphere.\nService\nThe service was good and attentive, which really adds to the overall positive experience.\nOverall: A great local gem in Ajman if you're looking for a cozy spot with quality treats. Would definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Alya Alnuaimi",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "the cafe is pretty nice and its got a nice atmosphere to it! both their indoor and outdoor spaces are pretty and picturesque. besides that the outdoor part is pink so i’m also biased to that haha <3",
+   "owner_reply": null
+  },
+  {
+   "author": "س.",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We loved the cafe somuch it was one of the best experiences for us. Special thanks to the staff they were very sweet and helpful with everything and the customer service was amazing . We will surely comeback again ofcourse. Plus they had separate section for women which was one of the best thing and made us feel comfortable as well.",
+   "owner_reply": null
+  },
+  {
+   "author": "Marwan Zaky (Maro Zaky)",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very very nice place and they are very friendly with the kids, also so many options in door and outdoor also smoking zone, the food and beverage are very tasty and nice, love the place and the atmosphere but the stuff there make me wanna go every day, we love the place but we love you more 🤩🤩\nThank you everyone.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mariam abdelwahed",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I ordered caramel latte and it was delicious , vanilla pudding yummy, all drinks are delicious,well served in short time .",
+   "owner_reply": null
+  },
+  {
+   "author": "Simab Shaikh",
+   "rating": 4,
+   "when": "9 months ago",
+   "text": "A perfect cozy hidden gem tucked away in some pretty corner of Ajman. The new desert popup of the cafe which gives off Arabian vibes and also offers horse rides is absolutely beautiful. An amazing cozy spot where you can relax and enjoy with your family or loved ones.\nThe hot white mocha latte and the tiramisu were delicious.",
+   "owner_reply": null
+  },
+  {
+   "author": "walaa Qasem",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Best place ever amazing food, amazing staff Maria was lovely,, I love it..this my 1st time and won't be the last",
+   "owner_reply": null
+  },
+  {
+   "author": "KAPIL GOLE Lama",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I went to the Ajman Port and Customs, where I saw a coffee shop named The Seat Cafe. Their service was excellent, and the taste of the coffee was good.",
+   "owner_reply": null
+  },
+  {
+   "author": "JQ",
+   "rating": 4,
+   "when": "9 months ago",
+   "text": "Nice ambiance and a comfortable place to enjoy hot drinks, particularly during good weather. Unfortunately, the customer service needs improvement. The staff were not very accommodating or helpful, and the service was slow. We ordered pizza, but no sauce or ketchup was offered. Better customer service would make this place much better.",
+   "owner_reply": "Thank you for visiting Set Cafe. Please contact us via Instagram for more details."
+  },
+  {
+   "author": "Shams Abdulwahab",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "This place has the best outdoor seatings and it is ideal for winter. Hot Spanish latte was super excellent. Lovely staff. Thanks.\nAnd they open 6 am wich is great time for morning ppl like me 😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Rami Khani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Hidden Gem!  Seat Cafe in Ajman offers a delightful experience!\n\nThe cozy ambiance and welcoming atmosphere made it a great spot to unwind. The coffee was fantastic, and their food selection was both tasty and fresh. The staff were friendly and attentive, making sure every need was met.\n\nWhether you're looking for a peaceful place to relax or a casual meeting spot, this cafe is a hidden gem in Ajman. I’ll definitely be returning for another visit soon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Maitha A",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Very calm and quite place, the food here is soo delicious especially their pavlova cake 😍😋, I highly recommend this place!! They also have drive through so you can order and pick it up👍🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Alya Maroosh",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Tasty breakfast, friendly staff and nice atmosphere. They also offer good choice of beans.",
+   "owner_reply": null
+  },
+  {
+   "author": "Olena Elbeshbishi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "My favorite coffee spot in Ajman ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "M Al",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I like how big the portions are, how delicious and fresh the foods are, and the prices are just so good 😍😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Pry_",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "The pasta was very worst and the hotdog was even worstier it was my first time to go here after a long time i wanted to experience a good place but in the whole order acai smoothie was only good i paid more than 200 aed not worth food\n-pasta\n-hotdog with fries\nAmbience was very nice and the outdoor dining too",
+   "owner_reply": null
+  },
+  {
+   "author": "badria salem",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "The service was attentive, and the food was delicious. However, I would love to see more variety in the menu by adding some new dishes. Introducing a wider selection—perhaps including creative appetizers, kid-friendly options, and healthier or fusion-inspired meals—could attract customers of all age groups and enhance the dining experience.\nThe current menu has great flavors, but expanding it with innovative choices would make the restaurant even more appealing to families, young adults, and older patrons alike. Looking forward to seeing exciting updates in the future!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jefferson Jevon John",
+   "rating": 4,
+   "when": "11 months ago",
+   "text": "Nice environment and great taste of coffee\n\nI tried iced latte coffee it was lit",
+   "owner_reply": "Thank you for your visit Jefferson  , looking forward to serve you again. "
+  },
+  {
+   "author": "Eman Al5hory",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "The best cafe for me in Ajman, i came from dubai for it❤️❤️❤️.\nSpecially thanks for waiter Rashid",
+   "owner_reply": null
+  },
+  {
+   "author": "sana ahmed",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "The food is Amazon specially the banana pudding is the best I have ever had !!!!!! Loved the ambience so peaceful and surreal!!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed A",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I just wanted to thank you for the wonderful experience. The café is truly excellent in terms of quality, comfort, and atmosphere. The service was outstanding, the coffee was perfectly prepared, and the seating area is very comfortable with a great vibe.\n\nSpecial thanks to Jahed and Osama for their professionalism and kind, welcoming attitude. Their service genuinely made the visit even more enjoyable. The staff in general are amazing and very friendly.\n\nThis café is always my go-to place to relax and spend quality time, and it never disappoints.",
+   "owner_reply": null
+  },
+  {
+   "author": "Hk Official",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "I love this place! I often visit here with my family, It serves the best Speciality coffee & Breakfast in Ajman Al Helio fresh juices & delicious desserts . There's a really nice chilled atmosphere & the decor is really cool... their prices are so friendly🤝🏾",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarah El-Wahsh",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It's a lovely place with amazing coffee and a wide variety of choices for both coffee and beans. A hidden gem in Ajman that I recommend to everyone.",
+   "owner_reply": null
+  },
+  {
+   "author": "saif mohammed",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "A truly unique cafe,it serves delicious coffee with a unique and distinct flavor. I tried their coffee and it was truly special and worth repeating . The place is beautiful and simple,reflecting their true love for specialty coffee .",
+   "owner_reply": null
+  },
+  {
+   "author": "Veronika Porshneva",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "as a coffee lover, I can say that this is the best coffee I drank in the UAE, you can also have breakfast here, wonderful staff, and you can also ride horses from the Al Omar stable( near to cafe) to the cafe and drink coffee. You are the best👌highly recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Asma Al Ali",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Love the food and coffee and the workers are so lovely 😍  for sure I'll go back again",
+   "owner_reply": null
+  },
+  {
+   "author": "Nadia M",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Really good coffee. Well priced. Tried the San Sebastian, it was okay. Will definately come back to try more from the menu & hopefully they expand it even furthur soon.",
+   "owner_reply": "Thank you for visiting , looking forward to hot you again"
+  },
+  {
+   "author": "Taimoor",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "“Very good experience. The coffee and food were delicious, and the staff were polite and welcoming. Highly recommended.”",
+   "owner_reply": null
+  },
+  {
+   "author": "shamsa Alketbi",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I had a great experience at the café. Abbas was very friendly, and his fast work and efficiency really stood out. He made everything smooth and enjoyable. Definitely coming back!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1179,
+    1369
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    576,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1318,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    358,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    512,
+    295
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    358,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    295
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    321,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    323,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    325,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    297,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    298,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    422,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/the-seat-cafe/",
+ "buy_likelihood": 6,
+ "notes": "Scouted in batch 3, not built (few photos or inactive owner)."
+}

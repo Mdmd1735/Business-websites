@@ -1,0 +1,35 @@
+{
+ "preset": "midnight-teal",
+ "theme": {"accent": "#D93B3B", "accent_text": "#F25C5C", "on_accent": "#FFFFFF", "duo": "#5A1A1A", "busy": "#A32B2B", "glow": "rgba(217,59,59,.16)", "band_accent": "#B32424", "frame": "slant"},
+ "brand": {"name": "Al Sharq", "sub": "Gents Saloon · Port Saeed", "mark": "S", "footer_word": "AL SHARQ"},
+ "seo": {"title": "Al Sharq Gents Saloon | Haircut AED 35 · Barber in Port Saeed, Deira, Open till 1 AM", "description": "Al Sharq Gents Saloon, 1B Street, Port Saeed, Deira: haircuts AED 35, beard fade AED 30, manicure + pedicure + foot spa AED 65, facials and massage. Open 9 AM to 1 AM. 4.9 from 742 reviews."},
+ "hero": {"variant": "split", "ar_name": "صالون الشرق للرجال", "kicker": "1B Street · Port Saeed · Deira", "title_lines": ["Came for a haircut.", "Left with a facial."],
+   "lede": "Fades, beard work, facials, foot spa and massage, with a Turkish coffee while you wait. Haircuts from AED 35, open every day from 9 AM to 1 AM.",
+   "image": "img/hero.jpg", "image_alt": "Al Sharq barber chairs, plants and mirrors", "secondary": {"label": "Price list", "href": "#prices"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Al Sharq Gents Saloon, I'd like to book.",
+ "proof_note": "4.9 · the owner replies to every review",
+ "address_lines": ["Al Sharq Gents Saloon, 1B Street", "Port Saeed, Deira, Dubai"],
+ "ticker": ["Haircut AED 35", "Beard fade", "Facial", "Foot spa", "Massage", "Turkish coffee", "Open till 1 AM"],
+ "sections": [
+  {"type": "menu", "id": "prices", "nav": "Prices", "eyebrow": "Price list · قائمة الأسعار", "title": "Prices on the wall,", "title_dim": "and on here.",
+   "categories": [
+    {"name": "Hair & beard", "items": [{"name": "Haircut", "price": "AED 35"}, {"name": "Beard fade", "price": "AED 30"}, {"name": "Beard shaving", "price": "AED 20"}, {"name": "Beard dye", "price": "AED 30"}, {"name": "Hair dye", "price": "AED 50"}, {"name": "Hair treatment", "price": "AED 50"}, {"name": "Hair straightening", "price": "AED 50–100"}, {"name": "Hair style", "price": "AED 20–25"}]},
+    {"name": "Face & body", "items": [{"name": "Face threading", "price": "AED 10"}, {"name": "Nose or ear wax", "price": "AED 10"}, {"name": "Full face wax", "price": "AED 20"}, {"name": "Face scrub / black mask", "price": "AED 10"}, {"name": "Facial cleaning", "price": "AED 100"}, {"name": "Manicure", "price": "AED 20"}, {"name": "Manicure + pedicure + foot spa", "price": "AED 65"}]}
+   ],
+   "note": "From the price list in the salon. All prices include 5% VAT."},
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "The full grooming", "title_dim": "experience.",
+   "items": [
+    {"name": "Fades & cuts", "feature": true, "img": "img/fade.jpg", "alt": "Textured crop with a clean fade", "desc": "Skin fades and classic cuts by experienced barbers.", "quote": "Mr. Mukhtar is an amazing barber who takes his time and pays attention to every detail.", "cite": "Kishore C."},
+    {"name": "Facials & massage", "img": "img/wash.jpg", "alt": "Wash and facial area", "desc": "Facials, scrubs and body massage."},
+    {"name": "Foot spa", "img": "img/sticker.jpg", "alt": "65 AED manicure, pedicure and foot spa sticker", "desc": "Manicure, pedicure and foot spa combo."},
+    {"name": "Kids' haircuts", "img": "img/kids.jpg", "alt": "Boy in the chair for a pedicure", "desc": "Gentle with young clients."}
+   ],
+   "perks": ["Open daily 9 AM – 1 AM", "Complimentary Turkish coffee", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "No waiting", "title": "Late cut?", "title_dim": "We're open till 1."},
+  {"type": "team", "id": "team", "nav": "Barbers", "eyebrow": "Barbers", "title": "Ibrahim, Mukhtar", "title_dim": "and Omar.",
+   "items": [{"name": "Ibrahim", "count": 13, "role": "Barber", "quote": "Gave me a haircut with great technique and good communication.", "cite": "Pavel G."}, {"name": "Mukhtar", "count": 5, "role": "Barber"}, {"name": "Omar", "count": 3, "role": "Barber"}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Al Sharq storefront lit at night", "wide": true}, {"src": "img/floor.jpg", "alt": "Barber floor"}, {"src": "img/barber.jpg", "alt": "Barber with client"}, {"src": "img/fade2.jpg", "alt": "Side fade"}, {"src": "img/bar.jpg", "alt": "Coffee corner"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Port Saeed,", "title_dim": "Deira."}
+ ]
+}

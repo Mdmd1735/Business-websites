@@ -1,0 +1,1455 @@
+{
+ "slug": "stamina-body-fitness-club",
+ "name": "Stamina Body Fitness Club",
+ "place_id": "ChIJDQs-cptdXz4RC3HECsQx5gg",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Al Nahda, Sharjah",
+ "address": "Jawahara silver building - 1st floor - above life pharmacy - Hay Al Nahda - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3039068,
+  "lng": 55.3711831
+ },
+ "phone": "+971 50 527 5279",
+ "rating": 5,
+ "userRatingCount": 118,
+ "rating_distribution": {
+  "oneStar": 0,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 1,
+  "fiveStar": 117
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Stamina%20Body%20Fitness%20Club&query_place_id=ChIJDQs-cptdXz4RC3HECsQx5gg",
+ "website": "",
+ "categories": [
+  "Fitness center",
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "7 to 10 AM, 4 to 10 PM"
+  }
+ ],
+ "owner_description": "Your premier destination for health and fitness in Al Nahda, Sharjah! Whether you're looking to build strength, improve stamina, or just stay active, we have everything you need. Our state-of-the-art gym is equipped with the latest cardio and strength-training equipment, a dedicated area for functional training, and a wide range of group fitness classes, including yoga, spinning, and Zumba.\n\nWith certified personal trainers, personalized workout plans, and a motivating community, we are committed to helping you reach your fitness goals. Conveniently located in Al Nahda, Sharjah, Stamina Body Fitness Club offers flexible membership options and special promotions for new members. Experience fitness like never before—where results meet fun!",
+ "amenities": {
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "friendly coach",
+  "supportive trainers",
+  "trainer ashiq",
+  "approachable trainers",
+  "motivating trainer",
+  "patient trainer",
+  "body shaping",
+  "dedicated trainer",
+  "cardio equipment",
+  "spacious gym"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 54
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 30
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 49
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 30
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 20
+   }
+  ]
+ },
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Nisanth Nath G",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great gym with amazing staff!!!  The instructors are super friendly and take the time to guide everyone, even if you are not doing personal training, which is so rare to find these days. I have brought my friends here and they are just as happy with it as I am. I have tried other gyms before and finding that kind of free support is really rare nowadays. You can easily approach any of the trainers like Swaroop, Ashiq, or anyone else on the floor and they are always happy to help.\nHighly recommend!!!",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "anoop tp",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nReally happy with Stamina Body Fitness. Good gym, nice equipment and good atmosphere.\n\nSwaroop and Ashik are very good trainers. They explain the exercises properly and give good support during training. Both are very friendly and have a good attitude.\n\nOverall, a very good place for fitness and workout. 💪\nDefinitely recommend this gym! 👍",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Muhammad Faisal",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Stamina Fitness Club is hands down one of the best gyms in the area! I’ve been a member for 1.5 years, and I’m so happy with my progress that I recently enrolled my son two weeks ago. The staff and trainers especially Aashik and  Swaroop are extremely motivating, and the atmosphere is very welcoming. The equipment is top-notch, clean, and well-maintained. It’s a fantastic, family-friendly gym for beginners as well as experienced fitness enthusiasts. Highly recommended to anyone looking for a great place to stay fit!",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Geevarghese B",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve had a fantastic experience at Stamina Fitness! The gym is always exceptionally clean, well-maintained, and has a great workout environment. On top of that, the membership fees are very fair and reasonable compared to other gyms in the area.\nA special shoutout to trainers Ashiq and Swaroop—they are incredibly helpful, approachable, and truly guide clients on the best and safest ways to do every workout. Their personalized support makes a huge difference.\nIf you’re looking to get fit in a clean and friendly environment, I highly recommend you join Stamina Fitness!",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "hari mohan",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I've been training here for a while now, and it's been a really good experience. Specially trainer, Ashiq, is very supportive and always there to help and guide me whenever I need it. I can genuinely see the changes in my body, and a lot of the credit goes to his training and encouragement. The gym is always clean and well maintained, and there's enough equipment, so workouts are never a problem. For me, this is one of the best gyms in Al Nahda. Highly recommended.",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Fahiz Pt",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI’ve been working out at Stamina Fitness, and my experience has been outstanding. The gym is always clean, well-maintained, and equipped with excellent machines for both strength training and cardio.\n\nA special thanks to Coach Ashik and Coach Swaroop for their exceptional guidance, motivation, and support. They are knowledgeable, approachable, and always take the time to ensure proper technique while encouraging everyone to give their best. Their positive attitude and dedication make every workout enjoyable and effective.\n\nThe entire staff is friendly and welcoming, and the atmosphere is motivating for people of all fitness levels. I highly recommend Stamina Fitness to anyone looking for a professional, supportive, and well-equipped gym. Keep up the fantastic work!",
+   "owner_reply": "Thank you for your valuable feedback 😍..."
+  },
+  {
+   "author": "Bonzo",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve had a great experience at this gym. The facilities are clean, the equipment is well maintained, and the atmosphere is motivating for everyone.\n\nA special thanks to Trainer Ashik. He is excellent at training people of all fitness levels, from complete beginners to advanced gym-goers. He explains every exercise clearly, corrects your form, and keeps you motivated throughout the workout. His knowledge, patience, and dedication make every session effective and enjoyable.\n\nI highly recommend this gym, especially if you’re looking for a professional trainer like Ashik to help you achieve your fitness goals.",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Faize p a",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Amazing gym in nahda Sharjah.\nSuper friendly staffs.\nEmmanuel coach group training is 🔥.\n\nI recommend this gym for guys.",
+   "owner_reply": "Thank you Faize for your valuable feedback 😍"
+  },
+  {
+   "author": "Puneeth Shetty",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had a really great experience at this gym. The entire place is very well maintained, and all the equipment is in excellent condition. The environment is clean, hygienic, and highly disciplined, which makes it very comfortable and motivating to work out here.\nOne thing I truly appreciate is how supportive the trainers are. In many gyms, personal attention comes only if you pay for a personal trainer. But here, even without opting for personal training, the trainers actively guide you. They check whether you’re doing the exercises correctly and are always willing to help whenever you ask. They explain everything patiently and politely, which is really encouraging, especially for beginners.\nA special mention to Mr. *Aashiq*    he is extremely disciplined, professional, and dedicated. His training style is clear, motivating, and very supportive. He ensures that everyone maintains proper form and stays consistent. His positive attitude really makes a difference.\nOverall, this gym stands out for its cleanliness, discipline, and genuinely helpful trainers. Highly recommended.",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Abhinav Biju",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I’ve had a great experience at this gym. The equipment is well-maintained and has everything you need for a solid workout. The gym is spacious, with a great ambience that makes training enjoyable even during busy hours.\n\nA special mention to the trainer, Aashiq, who is excellent at guiding workouts. He explains every exercise clearly, corrects your form, and always knows how to keep you motivated. Whether you’re a beginner or experienced, he makes sure you know exactly what to do and how to do it properly.\n\nHighly recommend this gym to anyone looking for a great place to train!",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "onel dsa",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent gym with clean facilities, modern equipment, and a friendly atmosphere. The trainers are knowledgeable and always willing to help. Highly recommended!\" I am a members since 7 months.",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "mohammad bassam faouzi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Overall, I’m very happy with the gym. It’s always clean, well maintained, and has a great atmosphere that makes working out enjoyable. The equipment is modern and in excellent condition, and the staff are friendly and very helpful.\n\nMy only suggestion would be to consider adding some of the newer generation strength machines. These machines are designed to isolate specific muscle groups more effectively and make training more efficient, reducing the need to move between multiple machines or perform several different exercises to target the same muscle.\n\nI believe adding a few of these newer machines would further improve the training experience and make an already excellent gym even better.\n\nThank you for providing such a great facility.",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Abhijith Suvarna Jayaprakashan",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve been training at Stamina Body Fitness Club for a while now, and it’s easily one of the best gyms in the area. The equipment is top-notch, the space is always clean and well-maintained, and the overall vibe is super motivating whether you're a beginner or experienced.\n\nA huge shoutout to trainers Ashiq and Swaroop! They are incredible at what they do. Ashiq is fantastic at keeping workouts engaging, tailoring routines to individual goals, and pushing you past your limits without overdoing it. Swaroop is super knowledgeable when it comes to form, technique, and preventing injury—always attentive and making sure you get the absolute best out of every session.\n\nIf you're looking for a gym with great facilities and trainers who actually care about your progress, this is the place to be. Highly recommend!",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Abhay deepesh Menon",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "It is a very good gym , the equipment and machines are very high quality and very well maintained and the 3 trainers of the gym swaroop,ashiq and afsal are very good and instructs is very nicely they are kinda and explains and suggest different exercises very well I personally have  lost  8 kg in around 3-4 months they give out exercise pamphlet which are very helpful full over all it is very good gym for both beginners and experienced members of the fitness world.",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Suheb Sayyed",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I’ve been training at this gym for a few months now, and I’m really happy with the overall experience. The equipment is well-maintained, and there’s a good variety for both strength training and cardio. The trainers (Ashique, Austin ) specially Ashique they are approachable and knowledgeable — they genuinely help you improve your form and push you when needed. The gym is usually clean, and the atmosphere is motivating without being overcrowded.\n\nI will recommend everyone to join and achieve your dream body in Stamina Fitness",
+   "owner_reply": "Thanks for your valuable feedback "
+  },
+  {
+   "author": "Abdul Rahman",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The gym is well-equipped, well-maintained and has qualified, friendly trainers. I train with Ashiq and he is the best coach you could ask for. He is supportive, dedicated and consistently pushes me to achieve my best potential at a safe, healthy pace. He has helped me steadily lose around 10kg in just 3 months and visibly build muscle. The gym also allows you to track your BMI and guides you with meal planning depending on your fitness goals. Highly recommend the gym and its trainers!",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Anu Krishnan R",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I’ve had a really good experience at this gym, and I especially want to appreciate Stephin for his commitment and helpful nature. He is always approachable, supportive, and willing to help whenever needed. His dedication and positive attitude really make a difference and create a welcoming atmosphere at the gym.\nKeep up the great work, Stephin! Really appreciate your effort and support.",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "atul kohli",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great gym! The instructors are excellent and guide you almost like personal trainers, helping you with your workouts and making sure you train correctly. The gym is very well equipped, clean, and hygienic, which makes the overall experience even better.\nHighly recommended for anyone looking for a quality gym with great guidance. True value for money!",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "BIJIL M P M P",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Stamina Body Fitness Club is highly recommended for everyone. I have been working out here for the past one year with complete satisfaction. Before joining Stamina, I had been a member of two other gyms in Sharjah but left both within a month due to an unpleasant atmosphere and unprofessional behavior of the trainers.\n\nAt Stamina, everything is entirely different — the environment, the hospitality of the trainers, the cleanliness, and the availability of the most advanced equipment are all exceptional.\n\nAbove all, the most remarkable aspect is Mr. Ashiq, the gym trainer. He is an incredibly humble and highly professional individual. The way he trains each member with dedication and attention is truly commendable. We need more trainers like Mr. Ashiq — talented, sincere, dedicated, and friendly.\n\nI am genuinely thankful to be training under his guidance. Stamina Body Fitness Club is highly recommended for anyone looking to join a new gym in Sharjah al nahda.",
+   "owner_reply": "Thanks for your valuable feedback "
+  },
+  {
+   "author": "finding faza",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It’s been more than 3 months at this gym and there aren’t any complaints at all. The gym is always well maintained and kept clean at all times. The environment is very friendly and the gym coaches here are more than helpful and kind. Personally speaking, there’s a coach here, Aashiq who has been a tremendous help in my daily workouts and I’ve begun to notice improvements day by day. And the other coaches as well are always present helping everyone out. The cost is completely reasonable for the facilities and services they offer and are much better than other gyms. I’ve tried around 3 different gyms in the area but wasn’t able to go consistently to any of them for more than a month. Whereas this gym has a very hospitable environment.",
+   "owner_reply": "Thank you for your great review 💪🏻"
+  },
+  {
+   "author": "abhijit hazra",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Highly recommended for anyone serious about achieving their fitness goals!\n\nAshique is the biggest reason I enjoy coming to this gym. In my personal opinion, he's a gem of a trainer—knowledgeable, motivating, and genuinely invested in helping members improve. What sets this gym apart is that the focus is on supporting members rather than pushing personal training packages, and I believe that's one of the main reasons so many people continue training here…5 star for Ashique 🤟Keep helping peoples bro 👊",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Presley Pereira",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Stamina Fitness is an excellent place to train! The gym has a great environment and the equipment is well maintained. A special mention to Mr. Ashique, who is an outstanding trainer. He is very particular about form during exercises, which makes a huge difference in preventing injuries and getting the best results. His guidance is clear, motivating, and tailored to individual needs. If you’re serious about fitness and want a trainer who truly cares about your progress and technique, I highly recommend Ashique at Stamina Fitness!",
+   "owner_reply": "Thank you for your valuable feedback 😊"
+  },
+  {
+   "author": "Ashique",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have been a member of the gym for the last one month now, and it has been a fantastic experience!\nThe facility is always clean and well-maintained, with a wide range of equipment to suit all workout styles. The staff is friendly, professional, and always willing to help, whether it’s offering advice on workouts or ensuring the environment is welcoming.\n\nI started going to the gym due to my back pain for which the my doctor recommended doing core strengthening exercises. Mr. Austin has been my personal trainer since then and I have seen significant improvement in my fitness. He is knowledgeable about injury management and assists me with workout tailored to my needs. I genuinely look forward to my workouts here.\n\nHighly recommend this gym for anyone looking for a fitness and injury management.",
+   "owner_reply": "Thanks for your valuable feedback 😊 "
+  },
+  {
+   "author": "Hussain Nawaz khan",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Ashiq is an amazing gym coach! He is very knowledgeable and passionate about fitness. He always pushes me to do my best and encourages me to reach my goals. He is also very patient and will take the time to explain proper form and technique. I have seen great results since working with Ashiq and I would highly recommend him to anyone looking to improve their fitness level. Thank you, Ashiq, for your dedication and support!",
+   "owner_reply": "Thank you for your valuable feedback 😊"
+  },
+  {
+   "author": "mamun rock",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of my best gym  in Al Nahda Sharjar !!!\nhere coach is so friendly 😀 and Gym r very neat and clean ! all life Fitness equipment  !!!!!!  Thank you very much stamina body fitness club 😀 I’m really happy be here❤️❤️",
+   "owner_reply": "Thanks for your valuable feedback 😊"
+  },
+  {
+   "author": "Adnan Sajid",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been working out in stamina body fitness for a month now and I must say it’s one of the best Gym’s in Sharjah. The gym is always clean has a very good ambience, they even have the best machines. All the Trainers are very friendly and always happy to help and train 👍🏻",
+   "owner_reply": "Thanks for your valuable feedback 😊 "
+  },
+  {
+   "author": "Adithya Sajith kumar",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great gym with a friendly atmosphere, excellent equipment, and clean, well-maintained facilities. Special thanks to Swaroop and Ashiq for being so helpful, friendly, and supportive. Their positive attitude makes the gym experience even better. Highly recommended! 💪",
+   "owner_reply": "Thank you for your valuable feedback 😍"
+  },
+  {
+   "author": "Hanzo Hasashi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "⭐⭐⭐⭐⭐\nStamina Gym is amazing! The equipment is top-notch and always well-maintained. The instructors are super professional and motivating — especially Ashique, who does an incredible job helping clients while managing multiple sessions. You can really see his dedication and passion for fitness. Highly recommend this gym to anyone looking for real results and great support!",
+   "owner_reply": "Thank you for your valuable feedback ✌🏻"
+  },
+  {
+   "author": "Ethel Glavier D Souza",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Firstly the trainers were excellent in helping me in my workouts. They explain the techniques and everything in the most simplistic way. The equipments too are good, especially the calf raise machine is personally my favorite. I truly love the vicinity of the gym too. I could see massive improvements in my body though it’s my first month here. I’m really glad and blessed that I joined this gym.",
+   "owner_reply": "Thank you for your valuable feedback 😊 "
+  },
+  {
+   "author": "Umer Seikh",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I joined this gym 2 months ago, and Aashiq has been guiding me since the beginning — he’s truly one of the best! The gym environment and ambiance are absolutely amazing. The equipment is advanced, the membership is budget-friendly, and the staff is great. Highly recommended!",
+   "owner_reply": "Thanks for your valuable feedback 😊"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    702
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    960,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    374,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    512,
+    320
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/stamina-body-fitness-club/",
+ "buy_likelihood": 8,
+ "notes": "Perfect 5.0, replies to 100%, community events. Strong gym lead.",
+ "display_name": "Stamina Body Fitness Club"
+}

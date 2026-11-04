@@ -1,0 +1,31 @@
+{
+ "preset": "citrus-pop",
+ "theme": {"bg": "#FAFAFA", "surface_2": "#F0E9E9", "accent": "#D0202E", "accent_text": "#B01A26", "duo": "#F2C6C9", "busy": "#D0202E", "glow": "rgba(208,32,46,.08)", "band_bg": "#141414", "band_accent": "#FF6B74", "frame": "square", "hero_ratio": "3/4", "dcase": "none"},
+ "brand": {"name": "Al Salama", "sub": "Opticals · Karama", "mark": "S", "footer_word": "AL SALAMA"},
+ "seo": {"title": "Shams Al Salama Opticals Karama | RTA-Approved Eye Test, Glasses & Sunglasses", "description": "Shams Al Salama Opticals, 18A Street, Al Karama: RTA-approved eye test centre, wide range of frames and sunglasses, lenses, all insurance accepted. Open daily 9 AM to 11:30 PM. Rated 5.0 from 420 reviews."},
+ "hero": {"variant": "split", "ar_name": "شمس السلامة للبصريات", "kicker": "18A Street · Al Karama", "title_lines": ["Your eye test,", "your frames,", "your insurance."],
+   "lede": "An RTA-approved eye test centre with a wall of frames and sunglasses, patient staff who help you choose, and every insurance accepted. Rated a perfect 5.0.",
+   "image": "img/hero.jpg", "image_alt": "Al Salama Opticals showroom with walls of frames", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book an eye test", "cta_text": "Hi Al Salama Opticals, I'd like to book an eye test.",
+ "proof_note": "Perfect 5.0 from 420 reviews",
+ "address_lines": ["Shams Al Salama Opticals, 18A Street", "Al Karama, Dubai"],
+ "ticker": ["RTA eye test", "All insurance accepted", "Prescription glasses", "Sunglasses", "Contact lenses", "Clip-on frames"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Patient advice,", "title_dim": "wide choice.",
+   "items": [
+    {"name": "Eye test (RTA approved)", "feature": true, "img": "img/display.jpg", "alt": "Frame walls and a test chair", "desc": "Driving-licence eye tests and full prescriptions.", "quote": "Choosing the right pair of glasses can take some time, and I really appreciated how patiently the team helped me.", "cite": "Vijetha K."},
+    {"name": "Frames", "img": "img/frames.jpg", "alt": "Black and gold optical frames", "desc": "Hundreds of frames for every face and budget."},
+    {"name": "Sunglasses", "img": "img/aviator.jpg", "alt": "Gradient aviator sunglasses", "desc": "Aviators, polarized and fashion styles."},
+    {"name": "Clip-ons & lenses", "img": "img/clipon.jpg", "alt": "Red frame with magnetic clip-on", "desc": "Clip-on sun lenses, blue-cut and progressives."}
+   ],
+   "perks": ["All insurance accepted", "Open daily 9 AM – 11:30 PM", "RTA approved"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Short waits", "title": "Come in when", "title_dim": "it's quiet."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Mufeeda and Anagha", "title_dim": "will find your pair.",
+   "items": [{"name": "Mufeeda", "role": "Optical consultant", "quote": "Mufeeda and Anagha were extremely helpful, friendly, and patient in helping me choose the right pair.", "cite": "Triveni"}, {"name": "Anagha", "role": "Optical consultant"}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Al Salama Opticals storefront", "wide": true}, {"src": "img/street.jpg", "alt": "Shop on 18A Street", "wide": true}, {"src": "img/wall.jpg", "alt": "Sunglasses wall"}, {"src": "img/hex.jpg", "alt": "Hexagonal sunglasses", "wide": true}, {"src": "img/oakley.jpg", "alt": "Clear Oakley-style frames"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "ask", "eyebrow": "Ask", "title": "Check before you come.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Do you accept my insurance?", "How much is an RTA eye test?", "Price for blue-cut lenses with frame?", "Do you have contact lenses in stock?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "18A Street,", "title_dim": "Karama."}
+ ]
+}

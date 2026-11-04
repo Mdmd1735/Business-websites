@@ -1,0 +1,27 @@
+{
+ "preset": "emerald-gold",
+ "theme": {"bg": "#14100B", "surface": "#1E1811", "surface_2": "#2A2118", "accent": "#D8A64A", "accent_text": "#E6B962", "on_accent": "#1A1207", "duo": "#5A4119", "busy": "#9C7128", "glow": "rgba(216,166,74,.14)", "band_bg": "#F7F1E6", "band_accent": "#8E2B1C", "frame": "round", "hero_ratio": "1/1"},
+ "brand": {"name": "Rayyan", "sub": "Mandi · Mankhool", "mark": "ر", "footer_word": "RAYYAN"},
+ "seo": {"title": "Rayyan Mandi Mankhool | Chicken & Mutton Mandi, Kunafa & Luqaimat, Bur Dubai", "description": "Rayyan Mandi Restaurant on Sheikh Sabah Al Ahmad St, Mankhool, Bur Dubai: chicken and mutton mandi, madbee, seafood, kunafa and free luqaimat with tea. Outdoor seating, open till 2:30 AM. 4.8 from 4,795 reviews."},
+ "hero": {"variant": "split", "ar_name": "مطعم الريان للمندي", "kicker": "Sheikh Sabah Al Ahmad St · Mankhool · Bur Dubai", "title_lines": ["The best mandi", "in town.", "Tea's on us."],
+   "lede": "Slow-cooked chicken and mutton mandi on fragrant rice, madbee, seafood and kunafa, with complimentary luqaimat and Sulaimani tea to finish. Open until 2:30 AM, with outdoor seating.",
+   "image": "img/hero.jpg", "image_alt": "Chicken mandi and mutton platters with sauces and salad", "secondary": {"label": "What to order", "href": "#menu"}},
+ "cta_label": "Call to order", "proof_note": "4,795 Google reviews",
+ "address_lines": ["Rayyan Mandi Restaurant", "Sheikh Sabah Al Ahmad St, Mankhool, Bur Dubai"],
+ "ticker": ["Chicken mandi", "Mutton mandi", "Chicken madbee", "Seafood", "Kunafa", "Luqaimat", "Sulaimani tea"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "What to order", "title": "Rice, meat,", "title_dim": "and something sweet.",
+   "items": [
+    {"name": "Chicken & mutton mandi", "feature": true, "img": "img/mandi.jpg", "alt": "Chicken mandi on a silver tray of rice", "desc": "Smoky, tender and served on aromatic rice.", "quote": "If you're looking for delicious mandi in Dubai, this place is a must-try!", "cite": "Chester S."},
+    {"name": "Chicken madbee", "img": "img/chicken.jpg", "alt": "Grilled chicken on rice", "desc": "Stone-grilled chicken over rice."},
+    {"name": "Kunafa", "img": "img/kunafa.jpg", "alt": "Kunafa with luqaimat", "desc": "Warm, cheesy and crisp."},
+    {"name": "Luqaimat & tea", "img": "img/luqaimat.jpg", "alt": "Golden luqaimat dumplings", "desc": "Complimentary at the end of your meal."},
+    {"name": "Seafood & family platters", "img": "img/spread.jpg", "alt": "Family mandi spread", "desc": "Big trays for the whole table."}
+   ],
+   "perks": ["Open daily 11 AM – 2:30 AM", "Outdoor seating", "Family-friendly", "Branches in Al Rigga, Al Barsha, Gold Souk & Doha"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Avoid the queue", "title": "Busy at dinner.", "title_dim": "Come before 8."},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Rayyan Mandi storefront at night", "wide": true}, {"src": "img/terrace.jpg", "alt": "Outdoor terrace with flowers"}, {"src": "img/menu.jpg", "alt": "Rayyan menu", "wide": true}, {"src": "img/dining.jpg", "alt": "Indoor dining room", "wide": true}, {"src": "img/sauces.jpg", "alt": "Sauces and condiments", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Mankhool,", "title_dim": "Bur Dubai."}
+ ]
+}

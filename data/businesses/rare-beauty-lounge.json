@@ -1,0 +1,1255 @@
+{
+ "slug": "rare-beauty-lounge",
+ "name": "Rare Beauty Lounge",
+ "place_id": "ChIJzcgAmabQh24REhVY-iYCuI0",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Ajman",
+ "address": "Al Ittihad St - Safia - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.4180198,
+  "lng": 55.4874097
+ },
+ "phone": "+971 56 620 2167",
+ "rating": 4.7,
+ "userRatingCount": 421,
+ "rating_distribution": {
+  "oneStar": 27,
+  "twoStar": 3,
+  "threeStar": 2,
+  "fourStar": 9,
+  "fiveStar": 380
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Rare%20Beauty%20Lounge&query_place_id=ChIJzcgAmabQh24REhVY-iYCuI0",
+ "website": "https://www.instagram.com/rare_lounge?igsh=N2dndHg2MGI5aDEz",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Luxury Ladies Beauty Salon",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Recycling": [
+   {
+    "Plastic bottles": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "On-site parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "Hair coloring",
+  "relaxing atmosphere",
+  "kind staff",
+  "korean head spa",
+  "french nail polish",
+  "hair treatment",
+  "gel manicure",
+  "french tips",
+  "Staff behavior",
+  "attention to detail"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Bayan Ali",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "The best experience ever! 🥹❤️ Huge thanks to the lovely ladies, Cherry and Mariana, for making it so special. Your kindness and amazing service made my experience unforgettable! 🫶🏻✨",
+   "owner_reply": null
+  },
+  {
+   "author": "no lo",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Had such a lovely experience with Hakema! She did an amazing job cutting my hair, exactly how I wanted it. She was super sweet, friendly, and professional throughout. Absolutely loved her work and would definitely recommend her! 💗",
+   "owner_reply": null
+  },
+  {
+   "author": "Shams Benali",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Mhai knows what she is doing and is a color expert Absolutely in love with my hair! The color turned out exactly how I wanted, and the treatment left it feeling so soft, healthy, and shiny. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mansoura Alyassi",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "I had such a wonderful experience! I tried the Korean Spa, pedicure, and manicure, and everything was absolutely amazing. It was such a relaxing and lovely experience. I really enjoyed every moment and would definitely recommend this salon",
+   "owner_reply": null
+  },
+  {
+   "author": "mody alnuaimi",
+   "rating": 4,
+   "when": "4 months ago",
+   "text": "Had such a lovely experience at this salon! I came in for a mani-pedi and was so happy with the results. Jenny was wonderful—she was friendly, attentive, and made sure everything was done perfectly. Cherry did my nails and absolutely nailed the look I wanted! Her attention to detail and skill were amazing.\n\nThe whole experience was relaxing, professional, and enjoyable from start to finish. My nails look beautiful, and I’ll definitely be coming back.💗💗💗💗💗",
+   "owner_reply": null
+  },
+  {
+   "author": "Fatima Al hajri",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a great experience with Maryana! She is so kind and professional, and she did my nails beautifully. She pays attention to every detail, and the results were exactly what I wanted. The salon is also very clean, organized, and has a lovely atmosphere. I highly recommend her! ⭐⭐⭐⭐⭐",
+   "owner_reply": null
+  },
+  {
+   "author": "M A",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Such a lovely experience at Rare Beauty Lounge💗\n\nTried their BB cream hair treatment, and my hair feels so soft, light, and healthy.\nI also got a mani and pedi, and everything was done beautifully with so much care and attention. The space felt calm and welcoming, the perfect place to unwind and treat yourself💕💕\n\nMany thanks to prati, cherry for the mani and pedi,\nAnd thank you hakima for the hair treatment💇🏻‍♀️",
+   "owner_reply": null
+  },
+  {
+   "author": "Only Sara",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It’s been a while since I’ve seen such a pretty and calm space like Rare. I did the ‘كثيرة’ hair treatment, a manicure, and a head & shoulder massage, and it was beyond amazing! Every detail was perfect, and I left feeling completely relaxed and pampered. I feel refreshed and ready to start the week full of energy and focus!”",
+   "owner_reply": null
+  },
+  {
+   "author": "Divya Marwah",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I came here last week after much research for food salons in Ajman and had a great experience.\nDina was very knowledgeable about hair and did a great job, back for her today. :)\nA lovely Philippines lady was very patient with the dead skin during my pedicure.\nLoved my fresh set of ombré nails too.\nHighly recommended one stop shop in Ajman 😇❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Kati G",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Came for the first time for pedicure and French gel manicure with my sister. It was very great, the technicians Mhai, Cherry and Maria Anna were so quick , efficient and result is perfect! Interior and atmosphere is inviting, will definitely come again next time!",
+   "owner_reply": null
+  },
+  {
+   "author": "Noor AH",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was our first time at Rare Beauty Lounge! My sister and I got a manicure, pedicure, and French nail polish with Cherry. The service was amazing, everything was clean and neat, and Cherry was super sweet. Loved how cute and classy the nails turned out, definitely not our last visit!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rirriirii Fernandez",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I love the ambience and everything in between. Thank you Jen for my beautiful nails!",
+   "owner_reply": null
+  },
+  {
+   "author": "manju k",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Had a great experience with my manicure by Cherry. The technicians were very precise and took their time to make sure everything looked perfect. The salon was clean and relaxing too. Really happy with the result!!",
+   "owner_reply": null
+  },
+  {
+   "author": "ghaya baroud",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "One of the worst salon experiences I’ve ever had. I came for a manicure and pedicure and left in pain. During the pedicure, the technician cut several toes. I repeatedly asked her to slow down, but she kept hurting me. My toes are still swollen and painful, so I stopped and asked for another technician. The manicure was careless, with no smile or professionalism. Everyone had an attitude. I HAD to ask for water, while asking the customer next to me what she wanted. No hospitality or equal treatment. First visit, last visit. Absolutely not recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nancy",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "“I had a wonderful experience at Rare Beauty Lounge! From the moment I walked in, I was warmly welcomed and treated with so much care. The staff is incredibly polite, professional, and attentive. The salon itself is spotless, beautifully decorated, and has such a calming atmosphere. You truly feel pampered and relaxed here. Highly recommend for anyone looking for top-quality service in a beautiful setting!”",
+   "owner_reply": null
+  },
+  {
+   "author": "AlGhala Al",
+   "rating": 5,
+   "when": "Edited 8 months ago",
+   "text": "Just had a Korean hair spa and I feel like a new person. My hair is so much glossier, and the scalp massage was incredible for stress relief. It’s way more than just a wash—it’s a full detox. Highly recommend if you want healthy hair from the roots up! Prate did it for me she is amazing🤍🤍🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Latifa Al",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Cherry is amazing! She does my nails with so much love and care. Her work is always precise and detailed — I leave the salon feeling happy every time! ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Fatima Alt",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Very lovely experience I really liked the menicure and perdicure it was amazing. the atmosphere is really nice i will definitely come back. Thanks to Ms. Cherry for the wonderful service and all the staff are very welcoming!❤️❤️❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "aysha ali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful experience at Rare Salon! I did my nails with Cherry, and she did an absolutely amazing job. She was not only highly professional but also very informative and such an interesting person to chat with. I really appreciated how she custom-mixed the base shade of my nails to match my natural tone, the result was incredibly natural and beautifully done.\nMhai did my pedicure, and she was also great! She took the time to teach me how to properly care for my nails, which I found really helpful and thoughtful.\nPrati did my sidr hair treatment, and I couldn’t be happier with how it turned out. My hair felt soft, healthy, and looked great after the blow dry, shiny and full of life.\nOverall, it was a fantastic experience, and I’ll definitely be going back!",
+   "owner_reply": null
+  },
+  {
+   "author": "D A",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful experience getting my hair done by this amazing woman named Ruji it was looking great till midnight . She was friendly, professional, and truly talented. My hair turned out even better than I expected — stylish, neat, and exactly what I wanted. I’ll definitely be coming back!❤️❤️❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Jemille Agravante",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have just moved to Ajman and it has been a struggle trying to find a good place for a massage. I have been to so many salons but I am so glad I finally found THE ONE! The massage by Mai was phenomenal, I didn’t want it to end! She was very accommodating and made sure my comfort and experience comes first. I also asked for a nail color change and Cherry was perfect! She made sure I liked the color on me and even helped me pick out better options that would suit my skin tone. Overall, 10/10 would definitely come back and recommend this place 🩷",
+   "owner_reply": null
+  },
+  {
+   "author": "Maryam Munir",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Got my hair cut and styled by Hakima, she did an awesome job! I love it. One of the best stylists I’ve been to in a while. She’s clearly an expert at her craft. 🙌🏼\n\n- Aliyah",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarah Alshaali",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I’ve been coming to this salon for a while now, and I can honestly say it’s one of the best I’ve ever been to! Every visit is such a great experience, and they’re always consistent with their quality.\n\nI usually go in for my weekly blowouts, and they never disappoint. My hair always comes out smooth, shiny, and styled perfectly, and it lasts for days. I’ve also tried a few of their other services on different visits, like nails, hairstyling, BB crème treatment, and eyebrows—and everything has been amazing every single time.\n\nOne of my favorite parts is the head massage during the hair services, it’s so relaxing and really makes the whole experience feel special.\n\nThe salon itself is always super clean and well-maintained, which I really appreciate. The staff are all so friendly, professional, and welcoming. They truly care about their customers and always make sure you leave happy and satisfied.\n\nAlso, their prices are very convenient for the level of service they provide, which makes it even better to keep coming back regularly.\n\nOverall, I highly recommend this salon to anyone looking for great hair, nails, and overall self-care. They never disappoint! ⭐⭐⭐⭐⭐",
+   "owner_reply": null
+  },
+  {
+   "author": "Hind",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "It was my first time visiting Rare Salon, and I had a really great experience with Mhai. The staff were extremely kind, professional, and very welcoming. She explained everything clearly, which made me feel comfortable. I only did a hair rinsage, but it was really nice. I’ll definitely be coming back again!",
+   "owner_reply": null
+  },
+  {
+   "author": "shee R",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had such a lovely experience at the salon 🤍\nThe hairstylist recommended a Korean hair mask for me and it was amazing! My hair felt so soft and healthy afterwards.\nThe massage was incredibly relaxing too 💆🏻‍♀️\nThank you ( Mai )for the great service — I’ll definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "fatima almatrooshi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful experience with nail technician Alaa who did my gel overlay & refill! she is very lighthanded and skilled, and gave me the shape i wanted perfectly ❤️ I'm satisfied !!",
+   "owner_reply": null
+  },
+  {
+   "author": "Afra Alsuwaidi",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I’ve had such great experiences at Rare Beauty! Honestly, I can’t just mention one staff member because they’re all amazing. I’ve done my manicure there a few times now, and every single time, no matter who does it, the service is always excellent. Everyone is super kind, professional, and really makes sure I’m comfortable. My nails always come out perfect, and it’s truly become my favorite place to go for a manicure. Whenever I think about getting my nails done, this is the first place that comes to mind. Totally worth it!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ellechar Oigemer",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I got a gel manicure at this Salon and had a great experience! The nail technician was very professional and did a beautiful job. The salon was clean, relaxing, and had a nice atmosphere. Highly recommended for anyone in Ajman looking for quality nail services!",
+   "owner_reply": null
+  },
+  {
+   "author": "Hessa Alraeesi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Loved the aesthetic, very calm and cozy. And the staff were sooo friendly and nice. Will return to them definitely",
+   "owner_reply": null
+  },
+  {
+   "author": "Fatima Alhammadi",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Was intrigued to try this new salon and am not disappointed at all, came for manicure and pedicure as well as wash and blow dry, they agreed for me to use my own prodcuts shampoo etc, thank you Mariana and Cherry for the amazing nails and vibes. I would be coming again for sure!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    331,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    336,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    512,
+    482
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    382,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/rare_lounge?igsh=N2dndHg2MGI5aDEz",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "rare_lounge"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {
+  "instagram": "rare_lounge"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/rare-beauty-lounge/",
+ "buy_likelihood": 6,
+ "notes": "Instagram-led, design-forward lounge in Ajman; never replies on Google. Pitch the Korean head spa page.",
+ "display_name": "Rare Beauty Lounge"
+}

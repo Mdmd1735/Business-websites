@@ -1,0 +1,1118 @@
+{
+ "slug": "shams-al-salama-opticals",
+ "name": "Shams Al Salama Opticals (Approved RTA Eye Test Center)",
+ "place_id": "ChIJc3wFHkRDXz4RZU-Quh6S0Ak",
+ "category": "optician",
+ "category_weight": 12,
+ "area": "Bur Dubai",
+ "address": "18A St - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.246472,
+  "lng": 55.3064151
+ },
+ "phone": "+971 54 457 0757",
+ "rating": 5,
+ "userRatingCount": 420,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 2,
+  "fourStar": 6,
+  "fiveStar": 411
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Shams%20Al%20Salama%20Opticals%20(Approved%20RTA%20Eye%20Test%20Center)&query_place_id=ChIJc3wFHkRDXz4RZU-Quh6S0Ak",
+ "website": "",
+ "categories": [
+  "Sunglasses store"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 11:30 PM"
+  }
+ ],
+ "owner_description": "Shams Al Salama Opticals provide best products/brands at best prices with fast shipping and customer care.we accepted all insurance",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Planning": [
+   {
+    "Quick visit": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "frame selection",
+  "eye test",
+  "collection",
+  "good selection",
+  "wide variety of frames",
+  "polite staff",
+  "range of glasses",
+  "quality eyewear",
+  "stylish frames",
+  "lens selection"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 38
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 22
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 44
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 22
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 16
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 33
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Vijetha Kulal",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Choosing the right pair of glasses can take some time, and I really appreciated how patiently the team at Shams Al Salama Opticals helped me through the entire selection process.\n\nThey understood all the requirements I had and guided me patiently in choosing the right frame and lenses. I’m very happy with the final product—it was exactly the way I wanted it.\n\nReally appreciate their attention to detail, patience, and excellent customer service. Highly recommended! 😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Triveni",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Great collection and excellent service! Mufeeda and Anagha were extremely helpful, friendly, and patient in helping me choose the right pair. Really appreciated their warm and professional service. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jovelyn Doldol",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an excellent experience at Al Salama Opticals. The staff was knowledgeable and helpful throughout the entire process, from eye testing to selecting the right lenses and frames. The eye examination was thorough, and the optometrist took time to explain everything clearly. They also offer a great collection of frames with reasonable pricing. Highly recommended for anyone looking for quality eye care and eyewear!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mario Melvin Yaco",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I had a really pleasant experience at this optical shop and would highly recommend it to anyone looking for quality eyewear and excellent service. They offer a wide range of eyeglasses, from stylish modern frames to more classic designs, so it’s easy to find something that suits both your taste and budget.\n\nThe shop itself is clean, well-organized, and comfortable, which made browsing and trying on frames a stress-free experience. What stood out the most, though, was the staff. They were friendly, patient, and genuinely helpful—taking the time to understand my needs without being pushy. Their professionalism and knowledge made me feel confident in my choices.\n\nOverall, it’s a great place if you’re looking for good options, a welcoming environment, and attentive service. I’ll definitely be coming back in the future. Kudos!",
+   "owner_reply": null
+  },
+  {
+   "author": "BENITA",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The staff were very helpful, patient, and guided me well in choosing the right frame and lenses. The service was smooth, professional, and the overall atmosphere was welcoming. Really happy with the quality and customer care. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "AFSAL CHARAN",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best optical shop at Karama Dubai. Good service and good quality product available. Last 2 years giving good service. Thanks",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarath V S",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a great experience with this eyewear company. My glasses were damaged, and they repaired them completely free of charge, which I really appreciated. The staff was friendly, professional, and handled everything quickly. It’s rare to find such helpful and customer-focused service these days. Highly recommend them for anyone needing eyewear services",
+   "owner_reply": null
+  },
+  {
+   "author": "Shravan s",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We're thrilled with this great feedback about our sunglasses and frame styling! We love helping our {Al Karama} community find their perfect look.\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Amansha Noushad",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Had a great experience at Al Salama Opticals in Karama! The staff was friendly and helped me find the perfect pair of glasses. They have a wide selection of frames and lenses at great prices. Highly recommend for anyone looking for quality eyewear in Karama!",
+   "owner_reply": null
+  },
+  {
+   "author": "Antonio Ramos",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Very good service and their products are all amazing. Special mention to Ansari for his excellent customer service and accomodating us all the way. Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "fazil paladan",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I recently purchased a pair of spectacles from this shop, at Dubai karama branch. Although I visited as a walk in customer, I decided to proceed with my purchase due to the courteous and professional assistance provided by Mr. Ansari.\n\nThe team offers excellent customer service, along with high quality products at competitive prices. Overall, it was very satisfactory experience, and I would highly recommended their services",
+   "owner_reply": null
+  },
+  {
+   "author": "Deepak Anandan",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "The interaction with the staff service was very good. They were friendly, helpful, and guided me well in choosing the right spectacles.",
+   "owner_reply": null
+  },
+  {
+   "author": "Noor Maideen",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "“Had a great experience at the shop. The eye test was quick and accurate, and the staff explained everything clearly. They have a good variety of frames at reasonable prices. My glasses were ready faster than expected. Overall, very satisfied and would recommend.”",
+   "owner_reply": null
+  },
+  {
+   "author": "Mansoor Ibrahim",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a wonderful experience at this optical shop! The staff were absolutely amazing, friendly, professional, and genuinely went out of their way to help me. What really stood out was my Specs were not available so they had to order from abroad.They kept me updated every step of the way. It’s rare to find a team that cares so much about their customers. Highly recommend!!!!!!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "rinu t philip",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a wonderful experience at the Shams Alsalama Optical Centre. The staff is very professional, welcoming, and attentive. A special thanks you to Ansari and shahana . who was amazing at communicating with persons, and making the whole process so comfortable.\nOverall, I’m very happy with my experience and would definitely recommend the Shams Alsalama Optical Centre to anyone considering eye care.",
+   "owner_reply": null
+  },
+  {
+   "author": "Anas MK",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a great experience at Al Salama Opticals! The staff, especially Mr.Ansari , were friendly and provided a very good discount. The staff is knowledgeable and genuinely interested in helping me find the perfect pair of glasses. This is my first time purchasing from them, and they always offer a wide variety of stylish frames. I highly recommend Al Salma Opticals for anyone looking for new glasses!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jeni Delos Santos A.",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Hi, just want to SAY THANK YOU Al Salama Optical. The product quality is consistently outstanding, exceeding my expectations. Long time I've been searching for the nice and at the same time good quality for my eyeglasses “I was completely impressed with their professionalism and customer service.” Thank you Ansari for having patience to me and helps me to have my lovely eyeglasses:) And I really love my new buddy (eyeglasses) now Thanks again and GOD BLESS AL SALAMA OPTICALS..:)",
+   "owner_reply": null
+  },
+  {
+   "author": "Binil Anilkumar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Experienced very much friendly and satisfying customer service. They used to give the perfect feedbacks on the design and help us to select the apt glasses for us",
+   "owner_reply": null
+  },
+  {
+   "author": "saju saga",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Excellent service and very professional staff. The eye testing was accurate, and they helped me choose the perfect frame. The quality of the lenses is very good, and delivery was on time. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "FEROZ WAHEED",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "1-Before time delivery\n2-perfect as i thought\n3-very good guidance\n4-prices are also really affordable\nOverall experience is excellent 🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "Ramees Mohamed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best places to visit in Karama for people who like to buy specs is a shop that has a lot of collections at affordable prices, as far as I'm concerned .Happy to visit again,especially staff's are friendly and respectful highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ram vijay Raj",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Excellent communication, offered high-quality products, and had a very attractive selection of glasses to choose from. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Panna Hirani",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "Great range of glasses, and fixed my glass issue perfectly in no matter of time\nDefinitely do visit",
+   "owner_reply": null
+  },
+  {
+   "author": "J,V",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "\"I had a fantastic experience at Shams Al Salama Opticals! The staff was incredibly patient and helpful while I was picking out new frames. My optometrist, was very thorough with my eye exam and clearly explained everything. I felt respected and listened to, and the service was exceptional from start to finish.\".",
+   "owner_reply": null
+  },
+  {
+   "author": "Nimal Martin",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I had a very good experience. The hospitality of the both  staff's were the ultimate plus. They were helping in the best way, the collection and service.  I would always recommend.  😊❤️ and its Worth ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Akshay Cherukattil",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Excellent service! Friendly staff and a well-managed shop …Ansari and Shahanas\n\nWill definitely visit again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Pasindu Dulanja",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Great place to buy glasses! The supportive and friendly staff at Labna made my experience exceptional. Thanks to Labna for their assistance in selecting the perfect pair of glasses. I highly recommend them for anyone in need of quality eyewear.",
+   "owner_reply": null
+  },
+  {
+   "author": "muhammad Fadil",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I visited Shams Al Salama Opticals for my RTA eye test and to buy new spectacles. The experience was excellent from start to finish! The staff were extremely friendly, professional, and very helpful in guiding me through the process. They have a great collection of top-quality brands as well as affordable options to suit everyone’s needs. I’m very happy with their service and highly recommend Shams Al Salama Opticals to anyone looking for trusted and caring eye care service in the UAE.",
+   "owner_reply": null
+  },
+  {
+   "author": "Hashir Muhammed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Excellent service! Got the best price and purchased Police sunglasses. Truly happy with the experience",
+   "owner_reply": null
+  },
+  {
+   "author": "Aqsa Khalid",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I bought 2 frames and glasses for my son. I am very happy with the  quality and they even delivered it to us within 2 days.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1024,
+    732
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    901,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/shams-al-salama-opticals/",
+ "buy_likelihood": 6,
+ "notes": "Perfect 5.0 from 420 but never replies; shopping bags print a web address, so may be part of a group. Verify before pitching.",
+ "display_name": "Shams Al Salama Opticals"
+}

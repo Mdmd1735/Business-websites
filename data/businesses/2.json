@@ -1,0 +1,951 @@
+{
+ "slug": "2",
+ "name": "صالون ايهم نعيميه 2",
+ "place_id": "ChIJZ1n5T1ZZXz4RQp8z-2lZ6mg",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Ajman",
+ "address": "67 King Faisal St - 2 Al Nuaimia - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3887816,
+  "lng": 55.4504118
+ },
+ "phone": "+971 54 321 9496",
+ "rating": 5,
+ "userRatingCount": 185,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 2,
+  "fiveStar": 182
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=%D8%B5%D8%A7%D9%84%D9%88%D9%86%20%D8%A7%D9%8A%D9%87%D9%85%20%D9%86%D8%B9%D9%8A%D9%85%D9%8A%D9%87%202&query_place_id=ChIJZ1n5T1ZZXz4RQp8z-2lZ6mg",
+ "website": "https://www.tiktok.com/@aiham.barbershop?_t=8i1GlV6kCvw&_r=1%20%20%20https://instagram.com/_aiham.barbershop?igshid=NzZlODBkYWE4Ng==",
+ "categories": [
+  "Barber shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 12 AM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "Saleh Al-Masri",
+  "Very respectful",
+  "Barber Saber",
+  "Egyptian barber",
+  "Classy service",
+  "Respectful treatment",
+  "Excellent barber",
+  "Salon in Ajman",
+  "Upscale salon",
+  "Salon cleanliness"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 100
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 75
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Anaz ohh",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The salon is really nice and smells good and saleh is professional at cutting hair he made me look handsome",
+   "owner_reply": null
+  },
+  {
+   "author": "عبدالله يوسف",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "In my opinion, it’s one of the most brilliant places to have your hair cut in Ajman. I can say that I’m very happy to try this beautiful saloon.Great thanks for Mr Hani.",
+   "owner_reply": null
+  },
+  {
+   "author": "MR Mahmoud Youssef",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It is one of the best places I have visited for hairdressing, and they also offer hot drinks such as coffee, and Wi-Fi service. There is also one of the best characters called Hani.",
+   "owner_reply": null
+  },
+  {
+   "author": "Imran Aly",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Mr sabir is so great man I came fast time in hear.really so great people I love it inshallah I will come again nice to meet you 🥰🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "Ꭰ Ꭺ Ꭱ Ᏼ O S",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best barber is hassan from moroco🇲🇦 He has a great haircut🔥 try it",
+   "owner_reply": null
+  },
+  {
+   "author": "James Kristoffer Gaines",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Saleh al masri number one doing my hair cut since i move to ajman 2017 until now very good 10/10 highly recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Ali Ashiq",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Best saloon in ajman and especially Mr.SABER so cute and had very good experience",
+   "owner_reply": null
+  },
+  {
+   "author": "Riaz Alchemy",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "You can visit here to get everything done very well and happily, very good place to go with kids too, salah your great bro:))",
+   "owner_reply": null
+  },
+  {
+   "author": "Mahmoud Almalek",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "One of the best places I visited in Ajman\nQuality is the best and very good prices\nStarts from entering the shop to leaving\nFull statisfied\nSpecial thanks to Hani one of the assistant their",
+   "owner_reply": null
+  },
+  {
+   "author": "Faisal Abdul",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Saleh al masry is good ar barbering and i like him very much❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Farag Zenbaa",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The most beautiful salon and the best service, especially the artist Hani Al-Masry",
+   "owner_reply": null
+  },
+  {
+   "author": "Hareer Amjad",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Did an amazing job...would highly recommend getting a cut from saber.",
+   "owner_reply": null
+  },
+  {
+   "author": "Oded Faran",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Amazing place. I'll definitely be back",
+   "owner_reply": null
+  },
+  {
+   "author": "Rilwan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very good looking hair stylish professional name saber.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Shahbaz",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best barber I seen is Saleh Al Masri",
+   "owner_reply": null
+  },
+  {
+   "author": "Hassan Ali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Hassan is a great barber from Morocco",
+   "owner_reply": null
+  },
+  {
+   "author": "Amran Hossain",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Saber did a great job !!\nVery polite and professional",
+   "owner_reply": null
+  },
+  {
+   "author": "Diwash Pun magar",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Good hair cut♥️saber.very good",
+   "owner_reply": null
+  },
+  {
+   "author": "vishnu Haripriyan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very good service, saber does an excellent job 👏 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Osama Ahmed",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Best Salon In Ajman\nSpecially Mr . Saber",
+   "owner_reply": null
+  },
+  {
+   "author": "Sadi Imad",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Saber very gentleman have a great experience and great hands",
+   "owner_reply": null
+  },
+  {
+   "author": "Intizar Ali",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Sabir good person and also good barber .",
+   "owner_reply": null
+  },
+  {
+   "author": "AGENT 007",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "EXCELLENT HAIRCUT BY HANI MY BROTHER ♥️",
+   "owner_reply": null
+  },
+  {
+   "author": "Diya Sufyan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The barber is very good and kind",
+   "owner_reply": null
+  },
+  {
+   "author": "Hassan Ali",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Just fine. Specially Mr.Salih",
+   "owner_reply": null
+  },
+  {
+   "author": "Amal Achuthan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Nice place!\nGood ambience!",
+   "owner_reply": null
+  },
+  {
+   "author": "bombo bombo",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very good",
+   "owner_reply": null
+  },
+  {
+   "author": "Alyssa Padua",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "God saber thank you 😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Ramy Law",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Fast, good and affordable",
+   "owner_reply": null
+  },
+  {
+   "author": "Adarsh Viswanath",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Best service 👍🏻💯",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1242,
+    932
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1242,
+    949
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    226,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.tiktok.com/@aiham.barbershop?_t=8i1GlV6kCvw&_r=1%20%20%20https://instagram.com/_aiham.barbershop?igshid=NzZlODBkYWE4Ng==",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "_aiham.barbershop",
+   "tiktok": "aiham.barbershop"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {
+  "instagram": "_aiham.barbershop",
+  "tiktok": "aiham.barbershop"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/2/",
+ "buy_likelihood": 7
+}

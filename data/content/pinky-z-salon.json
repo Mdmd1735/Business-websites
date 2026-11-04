@@ -1,0 +1,33 @@
+{
+ "preset": "emerald-gold",
+ "theme": {"bg": "#0D0B0A", "surface": "#171412", "surface_2": "#211D19", "accent": "#E6B655", "accent_text": "#EDC572", "on_accent": "#1A1408", "duo": "#4F3D1C", "busy": "#9C7A33", "glow": "rgba(230,182,85,.15)", "band_bg": "#F5EFE6", "band_accent": "#9A6E1E", "hero_pos": "center"},
+ "brand": {"name": "Pinky'z", "sub": "VIP Salon · Al Rigga", "mark": "P", "footer_word": "PINKY'Z"},
+ "seo": {"title": "Pinky'z Salon Al Rigga | Moroccan Bath, Massage, Nails & Hair, Open Late", "description": "Pinky'z VIP Salon on Al Rigga Road, Deira: traditional herbal Moroccan bath, body massage, waxing, nail extensions, lashes, hair extensions and protein treatments. 4.6 from 1,502 reviews."},
+ "hero": {"variant": "full", "ar_name": "صالون بينكيز", "kicker": "Al Rigga Road · Deira", "title_lines": ["Al Rigga's", "Moroccan bath,", "done properly."],
+   "lede": "A traditional herbal Moroccan bath with steam, golden scrub and hot oil, plus massage, waxing, nails, lashes and hair extensions, in a gold-and-marble VIP salon on Al Rigga Road.",
+   "image": "img/hero.jpg", "image_alt": "Pinky'z salon with marble walls, gold trim and a wall of nail polish", "secondary": {"label": "Offers", "href": "#offers"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Pinky'z Salon, I'd like to book a Moroccan bath.",
+ "proof_note": "1,502 Google reviews",
+ "address_lines": ["Pinky'z VIP Salon, Al Rigga Road", "Deira, Dubai"],
+ "ticker": ["Moroccan bath", "Body massage", "Brazilian wax", "Nail extensions", "Lash extensions", "Hair extensions", "Protein treatment"],
+ "sections": [
+  {"type": "menu", "id": "offers", "nav": "Offers", "eyebrow": "Recent offer", "title": "The full Moroccan bath", "title_dim": "package.",
+   "categories": [{"name": "Moroccan bath", "items": [{"name": "Full Moroccan bath package", "desc": "Full Moroccan bath with olive soap, full body steam, full body golden scrub, hot oil treatment, aloe vera hair mask, shampoo & conditioner, hair dry, and an original Moroccan luffa to take home", "price": "AED 39"}]}],
+   "note": "From the salon's recent offer post. Message to confirm it's still running."},
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Head to toe,", "title_dim": "under one roof.",
+   "items": [
+    {"name": "Moroccan bath", "feature": true, "img": "img/bath.jpg", "alt": "Marble Moroccan bath room with gold walls", "desc": "Traditional herbal bath: Moroccan is mentioned in 21 of our last 30 reviews.", "quote": "I did my Moroccan bath and mani-pedi with gel. Everything was perfect!", "cite": "Rosenee S."},
+    {"name": "Nails & extensions", "img": "img/nails.jpg", "alt": "Long nude almond extensions", "desc": "Hard gel, extensions and nail art."},
+    {"name": "Lashes & brows", "img": "img/lashes.jpg", "alt": "Lash extensions close-up", "desc": "Lash extensions, brow shaping and halawa."},
+    {"name": "Hair", "img": "img/highlights.jpg", "alt": "Bold blonde highlights", "desc": "Extensions, highlights, protein and blow-dry."},
+    {"name": "Massage & waxing", "desc": "Full body massage, Brazilian and full-body waxing."}
+   ],
+   "perks": ["Open late", "Packages available", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Book ahead", "title": "Evenings are packed.", "title_dim": "Mornings are calm."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Ask for Aya.", "title_dim": "Or Winnie, or Tito.",
+   "items": [{"name": "Aya", "count": 11, "role": "Moroccan bath & nails", "quote": "Special thanks to Miss Aya, she was so good and fun.", "cite": "Rosenee S."}, {"name": "Winnie", "count": 6, "role": "Beauty"}, {"name": "Tito", "count": 5, "role": "Hair"}]},
+  {"type": "gallery", "images": [{"src": "img/floor.jpg", "alt": "Styling chairs"}, {"src": "img/polish.jpg", "alt": "Nail polish wall with marble"}, {"src": "img/sign.jpg", "alt": "VIP Pinky'z Salon sign"}, {"src": "img/team.jpg", "alt": "The team at reception"}, {"src": "img/braids.jpg", "alt": "Colourful braids"}, {"src": "img/xmas.jpg", "alt": "Red festive nails"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Rigga Road,", "title_dim": "Deira."}
+ ]
+}

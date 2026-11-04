@@ -1,0 +1,1433 @@
+{
+ "slug": "detail-guys-dubai",
+ "name": "Detail Guys Dubai",
+ "place_id": "ChIJ5Z3X4h9pXz4R7N7bHATYZSM",
+ "category": "car detailing",
+ "category_weight": 11,
+ "area": "Al Barsha, Dubai",
+ "address": "makani no 20778 78603 - S6 Plot no 284-0 land no 369-431 - Al Qouz Ind.fourth - Al Quoz - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.1130234,
+  "lng": 55.2265987
+ },
+ "phone": "+971 55 888 4753",
+ "rating": 4.5,
+ "userRatingCount": 195,
+ "rating_distribution": {
+  "oneStar": 15,
+  "twoStar": 0,
+  "threeStar": 4,
+  "fourStar": 20,
+  "fiveStar": 156
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Detail%20Guys%20Dubai&query_place_id=ChIJ5Z3X4h9pXz4R7N7bHATYZSM",
+ "website": "https://www.instagram.com/detailguys.io?igsh=MWhiODJhbTgzaXkzMg%3D%3D&utm_source=qr",
+ "categories": [
+  "Vehicle wrapping service",
+  "Auto upholsterer",
+  "Auto window tinting service",
+  "Car wash"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 9 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 9 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 9 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 9 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 9 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 9 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 9 PM"
+  }
+ ],
+ "owner_description": "Detail Guys Dubai is a premium automotive detailing and paint protection specialist in Dubai, dedicated to keeping your vehicle looking brand new. We offer high-quality Paint Protection Film (PPF), Ceramic Coating, Window Tinting, Color PPF, Car Wrapping, Paint Correction, Interior Detailing, Exterior Detailing, Headlight Protection, and premium car care services.\n\nOur experienced team uses advanced techniques and high-quality materials to deliver exceptional results with long-lasting protection and a flawless finish. Whether you own a luxury, sports, electric, or everyday vehicle, we provide customized solutions to protect your investment.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible seating": false
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "detailing",
+  "nano ceramic tinting",
+  "matte ppf",
+  "flawless finish",
+  "ppf installation",
+  "professional staff",
+  "deep cleaning",
+  "scratch removal",
+  "clear explanations",
+  "car protection"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.67,
+ "reviews": [
+  {
+   "author": "Hamza Moeez",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had an excellent experience with this car detailing company! I recently got PPF installed on my Dodge Charger Wide body and the results are absolutely flawless. The attention to detail, quality of work, and professionalism really stood out.\n\nA special thanks to Goutham, who was incredibly friendly, knowledgeable, and helpful throughout the entire process. He made everything smooth and stress-free, answering all my questions and ensuring I was comfortable with every step.\n\nHighly recommend them to anyone looking to protect their car and get top-notch service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Elspeth Jiang",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "The team here worked efficiently and had my car wrapped in just 2 days. The final result is exactly the shade I wanted, and I’m really happy about the result.\n\nCommunication was prompt throughout the process, and I was offered a very competitive price compared to other PPF quotes I received. I’ve been driving the car for a week now and haven’t noticed any issues, even with the extreme Dubai heat.\n\nVery happy with the quality, service, and overall experience. Hope post sale servicing is good as well. Highly recommended!",
+   "owner_reply": "Thank you so much for your kind feedback "
+  },
+  {
+   "author": "Christopher D. Avillanoza",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Had a great experience with Detail Guys. They recently applied a full PPF on my new Jetour G700, and I'm very happy with the quality of the workmanship and attention to detail.\nA special thanks to Zahid for being professional, accommodating, and keeping me updated throughout the process. He patiently answered all my questions and made the entire experience smooth from start to finish. The car was delivered looking fantastic, and I would definitely recommend Detail Guys to anyone looking for quality PPF installation. Keep up the great work!",
+   "owner_reply": "Thank you so much sir for your appreciation and support we are more motivated and we try to enhance more our services for our valuable customers thanks again."
+  },
+  {
+   "author": "Awadh Symphony",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I recently purchased a new car and was exploring options for Paint Protection Film (PPF). Like many first-time buyers, I was unsure about what PPF actually was and where I could get it installed without being overcharged.\n\nFortunately, I came across this company through social media, and I was attended to by Mr. Pradeep. From the very beginning, he impressed me with his professionalism, patience, and depth of knowledge. He took the time to clearly explain the concept, benefits, and long-term value of PPF, much like an experienced relationship manager guiding a valued client.\n\nRather than pushing a particular product, he presented multiple options and helped me arrive at the most suitable choice based on practical considerations and my specific requirements. He also highlighted the importance of windshield protection, making me aware of potential risks and the benefits of safeguarding it against future damage.\n\nThe entire process was handled with remarkable efficiency and professionalism. The work was completed within the promised timeframe, and the quality of execution met my expectations.\n\nI was asked to return after ten days for a minor correction related to the PPF installation. During this follow-up visit, Mr. Pradeep was equally courteous, supportive, and attentive. He ensured that everything was addressed smoothly and completed within the stipulated time.\n\nOverall, I am thoroughly impressed with the level of service I received. Mr. Pradeep managed every aspect of my PPF requirements with exceptional professionalism, dedication, and customer focus. His expertise, honesty, and commitment to customer satisfaction made the entire experience seamless and reassuring. I would gladly recommend him and the company to anyone looking for reliable and high-quality PPF solutions.",
+   "owner_reply": "Thank you so much for your kind words and support."
+  },
+  {
+   "author": "Imran Bumble",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Amazing service from start to finish and great comms with Zahid. From the first phone he advanced what was best as per my requirements and I was initially worried with a brand new Leopard 8 but the job was great for PPF and tinting and ceramic coating. Have zero complaints as the whole team were professional and so great to deal with. Highly recommended.",
+   "owner_reply": "Thank you sir for your true feedback we appreciate "
+  },
+  {
+   "author": "Ivan Siarbolin",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "My experience of Styling my car with Detail Guys:\n\nScope of work:\n- Styling\n- PPF\n- Tinting\n\nExperience:\nCommunication: 9.5/10\nUnderstanding my request: 10/10\nBeing helpful and suggesting styling materials: 10/10\nQuality of execution: 9.8/10\nTiming: 9.5/10\nAfter sale service: 9.8/10\n\nMy overall perception of the total experience: 9.8/10\n\nI’d definitely come back if I need further styling",
+   "owner_reply": "Thank you so much sir for your lovely and detail feedback we are very happy and appreciated.<br>Thanks again"
+  },
+  {
+   "author": "Frederick Shah",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Very happy and satisfied with the PPF work done for my Brand new  Jetour T1 .Their rates also very budget friendly.\nI would specially like to thank Mr Zahid for his amazing customer service.\nHighly Recemended place for all your go to car related services.",
+   "owner_reply": "Thank you sir for your appreciating feedback."
+  },
+  {
+   "author": "Shaikha J.",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great quality PPF. Zahid recommended to go with 8.5mm, and it genuinely did its job.\n\nI scratched my car accidentally, but the PPF protected the paint underneath completely. Not a single scratch on the actual body once it was removed. Very impressed with the protection level.",
+   "owner_reply": null
+  },
+  {
+   "author": "Spirnox",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Amazing job on my Tesla Model 3 matte PPF! The attention to detail is perfect—edges are seamless and the finish is flawless. It completely changed the look of my car while keeping it protected. Thank you Pradeep and the team of detail guys for the top-quality work!",
+   "owner_reply": "Thank you so much sir for your support and true feedback "
+  },
+  {
+   "author": "Mohammed Ahmed",
+   "rating": 1,
+   "when": "3 weeks ago",
+   "text": "If there no star better - very bad ppf quality + they said will clean from in side with ceramic = no one do tgat car is inside all sand + every day increase the price from we deal + they broken my sensor and no any responsibility , they said will check and get to you back + employee no have any experience in ppf",
+   "owner_reply": null
+  },
+  {
+   "author": "Alan Wilson",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I recently got PPF done for my car at Detail Guys, and I’m extremely satisfied with the overall experience. The team was highly professional, detail-oriented, and clearly passionate about their work. The finish is flawless, and you can tell they use highquality materials and take their time to get everything perfect.\nA special thanks to Pradeep for his exceptional support throughout the process. He was very knowledgeable, guided me properly, and ensured everything was done exactly as promised. His attention to detail and customer care really stood out.\nHighly recommend Detail Guys to anyone looking to protect and enhance their car. Definitely worth it!",
+   "owner_reply": "Thank you so much sir for your support and  appreciation we love your detail feedback."
+  },
+  {
+   "author": "Glenn Montevirgen",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Recently had PPF installation, Nano ceramic tinting and interior ceramic coating from Detail Guys Dubai and I can say that their service is superb with reasonable price. My car (Jetour X70 Plus) looks perfect inside and out. Definitely will recommend this shop to all my friends. Kudos to all their friendly and professional staff!",
+   "owner_reply": "Thank you so much Glenn we appreciate and Love your feedback."
+  },
+  {
+   "author": "sayed usman",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I really liked their work, they were efficient and the ppf was done in 2/3 days time, the results were great, Zahid and Ramis were really helpful and provided each and every information in detail. I would recommend this place for your car care needs.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shazoor Khalid",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Got gloss ppf done on my car recently. Zahid was really supportive throughout the whole process. His customer service is on point.\nOverall, the team did a good job and finished the process earlier than expected.",
+   "owner_reply": null
+  },
+  {
+   "author": "swarup anand",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\nHad PPF wrapping done on my Denza B5 at Detail Guys and I’m very satisfied with the outcome. The work is clean, well-finished, and shows good attention to detail across the panels. The car looks neat and well protected, with a consistent finish throughout.\n\nOverall, a professional experience and quality workmanship. Would recommend Detail Guys to anyone considering PPF or detailing work.",
+   "owner_reply": "Thank you so much for your kind comment we are very happy to serve you."
+  },
+  {
+   "author": "Sama Eid",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I did a satin matte PPF on my car, and the results were amazing. The team was very professional, and Pradeep was extremely helpful and explained everything clearly\n*the car was ready in less than 48 hours🙂",
+   "owner_reply": "Thank you very much sir sometimes we do faster installation as per customer urgent requirements. We love your true feedback.<br>Thank a lot"
+  },
+  {
+   "author": "Ihsan Annan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "You can tell they actually take pride in their work rather than just rushing through jobs. The result looks amazing — clean, smooth, no issues whatsoever. Would definitely recommend them to anyone thinking about protecting their car. Good people, professional work.",
+   "owner_reply": "Thank you very much for your true and lovely feedback."
+  },
+  {
+   "author": "M B",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is my first time doing a ceramic coating, and I am glad I chose DetailGuys. They helped me understand the benefits of the product. Mr. Ali and Mr. Ronald, both are professional and was patient in answering all my questions. They have offered me different options based on my budget. They provide me the real outcome of each package (meaning they did not give me false information just to get certain package).\n\nThey first did a detailed wash and cleaning of my car before they started the coating (so guys, you don’t need to get your car wash done if you decide to get their service).\n\nThe finished product was superb, scratches has lessen and some are totally gone. My beautiful baby looks clean and beautiful again. Because of this, I immediately referred a friend to them.\nThank you to Mr. Ali and Mr. Ronald for your service.\nI got freebies as well.\nSo guys, contact Detail Guys now.",
+   "owner_reply": "Thank you for taking the time to leave such a wonderful review! We truly appreciate your trust in our services. We’re always here to give your car the care it deserves."
+  },
+  {
+   "author": "Girgis Edwar",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I am sharing my great experience at Detail Guys... After i got my new car, Gac Emzoom, i was looking to do PFF to remain. My car looks nice and to save it from scratch... i was searching everywhere and i got to high prices and i went to check was not that place safely to leave my caf... after many contacts i reach Mr. Haseeb from detail Guys and the offer was great, and the quality overall and the treatment were excellent, and they committed to the time, and i received my far looks fabulous was the time they mentioned... fast and high-quality service over there.. and they give me a warranty 3yrs for any issue if they happen, and they ask me to check the car after a week later to make sure all job they do are perfect.... what amazing care and service worthy the money and time ... thank you all, team .. and their manager Mr. HASEEB AND Mr. SAJEEL. 😍📈",
+   "owner_reply": null
+  },
+  {
+   "author": "Calvin Caines",
+   "rating": 1,
+   "when": "10 months ago",
+   "text": "I’m extremely disappointed with the service, communication, and overall customer experience.\n\nI recently had PPF work done on my car by Detail Guys. Before the work started, I visited the garage in person and clearly explained everything I wanted done. After dropping off my car, I also sent a detailed WhatsApp message confirming our discussion to avoid any misunderstandings.\n\nThey kept my car for approximately 10 days. When I went to collect it, I noticed that the headlight tint I previously had was removed and not reinstalled. I immediately raised this with their staff and was told it would be taken care of when I brought the car back for corrections.\n\nAfter dropping the car off a second time for corrections, I went back to collect it and found that the headlight tint still had not been put back on. When I asked why, I was told they didn’t have the tint — something I was never informed of beforehand. Communication from their end was absolutely non-existent throughout this process.\n\nI was then asked to bring the car back a third time. I declined and requested that they send someone to my location instead, as I had already returned twice. They agreed and scheduled a visit at 8:30 pm. I specifically asked whether visibility at that time would be sufficient to properly address the corrections and was assured it would be.\n\nHowever, after about 10 minutes on-site, I received a message stating they were finished. When I asked if the requested corrections were completed, I was told they were not.\n\nTheir communication was extremely poor. I had to follow up numerous times, was repeatedly told someone would get back to me, and was given dates and times that were never honored. I was constantly chasing them instead of receiving proactive updates or solutions.\n\nOverall, the lack of accountability, poor communication, and repeated failure to complete agreed work make this a service I cannot recommend. I would strongly advise others to look elsewhere for PPF or car detailing services.",
+   "owner_reply": "Sir we resolved your all issues already long time ago but we are see your feedback is here may be you forgot to modify please consider.<br>Thanks "
+  },
+  {
+   "author": "Omnia Qassem",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Very satisfied with the PPF service for my car. The attention to detail and finishing are outstanding. The team was polite and professional throughout. A special thank you to Zaheed for his kindness and professionalism!” 🫶👌🤩",
+   "owner_reply": null
+  },
+  {
+   "author": "Fatma Saqer",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Highly recommend this place for PPF! The service was excellent from start to finish, and the attention to detail was amazing. A special thank you to Pradeep for being so helpful, professional, and patient throughout the whole process. He made everything smooth and easy for me. Really happy with the result and definitely worth it!",
+   "owner_reply": "Thank you so for your true lovely appreciation support and feedback."
+  },
+  {
+   "author": "Fraser Hogg",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Recently had matte PPF applied to my car and the result exceeded expectations. The finish is flawless — no lifting, no bubbles, and all edges tucked perfectly.\n\nThey clearly know what they’re doing and didn’t cut corners. Communication was smooth, timelines were met, and the final result speaks for itself.\n\nIf you’re considering PPF, these are the guys to go to.\n\nZahid was amazing during the full process.",
+   "owner_reply": null
+  },
+  {
+   "author": "Emad",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I have experienced many car detailers, but all of them were either very expensive or did a terrible job. But here, I was really surprised to find such good quality work with a an amazing price (Thanks to Haseeb ofcourse). Received discounts, plus complementary ceramic coating. And one thing that I really liked about them was that, they worked from early morning till midnight. They finished wrapping my car in just 2 days! Overall I was really happy with the results.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jasdeep Singh Ahuja",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "A big shoutout to Ronald and his incredible team for the fantastic work they did on my RAM 1500 Bighorn 2025. After doing a lot of research and speaking with multiple vendors, I decided to go ahead with the Armolan PPF matte finish through Ronald and I’m so glad I did. From the very beginning, Ronald took the time to explain everything in detail, including how the product would look and perform. He was extremely patient and receptive to all my questions and concerns, which gave me the confidence to proceed.\n\nThe workmanship is top-notch. The matte finish has transformed the look of my truck, and I couldn't be happier with the outcome. Ronald’s team clearly knows their craft - they’re professional, detail-oriented, and respectful of both time and quality. They worked efficiently and delivered exactly what was promised, if not more.\n\nIt’s rare these days to come across people who are passionate about what they do and genuinely care about customer satisfaction. I highly recommend Ronald and his team to anyone looking to get PPF or detailing work done. You can expect expert advice, honest service, and an impeccable finish.\n\nThanks again, Ronald - you’ve earned a loyal customer!!!",
+   "owner_reply": "Thank you so much sir you write detail feedback this is our big achievement thanks again "
+  },
+  {
+   "author": "fff",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "i got ceramic coating done by them at an amazing price, it made my car shinier i love it 🤩 nice, respectful and fast workers. they even gave me a specific towel that i should wash my car with, god bless.",
+   "owner_reply": "Thank you sir and God bless you "
+  },
+  {
+   "author": "Atiq ur Rehman",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "\"After experiencing the exceptional service at Detail Guys, I couldn't be happier with the results. From start to finish, the team, including Malik, Abid, and Taniya, demonstrated professionalism and attentiveness, ensuring they met my exact requirements. The meticulous detailing left my car looking brand new, and the protective treatment provided long-lasting shine and defense against dirt and grime. A special shoutout to Mr. Usama for overseeing the process. I highly recommend Detail Guys for their top-notch service and outstanding results.\"",
+   "owner_reply": "Thank you so much sir for your kindness and feedback we hope you come again to our garage 🙂"
+  },
+  {
+   "author": "Mahmoud Mohamed",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "Hey, the matte PPF job was done really well! Thanks a lot, Masab, for the discount and the great offers. I'll be back in five days to check for any issues, but I'm sure there won't be any. Keep up the good work, guys!",
+   "owner_reply": "Thank you so much for your wonderful review! We’re thrilled to hear that you had a great experience with us. Your kind words mean a lot to our team, and we’re glad we could meet your expectations. We look forward to serving you again in the future!"
+  },
+  {
+   "author": "Spencer Lowres",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The team did a great job. Very helpful. Quick turn around. Excellent communication. Quality finish. Wouldn’t hesitate to use again for my next car.",
+   "owner_reply": null
+  },
+  {
+   "author": "Najeeb Ahmad",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Last week i have done service through details DG guys where i choose PPF Union delta with 10 years warranty however i have received different companies quotations,where i have selected details DG guys because of Pradeep he was very helpful and professional in his field, i am very much satisfied for his service which I received from pradeep, i did PPF Union Delta Molecula ppf ,tinting with 10 years warranty.\nAll the best",
+   "owner_reply": "Thank you so much Mr Najeeb Ahmed we are very happy and proud to see your support and appreciation on google hopefully we give you best service next time. Thanks again "
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    960,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    960,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    503,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    375
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    410,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    337,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    340,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    294,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    291,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/detailguys.io?igsh=MWhiODJhbTgzaXkzMg%3D%3D&utm_source=qr",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "detailguys.io"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 66,
+ "socials": {
+  "instagram": "detailguys.io"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/detail-guys-dubai/",
+ "buy_likelihood": 8
+}

@@ -1,0 +1,1221 @@
+{
+ "slug": "beauty-and-sense-ladies-salon",
+ "name": "Beauty & Sense Ladies Salon",
+ "place_id": "ChIJJTX4t7ldXz4RS1cyrHBIlYY",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "54 St - Al Mamzar - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2844285,
+  "lng": 55.3554911
+ },
+ "phone": "+971 56 495 9101",
+ "rating": 4.7,
+ "userRatingCount": 599,
+ "rating_distribution": {
+  "oneStar": 23,
+  "twoStar": 4,
+  "threeStar": 7,
+  "fourStar": 43,
+  "fiveStar": 522
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Beauty%20%26%20Sense%20Ladies%20Salon&query_place_id=ChIJJTX4t7ldXz4RS1cyrHBIlYY",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Welcome to Beauty & Sense Ladies Salon, where beauty meets luxury in a serene and welcoming environment. Our salon offers an all-inclusive range of beauty services designed to make every woman feel special, pampered, and rejuvenated. From head to toe, our expert team of beauty professionals is dedicated to providing personalized treatments that suit your unique style and needs.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "keratin treatment",
+  "henna",
+  "waxing",
+  "hair color",
+  "blow dry",
+  "gel polish",
+  "gold facial",
+  "manicure",
+  "extension nails",
+  "eyelash extensions"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.33,
+ "reviews": [
+  {
+   "author": "Hina Khan",
+   "rating": 3,
+   "when": "4 months ago",
+   "text": "I would say some of their team members are good and professional in some areas especially Amal, but they are all worst in haircut, no one is expert. Secondly, you should focus on the treatment, for that customer is there, instead of offering 20 more treatments. Your focus should be on customer satisfaction instead of trying to getting more and more money from customer on the spot. If customer is satisfy she will come again otherwise, no one will come back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Tia Singh",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Very neat and clean , amal is such professional at her hairstyling, I got keratin done and she makes the best eyebrows trust me ❣️. It was totally worth it experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Anam Mushtaq",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Excellent services and good staff. Really satisfied with the services.\nI had done my keratin from sobia. She did an excellent work. She’s so kind and polite. And also they did free menicure and pedicure for my daughters.\nAll the other staff is so kind and polite. Love my experience. Thank you for all your hard work. ❤️❤️❤️",
+   "owner_reply": "Thank you so much Maam, glad you had an amazing experience, please visit again ! 💕"
+  },
+  {
+   "author": "Karla Barbara Bautista Rafique",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Had my home service with Amal. She did a great job on my new hair color and massage. Red hair color was really nice on me. Thank you for a lovely result and service. Next time again.",
+   "owner_reply": "Thank you so much 💞💞"
+  },
+  {
+   "author": "Houria Rafik",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "It was so good experience and Amal knew how to give me the best blow dry while my hair is so curly but still it was so good results whitout damaging my hair it’s really hard to find a really good blow dry in Dubai with good price and nice smiling staff if you go there you ask for Amal",
+   "owner_reply": null
+  },
+  {
+   "author": "Soja Baburaj",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "Zero star rating tbh. Worst experience ever!!\nI booked an appointment and still had to wait 40 minutes. They even ruined my pedicure, they didn't trim my nails properly, and they made them so thin that they couldn't even apply the gel polish.\n\nThe waxing experience was even worse. The staff rushed through it because they had another customer waiting, and in the process, they ended up ripping my skin. The wax was far too hot, and despite me warning her multiple times, she continued using it. Very poor at professionalism.\n\nTo make matters worse, I had a child waiting with me the entire time, so the unnecessary delay and poor service wasted both my time and caused a very unpleasant experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sana Fatma",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It was a lovely experience being in that environment, friendly staff and very well quality products have been used / a must visit salon in Dubai ! Head to toe all services are done here :).",
+   "owner_reply": null
+  },
+  {
+   "author": "Rubi Irshad",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "Very professional and friendly staff very clean and the best saloon in dubai I go better results, got my daughters henna and mani pedi and blow dry for myself, it was amazing experience for me. Definitely coming back again. better than I expected thank u so much beauty and sense saloon❤️🥰",
+   "owner_reply": "Thank you so much ❤❤"
+  },
+  {
+   "author": "Toka Khaled",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The salon is very clean and organized, and the staff are very kind and professional. I had a great experience and the service was excellent. also amal is so good she make every thing with smile",
+   "owner_reply": null
+  },
+  {
+   "author": "Sherin nashwa",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Got my hair styled for my graduation. Hair was done by Amal (loveliest staff). Turned out perfect. Amal kept me happy and laughing throughout the process 🥰😁😁",
+   "owner_reply": null
+  },
+  {
+   "author": "Huria",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Visited for the second time because I love the consistency with the quality and results of my services! Will always come back and the workers are very sweet from hair dressers to manager!",
+   "owner_reply": null
+  },
+  {
+   "author": "Zeeshan Sa",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "My daughters went to the salon and they were very happy! They did theie hairstyle and they looked very nice! Excellent service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdul Basith",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Excellent service and amazing staff!\n\nI had a keratin treatment done at this salon, and I’m truly very happy with the experience. From the moment I walked in, all the staff were very kind, friendly, and welcomed me warmly. The service was excellent, and I felt comfortable throughout my visit.\n\nI would like to especially mention Amal. Before coming to the salon, I noticed that many people had mentioned her name in the reviews, so I was really hoping to meet her—and I’m so glad I did. She was amazing with me and handled the entire keratin procedure with great care, patience, and genuine effort. You can really see how dedicated and skilled she is at her work.\n\nI’m from Al Ain, and I traveled here for this salon, and it was completely worth it. I had a really good time, and the results are beautiful. The other staff members were also very nice and supportive.\n\nHighly recommended! I will definitely visit again.",
+   "owner_reply": "Thank you so much, glad you had an amazing experience, please visit again ! 💕"
+  },
+  {
+   "author": "shahrukh irshad",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very good salon, My wife got her hairstyle done from Here, and ive fallen in love with her hair. I highly recommend this salon, along with the hairstyle, she got more services done, and make up as well, which was beautiful\nShe got her manicure and pedicure, and facial done.\nI recommend Everyone to come to this salon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ayesha Malik",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I am very happy to say that , it was very good experience,staff was very kind and humble.They have one special staff she can’t talk or listen but the good thing she is very talented.\nI got nails extension with gelish also from there it was amazing, I will share photo also so you guys can see and trust them .\nLast but not least I would like to thank them all for there good service.",
+   "owner_reply": "Thank you very much. Visit us again."
+  },
+  {
+   "author": "Kahdija Nur",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I got a Keratin treatment here a few days ago and the results are incredible—definitely the best I've seen in Dubai. Sobia is a true professional; she is highly experienced and works with so much dedication and heart. Their waxing service is also a solid 10/10!\"",
+   "owner_reply": "Thank you so much Maam, glad you had an amazing experience, please visit again ! 💕"
+  },
+  {
+   "author": "Hello There",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I went to the salon and did arm waxing and a hot oil massage it was very relaxing and painless and the staff was very sweet",
+   "owner_reply": null
+  },
+  {
+   "author": "Ria Sonal Albuquerque",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This place has done a really good job. They offer various services and I got the haircut , hair wash and blow dry and I was very satisfied with the service. They did a wonderful job",
+   "owner_reply": null
+  },
+  {
+   "author": "Soraya Osman",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Nice salon and helpful staff.Thank you for the professional hairdresser Amal.I always get great results for my hair.",
+   "owner_reply": null
+  },
+  {
+   "author": "Yeojin Jeong",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Anastasia was very professional and attention to detail. I like the way she did my nail and pedi. Would like her again if call your service. Thank you anastasia!",
+   "owner_reply": "Thank you so much for your valuable feedback. "
+  },
+  {
+   "author": "Shalu Kadel",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Excellent service by Miss Sheeba and the team , I went for hair extensions they were extremely friendly and entertaining I had a great time aswell the service is very good people are kindly I would love to recommend everyone to visit the salon and I would definitely come back\n\nThank you Beauty and senses",
+   "owner_reply": "Thank you so much ❤❤"
+  },
+  {
+   "author": "lamya rahman",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I recently got a keratin treatment at beauty and sense beauty salon and I am so happy with the results! My hair feels so much smoother and looks so much healthier. All stylists were very friendly and took the time to get the treatment done well. The salon itself is also very clean. Good pricing as well. I would definitely recommend this salon to anyone looking for a great keratin treatment.",
+   "owner_reply": "Thank you so much ❤❤"
+  },
+  {
+   "author": "Prateek Khatri",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Professional and very friendly staff. All services were done according to time. They did not rush at all. I got my henna done from here and its beautiful. Definitely coming here and 10/10 recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jaya Priya",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "Today i have taken skin polish and waxing service.The service were very good.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nausheen Mubarak",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Amal’s service for haircut for my little one is always the best! Friendly and lovely!",
+   "owner_reply": null
+  },
+  {
+   "author": "Teddy P",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amal i amaizing, she  all raunder very fast, hair colour, hair cut, hair staylist, brows, wax, she is amaizing, check with her in this beauty salon",
+   "owner_reply": null
+  },
+  {
+   "author": "DELLNA VARGHESE",
+   "rating": 1,
+   "when": "2 years ago",
+   "text": "This is the worst salon i have ever been. I went there for my keratine protein treatment and they used very very bad chemicals on my hair. Over heating was also done to my hair. Due to this, on third day of my treatment when i did my hair wash, all my hairs became brittle, dry, frizzy and started breaking. The hair smelled so nasty. The experience was unforgetable and unbearable. I had to cut my hair lots to remove the damage and instarted taking medication for the damage done to my hair growth. I also took my cash back from them. Very bad quality service. I do not recommend anybody to go here.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aliza",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "As a regular customer i can say its always a great experience!\n\nI always am looking forward to my visits. Amal is amazing, she’s my go-to for all my services, and never disappoints. The salon has a great atmosphere, and the staff is always so so welcoming. Highly recommend to anyone looking for top-notch service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mr Apple",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Salon Atmasfear is very good. Staff are very humble and helpful I did hair Nanoplastia   and beauty service too. I very happy they make it too fast and it's best saloon in Dubai",
+   "owner_reply": "Thank you so much, glad you had an amazing experience, please visit again ! 💕"
+  },
+  {
+   "author": "rebecca rylance",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Fabulous salon! Hair completely transformed 🤩🩷 Thank you 🫶🏻",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    777,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    674,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1112
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1440
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    958,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    951,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    972
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    640
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    576,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    305,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    427
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    512,
+    436
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/beauty-and-sense-ladies-salon/",
+ "buy_likelihood": 6,
+ "notes": "599 reviews, home service offered. Replies 33%. Mixed reviews on haircuts.",
+ "display_name": "Beauty & Sense Ladies Salon"
+}

@@ -1,0 +1,1269 @@
+{
+ "slug": "forever-pet-care",
+ "name": "Forever Pet Care",
+ "place_id": "ChIJv1nidq5bXz4REKLkVdpG8W4",
+ "category": "veterinary clinic",
+ "category_weight": 13,
+ "area": "Al Majaz, Sharjah",
+ "address": "Al Masa, Shuwaihean Plaza - Shop 9 - 10 - Al Mareija - Hay Al Gharb - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3562406,
+  "lng": 55.3806479
+ },
+ "phone": "+971 56 632 7272",
+ "rating": 4.6,
+ "userRatingCount": 357,
+ "rating_distribution": {
+  "oneStar": 28,
+  "twoStar": 2,
+  "threeStar": 4,
+  "fourStar": 13,
+  "fiveStar": 310
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Forever%20Pet%20Care&query_place_id=ChIJv1nidq5bXz4REKLkVdpG8W4",
+ "website": "",
+ "categories": [
+  "Veterinarian",
+  "Pet boarding service",
+  "Pet groomer",
+  "Pet supply store",
+  "Veterinary pharmacy"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "1 to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "We know pets are like family, so we are committed to providing the highest-quality products that you can trust.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ]
+ },
+ "review_tags": [
+  "cat grooming",
+  "pet grooming",
+  "gentle groomer",
+  "nail trimming",
+  "ear cleaning",
+  "cat bath",
+  "expert groomers",
+  "clean environment",
+  "experienced staff",
+  "kind owner"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Joydeep Mukherjee",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "The place is amazing for pet grooming. It’s not that only I like the place but my cat feel safe and pampered here. The people are very knowledgeable and caring to cure your pet and grooming as well and also it’s very reasonable when it comes to price. But no price is bigger than your pet so they are in safe hands.\n\nMeet Sajitha a wonderful person who will not only give you good deal or suggestion but will never suggest you which is not good for you pet.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mella Manuel",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Their service is really nice. I showed them a photo of the style I wanted for my dog, and even though my dog had a lot of hairballs/matted fur, they didn’t refuse or suggest shaving everything bald. Big kudos to the groomer for patiently removing the mats and still following the style we wanted. Very happy with the result and the care they gave my dog. 🐶✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Dada_psv",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Forever grateful to Forever Pet Care and especially Dr. Nasseren, the owner, and the entire team for the care, compassion, and kindness shown to my puppies during one of the hardest moments for me emotionally.\n\nWhen both my babies were diagnosed with Parvo, I was completely broken down in tears and fear. But Dr. Nasseren and the team didn’t just treat my puppies — they comforted me too. They stayed close, spoke with kindness, patience, and genuine care, giving me hope when I was emotionally falling apart. Even when they saw me completely broken down, they never stopped caring for my babies like they were their own.\n\nThe treatment, attention, and dedication given to Hope and Toby truly meant everything to me. What touched my heart even more was how considerate and affordable the care was during such a difficult time.\n\nThank you for treating not only the pets, but also the pet parents with compassion and humanity. I will always remember the support, reassurance, and love shown to us during these painful days.\n\nHighly grateful and highly recommended. ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Maram Bik",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Honestly, one of the best places to take my cat for a bath! 🐱🤍 I come here from time to time, and every visit has been a great experience. The staff are very kind, respectful, and professional, and the place is always clean and well-organized. I really appreciate how gentle and caring they are with my cat. Highly recommended! ⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": null
+  },
+  {
+   "author": "kunwarpal singh",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "⭐⭐⭐⭐⭐\n\nExcellent veterinary hospital with very caring and professional staff. They treated my cat with great care and kindness, and the doctor was very patient and explained everything clearly. The staff made sure my cat was comfortable throughout the treatment.\n\nThe hospital was clean, well-maintained, and the service was excellent. I’m really happy with the care my cat received and would definitely recommend this hospital to other pet owners. 🐱❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Bruno Banani",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "When I walked in, the smell was nice and everything looked clean. They kindly took us in and gave us a good price for grooming our cats, which included washing, cutting hair, nail clipping, and paw grooming - a full-service treatment. My cats were very happy, thanks to the professional team.\n\nThank you Forever Pet Care 🙏🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Nadeem Merchant",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Excellent service provided by the team for my Labrador puppy vaccination and grooming, surely recommended for all services",
+   "owner_reply": null
+  },
+  {
+   "author": "aryan acct",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Huge thank you to Forever Pet Care for always taking such great care of our furbabies! 🐱❤️\n\nTheir cat haircuts and grooming services are excellent, and the staff are always so friendly, attentive, and gentle. It's reassuring to know our cats are in such caring hands every visit.\n\nHighly recommend Forever Pet Care to anyone looking for professional and compassionate pet grooming! 🐾✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Swaleha Nagdade",
+   "rating": 1,
+   "when": "7 months ago",
+   "text": "Very Disappointing Experience\n\nWe were referred to this vet from the pet shop after buying a kitten as a gift for our toddler. The staff initially seems helpful, but they mislead and fool you with their talk.\nWe highlighted a visible scratch near the kitten’s nose and ear earlier to the seller and also to the vet and they both said it’s a simple scratch after checking and testing it.\n\nThey also pushed unnecessary tests (250 AED) for some virus check and additional products/services, making us spend over 500+ AED overall just at the vet clinic. There is a lady (possibly the owner herself), who is very manipulative and creates pressure to buy unnecessary stuff under the name of safety and comfort for pets and kids.\n\nWithin a week, the kitten’s condition worsened. A second vet (in Dubai) confirmed it was ringworm, not a scratch—a contagious infection unsafe for children. We had to give up the kitten, which was heartbreaking for our child, and spend another 500+ AED on home disinfection.\n\nWe feel misled and taken advantage of.\nPlease be careful. This place seems more focused on selling than proper care and they have tied up policies with the pet shops.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vera Prokopyeva",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I did not visit this salon at first, but I was truly delighted with their service. The groomer demonstrated a high level of professionalism and groomed my girl beautifully and with great care. The staff were friendly and welcoming. I therefore highly recommend this salon to all pet owners who have beloved dogs and cats\nMy Baby very happy\nThank you",
+   "owner_reply": null
+  },
+  {
+   "author": "Eng M",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had such an amazing experience at this pet clinic! Every single staff member was incredibly friendly, welcoming, and caring from the moment we walked in. You can truly feel how much they love animals and care about their clients. Their professionalism, patience, and attention to detail made me feel completely comfortable and confident that my pet was in the best hands💕💕💕💕\n\nA special thank you to the owner for her kindness, honesty, and the very reasonable prices. It’s rare to find a place that combines such high-quality care with such warmth and generosity. Highly recommended to anyone looking for a trustworthy and compassionate pet clinic!❤️❤️❤️❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Richard Rodriguez",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Satisfied thanks Madam and the boys from Forever grooming good job",
+   "owner_reply": null
+  },
+  {
+   "author": "Nouman Khan",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Good and clean clinic and Dr nesrin is very friendly and experienced one.  And the pet store  is affordable price . I strongly recommended  forever pet care .",
+   "owner_reply": null
+  },
+  {
+   "author": "johni varghese",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Really Good Service! They took excellent care of my cat during its vaccination and nail trimming. Very gentle, patient and professional.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ashish Varghese",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Ms. Sajda and Mr. Noufal has good knowledge and experience about pets and their foods, I’ll highly recommend this clinic.. ❤️ the price is also reasonable! The best clinic you’ll ever visit..",
+   "owner_reply": null
+  },
+  {
+   "author": "Ramees Ibrahim",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Good service and the staff and Dr  is very soft handling . My pet is very happy and fresh . I recommend my friends . Thank you  forever  team",
+   "owner_reply": null
+  },
+  {
+   "author": "Iffah Mariam",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "It was a wonderful experience. The cat grooming was very well done. The service was great overall. Thank you forever pet care 💗.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Shareef",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I recently took my furry friend to forever  Salon, and I can’t say enough good things about it! From the moment we walked in, the atmosphere was warm and welcoming. The staff greeted us with big smiles and lots of affection for my cat, which immediately put me at ease.\n\nThe grooming area was clean, organized, and smelled delightful—not at all like a typical pet salon. I appreciated that they had a variety of grooming packages tailored to different breeds and needs. They took the time to explain everything, ensuring I was comfortable with what they would be doing.\n\nThe groomer truly showed a passion for pets! They listened attentively to my requests and handled my dog with such care and love. It was evident my pup was in good hands. After the grooming, my cat looked absolutely stunning—fluffy, shiny, and oh-so-happy!\n\nMoreover, they offer additional services like nail trimming, baths, and even pet massages, which is a fantastic bonus. The prices were reasonable for the quality of service provided.\n\nOverall, I highly recommend forever pet Salon to any pet owner looking for a great grooming experience. My pet came out happy and pampered, and I couldn’t be more thrilled with the results! I’ll definitely be returning for regular visits. 🐾💕",
+   "owner_reply": null
+  },
+  {
+   "author": "hanna mathew",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Forever Pet Care has been the best veterinary clinic in Sharjah. The owner, doctors, and staff are all incredibly kind and supportive. They’ve been there for us since the very first day we got our puppy, which really means a lot.\n\nThey also have a pet accessory store right next to the clinic, so it’s super convenient to get everything you need in one place. Plus, they offer boarding services as well, which is a big help.\n\nAs a pet parent, I’m truly happy and satisfied with their services, and I’ll definitely keep going back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Saad",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "My cat was so chill while they were giving him bath had a very great experience",
+   "owner_reply": null
+  },
+  {
+   "author": "Khadheeja Azad",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Highly recommend this place and I would recommend especially asking for the guy who did the shower for my cat, unfortunately don’t have his name but hopefully the picture helps.\n\nLittle back story, we adopted her at 4 years old from the shelter and she had a fear of any hair dryer, she cannot be in the same room. However we had to get her a medicated bath to treat her ringworm.\n\nI’m glad we were recommended forever pet care and especially got assigned the groomer who did the shower for our cat. He was very gentle with her, took it slow and didn’t rush the process knowing she has a fear of hairdryers. We usually give her showers at home but if we ever needed to take her to the groomers this is where we’ll be going.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nandini Fillo",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "ما شاء الله, very happy with the service. People working here r very patient and friendly. Keep up guys 👍🏼👍🏼👍🏼",
+   "owner_reply": null
+  },
+  {
+   "author": "Malvena Taraben",
+   "rating": 4,
+   "when": "4 months ago",
+   "text": "Thank you for your service and for the amazing results",
+   "owner_reply": null
+  },
+  {
+   "author": "Amina Mehmood",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Very nice service I trust them with my pet they handle my cat like a pro good treatment e",
+   "owner_reply": null
+  },
+  {
+   "author": "Aisha Nurmyrzaeva",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "vet is clean and comfortable very professional staff I recommend you coming here!",
+   "owner_reply": null
+  },
+  {
+   "author": "Info Media",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Thank you, Forever Pet Care. The owner personally followed up with me and was very respectful and professional. I appreciate the excellent customer service and support. Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aruni Wijenanda",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Thank you for the good service given to my kitten. Very kind and friendly staff and clean environment. 💕❤️👌",
+   "owner_reply": null
+  },
+  {
+   "author": "Khadija Filali Hafidi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "My two cats got fully groomed here for the first time and it will definitely not be the last. Best service we’ve ever received and super affordable x Thank you!",
+   "owner_reply": null
+  },
+  {
+   "author": "IRFAN QURESHI SURANI",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Very good place and my cat is very comfortable  this place ,staff and doctors  are professional, neat and nice place I recommend  this place my friends. Thank you forever  team.",
+   "owner_reply": null
+  },
+  {
+   "author": "Yazeed Fahmy",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The cats were handled perfectly and they did a really good job grooming them. Very professional and caring service.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1320,
+    757
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    768,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    380,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    410,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    431,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    456,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    512,
+    397
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/forever-pet-care/",
+ "buy_likelihood": 8
+}

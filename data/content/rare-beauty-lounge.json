@@ -1,0 +1,35 @@
+{
+ "preset": "ink-paper",
+ "theme": {"bg": "#F4EFE9", "surface_2": "#E9E1D7", "accent": "#B0465F", "accent_text": "#93354C", "on_accent": "#FFFFFF", "duo": "#E7CCD2", "busy": "#B0465F", "band_bg": "#2A1F1C", "band_accent": "#F0B9C6", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "rare", "sub": "Beauty Lounge · Ajman", "mark": "r", "footer_word": "rare"},
+ "seo": {"title": "Rare Beauty Lounge Ajman | Korean Head Spa, Hair Colour & Nails", "description": "Rare Beauty Lounge on Al Ittihad Street, Safia, Ajman: a luxury ladies' salon for Korean head spa, hair colour, French nails, gel manicures and treatments. Open daily 11 AM to 10 PM. 4.7 from 421 reviews."},
+ "hero": {"variant": "collage", "kicker": "Al Ittihad Street · Safia · Ajman", "title_lines": ["Be rare.", "Be beautiful."],
+   "lede": "A calm, sculpted ladies' lounge for Korean head spa, colour, cuts, French tips and gel manicures, with a welcome drink on arrival. Open every day from 11 AM to 10 PM.",
+   "image": "img/hero.jpg", "image_alt": "Cream boucle chairs and arched mirrors at Rare Beauty Lounge", "collage": ["img/tree.jpg", "img/nails.jpg"], "secondary": {"label": "Treatments", "href": "#treatments"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Rare Beauty Lounge, I'd like to book.",
+ "proof_note": "421 reviews",
+ "address_lines": ["Rare Beauty Lounge, Al Ittihad Street", "Safia, Ajman"],
+ "socials": {"instagram": "rare_lounge"},
+ "sections": [
+  {"type": "services", "id": "treatments", "nav": "Treatments", "eyebrow": "Treatments", "title": "Slow, soft,", "title_dim": "and properly done.",
+   "items": [
+    {"name": "Korean head spa", "feature": true, "img": "img/headspa.jpg", "alt": "Head spa bed with steam", "desc": "Scalp cleanse, massage and steam: the treatment everyone's posting about.", "quote": "I tried the Korean Spa, pedicure, and manicure, and everything was absolutely amazing.", "cite": "Mansoura A."},
+    {"name": "Hair colour & cuts", "img": "img/floor.jpg", "alt": "Styling chairs in the lounge", "desc": "Colour by specialists, precise cuts and treatments."},
+    {"name": "French tips & gel", "img": "img/pedi.jpg", "alt": "Cream pedicure chairs", "desc": "Gel manicures, French nails and pedicures."},
+    {"name": "Treatments", "img": "img/arches.jpg", "alt": "Arched treatment area", "desc": "Hair treatments that leave hair soft and glossy."}
+   ],
+   "perks": ["Open daily 11 AM – 10 PM", "Ladies only", "Welcome drinks"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan your visit", "title": "Come when", "title_dim": "it's calm."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Cherry, Mhai,", "title_dim": "Mariana and Hakema.",
+   "items": [
+    {"name": "Cherry", "count": 11, "role": "Beauty specialist", "quote": "Huge thanks to the lovely ladies, Cherry and Mariana, for making it so special.", "cite": "Bayan A."},
+    {"name": "Mhai", "count": 4, "role": "Colour expert", "quote": "Mhai knows what she is doing and is a color expert.", "cite": "Shams B."},
+    {"name": "Mariana", "role": "Nails"}, {"name": "Hakema", "role": "Hair", "quote": "She did an amazing job cutting my hair, exactly how I wanted it.", "cite": "Google reviewer"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/sign.jpg", "alt": "rare logo on a plaster wall"}, {"src": "img/entrance.jpg", "alt": "Entrance with a pink bow"}, {"src": "img/deco.jpg", "alt": "Seasonal decor"}, {"src": "img/drink.jpg", "alt": "Welcome drink"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Prices", "title": "Ask for the menu.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is the Korean head spa?", "Price for French gel manicure?", "Do you have a slot today?", "How much is hair colour for long hair?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Ittihad Street,", "title_dim": "Safia, Ajman."}
+ ]
+}

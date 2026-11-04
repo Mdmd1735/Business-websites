@@ -1,0 +1,2213 @@
+{
+ "slug": "alica-bakery-eatery",
+ "name": "ALICA Bakery / Eatery",
+ "place_id": "ChIJB36KXABDXz4R1G-1e9L98jY",
+ "category": "bakery",
+ "category_weight": 9,
+ "area": "Jumeirah, Dubai",
+ "address": "La Cote 2 - 2A PDLM Street - Jumeirah 1 - Jumeirah - Dubai - United Arab Emirates",
+ "building": "Port de La Mer by Meraas",
+ "location": {
+  "lat": 25.2399376,
+  "lng": 55.2527348
+ },
+ "phone": "+971 4 337 8948",
+ "rating": 4.5,
+ "userRatingCount": 959,
+ "rating_distribution": {
+  "oneStar": 73,
+  "twoStar": 25,
+  "threeStar": 40,
+  "fourStar": 76,
+  "fiveStar": 745
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=ALICA%20Bakery%20%2F%20Eatery&query_place_id=ChIJB36KXABDXz4R1G-1e9L98jY",
+ "website": "",
+ "categories": [
+  "Bakery",
+  "Cafe"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 7 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 7 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 7 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 7 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "8 AM to 8 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "8 AM to 8 PM"
+  }
+ ],
+ "owner_description": "Bakery / Eatery\nCooking and baking using local, seasonal and organic produce",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Quick visit": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "cinnamon bun",
+  "matcha",
+  "marina view",
+  "cardamom bun",
+  "sourdough bread",
+  "sea view",
+  "lemon cake",
+  "Folded Eggs",
+  "outdoor seating",
+  "view of yachts"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.1,
+ "reviews": [
+  {
+   "author": "Moza Almheiri",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "One of those restaurants you’ll keep coming back to. The menu is incredibly diverse. Every dish is full of flavor and beautifully executed. Huge compliments to the chef for the creativity, passion, and outstanding food. Truly an amazing dining experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "BITES & FLIGHTS WITH SANA",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had such a lovely breakfast experience at ALICA Bakery / Eatery ✨🤍\n\nThe breakfast was absolutely delicious and beautifully presented, but what made the experience even better were the stunning waterfront views and peaceful atmosphere. Such a perfect spot for a slow morning in Dubai.\n\nLoved the pastries, coffee, and overall vibe of the place everything felt fresh, cozy, and thoughtfully done. Definitely one of those cafés you’ll want to keep coming back to for breakfast dates or relaxed mornings by the marina ☕️🥐",
+   "owner_reply": null
+  },
+  {
+   "author": "firework thewanderer",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "Visiting this place for the first time and woww definitely we're coming back. their pastry and sourdough are on the spot. Thank you Ron for his hospitality throughout our visit. The dishes that he recommended are delicious and well-balanced for the taste. Also love the vibes here and btw their ice Mocha is my favorite here🤍✨",
+   "owner_reply": null
+  },
+  {
+   "author": "SMR",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Was pleasantly surprised by Alica Bakery. The atmosphere is warm and inviting, with a vibe that immediately makes you want to stay a little longer. The display of freshly baked goods is not only beautiful but genuinely tempting, and everything looks as good as it tastes.\n\nWe tried the carrot, banana and coconut cake, which was spot on in both flavor and texture, perfectly balanced, moist and not overly sweet. The drinks were just as impressive and complemented the experience really well.\n\nA lovely added touch is the small retail corner, thoughtfully curated with baking tools, charming salt and pepper shakers, olive oil and artisanal soaps. It gives the place a unique personality beyond just a bakery.\n\nDefinitely a spot worth returning to, and I am already looking forward to trying more from their menu.",
+   "owner_reply": "Thank you for appreciating the details 💚"
+  },
+  {
+   "author": "Jaber M.",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Alica Bakery & Eatery is a hidden gem tucked between the residential buildings of Port de La Mer on the coast of Jumeirah 1. It sits right at the base of the buildings overlooking a beautiful marina full of huge yachts, with nice views of the Jumeirah coast, including Dar Al Ittihad and the UAE flag. You really feel like you are on a coastal vacation when you are there. There is a good outdoor area that must be perfect in winter and a pleasant indoor space too.\n\nParking is a huge challenge though. There are very limited spots for visitors and they are often blocked by residents' cars and some commercial vehicles. Finding parking there feels like a literal nightmare.\n\nThe service was very friendly. As the name suggests, this is mainly a bakery and that is where it really shines. The pastries are amazing. Even the basic slice of bread served on the side is extraordinarily delicious. We came for breakfast and we highly recommend visiting for breakfast, but we also look forward to trying their lunch menu next time.\n\nThe folded eggs were very good. The chili oil gave that extra kick you need, and the side salad was basic but really fresh with crunchy greens and a simple but tasty dressing. The sourdough slices on the side were excellent, with a crunchy crust and a very soft center. We could easily come back just for the bread. The coffee was good too and smelled really pleasant.\n\nWe also tried the Alica Tartine, flat white, latte, cinnamon bun, and lemon cake. The choice of dishes and cutlery was tasteful and playful, with different styles, designs, patterns, and colors.\n\nOverall, it is a really amazing place with that relaxed bakery vibe and great quality food. Definitely worth a visit if you are in the area.",
+   "owner_reply": null
+  },
+  {
+   "author": "INDIRA RUIZ",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "The food was absolutely delicious. The quality of the ingredients was outstanding and everything we ordered was full of flavor.\n\nThe only small downside is that the tables are a bit small, but honestly that’s easy to overlook when the food is this good.\n\nOverall, an excellent experience and I would definitely come back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Salama Alshehhi",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "We really loved this place  so cozy and comfortable, with every detail thoughtfully done. We ordered the ALICA Tartine, The Morning Tray, and the Cardamom Bun. Everything was delicious and fresh, and the coffee was excellent too. Definitely coming back 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Fork & Flight",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had such a lovely breakfast at ALICA 🤍\n\nEverything was genuinely so good — especially the chili folded eggs (not spicy at all), the grilled cheese, and the cinnamon roll. The coffee was great, and I loved that the ginger shot comes hot or cold depending on your preference.\n\nThe whole place has such a calm, clean aesthetic with beautiful pastries and interiors. Special thank you to our waiter Ron for the great service and warm attitude. Will definitely be back ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Elvira",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "🩷🩷🩷🩷 ALICA Bakery / Eatery is one of the loveliest breakfast spots by the water 🌊🤍\n\nThe view is beautiful! Full of light, calm, and space, with a relaxed atmosphere that instantly makes you slow down and enjoy the moment.\n\nThe Morning Tray is light and thoughtfully put together: creamy hummus, a soft-boiled egg, labneh with pistachio and zaatar, avocado with sumac, pickles, and fresh sourdough. Everything feels balanced and fresh.\nThe latte is smooth and aromatic, a perfect match for breakfast ☕️\n\nA place you’ll want to come back to ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "li4li4li4li",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "}\nSave this if you love cozy spots by the sea 🤍\n\nRight now I’m at one of my favorite places near home — ALICA in Port de La Mer.\nI live nearby, so I come here a lot… and honestly, I enjoy it every single time.\n\nIt’s calm, beautiful, and just feels right.\nYou can sit outside under the umbrellas or inside with a view of the marina and yachts.\n\nThe music is always nice, the vibe is relaxed, and somehow — even when it’s busy — there’s always a table.\n\nThe pastries are so good — croissants, bread, khachapuri 🤍\nBreakfasts are amazing, but it’s also perfect for a casual lunch.\n\nThey also have an open kitchen behind glass, so you can actually watch the process — which makes the whole experience feel even more special.\n\nThe team is great, service is really good.\nThere’s parking, and you can pay by QR — super easy.\n\nIt’s one of those places you come to slow down…\nand then take a walk along the marina after . I love ALICA ❤️Thank you 🙏🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "RN Nañoz",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "The food presentation was nice and tasted good. I also had the matcha and really liked it.\n\nThe waiters and staff were very accommodating.\n\nThe location feels very calming, a quiet oasis in the middle of Dubai. It’s such a relaxing space to just slow down and unwind.\n\nI would definitely come back whenever I’m looking for a peaceful spot. 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Snacking in Saudi",
+   "rating": 3,
+   "when": "6 months ago",
+   "text": "Great place for simple yet high quality breakfasts with a small, focused menu. My pain au chocolat tasted great but could have done without the cross lamination which gave it a much harder, more rigid, and less flaky texture. The folded eggs were alright—light and easy on the palate but not something I’d order again. I’d stop by for a cardamom bun if I was in the area but I wouldn’t go out of my way for it.",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdulaziz Albastaki",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "Had a delightful breakfast at Alicia. My latte was incredible and so were my folded eggs. The salad dressing (I couldn’t figure out what it was) was interesting too. We ended our meal with the lemon cake and the cinnamon roll, both were OK but wouldn’t really crave them in the future.\n\nAlso, if you’re not a resident around Port de La Mer, finding a place to park here is going to be a very tough task.",
+   "owner_reply": null
+  },
+  {
+   "author": "Saiid",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had an amazing breakfast at Alica bakery / eatery ! Everything was fresh, beautifully presented, and full of flavor. The scrambled eggs were perfectly creamy, the hummus and labneh were delicious, and the avocado was perfectly ripe. The coffee was rich and expertly made. The atmosphere was warm and relaxing, and the staff were friendly and attentive. A perfect place to start the day—I highly recommend it and will definitely be coming back",
+   "owner_reply": null
+  },
+  {
+   "author": "Lolliii",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Alica is set in one of the most beautiful locations, with truly amazing views that immediately set the tone for a relaxing visit. The interiors are gorgeous and thoughtfully designed, and the surroundings create a calm, peaceful atmosphere. It is quiet, not noisy at all, and you genuinely feel at ease while spending time here.\n\nI connected with Ron as soon as I arrived, and he welcomed me in warmly and made sure I was happy with where I was seated. His service throughout the visit was excellent. He took the time to answer my questions about the menu, was very helpful, and checked in to make sure everything was okay.\n\nThe food and drink selection is excellent, with a really nice variety on the menu, including great bakery items and fantastic coffee. I had the folded eggs along with a coffee and a smoothie, and everything was incredibly fresh and tasty.\n\nOverall, Alica is a wonderful place to relax, enjoy great food and coffee, and take in beautiful views. It has a peaceful, unhurried atmosphere, and the service truly makes you feel looked after. I would happily return.",
+   "owner_reply": "Thank you Loli for taking the time to write this 💚"
+  },
+  {
+   "author": "Elika Tasker",
+   "rating": 4,
+   "when": "2 weeks ago",
+   "text": "Lovely little cafe we stopped at after a long bike ride. Their home made bread and bakes are excellent standard with gluten free bread available. We enjoyed their ice ginger shots.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alexandra Cristel Perez",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "10/10 a whole vibe. Food was great and good actually for sharing, the price is worth it! Especially the honeycomb matcha ~ must try! The staff were really sweet & nice especially Bryan & Lucy🤍 Too bad i can't take the cute plates home...",
+   "owner_reply": null
+  },
+  {
+   "author": "Samora Al amora",
+   "rating": 3,
+   "when": "6 months ago",
+   "text": "The place is in a very nice location and view. I took cappuccino which was good but small quantity and the dessert was ok. They need to add pictures to the menu and let the staff know more about the offerings to help customers choose. I would go again to try other things I think next time I will enjoy the food more",
+   "owner_reply": null
+  },
+  {
+   "author": "Fatmah alqartoobi",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Everything about this bakery was greattttt, the food was tasty. We ordered multiple things and all turned to be delicious!!!\nAlso the matcha and coffee was tasty\nHighly recommended :).",
+   "owner_reply": null
+  },
+  {
+   "author": "Anastasiia B.",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Cute cafe - perfect for breakfast / brunch, with both indoor and outdoor seating options. Has good menu selection, however the cinnamon roll was a bit too stiff - rest of the food we took was tasty. Note it can take some time to get the table / to receive food.",
+   "owner_reply": null
+  },
+  {
+   "author": "HIND ALKETBI",
+   "rating": 4,
+   "when": "4 months ago",
+   "text": "The food was delicious, and you can really taste the quality of the fresh ingredients. The café has a nice atmosphere, and the overall experience was enjoyable. The only downside is the parking—there is no dedicated parking for customers, so finding a spot can be challenging and may require a short walk. Overall, a great place that I would happily visit again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alanoud Bin Darwish",
+   "rating": 4,
+   "when": "7 months ago",
+   "text": "The food is clean and tasty, pstries are great and fresh, i always buy sourdough loaf.\n\nThe only thing need to be enhanced is the coffee, take it to next level like other speciality cafes. The taste is good but i can give 5/10 compared to other cafes\n\nPrices are quite good and staff need some extensive training to handle more customers coming in same time and manage them\n\nPerfect and good luck\n\nA olace that i would come and visit so often and highly recommended 👍🏼",
+   "owner_reply": null
+  },
+  {
+   "author": "Sana Abdulaziz",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Had late breakfast on a Sunday! Amazing experience. From the food, the service the warm welcome and overall experience, everything was super. Special thanks to Darren! All the best",
+   "owner_reply": null
+  },
+  {
+   "author": "Ayesha M",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I recently enjoyed a delightful brunch at ALICA Bakery / Eatery, and I can't praise our waiter Ron enough for the exceptional service he provided. From the moment we sat down, Ron was extremely helpful and attentive, ensuring our experience was nothing short of fantastic.\n\nHe greeted us with a friendly smile and took the time to go over the brunch menu, offering recommendations that truly enhanced our meal. Ron was knowledgeable about the different dishes and pastries, which made it easy for us to choose. He was also attentive without being intrusive, checking in on us at just the right moments to see if we needed anything.\n\nOverall, Ron's helpful nature and genuine warmth made our brunch at ALICA Bakery / Eatery a memorable occasion. If you’re planning to visit, I highly recommend asking for Ron—his excellent service will undoubtedly enhance your dining experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Khaled M",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "A wonderful spot with a cozy atmosphere, offering a lovely beach view . The food is fantastic, you would wish you can order everything twice. Truly kudos to the chiefs and to Roy for the food and wonderful service. Don't miss the toasted brioche with bacon, the pasta, and the cinnamon bun—absolutely worth trying!",
+   "owner_reply": null
+  },
+  {
+   "author": "Nour Absi",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "This is without doubt on top of my fav eateries 🩷 the food was top notch. Although the place was very crowded, they were speedy and managed to provide a good service. Will come back for sure and especially in winter.",
+   "owner_reply": null
+  },
+  {
+   "author": "Daria Starkova",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had such a lovely time at ALICA! Terry was our waitress and she was absolutely amazing — so warm, attentive, and gave us the best recommendations from the menu. Everything she suggested was spot on. The coffee and food were fantastic, and the whole atmosphere by the water made it even better. Definitely coming back — highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Lisa Santamera",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Loved our experience here - the folded eggs were amazing and we loved the chilli dressing so much that we bought 2 jars for home. All the food was really tasty. Lovely and friendly, attentive team, too. Definitely recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Margueritta Hajji",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Alica in Jumeirah 1 is the ultimate brunch spot. Cozy, luminous, and vibrant, it instantly makes you forget you’re in Dubai.\n\nThe food is a full feast for the eyes and appetite. Folded eggs with chili crunch oil are a must, and the morning tray—hummus, labneh, pickles, and perfectly baked sourdough—is a dream. The Caesar salad is juicy and crowned with a tower of parmesan. Steak frites hits all the right notes, but my favorite was the grilled cheese toasty, perfectly crisp and oozing with caramelized onions. With a daily-changing menu, every visit brings a little surprise.\n\nDessert? We had pain au chocolat and lemon cake, simple, nostalgic, and so good.\n\nAlica is the perfect girl spot for washing away Sunday blues—cozy chats, great food, and that feel-good energy you can’t stop thinking about.\n\nFollow @sipsandtripswithmaggie on Instagram for more Dubai brunch gems. 🥐",
+   "owner_reply": "Thank you Margueritta 💚"
+  },
+  {
+   "author": "Gerardine Alcala",
+   "rating": 4,
+   "when": "3 months ago",
+   "text": "Nice coffee, views, and interior. I got the salted honey latte and it was delectable. Coffee was strong but not overpowering, while the sweetness of the honey complemented the overall drink.\n\nI'd love to come back and try their salted honeycomb matcha latte which was highly recommended by a friend.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    540,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1203
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    388,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    400,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    376,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    415,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-131.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-132.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-133.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-134.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-135.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-136.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-137.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-138.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-139.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-140.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-141.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-142.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-143.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-144.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-145.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-146.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-147.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-148.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-149.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-150.jpg",
+   "source": "review",
+   "size": [
+    473,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-151.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-152.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-153.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-154.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-155.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-156.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-157.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-158.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-159.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-160.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-161.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-162.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-163.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-164.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-165.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/alica-bakery-eatery/",
+ "buy_likelihood": 6
+}

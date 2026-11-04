@@ -1,0 +1,2467 @@
+{
+ "slug": "the-grove-restaurant",
+ "name": "The Grove Restaurant ذا غروف",
+ "place_id": "ChIJlYowD5z59T4R-E04ZutSvVQ",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Ajman",
+ "address": "Al Ittihad St - Al Jerf 1 - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.4261074,
+  "lng": 55.4980888
+ },
+ "phone": "+971 58 831 7543",
+ "rating": 4.5,
+ "userRatingCount": 2933,
+ "rating_distribution": {
+  "oneStar": 135,
+  "twoStar": 46,
+  "threeStar": 149,
+  "fourStar": 470,
+  "fiveStar": 2133
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Grove%20Restaurant%20%D8%B0%D8%A7%20%D8%BA%D8%B1%D9%88%D9%81&query_place_id=ChIJlYowD5z59T4R-E04ZutSvVQ",
+ "website": "",
+ "categories": [
+  "Eclectic restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 1 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "8 AM to 1 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "8 AM to 1 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "8 AM to 1 AM"
+  }
+ ],
+ "owner_description": "Serving International & Levantine cuisines, The Grove Boasts magnificent views of Ajman’s Pristine mangroves and lagoons. Providing anything from refined dining experience to a comfortable and chilled vibe at affordable prices, you are guaranteed to be put at ease with luscious views of greenery wherever your eyes land. There is a play area for kids that is easily visible from the restaurant.",
+ "amenities": {
+  "Service options": [
+   {
+    "Outdoor seating": true
+   },
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   },
+   {
+    "Great dessert": true
+   },
+   {
+    "Great tea selection": true
+   },
+   {
+    "Rooftop seating": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "All you can eat": true
+   },
+   {
+    "Coffee": true
+   },
+   {
+    "Healthy options": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Private dining room": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegan options": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Cozy": true
+   },
+   {
+    "Quiet": true
+   },
+   {
+    "Trendy": true
+   },
+   {
+    "Upscale": true
+   }
+  ],
+  "Crowd": [
+   {
+    "College students": true
+   },
+   {
+    "Family-friendly": true
+   },
+   {
+    "Groups": true
+   },
+   {
+    "Tourists": true
+   }
+  ],
+  "Planning": [
+   {
+    "Brunch reservations recommended": true
+   },
+   {
+    "Lunch reservations recommended": true
+   },
+   {
+    "Dinner reservations recommended": true
+   },
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   },
+   {
+    "Good for kids birthday": true
+   },
+   {
+    "High chairs": true
+   },
+   {
+    "Kids' menu": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "shisha",
+  "mangrove view",
+  "flamingos",
+  "sunset view",
+  "outdoor seating",
+  "mixed grill",
+  "kunafa",
+  "iftar",
+  "Breathtaking view",
+  "chicken tandoori"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 30
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 29
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 26
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 35
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 43
+   }
+  ]
+ },
+ "owner_reply_rate": 0.07,
+ "reviews": [
+  {
+   "author": "Sanish",
+   "rating": 5,
+   "when": "Edited 2 months ago",
+   "text": "The Grove Restaurant in Ajman is a beautiful blend of great food, warm hospitality, and a setting that genuinely elevates the dining experience. With seating available both indoors and outdoors, it comfortably caters to 40–50 guests, making it ideal for gatherings, celebrations, or relaxed meals with family and friends. The outdoor area is the highlight — overlooking serene mangroves, offering a refreshing breeze during winters, and treating you to stunning sunsets that make the meal feel even more special.\nEvery dish feels thoughtfully prepared:\nThe biryani is aromatic and flavourful.\nThe lamb shank is tender and cooked to perfection.\nThe grill platter stands out with beautifully seasoned meat and surprisingly delicious French fries that taste different — in a good way.\nThe rice, especially, deserves a mention for its texture and standout flavours.\nThe staff are extremely polite, attentive, and genuinely helpful, adding to the comfort and overall experience. Prices lean towards the premium side, but considering the quality of food, ambience, and service, it feels justified.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jun Cargs",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "The place: Spacious, relaxing ambiance with a wonderful view of the mangroves. We caught the sunset and it was absolutely a must-see. Photo ops everywhere.\n\nThe staff: Super friendly and accommodating. Made us feel welcome from the moment we walked in.\n\nKids play area: Our daughter loved the play area. She met new friends too.\n\nWe came from Dubai and this restaurant is one of the places in Ajman that we found to be worth the visit. We planned to have a snack break only, but ended up having our dinner as well.\n\nWorth the drive: If you’re coming from Dubai, put this on your Ajman list. A real gem.\n\nWill definitely be back!\n\nThank you, Ms. Kristine .",
+   "owner_reply": null
+  },
+  {
+   "author": "The Traveller Instagram: ZaSha_DXB",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "A beautiful view from decking and inside from the large tinted floor to ceiling glass windows. The breakfast was good lots of flavor. The inside is top quality as well.",
+   "owner_reply": null
+  },
+  {
+   "author": "Howard",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "Architecturally interesting building overlooking the large mangrove area of Ajman. There are huge windows which give all diners a good view of the beautiful water and landmark for the Emirate. The outdoor area is (at midday) shaded by the overhang of the building, which is a nice touch.\nThe menu is a mix of Middle Eastern and Western (pasta, burger etc) and there's something for everyone. A good family restaurant with friendly staff.",
+   "owner_reply": null
+  },
+  {
+   "author": "Malika Minisini",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "I had visited the restaurant previously and had a good experience. After which I brought my family for dinner. The grill was brought to us not fresh, heated in the microwave. Vegetables in the dish looked like they stayed in the fridge for 1 day. Mixed grilled is expected to be served directly from the grill. Talabat delivery looks more fresh than what they brought. We requested to make a fresh one. They brought a new dish in FOUR TO five minutes. Like meat on the grill is that fast wow…. So we confirmed that it’s all heated. Another dish was also cold inside and hot outside. Not enough time in the microwave I guess. And the last drop was a live fly inside the bread found. I will pay of course but I will never come back or advise this place to anyone. Plus the staff rolling their eyes as if we asked for too much. Fresh food that’s what you come to eat! In the end they offered a complimentary dessert from the other manager and tried to make it better and made a discount,  however food must be served freshly cooked. Especially meat dishes. (Message to the higher management)",
+   "owner_reply": null
+  },
+  {
+   "author": "Sadaf Malik",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "A beautiful outdoor space paired with absolutely amazing Arabic food. Everything was fresh, flavorful, and perfectly done—such a lovely spot to relax and enjoy great food.",
+   "owner_reply": null
+  },
+  {
+   "author": "Hanin MP",
+   "rating": 4,
+   "when": "Edited 9 months ago",
+   "text": "Had a wonderful dining experience at The Grove Restaurant, Ajman. The food quality was excellent and beautifully presented. We tried the mixed grill platter, which was perfectly cooked, juicy, and full of flavor, along with a salmon dish served with rice and vegetables that was fresh, healthy, and very well balanced.\n\nThe ambience is calm and pleasant, ideal for a relaxed meal. Service was prompt and courteous, and the overall dining experience felt premium and satisfying.\n\nHighly recommended for anyone staying at the hotel or visiting Ajman and looking for great food with a comfortable atmosphere. Will definitely visit again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Einas Hamouda",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Fantastic,\n\nMagnificent ambience\n\nBeverage is excellent\n\nShisha very smooth, suggesting to bring on board the new Russian and Turkish flavours and new types of Shisha.\n\nOpen area view is beautiful, suggesting to expand it to 2nd floor as well.\n\nBit pricey but a nice a experience",
+   "owner_reply": null
+  },
+  {
+   "author": "Magomet Curov",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is Ajman! It's a really cool place for friends and any kind of get-together! The view is truly unique, with a river and lots of trees, and birds flying around! I was absolutely shocked, and the prices are lower than in Dubai.",
+   "owner_reply": null
+  },
+  {
+   "author": "Anaum Shaikh",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Amazing food, amazing servers and a lovely dining ambience - recommended to come before sunset and also try the Musakhan Rolls 🌸 Server Cristine is the best and made our birthday memorable too 🌸",
+   "owner_reply": null
+  },
+  {
+   "author": "diplomat. joudi",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Honestly the place is amazing, fadi w Carlos sara7a kano kter classy , w honestly kl el service team kano kter cute , the food is exotic w el chef is super amazing ,  w 3anjad klshi kan perfect , kan el akel kter tyb w el sweefs b 3a2do",
+   "owner_reply": null
+  },
+  {
+   "author": "Eram Shaheen",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Great coffee and a calm ambience to start the day. Breakfast options are limited but good for the price. Best in winter with outdoor seating overlooking the mangroves and shisha available. Lunch and dinner have a wider spread.\n\nIf you’re looking for a place to enjoy a slow, rejuvenating morning or to unwind later in the day, The Grove is definitely worth a visit. Sip your coffee, take in the calmness of the view, and let the atmosphere do the rest.",
+   "owner_reply": null
+  },
+  {
+   "author": "Javer",
+   "rating": 1,
+   "when": "8 months ago",
+   "text": "Truly horrible experience. We should have left in the start only. Had kids with us and it was close to Iftar time and we had booked it a day in advance which is why we stayed. But it went horrible until the end. They gave us a seating with no back cushions saying they don’t have any. Area was full of mosquitoes so we tell the waiter and he says “What can I do”. Other waiter tries to solve it but burning some powder smoke which truly smelled horrible. Mosquitoes still there. Their furniture is all chipped and uncomfortable and top of it their staff has no etiquettes. Waste of money and time. We all came back with mosquito bites leaving our food half way.",
+   "owner_reply": null
+  },
+  {
+   "author": "rony",
+   "rating": 3,
+   "when": "3 months ago",
+   "text": "Quick business lunch.\nHad some mixed grill, and tandoori chicken.\nPity no spice in the food but it was tasty. The serving team also were on point with their service. Would have loved to sit outside overlooking the mangrove but with that heat…would have melted!😆",
+   "owner_reply": null
+  },
+  {
+   "author": "Dilyora",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The Grove is honestly one of the loveliest places I’ve ever been to in the UAE. Everything about it was amazing – from the atmosphere to the service.\n\nDespite it being summer, the weather was surprisingly pleasant, so we decided to sit outdoors. And I’m so glad we did – the view is absolutely stunning and totally worth it.\n\nThe ambiance is beautiful, the food is delicious, and the prices are quite affordable for the quality you get. The staff was polite and welcoming, and the food arrived much faster than we expected.\n\nIt’s the kind of place you just want to come back to again and again. Highly recommend for anyone looking for a great dining experience with a lovely vibe!\nP.S for Italian cuisine lovers",
+   "owner_reply": null
+  },
+  {
+   "author": "Hiba Alhamedh",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "The place and the ambiance are truly amazing.\nI absolutely love the entire staff — they always make me feel welcome. I’m here almost every day!\nSpecial thanks to Saeed, Moustafa, Said, and Christine for their kindness and great service.",
+   "owner_reply": null
+  },
+  {
+   "author": "The food critic",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Had an amazing dining experience recently – breathtaking views, delicious food, and top-notch service. The restaurant, set in a beautiful location, offers a diverse menu with both classic and creative dishes. Opted for a signature dish – flavorful and beautifully presented. The staff was friendly. The cozy atmosphere, especially in the outdoor seating area, added to the charm. Exceeded expectations – a hidden gem perfect for a nice lunch. Highly recommended for a memorable dining experience.",
+   "owner_reply": "Thanks for your detailed review <br>We are glad to know you like the place and our service. <br>Please do visit us again. "
+  },
+  {
+   "author": "Bee Yosa",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "It’s such an amazing place to pause, relax, and enjoy both the vibes and the view. Perfect for a family dinner, a date, or even just a good meal by yourself. My ultimate favorite is their Dynamite Shrimp , a must-try, trust me, and their grilled meat is also one of the best. The staff and their manager are very accommodating, which makes the experience even better.\n\nJust a little note: since it’s summer, outdoor dining isn’t really an option, and there’s sometimes a bad smell from the lake. But once you’re inside the restaurant, you won’t notice it at all.\n\nHighly recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Nivine",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "Very nice views, good menu, and overall pleasant atmosphere. Service was unfortunately quite slow despite the restaurant having only one other table to attend to. During summer, it’s far too hot to sit outside, yet management created a perfectly comfortable area for shisha smokers — almost making non-smokers feel like they’re on the losing team. Special thanks to Ben for the positive attitude and warm service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmad F H",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "The Grove Restaurant offers a remarkable dining experience with its inviting atmosphere and elegant decor. The diverse menu highlights seasonal ingredients, showcasing creativity and flavor.\n\nI highly recommend the roasted beet salad as a starter—its vibrant presentation and balance of flavors set the tone for a delightful meal. For the main course, the grilled salmon was a standout; it was cooked to perfection, flaky and accompanied by a delicious sauce that enhanced its natural flavor.\n\nThe service was attentive and friendly, making the entire experience even more enjoyable. Whether you're looking for a romantic dinner or a special celebration, The Grove Restaurant is a must-visit for food lovers. Don’t miss it!",
+   "owner_reply": null
+  },
+  {
+   "author": "Linda K Babu",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "We visited today and had an awesome experience! The food was delicious, especially the mixed platter and hot chocolate, which we absolutely loved. The ambience was beautiful, and the cool breeze made the whole experience even more enjoyable. Everything felt so relaxing and pleasant. We left feeling very happy and satisfied. Highly recommended for anyone looking for great food and a wonderful atmosphere!",
+   "owner_reply": null
+  },
+  {
+   "author": "maha ahmed",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "I loved the place,the vibes and the atmosphere but the food wasn’t really that tasty and worth the prices. Will I ever visit this place again? No\n\nIf you’re a person who is love ingredients taste buds on your mouth then this isn’t the right place to go for",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Atia",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It’s a beautiful place. The staff are amazing, lovely and pleasant.\n\nThe food quantity is big, the quality is superb.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sally Bou hamdan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Friendly staff very helpful and attentive 🩵\n\nWe had passion fruit mojito and lemon mint the flavors are really good 🤌🏽 and for the pancake🥹 the portion is enough to share very fulfilling and delicious 🤤\nIf you are a Turkish coffee lover, I would highly recommend it there too, it’s decent.",
+   "owner_reply": null
+  },
+  {
+   "author": "PD",
+   "rating": 4,
+   "when": "4 months ago",
+   "text": "Good food, good service. A quiet place for having good and talks. Mediterranean cuisine and prompt services.",
+   "owner_reply": null
+  },
+  {
+   "author": "Danelle Oosthuizen",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I was honestly so impressed with the location, looking out over the mangroves,  seeing flamingos! The food was excellent. Had a latte, shish tawook (not as hard as some places make it, but still very juicy and soft) as well as Arabic ice cream with pistachio (had  similarities to Turkish ice cream ). The service was excellent. Had all my food within 5 to 10 minutes from when I ordered it. Honestly, a must have experience",
+   "owner_reply": null
+  },
+  {
+   "author": "Danish Khan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best restaurants in the city of Ajman. Absolutely delicious, reasonably priced and fairly arranged with adequate quantities of mixed grill. Cooked to perfection and we enjoyed our lunch today in the grove by the mangroves.",
+   "owner_reply": null
+  },
+  {
+   "author": "Siraj Nawab",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing breakfast experience at The Grove in Ajman! The ambiance was absolutely wonderful, with a peaceful and serene outdoor seating area right next to the water—such a stunning view. We ordered the egg shakshuka and the Mediterranean meal, and both were delicious, full of fresh flavors. The service was top-notch, with the staff being courteous and attentive throughout. Definitely a great spot for a relaxing and enjoyable meal! Highly recommend it!",
+   "owner_reply": "Thank you for sharing your wonderful experience! We’re so glad you enjoyed the peaceful ambiance, stunning waterfront views, and the delicious flavors of our egg shakshuka and Mediterranean meal. It’s always our goal to provide top-notch service, and we’re thrilled our team made your visit special. We can’t wait to welcome you back for another relaxing and enjoyable meal! 🌅🍳😊"
+  },
+  {
+   "author": "Dado Diab",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "The atmosphere is wonderful, service good food delicious ,,, we enjoyed our time ✨👍🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "آيات محمد",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very nice food and amazing staff\nSpecial thanks to the chef Mohanad and Alexa services\nOnly note the black tea brand can be better\n\nWill come again definitely",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    901
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    848,
+    480
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1599
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1408,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1013
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    576,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1112,
+    834
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    385,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    367,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    374,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    337,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    417,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    345,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    413,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    410,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    512,
+    386
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    512,
+    386
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    512,
+    386
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    512,
+    385
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-131.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-132.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-133.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-134.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-135.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-136.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-137.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-138.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-139.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-140.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-141.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-142.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-143.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-144.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-145.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-146.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-147.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-148.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-149.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-150.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-151.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-152.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-153.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-154.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-155.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-156.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-157.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-158.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-159.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-160.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-161.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-162.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-163.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-164.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-165.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-166.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-167.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-168.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-169.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-170.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-171.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-172.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-173.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-174.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/the-grove-restaurant/",
+ "buy_likelihood": 6,
+ "notes": "2,933 reviews, mangrove-view destination in Ajman; rarely replies (7%). Strong visuals.",
+ "display_name": "The Grove Restaurant"
+}

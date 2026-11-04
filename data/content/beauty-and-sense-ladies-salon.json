@@ -1,0 +1,32 @@
+{
+ "preset": "rose-blush",
+ "theme": {"bg": "#F8F4EF", "surface_2": "#ECE2D8", "accent": "#7A3B2E", "accent_text": "#6A3125", "duo": "#E4CDBF", "busy": "#A6624F", "band_bg": "#24140F", "band_accent": "#E9B79B", "display": "\"Cormorant Garamond\",Georgia,serif", "google_fonts": "family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Nunito+Sans:wght@400;600;700&family=Cairo:wght@700", "dw": "600", "frame": "round", "hero_ratio": "4/5"},
+ "brand": {"name": "Beauty & Sense", "sub": "Ladies Salon · Al Mamzar", "mark": "B", "footer_word": "Beauty & Sense"},
+ "seo": {"title": "Beauty & Sense Ladies Salon | Bridal Hair, Henna, Keratin & Nails, Al Mamzar Deira", "description": "Beauty & Sense Ladies Salon, 54 Street, Al Mamzar, Deira: bridal and event hair, henna, keratin, colour, gel nails and extensions, gold facials and home service. 4.7 from 599 reviews."},
+ "hero": {"variant": "stack", "kicker": "54 Street · Al Mamzar · Deira", "title_lines": ["Bridal hair, henna", "and everything after."],
+   "lede": "Bridal and event styling, henna, keratin and colour, gel nails and extensions and gold facials, in the salon in Al Mamzar or at home with our home service.",
+   "image": "img/hero.jpg", "image_alt": "Voluminous brown curls styled for an event", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Beauty & Sense, I'd like to book.",
+ "proof_note": "599 reviews",
+ "address_lines": ["Beauty & Sense Ladies Salon, 54 Street", "Al Mamzar, Deira, Dubai"],
+ "ticker": ["Bridal hair", "Henna", "Keratin", "Hair colour", "Gel nails", "Gold facial", "Home service"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "For brides, graduates", "title_dim": "and every day.",
+   "items": [
+    {"name": "Bridal & event hair", "feature": true, "img": "img/bridal.jpg", "alt": "Bridal hairstyle with baby's breath", "desc": "Updos, curls and flowers for weddings, graduations and Eid.", "quote": "Amal is such a professional at her hairstyling. I got keratin done and she makes the best eyebrows.", "cite": "Tia S."},
+    {"name": "Henna", "img": "img/henna-feet.jpg", "alt": "Bridal henna on feet", "desc": "Bridal and party henna."},
+    {"name": "Keratin & colour", "img": "img/red.jpg", "alt": "Rich red hair colour", "desc": "Keratin, global colour and bold shades."},
+    {"name": "Nails", "img": "img/nails.jpg", "alt": "Nude almond nails with blue tips", "desc": "Gel polish, extensions and art."},
+    {"name": "Home service", "img": "img/blue.jpg", "alt": "Blue ombre hair", "desc": "Colour, massage and styling at your home."}
+   ],
+   "perks": ["Open daily 10 AM – 10 PM", "Home service", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan ahead", "title": "Before weddings", "title_dim": "we fill up fast."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Ask for", "title": "Amal.", "title_dim": "Eleven of our last 30 reviews do.",
+   "items": [{"name": "Amal", "count": 11, "short": "her", "role": "Hair & brows", "quote": "She did a great job on my new hair color and massage.", "cite": "Karla B., home service"}, {"name": "Sobia", "role": "Keratin", "quote": "I had my keratin done by Sobia. She did an excellent job.", "cite": "Anam M."}]},
+  {"type": "gallery", "images": [{"src": "img/bride.jpg", "alt": "Bride with henna and jewellery"}, {"src": "img/henna-arm.jpg", "alt": "Floral henna on the arm"}, {"src": "img/sleek.jpg", "alt": "Sleek straight hair after keratin"}, {"src": "img/waves.jpg", "alt": "Glossy waves"}, {"src": "img/nails-red.jpg", "alt": "Deep red nails"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Prices", "title": "Getting ready for an event?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is bridal hair and makeup?", "Do you do henna at home?", "What does keratin cost?", "Can Amal come to my home?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Mamzar,", "title_dim": "Deira."}
+ ]
+}

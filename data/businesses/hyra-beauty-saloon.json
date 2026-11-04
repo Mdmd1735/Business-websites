@@ -1,0 +1,877 @@
+{
+ "slug": "hyra-beauty-saloon",
+ "name": "Hyra beauty saloon",
+ "place_id": "ChIJ6yJ8xH339T4RdrHKP-ht-74",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Ajman",
+ "address": "Hamidiya - Al Hamidiya 2 - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3966113,
+  "lng": 55.5238022
+ },
+ "phone": "+971 50 123 7793",
+ "rating": 4.9,
+ "userRatingCount": 372,
+ "rating_distribution": {
+  "oneStar": 4,
+  "twoStar": 2,
+  "threeStar": 3,
+  "fourStar": 4,
+  "fiveStar": 359
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Hyra%20beauty%20saloon&query_place_id=ChIJ6yJ8xH339T4RdrHKP-ht-74",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9:30 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9:30 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9:30 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9:30 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9:30 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9:30 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9:30 AM to 10 PM"
+  }
+ ],
+ "owner_description": "We make you unique",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "eyebrows",
+  "face wax",
+  "waxing",
+  "hot oil massage",
+  "eyebrows cut",
+  "hydra facial",
+  "kind staff",
+  "body massage",
+  "comfortable atmosphere",
+  "clean saloon"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.27,
+ "reviews": [
+  {
+   "author": "Roshni Vishnu",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "> Absolutely loved my experience here! I did a full pamper session - Hair Spa, Haircut, Pedicure, Waxing & Eyebrow Threading. Everything was done so professionally and hygienically. Staff is very polite and skilled, especially with the hair spa,haircut and pedicure. And the best part - it's super affordable for the quality they give!Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sruthi Appu",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Hands down the best hair treatment experience! The team made me feel comfortable,Especially Shivani.explained the whole process, and delivered amazing results.Thank you for the fantastic service",
+   "owner_reply": "Thank you so much for your wonderful support! ❤️ We truly appreciate you taking the time to share your experience and for choosing us. Your trust means a lot to our entire team, and we look forward to welcoming you back again soon! ✨"
+  },
+  {
+   "author": "Good vibes",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I had a wonderful experience at the salon! Got a layered haircut, face cleanup, full face wax, and eyebrows done. The staff were friendly, professional, and made me feel comfortable throughout. The services were top-notch, and I’m really happy with the results. Highly recommend salon in Ajman.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nirasha Fernando",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I just want to yesterday evening i did my hair straight my hair is long but they Nancy and Teena did it very nicely and friendly Thanq somuch again and again vell done ladies i will come back see you soon 🫰❤️❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "bayan abdulaziz",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Today I visited Hyra Salon with my mom, and it was a really pleasant experience from start to finish. The owner welcomed us warmly, and the entire team was kind, friendly, and easy to feel comfortable around. We went in to get our hair done, and honestly, we were very happy with the results. Both of our hairstyles turned out beautifully better than we expected. What stood out to me the most was how well the styling lasted throughout the day without losing its shape.\nI also had my eyebrows done there, and I was really pleased with how they turned out. The team paid attention to detail and made sure everything was done properly. Overall, it was a great experience. The atmosphere was relaxed, and the staff were always smiling, which made us feel at ease. They truly deserve five stars, and I would definitely visit again.Thank you to the owner and the team for the excellent service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Tasneem Naeem",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "I am extremely disappointed with my experience at this salon. I came in for a facial, and shortly after, my entire face broke out in severe acne. It seems like either the products used were too harsh/expired, or proper hygiene wasn't followed.\n\n​",
+   "owner_reply": "We’re sorry to hear that you were unhappy with your experience. However, we would like to respectfully disagree with the suggestion that unhygienic practices or expired products were involved. We follow proper hygiene and sanitation procedures before, during, and after every facial, and all our products are branded and sourced responsibly.<br><br>Skin can sometimes react unexpectedly to facial treatments depending on an individual’s skin type, sensitivity, or existing skin concerns. While we cannot comment on the exact cause of the breakout, we take every client’s concerns seriously and always aim to provide a safe, clean, and professional experience.<br><br>We understand that every client’s experience is personal, but we would like to assure our customers that we take cleanliness, hygiene, and product quality very seriously. We stand by the standards we follow at our salon and remain committed to providing professional and safe services to all our clients."
+  },
+  {
+   "author": "Fatima Alblooshi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Many thanks i really liked the service and the prices were very reasonable. Coming soon to enjoy the rest of the services 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Eiman Al Mandoos",
+   "rating": 3,
+   "when": "3 months ago",
+   "text": "I asked for sugaring and she did waxing she said that they are the I don’t think sugar and same as wax , you need to be more specific about the service.",
+   "owner_reply": "Thank you for sharing your feedback, and we're truly sorry for your experience. We sincerely apologize for the misunderstanding regarding the service. We understand that you specifically requested sugaring, and we're sorry that our communication did not meet your expectations. Your feedback is valuable to us, and we will ensure our team communicates more clearly about our services in the future to avoid similar situations. We appreciate your feedback and hope you'll give us another opportunity to provide you with a better experience."
+  },
+  {
+   "author": "Sonia Matadar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It’s my first month in Ajman, and I really struggled to find a salon that felt right for me. I decided to try Hyra Salon, and I’m so glad I did! A huge shoutout to Nancy, who did my face wax, eyebrows, facial, and waxing—her service was absolutely incredible!\n\nShe was gentle, professional, and truly paid attention to detail. I felt so comfortable and well taken care of the entire time. It’s rare to find someone who genuinely cares about their client’s experience, but Nancy made sure everything was perfect.\n\nI’ll definitely be coming back regularly and will specifically request Nancy every time. Highly recommend Hyra Salon—especially if you’re new to the area and still searching for “your place” like I was.",
+   "owner_reply": "Thank you for your valuable feedback. Looking forward to welcoming you again😊"
+  },
+  {
+   "author": "Shifana Shereef",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful experience at Hyra Beauty Salon! I got my eyebrows shaped, face wax, full hands and legs waxing, and a haircut — all done by Nancy. She was extremely professional, gentle, and made sure I was comfortable at every step. The waxing was done smoothly and with care, and the haircut turned out exactly how I wanted. The salon is clean, welcoming, and has a relaxing ambiance. Highly recommend Nancy for her skill and friendly attitude. I’ll definitely be visiting again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mariya Kv",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It's  my first visit, really overwhelmed with their services. \"I'm absolutely loving this place! The service is top-notch, and the staff is super friendly and welcoming. The ambiance is so relaxing, and the attention to detail is impressive. Highly recommend for anyone looking for great quality and excellent customer service!\" 😊👍🫶",
+   "owner_reply": null
+  },
+  {
+   "author": "Anju Varghese",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Good saloon and friendly staff..highly recommend for quality services.",
+   "owner_reply": null
+  },
+  {
+   "author": "nandhini bala",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I had a wonderful experience yesterday at @ Hyra Beauty Saloon!\nThe staff were extremely supportive and kind throughout the service. A special thanks to Jothi and Shaba for their excellent care and attention & also mention the owner of the saloon as well.\nI would definitely love to visit again in the near future.\nKeep up the great work! 💇‍♀️✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Gurpreet Sokhi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an absolutely wonderful experience.\nThey work good quality products. My facial was just fantastic ! It was so relaxing.\nAman is lovely and is very kind. Thank you Hyra for your service !",
+   "owner_reply": null
+  },
+  {
+   "author": "Salama Ahmed",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Nice service, all the staffs are amazing",
+   "owner_reply": null
+  },
+  {
+   "author": "Nehala Mohamed Shafi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently visited them and had an amazing experience! I got threading, eyebrow tinting, a manicure and pedicure, and a hot oil treatment for my hair. The services were impeccable, and the staff went above and beyond to ensure my comfort.\n\nA big shoutout to Amal, Sara, and Nancy for their exceptional work & excellent customer service.\n\nThe ambiance of the parlor was relaxing, and the attention to hygiene and detail was commendable. I’m very happy with the results and will definitely be returning. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Muskan Thakurw",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great service, really happy with the outcome of my hair. Shivalika was very friendly, professional and did a great job with everything. Highly recommend her and this place",
+   "owner_reply": "Thank you so much"
+  },
+  {
+   "author": "safiah Y",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I enjoyed the saloon\nThe staff is very lovely and kind\nWelcoming and good mannered\nI recommend all staff\nEspecily Pretty\nShe is amazing and  lovely\nGreat treatment and services",
+   "owner_reply": "Thank you for your valuable feedback. Looking forward to welcoming you again😊"
+  },
+  {
+   "author": "Ayshajariya Nash",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Great service,  haircut and eyebrows came out exactly how I wanted.",
+   "owner_reply": null
+  },
+  {
+   "author": "Dhanya Vineeth",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I was searching for trustable beauty saloon.. I got it now after 2 year of experiencing other beautyparlours. Thats hyra beayty saloon.. You know i got a such a good service and dedicative staffs... I just did bleach and clean up only... Just that clean up result was same like facial effect.... Means guyz simple service also they are doing it sincerely. Wow... The staff was Jyothi.. She did it.. And it was amazing..  From now. O will never choose any other beautysaloons... To be honest.. Eveyone just have try and check the result.. Worth it.. This is a genuine response from my side... I loved it... Thank u hyra.. You deserve it.. ❤️❤️❤️",
+   "owner_reply": "Thank you 🫶"
+  },
+  {
+   "author": "Ancy Sabu",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Good service\nbest saloon in Ajman",
+   "owner_reply": null
+  },
+  {
+   "author": "Dilsha Madhavi Perera",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "One of the best spa experience I ever had in UAE. All the staff are very polite and friendly and Shaziya 🩷 is my favorite. I got done my manicure and pedicure and I am so exited to have facial as well. Prices are superb reasonable. I really appreciate their great customer service. Good Luck!",
+   "owner_reply": null
+  },
+  {
+   "author": "Tala Iyad",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Veryyy goodd service they are too much perfect",
+   "owner_reply": null
+  },
+  {
+   "author": "Afsana Ashraf",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Really Amazing... Wonderful experience... Nice salon... Friendly staffs... Good atmosphere... Great service... Thanks to Nancy for boosting my self esteem... Your skillful touch and exceptional talent are truly appreciated... Highly recommended...",
+   "owner_reply": null
+  },
+  {
+   "author": "Shamsa Waleed",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very nice salon and good stuff🩷🩷🩷",
+   "owner_reply": null
+  },
+  {
+   "author": "anju reji",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I have been getting their services here once a month since this saloon opened. Their service is great, the atmosphere is very warm and welcoming. Great Vibe and friendly, helpful staffs. Highly recommended😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarah Alshehhi",
+   "rating": 5,
+   "when": "Edited a month ago",
+   "text": "Jyoti vey excellent girl will all service bluedray and cutting hair  and massage , also ashly nice one with eyebrows you must try this salone\nI love service of Sarah for cutting and Ashly perfect service all kind and friendly\nFor me forever I like service of Nancy really really she work from her heart 🤍\nكلهم ماعليهم كلام",
+   "owner_reply": null
+  },
+  {
+   "author": "Komal Kapoor",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Nice work 💯 fully satisfied with beauty service and hair treatments ❤️ thank you staff for the best service",
+   "owner_reply": "Hi, <br>Thank you so much you're kind words and support.we're truly grateful you took time to leave us a review."
+  },
+  {
+   "author": "Sheba Mary Varghese",
+   "rating": 5,
+   "when": "Edited 7 months ago",
+   "text": "One of the best salon in Ajman. Had a wonderful experience. The service was excellent and they have a beautiful ambiance. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Laila Alkaabi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Very excellent treatment. They are kind to the customer and always smiling. They are keen on his satisfaction. Their prices are very suitable. I like this salon. Good luck.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/hyra-beauty-saloon/",
+ "buy_likelihood": 7,
+ "notes": "Scouted in batch 3, not built (few photos or inactive owner)."
+}

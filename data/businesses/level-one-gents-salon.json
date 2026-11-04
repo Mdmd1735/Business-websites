@@ -1,0 +1,944 @@
+{
+ "slug": "level-one-gents-salon",
+ "name": "Level one Gents Salon , Barber shop",
+ "place_id": "ChIJCWG31ExDXz4RTi2vf2MKL9U",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Bur Dubai",
+ "address": "Oasis Tower - Sheikh Zayed Rd - Trade Center Second - DIFC - Dubai - United Arab Emirates",
+ "building": "Oasis Tower",
+ "location": {
+  "lat": 25.2113799,
+  "lng": 55.276412
+ },
+ "phone": "+971 56 700 1660",
+ "rating": 4.8,
+ "userRatingCount": 470,
+ "rating_distribution": {
+  "oneStar": 15,
+  "twoStar": 3,
+  "threeStar": 7,
+  "fourStar": 12,
+  "fiveStar": 433
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Level%20one%20Gents%20Salon%20%2C%20Barber%20shop&query_place_id=ChIJCWG31ExDXz4RTi2vf2MKL9U",
+ "website": "https://instagram.com/levelonesalondxb?utm_medium=copy_link",
+ "categories": [
+  "Barber shop",
+  "Hairdresser"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 12:30 PM, 1:10 PM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 12 AM"
+  }
+ ],
+ "owner_description": "Experience premium grooming at Dubai's top-rated barbershop. we offer expert haircuts , precision beard trims , luxury treatments , and the best friendly atmosphere. Walk in or Book your appointment today and leave looking your best .",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "beard trim",
+  "kind staff",
+  "gents salon",
+  "skin fade",
+  "knowledgeable stylist",
+  "haircuts for kids",
+  "quality haircuts",
+  "modern salon",
+  "Prime location",
+  "attention to detail"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 46
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 65
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 39
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 43
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 58
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 58
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 85
+   }
+  ]
+ },
+ "owner_reply_rate": 0.87,
+ "reviews": [
+  {
+   "author": "Deepraj Chhetri",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "I had a very bad experience at this salon. I clearly explained to the hairstylist that I wanted a clean taper fade but he didn’t listen to my instructions. He just picked up the clippers and started cutting my hair without paying attention to what I had asked for.\n\nA professional hairstylist should know what they’re doing. Hair isn’t something you can just experiment with if he wasn’t confident or wasn’t interested in doing the haircut I requested he should have been honest instead of accepting the job and giving me a completely different haircut.\n\nI’m extremely disappointed with the result. I honestly look like a giant thumb now because of how badly it was cut. This was one of the worst haircut experiences I’ve ever had.",
+   "owner_reply": "Dear Deepraj, We’re sorry to hear that you were disappointed with your haircut. We always take our clients’ feedback seriously, and we would like to clarify a few points regarding what happened during your visit.<br>When you arrived, you initially requested the sides to be shortened to approximately 12mm or 9mm. Our hairstylist started with 12mm, and during the haircut you confirmed that the length was okay. You then requested a taper fade, which our hairstylist proceeded with while following your instructions step by step.<br><br>please contact us on 0567001660 and our management will take care of you . "
+  },
+  {
+   "author": "Andrew Pieris",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Since moving to Dubai in November 2025, Level One has become my go-to salon after being introduced to Amir by a work colleague—and I genuinely wouldn't trust anyone else.\n\nEvery appointment is an experience in itself. While my haircut remains relatively unchanged, I leave feeling completely transformed. It's a testament to the exceptional level of craftsmanship, attention to detail, impeccable service, and genuine hospitality that Amir and the team consistently provide.\n\nThe atmosphere strikes the perfect balance of comfort and cleanliness- It's rare to find a salon that delivers such consistency and excellence every single time.\n\nWithout question, one of the finest salon experiences in Dubai. Highly recommended.",
+   "owner_reply": "Thank you so much Mr.Andrew for your kind words and support,We're honored to be your go-to salon, and we look forward to welcoming you back for many more great experiences."
+  },
+  {
+   "author": "Parasca Eduard",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "You will find Ali most of the time night shift, when evryone rembers they need a haircut during the last hour of closing 😅 same like me, busy Dubai life, what to do\n\nBut definitely one of the best places in town. All the guys have a great attitude, they are fast and always doing an Amazing work\n\nSo level one its not just your corner street barber shop, becouse ofe them its really top.\n\nGood job guy, hopefully they all get the same level of care they deserve 🙏✨️",
+   "owner_reply": "Thank you Mr.Parasca for your kind review. We truly appreciate your feedback and are glad to hear you enjoyed our service, Your support means a lot to us, and we look forward to welcoming you again."
+  },
+  {
+   "author": "Iyad Khoudeir",
+   "rating": 5,
+   "when": "Edited a week ago",
+   "text": "Highly skilled and professional team. Super clean and hygiene measures are implemented. Very affordable price for high quality service. My only barber in Dubai for years. Highly recommended.",
+   "owner_reply": "Thank you Mr.Lyad for your loyalty over the years, We are thrilled to be your top choice in Dubai. It’s always a pleasure to provide you with top service. See you at your next visit :)"
+  },
+  {
+   "author": "Gerard Whitty",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Sunday morning walk-in for a quick beard trim and clean-up. Well served by Hamza. Quick, clean, efficient service and at a very reasonable price.  Will be back again.",
+   "owner_reply": "Thank you Mr.Gerard for the great review, We’re glad Hamza took good care of you .Looking forward to seeing you again soon :)"
+  },
+  {
+   "author": "Adrian Brady",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great cut by Ali. Quick, clean, efficient service and at a very reasonable price.  Second time in the Salon.Will be back again!",
+   "owner_reply": "Thank you Mr.Adrian for your kind words ,we<br>hope to see you again soon."
+  },
+  {
+   "author": "James Andrew",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Abd is excellent, great service. My go-to barber in Dubai. Highly recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Владимир Перерва",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Really great experience.\nI came in for a haircut and shave and honestly loved the result. Everything was done perfectly and the atmosphere was very comfortable.\nBig thanks to Ali, my barber — he did an amazing job. I’m very happy with how everything turned out and I’ll definitely come back again.",
+   "owner_reply": "Thank you for your feedback. We’re glad you enjoyed your experience, and Ali will be happy to hear your kind words. We look forward to seeing you again soon."
+  },
+  {
+   "author": "Jonatan Alvarez",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "First time at this place, and Ali was great and he cut my hair perfectly. I will come back again. Thanks !",
+   "owner_reply": "Thank you, Mr.jonatan We’re glad you enjoyed our services. We look forward to seeing you again"
+  },
+  {
+   "author": "朱坦",
+   "rating": 5,
+   "when": "Edited 2 months ago",
+   "text": "Good service! Good skills and good price! If you come here remember to let Abd do your haircut",
+   "owner_reply": "Thank you for your kind words We’re glad you had a great experience with Abd"
+  },
+  {
+   "author": "Alexis Kasparis",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Amir has been my hairdresser and stylist for over 10 years now. I can honestly say the guy is a magician, I've lived in London and Cardiff for a few years in between but no one matches his skill!\nBesides being an excellent barber he also consults me on what haircuts match my face shape, what products to use etc.\nHis staff are also excellent barbers and well trained on the latest trends, the salon is easily accessible from anywhere in Dubai and you can even use the Metro which stops right in front of the salon (difc metro station)\nThank you Amir and the team for another excellent experience!",
+   "owner_reply": "Thank you Mr.Alexis for your lovely review and we<br>hope to see you again soon."
+  },
+  {
+   "author": "Abhishekh Rai",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Great place. Good atmosphere. Very professional people as well. Prefer getting an appointment.",
+   "owner_reply": "Thank you, Mr.Rai We’re glad you enjoyed our services and our team. We look forward to seeing you again"
+  },
+  {
+   "author": "Murilo Sanches",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "I had been he’s customer for over 5 years . I can’t explain how professional and amazing is he’s service, every time  I leave the place I leave super happy for a great customer service and good service . All the time I recommend Amir for friend and family , because I know they will fell the same way as I do , he’s new place is on amazing location , clean ,modern  and amazing . Look forward to come more and more . Thanks Amir happy for your new place and happy to have you as my hairdresser .",
+   "owner_reply": null
+  },
+  {
+   "author": "Nia K",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "the best salon in dubai . nice cuts and friendly guys\nps youssef",
+   "owner_reply": "Thank you Mr.Nia for your review and we<br>hope to see you again soon."
+  },
+  {
+   "author": "Rebeca Cedeño",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "All the staff is super friendly, they do their job really well. My son is autistic and has been always treated amazing and they understand his sensory issues. Thanks to all of them now my kid goes to the barber shop without any problem. Thank you",
+   "owner_reply": "Thank you for your kind words , We're truly happy to hear that your son feels comfortable with us. It means a lot to know that our team’s care and understanding make a difference. We look forward to welcoming you again soon"
+  },
+  {
+   "author": "Nicky Dobreanu",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best place for men grooming. Perfect location for those in DIFC. Welcoming staff, very elegant adn clean",
+   "owner_reply": "Thank you so much Mr.Nicky for the wonderful review, providing the best grooming experience is always our goal. See you again soon."
+  },
+  {
+   "author": "Tony Peretti",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had a great experience at Level one in Dubai! Ali did a fantastic job with my haircut, and the entire team was incredibly friendly and welcoming. They even offered me delicious Syrian sweets on a Sunday morning, which made the visit even more special. Highly recommend this place for top-notch service and a warm, hospitable atmosphere. Thank you, Ali and team!",
+   "owner_reply": "Thank you Mr.Tony for your lovely review and we<br>hope to see you again soon."
+  },
+  {
+   "author": "John Oliver Estillore",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Abed (Ahmed? I was too shh to ask him to repeat his name)  was really pleasant. He has light hands while doing my haircut. Level One is the best gents salon in my area. Highly recommended.",
+   "owner_reply": "Dear John Thank you so much for your kind words We’re glad you enjoyed your haircut with \"Abed\". Looking forward to seeing you again."
+  },
+  {
+   "author": "Shahin Nouraei",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I've been to many barbers, but they always never seem to get what I want exactly. I had a totally different experience here and my request was precisely carried out. The attention to detail is amazing, and the staff is friendly and welcoming. I am usually very picky with my beard and the barber was very attentive and kept adjusting it to how I wanted it . I would definitely recommend it to anyone looking for a great place to cut your hair .",
+   "owner_reply": null
+  },
+  {
+   "author": "Muselk Dubai",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was an exquisite experience. The barbers are very friendly! I even got a on-the-house discount! I saved 15 dirhams! I would highly recommend visiting this amazing barbershop and even make it your main one!",
+   "owner_reply": null
+  },
+  {
+   "author": "Navid Alizadeh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Walk in with fast and excellent cut for a great price. I couldn't ask for more",
+   "owner_reply": "Thank you Mr.Navid for your lovely review and we<br>hope to see you again soon."
+  },
+  {
+   "author": "Mazen Nader Alkhatib",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Very experienced and professional. Straight to the point. Great price.",
+   "owner_reply": "Thank you Mr Mazen for your review, We’re glad you’re happy with the service."
+  },
+  {
+   "author": "Gin Bhandal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Just moved to Dubai and was nervous about trying somewhere new for the fresh trim. The guys at Level One did a great job with the cut and beard shape up. Good prices and the barber went about his work carefully and did not rush.",
+   "owner_reply": "Thank you Mr.Gin for your review and we<br>hope to see you again soon"
+  },
+  {
+   "author": "Михаил Алёхин",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Not my first time reaching out to the team. The service is fast, high-quality, and reasonably priced. Special thanks to master Hamza for the excellent work!",
+   "owner_reply": " Thank you for your continued support, We’re glad you’re happy with the service."
+  },
+  {
+   "author": "Dhanusha Pebotuwa",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Best in town! They do an excellent job with great attention to detail, making it the perfect place for a haircut and beard trim. Highly recommended.",
+   "owner_reply": "Thank you for the review, We glad you had an excellent experience. Looking forward to welcoming you back again soon!"
+  },
+  {
+   "author": "Alaa Batarseh",
+   "rating": 2,
+   "when": "a year ago",
+   "text": "I called to ask about the prices before my first visit. They told me 55 AED for a haircut, 45 AED for a beard trim, and 90 AED if I get both done together, no further details.\n\nAfter finishing, I was initially asked to pay 145 AED, which surprised me as it was never mentioned before. When I questioned it, they said it was because my hair was longer, but this wasn’t communicated upfront.\n\nThey tried to put the blame on me, saying I should have asked about the price for long hair, even though I called specifically to confirm prices beforehand.\n\nAfter insisting on the original price, they lowered it to 125 AED. It took a lot of back-and-forth and pressure, including comments about whether I had enough money, before I was finally allowed to pay the agreed 90 AED.\n\nthe lack of transparency, the unpleasant attitude, and the way I was treated left me disappointed. I hope the shop improves communication and customer respect to avoid similar issues in the future.",
+   "owner_reply": "Dear to clarify what happened,  you did not mention that your hair was long when you called. The price you were quoted was the standard rate for short haircuts, which was clearly communicated. After completing the service, you insisted on paying less than the actual cost, despite the extra time and effort required for your long hair.<br><br>Our team treated you respectfully throughout, even though your attitude was confrontational and dismissive.<br><br>We always strive to deal with our clients transparently and respectfully, and we expect the same in return. "
+  },
+  {
+   "author": "Marcio Brolezi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I always have a hard time finding a barber that does exactly what I want, I live in Los Angeles and it’s always a challenge for me to get the best hair/beard service that isn’t overpriced!\n\nDecided to give it a try while in Dubai, and let me tell you, Level One Gents Salon didn’t disappoint! Best hair cut/beard trim experience!\n\nThese guys are not only barbers they are artists!",
+   "owner_reply": "Thank you Mr.Marcio for your lovely review and we<br>hope to see you again soon."
+  },
+  {
+   "author": "Hossam Louriachi",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "Came here because of the good reviews. Good service overall. Showed the barber my previous haircut and asked for the same thing, he did something else completely. I would come back but not with the same barber",
+   "owner_reply": "Dear Hossam ,Thanks for your feedback!Sorry your experience wasn’t what you expected. Give us a call at 0567001660 and we’ll book you in with a different barber next time. We look forward to seeing you again!"
+  },
+  {
+   "author": "Omar Yehia",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best barbershops in Downtown Dubai! Excellent service, skilled barbers, and a great ambiance. Highly recommend for a top-notch grooming experience. 5 stars!",
+   "owner_reply": "Thank you Mr.Omar for your lovely review and we<br>hope to see you again soon."
+  },
+  {
+   "author": "Traveller101",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Highly recommend Level One gent Salon due to their high skilled barbers. I have been coming here for the past 12 moths and I intend to continue in the future.\nAlso, they actually take the time to understand what style you want and follow the instructions you provide.",
+   "owner_reply": "Thank you Mr.Mat for your lovely review and we<br>hope to see you again soon."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1440,
+    810
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    429,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://instagram.com/levelonesalondxb?utm_medium=copy_link",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "levelonesalondxb"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {
+  "instagram": "levelonesalondxb"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/level-one-gents-salon/",
+ "buy_likelihood": 8,
+ "notes": "Replies 87%, Instagram, prime Sheikh Zayed Road location; only 8 photos, so offer a shoot.",
+ "display_name": "Level One Gents Salon"
+}

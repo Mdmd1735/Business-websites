@@ -1,0 +1,535 @@
+{
+ "slug": "taal-performing-arts-dance-studio",
+ "name": "TAAL Performing Arts Dance Studio",
+ "place_id": "ChIJs1Sfd75tXz4RhvebfK_2ydw",
+ "category": "dance studio",
+ "category_weight": 12,
+ "area": "JLT, Dubai",
+ "address": "Mazaya Business Avenue BB1, Office 206 - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+ "building": "Mazaya Business Avenue BB1",
+ "location": {
+  "lat": 25.0683251,
+  "lng": 55.1450851
+ },
+ "phone": "+971 52 658 3654",
+ "rating": 4.9,
+ "userRatingCount": 81,
+ "rating_distribution": {
+  "oneStar": 0,
+  "twoStar": 1,
+  "threeStar": 0,
+  "fourStar": 3,
+  "fiveStar": 77
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=TAAL%20Performing%20Arts%20Dance%20Studio&query_place_id=ChIJs1Sfd75tXz4RhvebfK_2ydw",
+ "website": "https://instagram.com/taalstudiodubai?igshid=MzRlODBiNWFlZA==",
+ "categories": [
+  "Dance school",
+  "Children's camp",
+  "Dance company",
+  "Dance hall"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Closed"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11 AM to 8 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11 AM to 8 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11 AM to 8 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "11 AM to 8 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 5:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 5:30 PM"
+  }
+ ],
+ "owner_description": "* Bollywood dance classes\n* Kathak dance classes\n* Wedding choreography\n* Private classes",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   },
+   {
+    "Online classes": false
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Assistive hearing loop": false
+   },
+   {
+    "Wheelchair accessible restroom": false
+   },
+   {
+    "Wheelchair accessible seating": false
+   }
+  ],
+  "Amenities": [
+   {
+    "Child care": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "kathak classes",
+  "bollywood dance",
+  "supportive teachers",
+  "patient instructors",
+  "welcoming atmosphere",
+  "spacious studio",
+  "graceful teaching style",
+  "confidence building",
+  "quality dance training",
+  "energetic sessions"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.33,
+ "reviews": [
+  {
+   "author": "Surmi Agarwal",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "This studio has such a warm energy and always feels incredibly welcoming. The choreographers are amazing and teach every step in detail at a pace that’s easy to follow. Everyone is supportive, friendly, and very flexible with your schedule, which makes it so much easier to stay consistent. We also get the opportunity to be part of incredible events like Global Village, where we can showcase our talent and truly feel proud of ourselves. It feels amazing to be part of something that helps you grow and makes you feel better about yourself. I would highly recommend joining this studio if you’re looking for a place that inspires confidence and positivity.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ritvik Bajaj",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Great studio, I go there for Bollywood classes with Chand. It's a very nice class honestly, sometimes challenging as well so I get to learn quite a few new things. They also shoot videos with the students to motivate them to learn and go above and beyond by starting with a proper dancer warm up rather than just being an amateur class. Very fun, would definitely recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shara Naroosh",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "It was by chance that I came across Taal studio. I have done a few workshops, however, Shreyaji's workshop is my favorite. I attended her workshop for the second time today and it was amazing! This time I took my daughter and my friend with me and they loved it too. My heartfelt thanks to Shreyaji for such beautiful choreography and her excellent way of teaching.  She makes such tough steps seem so simple. It's an absolute pleasure to work with the entire Taal team. Special mention goes to Irina, Santosh, Chand and Ketaki for their great support in videography, coordination and guidance. They are such a wonderful team! Kudos to you guys 🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "Parul Dayal",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Taal  is an excellent performing art studio .\nShreya ma’am my Kathak guru is an amazing teacher with in depth knowledge of her art . She is very patient with us and goes into all the technical aspects of Kathak .\nI love coming for my classes",
+   "owner_reply": null
+  },
+  {
+   "author": "Pooja Tahiliani",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Enrolling in TAAL Performing Arts has been an extraordinary journey that has not only honed my dance skills but has also enriched my life in ways I could never have anticipated. From the very first class, it was evident that this was more than just a dance class—it was a transformative experience that blended art, discipline, and personal growth seamlessly.",
+   "owner_reply": "Dear Pooja, thank you so much for your feedback - we are so happy to hear that our studio is enriching life of out students! Pls bear with us to explore more experiences we will be introducing shortly.  "
+  },
+  {
+   "author": "Himansu",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "My daughter has been learning Bollywood Freestyle at TAAL Performing Arts for more than a year now. She joined when she was just 3 years and 8 months old, and it has been a wonderful journey ever since.\n\nThe teachers are extremely professional, patient, and encouraging with young kids. The choreography designed by Santosh Sir, John sir and Chand Sir is always unique, creative, and perfectly adapted for children, making it easy and enjoyable for them to learn. Because of their thoughtful teaching approach, my daughter has stayed consistently motivated and excited to attend classes for over a year.\n\nWhat truly stands out about this academy is the wide variety of dance forms taught here. Children get exposure to multiple styles, which helps them explore their interests and build a strong foundation in dance. Now, my daughter has also started learning Kathak under the guidance of Shreya Ma’am, and we are equally impressed with her expertise and graceful teaching style.\n\nOverall, TAAL Performing Arts offers an excellent blend of professionalism, creativity, and diverse dance training. It is a fantastic place for kids to learn different dance forms while gaining confidence, discipline, and a love for performing. Highly recommended for anyone looking for quality dance training for their children!",
+   "owner_reply": null
+  },
+  {
+   "author": "Heli Mehta",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "My daughter has been going to Taal Studio for almost a year now, and we are extremely happy with the experience. She genuinely enjoys her classes and has learned so much during this time. It’s beautiful to see her confidence and skills growing.\n\nThe studio has a very vibrant and positive vibe, which makes children feel comfortable and excited to attend. The waiting area is also well-maintained and comfortable for parents.\n\nI truly recommend Taal Studio to anyone looking for a nurturing and energetic environment for their child. We are very grateful to be part of this wonderful place!",
+   "owner_reply": null
+  },
+  {
+   "author": "Renuka Pawar",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Taal Studio is one of the best dance studios in Dubai, known for its excellent training and leadership under Santosh Sir. Brilliant Instructors, Incredible experience, Energetic vibes are all you can get at taal performing arts.\nThe only word I have for this place is AWESOME.. The sessions held here are amazing and energetic.If you are searching for family, friends and couple dance choreography then you are on the right place.Must visit place who wants to learn dance .",
+   "owner_reply": null
+  },
+  {
+   "author": "NIKITA",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "TAAL dance studio is amazing! My daughter loves every moment of her dance class, and we've seen a huge improvement in her skills and confidence. Santosh sir, Chand sir and Shreya mam are very patient, encouraging, and truly passionate about teaching. Highly recommend! 💃\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Ekta Thakrar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Both my daughters have joined this dance studio around 6 month back and they absolutely love it! The instructors are patient, energetic, and make every class so much fun. It’s wonderful to see how much confidence and joy the kids gain through dance. The environment is friendly, encouraging, and perfectly suited for children to learn and express themselves. Highly recommended for anyone looking for a positive place for their kids to enjoy dancing and grow their talent!",
+   "owner_reply": "Thank you so much for taking the time to share such heartfelt feedback! We are absolutely thrilled to hear that both your daughters are loving their time at Taal and that you've noticed a growth in their confidence and joy—that is our greatest reward!"
+  },
+  {
+   "author": "Jitesh Solanki",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "A special mention to Santosh Mane and Chand they are amazing mentors who genuinely focus on technique, discipline, and confidence building. Their passion for dance clearly reflects in the way they teach and guide every student.\nI highly recommend Taal Dance Studio to all parents who want their kids to learn dance in a professional yet fun environment. It’s a wonderful place to grow, learn, and shine.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aiswarya Sajeev",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Shreya Mam  is an excellent Kathak teacher in Taal performing Arts , knowledgeable, patient, and inspiring. Her classes are well structured and enjoyable, making learning Kathak a truly  experience. Highly recommended.🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "Isha Parmar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "TAAL Dance Studio is truly one of the best!\nThe instructors are not only talented but also incredibly patient and encouraging. Each class is full of energy, fun, and creativity. Whether you're a beginner or experienced, they help you grow with confidence and passion.\n\nThe studio environment is welcoming, professional, and perfectly organized.\nHighly recommend TAAL to anyone looking for quality dance training in a supportive atmosphere! 💃✨",
+   "owner_reply": "Hello Isha, many thanks for your feedback! it means a lot for us "
+  },
+  {
+   "author": "Ashish Mukundan",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I really enjoy my time at Taal. I have joined their Garba workshops and Bollywood dance classes, and every session has been fun and energising. The teachers are passionate and supportive, and the overall atmosphere is welcoming and positive. Always a great experience — highly recommend!",
+   "owner_reply": "Thank you Ashish Ji for your positive feedback - we at TAAL are always happy to have such passionate dancers like you!"
+  },
+  {
+   "author": "Kaajal Makhija",
+   "rating": 4,
+   "when": "9 months ago",
+   "text": "It’s been over two months learning at Taal studios and it has been an amazing experience so far. From knowing nothing of kathak to being able to perform is thanks to shreya maam. She brings out confidence in student and gels well with all age groups. Thank you for your guidance.",
+   "owner_reply": "Thank you so much, dear Kaajal! It s amazing to witness your progress and we are so happy you’re enjoying the classes and feeling more confident. Grateful for your dedication!"
+  },
+  {
+   "author": "Akanksha MAlhotra",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Learning Kathak from Shreya Ma’am has been a beautiful experience. She has incredible enthusiasm, focuses strongly on fundamentals, and ensures clarity at every step. Her warm, encouraging nature and lovely personality create such a comfortable and inspiring learning space.",
+   "owner_reply": null
+  },
+  {
+   "author": "Himadri Karani",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Amazing dance studio with dedicated  teachers and flexible timings. I have been coming to Taal for over a year and have learned so much in both Kathak & Semi Classical classes with Ms Shreya, who has been supportive and patient. Highly recommend the sessions with her for both beginner and expert levels!",
+   "owner_reply": null
+  },
+  {
+   "author": "Shweta Rawal",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "A heartfelt appreciation to the wonderful faculty at Taal for creating such a warm, engaging, and joyful experience for our children during the Spring Camp.\n\nYour dedication truly reflects in the way the camp has been thoughtfully designed—every day filled with creative games, exciting activities, dance, and yoga that not only keep the children active but also happy and inspired. It’s beautiful to see how eagerly the kids look forward to coming back each day, carrying stories, laughter, and new learnings with them.\n\nThe variety of activities has been exceptional. From innovative games that build team spirit and help children break the ice, to hands-on creative sessions where they make meaningful souvenirs to bring home—each element has added value in its own unique way. These little takeaways are not just crafts, but memories the children will cherish.\n\nWhat stands out the most is the care, patience, and genuine affection the faculty shows toward every child. You have created a safe and encouraging environment where children feel comfortable expressing themselves, making friends, and growing with confidence.\n\nThank you for making this Spring Camp such a delightful and enriching experience. Your efforts are truly appreciated and will be remembered fondly by both children and parents alike. Divinah was really happy to be there. Thank you so much.",
+   "owner_reply": null
+  },
+  {
+   "author": "Hajara Aboobacker",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Shreya Mam is one of the most experienced and inspiring teachers I have ever learned a dance form from. Her grace and depth of knowledge truly captivated me and sparked my deep love for Kathak",
+   "owner_reply": null
+  },
+  {
+   "author": "padmalochan behera",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "A fantastic dance institute with dedicated and supportive teachers. My son enjoys every class and has improved tremendously. Thank you for nurturing his talent!",
+   "owner_reply": null
+  },
+  {
+   "author": "Tanvi Rawtani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I've been learning Bollywood Dance at Taal in JLT for the past three months and it’s been an amazing experience! The atmosphere is super friendly, positive, and motivating. The instructors are very talented, patient, and supportive. Their passion for dance is evident in the way they teach and encourage everyone to improve. Every class is a perfect balance of fun and learning.\nHighly recommend Taal if you're looking to enjoy dancing and grow your skills!",
+   "owner_reply": null
+  },
+  {
+   "author": "Diya Shah",
+   "rating": 5,
+   "when": "Edited 8 months ago",
+   "text": "Best teachers! Best Vibes! Taal Dance Studio in Dubai is an amazing place to learn and grow as a dancer! I learnt bollywood dance with Santosh sir in the past and am currently enjoying learning kathak and semi classical with Shreya maam.\n\nSantosh Sir brings a fun and energetic vibe to every class, always teaching the latest trending dances with a smile.\n\nShreya Ma’am dances and teaches with grace and precision, challenging us to improve while also valuing our opinions and suggestions.\n\nThe studio offers numerous opportunities for shoots and stage performances, making it an exciting place to be a part of. The atmosphere is vibrant and welcoming, and you can't help but feel happy the moment you step inside. Highly recommended for anyone looking to learn and enjoy dance!",
+   "owner_reply": "Dear Diya, <br><br>Thank you so much for your wonderful review! Your recommendation means a lot to us, and we look forward to continuing to support your growth and joy in dance. <br><br>Our Bollywood dance teacher Santosh Sir and Kathak teacher Shreya Ma’am are indeed exceptional instructors, and it’s great to know their dedication and passion have made such a significant impact on your dance journey. Santosh Sir’s energetic and fun approach, alongside Shreya Ma’am’s graceful and precise teaching, creates a perfect blend for our students to thrive.<br><br>Looking forward to shooting more beautiful reels with you!<br><br>Taal Performing Arts DMCC "
+  },
+  {
+   "author": "Prajna Pranesh",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Learning Kathak from Shreya ma'am has been truly inspiring. She focus not only on steps but also on expressions, posture, and confidence. Her positive and constant motivation make a huge difference. Grateful to be learning from someone so talented.",
+   "owner_reply": "Thank you for the wonderful feedback, dear Prajna! We are delighted to hear that you are enjoying your Kathak journey. It is our goal to ensure students develop a strong foundation in both technique and artistry. Looking forward to seeing you continue to flourish!"
+  },
+  {
+   "author": "aarti jadhav",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "One of the best creative spaces to discover yourself. I had been wanting to learn Kathak for the longest time, and a quick search led me to Taal. After just one trial class with ShreyaJi , I knew this would become my favorite place. I’m truly loving my Kathak journey here so far.",
+   "owner_reply": null
+  },
+  {
+   "author": "YATHISH SHETTIGAR",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "My daughter is thoroughly enjoying Kathak and diligently following her teacher’s guidance. Thank you, Shreya Madam, for your wonderful efforts with the little kids. The performance at Global Village was truly mesmerizing and gave my daughter a beautiful opportunity to perform on a big stage.",
+   "owner_reply": null
+  },
+  {
+   "author": "Suruchi Sood",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "The best dancers and the most amazing teachers you’ll ever find 🙏🏻 Highly recommended! The studio is full of smiles, happiness, and music. Being here truly makes life feel easier and brighter.",
+   "owner_reply": null
+  },
+  {
+   "author": "indira singh",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "My 3 year old daughter has recently koined taal performing  arts and she is absolutely loving the classes. she looks forward to her classes. Her Dance teacher is also very talented amd friendly with kids.",
+   "owner_reply": "Thank you for trusting us with your daughter's early dance journey. We look forward to dancing, learning, and growing with her for many more classes to come!<br><br>With gratitude,<br>The Taal Performing Arts Team"
+  },
+  {
+   "author": "NARESH REHAL",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Amazing dance studio with a great atmosphere! Mane Sir is so good – very professional, patient, and talented. He explains every step clearly and makes learning dance really enjoyable. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Poorna Reddy",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Really good training school. Dance master Mr. Santosh is really friendly, patient and focussed with kids. I have seen significant improvement in my kid's dance performance within just a couple of months. The institute makes its students train and perform for stage shows which is really good, as it provides a motive and goal for the kids to learn and practice.",
+   "owner_reply": "Thank you for your wonderful feedback! We're happy to know your child's improvement and enjoyment in classes with our Teacher Mr. Santosh . At Taal, we’re committed to inspiring students through training and performance, and we’re glad to see the positive impact. Looking forward to continuing this journey!"
+  },
+  {
+   "author": "Arpita Vanity",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "TAAL Performing Arts offers so much more under the same roof for all age groups! All the teachers are highly skilled and professional in their work. I know Santosh ji since many years. We met him while we were struggling to find a good dance teacher for our sangeet sandhya. He used to come to us for personal dance lessons. Love his passion and dedication for dance (I am saying this as he came to us at 6am to fit us in his busy schedule). He has indeed got a magic to make my non dancer husband perform like a celebrity 😉. After the Sangeet we took fitness sessions too. Since he got his own studio, it has become like another home for us for art. I have been taking my 4YO daughter to TAAL since TAAL was born. Ms Simran and Mr Johnson have been wonderful teachers for my daughter. So we share this journey with TAAL since our Sangeet, taking personal classes, to sending our daughter to enjoy dance. I am now looking forward to the acting lessons for my daughter (TAAL please start it soon) and also to send my son as soon as he turns 3. Thank you Team TAAL for your excellent service and also for being so responsive, accommodating and passionate. All the best wishes from all of us ❤️",
+   "owner_reply": "Thank you so much for your heartfelt words and kind support! We're thrilled to have been a part of your dance journey from your sangeet to now. It's truly special to hear how TAAL has become like a second home for you and your family. We deeply appreciate your trust in our team, and we’re excited to continue supporting your children’s growth in dance, fitness, and beyond. We’ll definitely consider adding acting classes soon – your feedback means a lot to us. Thank you again for being such an amazing part of the TAAL family, and we look forward to many more beautiful moments together!"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    768,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://instagram.com/taalstudiodubai?igshid=MzRlODBiNWFlZA==",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "taalstudiodubai"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {
+  "instagram": "taalstudiodubai"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/taal-performing-arts-dance-studio/",
+ "buy_likelihood": 8
+}

@@ -1,0 +1,1097 @@
+{
+ "slug": "sam-fitness",
+ "name": "SAM FITNESS",
+ "place_id": "ChIJQ65-YxVdXz4RleTOpC3TSpI",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Al Qusais, Dubai",
+ "address": "Tasheel Building - Shop # 9 8th St - near Metro Bus stop - Al Qusais Ind. Fourth - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2905555,
+  "lng": 55.3982657
+ },
+ "phone": "+971 50 370 0446",
+ "rating": 4.7,
+ "userRatingCount": 243,
+ "rating_distribution": {
+  "oneStar": 13,
+  "twoStar": 3,
+  "threeStar": 3,
+  "fourStar": 11,
+  "fiveStar": 213
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=SAM%20FITNESS&query_place_id=ChIJQ65-YxVdXz4RleTOpC3TSpI",
+ "website": "",
+ "categories": [
+  "Fitness center"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "2 to 10 PM"
+  }
+ ],
+ "owner_description": "Sam Fitness is a premium fitness center located in Al Qusais, Dubai, offering a modern training environment with state-of-the-art equipment, certified trainers, personal training, strength and conditioning, weight loss programs, bodybuilding, and functional fitness. We are committed to helping members achieve their fitness goals through professional guidance, quality facilities, and exceptional customer service in a clean, motivating, and welcoming atmosphere.",
+ "amenities": {
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "certified trainers",
+  "motivating trainers",
+  "customized workouts",
+  "experienced coach",
+  "cooperative management",
+  "cooperative staff",
+  "captain sam",
+  "clean equipment",
+  "challenging workouts",
+  "physique changes"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 31
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 20
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 27
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 19
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 14
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 25
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Nizamudeen Rafee",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "Very disappointing experience with this gym and its customer service.\n\nI paid AED 300 for a 3-month membership. on May 2026. The very next day, due to health reasons, i informed the staff member who enrolled me that I would not be able to start immediately and requested that the membership be put on hold. The staff member confirmed to my brother-in-law (who is also the member of the same gym )that the membership had been placed on hold. Based on this confirmation, I understood that the membership was inactive.\n\nI did not use the gym even for a single day.\n\nYesterday (22 July 2026), when I contacted the gym to resume my membership, another staff member informed me that the membership had remained active and that only nine days were left. I was also told that the staff member who handled the original request is no longer working there.\n\nI understand that mistakes can happen, but customers should not be held responsible for internal communication issues or staff errors. I paid for a service that was never used, and we expected the gym to take responsibility and provide a fair solution.\n\nThe way my concern was handled was also very disappointing. The staff member who spoke to me was unhelpful and unprofessional. He said 300 is gone. When I requested the manager’s contact details and mentioned raising a complaint, the response was dismissive, which made the situation even more frustrating.\n\nI hope the management reviews this matter seriously and improves their customer service and internal processes. Based on my experience, I would not recommend this gym unless they address such issues and treat customers with more care and accountability.",
+   "owner_reply": null
+  },
+  {
+   "author": "Salman Bin sakkariya",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Sam Fitness is a calm and peaceful gym, especially in the morning with no rush, perfect for focused workouts. The gym is well-equipped with high-quality machines like Panatta, Life Fitness, and Cybex. There are plenty of leg machines such as hack squat, pendulum squat, leg extension, leg curl, butt kicks, adductor, abductor, standing calf raise, and seated calf raise. Great for training even minor muscles.\n\nThe staff, especially Jacob. He is very friendly, professional and always available in the morning to help with any doubts. The founder, Sam, a former army captain as well as a great bodybuilder. He has great knowledge and passion for fitness.\nHighly recommended for anyone serious about training💪.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rashid Abdul Fatah",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Sam known as the beast maker for all levels. Amazing Gym and well equipped with high tech machines for all body parts. Anybody wants to start gym or compete in professional level, DO VISIT SAM ⚡️ Very humble COACH!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jacob Jaco",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "✅ Equipment – They have a wide variety of machines, free weights, and squat racks, so you rarely have to wait. The equipment is well-maintained and clean.\n✅ Atmosphere – The gym has a motivating vibe with good music and a mix of beginners and serious lifters. The staff is friendly and helpful.\n✅ Cleanliness – The gym is kept very clean, and they provide sanitizing wipes for equipment.\n✅ Classes & Trainers – They offer personal training sessions, which are great for beginners or those needing extra motivation.\n\nOverall\nIf you’re looking for a clean, well-equipped gym with a motivating environment, sams Fitness is a great choice. And my fav trainer ali bhai.. gives good instructions and better diet plan.. keeps me motivated through out the workout time 5⭐️",
+   "owner_reply": null
+  },
+  {
+   "author": "Suraj mk",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I highly recommend Mr. Saqlain Mirza, a Pro Card winner, as my personal trainer. His expertise, dedication, and professionalism are truly outstanding. He provides excellent training, offers valuable advice, and ensures proper follow-up to keep me on track. With his guidance and support, I’ve made incredible progress in achieving my fitness goals. Thank you, Saqlain, for your hard work and commitment to helping me succeed.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vikas Singh Ram Singh",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Gym experience is none other than Sam Fitness. Anoop is the trainer and amazing skills. Wonderful team and Sam is the head coach.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shamil Shalu",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Sam fitness is the fitness garage here you can make yours better in terms of physique and mind under guidence of best certified trainers.Please must visit Sam fitness👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Sheeda Tali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Sam Fitness is best know gym in dubai.With the training their management all are cooperative and they solves problems of clients as their priorities.Highly Recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Delson GSG",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best gym ever I took part in Dubai. The environment equipment cleanliness and most of all the staff are amazing.",
+   "owner_reply": null
+  },
+  {
+   "author": "Khalid",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This gym is best among in all gyms in Dubai.I recently join to make my self better.Highly Recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Ashik Seyd",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I am really happy to b a part of sam fitness.My journy in this gym quite long and i am satisfied with my physique changes .",
+   "owner_reply": null
+  },
+  {
+   "author": "Anshif KP",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been to many gyms, but nothing compares to Sam Fitness! The atmosphere is energetic, the equipment is top-notch, and the cleanliness is impeccable.\n\nA special shoutout to Coach Anoop. His knowledge, motivation, and personalized approach have helped me achieve my fitness goals faster than I imagined. He genuinely care about your progress and push you to be the best version of yourself.\n\nWhether you’re a beginner or a pro, this gym and its trainers will take your fitness journey to the next level.\n\nHighly recommend this gym to anyone looking for a top-tier workout experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Val Orayle",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very Nice Gym and Friendly Staff ,It's clean and affordable♡",
+   "owner_reply": null
+  },
+  {
+   "author": "sanjay",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had the best experience at SAM fitness.\nExcellent equipment condition and I am pleased with the certified trainers who always support me.\nHighly recommended trying it out.the",
+   "owner_reply": null
+  },
+  {
+   "author": "Richard Alexander",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently joined Sam Fitness, and even though it's far from both my room and my office—it takes almost 2.5 hours to get here—I never saw the distance as a problem. When your goal is big, no distance feels too long. After all, success demands commitment, sacrifice, and hard work—and I’m all in.\n\nWhat truly makes it worth the journey is the environment here. The trainers are experienced and genuinely supportive (Anup, Mirza, Ali, Jacob)That’s exactly why I chose Sam Fitness—because I’m here to prepare for a natural bodybuilding competition, and I believe that under the guidance of Sam (Saddam), I’ll soon turn this dream into reality.\n\nMy sincere wish is that one day Sam Fitness grows far beyond boundaries—not just in dubai but across the world, so that young aspiring athletes can find the right guidance and don’t lose their way chasing fitness goals.\n\nSam Fitness is more than a gym—it’s a vision, a community, and a path toward greatness",
+   "owner_reply": null
+  },
+  {
+   "author": "Asad Khurshed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Sam gym is more than a space of iron and sweat; it is a cathedral of transformation, where every drop of effort becomes a brick in the foundation of a stronger self. the universal truth that growth is born from grit. Here, strangers become allies in the shared pursuit of becoming—better, faster, braver. It is a sanctuary where limits At the heart of this alchemy are the trainers: the architects of strength, the guardians of grit. They are more than instructors; they are mentors who see potential where others see plateaus, who ignite fire in weary souls with a blend of wisdom and unwavering belief. Their hands guide not just bodies but hearts, turning doubt into determination with a rallying cry or a quiet word. They celebrate victories as if they were their own, yet remain steadfast through every stumble, reminding us that progress is not linear—it’s a dance of patience and persistence. With scientific precision and boundless compassion, they sculpt not only muscle but resilience, teaching us that the true weight we lift is the courage to keep showing up.\n\nTogether, the gym and its trainers are a testament to the beauty of human potential.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shalima k",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Sam Fitness is an amazing place to train! The equipment is top-notch, and the atmosphere is super motivating. Big thanks to trainer Ali—his guidance and support have made a huge difference. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Manoj Salvi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Excellent GYM, Advanced equipments and great training offered by highly experienced trainers that makes SAM Fitness unique than other gyms in the town..\n\nCome, join and feel the change!! Be rest assured of results when you are training under one and only Captain Sam 💪 🙌 👏!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "mukesh kadiga",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I am glad to be a part of best gym in uae.Equipment and staff are very cooperative.Highly recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jashed Leopards",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It's Very good gym and here have more professional trainer they are very good trainers, I'm here with them more than 6 months I'm so happy with them, when I'm joining Sam fitness i change my body I hope everyone happy with Sam fitness,\nspecially  thanks a  lot Mr hossam captain",
+   "owner_reply": null
+  },
+  {
+   "author": "Dinesh Arivalagan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best gym I have ever seen. Trainers are very friendly and super supportive. Really enjoying every session. The vibe here is so motivative...",
+   "owner_reply": null
+  },
+  {
+   "author": "hamdoune siham",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Sam fitness I join 6 months ago.My experience on this gym is amazing.i am free to ask any thing about training from any trainer.the staff is easy to access and they slove issues on time.Highl Recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Ashik Unni",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Sam Fitnes is the best gym in town have all the equipment like for bodybuilding,crossfits and for other purposes.This gym have professional and certified trainers as well.i am glad to be a part of sam fitness.i will suggest everyone who want to acheive their fitness goals please come and join like me.",
+   "owner_reply": null
+  },
+  {
+   "author": "faraheem malik",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This gym have friendly environment and all trainers are professional.I feel very satisfied and my time is passed in healthy way.Sam fitness is also offers best servicies in terms of trainings and knowledge about fitness.",
+   "owner_reply": null
+  },
+  {
+   "author": "Imran Memon",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My training with captain Saddam has truly transformed my life. Each session inspires me with engaging and challenging workouts. He motivates me to reach my highest potential while fostering a positive mindset.! wholeheartedly recommend captain Saddam to anyone ready to embark on a life-changing fitness journey.",
+   "owner_reply": null
+  },
+  {
+   "author": "Seby Leo",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best gym around Qusais. I’ve been working out here for almost 6 months… the trainers are absolutely amazing and really helpful. I’ve already made so much progress by now… I highly recommend new comers join Sam fitness.🔥",
+   "owner_reply": null
+  },
+  {
+   "author": "Rehan Qazi",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "My trainer SAM is a true professional, with sound knowledge about muscle, recoveries and body anatomy\n\nHis constant efforts helped me to recover and continue my routine.\n\nGYM and TRAINING FEES is also reasonably placed to the amount of efforts he put behind every session.\n\nLife is all about run, human body has endless endurance.\n\nWish him the best for future endeavors.",
+   "owner_reply": null
+  },
+  {
+   "author": "jan mehboob",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had the privilege of being personally trained by Mirza Saqlain yesterday, and I couldn’t be more impressed! From the moment we started, he understands my fitness goals and tailored the session to fit my needs perfectly. The workout was challenging yet doable, and Mirza made sure I used the correct form, which I really appreciated.\n\nNot only he is knowledgeable and professional, but Mirza also creates a motivating and supportive environment. I left feeling stronger and more confident about my fitness journey. Highly recommend him to anyone looking to get serious about their training.\n\nThank you, Mirza Saqlian for an amazing session.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aswin N",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Amazing Experience at Sam Fitness – Thanks to Anoop!\n\nSam Fitness in Al Qusais is a fantastic gym with great equipment and a motivating atmosphere. A special thanks to trainer Anoop, who is incredibly knowledgeable and supportive. He customizes workouts to fit your goals, ensures proper form, and keeps sessions both challenging and enjoyable. His encouragement and expertise make a real difference. If you’re looking for results, I highly recommend Sam Fitness—especially training with Anoop!",
+   "owner_reply": null
+  },
+  {
+   "author": "Kushan Silva",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "My experience with Sam Gym has been and continues to be perfect. Convenience and flexibility of the management is at its finest. A special shout out to Coach Sam for all his support. He’s always been very welcoming!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1019
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/sam-fitness/",
+ "buy_likelihood": 8
+}

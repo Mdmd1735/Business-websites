@@ -1,0 +1,1277 @@
+{
+ "slug": "elandra-flowers",
+ "name": "Elandra Flowers",
+ "place_id": "ChIJCZ5UQZJdXz4RCB10z9zF7dQ",
+ "category": "flower shop",
+ "category_weight": 9,
+ "area": "Deira, Dubai",
+ "address": "Al Siddique - Near United Hyper Market Parking, Abu Baker Al Siddique Road - Metro - Station - Hor Al Anz - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2730982,
+  "lng": 55.3307612
+ },
+ "phone": "+971 52 700 1171",
+ "rating": 4.9,
+ "userRatingCount": 103,
+ "rating_distribution": {
+  "oneStar": 2,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 1,
+  "fiveStar": 100
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Elandra%20Flowers&query_place_id=ChIJCZ5UQZJdXz4RCB10z9zF7dQ",
+ "website": "",
+ "categories": [
+  "Florist"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 3 AM"
+  }
+ ],
+ "owner_description": "At Elandra Flowers, we are proud to be known as the best flower shop in Dubai, offering fresh, elegant, and beautifully designed floral arrangements for every occasion. From romantic bouquets and luxury flower boxes to wedding flowers, event décor, and corporate arrangements, our expert florists create designs that reflect style and sophistication. We also provide indoor plants, succulents, and unique green gifts to brighten homes and offices. With reliable same-day flower delivery across Dubai and a commitment to quality and service, Elandra Flowers is your trusted destination for flowers that leave a lasting impression.",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Payments": [
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "red roses",
+  "flower collection",
+  "discount",
+  "fresh flowers",
+  "beautiful arrangements",
+  "kind staff",
+  "flower quality",
+  "design",
+  "eye for detail",
+  "budget"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 93
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 60
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 40
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 60
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 60
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 40
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 53
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "MOHAMEDOSMAN HASSANKARAR",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "​I visited Al Indra (opposite United Hypermarket in Hor Al Anz) to get a birthday bouquet for my wife, and the experience was absolute perfection from start to finish.\n​A huge thank you to Ms. Elena and Zahid for their warm and warmhearted welcome. They crafted a truly breathtaking bouquet, professionally designed to wrap around the gifts with astonishing, magical golden tones and accents. They customized everything precisely to my taste and stayed completely within my budget. The final result was elegant, unique, and far exceeded my expectations!\n​If you are looking for stunning flowers and world-class customer service, this is definitely the place to go. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sabapathy Senthilkumaran",
+   "rating": 5,
+   "when": "Edited 8 months ago",
+   "text": "I had a wonderful experience at Elandra Flowers. The flowers were fresh, beautifully arranged, and exceeded my expectations.\n\nHighly recommended to anyone looking for beautiful flowers and exceptional customer care. I’ll definitely be coming back.\nThank you, Elena for an excellent service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Aanisha Gurung",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I am really happy with the service thank you Elena for your quick suggestion .  I really love the bouquet me myself almost fell for it ❤️💐 thank you so much for this 😌",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed Faizal",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "\"I really want to express my appreciation for Elana’s smart work on the beautiful flower decorations. Thank you again for the wonderful flower bouquet and for your kindness!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Shaikha Alshehhi",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Elan is the sweetest person ever!!, she will help you as much as she could to fit in your budget and provide the best flower bouquet you have ever seen!!!, highly recommended!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Islem Guizani",
+   "rating": 1,
+   "when": "a month ago",
+   "text": "This was a scam I don’t recommend anyone order from them the flowers don’t match the pictures and very bad quality and service",
+   "owner_reply": null
+  },
+  {
+   "author": "Khadija Shakeel",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Really like the service. They have very fresh flowers. Really recommend this for special occasions",
+   "owner_reply": null
+  },
+  {
+   "author": "Tim Kresien",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Service is very quick. I found store on Maps and walked in, discussed my order, and I barely finished the coffee they brought me before it was done! Elena and staff are very friendly and shared their cultural knowledge, even making suggestions on local Persian food. 😊\nThe price was right as well",
+   "owner_reply": null
+  },
+  {
+   "author": "MOHAMMED NABI",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I'm very happy today really flower was 300  but they give me 150 have amazing discount if I want buy in airport was very expensive and the quality very good thanks for your nice service",
+   "owner_reply": null
+  },
+  {
+   "author": "Urmila Khatiwada Mangrati",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a great experience and they had made the flower bouquet so lovely 🥰🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "ABDELRAHMAN ABDALLA",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Marlon is such a creative person, he helped to pick the most beautiful flowers and made it look incredibley amazing.\nI have been through many flowers shops but this shop stands out.\nI felt so welcomed and special getting my boutique done.\nThank you",
+   "owner_reply": null
+  },
+  {
+   "author": "Danish Shariff",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I bought flower bouquet two times from the shop and the third time they gave it to me for free. It is a new place and the staff is very friendly.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ali Hassan",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Shop is waoo well maintained and clean...the prices are so reasonable and the lady in the shop is nice too customer service and engagement is very good I suggest everyone to visit and get their services.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mehedi Aslam",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Nice shop and amazing price i buy for my dughters flowers,and they gave free flower to my wife they are very respectful and amazin shop",
+   "owner_reply": null
+  },
+  {
+   "author": "Faisal Mehmood",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I am surprised to see this flowers show when I was needed a bouquet for my beloved wife, Ma'am Elandra make a wonderful bouquet for me, thank you so much,",
+   "owner_reply": null
+  },
+  {
+   "author": "Sabir Khan",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I purchase the flowers from them really quality was amazing also the price it was not same other shop thanks alot",
+   "owner_reply": null
+  },
+  {
+   "author": "Noushin Fathi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The flowers were absolutely beautiful and very fresh. Excellent quality and great service. Highly recommend! 🌸",
+   "owner_reply": null
+  },
+  {
+   "author": "Allyson Reign Cera",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Beautiful flowers and the staffs are nice. 😊😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Zai Ignacio",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I bought a bouquet of roses and sunflowers from Elantra Flower Shop and I’m very happy with my purchase. The flowers were fresh, vibrant, and beautifully arranged by the owner itself The roses looked elegant and fragrant, while the sunflowers added a bright and cheerful touch that really stood out.\nThe bouquet was well-balanced and thoughtfully designed, making it perfect for a love one or as a gift. You can really see the care and quality put into the flowers. I highly recommend Elantra Flower Shop if you’re looking for lovely, fresh flowers and great presentation.",
+   "owner_reply": null
+  },
+  {
+   "author": "Fatima Shakeel",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing service!!!! Would 100% recommend soo sweet 🫶🫶",
+   "owner_reply": null
+  },
+  {
+   "author": "Atta Boost",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I personally visit at the shop,his sttaf behaviour so nicely and polite.There is availble all type of flowers.I personally sugest to all that visit this shop its so awsome.",
+   "owner_reply": null
+  },
+  {
+   "author": "MUHAMMAD Ashfaq",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Good service fresh flowers nice design for your love one friends",
+   "owner_reply": null
+  },
+  {
+   "author": "asif hussain",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Thank you for the outstanding VIP experience. Your dedication to excellence and customer care is truly impressive.",
+   "owner_reply": null
+  },
+  {
+   "author": "mustakeem khan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Their flowers quality was amazing and good and I take nice boxes roses just with 60 dirham thanks alot",
+   "owner_reply": null
+  },
+  {
+   "author": "Lynn Htet Wai Yan",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "the flowers and bouquets are amazing definitely should buy it i really like it🤩",
+   "owner_reply": null
+  },
+  {
+   "author": "Naveed Shahzad",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I visited this shop,very nice experience, they have diffrent beautiful flowers options and quick service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nangkham",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Hi guys I found this Elantra flowers shop so nice price and perfect flowers I love it",
+   "owner_reply": null
+  },
+  {
+   "author": "promise barua",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "There have lot of collections, all staff talk as like friend, i am first time going to there , & discount me.",
+   "owner_reply": null
+  },
+  {
+   "author": "Robiul Khan",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amazin and best price the qulityvof flowers was amazing and thnaks u give me discount elandra",
+   "owner_reply": null
+  },
+  {
+   "author": "Ryan Lim",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Thank you for thr good price and service",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1201,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    576,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1201,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1254,
+    1254
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    478,
+    850
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    736,
+    736
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    428,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    335,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    512,
+    231
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    512,
+    231
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 61,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/elandra-flowers/",
+ "buy_likelihood": 6
+}

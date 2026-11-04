@@ -1,0 +1,1311 @@
+{
+ "slug": "al-rigga-gym-and-studio",
+ "name": "AL RIGGA GYM & STUDIO",
+ "place_id": "ChIJU9i56wxdXz4RpAWrUutR5ow",
+ "category": "yoga studio",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "Al Rigga Gym , VIVA Supermarket building ,M Floor - Al Maktoum Rd - Al Rigga - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2609014,
+  "lng": 55.3213467
+ },
+ "phone": "+971 50 408 5011",
+ "rating": 4.5,
+ "userRatingCount": 133,
+ "rating_distribution": {
+  "oneStar": 12,
+  "twoStar": 1,
+  "threeStar": 2,
+  "fourStar": 11,
+  "fiveStar": 107
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=AL%20RIGGA%20GYM%20%26%20STUDIO&query_place_id=ChIJU9i56wxdXz4RpAWrUutR5ow",
+ "website": "",
+ "categories": [
+  "Gym",
+  "Martial arts school",
+  "Self defense school",
+  "Yoga studio"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "4 PM to 12 AM"
+  }
+ ],
+ "owner_description": "AL RIGGA GYM & STUDIO is one of the best gyms in Deira, offering a complete fitness experience for all fitness levels. We provide personal training, kickboxing, karate, Zumba, yoga, CrossFit, and a variety of group classes. With professional trainers, modern equipment, and a motivating environment, we support strength building, endurance training, weight management, and overall wellbeing through structured and result focused workout programs.",
+ "amenities": {
+  "Service options": [
+   {
+    "Online classes": true
+   },
+   {
+    "Outdoor services": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "coach salman",
+  "motivating coach",
+  "trainer",
+  "supportive trainer",
+  "alrigga gym",
+  "effective training",
+  "not crowded",
+  "decor",
+  "weight loss",
+  "accommodating staff"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 0,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 0,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 54
+   }
+  ],
+  "We": [
+   {
+    "hour": 0,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 46
+   }
+  ],
+  "Th": [
+   {
+    "hour": 0,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 44
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 54
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 0,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 42
+   }
+  ]
+ },
+ "owner_reply_rate": 0.7,
+ "reviews": [
+  {
+   "author": "maria bayan",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "Love this gym! It’s not crowded especially since I usually train early in the morning. Rahul is a great trainer and always helpful.\n\nMy only concern is the new trainer I think a better approach when interacting with members would be helpful. As a new trainer, it would be nice to first introduce herself and get to know members before stepping into their usual routines. I appreciate her being proactive but familiarizing with customers first would be helpful. Overall, its good gym but will be last session as the approach from someone who Im unfamiliar with puts me off.",
+   "owner_reply": "Thank you for your honest feedback. We truly appreciate your suggestions and will take them into consideration as we continue improving our members' experience. We're sorry to hear you're leaving and wish you all the best on your fitness journey."
+  },
+  {
+   "author": "Imaan Abdul Samad",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I’ve been training here for just a month, and the experience has been absolutely fantastic. The gym itself is great, but the absolute highlight has been training with Firoz.\nThanks to his guidance, support, and structured workouts, I have already lost 5 kg in just one month! If you’re looking for a gym that actually helps you reach your goals, and a trainer who keeps you motivated every step of the way, I highly recommend training with Firoz here.",
+   "owner_reply": "Thank you so much for your wonderful review! We're delighted to hear you've had such a positive experience and are already seeing great results. Your feedback means a lot to us and motivates our team to keep delivering the best support and training experience. We look forward to helping you achieve even more of your fitness goals. Keep up the amazing work!"
+  },
+  {
+   "author": "Afsal Afsal",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Completed 3 months at Al Rigga Gym and had a great experience. The gym is clean, well-equipped, and very motivating. Trainer Haris is highly professional, knowledgeable, and very supportive. I strongly recommend this gym for anyone serious about their fitness goals.",
+   "owner_reply": "Thank you for sharing your experience. We’re glad to hear you had a great time training with us and that you found the gym clean, motivating, and well equipped. Your appreciation for Trainer Haris means a lot to us. Thank you for recommendation, and we look forward to supporting your continued fitness journey."
+  },
+  {
+   "author": "Aries Adlawon",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I would like to commend Angel for being so accommodating and helpful from the day I joined the gym until now. She has always been approachable whenever I needed assistance. Not only her, but her colleagues are also friendly, welcoming, and always willing to help. They truly make the gym a comfortable and enjoyable place to be.",
+   "owner_reply": "Thank you for your kind words! 😊 It means a lot to know you feel comfortable and supported at Al Rigga Gym. Your feedback inspires us to keep delivering the best experience for our members."
+  },
+  {
+   "author": "Mohamed Usaid",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I’ve had a great experience training with Coach Alina Gigi. She is professional, motivating, and always makes sure exercises are done with the correct form. Her guidance and encouragement have helped me improve my strength and fitness. She’s friendly, supportive, and genuinely cares about her clients’ progress. I highly recommend Al Rigga Gym",
+   "owner_reply": "Thank you for your kind words and recommendation! We're glad you had a great experience at Al Rigga Gym. Your support motivates us to keep helping our members achieve their fitness goals. "
+  },
+  {
+   "author": "Aitzaz Ahmed",
+   "rating": 4,
+   "when": "3 months ago",
+   "text": "Great gym with clean facilities, quality equipment, and a welcoming atmosphere. A special thanks to my trainer, Jibin, for his excellent guidance, motivation, and personalized workouts that have helped me stay consistent and make great progress. Highly recommend this gym and Trainer Jibin!",
+   "owner_reply": "Thank you for your wonderful feedback! We're thrilled to hear that you enjoyed our clean facilities, quality equipment, and welcoming atmosphere. It's great to know that our team's guidance and support have helped you stay consistent and make excellent progress. We truly appreciate your recommendation and look forward to supporting your fitness journey every step of the way!"
+  },
+  {
+   "author": "Gimhara Weerasinghe",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Great environment with a friendly and supportive team. The gym is always clean also the staff are very helpful and encouraging.They take the time to guide you and create a positive experience for members. Also, many thanks to Alina for her support and guidance 🥰❤️ Highly recommended !!! 🌟🌟🌟🌟🌟",
+   "owner_reply": "Thank you for your wonderful feedback and recommendation!  We're delighted to know you enjoyed the friendly atmosphere, clean facilities, and supportive team at Al Rigga Gym. Your kind words motivate us to continue providing the best fitness experience for all our members. We look forward to seeing you again and supporting your fitness journey!"
+  },
+  {
+   "author": "JB May Dignadice",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Great gym with clean facilities, quality equipment, and a friendly atmosphere. Perfect for both beginners and experienced lifters. Big Thanks to Coach Angel 🫰🫶🙌",
+   "owner_reply": "Thank you for your wonderful review!  We're delighted you enjoyed the clean facilities, quality equipment, and welcoming atmosphere at Al Rigga Gym. We appreciate your support and look forward to seeing you again!"
+  },
+  {
+   "author": "Ziad Lel",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "I have had the membership with this gym for the past 2 months, and I definitely will renew again for the following reasons:\n\n1- The gym is really clean.\n\n2- Nicely decorated.\n\n3- The employees are friendly and will help you anytime you need.\n\n4- They gym is open 24 hours except for sundays (from 4 p.m. until 12 a.m.)\n\n5- The location of the gym is good, and they have a panoramic view on the highway.\n\nSo, if you are located in Al Rigga, I recommend this gym because the time is flexible, and you can go to do you your workout anytime you feel free.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jhosanel Vergara",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "As someone completely new to the gym, I was honestly nervous at first—but Haris and Salman made it so easy to get started. They're super supportive, explain everything clearly, and really care about helping you improve.\n\nAll the Staffs in Al Rigga Gym were very welcoming, friendly and professional. A special thanks to Salman and Haris for always guiding me to my fitness journey - they're really a great help. With their guidance I've seen noticeable improvements with my strength, endurance and overall fitness.\n\nHighly recommend for anyone starting their strength journey! 🔥🙌",
+   "owner_reply": "Thank you so much for your thoughtful feedback! We’re truly glad to hear that your journey with us has been positive from the very beginning. Our team is committed to creating a supportive and comfortable environment for everyone, especially those new to the gym.<br>We’re happy to know that our guidance has helped you improve your strength, endurance, and overall fitness. Keep up the amazing progress we’re here to support you every step of the way!"
+  },
+  {
+   "author": "Rubab Aftab",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Amal and alina Amazing trainer! Very professional, motivating, and knowledgeable. They explain every exercise clearly, correct your form, and push you to achieve your fitness goals. Highly recommended!",
+   "owner_reply": "Thank you so much for your amazing feedback! We’re delighted to hear that you had such a positive experience with our trainers. Your support and recommendation mean a lot to us. Keep pushing towards your fitness goals!"
+  },
+  {
+   "author": "Ei Mon Zin",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great gym with top-notch equipment and a supportive atmosphere. Trainers are professional and very attentive. A special shout-out to Trainer Alina—she is incredibly patient, and makes sure you’re doing every exercise correctly. I also love the flexible hours, which make it easy to fit a workout into a busy schedule.",
+   "owner_reply": "Thank you for your wonderful feedback, Ei Mon Zin!  We’re glad you’re enjoying the atmosphere, equipment, and flexible timings at Al Rigga Gym & Studio. We appreciate your support and look forward to helping you stay consistent on your fitness journey!"
+  },
+  {
+   "author": "inayath sarfan",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Amazing coach! Very friendly, motivating, and always ready to help. The positive energy makes every workout enjoyable. Definitely recommend this gym! @Alina Gigi",
+   "owner_reply": "Thank you so much for your wonderful feedback! We’re happy to hear that you’re enjoying the positive energy and support from our coach. Your recommendation means a lot to us"
+  },
+  {
+   "author": "Wesam Heen",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve had an amazing experience training with Coach Haris and Coach Salman at the gym. Their knowledge, motivation, and personalized guidance have truly helped me improve my fitness level. They’re always supportive, encouraging, and push you to be your best. Highly recommended for anyone serious about results! 🔥🔥",
+   "owner_reply": null
+  },
+  {
+   "author": "Mark Anthony Caalim",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Its a very nice place to workout, specialy in morning very nice ambient not too much people, but in evening a lot of people working out so you need a little bit patience to wait for your turn.",
+   "owner_reply": null
+  },
+  {
+   "author": "Minal Sugandha",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I have been going to this gym for the past two years, and the experience has been consistently positive. The staff are extremely helpful and cooperative, creating a welcoming environment. I also opted for personal training with Coach Haris, who is friendly, highly professional, and genuinely dedicated. He truly does justice to his role and goes the extra mile to ensure effective and result-driven training.",
+   "owner_reply": "Thank you for sharing your long term experience with us. We’re truly glad to hear that you’ve consistently had a positive journey at our gym and found our team supportive and welcoming. Your appreciation for Coach Haris’s professionalism and dedication means a lot to us. We value your continued trust and look forward to supporting your fitness goals ahead."
+  },
+  {
+   "author": "Rimsha Rajput",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent gym! Clean, well-maintained, and the staff are very supportive",
+   "owner_reply": "We truly appreciate your kind words! It’s great to know that our facilities and supportive team made your experience a positive one. Thank you for choosing us"
+  },
+  {
+   "author": "suman khadka",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Nice gym\nNice energetic environment.\nTrainers also well behaved and helpful\nI wanna thank Jibin for wonderful support.",
+   "owner_reply": "Thank you so much for your wonderful feedback! We’re happy to hear you enjoyed the energetic atmosphere and found our team supportive and helpful. We truly appreciate your kind words "
+  },
+  {
+   "author": "Eaint Myat",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Firoz is an amazing personal trainer! 💪 His intensive training sessions are very effective, I lost 3 kg in just 12 days. I’m proud that I made the right choice training with him. Highly recommend! Kudos!!!",
+   "owner_reply": "Thank you so much for your kind feedback, Eaint!  We’re thrilled to hear about your incredible progress—losing 3 kg in just 12 days is a fantastic achievement. <br>At Al Rigga Gym & Studio, we’re committed to helping you achieve real results through effective training and consistent support. Keep up the great work—we’re always here to support your fitness journey!"
+  },
+  {
+   "author": "jibin pattayil",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Very nice gym in Dubai,\nNice workout ambience,",
+   "owner_reply": "Thank you for your 5-star review! We truly appreciate your support and are delighted to know you had a great experience with us. We look forward to serving you again.<br>"
+  },
+  {
+   "author": "Yeshhomathi Rao",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "Looking for zumba classes?? Highly recommended... super fun crowd with effective health benefits. Not too crowded.\n\nI also wanna strongly recommend the yoga classes which I am attending past few weeks. You should experience to believe the results. 3 classes per week. I have shared the types of yoga.\n\nAll classes under one roof. They also have kick boxing which I have not tried.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ali Xaidi",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Clean gym good environment with best coach @haris",
+   "owner_reply": "Thank you, Ali Xaidi, for the 5-star review. We are glad you enjoyed the clean gym environment and coaching support. Your appreciation for Coach Haris means a lot to us. We look forward to welcoming you again at Al Rigga Gym & Studio."
+  },
+  {
+   "author": "Abdul Nazar",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I am member almost 2 months now as a new joiner Trainer haris is very supportive and help full always ready to guide. Thanks rigga gym team.",
+   "owner_reply": "Thank you for your feedback. We’re happy to hear about your positive experience at Al Rigga Gym & Studio. It’s perceived to hear that Trainer Haris has been supportive and always ready to guide you. Thank you for being part of our gym community and for trusting our team."
+  },
+  {
+   "author": "Armaan Pathan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been training personally with Mr. Salman, and I can confidently say he’s an exceptional coach — highly professional, knowledgeable, and genuinely committed to helping his clients progress. I’ve already noticed remarkable improvements in both my physique and overall strength.",
+   "owner_reply": "Thank you so much for your wonderful feedback! We’re truly glad to hear that you’re seeing great progress. Your dedication, combined with our coach’s guidance, makes all the difference. Keep up the amazing work we’re excited to support you on your fitness journey!"
+  },
+  {
+   "author": "Muhammad",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "I had a very negative experience with the summer camp at Al rigga Gym. An one older lady teacher repeatedly scolded and ridiculed my child in front of other kids. This is completely unacceptable. The management must take action against this behavior. All the other coaches are doing a great job, and the teacher in question should be told to at least try to match their professionalism.\nIt's concerning that the manager or administrator is not showing the basic competence to handle such a situation. Because of this terrible experience, I will not be sending my child to any of their future programs, nor will I recommend Al rigga Gym to anyone.\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Satpal Choudhary",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I am joined the Al rigga gym and have had a great experience so far. The facility is clean and well-maintained, with a wide range of equipment suitable for all types of workouts, from cardio to strength training.\n\nThe staff is friendly and always available to help or provide guidance. The personal trainers are knowledgeable and motivating, making it easy to stick to my fitness goals.\n\nWhat I appreciate most is the variety of classes offered, including cardio classes,  which are well-organized and cater to different fitness levels.",
+   "owner_reply": null
+  },
+  {
+   "author": "willy nilly",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Askar has been an amazing trainer for my weight loss journey! With his guidance, I was able to lose around 13 kg in 10 months. His expertise, motivation, and support made a huge difference. I highly recommend Askar to anyone looking to achieve their weight loss goals at Al Rigga Gym.",
+   "owner_reply": null
+  },
+  {
+   "author": "Wealthy Retro",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Great Gym... Haris and salman have been really helpful throughout my journey. Would def recommend these 2 trainers to newbies out there",
+   "owner_reply": "Thank you for your great feedback. We’re happy to hear you’re enjoying your experience at ZYM Fitness Gym. Your appreciation for Haris and Salman means a lot to us, and we’re glad they’ve been supportive throughout your fitness journey. Thank you for recommending us to new members."
+  },
+  {
+   "author": "Ozhel Deleon",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’m so lucky that i found this gym, it’s very convenient because it’s only 5 minutes walk from my place. I’m so impressed with the trainers they are so friendly and helpful. Specially Askar he is truly one of the best coach. He always help and push me to achieve my workout goal.",
+   "owner_reply": null
+  },
+  {
+   "author": "JIMSHAD NK",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "From the first time I walked into the gym I knew it was the right one for me!!\nEveryone’s so friendly!!!\nFantastic owners....\nClasses and instructors are awesome!!\nJust wished I had joined sooner 😂,Good staff, great personal trainers! You got all the stuff you need for a perfect workout, good diet plans with tasty meals low on calories . Just an awesome gym in many different ways! :)",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    768,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1350
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1205
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    768,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1067,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1067,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    755,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1205
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    848,
+    478
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 61,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/al-rigga-gym-and-studio/",
+ "buy_likelihood": 8
+}

@@ -1,0 +1,837 @@
+{
+ "slug": "warriors-zone-academy",
+ "name": "Warriors zone academy أكاديمية منطقه المحاربين",
+ "place_id": "ChIJI-GHU8ZbXz4RuwN5Tx7tHLM",
+ "category": "martial arts academy",
+ "category_weight": 13,
+ "area": "Al Majaz, Sharjah",
+ "address": "Al Sultan Sweets, Almaha - Al Taawun St - Al Khan - Sharjah Al Sultan Sweets, Almaha - Al Taawun St - Al Khan - Sharjah - Al Khan - Sharjah - United Arab Emirates",
+ "building": "Al Maha Tower",
+ "location": {
+  "lat": 25.3120936,
+  "lng": 55.3750664
+ },
+ "phone": "+971 52 633 2020",
+ "rating": 4.9,
+ "userRatingCount": 94,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 1,
+  "threeStar": 1,
+  "fourStar": 0,
+  "fiveStar": 91
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Warriors%20zone%20academy%20%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9%20%D9%85%D9%86%D8%B7%D9%82%D9%87%20%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B1%D8%A8%D9%8A%D9%86&query_place_id=ChIJI-GHU8ZbXz4RuwN5Tx7tHLM",
+ "website": "",
+ "categories": [
+  "Sports club"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "Closed"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Warriors Zone Academy\nSelf-Defense & Fitness Academy\nKickboxing classes🤼‍♀️\nBoxing classes🥊\nMuay Thai classes🤼‍♂️\nFitness and personal training🏋️‍♂️\n\nElevate your fitness and self-defense skills at our premier academy. We offer expert training in Kickboxing, Boxing, Muay Thai, and fitness, with programs for all ages and levels. Our experienced coaches provide personalized instruction and guidance, while our tailored nutrition plans support your progress. Whether you’re training for self-defense, fitness, or competition, we have everything you\n\nChange your children's mindset through the gym with the world's\nbest professional trainers and programs for all ages that will help\nthem achieve their full potential through a healthy lifestyle",
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ]
+ },
+ "review_tags": [
+  "organized academy",
+  "kickboxing",
+  "professional coaches",
+  "Coach Ahmed",
+  "warriors zone",
+  "boxing",
+  "Classy service",
+  "kids fitness",
+  "nutrition plan",
+  "instructor"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.03,
+ "reviews": [
+  {
+   "author": "Nahed Barakat",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "A big thank you to the amazing Kickboxing Academy and all the wonderful coaches! 🥊❤️\n\nThank you for your hard work, patience, encouragement, and support. You are not only teaching great skills, but also building confidence, discipline, and strength.\n\nWe truly appreciate everything you do! Keep up the amazing work! 🥊👏 ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "nada osman",
+   "rating": 3,
+   "when": "a month ago",
+   "text": "The academy is good overall, but their cancellation and refund policy is honestly very disappointing. Once you pay for a membership, whether it is for one month or three months, there is no refund if you need to cancel even if you have barely used the membership.\nI understand having terms and conditions but a complete no refund policy with no flexibility at all is unreasonable.\nThere should at least be an option for a partial refund based on the unused period especially if you pay for long term.\nSo before paying for a long term membership, please read the cancellation policy carefully once you pay, your money is basically bye-bye! 👋😅",
+   "owner_reply": "Dear Nada,<br><br>Thank you for your feedback. We would like to clarify that our cancellation and refund policy is clearly communicated before payment, and the terms are also stated on the payment receipt, which was signed and accepted at the time of registration.<br><br>The signed terms clearly confirm that membership payments are non-refundable. This policy is applied consistently to all members and is not specific to your membership.<br><br>We understand that circumstances can change, and we always try to assist our members within the terms that were agreed upon. However, once a membership payment has been made and the non-refundable terms have been acknowledged and signed, we are unable to issue a refund.<br><br>We value every member of Warriors Zone Academy and appreciate your feedback. We wish you all the best"
+  },
+  {
+   "author": "Za",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "My son absolutely loves his boxing classes here! The coaches are great, supportive, and know how to make the sessions fun while still challenging. He has become more confident, active, and disciplined since joining. Highly recommended for kids!",
+   "owner_reply": null
+  },
+  {
+   "author": "Gehad Mohamed",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very organized academy with well trained coach, he can deal with kids at different situations. Prepare child' body well and my child love this place and the coach.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarooh Episode",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "The best academy ever, My kids Had great time, Amazing coaches, built strong personality for my kids😍😍😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Sophia Ahmed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "A very well-organized academy with clean facilities. The coaches are highly professional and treat the kids with great care. Excellent experience and definitely worth recommending",
+   "owner_reply": null
+  },
+  {
+   "author": "A. Tulaimat",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Warrior Zone Kickboxing Academy in Sharjah is truly one of the best martial arts academies in the UAE. The gym offers a top-notch training environment, whether you're looking to improve your fitness, learn self-defense, or train at a competitive level.\n\nCoach Ahmad stands out as an exceptional trainer, with deep expertise in kickboxing, sports training, and nutrition. His coaching approach is both professional and personalized, ensuring that every student – from beginners to advanced fighters – gets the best training possible.\n\nOne of the things that makes Warrior Zone special is the care and attention given to kids. Coach Ahmad is great at building confidence, discipline, and strength in young learners, making it an ideal place for parents looking to enroll their children in a positive and motivating environment.\n\nThe academy is well-equipped, the atmosphere is welcoming, and the training is highly effective. If you're serious about kickboxing or just want to get in shape with the guidance of an experienced and supportive coach, Warrior Zone is the perfect place to train!",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdulrahman Essa",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I have been a member of the academy and i knew the coach from before for Gym training, the coach and the academy supported me very well and i managed to control my appetite. To sum up, the coach in charge (ahmed elganzoury) deals very well in training the kids (he is a certified coach for kids training) and teaches them how to control their energy, emotions and sometimes anger that may happen. He conducts as well a very powerful training for people of determination, ladies and adults that includes exercising, boxing training, kickboxing, nutrition plan, etc.\nfrom my experience i strongly recommend this academy for either adults, youth, people of determination, ladies and anyone interested in being disciplined and different.",
+   "owner_reply": null
+  },
+  {
+   "author": "Raghad Abo Ammar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Highly recommend this academy! The place is super clean, the coaches are professional and friendly, and everything runs on time. Great experience and amazing energy every time! 💯🔥",
+   "owner_reply": null
+  },
+  {
+   "author": "Denitsa Pavlova",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing place with very professional coach. Perfect for groups training or personal development. Highly recommended! Thank you coach Ahmed!",
+   "owner_reply": null
+  },
+  {
+   "author": "Dilara Dikur",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The cleanest place of all the academies that I know. Professionally equipped hall and professional trainers. The child's progress in a month in warriors zone is higher than in a year in a neighboring academy. Thank you very much for your work and professionalism.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sofia Jaison",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Great place to train your child professionally.  I saw how coach contacting with every child and really teaching them, how my child enjoyed the training -we bought membership and I was surprised that the price more than affordable compared to neighboring sections",
+   "owner_reply": null
+  },
+  {
+   "author": "Daphine Dube",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I'd give Warriors Zone Academy a solid 5 stars for their kickboxing classes! The energy in the classes is contagious, and the instructors are top-notch. If you're looking for a place to kickstart your fitness journey, this is definitely it! 🌟💪",
+   "owner_reply": null
+  },
+  {
+   "author": "Amr Gobashi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best academy ever\nOne of the most important academies that cares about children and developing their skills and self-confidence\nThx coach ahmed 💪🏻🫰",
+   "owner_reply": null
+  },
+  {
+   "author": "Anas Alkhani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My son is 6 years old, and I noticed a big change in his personality in terms of self trust and being more tough and this was in 2 months only",
+   "owner_reply": null
+  },
+  {
+   "author": "Rania Hijazi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best academy they are very keen with kids and friendly they learn every weakness point in the child and they work on it. am very satisfied",
+   "owner_reply": null
+  },
+  {
+   "author": "Rami Nassar",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best academy ever for teaching your son to be more stronger and confident.\n\nGreat captains which helps your son to start and love the fighting.",
+   "owner_reply": null
+  },
+  {
+   "author": "Joel Kangoni",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Warriors Zone Academy is a 5-star gem for kickboxing! The instructors bring the heat, the energy is unbeatable, and the classes are a knockout! Highly recommend for anyone looking to punch up their fitness routine! 🌟💪",
+   "owner_reply": null
+  },
+  {
+   "author": "A Et",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Best coach ever they have good atmosphere and practice a lot to be healthy",
+   "owner_reply": null
+  },
+  {
+   "author": "Dragon design",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Very good",
+   "owner_reply": null
+  },
+  {
+   "author": "Yara Daou",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best academy ever to teach kids how to defend themselves and grow up well with strong personalities💪🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "dhuha abid",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My son is very happy with the academy and the coach is very good with the kids.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vp Vp",
+   "rating": 2,
+   "when": "2 years ago",
+   "text": "Hygiene of the place raises many questions, organisation and quality of the sessions could have been much better in comparison to other places around",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmad Al Naqib",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Amazing place ,best atmospher ,helping kids on building self trust and maintain healthy style while enjoying sports , thanks alot for the great team",
+   "owner_reply": null
+  },
+  {
+   "author": "Maher 5 Khalil",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The place is very clean\nThe Coach is very good\nI really recommend to bring your kids and enjoy this experience",
+   "owner_reply": null
+  },
+  {
+   "author": "algaily mostafa",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Best academy ever and professional coaches\nMany thanks coach GANZORI\n\nhighly recommended 👌 👍 👏 💯",
+   "owner_reply": null
+  },
+  {
+   "author": "Mdm Jfjdhhdh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "One of the best academys",
+   "owner_reply": null
+  },
+  {
+   "author": "Vena Yasser",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "good team",
+   "owner_reply": null
+  },
+  {
+   "author": "Jawdat Alasmi",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Very good academy",
+   "owner_reply": null
+  },
+  {
+   "author": "Zaid Tamer Daher",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Coach Ahmed is amazing and it’s the best academy",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    644,
+    1129
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 65,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/warriors-zone-academy/",
+ "buy_likelihood": 8
+}

@@ -1,0 +1,469 @@
+{
+ "slug": "clinicare-naif",
+ "name": "Clinicare Naif",
+ "place_id": "ChIJDw21mE5DXz4R3yyedb6Vq-Y",
+ "category": "physiotherapy clinic",
+ "category_weight": 14,
+ "area": "Deira, Dubai",
+ "address": "Naif Rd - Naif - Deira - Dubai - United Arab Emirates",
+ "building": "EMPIRE PLAZA",
+ "location": {
+  "lat": 25.2751768,
+  "lng": 55.3111885
+ },
+ "phone": "+971 4 261 7175",
+ "rating": 4.5,
+ "userRatingCount": 184,
+ "rating_distribution": {
+  "oneStar": 17,
+  "twoStar": 3,
+  "threeStar": 2,
+  "fourStar": 16,
+  "fiveStar": 146
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Clinicare%20Naif&query_place_id=ChIJDw21mE5DXz4R3yyedb6Vq-Y",
+ "website": "",
+ "categories": [
+  "Medical Center",
+  "Medical clinic",
+  "Specialized clinic"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "7:30 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "7:30 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "7:30 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "7:30 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 1 PM, 5 to 9 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "7:30 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 1 PM, 5 to 9 PM"
+  }
+ ],
+ "owner_description": "IMARA Health care’s vision is to provide quality healthcare for an affordable price to the community of Dubai & Northern Emirates, so we introduced a chain of Clinicare Medical Centers and RX Pharmacy brands in the UAE.",
+ "amenities": {
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "physiotherapy",
+  "dental department",
+  "sciatica pain relief",
+  "pcr test",
+  "General surgeon",
+  "orthopedic",
+  "cooperative nurse",
+  "cooperative staff",
+  "varicose veins",
+  "experienced doctor"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.13,
+ "reviews": [
+  {
+   "author": "Maiko Dungo",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Very good and clean clinic with excellent service. Dr. Shabnam was very professional and provided great care.\n\nSpecial thanks to SOUMYA, the receptionist, and Nurse Nimisha for being so kind, accommodating, and attentive.\n\nWe felt very comfortable throughout our visit. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Riyu razz",
+   "rating": 4,
+   "when": "2 weeks ago",
+   "text": "Dr. Karthika Ajay Kumar is a very kind, caring, and dedicated doctor. ❤️ Her patience, understanding, and the way she treats patients with compassion truly make a difference. She listens carefully and makes patients feel comfortable and supported. We are grateful for her care and dedication. Highly recommended! Thank you, Doctor, for your kindness and commitment. 🙏🏻❤️\n\nRiyas ahammed 🙌🏿",
+   "owner_reply": null
+  },
+  {
+   "author": "Abbas Marthya",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I would like to share my sincere appreciation for the excellent service provided by Dr. Karthik and Receptionit Ayisha very knowledgeable, supportive, and helpful throughout the registration process. Dr. Karthik explained the situation clearly and provided the necessary treatment with great care. Truly appreciate their professionalism, kindness, and outstanding support. Keep up the great work! 👏👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Jefin Joseph",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "We had a great experience with this organization. All the staff were very friendly, helpful, and cooperative. We truly appreciate their excellent service and support. 👍🏽",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Angola420",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Im so happy to see best dr.munshira shafi so respect and nice talking every thing perfect tnx for ur time and help 🌹🌹",
+   "owner_reply": null
+  },
+  {
+   "author": "Sumaila Karim",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Clinicare Naif thank you for your good presentation and massive work you are doing, especially how you treat patients, am very glad of that , you are the best i ever seen, all the  staff are very carm and friendly thank you for your good job ,\nAllah bless you all?👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammed Sirajudheen",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "All the services are good ,dr Munsheera Chenath is very caring ,friendly and helpful ,I’m very happy with the consultation.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aysha Shanu",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Dr Munsheera was very helpful and professional.she explained everything clearly and I recommend you to visit her .the nurses are very good and caring .",
+   "owner_reply": null
+  },
+  {
+   "author": "Moosa Abu Bakar",
+   "rating": 4,
+   "when": "3 months ago",
+   "text": "Professional & courteous staff members. Doctor's consultation and other services are reasonably priced as well.",
+   "owner_reply": null
+  },
+  {
+   "author": "Irshad Shaikh",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very Nice Clinic ,All staff are friendly and ready to help.Dr Anish will make you comfortable and treats you well. Sister Fatima is joyful and ready to help.\n.Good thing of this clinic is unnecessary tests they will not do , Whatever is required only they will do.Have been going here for last 6 years for my medical needs.",
+   "owner_reply": null
+  },
+  {
+   "author": "meena gupta",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I had a wonderful experience with my physiotherapist Mrs Anju, my condition was very bad , knee was swollen , fluid around ,  pain, could not even walk a step. She cured me fully in 6 to 8 sittings . She is very good, soft spoken, knowledgeable & friendly. Now I can walk properly, no pain or nothing. God bless her & Clinicare.",
+   "owner_reply": null
+  },
+  {
+   "author": "Murtaza Suratwala",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently received physiotherapy treatment by Dr. Ayesha and I would highly recommend for her if any needs of physio. She is good at massaging and examine the cause. I got relief from my ACL Pain in both knees.\nAnd I'm planning to have some more sessions to get completely cured.",
+   "owner_reply": "We are glad your experience in getting treatment was pleasant. Thank you for choosing Clinicare Naif"
+  },
+  {
+   "author": "Fasalsha Fasalsha",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently had varicose veins treatment with Dr. Renjith, From the initial consultation to the follow-up appointments, Dr. Renjith and his team were professional, caring, and attentive. The procedure was explained thoroughly, and I felt completely at ease throughout the entire process. The treatment itself was quick and painless, and the results have been fantastic – my legs haven't looked this good in years! I highly recommend Dr. Renjith to anyone seeking effective and compassionate care for varicose veins.",
+   "owner_reply": "We are glad to know you had a pleasant experience. Thank you for having chosen Clinicare Medical Centre. We strive to give back to the community. For sure, we will share this feedback with Dr. Ranjith. Thank you very much for your feedback."
+  },
+  {
+   "author": "rose gomes",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I received very good treatment from physiotherapist Dr. Navami.. my back pain almost got much relieved..appreciate her good work, tolerance and patience to cure our pain.\nI always got good response and treatment from this Clinicare Naif branch...doctors like Dr. Mishkatul, Dr. Sabita and Dr. Sumon and all staff people are very cooperative whenever I visited..\n\nThank you so much and much appreciated for all your good work!!...All the best to your team...\nThanks n Brgds...Rose Mary..",
+   "owner_reply": "Thank you for your valuable feedback. We are glad your visit to our clinic was a good experience. "
+  },
+  {
+   "author": "Muhammad Haseeb",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Friendly Staff And Good Doctors",
+   "owner_reply": null
+  },
+  {
+   "author": "Vishnu S Raveendran",
+   "rating": 3,
+   "when": "Edited 4 years ago",
+   "text": "Very friendly front office & Staffs. For the PCR test now only 80AED. All time the the clinic is too busy",
+   "owner_reply": null
+  },
+  {
+   "author": "Gul Habib SULTAN",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I having low back pain since last 6 months, I consult everywhere ortho doctors but my pain still there. When I start physiotherapy from naif doctor AYISHA did very good job, My pain is vanish now. Thank you doctor for treating me. Highly recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Naghma Khatoon",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Had a great experience with Ms. Anju, the physiotherapist. She did a great job with my mother's osteoarthritis and sciatica pain. My mother started feeling the improvement from the 1st session onwards and with 5 sessions the pain was minimum. Ms. Anju has been very kind and patient and very patient-friendly which is why my mom was very comfortable and trusts her more with her care. She even called 2 days after the sessions ended with her to check up on my mother. Definitely a gem!",
+   "owner_reply": null
+  },
+  {
+   "author": "Anasuya Ramesh",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Today was my final physiotherapy session with Dr. Ashwathy. She knows what type of treatment will help the patient to release the pain. I wish her all the success. Truly helpful and recommended service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vinay K P",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "I had severe shoulder pain, consulted Orthopedic specialist Dr. Adhinarayan He found the route cause of the pain and referred me to Physiotherapist Ms. Aswathy. Brilliant physiotherapist,  friendly team supportive , received follow-up and reminder calls for each session. Awesome service provided by the team highly recommend Clinicare Naif for their best service in each step.",
+   "owner_reply": null
+  },
+  {
+   "author": "Gracia Paul",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I would highly recommend for physiotherapy in clinic care naif done by Ayesha and nyomi. Both are great, in complete treatment in exercise and ultrasound.\nHowever, Ayesha is also great in massaging and pressuring technique to remove extreme pain. As I had sciatica, it helped me to relieve pain.\nI think both of them.",
+   "owner_reply": "Thank you for your valuable feedback. We are glad your visit to our clinic was a good experience."
+  },
+  {
+   "author": "rahith k",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "My Physio, Ms Ashwathi was efficient in dealing with my problems and seem to ensure that the atmosphere is calming, professional and friendly. she made me feel more positive and relaxed about my recovery. Things were explained in a much more understandable way.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ranjeet Kaur",
+   "rating": 1,
+   "when": "3 years ago",
+   "text": "The clinic care services is very slow and poor and the receptionist ashkar is very rude we are standing in front of him and he was chit chatting with other staff in his native language. While asking him politely if he can assist us with the sick leave certificate as i was not feeling well he replied everyone is not feeling well what i can do you need to sit 25-30 minutes Mr. Ashkar has a very bad attitude towards the customers\nClinic care al sammary",
+   "owner_reply": null
+  },
+  {
+   "author": "Faisalmir Mir",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "In samari clini care.  The best nurse Ms. Sruthi .  She assist so good. She is very professional.  She makes patience feel so better.  Taking care n smiling.  The best nurse.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sagar Ganesh",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "If you're ever looking for a dentist please go here and ask for Dr. Vinod.\nHe's one of the best dentists around here and very friendly!\nYou won't feel like you're at a dentist because he'll make you feel comfortable before getting you fixed up.\nHighly recommend visiting here and meeting  Dr. Vinod for any dentist related problems!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Salih",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Dr. Ranjith did good work whichs took all the stiching removeral very easy and without any pain.\n\nAnd nusring staff special Anila she's very kind nurse and l like the way she did dressings.\n\nWish you all the best 💕🙏",
+   "owner_reply": null
+  },
+  {
+   "author": "Himayat Shinwari",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I would love to phrase Dr Anju Chacko professional and friendly Approach towards my Physio therapy sessions. I am feeling much better after my treatment. Thank you Doctor for your care.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nargis Dewji",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Anju is a very good physiotherapist,  so patient and worked so well with me, slow and steady we have done so well, she helped me gain my confidence, and here I am walking now.",
+   "owner_reply": null
+  },
+  {
+   "author": "BURJ NAHAR BUILDING CLEANING SERVICES",
+   "rating": 4,
+   "when": "4 years ago",
+   "text": "Since 4 years I am visiting this clinic. Their service is excellent. Especially Dr.Sabitha  & Dr. Anish is very friendly  with the patients.\nAlso the staff in this clinic is sincere and hard working. Absolutely a friendly\nenvironmental than a clinic..",
+   "owner_reply": null
+  },
+  {
+   "author": "Amjad Munna",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Have my wisdom tooth extraction with Dr Benoy Baney. Goes all process so smoothly and good.Will recommend to everyone and also appreciate and thanks sister Anila for their helpful attitude and attention",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1060
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 65,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/clinicare-naif/",
+ "buy_likelihood": 7
+}

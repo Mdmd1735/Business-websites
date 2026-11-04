@@ -1,0 +1,823 @@
+{
+ "slug": "black-wolf-martial-arts-center",
+ "name": "BLACK WOLF MARTIAL ARTS CENTER",
+ "place_id": "ChIJLWnlPzVbXz4R3PmbXW6Aj4A",
+ "category": "martial arts academy",
+ "category_weight": 13,
+ "area": "Al Majaz, Sharjah",
+ "address": "Al Shahed Tower - 6th floor - Al Khan - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3250667,
+  "lng": 55.3736831
+ },
+ "phone": "+971 58 294 4004",
+ "rating": 4.9,
+ "userRatingCount": 96,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 1,
+  "fiveStar": 94
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=BLACK%20WOLF%20MARTIAL%20ARTS%20CENTER&query_place_id=ChIJLWnlPzVbXz4R3PmbXW6Aj4A",
+ "website": "",
+ "categories": [
+  "Martial arts school"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "Closed"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10:30 AM to 11:30 PM"
+  }
+ ],
+ "owner_description": "Black Wolf MMA & Boxing is your ultimate destination for fitness and martial arts. We offer a variety of disciplines, including MMA, Muay Thai, Taekwondo, Brazilian Jiu-Jitsu (BJJ), Boxing, Calisthenics, swimming and CrossFit. Our state-of-the-art facility features an MMA cage, a boxing ring, and top-notch equipment tailored to meet the needs of beginners and professionals alike. Whether you're training for competition, improving your fitness, or mastering self-defense, our expert coaches and welcoming community are here to support your journey. Join us and unleash your potential!",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Shower": true
+   }
+  ]
+ },
+ "review_tags": [
+  "coach hassan",
+  "mma training",
+  "boxing",
+  "mma gym",
+  "dedicated coach",
+  "coach murad",
+  "clean equipment",
+  "coaches",
+  "professional boxers",
+  "weightloss"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 52
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 41
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   }
+  ],
+  "Fr": [],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 29
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "shahabaz mansoor",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "The best boxing centre in UAE, I joined as a beginner but the amount of support and training I received from all the coaches were incredible.\nCoach Ali, Coach Mahmoud and Coach Murad, all three are all equally the best coaches!\nHighly recommended for all levels",
+   "owner_reply": null
+  },
+  {
+   "author": "Mujtaba Ali",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Great gym!! Special thanks to coach hassan. Hes an exceptional coach, he makes us not only great fighters but also is like a big brother who teaches us disciple and respect. Hes also super funny best coach🫂",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdulrahman Al Kafri",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Its a great experience training at black wolf especially with Coach Hassan Great Coach hes the Head of MMA in black wolf and his students have achieved over 40+ gold medals in the UAE through his teachings and hard work 💪",
+   "owner_reply": null
+  },
+  {
+   "author": "Hasan Almouhammadi",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I’ve been training at Black Wolf in Sharjah, United Arab Emirates, and I honestly couldn’t recommend it more. The atmosphere is motivating, professional, and welcoming whether you’re a complete beginner or an experienced boxer.\n\nThe coaches are outstanding — knowledgeable, patient, and genuinely invested in your progress. They pay close attention to technique, conditioning, and discipline, making sure everyone improves safely and effectively. You can tell they’re passionate about boxing and truly care about their members.\n\nThe gym itself is clean, well-equipped, and has a strong team spirit. Every session pushes you to be better, both physically and mentally.\n\nIf you’re looking for a serious boxing gym with top-level coaching and a supportive environment, Black Wolf is definitely the place to be in Sharjah. 🥊🔥",
+   "owner_reply": null
+  },
+  {
+   "author": "Muawiyah",
+   "rating": 5,
+   "when": "Edited 3 months ago",
+   "text": "I am boxing here since 4 years and black wolf is the best gym i’ve ever been too i’ve fought here more than 20 times every month theres fight nights we have good coaches such as coach Murodjon who’s helped me win fights many times and teached me a lot of things that i didn’t know about boxing if you ever need help in anything this coach will always be there to help you with literally anything and with him step by step you will become a champion guaranteed!",
+   "owner_reply": null
+  },
+  {
+   "author": "shayaan muhammad",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I have been training for a week in black wolf and I feel consistent and confident training here. The coaches are really helpful and motivating and give frequent tips to improve.\nI would it recommend to any one of any age.",
+   "owner_reply": null
+  },
+  {
+   "author": "Anas Nagal",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Hello everyone really best boxing gym in sharjah\ncoaches are from Uzbekistan very high level",
+   "owner_reply": null
+  },
+  {
+   "author": "Mahmoud Mohammed",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "The best in the Emirates, a top-level professional facility. We strive to train the team to reach professionalism and participate in local and international tournaments ✊🥇",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmad Almkatran",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I recommend for specially for professional boxers and who one to be a champion… coaches from Uzbekistan very professional coaches",
+   "owner_reply": null
+  },
+  {
+   "author": "Earl Pinto",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I just joined Black Wolf 2 weeks back and I can confidently recommend the MMA gym to everyone. I train with coach Hassan and he is very nice, pushes you past your limits and makes training fun aswell. He makes learning MMA exciting and it’s a great environment for everyone there. My stamina endurance, technique and strength has increased very quickly thanks to Blackwolf MMA!",
+   "owner_reply": null
+  },
+  {
+   "author": "m",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I signed up 2 months ago, and I can say it is one of the best boxing gyms I have seen ever. It helps a lot with weightloss, I was 80 kg before signing up, I was overweight, I am now 68 kg and very proud of my physique. The coaches push you past your limits, and make sure you are able to fight in the ring. They demonstrated perfect technique, and have great sportsmanship. Especially Coach Fahad, he motivates everyone to keep pushing against your limit, and to never give up.10/10 Would definetly recommend for any beginners.",
+   "owner_reply": null
+  },
+  {
+   "author": "Syed Hussaini",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "For the past seven months, my children have been training here. The instructors and staff are courteous and professional. Hassan, is their coach. It is admirable how he trains, how passionate he is, and how he interacts with his students. My children benefit from his understanding of training methods, which also keeps them inspired.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ashanfe Damka",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Best boxing gym in the sharjah\nBest coaches have in this gym\nI love this gym",
+   "owner_reply": null
+  },
+  {
+   "author": "Shaheer Khalid",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Good clean facilities and great coaches especially coach Hassan",
+   "owner_reply": null
+  },
+  {
+   "author": "Saad Malainine",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Had one of the best training camps I had in my life and I’m saying that as a boxer who been in the game and seen a lot, with coaches that want to coach and their whole want is to help the fighters and give time to teach beginners, and the most respectful staff shout out to black wolf man defo coming back for the next training camp",
+   "owner_reply": null
+  },
+  {
+   "author": "Saadeldeen AlSayeh",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Very professional coach’s and u will see accurate results in ur health, good prices and it is a good gym and it has any mixed martial art and very respectful people",
+   "owner_reply": null
+  },
+  {
+   "author": "Ziad",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is the best boxing gym in sharjah.\nSolid training program it’s for professionals.\nCoach Ali is a great coach with lots of experience and he helps everyone. Also coach Murodjon, Ikram and Fahad are great coaches.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alisher Abdullaev",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Real professional martial arts centre 🥇🏆👑💯\nJoin us champions 💪🥊🥋🤼",
+   "owner_reply": null
+  },
+  {
+   "author": "Haris Asim",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Great Boxing Coaches & Top Professional Boxing Team with Professional fighters.\n\nAmazing Equipment and boxing bags",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Abdelraouf",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I used to train in black wolf before I got an injury coach Hassan was training me and I can honestly say coach Hassan is so dedicated and unique with his ways of teaching us and I had the best experience with learning how to build my self up from a beginner to a champ and it’s my honour to train in a gym like this it always has available equipment and the gym is always open welcome for the students to train anytime and the people their r so friendly. Inshallah I hope I recover soon and go back to training with black wolf🤍🦾",
+   "owner_reply": null
+  },
+  {
+   "author": "Mujtaba Ali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very amazing gym, great ppl great energy. Coach hassan is the goat. He really makes everything fun even when training and all coaches there mashalah are very good",
+   "owner_reply": null
+  },
+  {
+   "author": "maro",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Ever since i joined the gym i have been treated like one of their own. nothing but the best of hospitality, although the training is though, its what will build you and make you a great",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdo Elghamre",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Captain Hassan is one of the best coaches in the Emirates. He takes good care of the player and strives to make the player the best. Thank you, Captain Hassan. ✨🤍🇵🇸",
+   "owner_reply": null
+  },
+  {
+   "author": "Siddharth",
+   "rating": 4,
+   "when": "3 months ago",
+   "text": "Best boxing gym in Sharjah",
+   "owner_reply": null
+  },
+  {
+   "author": "hamza tailouni",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Blackwolf is a very good and tough gym which helps fighters get better at fighting and learn a lot more than they can at any other gym, they have coaches like coach fahed a very good coach, and coach murad, and coach ikrom, which are all very good coaches that help the fighters get better daily",
+   "owner_reply": null
+  },
+  {
+   "author": "Karim Nakouche",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Name: Karim, coach I'm with: coach Hassan, what I do: MMA, it's a very good gym,the coach is very professional and makes us stronger every day, he motivates us to our limits, and pushes us to become the best, the other coaches are also very professional and care about they're students, they give a lot of effort into making us better, and honestly I love coming to MMA, HIGHLY RECOMMEND THIS GYM, SEND 2-3 YEARS BLACK WOLF AND FORGET, they have Muay Thai, boxing, MMA, wrestling, jiujitsu, CrossFit, and weight loss training,",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdal Raheem Hussein",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Excellent gym, I highly recommend it. Good service and experienced trainers, especially Coach Ali and Coach Murad.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhamed Zubair",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Wonderful friendly and experienced coaches , cleaning and modern equipments, intense and professional training for becoming champions ...... I personally love their way of coaching",
+   "owner_reply": null
+  },
+  {
+   "author": "liladm",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very good gym, and very experienced coach’s I do mma with coach hassan he’s so good and very experienced and helps us so much",
+   "owner_reply": null
+  },
+  {
+   "author": "Tareq Mahran",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very nice gym good atmosphere and coach Hassan is very professional and really drives you to be the best",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 65,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/black-wolf-martial-arts-center/",
+ "buy_likelihood": 8
+}

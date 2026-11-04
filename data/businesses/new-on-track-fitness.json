@@ -1,0 +1,1495 @@
+{
+ "slug": "new-on-track-fitness",
+ "name": "New On Track Fitness",
+ "place_id": "ChIJRXrjNVVdXz4R4oBDpQrQUPU",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Deira, Dubai",
+ "address": "Al Maktoum Rd - near Abu Shakra - Al Muraqqabat - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2627417,
+  "lng": 55.3179798
+ },
+ "phone": "+971 58 265 8955",
+ "rating": 4.9,
+ "userRatingCount": 279,
+ "rating_distribution": {
+  "oneStar": 4,
+  "twoStar": 1,
+  "threeStar": 3,
+  "fourStar": 9,
+  "fiveStar": 262
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=New%20On%20Track%20Fitness&query_place_id=ChIJRXrjNVVdXz4R4oBDpQrQUPU",
+ "website": "",
+ "categories": [
+  "Gym",
+  "Boxing gym",
+  "Karate school",
+  "Yoga studio"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "4 PM to 12 AM"
+  }
+ ],
+ "owner_description": "New On Track Fitness Gym, Now open in Al Rigga!\n\nTired of your fitness goals not achieving?\nVisit us and start your journey!\nDON'T WISH FOR IT, WORK FOR IT!",
+ "amenities": {
+  "Service options": [
+   {
+    "Online classes": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking garage": true
+   }
+  ]
+ },
+ "review_tags": [
+  "motivating atmosphere",
+  "trainers",
+  "Coach Ahmed",
+  "motivating trainer",
+  "friendly staff",
+  "boxing session",
+  "female coach",
+  "accommodating staff",
+  "dedicated coach",
+  "gym for beginners"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 29
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 0,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 98
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 75
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 0,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 56
+   }
+  ],
+  "We": [
+   {
+    "hour": 0,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 51
+   }
+  ],
+  "Th": [
+   {
+    "hour": 0,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 98
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 66
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 0,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 54
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 0,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   }
+  ]
+ },
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "Sanjay Sachi",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI’m very happy with On Track Fitness Centre. The facilities are excellent, and the atmosphere is friendly and motivating. Special thanks to Coach \"Rahul\" and Coach \"Anand\" for being so friendly, supportive, and helpful. They explain everything clearly and guide you properly from the beginning. Highly recommended to anyone looking for a great gym with excellent coaching! 💪👏",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Lika",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I joined expecting just a regular gym, but I was pleasantly surprised. The staff welcomed me warmly, the trainers were incredibly supportive, and the positive atmosphere made me feel comfortable from day one. It has exceeded all my expectations, and I'm excited to keep coming back!",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕<br>"
+  },
+  {
+   "author": "Ian Cacondangan",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "I have started doing workout for more than a year now and I must say this gym have brought me alot of changes to be the fittest and best version of me physically and mentally. I would like to thank the coaches but there is one person I would consider who took a vital part in all of these changes. Shout out to COACH CHONA!!!! You are not just a professional coach but the kindest person I’ve ever met as you treat all your clients humanely whilst trying to push us to our limits. She also monitors all the updates of her clients and the proudest among all people if she saw progress within us. Again thank you COACH CHONA and keep on helping and assisting people as always. KUDOS COACH CHONA!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Dimple Piparia",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "New on fitness track is a fantastic gym with very good facilities and equipments. All the trainers are very supportive and friendly! Special thanks to Coach Rahul as he is my mentor since 7 months and I have seen a very fantastic change in myself. His patience, dedication has motivated me alot through out. He is an excellent trainer with expertised knowledge who has made all the sessions very challenging and effective!! His constant motivation has made me achieve my target and have become more fitter compared to earlier !!  I am very happy with my progress and would highly reccomend anyone who is looking to improve fitness!! Thank you Coach Rahul for all the support and motivation!!! Keep motivating😊",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "lou marco bialba",
+   "rating": 4,
+   "when": "2 weeks ago",
+   "text": "I’m happy with the gym facilities and overall atmosphere. The equipment is good, and the environment is motivating,unfotunately the music they are playing is not motivating they are playing different languages should be play english music.theres a lot of music  in the youtube that can motivate them.Like(ultimate gym motivation music,viking rap music and etc.....)",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Michael Baracael",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Highly recommended Ate Chona as a gym trainer! She is very dedicated and really wants me to see results from my workouts. 💪\n\nI also recommend New Ontrack Fitness. Affordable membership, nice facilities, and a good place to get fit! 👍",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Glenn Cacondangan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Aside from enjoying the great company at the gym, what truly motivates me is the environment created by the incredible staff especially Miss Chona. I deeply admire how she treats everyone with utmost respect, dignity, and kindness, instantly making clients feel comfortable and motivated during every single session.\nWhat sets Coach Chona apart is her perfect balance of personality and professionalism. She is wonderfully funny, cheerful, and lighthearted, yet incredibly determined and passionate when it comes to helping you reach your goals. Her positive energy and humor make the hardest workouts enjoyable, while her dedication inspires everyone to push a little harder.\nMiss Chona is truly one of the greatest assets to this gym. Everyone is always delighted to train with her, especially those who value genuine kindness and a fun, vibrant personality. Thank you, Coach Chona, for making a lasting difference in the lives of every client you encounter. Your passion never goes unnoticed. You are truly the best!",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Maria Yanna",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great gym with clean facilities and well-maintained equipment. The trainers are supportive, knowledgeable, and always motivating!\n\nHighly recommend 10/10 stars⭐️",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Maria Abuda",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "One of the nicest gyms I've ever visited is New On Track Fitness. The coaches are excellent and highly qualified. You won't be hesitant to join when you visit because of how welcoming the place is. You can meet nice individuals here, form new families, and create new acquaintances. 🙏 Thank you New On track for being part of our journey as we keep pushing ourselves to get fitter and healthier. 🤲🏻🙏",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Carl Valderrama",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Coach Chona is honestly the best trainer I’ve had! She’s fun, very friendly, and super easy to approach. She makes every session enjoyable while still making sure you stay focused and understand everything she teaches. She’s motivating, supportive, and really pays attention to helping you improve. Highly recommended! 🙌",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "May Thin",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I joined the gym for 6 months and continousing. My trainer, Chona is paient, and caring. Everyone start noticing my body changes. All the trainers are checking for each person. All are patient, caring, checking and friendly.",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕<br><br>"
+  },
+  {
+   "author": "Judy",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "My experience at New On Track Fitness's boxing session was nothing short of incredible. The gym itself exudes an inviting and motivating atmosphere, and the boxing session took it up a notch.\nLed by a skilled and passionate coach Ameer, the session seamlessly combined technique, strength, and cardio training. The well-structured drills kept the energy high and the sweat flowing. Whether you're a boxing enthusiast or a newbie, the coach's guidance ensures a challenging yet accessible workout.\n\nWhat stood out was the sense of community among participants. We pushed each other, celebrated successes, and left feeling empowered. If you're looking for a gym and a boxing experience that will leave you inspired and energized, look no further than New On Track Fitness Gym",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕<br>"
+  },
+  {
+   "author": "Ahmed khalil",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "My experience at this gym was very disappointing, and unfortunately, I cannot recommend it.\n\nI have been a member of this gym for 3 years. Last Friday, I came in for my workout without knowing that my membership had expired. I had previously changed my phone number and informed the gym management, so I never received any notification regarding the expiration of my membership.\n\nWhile I was there, two trainers were talking to each other in a language I did not understand. Then one of them approached me and asked in a rude and unprofessional manner whether I had paid my membership fee or not. I found this behavior disrespectful and upsetting.\n\nI went to the reception desk to ask about my membership status and why I had not received any notification. The response was indifferent, and when I raised my concern about the trainer’s attitude, no one addressed the issue or offered an apology.\n\nIt is disappointing to receive this kind of treatment after being a loyal member for three years. Overall, it was a very poor experience, and I hope the management improves the way they communicate with and respect their members.",
+   "owner_reply": "Dear  AHMED KHALIL<br>Thank you for sharing your feedback and for being a member of our gym for the past three years.<br>We are sorry to hear that your recent experience left you disappointed. We value all our members and always strive to communicate respectfully and professionally.<br>Regarding your membership, our records show that the membership had expired 17 days prior to your visit, and an expiry notification was sent to the contact details available in our system. During your visit, our staff’s intention was only to inform you about the membership status so that we could assist you accordingly. We regret if this interaction came across differently than intended.<br>After learning about your concern, we also reached out to you via WhatsApp to apologize and clarify the situation, as maintaining a positive relationship with our members is very important to us.<br>We appreciate your feedback and will continue working to improve our communication and member experience. If you would like to discuss this matter further, we would be happy to speak with you directly.<br>Thank you for your support over the years, and we wish you all the best.<br>New OnTrack Fitness Management"
+  },
+  {
+   "author": "Richard Parungao",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently joined #NewOnTrackFitness and I’m absolutely loving it.The facilities are top-notch, with a wide range of equipment to cater to all fitness levels.\nThe trainers are incredibly knowledgeable and always ready to offer guidance and support which makes working out so much more effective and enjoyable. The gym has a positive, motivating atmosphere that really keeps me energized throughout my sessions.\nI also appreciate the cleanliness and well-maintained environment, which makes it a pleasure to work out every time. Overall, it's a fantastic place to achieve fitness goals, and I highly recommend it! Huge shoutout to Ate Chona for always helping us and to the lovely receptionist Queen which is very accommodating . Keep up the good work guyzzzz 🥰😂",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "zenab azmat",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "“Amazing gym with clean facilities and well-maintained equipment. The atmosphere is always energetic and motivating! A special shoutout to Coach Chona — she is incredibly supportive, knowledgeable, and truly amazing at what she does. She pushes you to do your best while keeping workouts fun. Somehow she makes you smile even when your legs are begging for mercy after squats! 😄 Highly recommend this gym if you want great training, positive vibes, and a coach who genuinely cares about your progress.”",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "NANDU P",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I’ve had an amazing experience at this gym, and a huge credit goes to my trainer, Mr. Ananth. He has excellent knowledge about fitness, workouts, and proper techniques. He explains everything clearly and makes sure I perform each exercise correctly to avoid injuries and get the best results.\n\nHe is super motivating, supportive, and always pushes me to improve beyond my limits. His dedication and positive energy make every session enjoyable and effective. I’ve seen great progress because of his guidance.\n\nHighly recommend this gym, especially training with Mr. Ananth! 💪🔥",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Humayun Aziz",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I like two characters in the gym the most one is nice smile of the receptionist Shina and second Chona",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Del Rosario John Paul M.",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "very nice gym and hands on to the coaches and staff they will help you to achieve your goals and they are so approachable",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "MUHAMMED SHAHEER",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I’ve been gym training with Rahul for last 4 week . He creates easy-to-follow workout plans, motivates you every session, and ensures exercises are done correctly. I’ve seen real results and feel stronger and healthier.\n\nHighly recommend Rahul!",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Monica Mae Mendoza",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "All the staff here very kind and approachable specially to coach chona(filipina), she is very dedicated to all her trainee. Over all the gym is excellent.",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Naj Naj",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "New On Track Fitness gym Deira Branch has state-of-the-art equipment, knowledgeable trainers, and a supportive atmosphere that motivates me to reach my fitness goals.Clean and spacious facility, friendly staff, and a wide range of group classes to choose from makes this gym my go-to for a great workout experience. I commend receptionist queenie being the most kind and approachable fromt desk you can ever ask ❤️ kudos to all gym instructors as they will all assist you anytime you need. 💕💕",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Khin Sein",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "\"I really like this gym and the support from most of the coaches is excellent. But I have a bad experience with the female coach. She never calls me by my name and always refers to me just by my nationality. This is not professional behavior. Management needs to fix this, as everyone should be treated with basic respect.\"",
+   "owner_reply": "Hi Khin Sein, thank you for your feedback and for bringing this to our attention. We’re happy to hear that you enjoy the gym and appreciate the support from most of our coaches.<br>We sincerely apologize for the experience you had with our female coach. At our gym, we believe every member deserves to be treated with respect and professionalism at all times. Your concern has been noted seriously, and we will address this matter internally with our team to ensure this does not happen again.<br><br>Thank you again for sharing your experience with us — your feedback helps us improve and provide a better environment for everyone. 🙏"
+  },
+  {
+   "author": "Enesh Bashimova",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I have been training since 2 weeks and want to say thanks to Anand! Amazing training! Trainer is a highly professional, patient, and supportive trainer. He explains everything clearly and creates a very positive learning atmosphere. I genuinely enjoyed the session and learned a lot. Thank you so much Anand! Highly recommend!",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Faran Hussain",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "One of the best gym I've been in. Staff is like a team. Great experience. When i came in dubai 6 months ago this gym fascinated me to be a part of it. The equipment and standards are very well maintained. Best of luck for the upcoming endeavours.",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕<br>"
+  },
+  {
+   "author": "Christine Juntilla",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Fantastic Fitness Center in Dubai- New On Track Fitness!! We enrolled our daughter for Karate class last month and she loves it. She is enjoying and learning. All trainers are very active, super nice and very helpful. Their receptionist/ Trainer Queenie is awesome friendly she aways go extra mile to help all their clients needs and offer programs that would be more beneficial to them. Kudos!💪👏",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕<br>"
+  },
+  {
+   "author": "Julie Lim",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Always love to come back to this gym! Great coaches and good crowd as always.\n\nThank you for the support team! Especially to coach Rahul and coach Chona! 🫶🏻🫶🏻\n\nGood banter and always pushing you so you can do your best.",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Louren Cinco",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Spacious gym, cleanliness is on point ☝🏻 all staff and instructors are so nice and professional. Once you become their member, they would keep you ON TRACK with your schedule and your fitness journey!👍🏻🥰",
+   "owner_reply": "Thank you for your feedback ! we really appreciate it 🙏❤<br>"
+  },
+  {
+   "author": "Shirin Moiz",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The kickboxing sessions here are absolutely amazing! 🥊 The gym has a great atmosphere, the trainer is motivating, and the workouts are both fun and challenging. It’s the perfect balance of fitness and technique, and you really feel the progress after each class. The place is well-maintained, the energy is always high, and it’s definitely worth it. Highly recommend for anyone looking to get stronger, fitter, and more confident!",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕<br>"
+  },
+  {
+   "author": "mariam Dwewd",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing gym that I have been with, all trainers were very accommodating. Machines are topnotch . Overall the place is perfect",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕"
+  },
+  {
+   "author": "Lyn Chua",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Good  kickboxing facilities love my coach ameer he is good in teaching i lose weight fast  staff are all friendly and giving good assistance 💋💋 will continue doing kickboxing and will add more maybe Zumba ❤️🥰",
+   "owner_reply": "Thank you so much for your feedback ! we really appreciate it 🙏💕<br>"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    960,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1560
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    768,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1054,
+    1400
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    375,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    199,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/new-on-track-fitness/",
+ "buy_likelihood": 8,
+ "notes": "4.9, replies 97%, 24-hour gym with boxing; active social posts.",
+ "display_name": "New On Track Fitness"
+}

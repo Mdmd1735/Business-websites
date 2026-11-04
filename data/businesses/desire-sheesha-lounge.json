@@ -1,0 +1,1669 @@
+{
+ "slug": "desire-sheesha-lounge",
+ "name": "Desire Sheesha Lounge",
+ "place_id": "ChIJhR5qRqJDXz4ROpmJLHBR5cI",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "Al Karama, Dubai",
+ "address": "15 8th St - Oud Metha - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2360501,
+  "lng": 55.3091874
+ },
+ "phone": "+971 50 900 2202",
+ "rating": 4.8,
+ "userRatingCount": 904,
+ "rating_distribution": {
+  "oneStar": 18,
+  "twoStar": 5,
+  "threeStar": 14,
+  "fourStar": 52,
+  "fiveStar": 815
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Desire%20Sheesha%20Lounge&query_place_id=ChIJhR5qRqJDXz4ROpmJLHBR5cI",
+ "website": "",
+ "categories": [
+  "Hookah bar",
+  "Asian restaurant",
+  "Biryani restaurant",
+  "Cafe",
+  "Coffee shop",
+  "Hookah store",
+  "Lounge bar",
+  "Modern Indian restaurant",
+  "Mughlai restaurant",
+  "Restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "Open 24 hours"
+  }
+ ],
+ "owner_description": "Desire Sheesha Lounge the finest sheesha in Oud Metha at our premium restaurant, proudly known as one of the best sheesha lounge Dubai has to offer. If you’re searching for a relaxing hookah lounge near me, our cozy ambiance, wide range of premium flavors, and attentive service make us the perfect spot to unwind. As a popular late night cafe Dubai, we stay open late so you can enjoy quality time with friends over great food, refreshing beverages, and smooth sheesha. Whether you’re a local resident or a visitor exploring the city, our sheesha cafe Dubai delivers an unforgettable experience with delicious cuisine, vibrant vibes, live entertainment, and top-quality hookah in the heart of Dubai",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "shesha",
+  "sheesha cafe",
+  "sheesha flavors",
+  "shisha experience",
+  "mughali food",
+  "smooth sheesha",
+  "sizzling brownie",
+  "supportive staff",
+  "humble staff",
+  "polite staff"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 4,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 19
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 20
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 16
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 17
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 18
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 31
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 26
+   }
+  ]
+ },
+ "owner_reply_rate": 0.73,
+ "reviews": [
+  {
+   "author": "Navya motwani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Ambience..good , food was mouthwatering, we tried first time crispy Thai lotus stem.. it was too yummy,  we had different type of soya chaaps all were delicious. Service was also good .. all staff was helpful and polite.",
+   "owner_reply": "Thank you so much for sharing your wonderful experience! 🌟 We're delighted you loved the crispy Thai lotus stem and our soya chaaps — those are some of our favorites too! 😋 It’s great to know our team made your visit enjoyable with their friendly service. Looking forward to welcoming you again soon at Desire Lounge, Oud Metha for another delicious and relaxing time. 💨✨"
+  },
+  {
+   "author": "Maqbool Khan",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Been going here consistently for many years. Service is always consistent, food is top-notch, Shisha is great. Definitely a place to visit. Was lucky to meet one of the partners, Bilal on this trip. Very friendly.  Murgh Musalaam is perfect, Shisha and drinks are the best.",
+   "owner_reply": "Thank you for being a loyal guest over the years! ⭐<br>We truly appreciate your continued support and are delighted to hear that you consistently enjoy the service, food, and shisha at Desire Sheesha Lounge.<br><br>We’re glad you had the chance to meet Bilal and that he made your visit even more special. Your kind words about our Murgh Musallam, shisha, and drinks mean a lot to us!<br><br>We look forward to welcoming you back again very soon for another great experience 😊<br>"
+  },
+  {
+   "author": "Dina Cherlen (Your Nemesis)",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Nice service, and thanks to Rahmad for being approachable.  Shisha ranges from 39-100. Located at Oud Metha,ABA residence near Lamcy Plaza.",
+   "owner_reply": "Thank you so much for your kind feedback! 😊<br>We’re glad you enjoyed the service and appreciate you mentioning Rahmad — we’ll be sure to share your kind words with him.<br><br>We’re happy you enjoyed the shisha experience at Desire Sheesha Lounge, and we look forward to welcoming you again soon for another relaxing visit! 💨✨<br>"
+  },
+  {
+   "author": "Furquan Parkar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I just wanted to take a moment to share my recent experience at Desire Lounge. I was truly impressed by the superb quality of the food. Each dish was delicious and well-prepared.\nAdditionally, the staff were humble and polite, making the dining experience even more enjoyable.\nI would highly recommend this place to anyone looking for a perfect dining along with sheesha .",
+   "owner_reply": "Thank you so much for your wonderful feedback! 🌟 We’re thrilled that you enjoyed the food, service, and atmosphere at Desire Lounge. Your kind words about our staff mean a lot, and we truly appreciate your recommendation. 🙌 We look forward to welcoming you back soon for another perfect dining and sheesha experience! 💨✨<br>"
+  },
+  {
+   "author": "Abdul Rehman Ghayas",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "In Dubai, I lately discovered about a fantastic lounge cafe. The food is fantastic, must-try, and very reasonably priced. They have a large area to relax and consume shisha, and the lounge has an outstanding atmosphere. After a week of arduous work, what more could you want? In addition, they have some of the friendliest and most accommodating staff members of any lounge I have yet to visit.",
+   "owner_reply": "Thank you for taking the time to share your wonderful feedback! We are delighted to hear that you had such an exceptional experience at Desire Sheesha Lounge. <br><br>Our team at Desire Sheesha Lounge is committed to delivering the highest level of service and creating memorable moments for our valued guests, and we are thrilled to know that we succeeded in doing so during your visit. Your satisfaction is our greatest reward.<br><br>We look forward to welcoming you back to our oasis of luxury and opulence in the heart of Dubai. Until then, please do not hesitate to reach out if you have any further inquiries or require assistance in planning your next visit."
+  },
+  {
+   "author": "Mohammed Amro Hadi",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "One of the best sheesha lounges in Dubai! Perfect place to hang out with friends and unwind. The sheesha is long-lasting and smooth. Highly recommend trying the Pan Masala with Mint flavor—it’s absolutely amazing!",
+   "owner_reply": "One of the best sheesha lounges in Dubai! It’s the perfect spot to relax, unwind, and hang out with friends. The sheesha is incredibly smooth and long-lasting. Highly recommend the Pan Masala with Mint flavor—it’s absolutely amazing and a must-try!"
+  },
+  {
+   "author": "Jaydeep Behere",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I happened to stumble upon this place from a google search and I must say one of the best shishas in dubai. I had mine custom made with al fakher mint on top and red bull in the base and they killed it. Even the food was really good and servers were nice and friendly",
+   "owner_reply": "Thank you so much for discovering us and sharing such wonderful feedback! 🌟 We’re thrilled to hear you enjoyed one of the best shishas in Dubai — your custom Al Fakher mint with Red Bull base sounds like a perfect choice! 💨🙌 We’re also glad you liked the food and found our servers friendly and welcoming. We look forward to hosting you again soon at Desire Lounge for another great experience! ✨"
+  },
+  {
+   "author": "Jimmay M",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This spot is very nice. The ambience made me feel like I was at a hookah lounge in ATL. Anytime I am in DXB, I plan to hit this spot. I don’t speak Arabic but I love the music they play in there. I feel like it’s an Arabic trap music. The staff is friendly. I felt safe inside and outside this place. The food is good also. I had the Malai Fish Tikka, so yummy. The prices are perfect! I recommend this lounge.",
+   "owner_reply": "Thank you so much for your amazing and heartfelt feedback! 🌟 We’re thrilled you enjoyed the ambience, food, and music at Desire Lounge — we love creating that perfect vibe for our guests! 🙌 It’s great to hear you felt safe, welcomed, and enjoyed the Malai Fish Tikka (one of our favorites too 😋). Your appreciation for our team and atmosphere truly means a lot. 💨✨ We can’t wait to welcome you back to DXB on your next visit!"
+  },
+  {
+   "author": "Azi Sandila",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Desire Shesha Cafe is an excellent place to relax and enjoy a great shesha experience. The ambience is stylish, comfortable, and perfect for spending quality time with friends. The shesha flavors are premium, smooth, and long-lasting, making the overall experience very enjoyable.\n\nThe food and drinks are fresh, well-presented, and delicious. The staff is polite, professional, and always attentive. Special mention to Salman bhai, who takes great care of the guests and makes sure everyone feels welcome. His friendly attitude and outstanding hospitality truly enhance the experience.\n\nHighly recommended for anyone looking for quality shesha, a pleasant atmosphere, and great service. ⭐⭐⭐⭐⭐",
+   "owner_reply": "Thank you so much for your amazing 5-star review! ⭐⭐⭐⭐⭐<br>We’re delighted to know that you enjoyed the relaxing ambiance, premium sheesha flavors, and our food and drinks at Desire Sheesha Cafe. Creating a comfortable space for our guests to unwind with friends is exactly what we aim for.<br><br>Your kind words about our team truly mean a lot to us. A special thank you for appreciating Salman bhai—his dedication, friendly nature, and hospitality are something we’re very proud of.<br><br>Your recommendation motivates us to continue delivering quality service and memorable experiences. We look forward to welcoming you back again very soon! 💨✨"
+  },
+  {
+   "author": "Abdulrahman Elhakeem",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "They make a fake offers\nThey send me an offer through WhatsApp then after I came all the way they told me you have to be three people to get an offer ( which was never mentioned in WhatsApp )\nI asked them if they will show the match in world cup2026 they told me yes then I ordered shisha and I still waiting for shisha and match for more than 40 min then they told me sorry we will not show the match after the first half was already finished and they never serve me or gave me a shisha all that time (40min without any service) then they only said sorry\nIt is very bad don’t advise any one to come here and if there is less than one star I will give them ( NEVER COME FOR THIS OFFER IT IS FAKE )",
+   "owner_reply": "Hi Abdulrahman,<br><br>We sincerely apologize for your experience. The confusion with the offer, the match display issue, and the service delay were our mistakes, and we take full responsibility.<br><br>*The offer is still valid, but terms and conditions apply. If you had contacted us first, we would have guided you properly.*<br><br>We have addressed these issues with our team. Due to the inconvenience from our side, we invite you back for a *complimentary shisha with a free starter and cold drink, on us.*<br><br>Please contact us at 0559002202. <br><br>Sincerely,  <br>*Management*  <br>Desire Sheesha Lounge"
+  },
+  {
+   "author": "tanveer khan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Wonderful experience and great atmosphere to chill sheesha and delicious cousin…Service is so impressive as enough people to handle every customer. Must visit place to avoid crowded Sheesha lounge as situated a bit far from rush area.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ramlan M",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "At first I was going to say the Sheeha was great, but they over charged us 172 instead of 154 actually what's showed on their in-house QR menu is 142 for the lady killer.so how we got here I do not know. The tables were dirty 😭. Gross",
+   "owner_reply": "Thank you for your review. We have checked the pricing and can confirm that the charges on your bill were accurate based on the items ordered. If you’d like, please contact us directly and we’ll be happy to explain the bill in detail. We also appreciate your comments regarding cleanliness and will work with our team to improve. Thank you for your feedback."
+  },
+  {
+   "author": "Mariem Ali",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Very relaxed environment and major variety of sheesha flavors.\nDo not forget to try out their chinese.\nVery well priced and the food is to die for! Super yummy.\nAlso their mocktails are super yummy",
+   "owner_reply": "Thank you for taking the time to share your wonderful feedback! We are delighted to hear that you had such an exceptional experience at Desire Sheesha Lounge. <br><br>Our team at Desire Sheesha Lounge is committed to delivering the highest level of service and creating memorable moments for our valued guests, and we are thrilled to know that we succeeded in doing so during your visit. Your satisfaction is our greatest reward.<br><br>We look forward to welcoming you back to our oasis of luxury and opulence in the heart of Dubai. Until then, please do not hesitate to reach out if you have any further inquiries or require assistance in planning your next visit."
+  },
+  {
+   "author": "Meural Menezes",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Amazing food specially Chinese, i ordered the lunch deal they have which comes with sheesha, starter,soup, maincourse, sweet and a cold drink. Food quantity was amazing, taste and presentation were stunning 🤩.",
+   "owner_reply": "Thank you so much for the wonderful review! 🤩🍽️<br>We’re thrilled to hear that you enjoyed our Chinese food and loved the lunch deal experience—from the sheesha to the starter, soup, main course, dessert, and cold drink. It’s great to know the quantity, taste, and presentation all impressed you."
+  },
+  {
+   "author": "Tridev Parashar",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "It was our first time to visit this place after reading the reviews and it did not disappoint the vibes the music the ambience just the right lighting and the food was great the portions were good the sizzling brownie was too good\nThe service was great by the host as well as Mr Rahmat and Mr. Aqeel\nThey even give you a membership of sheesha you get the fourth session free\nAlso the prices were affordable and well priced",
+   "owner_reply": "Thank you so much for your wonderful and detailed feedback! ⭐⭐⭐⭐⭐<br>We’re delighted to hear that your first visit to Desire Sheesha Lounge lived up to your expectations and that you enjoyed the vibes, music, ambience, and lighting. It’s great to know the food portions and especially the sizzling brownie made your experience even more memorable! 🍫✨<br><br>A special thank you for appreciating Mr. Rahmat and Mr. Aqeel—we’ll be sure to share your kind words with them. We’re also glad you liked our sheesha membership offer and found the pricing affordable.<br><br>We truly appreciate your support and look forward to welcoming you back again soon! 💨😊"
+  },
+  {
+   "author": "Talha Bilal",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I ordered shizwan rice which was amazing. The sheesha is very good I’ll recommend the sheesha lovers to come here and enjoy in desire cafe. It’s a very quiet and comfortable place to smoke. And it’s like a cafe where you can spend time doing your office work. 😊",
+   "owner_reply": "Thank you for taking the time to share your wonderful feedback! We are delighted to hear that you had such an exceptional experience at Desire Sheesha Lounge. <br><br>Our team at Desire Sheesha Lounge is committed to delivering the highest level of service and creating memorable moments for our valued guests, and we are thrilled to know that we succeeded in doing so during your visit. Your satisfaction is our greatest reward.<br><br>We look forward to welcoming you back to our oasis of luxury and opulence in the heart of Dubai. Until then, please do not hesitate to reach out if you have any further inquiries or require assistance in planning your next visit."
+  },
+  {
+   "author": "Adam Vrána",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Very good everything, we got brownie as a gift as tourists",
+   "owner_reply": "Thank you so much for your kind review! ⭐⭐⭐⭐⭐<br>We’re happy to hear that you enjoyed everything and that the brownie gift made your visit even more special 😊. It was our pleasure to welcome you, and we hope to see you again soon at Desire Sheesha Lounge. Safe travels and see you next time! 🍫✨"
+  },
+  {
+   "author": "Alina B-ko",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Amazing place, great design and nice music, very good service and staff.\nMenu is super nice. Especially pasta😍 is excellent 😍 took a place in my heart from the first bites",
+   "owner_reply": null
+  },
+  {
+   "author": "ahmed ali",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had an amazing experience at Desire Shisha Lounge! I tried there continental cuisine, Mutton Raan Biryani and also Indian Tea and it was incredibly delicious. The presentation was top-notch, and the manager provided excellent service, treating us with great hospitality. The DSL added a perfect touch to the evening. I appreciate the manager shahrukh qureshi generosity and the overall facilities. I highly recommend trying the Raan Biryani; it's one of the best I've ever had. I'll definitely be returning and encourage others to experience this fantastic cafe. Kudos to the team for creating a memorable evening!",
+   "owner_reply": null
+  },
+  {
+   "author": "Nadir Shah",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "One of the best shisha experience in a while thanks to the humble and super friendly staff including Food and Ambiance. Definetly recommended for everyone and specially for those who like shisha! Will get back here as soon as possible!👍",
+   "owner_reply": "Thank you for taking the time to share your wonderful feedback! We are delighted to hear that you had such an exceptional experience at Desire Sheesha Lounge. <br><br>Our team at Desire Sheesha Lounge is committed to delivering the highest level of service and creating memorable moments for our valued guests, and we are thrilled to know that we succeeded in doing so during your visit. Your satisfaction is our greatest reward.<br><br>We look forward to welcoming you back to our oasis of luxury and opulence in the heart of Dubai. Until then, please do not hesitate to reach out if you have any further inquiries or require assistance in planning your next visit."
+  },
+  {
+   "author": "Abdullah Dokadia",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "\"I recently had the pleasure of visiting this sheesha lounge, and it truly exceeded my expectations. The mocktails were a delightful surprise, offering a refreshing and unique blend of flavors that instantly transported me to a tropical paradise. What truly sets this place apart is its exceptional staff, especially Zeba, who was incredibly polite and soft-spoken. Their attentiveness and welcoming demeanor added a personal touch to the entire experience, making me feel like a valued guest. The ambiance was perfect for a relaxing evening, and the combination of great sheesha, top-notch mocktails, and such courteous staff makes this lounge a hidden gem that I can't wait to revisit!\"",
+   "owner_reply": "Thank you for taking the time to share your wonderful feedback! We are delighted to hear that you had such an exceptional experience at Desire Sheesha Lounge. <br><br>Our team at Desire Sheesha Lounge is committed to delivering the highest level of service and creating memorable moments for our valued guests, and we are thrilled to know that we succeeded in doing so during your visit. Your satisfaction is our greatest reward.<br><br>We look forward to welcoming you back to our oasis of luxury and opulence in the heart of Dubai. Until then, please do not hesitate to reach out if you have any further inquiries or require assistance in planning your next visit."
+  },
+  {
+   "author": "Waqas Hassan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is the best cafe\nFood: Amazing Fresh Veg and non Veg Food.\n\nAmbiance: It is much better than Shisha Factory. A decent version of Shisha Factory\n\nService: 10/10",
+   "owner_reply": null
+  },
+  {
+   "author": "Rasib Butt",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Best ambience and the best service in my birthday celebration 🎂 best experience delicious food , specially platter and birriyanieess 🎂🎂🎂",
+   "owner_reply": null
+  },
+  {
+   "author": "Lifeplus Medical",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Awesome place and wondering experience with light music and calm atmosphere. Perfect for friends and Family.. must try Fruit Chat and Chinese cuisine.👍🏾",
+   "owner_reply": "Thank you so much for your wonderful words! 💫 We’re delighted you enjoyed the calm vibes, light music, and our Fruit Chaat and Chinese dishes. It means a lot to know you found Desire Lounge a perfect spot for friends and family. We can’t wait to welcome you back soon! 🌿💨✨"
+  },
+  {
+   "author": "Niru C.",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "“Absolutely recommendable! The Shisha bar has an amazing ambiance, creating a super relaxing atmosphere. The food is excellent, and the service is outstanding – very friendly and attentive. The prices are absolutely justified for the quality provided. As a Shisha expert from Germany, I can confidently say the Shishas here are top-notch! What I especially love is that you can easily visit with your wife or partner, unlike many other Shisha bars. Whenever I’m back in Dubai, I will definitely come here again. 5 stars!”",
+   "owner_reply": null
+  },
+  {
+   "author": "Aaron Mcleister",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Great experience and friendly staff including waitress 'Deep'. Very relaxed and great prices.\n\nTasty refreshing drinks and flavourful Sheesha",
+   "owner_reply": null
+  },
+  {
+   "author": "anand fernandes",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best ambience for a sheesha bar. Food also was good. Only lacked the hot beverages",
+   "owner_reply": "Thank you for your wonderful feedback! 🌟 We’re glad you enjoyed the ambience, food, and overall experience at Desire Lounge. We appreciate your note about hot beverages and will definitely take it into consideration. 🙌 Looking forward to welcoming you back soon for another relaxing visit! 💨✨"
+  },
+  {
+   "author": "Mohd Imam",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Had an incredible night at desire lounge! The shisha was fantastic, the ambiance was perfect, and a special shoutout to Salman, the manager, for making our experience unforgettable. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "AshC",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Visited this place today, great Shisha and Service, the desserts like Kulfis , Ice Creams & Falooda was top class. Must visit 👍",
+   "owner_reply": "Thank you for taking the time to share your wonderful feedback! We are delighted to hear that you had such an exceptional experience at Desire Sheesha Lounge. <br><br>Our team at Desire Sheesha Lounge is committed to delivering the highest level of service and creating memorable moments for our valued guests, and we are thrilled to know that we succeeded in doing so during your visit. Your satisfaction is our greatest reward.<br><br>We look forward to welcoming you back to our oasis of luxury and opulence in the heart of Dubai. Until then, please do not hesitate to reach out if you have any further inquiries or require assistance in planning your next visit."
+  },
+  {
+   "author": "Anas Kazmi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Desire cafe is very enjoyable place. You can visit and enjoy your weekend as well good for families. Their staff is very nice Mandeep sister is very good and coperative. I would recommend  this cafe to everyone.",
+   "owner_reply": "Thank you for taking the time to share your wonderful feedback! We are delighted to hear that you had such an exceptional experience at Desire Sheesha Lounge. <br><br>Our team at Desire Sheesha Lounge is committed to delivering the highest level of service and creating memorable moments for our valued guests, and we are thrilled to know that we succeeded in doing so during your visit. Your satisfaction is our greatest reward.<br><br>We look forward to welcoming you back to our oasis of luxury and opulence in the heart of Dubai. Until then, please do not hesitate to reach out if you have any further inquiries or require assistance in planning your next visit."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    854
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    810,
+    540
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    810,
+    540
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1143
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    853
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    743,
+    934
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    289,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    512,
+    289
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    435,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    512,
+    252
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    512,
+    386
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    385,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/desire-sheesha-lounge/",
+ "buy_likelihood": 7,
+ "notes": "904 reviews, replies 73%, keyword-stuffed Maps description: cares about search. 24/7.",
+ "display_name": "Desire Sheesha Lounge"
+}

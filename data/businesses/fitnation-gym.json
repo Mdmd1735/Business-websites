@@ -1,0 +1,1119 @@
+{
+ "slug": "fitnation-gym",
+ "name": "Fitnation Gym",
+ "place_id": "ChIJCxqpS7P39T4RhspY0_nntnA",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Ajman",
+ "address": "Sheikh Ammar Bin Humaid St - Al Rawda 2 - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3857598,
+  "lng": 55.5067065
+ },
+ "phone": "+971 56 789 9043",
+ "rating": 4.7,
+ "userRatingCount": 132,
+ "rating_distribution": {
+  "oneStar": 5,
+  "twoStar": 2,
+  "threeStar": 4,
+  "fourStar": 7,
+  "fiveStar": 114
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Fitnation%20Gym&query_place_id=ChIJCxqpS7P39T4RhspY0_nntnA",
+ "website": "https://instagram.com/fitnationgymss?igshid=MzRlODBiNWFlZA==",
+ "categories": [
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "4 PM to 2 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "6 AM to 4 AM"
+  }
+ ],
+ "owner_description": "At Fitnation, we are dedicated to helping you achieve your fitness goals through a comprehensive approach to health and wellness. Our state-of-the-art facility is equipped with top-of-the-line bodybuilding machines, designed to support all fitness levels. We offer personalized training with experienced personal trainers who tailor workouts to your individual needs. Whether you're looking to build muscle, increase stamina, or improve overall health, Fitnation has everything you need. Our diverse range of classes, including boxing, strength training, and more, are all included in your membership, providing a full-body workout experience in a motivating and supportive environment. Join Fitnation to take the next step in your fitness journey!",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   },
+   {
+    "Online classes": false
+   }
+  ],
+  "Accessibility": [
+   {
+    "Assistive hearing loop": true
+   },
+   {
+    "Wheelchair accessible entrance": false
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Shower": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Parking": [
+   {
+    "On-site parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "coach anas",
+  "Cleanliness of the place",
+  "helpful staff",
+  "Modern equipment",
+  "Excellent gym",
+  "weight loss",
+  "kind staff",
+  "coaches",
+  "Personal training",
+  "vibe"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 14
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 20
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 17
+   }
+  ],
+  "We": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 14
+   }
+  ],
+  "Th": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 21
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 27
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 20
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Falah hack vloge",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve had a really great experience at Fitnation Gym, and I honestly want to appreciate the entire team for their excellent work and professionalism. The gym has a very positive atmosphere, with good equipment, a clean environment, and everything you need to stay motivated and consistent with your fitness goals.\n\nI would especially like to appreciate the manager for the outstanding work and dedication. A good gym is not only about having equipment — it’s also about having good management and people who genuinely care about their members. The manager is professional, respectful, friendly, and always willing to help. You can clearly see the effort being put into making sure everything runs smoothly and members are happy.\n\nI really appreciate how the manager treats everyone with respect and creates a welcoming environment for both new and regular members. The way the gym is managed shows real dedication and hard work. It’s not easy to maintain a gym at a high standard, but the team at Fitnation is doing a great job.",
+   "owner_reply": null
+  },
+  {
+   "author": "ASHRAF KHAN",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great gym with a friendly and supportive team! I’ve been a member of Fitnation Gym Ajman for over a year and have really noticed the positive changes recently. The management’s efforts are clearly making a difference, with more coaches and an overall better experience.\n\nSenior Coach and Manager is definitely someone to look out for—professional, approachable, and always helpful. The team is friendly and supportive, and Boxing Coach Eric is excellent at what he does, especially when it comes to training and technique.\n\nOverall, a great place to train. Highly recommended! 💪🥊",
+   "owner_reply": null
+  },
+  {
+   "author": "syed faizal",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Feedback for the Gym Manager\n\nHi Mr Arshad.\n\nI would like to share some feedback regarding my experience at the gym.\n\nWhat I like about Mr Arshad the gym manager is very helpful and very professional moreover his knowledge help me to change my overall physique in a matter of few months i would highly recommend everyone.\n\n* The gym has good equipment and facilities.\n* The overall environment is comfortable and motivating.\n* The staff are generally friendly and helpful.",
+   "owner_reply": null
+  },
+  {
+   "author": "Danyal Ahmadzai",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I really enjoy going to my gym because it is a clean, friendly, and motivating place. The manager is kind, helpful, and always makes sure everyone feels welcome. He takes good care of the gym and encourages people to work hard. Overall, I am happy to be a member there.",
+   "owner_reply": null
+  },
+  {
+   "author": "حمود 69",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I was pleased to meet the manager, Captain Arshad, today. He was very helpful regarding an issue I faced due to performing an exercise incorrectly on my own; he guided me through exercises that helped relieve the pain. I extend my sincere thanks to him for his boundless cooperation with everyone at the club, and I wish him continued success and prosperity.🤍🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "محمد احمد",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "This was by far one of the worst gym experiences I’ve ever had, and the main reason was not the equipment or the facilities—it was the management. The manager has an arrogant attitude toward customers, treating them as if they don’t deserve basic respect or appreciation, despite the fact that they are paying for the service. I also witnessed the way he treated the trainers in front of others, and it was unprofessional and disrespectful, creating a negative atmosphere throughout the gym.\n\nRespect is the minimum any customer should expect, but unfortunately, I did not find it here. No matter how good the equipment or facilities are, poor management and disrespectful behavior ruin the entire experience. I sincerely hope the owners take this issue seriously and review the manager’s conduct, because if this continues, many customers will think twice before coming back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mousa Aldabyanj",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’d like to thank Coach Nofal. In a short time, I noticed a big improvement in my training. He corrected my exercises and helped me overcome a forearm issue with some helpful exercises. I really appreciate his support.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammad Javeed",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "A big thank you to Coach Noufal for the wonderful stretching session yesterday. I was struggling with severe lower back pain and was barely able to walk. After the stretches, I’m now able to walk with bear minimal pain.\n\nYour knowledge, care, and guidance made a real difference. Truly grateful, Coach Noufal! 🙏👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Ashqullah Khodaidad",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Great gym with a clean environment and friendly staff. I had neck pain from past weeks Coach Noufal helped me with my neck pain by recommending a few exercises, and I'm feeling much better now. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Khaleq Arya",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Very neat and clean gym Best gym in the Ajman the cleanness is so good always maintained good and have good staff specially coach Ahmad Ali is very helpful and friendly thank you for the support Mr Ahmed Ali.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Dawi",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "very good and stable gym. best coaches. Mr muayad, stable coach, easy to understand. overall im very happy.",
+   "owner_reply": null
+  },
+  {
+   "author": "Moaza Al.Flasi",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Im improved my fitness thanks to coach Fatime\nI NEVER know I would like to come to the Gym\nShe has an amazing personality",
+   "owner_reply": null
+  },
+  {
+   "author": "Huda Mohammed Khair",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Best gym\nspecially coach Fatima ،she helped me on my wieght loss program ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Ahmad",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\nI had a wonderful experience with Fittnation, and I would especially like to thank Ms. Nassma for her outstanding support. She took the time to clearly explain everything, presented the available offers in a very professional way, and was extremely helpful throughout the process.\n\nHer manners, attitude, and customer service are truly at a high level, which made the whole experience smooth and pleasant. Thanks to her, I felt confident and comfortable with my decision.\n\nHighly recommended — great team and excellent service!",
+   "owner_reply": null
+  },
+  {
+   "author": "y2ct",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "Worst customer service I’ve experienced. The manager was disrespectful, arrogant, and showed no professionalism. He clearly lacks customer service skills and doesn’t seem to care about members. I won’t be coming back.",
+   "owner_reply": null
+  },
+  {
+   "author": "mohammed abubakar",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Amazing gym, it’s like a family, they welcome you from the manager sales   Nasma , to the amazing coaches they have. I’ll defiantly advice anyone in Ajman to go to this gym",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Bilal",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Fantastic gym in Ajman.\nProfessional and kind staff,\nWide and clean environment with prayer area.\nStay Blessed.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mogahid Ahmed",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Great gym, good vibe, and very friendly staff. Highly recommend. 💪",
+   "owner_reply": null
+  },
+  {
+   "author": "kamaru hasnu",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Good gym\nGood coaches\nThanks all",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed Salim",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "best gym in Ajman but to be honest it’s an amazing gym Anas the best coach ever the motivation he gives the plans an amazing coach and amazing staff the gym is super amazing everyone greets you with positivity thank you  to the management and the available staff the boxing coach too is amazing thank you very much",
+   "owner_reply": null
+  },
+  {
+   "author": "Waseem Nicholas",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Been going to this gym for half a year. Staff is very helpful and coaches are very knowledgeable and assist.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ghufran khan",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Hamzah, the best personal fitness coach and massage therapist that I’ve ever tried. Top man! Absolute Magician",
+   "owner_reply": null
+  },
+  {
+   "author": "Yazan Salhi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I recommend this gym, as it has trainers who take care of the participants in all exercises, and also the presence of modern machines, and other than that, the atmosphere of the GYM motivates to play",
+   "owner_reply": null
+  },
+  {
+   "author": "Raed Gharbia",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It’s really great  gym & All the stuff there too much helpful 🤍🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammad Mohammad",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It's a good gym because I lost 6 or 8 kg in 3 months and its a good experience",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Adil",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best gym ever, the coaches and the equipments, the vibes... Everything is great!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed Tolan",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "The strongest and most modern gym in the UAE 💪❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Faisal",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This gym is my family and very good management support good facylities and everything",
+   "owner_reply": null
+  },
+  {
+   "author": "Esraa Soo",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The work is beautiful and the place is also",
+   "owner_reply": null
+  },
+  {
+   "author": "oday Baker",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best and cleanest in ajman and the best coach ,coach anas who is very interested in the players",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://instagram.com/fitnationgymss?igshid=MzRlODBiNWFlZA==",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "fitnationgymss"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {
+  "instagram": "fitnationgymss"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/fitnation-gym/",
+ "buy_likelihood": 6,
+ "notes": "Instagram, open till 4 AM, but owner never replies. Only 13 photos.",
+ "display_name": "Fitnation Gym"
+}

@@ -1,0 +1,2576 @@
+{
+ "slug": "al-mukhtar-bakery-al-barsha",
+ "name": "Al Mukhtar Bakery - Al Barsha",
+ "place_id": "ChIJC4CbGaFtXz4RwV3-iZFZ960",
+ "category": "bakery",
+ "category_weight": 9,
+ "area": "Al Barsha, Dubai",
+ "address": "36J3+HWW - 61 Hessa St - Al Barsha Third - Al Barsha - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.0814875,
+  "lng": 55.2048281
+ },
+ "phone": "+971 4 399 1881",
+ "rating": 4.5,
+ "userRatingCount": 2052,
+ "rating_distribution": {
+  "oneStar": 91,
+  "twoStar": 38,
+  "threeStar": 89,
+  "fourStar": 297,
+  "fiveStar": 1537
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Mukhtar%20Bakery%20-%20Al%20Barsha&query_place_id=ChIJC4CbGaFtXz4RwV3-iZFZ960",
+ "website": "",
+ "categories": [
+  "Bakery"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "6 AM to 4 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "6 AM to 4 AM"
+  }
+ ],
+ "owner_description": "Al Mukhtar Bakery is a family owned business since 1981, serving people fresh authentic Lebanese and Middle-Eastren products such as Mixed Breads, Manakish, Sweets, Cakes and Boulangerie.",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "In-store shopping": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Quick visit": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "manakish",
+  "knafeh",
+  "arabic sweets",
+  "zaatar",
+  "fateer",
+  "arabic bread",
+  "lebanese bakery",
+  "fresh bread",
+  "lebanese food",
+  "Baklava"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 8
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 4
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 7
+   }
+  ],
+  "We": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 7
+   }
+  ],
+  "Th": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 7
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 11
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 13
+   }
+  ]
+ },
+ "owner_reply_rate": 0.17,
+ "reviews": [
+  {
+   "author": "Chewy216",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Al Mukhtar Bakery is an absolute gem if you're looking for authentic Middle Eastern pastries and baked goods. Everything we tried was fresh, flavorful, and clearly made with quality ingredients. The manakish was perfectly baked with a crispy crust and soft center, and the selection of savory and sweet items was impressive.\n\nThe staff were friendly, welcoming, and the service was quick even during a busy time. Whether you're stopping by for breakfast, a quick snack, or picking up fresh bread, this place is well worth the visit. I'll definitely be coming back the next time I'm in Dubai. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Gurpreet Singh",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Al Mukhtar Bakery in Al Barsha is a fantastic spot for freshly baked goods, quality coffee, and authentic Middle Eastern flavors. We tried their beautifully made coffees with latte art, and they were smooth, rich, and perfectly balanced.\nWe also ordered their freshly baked cheese manakish and the labneh flatbread topped with fresh tomatoes, cucumbers, olives, mint, and a drizzle of olive oil. Both were served fresh from the oven, with a perfectly crisp base and generous toppings. The ingredients tasted fresh, light, and full of flavor—simple yet incredibly satisfying.\nThe bakery offers an impressive selection of croissants, maamoul, pastries, cookies, cakes, and traditional Arabic sweets, making it difficult to choose just a few items. Everything looked fresh and beautifully presented.\nThe place is spacious, clean, and comfortable, with friendly staff and quick service. Whether you're stopping by for breakfast, coffee, or desserts, Al Mukhtar Bakery is definitely worth a visit. Highly recommended for anyone looking for authentic bakery items and excellent coffee in Dubai. ☕🥐🫓🍰",
+   "owner_reply": null
+  },
+  {
+   "author": "Akrutika Khetan",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "We loved the food, as we entered, the whole place smelled so fresh and like heaven! Loved the breads, specially halumi and pizza! Packed up some croissants also!",
+   "owner_reply": "That fresh-from-the-oven smell is our favorite welcome too. So glad you loved the halloumi and pizza, and we hope the croissants were just as good at home. See you soon!"
+  },
+  {
+   "author": "Rashed Daouk",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Al Mukhtar Bakery is simply one of those places that gets everything right.\n\nThe atmosphere is warm and inviting, with a beautiful setup that makes you want to sit, relax, and actually enjoy your time. It’s clean, well-organized, and has that perfect balance between comfort and quality.\n\nThe food is consistently excellent. From freshly baked manakish to buttery, flaky pastries, everything tastes like it just came out of the oven. The desserts are just as impressive, rich, fresh, and beautifully presented. You can tell there’s real care in every detail.\n\nService is also on point. Fast, friendly, and efficient without feeling rushed, which honestly makes a big difference in the overall experience.\n\nWhat really stands out is the freshness. Every bite feels clean, well-made, and satisfying.\n\nSimple, reliable, and always a great choice.",
+   "owner_reply": null
+  },
+  {
+   "author": "Eliza Tom",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Used to frequent this place in sharjah and it used to always slap, so figured would give the dubai brand a try, and I am so glad i did!\n\nThe restaurant is so huge and aesthetic. Plenty of parking outside, the smell of fresh bread hits you right as you walk in. It’s amazing - you can take away fresh bakery items.\n\nthe petit four was incredible, best I’ve had. The Mukhtar special fateer was also incredible. The cheese here is just unmatched.\n\n100% recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Aman Khanz",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I went to Al Mukhtar Bakery – Al Barsha for brunch and came away genuinely impressed. The food was excellent, fresh, and full of that comforting, authentic bakery feel that makes you want to come back again.\n\nWe ordered a mix of items, including a beautifully baked cheese manakish and a meat manakish, along with a fresh juice. Everything arrived looking simple but very appetising, and more importantly, it tasted as good as it looked. The bread was clearly made fresh — warm, soft on the inside, with just the right amount of crispness around the edges. The cheese manakish was rich, stretchy, and perfectly baked, with a lovely golden finish on top. It was indulgent without feeling too heavy. The meat manakish was equally impressive — generous topping, well-seasoned, fresh, and balanced nicely with a squeeze of lemon, which lifted the flavour even more.\n\nThe fresh juice was another highlight. It tasted natural, refreshing, and not overly sweet, which complemented the food really well. You can tell when a place values freshness, and that came through in everything served.\n\nWhat I liked most about Al Mukhtar Bakery was that it delivered on the fundamentals: fresh ingredients, proper baking, good portion size, and honest flavour. There was nothing pretentious about the experience — just very well-made food that feels satisfying and authentic. It is the kind of place that works perfectly for a relaxed brunch when you want something fresh, casual, and reliably good.\n\nThe overall atmosphere also felt easy and comfortable, making it a nice spot to sit down and enjoy a laid-back meal. For anyone in Al Barsha looking for quality bakery-style brunch, this place is definitely worth a visit.\n\nOverall: Excellent brunch spot with fresh food, authentic flavours, and very satisfying manakish. A place I would happily return to.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sara Abdelmeguid",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I recently visited Al Mukhtar Bakery and absolutely loved it! I ordered Manaeesh and it was truly amazing — freshly baked, delicious, and full of flavor. The service was just as impressive; everyone was friendly and quick to help. Prices are also very reasonable, especially for the great quality you get. I’ll definitely be coming back again! Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "LUMERA",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "Very disappointing experience at Al Mukhtar Bakery\n\nI came in genuinely in a good mood and was looking forward to having some food. I took a menu from the table where the menus were placed, sat down, and waited for someone to come and take my order.\n\nThe staff could clearly see me, and there was even eye contact, but no one came over. Eventually, I had to call the restaurant while sitting at the table and place my order over the phone.\n\nThe person on the phone asked me, “Is it for delivery or dining in?” I told him, “I’m sitting right in front of you at the table.”\n\nHe said, “Okay,” but still no one came to check on me or take care of the order. Later, someone came and simply placed a fork and knife on the table without asking if I wanted something to drink or if I needed anything else.\n\nThe issue is not the waiting itself. It is the feeling of being completely ignored while sitting right in front of the staff.\n\nI came in with a good mood and was genuinely craving the food, but unfortunately the service completely ruined the experience for me.\n\nI hope management pays attention to the level of customer service, because good food alone is not enough when the customer experience is handled this way.",
+   "owner_reply": "hello,<br><br>we sincerely apologise for this mistake and the inconvenience it caused,  its not the standard that we aim to achieve.<br><br>please send your contact details to Hessa@almukhtarbkakery.com<br><br>so our management team can contact you and assist you.<br><br><br>best regards,<br><br>Al Mukhtar bakery <br><br>"
+  },
+  {
+   "author": "Moin Kazi",
+   "rating": 2,
+   "when": "4 weeks ago",
+   "text": "The food was good, but the service wasnt. It took Almost an hour to get our order which was only one dish. Also we weren't informed before that it will take quiet a while to serve. Also the person standing on baklawa counter was not attending us well.",
+   "owner_reply": "Thank you for feedback, Mr. Moin, and we’re glad you enjoyed the food. We’re truly sorry about the long wait, not being told about the delay, and the service at the baklawa counter. That’s not the experience we want for you. We’ve shared this with the branch team so it doesn’t happen again. Please reach us through the number on our Google profile, as we’d love to welcome you back for a better visit. 🙏"
+  },
+  {
+   "author": "Sami Sayyahi",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "This bakery is absolutely amazing!\nThey have a fantastic selection of fresh bread, and everything tastes incredibly delicious. Their pastries and sweets are top quality and always fresh.\n\nYou can really feel the care and quality in every item. Definitely one of the best bakeries I’ve visited. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sabrina Aurora",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "We went to Al Mukhtar Bakery on Hessa Street and honestly, I loved everything about it! The moment you walk in, you can literally smell freshly baked bread… that warm, comforting aroma that instantly makes you happy. Everything here is made fresh and in-house..from the soft breads and pastries to the Arabic sweets and even their pizza, which is baked right in their stone oven.\n\nThey also have an excellent selection of fatayers, all baked fresh and filled with delicious ingredients…perfect to enjoy with coffee or tea.\n\nWe went on a weekday, and it wasn’t busy at all — calm, cozy, and such a nice vibe to sit and enjoy food. The ambience is beautiful… high ceilings, greenery everywhere, and a really nice mix of modern and earthy décor.\n\nThe pastries are super fresh, the pizza was delicious, and their Arabic sweets are a must-try…you can tell they’re made with care. I love that they’re open 24x7, so it’s perfect for an early breakfast, a quick coffee break, or even a late-night snack.\n\nDefinitely a spot I’d go back to …peaceful ambience, amazing food, and that smell of fresh bread that makes you want to stay longer.",
+   "owner_reply": null
+  },
+  {
+   "author": "Siham Mahat",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Came for a simple Lebanese breakfast and ended up having one of those meals you keep thinking about after. I ordered a few manakish, but the sojok one completely stole the show.\nIt was so well spiced, savory and slightly garlicky but nothing overpowering, just perfectly balanced.\nI actually slowed down eating it because I didn’t want it to end.\nGenuinely one of the best sojok manakish I’ve had. Would come back just for that.",
+   "owner_reply": null
+  },
+  {
+   "author": "ahmed Aljasmi",
+   "rating": 1,
+   "when": "2 weeks ago",
+   "text": "Today I ordered from the bakery and the order was mixed up nothing is right only the akaawi is right , and there’s two other items not in the bag , this attached photos one of them I ordered to be hotdog margarita\nAnd the other pepperoni both of them were wrong",
+   "owner_reply": "We’re truly sorry, Ahmed. Getting your order wrong and leaving items out is not acceptable, and we’ve raised it with the branch team. Please reach us through the number on our Google profile so we can replace or refund your order right away. 🙏"
+  },
+  {
+   "author": "wardah amir",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Perfect place for party snacks, dinner. The environment is really nice and the food quantity and quality is amazing. 100% recommended 👌",
+   "owner_reply": null
+  },
+  {
+   "author": "Ritla Munawar",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Absolutely amazing! So delicious! The service is very good and so fast! The food is brought nice, fresh, and hot. The food they sell in the bakery is also awesome and I will definitely be returning here!",
+   "owner_reply": null
+  },
+  {
+   "author": "Beverly Castillo",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Honest Review:\nThis Lebanese restaurant and bakery is a good place with delicious food and fresh bread — everything is made fresh, and the quality is definitely there. It’s a nice spot to dine in, but it can get very crowded. It’s also a bit pricey, but you’re paying for the quality.\n\nOne thing I wish they would improve is the service. It gets really busy, and there aren’t enough waiters. Sometimes it’s confusing whether you should order at the counter or wait at your table. Overall, it’s a good experience, but just be prepared for the crowd and the slightly higher prices.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rabia Haris",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We visited one of Dubai's most popular Lebanese bakery, and it did not disappoint! The freshly baked croissants were still warm, flaky, and absolutely delicious. The cakes looks amazing. Atmosphere was vibrant and lively, adding to the overall experience. It's the kind of place where you can enjoy great food and the buzz of a busy, welcoming space.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lindsey Marie",
+   "rating": 3,
+   "when": "a month ago",
+   "text": "Funny story, always have good service inside but today I called ahead to ask for a tiramisu cake to takeaway, I had thought we confirmed price for 80aed over the phone.\nI waited maybe 5 minutes and he brings out a single slice of cake for 15 aed…\nI said, I need a full cake, I have 100aed or so\nAnd I’m in a hurry.\nHe comes back 6-7 minutes later with a cell phone and photos of cakes 😂😂😆😆😆🫩 guys….\n?\nAll the love to you and you’re items are great,\nJust took the hint that God wanted me to not buy a cake today 😂💯",
+   "owner_reply": null
+  },
+  {
+   "author": "Ola Hijjawi",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Absolutely one of the best bakeries I’ve ever tried! The manakeesh is incredibly fresh and full of authentic flavor — especially the zaatar, eggs, akkawi, and kashkaval combinations. Every bite tastes homemade and perfectly baked. The samoun bread is soft and delicious, and the Arabic bread pizza is on another level.\nEverything is prepared with high quality ingredients, generous toppings, and amazing attention to detail. The smell alone when you walk in is irresistible! The taste truly reminds you of authentic traditional bakeries back home. Highly recommended for anyone looking for fresh, flavorful, and unforgettable bakery items.",
+   "owner_reply": null
+  },
+  {
+   "author": "Victoria Mirzoian",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We stopped by Al Mukhtar Bakery on Hessa Street and were truly impressed! The lahmacun and cheese flatbread were fresh out of the oven — hot, crispy, and full of flavor. The cheese was perfectly melty and rich, and you can really taste the quality ingredients. There’s something special about food made in a real oven — you feel the tradition in every bite. Fast service, fair prices, and authentic taste. Highly recommended for anyone craving real, oven-baked goodness. We’ll definitely be back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Alaa",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "They are the best, always welcoming, nice coffee, fresh bakeries and super friendly staff",
+   "owner_reply": null
+  },
+  {
+   "author": "Reza Mak",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Good manakeesh, good food and service. em Ali could be improved. Recommended 👍🏽👍🏽",
+   "owner_reply": null
+  },
+  {
+   "author": "M. B.",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Everything is perfect. The food is coming direct from the oven. I felt hungry once I stepped inside 😋.\n\nThe staff are welcoming and tried to help with the choices.\nSure I will go again.",
+   "owner_reply": null
+  },
+  {
+   "author": "MOHAMMED ALKHAMEES",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Got it! Here’s the updated version:\n\n“Amazing spot with a unique blend of styles! This Lebanese bakery is designed with a French-inspired ambiance, offering a cozy and elegant atmosphere. Perfect for breakfast or dinner with authentic flavors and a touch of sophistication. Highly recommend visiting when you’re in Dubai!”",
+   "owner_reply": "Hello Mohammed, we are glad to hear you enjoyed your dining experience with us! Thank you"
+  },
+  {
+   "author": "Steph",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This Lebanese bakery on Hessa street is the place to go to for fresh and delicious Manakish, bread and pastries\n\nFood is delicious, the dough is very delicious\n\nThe best place to have Lebanese Manakish in Dubai\n\nService is quick and on time",
+   "owner_reply": null
+  },
+  {
+   "author": "Dr. Wardah Qureshi",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Spacious with lots of seating. Fresh breads, the place is oozing with the tempting smell of fresh bread. Many varieties, seems we have to visit multiple times to explore all. Serving size is very good. Staff is friendly\n\nKeep up the great work and amazing food 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Lana J",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We love to come to this place with the whole family, either for breakfast or dinner or lunch. In the morning sometimes difficult to find place to sit. It is not surprising as their food is fresh and delicious.\nHighly recommended!\nThere is a great variety of deserts, fresh bakery and drinks.",
+   "owner_reply": null
+  },
+  {
+   "author": "Yara Gebara",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "If you’re feeling homesick and craving an authentic Lebanese mankoushe, Al Mukhtar is the place to go to.\n\nThe food there is delicious and the atmosphere around the place is really nostalgic.\n\nWe had a selection of manakish and it wouldn’t be a Lebanese restaurant if not for the generosity, they offered us desserts cake on the house!\n\nIf you happen to pass by the place, you should definitely check it out.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamad Antar",
+   "rating": 4,
+   "when": "Edited a year ago",
+   "text": "Al Mukhtar is a beloved Lebanese bakery in Dubai with a rich history. They offer a wide variety of delicious treats, from traditional sweets like baklava and kunafa to savory pastries and sandwiches. Their products are always fresh and made with high-quality ingredients, ensuring a truly authentic Lebanese experience. And to top it off, their prices are incredibly reasonable, making it easy to enjoy their delicious offerings without breaking the bank. They also have a wide selection of breads that are perfect for sandwiches or to enjoy on their own.",
+   "owner_reply": null
+  },
+  {
+   "author": "Elly",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Al Mukhtar Bakery is a fantastic place to visit! The food is always fresh, flavorful, and absolutely delicious. We love eating there and can never resist taking home plenty of their amazing bread and pastries. The staff is incredibly kind and welcoming, which makes the experience even better. Highly recommend!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1284,
+    902
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    901,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    901
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    886,
+    971
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1312,
+    1199
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-131.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-132.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-133.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-134.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-135.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-136.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-137.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-138.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-139.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-140.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-141.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-142.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-143.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-144.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-145.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-146.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-147.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-148.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-149.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-150.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-151.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-152.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-153.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-154.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-155.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-156.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-157.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-158.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-159.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-160.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-161.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-162.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-163.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-164.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-165.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-166.jpg",
+   "source": "review",
+   "size": [
+    512,
+    461
+   ]
+  },
+  {
+   "file": "img/raw/review-167.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-168.jpg",
+   "source": "review",
+   "size": [
+    512,
+    401
+   ]
+  },
+  {
+   "file": "img/raw/review-169.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-170.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-171.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-172.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-173.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-174.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-175.jpg",
+   "source": "review",
+   "size": [
+    512,
+    385
+   ]
+  },
+  {
+   "file": "img/raw/review-176.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-177.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-178.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-179.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-180.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-181.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-182.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-183.jpg",
+   "source": "review",
+   "size": [
+    407,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-184.jpg",
+   "source": "review",
+   "size": [
+    418,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-185.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-186.jpg",
+   "source": "review",
+   "size": [
+    512,
+    347
+   ]
+  },
+  {
+   "file": "img/raw/review-187.jpg",
+   "source": "review",
+   "size": [
+    512,
+    510
+   ]
+  },
+  {
+   "file": "img/raw/review-188.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-189.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-190.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-191.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-192.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/al-mukhtar-bakery-al-barsha/",
+ "buy_likelihood": 6
+}

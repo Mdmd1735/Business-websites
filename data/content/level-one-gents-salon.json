@@ -1,0 +1,26 @@
+{
+ "preset": "barber-ink",
+ "theme": {"accent": "#C9CED6", "accent_text": "#DCE1E8", "on_accent": "#0F1114", "duo": "#2B2F36", "busy": "#6B7380", "band_accent": "#2B2F36", "frame": "square", "hero_ratio": "16/10"},
+ "brand": {"name": "Level One", "sub": "Gents Salon · Trade Centre", "mark": "L", "footer_word": "LEVEL ONE"},
+ "seo": {"title": "Level One Gents Salon | Barber at Oasis Tower, Sheikh Zayed Road, Open till Midnight", "description": "Level One Gents Salon, Oasis Tower, Sheikh Zayed Road (Trade Centre 2): skin fades, precision beard trims, kids' haircuts and treatments, open 9 AM to midnight daily. 4.8 from 470 reviews."},
+ "hero": {"variant": "stack", "kicker": "Oasis Tower · Sheikh Zayed Road · Trade Centre 2", "title_lines": ["Sheikh Zayed Road's", "late-night barber."],
+   "lede": "Skin fades, precision beard trims and treatments at the foot of Oasis Tower, open from 9 AM until midnight for the haircut you remembered at 11 PM.",
+   "image": "img/hero.jpg", "image_alt": "Leather barber chairs at Level One Gents Salon", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Level One, I'd like to book a haircut.",
+ "proof_note": "Replies to 87% of reviews",
+ "address_lines": ["Level One Gents Salon, Oasis Tower", "Sheikh Zayed Road, Trade Centre 2, Dubai"],
+ "socials": {"instagram": "levelonesalondxb"},
+ "ticker": ["Skin fade", "Beard trim", "Hot towel", "Kids cuts", "Treatments", "Open till midnight"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "layout": "list", "eyebrow": "Services", "title": "Clean cuts,", "title_dim": "no fuss.",
+   "items": [{"name": "Haircut & skin fade", "desc": "Tapers, skin fades and classic cuts."}, {"name": "Beard trim & line-up", "desc": "Precision shaping with a hot towel."}, {"name": "Kids' haircuts", "desc": "Patient barbers for young clients."}, {"name": "Treatments", "desc": "Hair and facial treatments to finish."}],
+   "perks": ["Open daily 9 AM – 12 AM", "Walk-ins welcome", "Prime location on SZR"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Walk in", "title": "Skip the", "title_dim": "evening rush."},
+  {"type": "team", "id": "team", "nav": "Barbers", "eyebrow": "The barbers", "title": "Amir and Ali.", "title_dim": "Day shift and night shift.",
+   "items": [{"name": "Amir", "count": 6, "role": "Barber", "quote": "Level One has become my go-to salon after being introduced to Amir by a work colleague.", "cite": "Andrew P."},
+             {"name": "Ali", "count": 6, "role": "Night-shift barber", "quote": "You will find Ali most of the time on the night shift, when everyone remembers they need a haircut during the last hour.", "cite": "Parasca E."}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Level One Gents Salon storefront"}, {"src": "img/chair.jpg", "alt": "Client in the chair with his barber"}, {"src": "img/fade.jpg", "alt": "Fresh fade from the side"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Oasis Tower,", "title_dim": "Sheikh Zayed Road."}
+ ]
+}

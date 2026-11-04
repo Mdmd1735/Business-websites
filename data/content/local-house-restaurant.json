@@ -1,0 +1,29 @@
+{
+ "preset": "bakery-butter",
+ "theme": {"bg": "#FBF6EC", "surface_2": "#F0E3C8", "accent": "#1E7A6E", "accent_text": "#166055", "duo": "#CFE3D6", "busy": "#C2803A", "glow": "rgba(30,122,110,.12)", "band_bg": "#2A1F14", "band_accent": "#F2C46A", "frame": "arch", "hero_ratio": "4/3"},
+ "brand": {"name": "Local House", "sub": "Emirati Restaurant · Al Fahidi", "mark": "L", "footer_word": "Local House"},
+ "seo": {"title": "Local House Restaurant | Camel Burger & Emirati Food in Al Fahidi Historical Neighbourhood", "description": "Local House, in one of the oldest houses in Al Fahidi Historical Neighbourhood, Bur Dubai: camel burger, camel biryani, kebab and steak, Emirati breakfast, shakshuka and karak in a courtyard. Open daily 8 AM to 10 PM. 4.5 from 1,260 reviews."},
+ "hero": {"variant": "stack", "ar_name": "البيت المحلي", "kicker": "Al Fahidi Historical Neighbourhood · Bur Dubai", "title_lines": ["Ever tried", "a camel burger?"],
+   "lede": "The first Dubai restaurant to put camel on the menu, inside one of Al Fahidi's oldest houses: camel burgers, biryani and kebabs, Emirati breakfast, shakshuka and karak in a shaded courtyard.",
+   "image": "img/hero.jpg", "image_alt": "Local House courtyard with colourful benches and plants", "secondary": {"label": "What to order", "href": "#menu"}},
+ "cta_label": "Reserve on WhatsApp", "cta_text": "Hi Local House, I'd like to reserve a table.",
+ "proof_note": "1,260 reviews",
+ "address_lines": ["Local House Restaurant, Al Fahidi Historical Neighbourhood", "51–65 Al Fahidi St, Bur Dubai"],
+ "ticker": ["Camel burger", "Camel biryani", "Camel kebab", "Emirati breakfast", "Shakshuka", "Karak tea", "Courtyard seating"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "What to order", "title": "The king of camel meat,", "title_dim": "and Emirati classics.",
+   "items": [
+    {"name": "Camel burger", "feature": true, "img": "img/burger.jpg", "alt": "Camel burger with fries", "desc": "The dish that made Local House famous.", "quote": "One of the biggest highlights of this spot is the opportunity to try camel meat, which is quite rare and hard to find.", "cite": "A JP Dubai"},
+    {"name": "Camel biryani", "img": "img/biryani.jpg", "alt": "Camel biryani in a brass pot", "desc": "Slow-cooked camel on spiced rice."},
+    {"name": "Kebab & grills", "img": "img/kebab.jpg", "alt": "Kebab platter with fries and salad", "desc": "Camel kebab, steak and mixed grills."},
+    {"name": "Emirati breakfast", "img": "img/platter.jpg", "alt": "Breakfast spread with chebab and balaleet", "desc": "Chebab, balaleet, shakshuka and karak from 8 AM."}
+   ],
+   "perks": ["Open daily 8 AM – 10 PM", "Courtyard & majlis seating", "Branch at Dubai Safari Park"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Visit", "title": "Breakfast in the courtyard", "title_dim": "is the quiet hour."},
+  {"type": "gallery", "images": [{"src": "img/courtyard.jpg", "alt": "Courtyard with heritage mural", "wide": true}, {"src": "img/umbrellas.jpg", "alt": "Shaded courtyard seating"}, {"src": "img/interior.jpg", "alt": "Whitewashed dining room", "wide": true}, {"src": "img/majlis.jpg", "alt": "Colourful majlis seating"}, {"src": "img/wall.jpg", "alt": "Local House sign with camel statue", "wide": true}, {"src": "img/night.jpg", "alt": "Local House at night"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "reserve", "eyebrow": "Reserve", "title": "Bringing visitors?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I book the majlis for a group?", "What time does breakfast start?", "Do you have vegetarian options?", "Is the courtyard open in the evening?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Fahidi Historical", "title_dim": "Neighbourhood."}
+ ]
+}

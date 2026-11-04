@@ -1,0 +1,30 @@
+{
+ "preset": "steel-volt",
+ "theme": {"accent": "#E52E2E", "accent_text": "#FF5050", "on_accent": "#FFFFFF", "duo": "#5A1414", "busy": "#A32020", "glow": "rgba(229,46,46,.16)", "band_accent": "#B81F1F", "frame": "square", "hero_ratio": "4/3"},
+ "brand": {"name": "Al Bayadh", "sub": "Garage · Ajman", "mark": "B", "footer_word": "AL BAYADH"},
+ "seo": {"title": "Al Bayadh Garage Ajman | Injector, Catalytic & Throttle Cleaning, AC & Mechanical Repair", "description": "Al Bayadh Garage, 44 Amr Ibn El Aas St, Industrial Area 2, Ajman: injector, catalytic converter and throttle body cleaning, radiator flushing, AC, mechanical, electrical, denting and painting. 4.6 from 678 reviews."},
+ "hero": {"variant": "panel", "ar_name": "كراج البياض", "kicker": "44 Amr Ibn El Aas St · Industrial Area 2 · Ajman", "title_lines": ["Clean injectors.", "Clean emissions.", "Fair prices."],
+   "lede": "Injector, catalytic converter and throttle body cleaning on proper machines, plus radiator flushing, AC, mechanical, electrical, denting and painting, all under one roof in Ajman.",
+   "image": "img/hero.jpg", "image_alt": "Al Bayadh Garage workshop with cars being serviced", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Get a quote on WhatsApp", "cta_text": "Hi Al Bayadh Garage, I need a quote for my car.",
+ "proof_note": "678 Google reviews",
+ "address_lines": ["Al Bayadh Garage, 44 Amr Ibn El Aas St", "Opposite Baithak Restaurant, Industrial Area 2, Ajman"],
+ "ticker": ["Injector cleaning", "Catalytic cleaning", "Throttle body", "Radiator flush", "AC repair", "Denting & painting", "Spark plugs"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Engine running rough?", "title_dim": "Start with a clean.",
+   "items": [
+    {"name": "Injector cleaning", "feature": true, "img": "img/injector.jpg", "alt": "Ultrasonic injector cleaning machine", "desc": "Machine-tested injectors with spray-pattern checks.", "quote": "I visited the garage to get an emissions issue checked and repaired on my car, and I'm very happy with the overall experience.", "cite": "Mohamed A."},
+    {"name": "Catalytic & throttle cleaning", "img": "img/machines.jpg", "alt": "Cleaning machines lined up", "desc": "Catalytic converter and throttle body service."},
+    {"name": "Mechanical & electrical", "img": "img/engine.jpg", "alt": "Engine bay under repair", "desc": "Diagnostics, brakes, suspension and spark plugs."},
+    {"name": "AC & cooling", "img": "img/lift.jpg", "alt": "Car on a lift", "desc": "AC repair and radiator flushing."},
+    {"name": "Denting & painting", "img": "img/bay.jpg", "alt": "Workshop bay", "desc": "Body repair, painting and polishing."}
+   ],
+   "perks": ["Split shift: 8 AM – 1 PM & 3:30 – 10 PM", "Fair pricing", "All makes"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan your visit", "title": "Drop your car off", "title_dim": "early."},
+  {"type": "gallery", "images": [{"src": "img/sign.jpg", "alt": "Al Bayadh Garage banner", "wide": true}, {"src": "img/mechanic.jpg", "alt": "Mechanic working under the bonnet"}, {"src": "img/cleaning.jpg", "alt": "Injector test tubes", "wide": true}, {"src": "img/brakes.jpg", "alt": "Brake service"}, {"src": "img/suspension.jpg", "alt": "Suspension work"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "quote", "eyebrow": "Quote", "title": "Tell us the car.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is injector cleaning?", "My check-engine light is on. When can you look?", "Price for catalytic converter cleaning?", "Can you fix my AC today?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Industrial Area 2,", "title_dim": "Ajman."}
+ ]
+}

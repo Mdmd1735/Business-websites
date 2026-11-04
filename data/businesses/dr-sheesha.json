@@ -1,0 +1,2204 @@
+{
+ "slug": "dr-sheesha",
+ "name": "Dr Sheesha",
+ "place_id": "ChIJ6TSo5MFDXz4RLcVK2XmZ51E",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "Al Karama, Dubai",
+ "address": "112 Za'abeel St - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2369991,
+  "lng": 55.3047332
+ },
+ "phone": "+971 56 671 1730",
+ "rating": 4.7,
+ "userRatingCount": 1067,
+ "rating_distribution": {
+  "oneStar": 30,
+  "twoStar": 4,
+  "threeStar": 27,
+  "fourStar": 81,
+  "fiveStar": 925
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Dr%20Sheesha&query_place_id=ChIJ6TSo5MFDXz4RLcVK2XmZ51E",
+ "website": "",
+ "categories": [
+  "Hookah bar",
+  "Cafe"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  }
+ ],
+ "owner_description": "Unlocking a New Era of Sheesha Indulgence!",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "sheesha",
+  "sheesha quality",
+  "sheesha options",
+  "welcoming staff",
+  "sheesha cafe",
+  "ambience",
+  "pistachio milkshake",
+  "dr shisha",
+  "affordable sheesha",
+  "mocktails"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 9
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 8
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 9
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 8
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 11
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Hemanth Nandyala",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI had a wonderful experience at Dr Sheesha ! The service was absolutely outstanding, and everything was excellent from start to finish. Special thanks to ***Parvez*** for his amazing service, friendly attitude, and professionalism. He made the whole experience even better and ensured everything was perfect. Honestly, his service was top-notch, and I really appreciate the way he treated me and my friends. Highly recommended! If you visit Dr Sheesha, definitely look for Parvez. He truly deserves appreciation for his excellent service. Will definitely visit again! 👏❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Reza Lakhani",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Dr. Sheesha never disappoints, but Manisha made this visit special. She really knows the menu and gave us some fantastic recommendations. If you're looking for top-tier hospitality, ask for her. Great vibes and even better service",
+   "owner_reply": null
+  },
+  {
+   "author": "Resih Wiyanti",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Cafe Sesha is a lovely café with a cozy atmosphere, great coffee, and friendly service. The food is fresh and delicious, making it a perfect spot to relax or meet friends. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Azhar Ali Durrani",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Really enjoyed my visit to Dr Sheesha Cafe. Great food, amazing sheesha, and a very cozy atmosphere. Huge thanks to Manisha mam for the perfect service and friendly behavior. She was attentive, welcoming, and made sure we had a great time. Highly recommended place!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Mudassir Hussain",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "A truly brilliant and unforgettable experience at Dr Shisha — from the moment we arrived to the time we left, everything was handled with exceptional care and attention. The hospitality and ambiance were outstanding throughout, creating a space that felt both luxurious and incredibly welcoming.\n\nThe atmosphere was warm, relaxing, and beautifully designed, with stylish décor and a comfortable seating arrangement that immediately put us at ease. The music was perfectly curated, enhancing the vibe without ever being overwhelming, making it an ideal place to unwind, socialize, and enjoy the evening.\n\nA special mention goes to Mrs Manisha for her outstanding care, professionalism, and genuinely attentive service. She ensured that every detail was taken care of, checking in regularly and making sure we were comfortable at all times. Her kindness and dedication truly elevated the entire experience and made us feel genuinely valued as guests.\n\nThe shisha itself was excellent, smooth, and well-prepared, adding to the overall enjoyment of the visit. Combined with the great service and inviting atmosphere, it created a complete and highly satisfying experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "bilal bhatti",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Nice shjsah and food specially this blu mojito very good ambiance and perfect for foodball season very big screen\nThanks to Mr. Sanjiv for very good service 👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Ibrahim Sahil",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I had a very good experience at this sheesha cafe. The place is clean, comfortable, and has a nice atmosphere. The sheesha was really good, smooth, and had great flavor. They also have many options to choose from, which I liked.\nThe service was excellent.\nThe staff espcialy ( Manisha )friendly and always ready to help. They checked on us often to make sure everything was okay. I felt welcomed and well taken care of.\nOverall, this is a great place to relax and enjoy good sheesha with good service. I really enjoyed my time here and I will definitely come back again. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "AN ZE",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The best avocado drink I’ve ever had! 🥑💚 Smooth, creamy, fresh, and perfectly balanced in flavor. The presentation with the smoky effect made it even more special and worthy. Every sip was refreshing and rich. The atmosphere is amazing, the staff are friendly, and the service is excellent. If you’re visiting Dr. Sheesha Cafe, the avocado drink is an absolute must-try. Highly recommended—I’ll definitely be coming back for it!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammad Shabeeb",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "In dr sheesha we all group like only staff ms Manisha she is a very strong lady and cute and very professional she will always have a active role 👌 bcz of she we all go in dr sheesha most recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Heena Garg",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I visited this place for the first time and I really loved the way how the owner has put in all heart, mind and soul to curate this beautiful lounge. The staff was very friendly, the offers were really amazing, the Shisha, no words can explain, it was that smooth and amazing. Drinks were also very tasteful 😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Darsshan Puroohit",
+   "rating": 5,
+   "when": "Edited 5 months ago",
+   "text": "Really enjoyed my visit to Dr.Sheesha Cafe. Great atmosphere, excellent sheesha, and a nice variety of non-alcoholic drinks. They made the experience even better with her kind and attentive service. Will definitely return🙏💐",
+   "owner_reply": null
+  },
+  {
+   "author": "Shruti Nanda",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Best service by sanjeev is the star of the sheesha cafe 🤍 he is so polite and amazing hospitality. God bless him 😇",
+   "owner_reply": null
+  },
+  {
+   "author": "Abhijit Singh",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Mansu is one of the hard working employee in cafe. She is a smart lady and always takes order professionally and delivered on time..",
+   "owner_reply": null
+  },
+  {
+   "author": "Mithun Panicker",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Superb ambience and great Shisha Flavours. But the best thing is their food, both Veg and Non veg have great varieties and taste.\n\n5 star for their Service also.\nSpecial mention to Ms Alisha, she took great care and awesome service.\n\nKeep up the great work.",
+   "owner_reply": null
+  },
+  {
+   "author": "Umair Rana",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I recently visited this shisha café and had a great experience. The atmosphere was cozy and relaxing, perfect for spending time with friends. The staff were polite and attentive, making sure everything was just right. The shisha quality was excellent — smooth smoke, rich flavor, and long-lasting. Their mint and double apple mixes were especially good.\nThe café also had good background music and comfortable seating, which added to the overall vibe. Drinks and snacks were fresh and reasonably priced. Definitely one of the best places in town to unwind after a long day. Highly recommend!\nSpecially recommend for host Manisha 💕♥️",
+   "owner_reply": null
+  },
+  {
+   "author": "sunil Nimrani",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "wonderful experience at the Sheesha Cafe! The food was delicious and full of flavor, the atmosphere was perfect for relaxing with friends. The service was excellent  and special thanks to Manisha for being so friendly, attentive, and professional. Highly recommend this restaurant for great food and amazing vibes",
+   "owner_reply": null
+  },
+  {
+   "author": "Anchor Priya ghiya",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "No one can beat the vibes and sheesha of Dr. Sheesha 💫 It’s my all time favorite spot for enjoying with family or friends 🥰 Food is presented so well with delicious taste and I was warmly welcomed by the Manager Zahid Trali can say a Gem of Dr Sheesha and was taken good care by Mr. Tilak from start till end 😇 Highly recommended spot",
+   "owner_reply": null
+  },
+  {
+   "author": "MOHAMED FAHEEM SYED IBRAHIM",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I had an amazing experience! The shisha was smooth, flavorful, and perfectly prepared. The food was delicious with great presentation and fresh ingredients. What truly made the visit exceptional was the staff  especially  ms manisha madam very friendly, attentive, and welcoming. Their service created a comfortable and enjoyable atmosphere.\nHighly recommended! I will definitely be coming back👌🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Usama arshad",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Great place to chill with friends. The sheesha quality is top-notch, and the variety of drinks—especially the mocktails—is impressive. The staff are super nice especially manisha she very nice make you feel at home. Perfect combination of good vibes, good food, and great service.",
+   "owner_reply": null
+  },
+  {
+   "author": "InkLink HUB",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "We had a wonderful experience this evening, thanks to Sanjiv's excellent service and the outstanding shisha.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mamta Joshi",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Had a great experience at this sheesha café! The ambiance was relaxing, the food was tasty, and the sheesha quality was excellent. What really made the visit special was the amazing service by Manisha—she was friendly, attentive, and made sure everything was perfect. Truly good service and a very welcoming staff. Highly recommended, and I’ll definitely be coming back",
+   "owner_reply": null
+  },
+  {
+   "author": "Mizba Zaveri",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Honestly, the taste and vibe were amazing! These days, they have a great offer: from Monday to Friday until 6 PM, shisha is only AED 19, and on Saturday and Sunday until 6 PM, it’s AED 29.\n\nWe started by trying a few shisha flavors and chose the best one to enjoy while watching the IPL match. Then we ordered two starters – the Chicken Tikka and Chicken Dragon – both were absolutely delicious! We paired them with a Passion Mango Smoothie and a Cookie Smoothie.\n\nFor the main course, we had Mutton Rogan Josh and a Pizza – both were incredibly tasty. We ended the meal with a Blueberry Cheesecake that was just perfect.\n\nThis is definitely a must-visit spot in Dubai!",
+   "owner_reply": null
+  },
+  {
+   "author": "Titiksha Patel",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Everything was perfect—from the sheesha to the food and the service. Special thanks to Mansu for his warm hospitality and excellent customer care. Highly recommend this place❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Bansal Tarun",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Dr. Sheesha, Dubai\n\nDr. Sheesha in Dubai offers a vibrant and laid-back atmosphere perfect for relaxing with friends or enjoying a solo session. The variety of sheesha flavors is impressive, ranging from traditional favorites to unique blends that cater to every palate. The staff is friendly, attentive, and knowledgeable, always ready to help you choose the right flavor or make adjustments.\n\nThe ambiance is cozy with a modern Middle Eastern touch—comfortable seating, ambient lighting, and a great playlist set the mood. Their food and beverage menu is also worth exploring, with delicious bites and refreshing mocktails that complement the sheesha experience well.\n\nWhether you're a local or a tourist looking for a chilled-out spot to unwind, Dr. Sheesha is definitely worth a visit. It’s a well-balanced fusion of quality, comfort, and culture.\n\nRating: 4.5/5",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahtasham Amjad",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Amazing sheesha with superb food awesome place visit at least once\nHighly recommended\nMiss Alisha very responsive with nice behavior.\nOverall 10/10",
+   "owner_reply": null
+  },
+  {
+   "author": "Zumrud Ejaz",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Alisha was such a great server her way of speaking is great and the way she serves customers leaves a great impression and also lama was great as well",
+   "owner_reply": null
+  },
+  {
+   "author": "Muzammil Khurshid",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This was my 5th visit and undoubtedly, we had a remarkable experience as we gathered to celebrate our colleague's birthday. The team executed the event exceptionally well, making it highly appealing. Both the cuisine and ambiance were extraordinary, and I look forward to the opportunity to visit again soon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shweta bhagvatula",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "A nice place to have some food and do shisha. Chill place to hangout with friends and family. The do offer a 6 options testing of shishas, you can test and then choose which flavour you would like to go ahead with.\n\nThe food is delicious in taste and the presentation of the food is amazing. Se ordered Paneer tikka and Beetroot crispy kababs both the dishes were delicious and the presentation was great too. Tilak has offered good service to us and the shisha specialist was good with the service.\n\nIn all the experience was very good. I would recommend this place as a must try place.",
+   "owner_reply": null
+  },
+  {
+   "author": "Money Maker-4u",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Really enjoyed my time Dr. Sheesha. Their non-alcoholic drinks are creative flavorful  if you want something refreshing without alcohol.\nA special shout-out to Manisha . Who provided outstanding service she was attentive. Polite and made sure everything was just right .her friendly approach made the experience even more meroable. Looking forward to coming back 🔙",
+   "owner_reply": null
+  },
+  {
+   "author": "NIDA AlAM UMAR",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Dr sheesha is one of my favourite place the ambiance is 10/10 the food is amazing the sheesha flavour is 100 plus my favourite is pan with double apple best sheesha in Dubai thanks alisha for serving us nicety",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    730
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    968,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    901
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1066,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    972,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    969,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1179,
+    1156
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    220,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    366,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    364,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    331,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    345,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-131.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-132.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-133.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-134.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-135.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-136.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-137.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-138.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-139.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-140.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-141.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-142.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-143.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-144.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-145.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/dr-sheesha/",
+ "buy_likelihood": 6,
+ "notes": "Scouted in batch 3, not built (few photos or inactive owner)."
+}

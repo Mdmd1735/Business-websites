@@ -1,0 +1,30 @@
+{
+ "preset": "noir-red",
+ "theme": {"accent": "#E5B84C", "accent_text": "#EEC765", "on_accent": "#14100A", "bg": "#0B0D0C", "surface": "#141716", "surface_2": "#1D2120", "duo": "#3D3218", "busy": "#8E7330", "glow": "rgba(229,184,76,.14)", "band_bg": "#F2EFE8", "band_accent": "#7A5E1C", "display": "\"Cinzel\",Georgia,serif", "body": "\"Inter Tight\",system-ui,sans-serif", "google_fonts": "family=Cinzel:wght@600;700&family=Inter+Tight:wght@400;500;600&family=Cairo:wght@700", "dw": "700", "dstyle": "normal", "dcase": "none", "dtrack": "0.01em", "h1max": "108px"},
+ "brand": {"name": "Desire", "sub": "Sheesha Lounge · Oud Metha", "mark": "D", "footer_word": "DESIRE"},
+ "seo": {"title": "Desire Sheesha Lounge | 24-Hour Shisha & Mughlai Food in Oud Metha, Dubai", "description": "Desire Sheesha Lounge, ABA Residence, 8th St, Oud Metha near Lamcy Plaza: smooth shisha from AED 39, Mughlai and Indo-Chinese food, sizzlers and desserts, open 24 hours. 4.8 from 904 reviews."},
+ "hero": {"variant": "full", "kicker": "ABA Residence · 8th Street · Oud Metha", "title_lines": ["Smooth shisha.", "Serious food.", "Open all night."],
+   "lede": "A dark, plush lounge near Lamcy Plaza serving smooth shisha from AED 39 alongside tandoori, Mughlai curries, Indo-Chinese, sizzlers and desserts, 24 hours a day.",
+   "image": "img/hero.jpg", "image_alt": "Desire Sheesha Lounge interior with arched windows and warm lights", "secondary": {"label": "Menu", "href": "#menu"}},
+ "cta_label": "Reserve on WhatsApp", "cta_text": "Hi Desire Sheesha Lounge, I'd like to reserve a table.",
+ "proof_note": "904 reviews · open 24/7",
+ "address_lines": ["Desire Sheesha Lounge, ABA Residence", "15 8th Street, Oud Metha (near Lamcy Plaza), Dubai"],
+ "ticker": ["Shisha from AED 39", "Tandoori", "Mughlai", "Indo-Chinese", "Sizzlers", "Sizzling brownie", "Open 24 hours"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "The menu", "title": "Shisha is the draw.", "title_dim": "The food is the surprise.",
+   "items": [
+    {"name": "Shisha", "feature": true, "img": "img/hookah.jpg", "alt": "Shisha pipe against a white wall", "desc": "Classic and premium flavours, smooth and well-prepared.", "quote": "Service is always consistent, food is top-notch, Shisha is great.", "cite": "Maqbool K., regular for years"},
+    {"name": "Tandoori & grills", "img": "img/tandoori.jpg", "alt": "Tandoori chicken with naan", "desc": "Tandoori chicken, kebabs and raan."},
+    {"name": "Mughlai curries", "img": "img/curry.jpg", "alt": "Curry in a copper handi", "desc": "Rich curries and biryani."},
+    {"name": "Indo-Chinese & sizzlers", "img": "img/sizzler.jpg", "alt": "Sizzler platter", "desc": "Crispy lotus stem, soya chaap and sizzlers."},
+    {"name": "Dim sum & small plates", "img": "img/dimsum.jpg", "alt": "Steamed dim sum", "desc": "Dumplings, prawns and starters."}
+   ],
+   "perks": ["Open 24 hours", "Shisha from AED 39", "Near Lamcy Plaza", "Big-screen sports"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Get a table", "title": "Weekend nights fill up.", "title_dim": "Book ahead."},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Desire Sheesha Lounge storefront", "wide": true}, {"src": "img/prawns.jpg", "alt": "Chilli prawns", "wide": true}, {"src": "img/logo.jpg", "alt": "Gold DSL logo"}, {"src": "img/corridor.jpg", "alt": "Red carpet entrance corridor"}, {"src": "img/astronaut.jpg", "alt": "Gold astronaut decor"}, {"src": "img/biryani.jpg", "alt": "Biryani with raita", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "reserve", "eyebrow": "Reserve", "title": "Coming tonight?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I reserve a table for tonight?", "What shisha flavours do you have?", "Can you host a birthday group?", "Is the match on this weekend?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Oud Metha,", "title_dim": "near Lamcy Plaza."}
+ ]
+}

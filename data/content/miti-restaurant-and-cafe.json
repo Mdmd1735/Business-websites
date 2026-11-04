@@ -1,0 +1,30 @@
+{
+ "preset": "sage-spa",
+ "theme": {"bg": "#0F1712", "surface": "#16211A", "surface_2": "#1E2C23", "text": "#EEF3EC", "text_2": "#C9D3C6", "dim": "#93A08F", "line": "rgba(255,255,255,.1)", "line_strong": "rgba(255,255,255,.22)", "nav_bg": "rgba(15,23,18,.86)", "card_glass": "rgba(22,33,26,.9)", "tint": "rgba(255,255,255,.07)", "map_filter": "grayscale(1) invert(.9) contrast(.9)", "accent": "#E8A33C", "accent_text": "#F2B95E", "on_accent": "#1A1206", "duo": "#2E4A35", "busy": "#C27A1E", "band_bg": "#F3EFE4", "band_text": "#17231B", "band_card": "#FFFFFF", "band_line": "#E1DCCD", "band_accent": "#2E6B45", "ask_bg": "#0F1712", "ask_text": "#FFFFFF", "quiet": "#5D7A63", "accent_on_photo": "#F2B95E", "frame": "slant"},
+ "brand": {"name": "Miti", "sub": "Restaurant & Café · Karama", "mark": "M", "footer_word": "MITI"},
+ "seo": {"title": "Miti Restaurant & Café Karama | Indian Food, Shisha & Live Music near Park Regis", "description": "Miti Restaurant & Café, 11th St near Park Regis, Al Karama: modern Indian food, chaat and pani puri, tikka smoked pots, jini dosa and pizza paratha, mocktails, shisha lounge and live music. 4.5 from 1,483 reviews."},
+ "hero": {"variant": "full", "kicker": "11th Street · Near Park Regis · Al Karama", "title_lines": ["Indian flavours,", "a jungle lounge,", "live music."],
+   "lede": "Modern Indian plates, street-style chaat, smoked tikka pots and dosa, mocktails, a jungle-themed shisha lounge and live performances on weekends, near Park Regis in Karama.",
+   "image": "img/hero.jpg", "image_alt": "Miti's jungle-themed lounge with hanging plants and warm lights", "secondary": {"label": "What to order", "href": "#menu"}},
+ "cta_label": "Reserve on WhatsApp", "cta_text": "Hi Miti, I'd like to reserve a table.",
+ "proof_note": "1,483 reviews",
+ "address_lines": ["Miti Restaurant & Café, Al Balorah building", "11th Street, near Park Regis, Al Karama, Dubai"],
+ "ticker": ["Chaat", "Pani puri", "Tikka smoked pot", "Jini dosa", "Pizza paratha", "Mocktails", "Live music"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "What to order", "title": "Street food,", "title_dim": "dressed up.",
+   "items": [
+    {"name": "Tikka & seekh", "feature": true, "img": "img/tikka.jpg", "alt": "Chicken tikka", "desc": "Smoky tikka, methi malai seekh and kebabs.", "quote": "Started with the fresh Avocado Bhel and Broccoli Bhanola, then moved on to the smoky Chicken Tikka Smoked Pot and creamy Methi Malai Seekh.", "cite": "Farha A."},
+    {"name": "Chaat & pani puri", "img": "img/panipuri.jpg", "alt": "Pani puri stand", "desc": "Pani puri, bhel and chaat."},
+    {"name": "Dosa & paratha", "img": "img/dosa.jpg", "alt": "Rolled dosa on a banana leaf", "desc": "Jini dosa and pizza paratha."},
+    {"name": "Sizzlers & mains", "img": "img/sizzler.jpg", "alt": "Sizzler platter", "desc": "Sizzlers, curries and biryani."},
+    {"name": "Mocktails & shisha", "img": "img/drink.jpg", "alt": "Smoking copper mocktail", "desc": "Signature drinks and a shisha lounge."}
+   ],
+   "perks": ["Live music", "Smoking & non-smoking areas", "Open till late"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Get a table", "title": "Live nights fill up.", "title_dim": "Book ahead."},
+  {"type": "gallery", "images": [{"src": "img/dining.jpg", "alt": "Bright dining room", "wide": true}, {"src": "img/sign.jpg", "alt": "Miti logo on a leaf wall", "wide": true}, {"src": "img/kebab.jpg", "alt": "Seekh kebab on banana leaf"}, {"src": "img/paratha.jpg", "alt": "Pizza paratha", "wide": true}, {"src": "img/shisha.jpg", "alt": "Shisha lounge"}, {"src": "img/lounge.jpg", "alt": "Lounge seating", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "reserve", "eyebrow": "Reserve", "title": "Plan your night.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I book a table for tonight?", "Which nights have live music?", "Do you have a non-smoking area?", "Can you host a group of 10?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Near Park Regis,", "title_dim": "Karama."}
+ ]
+}

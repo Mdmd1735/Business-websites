@@ -1,0 +1,1363 @@
+{
+ "slug": "pinky-z-salon",
+ "name": "Pinky z Salon Al-Rigga , DUBAI",
+ "place_id": "ChIJcXq0KXFdXz4RaF00PwCjsUY",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "Al Rigga Rd - ديرة - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2648634,
+  "lng": 55.3188418
+ },
+ "phone": "+971 50 297 0821",
+ "rating": 4.6,
+ "userRatingCount": 1502,
+ "rating_distribution": {
+  "oneStar": 96,
+  "twoStar": 13,
+  "threeStar": 20,
+  "fourStar": 82,
+  "fiveStar": 1291
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Pinky%20z%20Salon%20Al-Rigga%20%2C%20DUBAI&query_place_id=ChIJcXq0KXFdXz4RaF00PwCjsUY",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "Open 24 hours"
+  }
+ ],
+ "owner_description": "صالون شروق للسيدات\nاكبر حمام مغربي تقليدي بالأعشاب وخدمات تدليك الجسم والمساج و تركيب الشعر تركيب الأظافر تركيب الرموش والحلاوة المصري والواكس ومانيكير بديكير وسشوار والعديد من الخدمات .....\n050-2970-821\nShurooq Pinky'z Salon\nBest of Moroccan Bath with Full body massage. Wax. manicure pedicure with foot spa. Blow dry .\nhair restoration treatments\nHair color .etc......\n050-2970-821",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Checks": true
+   },
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "On-site parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "moroccan bath",
+  "waxing",
+  "foot spa",
+  "body massage",
+  "brazilian wax",
+  "accommodating staff",
+  "nail extensions",
+  "manicure",
+  "hair protein treatment",
+  "threading"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 4,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 30
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 13
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 30
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 52
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 69
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 17
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 26
+   }
+  ]
+ },
+ "owner_reply_rate": 0.5,
+ "reviews": [
+  {
+   "author": "Naj Mez",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "Unfortunately, my experience at this salon was very disappointing. Some of the staff were extremely unprofessional and lacked basic customer service skills. As paying clients, we expect to be treated with respect—not to be spoken to rudely or screamed at. We are paying for a service, not asking for it for free.\n\nThe blow-dry was also poorly done and felt rushed. Clients should receive the service they are paying for, not feel like corners are being cut or that they’re being taken advantage of.\n\nOn a positive note, I would like to thank Evon for the excellent manicure and pedicure. She was professional, attentive, and did a wonderful job. She was the only highlight of an otherwise disappointing visit.\n\nI hope management takes this feedback seriously and works on improving both staff professionalism and the quality of service",
+   "owner_reply": "Hello Ms Najla .<br>Am very sorry for the bad experience in our Salon.<br>I did investigated that issue. <br>And the staff was suspended immediately for her behaviour. <br>Kindly pls accept our apologies. <br>Looking forward to serve you again pls <br><br>Husam<br>050-2970-821 <br>"
+  },
+  {
+   "author": "Rosenee Stha",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Had such a relaxing day today at Pinky Salon 💖\n\nI did my Moroccan bath and mani-pedi with gel — everything was perfect! Special thanks to Miss Aya, she was so good and funny 🤍 Even though communication was a bit hard, she still made me feel comfortable and happy.\n\nAlso, Miss Evon did a great job too!\n\nPinky Salon will always be my favorite ✨",
+   "owner_reply": "🥰🥰🥰Thank you Ms Rosenee. So sweet of you. <br>Always pleasure to serve u 💖 <br>See u soon with  friends ❤️ "
+  },
+  {
+   "author": "Mim ken",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I absolutely loved my experience at this salon! I spent such relaxing hours enjoying the Moroccan bath, and the lady who did it*May* was so professional, kind, and amazing at what she does. After that, I had a hair treatment with Nancy, who was so patient and lovely. I truly adore the final result! ❤️ Thank you to the whole team for making the experience so special. I’ll definitely be back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Shennie Llamera",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had the best experience good service and outcome of this Salon. All staff are amazing highly recommend specially of their packages got a\nMoroccan bath, Massage, gel nails today.\n\nThank you so much, pamper satisfied.",
+   "owner_reply": "🥰🥰🥰Thank you Ms Shennie. So sweet of you. <br>Always pleasure to serve u 💖 <br>See u soon with  friends ❤️ "
+  },
+  {
+   "author": "AS",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Tito isn’t just an exceptional hairstylist; he’s a marvellous person, and that shines through in his work, demeanour and energy. He’s patient, professional and clearly knows exactly what he’s doing. He treated my hair with real care and gave me a colour I absolutely love.\n\nAsmita is great too, had a great pedi-mani session with her. Professional and very warm to say the least.\n\n-Archie",
+   "owner_reply": "🥰💝🥰💝🥰<br>So sweet of you Ms Archie.....<br>Pleasure to serve u always 💖 "
+  },
+  {
+   "author": "maryam kazman",
+   "rating": 5,
+   "when": "Edited 2 months ago",
+   "text": "I had my nails done by a beautiful, kind and lovely lady named Winnie there ❤️. She did her job really really well. I showed her a pic on my phone and she copied exact same thing without missing a single part. Besides, the entire staff was also very polite and caring. I really had a good time and I would definitely be recommending Winnie and pinky’z salon to anyone looking for great services. 🙌",
+   "owner_reply": "🥰🥰🥰Thank you so much Ms Maryam💝<br>Always Pleasure to serve u 💖 "
+  },
+  {
+   "author": "Mel Grace Namoc",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️ Excellent Moroccan Bath Experience!\n\nI recently visited this salon with my friends for a Moroccan bath, and we couldn’t be happier with our experience! From the moment we arrived, the staff made us feel so welcome and comfortable specially the kabayan in the counter .\n\nA special thank you to Samina(im not sure about her name but shes a moroccan), who did my Moroccan bath — she was absolutely amazing! She was professional, gentle, and made sure I felt pampered the entire time. My skin felt so soft and refreshed afterward!\n\nMy friends and I left the salon feeling rejuvenated and beyond satisfied. The service was top-notch, and the staff were all so kind and attentive. I would highly recommend this place to anyone looking for a luxurious and refreshing spa experience. We’ll definitely be coming back soon! 💆‍♀️✨",
+   "owner_reply": "🥰🥰🥰<br>Thank you so much Ms Mel.<br>So sweet of you ❤️ <br>Always pleasure to serve u 💖 "
+  },
+  {
+   "author": "Ja Abad",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "I recently tried the Moroccan bath with Aya from Morocco at Pinky’z Salon. She was incredibly accommodating and friendly, making me feel welcome from the moment I arrived.Pedicure by Winnie is the bestI truly appreciate her professionalism and how she treats first-time clients with such care and respect. Highly recommended!",
+   "owner_reply": "🥰🥰🥰Thank you Ms Abad.<br>So sweet of you.<br>See you soon with friends 💖<br>Always happy to serve u 💝 "
+  },
+  {
+   "author": "lhiaynah alhalabi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "We had a Moroccan bath and massage, and even though we arrived at a busy time, the staff managed to handle all the guests very well. We were still accommodated smoothly despite the timing.\n\nI’m very happy with my first experience at this salon and will definitely come back. A special shout-out to the kabayan host who assisted us from the moment we arrived until we left. Their friendliness, professionalism, and excellent service made our visit even more enjoyable. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Belinda Dedase",
+   "rating": 4,
+   "when": "a month ago",
+   "text": "I had such a wonderful experience at Pinky’s Saloon yesterday 29 Sep Tuesday.\n\nI felt welcomed and comfortable.\n\nThe entire team is amazing — highly competent, respectful, friendly, and genuinely attentive to their clients.\n\nWhat I especially appreciate is how well they work together as a team. Their relationship as colleagues feels healthy and respectful, and you can really feel the positive atmosphere. They communicate naturally, know when to converse and when to give you your own relaxing time, and everyone is approachable and warm. It honestly feels like being at home with people who care about what they do.\n\nA special appreciation to the following members of the team:\n\n🌸 Jamila – An all-around Filipina beauty professional who does everything with care and skill — from manicure and pedicure to massage. She is attentive, professional, and makes you feel comfortable throughout the service.\n\n🌸 Aya – She is an expert when it comes to the moroccan bath. Her technique and attention to detail made the experience very relaxing and enjoyable.\n\n🌸 Asmita / Kay – Both are wonderful when it comes to manicure and pedicure, including gelish. They are extremely patient, careful, and meticulous with their work. You can tell that they genuinely want their clients to be happy with the results.\n\n🌸Tito – A talented hairdresser who clearly knows his craft, truly masters his work and takes pride in what he does. His expertise and attention to detail are impressive.\n\nOverall, I really admire the teamwork, professionalism, and positive energy among the staff. Everyone smiles, treats clients with respect, and makes you feel comfortable from start to finish.\n\nThe location is also very convenient and easy to find, which is another plus.\n\nThank you, Pinky’s Saloon, for the wonderful service and for having such an amazing team. Keep up the great work!\n\nI’ll definitely be happy to come back. ❤️",
+   "owner_reply": "🥰🥰🥰Thank you so much <br>Ms Blinda 🌹 <br>So sweet of you💝<br>Always Pleasure to serve u 💖 "
+  },
+  {
+   "author": "Gladly Aguason",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I went to the salon today and had a good experience. I was satisfied with their service, especially the Moroccan bath/massage and pedicure. The staff were nice and professional, and the place was clean and relaxing. I really enjoyed and felt refreshed after the treatment. Thank you for the great service. I would love to come back again. Special mention to maya and salima (my morroccan sister) lyn, anne, jen and winnie\n“They are all very skilled and hardworking. They deserve to receive good recognition and high ratings from the company for their excellent service.”\n😊👌👌👌👌👌👌\n#morrccan bath\n#body massage\n#pedicure",
+   "owner_reply": null
+  },
+  {
+   "author": "Fouzia",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a great experience at Pinkyz! Manisha and the staff were absolutely wonderful. Manisha did my waxing very professionally — she was gentle, quick, and made sure I was comfortable throughout. Her attitude was so warm and friendly, which made the whole experience even better. The staff overall were very welcoming and attentive. Highly recommend their services — I’ll definitely be coming back!” 😊✨",
+   "owner_reply": "🥰🥰🥰<br>Thank you so much Ms Fouzia<br>So sweet of you ❤️ <br>Always pleasure to serve u 💖 "
+  },
+  {
+   "author": "Novie Balanay",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I have been a regular customer at Pinky's Salon Al Rigga for the past 3 years, and I always have a wonderful experience. I highly recommend their Moroccan bath with Aya—she is extremely skilled, professional, and always makes me feel relaxed and refreshed.\n\nFor my nails, I usually book with Winnie, who does an amazing job. If she's unavailable, Kay is also excellent. Both are talented, professional, and pay great attention to detail.\n\nThe entire team is friendly, welcoming, and approachable, making every visit enjoyable. I highly recommend Pinky's Salon Al Rigga to anyone looking for quality beauty services and outstanding customer care.",
+   "owner_reply": null
+  },
+  {
+   "author": "Leila Ducasi",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I visit with friends and weI did Moroccan bath with Aya and body massage with jamella and maria they are both amazing. We will visit again for sure.highly recommend. Thank you girl for the amazing service.",
+   "owner_reply": "🥰🥰🥰Thank you so much <br>Ms Leila 🌹 <br>So sweet of you💝<br>Always Pleasure to serve u 💖 "
+  },
+  {
+   "author": "marina morcos",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I’ve been coming to this salon for more than two years, and I can confidently say the staff is amazing. They are always professional, welcoming, and very helpful. A special thank you to Aya, the Moroccan bath specialist, and Asmita, the nail care expert — they always make me feel comfortable and happy with their wonderful service. Their attention to detail, kindness, and positive attitude truly make every visit a great experience. Highly recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Sumera Arz",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I visited Pinky’z Saloon today and had such an amazing experience! Bavley did my haircut and styling, and honestly he was fantastic. He was so talented, friendly, and gave great attention to every detail. I absolutely loved the final look and felt so happy and confident after the service. Truly appreciate the amazing customer care and professionalism.\n\nMy mom also got a salon package and she was so happy with the Moroccan bath and waxing service. She especially loved how painless and smooth the waxing was, and really appreciated the Indian staff lady for being so gentle and kind.\n\nWe both had a wonderful experience and can’t wait to visit again for more treatments 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Joie Michelle Buo",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I did a Moroccan bath today! Thanks to Aya! She’s so wonderful, nice and sweet. She always checks on me if I am okay. She made my first experience here a happy one. Keep up the good work! Thank you for the souvenir! 🥰😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Salwa Adil",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I honestly can’t recommend Tito enough! He is incredibly talented, professional, and truly knows hair inside and out. Whether it’s highlights, treatments, styling, or a simple blow-dry, he is extremely precise, focused, and pays attention to every detail. You can genuinely see the passion and expertise in his work.\n\nThis is definitely not my first experience with Tito, and he never disappoints. His blow-dry is absolutely amazing and lasts for days!\n\nThe salon itself is clean, beautiful, and has such a welcoming atmosphere. The staff are lovely and friendly, and a special mention to the beautiful receptionist — she was incredibly sweet, welcoming, and helpful from the moment I walked in.\n\nOverall, such a lovely experience every time. If you’re looking for someone who is truly skilled and professional with hair, I highly recommend Tito. He’s definitely one of the best! 🤍✨",
+   "owner_reply": "🥰🥰🥰Thank you so much <br>Ms Salwa 🌹 <br>So sweet of you💝<br>Always Pleasure to serve u 💖 "
+  },
+  {
+   "author": "Pinar Pala",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I visited this saloon\nin Al Rigga by chance after seeing the good reviews online, and I’m so glad I did. Marco did an excellent job with my haircut — he was very careful, attentive, and really took his time. He even explained how I should style and comb my hair after washing it. I left extremely satisfied, and I’ll definitely be coming back. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "azza hamd",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Absolutely loved my experience! The salon is beautiful, clean, and welcoming, and the staff are so friendly and professional. I’m very happy with the service and the results. Highly recommended! 💕✨special thanks for Mr. TITO0oO 💕🌸for the nice hair style 😉🌸💕",
+   "owner_reply": "🥰🥰🥰Thank you so much <br>Ms Azza 🌹 <br>So sweet of you💝<br>Always Pleasure to serve u 💖 "
+  },
+  {
+   "author": "Kadek ayu dewi Untari",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "i was came many times to do marrocon bath and another service today i had hydrofacial as well it’s was amazing experience i never had i love to come again and again thanks pinky’s salon 🫶",
+   "owner_reply": "Always welcome 🥰"
+  },
+  {
+   "author": "Anu Sharma 19MA316",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Alyssa and Ayaa\nThe Moroccan bath with Ayyaa and the massage with Alyssa were both wonderful and relaxing. I truly enjoyed the services and would definitely recommend them.",
+   "owner_reply": null
+  },
+  {
+   "author": "Charmae Cabrera",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I am a regular customer of pinky salon Al Rigga for 4 years and I really love the service especially who always do my Moroccan bath service with AYA she is so lovely lady she do very good and happy person, I recommend her always to other friends who come here. She did a great job and very friendly! Also I tried Ann massage the first time she is good and it makes me so relaxed, she always take care of me inside the massage room, good job! Highly recommended for all women who deserve to pamper. Also the receptionist ate , she is very nice and polite. Booking or walk in she is very helpful. Thank you",
+   "owner_reply": "🥰🥰🥰Thank you Ms Charmae So sweet of you. <br>Always pleasure to serve u 💖 <br>See u soon with  friends ❤️ "
+  },
+  {
+   "author": "Remeika",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had an amazing experience at Pinky’s Salon! The Moroccan bath and massage package was absolutely top-notch everything was done with great care and professionalism, and I left feeling completely refreshed and relaxed.\n\nA special thank you to Ms. Aya for giving us the best Moroccan bath in Al Rigga. Her technique, attention to detail, and warm attitude truly made the experience exceptional.\n\nAlso, a big thank you to the ladies who did our massage I'm sorry I forgot to ask your name, but it was one of the most relaxing massages I’ve ever had. Truly wonderful service from start to finish.\n\nHighly recommended for anyone looking to unwind and enjoy a high-quality spa treatment!",
+   "owner_reply": "🥰🥰🥰Thank you Ms Sayuri. So sweet of you. <br>Always pleasure to serve u 💖 <br>See u soon with  friends ❤️ "
+  },
+  {
+   "author": "Cindy Walters",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I personally think that this salon is extremely affordable especially for the services you get! I done the Moroccan bath and keratin mask with Aya, she is the best at what she does! Thank you so much😁😁🤩🤩 also, the gentlemen are quite skilled in blow drying hair. I had an amazing experience. I look forward to coming back!!😁👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Crystal Mae",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "visited this salon and had Moroccan bath for the first time with my friends and it was so good. Ate Aya's skill is top tier and she's fun to be with so I didn't feels shy. 10/10 will comeback again 🫶🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Jenny De leon",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "We have a very good experience with the staff they are very accomodating and friendly from receptionist Ms. Jaybee , Aya from morrocan bath is the best and vimla she did good in massage... we will surely comeback soon with friends❤️🥰 so love it.. its very relaxing😍🥰 Thank you so much❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Mary Anne Velasco",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "always make it a point to visit Pinkyz Saloon every month, and they never disappoint. I’m consistently satisfied with both the service and the friendly, professional staff.\n\nA special mention to Winnie Ivon, Salima for their exceptional work! Their nail service is absolutely top-notch—very detailed, clean, and long-lasting. I also highly recommend their Moroccan bath, which is always relaxing and leaves me feeling refreshed and pampered.\n\nThank you, Pinkyz Saloon, for always providing such a wonderful experience. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Franzhine Chloe Caserva",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "It was so amazing experience last night to have a morrocan bath with the team glam pinky’z salon.Very accomodating and helpful to what youve needed on there service. Excellent and 100% sevice! Surely will come back on you guys. Thank you see you again 😍😍😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Durenajaf Khan",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Hi there\nIts first time here n its really nice services in economical rates\nAlso hve gud promotion's going on everyone must visit\nAlso suitable time for ladies who r working all day bt after work u can visit according to ur time\n\nI recommend take services from these ladies name Winnie-Ayesha-Lovely -",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    360,
+    640
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    844,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    860
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    478,
+    850
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    841,
+    613
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    388
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/pinky-z-salon/",
+ "buy_likelihood": 7,
+ "notes": "1,502 reviews, posts prices on TikTok (AED 39 Moroccan bath package). Open late. Replies 50%. Some 1-star complaints.",
+ "display_name": "Pinky'z Salon"
+}

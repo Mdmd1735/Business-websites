@@ -1,0 +1,1349 @@
+{
+ "slug": "gulmarg-cafe",
+ "name": "Gulmarg Cafe",
+ "place_id": "ChIJ6z1uMdhDXz4R1D5kRvsp1n4",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "Bur Dubai",
+ "address": "palace hotel apartment - 2nd St - Oud Metha - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2356187,
+  "lng": 55.3062689
+ },
+ "phone": "+971 50 364 7884",
+ "rating": 4.6,
+ "userRatingCount": 523,
+ "rating_distribution": {
+  "oneStar": 15,
+  "twoStar": 8,
+  "threeStar": 28,
+  "fourStar": 55,
+  "fiveStar": 417
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Gulmarg%20Cafe&query_place_id=ChIJ6z1uMdhDXz4R1D5kRvsp1n4",
+ "website": "https://www.instagram.com/gulmargcafedxb/",
+ "categories": [
+  "Restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 3 AM"
+  }
+ ],
+ "owner_description": "Where Kashmiri heritage meets modern café culture.\nCoffee • Cuisine • Sheesha • Live Sports\nDubai",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   },
+   {
+    "Delivery": false
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   },
+   {
+    "Great tea selection": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Halal food": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Trendy": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Family-friendly": true
+   },
+   {
+    "Groups": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "iftar",
+  "watching matches",
+  "sheesha",
+  "kebab",
+  "arabic food",
+  "fresh salad",
+  "polite staff",
+  "fattoush",
+  "smooth shisha",
+  "chicken escalope"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.13,
+ "reviews": [
+  {
+   "author": "Екатерина Лизунова",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had a really nice evening at Reamy Dream Dubai. The atmosphere is warm and relaxing, the food was delicious, and the whole experience felt easy and enjoyable. A lovely place for dinner and good conversations😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Маргарита Тимощенко",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "We recently attended Iftar at Reamy Dreams, and it was a truly wonderful experience. The atmosphere was warm, peaceful, and beautifully organized, with great respect for tradition.\n\nThe food was absolutely delicious. Every dish was fresh, flavorful, and perfectly prepared. From the dates and light starters to the hot dishes and drinks, everything tasted amazing. You could really feel the quality and care in every bite.\n\nWhat stood out the most was the service. The waiters were incredibly attentive, polite, and professional. They made sure our table was always taken care of, responded quickly to any request, and maintained a friendly and respectful attitude throughout the evening. Their attention to detail made the experience even more special.\n\nIt’s a perfect place for a family Iftar or gathering with loved ones. Highly recommended — we will definitely come back again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Bhavninder Sanghera",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I went to Reamy Dreams Cafe in Oud Metha expecting a pretty standard dinner, but it surprised me in the best way. It’s one of those places that doesn’t try too hard, it just quietly does things right.\n\nThe vibe is calm, not noisy or overdone, which honestly makes it perfect if you just want to sit, eat well and actually talk without feeling rushed. It has that low key comfort to it that’s getting harder to find in Dubai.\n\nFood wise, I ordered the kebab kishkash, the muhammara, musakhan rolls and a fruit mocktail. The kebab kishkash had real depth to it, rich flavour without feeling heavy. The muhammara stood out as well, smoky and smooth, something I kept going back to. The musakhan rolls were crispy on the outside, soft inside, and just really satisfying overall. Even the fruit mocktail felt fresh, not overly sweet like most places do it.\n\nIt’s not trying to be flashy or viral, it just feels like a solid spot you can bring the boys to and have a proper laid back night. They had the PSG match live on in the background while I was there and it honestly matched the energy perfectly, just an easy, unbothered kind of evening. I love to watch while chilling with friends over dinner.\n\nOverall, it feels like one of those underrated gems you don’t really hear people talk about enough, but once you go, you get it.\n\nWatch the POV videos below for my experience\n@bhav.xo for more",
+   "owner_reply": null
+  },
+  {
+   "author": "floramie caramales",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "it was my first time having dinner here at reamy dreams and the moment we entered the cafe staffs were accomodating and friendly. place is nice and vibe. the food we had was good, the salad was good together with chicken and rolls plus coffee, it was perfect combination. 10/10",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Bukhari",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The place has an amazing vibe—perfect for chilling and unwinding. The food was absolutely delicious, and the mocktails were on point (the mojito was especially refreshing 👌). The shisha was smooth and really well prepared, which just made the whole experience even better.",
+   "owner_reply": null
+  },
+  {
+   "author": "Indushan Perera",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Nice cozy place to hangaround...wow Nicely done. Good Food, good Shisha and great service. Staffs very attentive",
+   "owner_reply": "Waliv!<br><br>Thank you for your lovely feedback! We’re delighted that you enjoyed our cozy ambiance, delicious food, great shisha, and attentive service. Your appreciation means a lot to our team, and we look forward to welcoming you back to Gulmarg Cafe for another memorable experience.<br><br>Warm regards, <br>Team Gulmarg Café"
+  },
+  {
+   "author": "Damarisz Nagy",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Had a wonderful dinner at Reamy Dreams Cafe. The service was excellent and the presentation of the dishes was beautiful. You can really see that they pay attention to the small details. The atmosphere was lovely and we had a great experience. I definitely recommend visiting! ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Joseph Pattara",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Enjoyed the food and vibe. Starters were well prepared, especially the wings. Chicken escalope came out perfectly crispy. Drinks complemented the meal nicely. Service was friendly too.",
+   "owner_reply": null
+  },
+  {
+   "author": "Reem Blg",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Had a beautiful Iftar experience at Reamy Dream Cafe 🌙✨\nThe atmosphere was warm, cozy, and perfectly set for Ramadan — calm vibes, elegant décor, and a welcoming ambiance that makes you feel comfortable from the moment you arrive. It’s the perfect place to break your fast with family or friends.\nThe Iftar selection was delicious and well-prepared, with a great variety of dishes. Everything was fresh, flavorful, and beautifully presented. From the starters to the main course and desserts, every bite was satisfying. The drinks were refreshing and complemented the meal perfectly.",
+   "owner_reply": null
+  },
+  {
+   "author": "Stephanie Dookley",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "The ReamyDream Café provided an exceptional experience from start to finish. The service was outstanding, and the staff were incredibly courteous, attentive, and welcoming. The food was absolutely finger-licking good and made my iftar truly special. I also really enjoyed the cocktails, and one particular evening stood out as memorable thanks to the great ambiance and relaxing atmosphere. Thank you for making it such a wonderful experience—I look forward to visiting again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Azamat Toktanaly",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "I had a really great experience at Reamy Dreams Restaurant. The atmosphere is both stylish and comfortable, making it a perfect place to unwind and enjoy your time.\n\nThe food was impressive — rich in flavor, well-prepared, and beautifully served. We tried the chicken liver, beef kebab, and Moroccan tea, and everything tasted amazing. You can tell they put effort into both quality and presentation.\n\nThe service was also excellent, with friendly and attentive staff who made sure everything went smoothly.\n\nOverall, it’s a fantastic spot for a relaxed meal or even a special occasion. I’ll definitely be coming back again.",
+   "owner_reply": null
+  },
+  {
+   "author": "ann mary amelu (Amelu)",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great dining experience! Tried the signature salad and chicken wings for starters—both were fresh and full of flavor. The chicken escalope for the main course was crispy and tasty . Drinks were also really good. Nice ambiance and friendly service. Highly recommending.",
+   "owner_reply": null
+  },
+  {
+   "author": "Bidesi Bong",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "⭐⭐⭐⭐⭐ 5/5 – Fantastic Experience at Gulmarg Cafe!\n\nToday I visited the newly opened Gulmarg Cafe in Oud Metha, Dubai, and I must say it was an amazing experience!\n\nThe ambience is beautiful, the interiors are stylish, and the overall atmosphere is simply fantastic. I tried their shisha, cocktails, and food, and everything was absolutely superb! The shisha was excellent, the cocktails were refreshing, and the food was delicious.\n\nLocated in the heart of Oud Metha, this cafe is a perfect place to relax, hang out with friends, and enjoy a wonderful evening.\n\nA fantastic new addition to Dubai’s cafe scene! Great ambience, excellent food, amazing shisha, and a lovely location.\n\nHighly recommended! Definitely worth visiting, and I will surely be back!\n\n⭐⭐⭐⭐⭐ Five stars, well deserved!",
+   "owner_reply": "Waliv!<br><br>Thank you for your wonderful review! We’re delighted you enjoyed our ambience, food, cocktails, and shisha. Your support means a lot to us, and we look forward to welcoming you back to Gulmarg Café for another memorable experience! <br><br>Warm regards,<br>Team Gulmarg Café"
+  },
+  {
+   "author": "Lola Stankovic",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Excellent place to enjoy coffee and shisha in Dubai. The atmosphere is perfect, especially if you want to relax and watch football matches on a big screen. The food is great — delicious kebabs, fresh salads, fattoush, and a nice variety of chicken dishes. Everything tasted very good and well prepared.\n\nThe staff is very kind, attentive, and welcoming, which makes the whole experience even better. Definitely a place I would come back to and recommend to anyone looking for good food, good vibes, and a cozy setting.",
+   "owner_reply": null
+  },
+  {
+   "author": "Joy Ann Gueco",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Gulmarg Cafe is a wonderful spot with a cozy ambiance, delicious food, and great coffee. The shisha was smooth, fresh, and definitely one of the best I’ve tried! The staff were friendly and welcoming, especially Clarissa, who provided excellent service and made the whole experience even better. The prices are reasonable, too, making it a great place to relax and enjoy good food and drinks. Highly recommended! Definitely worth visiting! ❤️",
+   "owner_reply": "Waliv!<br><br>Thank you for your wonderful review! We’re delighted you enjoyed our ambience, food, coffee, and shisha. Clarissa will be thrilled to know her hospitality made your visit extra special. We look forward to welcoming you back!<br><br>Warm regards,<br>Team Gulmarg Café"
+  },
+  {
+   "author": "Sogol Skh",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Great healthy food with fresh ingredients and clean meals. The food was served surprisingly fast, and the staff were very friendly and attentive. Really good service and a nice experience overall. Definitely recommended if you’re looking for healthy and tasty food.",
+   "owner_reply": null
+  },
+  {
+   "author": "Роман Бобоедов",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "A solid restaurant. Everything was great: a calm interior, clean, comfy sofas, and a relaxed atmosphere perfect for conversation. The food is top-notch. We ordered fajitas (generous portion, nice presentation, rich flavor), hummus (authentic, with notes of lemon and sesame), and a Caesar salad (classic, chicken not dry, plenty of dressing). I also want to commend the service: the waitress was very pleasant, polite, knew the menu well, and even brought extra napkins without being asked. Recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Мира Белиссима",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "My one of the best places to visit for a delicious shisha. Very delicious food and amazing vibes. Love the ambiance and friendly stuff. Parking is paid on the street.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lukács Mátyás",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Our visit to Reamy Dreams in Dubai for iftar was truly a memorable experience. From the moment we arrived, the atmosphere felt warm and welcoming, perfectly capturing the spirit of Ramadan evenings.\nThe iftar selection was wonderfully varied, offering a delightful range of authentic Arabic dishes. Each plate was fresh, flavorful, and beautifully prepared. One highlight was the lentil soup. It was rich, comforting, and absolutely delicious, easily one of the best we’ve had. To accompany the meal, we enjoyed a refreshing glass of Vimto along with a fantastic strawberry juice that was both vibrant and perfectly sweet.\nTo finish the evening, we treated ourselves to baklava, which was the perfect ending to an already excellent meal. It was crisp, fragrant, and indulgently satisfying.\nOverall, the combination of great food, refreshing drinks, and a welcoming atmosphere made our iftar at Reamy Dreams a truly enjoyable experience. It’s definitely a place we would happily return to and warmly recommend to anyone looking to enjoy a delicious and authentic iftar in Dubai.",
+   "owner_reply": null
+  },
+  {
+   "author": "Parastoo Ramezani",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Had a lovely experience at Reamy Dreams Restaurant. The atmosphere is cozy and relaxing, and the food was fresh and delicious. A special thank you to our waitresses Clarisa and Camil for their warm and attentive service. They were very friendly and made sure everything was perfect during our visit. Great service and a beautiful place to enjoy a meal. Highly recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Andres Felipe Alzate Lopez",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "“The food was absolutely incredible — every dish packed flavor and came out fresh and beautifully presented. The service was exceptional; the staff treated us with real attention and professionalism, always making sure we had everything we needed. And the hookah? Truly top-tier. Smooth, clean, and perfectly prepared. Overall, an amazing experience from start to finish. I’ll definitely be coming back and recommending this place to everyone.”",
+   "owner_reply": null
+  },
+  {
+   "author": "Nick Bel",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "We had Iftar here last night and it was such a lovely experience. The food felt fresh and homemade, and the atmosphere was warm and welcoming. A great spot on Oud Mehta road for a peaceful meal. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Umair Mirza",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "A truly delightful experience at Reamy Dreams Cafe. The ambiance is warm and inviting, and the food is beautifully presented and full of flavor  A special thank you to Camilla who provided outstanding service attentive friendly and very professional. She really made the experience memorable Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Анита Зубова",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Join us for a serene and heartwarming Iftar experience at Reamy Dreams, where tradition meets elegance. Enjoy a carefully curated menu of flavorful dishes, refreshing beverages, and delightful desserts in a welcoming atmosphere. Whether you're gathering with family, friends, or colleagues, this special evening promises a memorable celebration of togetherness and gratitude. Camille🥇🏆 and Clarissa ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥🏆 The waitresses are lovely, beautiful, polite, courteous, and attentive, and are very good-looking, spiritually good quality, hardworking, polite, neat, and clean. The girls are very pretty, and they really are the face of the restaurant, wanting to come back more often with their friends. Thank you.",
+   "owner_reply": null
+  },
+  {
+   "author": "Omer Aamir Shah",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Place is a vibe. Food was a 10/10. The sheesha, drinks, music, staff all very hospitable. The mango salad was excellent. Will visit again 🤩",
+   "owner_reply": null
+  },
+  {
+   "author": "Ajith Oommen",
+   "rating": 4,
+   "when": "Edited a week ago",
+   "text": "I’ve been a regular customer here, and the recent renovation has made the ambience even better. Hussain makes excellent shisha and has welcomed me with a warm smile from day one. Clarisse also provides wonderful service and always makes the visit enjoyable. Highly recommended!",
+   "owner_reply": "Waliv!<br><br>Thank you for being a valued regular guest! We’re delighted you love our refreshed ambience and Hussain’s excellent shisha, along with Clarisse’s warm hospitality. Your continued support means a lot to us!<br><br>Warm regards,<br>Team Gulmarg Café"
+  },
+  {
+   "author": "Zhee Frazier",
+   "rating": 5,
+   "when": "Edited 7 months ago",
+   "text": "Reamy Dreams is a great place for iftar during Ramadan. They have variety of iftar options. Staff are very accommodating. Special mention to Camille and Clarissa. The Shisha is affordable as well. Overall, I will come back and visit again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Halmbosha",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Reamy Dreams Cafe offers a delightful dining experience with a warm and inviting atmosphere.\n\nThe ambiance is beautifully curated — cozy, aesthetic, and perfect for catching up or simply enjoying a quiet coffee moment. The drinks were crafted well, and the food was fresh and flavorful. Everything looked as good as it tasted.\n\nA special thank you to Camille for being so accommodating and attentive throughout our visit. She made sure we were comfortable and taken care of, which truly elevated the experience.\n\nHighly recommended, and we will definitely be coming back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sherbano Zaidi",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Amazing vibes to enjoy shisha and watch matches. The environment is so relaxing. I ordered the mixed grill, Rocco salad, and liver  all were perfectly cooked. Camille and Clarissa  were  very kind and polite, which made my experience even more enjoyable. Most recommended café.",
+   "owner_reply": null
+  },
+  {
+   "author": "Maria Khan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Amazing food and vibe! I had chicken liver and quinoa salad which was fresh and delicious! Nice place to chill",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1023,
+    1537
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1535,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1269,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    512,
+    385
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    512,
+    385
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    512,
+    385
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    512,
+    385
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    512,
+    287
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/gulmargcafedxb/",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "gulmargcafedxb"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {
+  "instagram": "gulmargcafedxb"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/gulmarg-cafe/",
+ "buy_likelihood": 7,
+ "notes": "Listing appears rebranded to \"Reamy Dreams\"; confirm name before building."
+}

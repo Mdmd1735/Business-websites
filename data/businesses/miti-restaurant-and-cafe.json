@@ -1,0 +1,2416 @@
+{
+ "slug": "miti-restaurant-and-cafe",
+ "name": "Miti Restaurant & Cafe",
+ "place_id": "ChIJE3-giHRDXz4RiAhBEsM7OVc",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Al Karama, Dubai",
+ "address": "Al Balorah - Shop no - 11th St - near Park Regis - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2483064,
+  "lng": 55.3008442
+ },
+ "phone": "+971 50 259 9777",
+ "rating": 4.5,
+ "userRatingCount": 1483,
+ "rating_distribution": {
+  "oneStar": 113,
+  "twoStar": 24,
+  "threeStar": 46,
+  "fourStar": 190,
+  "fiveStar": 1110
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Miti%20Restaurant%20%26%20Cafe&query_place_id=ChIJE3-giHRDXz4RiAhBEsM7OVc",
+ "website": "",
+ "categories": [
+  "Indian restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "12 to 6 AM, 12 PM to 12 AM"
+  }
+ ],
+ "owner_description": "We bring to you the aromatic flavours & culinary delights of authentic India in the heart of Dubai.",
+ "amenities": {
+  "Service options": [
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   },
+   {
+    "Great dessert": true
+   },
+   {
+    "Great tea selection": true
+   },
+   {
+    "Live music": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible restroom": true
+   }
+  ],
+  "Offerings": [
+   {
+    "All you can eat": true
+   },
+   {
+    "Coffee": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegan options": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Counter service": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Cozy": true
+   },
+   {
+    "Trendy": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Family-friendly": true
+   },
+   {
+    "Groups": true
+   },
+   {
+    "Tourists": true
+   }
+  ],
+  "Planning": [
+   {
+    "Dinner reservations recommended": true
+   },
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   },
+   {
+    "High chairs": true
+   },
+   {
+    "Kids' menu": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "shisha",
+  "sheesha",
+  "live music",
+  "pizza paratha",
+  "jini dosa",
+  "mocktails",
+  "pani puri",
+  "shesha",
+  "chaat",
+  "chicken biryani"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 7
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 4
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 8
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 6
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 6
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 6
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 8
+   }
+  ]
+ },
+ "owner_reply_rate": 0.27,
+ "reviews": [
+  {
+   "author": "Farha Azhar",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Tried Mitti Restaurant and cafe new menu and it was an incredible experience✨ Every dish is full of flavor and beautifully presented. Started with the fresh Avocado Bhel and Broccoli Bhanola, then moved on to the smoky Chicken Tikka Smoked Pot and creamy Methi Malai Seekh 🍗🌿. The Almond & Spinach Ricotta Pizza was cheesy, nutty and absolutely delicious 🍕. Finished the night with the indulgent Malai Kulfi 🍨.\nThe ambience is perfect with live music, premium sheesha and amazing vibes truly a top spot for a Dubai night out. Highly recommend trying the new menu  every dish is a delight and worth it",
+   "owner_reply": null
+  },
+  {
+   "author": "Bells Noble",
+   "rating": 3,
+   "when": "3 months ago",
+   "text": "It’s a nice place to chill for a while. Separate areas for smokers and non-smokers.\nLive performances are cool, but the artists aren’t interactive with everyone equally; they seem to stick to a bunch of friends only. You’d be disappointed if you’re used to going to Firangi, for example.\nThe service is pretty ok, with no special dedication.\nThe food and drinks are pretty ok as well. Opt for the costly dishes to get a nice presentation for your insta.\nI wouldn’t recommend staying back for longer than an hour, unless if you’ve got the large couches on the right. The chairs and tables are too small.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ajeet Kumar",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had an amazing weekend experience here! The food was absolutely delicious, and the ambience was beautiful and relaxing. The highlight of the evening was definitely the live singing — it made the whole experience even more enjoyable and memorable.",
+   "owner_reply": null
+  },
+  {
+   "author": "Travel , Food lover & reviewer",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "Miti is a restaurant with shisha lounge style seating at the back with jungle ambience, on the main road in Karama towards Burjuman . After entering you take the stairs to 1st floor where the indoor seating area has a nice Bar style counter. When I went on a Friday evening, this place was taken up by large groups and I was directed to the backside where, probably an open area was converted into a shisha and lounge style place with sofas and comfortable seating arrangements, and also many large TV screens showing live IPL matches. On the right side the floor is slightly raised- so be careful in the low light ambience. The lumination of the lights can be altered as per requirement. They are covered with greeneries to give a relaxed vibe. I found the crowd starting to gather after 9:30 pm & reserved sighs cropping up on the tables. I specially liked the stylish lighted water in the glass containers of the shisha throbbing with the strong beats of the music played in the restaurant. Sometimes the music and tv , both played in tandem creating a very strong confusing sound mismatch for me. I understand that there is a live entertainment event at some times - but I forgot to ask the timings.\nI was alone and the service was okayish. At the end one staff did ask me if the food was alright with a smile.\nI ordered -\n•Garlic butter prawns- 63 aed- 5/5. Lovely with neither a string smell of garlic nor too spicy. Nice buttery soft & large prawns. Awesome modern cutleries.\n•Bhindi masala - 43 aed. Excellent. Good for one person. Again not very spicy. 4.5/5.\n•Butter naan- 10 aed.\n•Tawa roti- 7 aed.\n•Mixed sweet and salty lime soda. 15 aed. Nicely presented.\n\nMy food experience was overall excellent.\nThey have many items which could be explored in future. Some are good accompaniments for the Shisha. Some are quite unique in presentation and concept.\n\nRecommended for a rendezvous with friends ideally and not alone. And if you want to focus only on food then preferably seat in the inner seating area.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shikha Anand",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had a wonderful time at Miti Restaurant & Cafe in Dubai. The food was delicious, the ambience was vibrant and beautifully designed, and the overall vibe made the evening feel special. The live music added great energy to the atmosphere, making it a perfect place to relax and enjoy with friends or family. The service was attentive, and the entire experience felt warm and welcoming. Definitely a place I’d love to visit again and highly recommend for anyone looking for good food, great music, and memorable vibes in Dubai.",
+   "owner_reply": null
+  },
+  {
+   "author": "Hayat Khan",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Ordered from Miti for a birthday party and they nailed it! 🎉 Food was delicious, on time, and a total hit with the guests. Big thanks to Ritvik and Shahriyar for making everything so smooth and easy. Best in Dubai, all my orders are going to Miti from now on! 🙌",
+   "owner_reply": null
+  },
+  {
+   "author": "Prakash Mishra",
+   "rating": 3,
+   "when": "8 months ago",
+   "text": "We visited the restaurant twice during our weekend staycation. On the positive side, the food was excellent on both occasions, the shishas were great, and the staff was genuinely warm and attentive. Service was smooth despite the crowd, which we really appreciated.\nHowever, the experience during the live music nights wasn’t as enjoyable. The space felt extremely cramped, with tables placed too close together, leaving barely any room to move once seated. With many guests smoking, it also became quite uncomfortable as the smoke lingered heavily in the air. It seems the restaurant has added more tables than the space can comfortably accommodate.\nOverall, it’s a great spot for food and shisha, but on weekends it’s best to reserve a table in advance to avoid long wait times and to be prepared for a packed atmosphere during live music events.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vinay Vyas",
+   "rating": 4,
+   "when": "6 months ago",
+   "text": "Mitti is a classy restaurant. We did not take sheesha, but sat outside. It was evening still not too busy. Relaxed atmosphere. Rekha served us best to our expectation. However, plates portionwise we found it less.",
+   "owner_reply": null
+  },
+  {
+   "author": "Thushini Wijesinghe",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Food was amazing in catering and staff also very  nice ,all take care by dev and Briano and sheriyar .\nLike the way they treated was very nice kind and friendly  thanks to miti as well As the service",
+   "owner_reply": null
+  },
+  {
+   "author": "Dubai Vlogger Raya",
+   "rating": 4,
+   "when": "7 months ago",
+   "text": "Flavor-packed, Insta-worthy vibes! 😍 From spicy starters to indulgent mains, every bite hits. Friendly staff, lively ambience — Miti is a must-visit in Karama!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ankita Shah",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Had such a lovely experience at Miti Restaurant & Cafe! ❤️ The ambience is beautiful, the food is delicious, and the overall vibe is perfect for a relaxed evening with friends and family. The live music adds an extra touch to the experience, making it even more enjoyable. 🎶\n\nLoved the variety of food and refreshing drinks, and the service was warm and attentive. Definitely a place to visit when you’re craving good Indian food with great vibes! 😍\n\n⭐️ Food: 4.5/5\n⭐️ Ambience: 5/5\n⭐️ Service: 5/5\n⭐️ Overall: 5/5",
+   "owner_reply": null
+  },
+  {
+   "author": "Sachin Taware",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Had a great time at Mitti recently! We went primarily to enjoy the hookah, and it did not disappoint—the quality was excellent and the setup was perfect. The overall vibe of the place is really relaxed, making it a great spot to just sit back and unwind with friends. The staff were attentive and made sure we were well looked after throughout the visit. If you’re looking for a chill atmosphere to catch up, I’d definitely recommend giving this place a try. I’ll definitely be heading back soon.\nSpecially thanks for the vikas mandal\nAnd his hole team is too supportive\nAnd given excellent experience",
+   "owner_reply": null
+  },
+  {
+   "author": "Martin Joseph",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Miti Karama never disappoints! ✨\n🔥 Starters: Juicy Chicken Momos, smoky Chicken Angara & perfectly spiced Fish Tikka.\n🍛 Mains: Creamy Chicken Tikka Masala with fresh Butter & Garlic Naan – a perfect combo.\n👌 Great flavors, fast service & cozy vibe.",
+   "owner_reply": "Thank you for your fantastic review, Martin! We're thrilled to hear that you enjoyed our Chicken Momos, Chicken Angara, and Fish Tikka, as well as the Chicken Tikka Masala with Garlic Naan. It's wonderful to know that you appreciate our flavors and service. We look forward to welcoming you back for more delicious meals!<br><br>Mgmt Miti Resturant & Cafe<br>Best Restaurant and Cafe in Karama"
+  },
+  {
+   "author": "Dubaivibes4u",
+   "rating": 1,
+   "when": "a month ago",
+   "text": "⭐ Extremely Disappointing Experience – Poor Service and Unprofessional Staff Behaviour\n\nI used to visit Miti Cafe & Restaurant regularly, but after today’s experience, I am genuinely disappointed and reconsidering whether I would return.\n\nI ordered only one portion of French fries. After finishing, I asked the staff member Devender to clear the table. He took away the leftovers and then came back with another plate of French fries and a bill showing two portions.\n\nI immediately told him that I had ordered only one portion and that I did not want the additional fries. Instead of simply checking the order or correcting the mistake, he started arguing with me in front of my guest and insisted that I had ordered the second portion and that I had to take it.\n\nI clearly explained several times that I had neither ordered nor wanted the extra fries, but he continued arguing. I eventually had to call the manager, after which the additional portion was removed from the bill.\n\nThe billing issue was corrected, but the way the staff member handled the situation was completely unacceptable. Customers should not be made to feel uncomfortable, embarrassed, or pressured in front of their guests because of a mistake in an order.\n\nMistakes happen in every restaurant. What matters is how the staff handles them. In this case, there was no professional communication or basic courtesy.\n\nAs a regular customer, this was particularly disappointing. I expected much better service and respect from a place I had visited so many times. I hope the management takes this feedback seriously and ensures that customers are treated with courtesy and professionalism in the future.",
+   "owner_reply": null
+  },
+  {
+   "author": "Meena Shivnani",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "We  found the ultimate hangout in Dubai with unbeatable vibes, LIVE music,  insane food and crazy energy🤌✨\n\nWhat we loved:-\n\n- Refreshing and unique mocktails🍹🧉🍷\n- Fox nut & Almond Bhel😋\n- Methi malai seekh🔥\n- Nimona Paneer with Multigrain Roti\n- Primavera Pizza🍕\n- Sizzling Brownie with vanila ice cream🫕\n\nMust-Visit this restaurant for an amazing dining experience with unique drinks, good food and LIVE music..!!!\n\nMiti restaurant is a total hidden gem in Dubai ....!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Deepa Nair",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently had the pleasure of dining at MITI Restaurant, and the experience was nothing short of exceptional. From the moment we arrived, the ambiance was warm and inviting, striking a perfect balance between modern elegance and comfort.\nThe menu offered a diverse selection of dishes, each thoughtfully crafted and full of flavor. Every item we tried—from appetizers to dessert—was prepared with evident care and culinary expertise. The ingredients were fresh, and the presentation was impeccable.\nWhat truly set the experience apart, however, was the professionalism and attention to detail demonstrated by the restaurant’s manager, Mr. Suraj Babu. His leadership was evident in every aspect of the operation. He maintained a calm, composed presence while ensuring that every guest received personalized attention. His deep knowledge of the menu, ability to handle special requests, and genuine hospitality made our visit memorable.\nSuraj Babu embodies what it means to be a true hospitality professional—courteous, attentive, and always striving for excellence. It’s clear that he leads by example, and his team reflects his high standards of service.\nI highly recommend MITI Restaurant to anyone seeking a top-tier dining experience. And if you're fortunate enough to meet Mr. Suraj Babu during your visit, you’ll quickly understand why this place is so highly regarded.",
+   "owner_reply": "We are thrilled to hear about your exceptional experience at MITI Restaurant, Deepa! Thank you for complimenting our ambiance, diverse menu, and the care that goes into each dish. It’s wonderful to know that Mr. Suraj Babu’s leadership had such a positive impact on your visit. We strive to provide top-tier service, and your recommendation means a lot to us. We look forward to welcoming you back soon for another memorable dining experience!<br><br>Mgmt Miti Resturant & Cafe<br>Best Restaurant and Cafe in Karama"
+  },
+  {
+   "author": "The Traveller Instagram: ZaSha_DXB",
+   "rating": 4,
+   "when": "10 months ago",
+   "text": "The kawali night is very popular the seating is cramped and also a hazardous step in the corner that everyone trips over on and hurts themselves. The entertainment is lively and shisha is cheap. The food is quite decent as well not to spicy which is good",
+   "owner_reply": "Thank you for your feedback about our kawali night. We're glad to hear that you enjoyed the lively entertainment and found the food to your liking. We appreciate your comments regarding the seating and safety concerns; we will review these issues to improve the experience for our guests. We hope to welcome you back soon for another enjoyable evening.<br><br>Mgmt Miti Resturant & Cafe<br>Best Restaurant and Cafe in Karama"
+  },
+  {
+   "author": "Nishad Roshen",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "It was a excellent experience with miti restaurant and cafe the food was really good the staff muhammad shahryar braino and dev the service was also excellent we thank dem a lot",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohit Chhabria",
+   "rating": 3,
+   "when": "a week ago",
+   "text": "The food was good, and the service was great. However, the music was extremely loud, making it difficult to enjoy the dining experience, and the AC was leaking water, which was quite inconvenient. Overall, the food and service were good, but the noise level and maintenance issues need improvement.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mary Cynthia",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "Visited Miti recently, and while the ambiance was nice, the food was quite disappointing. We tried their pani puri and it turned out to be the worst we've had. The Bombay-style chicken chowmein tasted like regular noodles drenched in ketchup, which was a letdown. Their lacha papad was average at best.\n\nThe biggest disappointment was the biryani—we specifically asked for it to be spicy, but instead of a well-balanced heat, they simply chopped excessive green chilies and scattered them on top. The chicken Hakka noodles had a smoky flavor, which the kids didn’t enjoy.\n\nHowever, not everything was bad. The crispy spinach chicken was enjoyable, and the chicken tikka masala, along with the garlic naan, was quite good.\n\nOverall, Miti didn’t live up to expectations. It’s a one-time try for us, and we wouldn’t go back.",
+   "owner_reply": "We appreciate your feedback, Mary. We're glad to hear you enjoyed the crispy spinach chicken and chicken tikka masala, but we apologize for the disappointing experience with the other dishes. Your comments on the food quality and flavors will be reviewed with our team to make necessary improvements. Thank you for sharing your thoughts with us, and we hope to do better in the future.<br><br>Mgmt Miti Resturant & Cafe<br>Best Restaurant and Cafe in Karama"
+  },
+  {
+   "author": "Mohd Kamran",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I stepped into Miti Cafe, I knew I was in for something special. The ambience is warm, welcoming, and beautifully designed — the perfect balance of comfort and style. Soft lighting, well-chosen décor, and a calm atmosphere make it an ideal spot for both casual meetups and relaxed solo visits.\n\nThe staff here truly set the standard for hospitality. Every team member I encountered was attentive, friendly, and genuinely eager to ensure guests have a great experience. The supervisors lead by example — always visible, approachable, and making sure service flows seamlessly.\n\nService is quick without ever feeling rushed, and every detail — from the presentation of food and drinks to the cleanliness of the space — is handled with care. It’s clear that the whole team takes pride in what they do, and it really shows in the overall guest experience.\n\nMiti Cafe is not just a place to eat or drink, it’s a place where you feel valued as a customer. I left with a smile, and I’ll definitely be back.\n\nSpecial thanks to Mr. Suraj babu  and his team (Ms. Priti, Yogesh, Dev, Ritik, vikas and Sheesha team) 💐",
+   "owner_reply": "Thank you for your wonderful review, Mohd Kamran! We're thrilled to hear that you enjoyed the ambience and our team's hospitality during your visit to Miti Cafe. It's our passion to create a space where guests feel valued and cared for, and your kind words affirm that we are on the right track. We'll be sure to pass along your special thanks to Mr. Suraj and the rest of the team for their excellent service. We look forward to welcoming you back soon!<br><br>Mgmt Miti Resturant & Cafe<br>Best Restaurant and Cafe in Karama"
+  },
+  {
+   "author": "Raqueal Lobo",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "From the moment we walked in, the atmosphere was warm and welcoming. The food was outstanding fresh, flavorful, and beautifully presented.\n\nA big thank you to Suraj Babu, the manager, who was incredibly professional and made sure everything ran smoothly. He personally checked in on us and truly made us feel valued as guests.\n\nAlso want to give a shoutout to our server Dev, he was polite, attentive, and knew the menu inside out. His recommendations were spot-on and his service made our dinner even more enjoyable.\n\nIf you're looking for a place with great food and genuinely excellent service, MITI is a must-visit. Highly recommend!",
+   "owner_reply": "Thank you for your wonderful review! We're thrilled to hear that you enjoyed the warm atmosphere and found the food to be fresh and flavorful. It's great to know that Suraj and Dev provided you with exceptional service and made you feel valued during your visit. We appreciate your recommendation and look forward to welcoming you back to MITI soon!<br><br>Mgmt Miti Resturant & Cafe<br>Best Restaurant and Cafe in Karama"
+  },
+  {
+   "author": "Mizba Zaveri",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I was their to try their new menu launched and honestly all taste so good\nI definitely recommend pizza",
+   "owner_reply": null
+  },
+  {
+   "author": "Saleha Jabeen",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "Had a worst sort of an experience while visiting your restaurant where I brought few friends with me  considering that the quality of service and food will be good but was utterly shocked with the bad attitude show by sheesha staff as if that were doing any favors while delivering the Sheesha. Whenever we call for charcoal change they pretended as if they were giving us any favor.\nMy advice is stop going there and don’t waste your valuable time instead go to other cafe and spend your valuable money there.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jatin n",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Fantastic spot! Great food, great drinks, amazing shisha and even better service. The vibe was fun and energetic, and everything we ordered was absolutely delicious. A perfect place to unwind, celebrate, or just enjoy a great night out. Can’t wait to return..!!!",
+   "owner_reply": "Thank you so much for your fantastic review! We're thrilled to hear you enjoyed the food, drinks, and shisha, as well as the energetic vibe. It’s wonderful to know that our service made your experience even better. We can't wait to welcome you back for another amazing night!<br><br>Mgmt Miti Resturant & Cafe<br>Best Restaurant and Cafe in Karama"
+  },
+  {
+   "author": "Jerald Prince",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "​\"Had a great time at Miti Cafe! The vibe is awesome (especially if you catch one of their live music or Qawali nights), and the Indo-Chinese food really hits the spot. What really made the experience stand out was the service from Vikash. He was super attentive, gave great menu recommendations, and made sure our table had everything we needed. Highly recommend dropping by, and definitely ask for Vikash!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Dr Nida Khan",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "I liked the ambience and sheesha was good. They has live music. Great singer but the only problem was that it was too loud for the place is a bit congested.  Rest was good. Food was amazing.  Drinks were overrated.  Too costly for just a bubble on pomegranate juice",
+   "owner_reply": null
+  },
+  {
+   "author": "Sukhada Kulkarni",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "Food here is simply outstanding, right from drinks and starters to main course and desserts everything is delicious.\nIt is the best place I have ever visited, with such good vibes and nice ambiance.\nPerfect go-to place for all your family and friends gatherings!",
+   "owner_reply": "Hi, <br>Thank you for your positive review. We are very pleased to hear that you have enjoyed your visit at Miti Dubai. We hope you had a great time. We look forward to seeing you again. <br>To stay updated on our offers & activities follow us on our social media handles: <br>Facebook : https://www.facebook.com/mitidubai<br>Instagram : https://instagram.com/mitidubai?igshid=YmMyMTA2M2Y=<br><br>Best Regards, <br>Team Miti Dubai<br>"
+  },
+  {
+   "author": "RAHEEL AHMED",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Good service by sally bai. Foods are very tasty and well prepared. Shisha service is excellent. We will visit again a day",
+   "owner_reply": null
+  },
+  {
+   "author": "SOMIT LADDHA",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Miti Restaurants: A Culinary Oasis in Karama (5/5 Stars)\n\nMiti Restaurants shines brightly in Karama, offering a delightful experience for vegetarians and non-vegetarians alike. Their menu boasts a vibrant tapestry of flavors, from the lively spirit of Mumbai street food to the comforting embrace of traditional dishes like sarso ka saag with makki ki roti.\n\nHere's why Miti truly impressed me:\n\nA Feast for the Senses: The diverse menu caters to every taste bud. My personal favorites were the Jini dosa and Pani Puri – the flavors were absolutely phenomenal!\n\nMocktail Marvels: Ditch the ordinary drinks! Miti boasts an imaginative selection of mocktails, including the creamy candy floss and the playful bubble blaster, perfect for a refreshing and unique experience.\n\nHospitality at its Finest: The staff's warmth and attentiveness are truly commendable. They provided excellent recommendations and ensured a thoroughly enjoyable dining experience. A special shoutout to Manager Mr. Suraj for his exceptional service!\n\nCharming Ambiance: The restaurant exudes a beautiful and inviting atmosphere, ideal for a relaxed lunch, a fun gathering with friends, or even a special occasion.\n\nShisha Paradise: Shisha enthusiasts will delight in Miti's extensive selection of flavors, catering to every preference.\nWeekend Entertainment: Live bands and music on weekends add a vibrant energy to the atmosphere.\n\nConvenience Assured: Finding parking is a breeze! Spaces are readily available just outside or behind the restaurant.\n\nMiti Restaurants is a fantastic choice for a complete and memorable dining experience. From the professional staff to the delectable food, the creative mocktails, and the lively ambiance, Miti earns a resounding 5/5 star recommendation!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1024,
+    768
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1024,
+    682
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    500
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1024,
+    682
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    745,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    512,
+    428
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    512,
+    397
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    512,
+    500
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    405,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    335,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    512,
+    419
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    454,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    512,
+    390
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-131.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-132.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-133.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-134.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-135.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-136.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-137.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-138.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-139.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-140.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-141.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-142.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-143.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-144.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-145.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-146.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-147.jpg",
+   "source": "review",
+   "size": [
+    334,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-148.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-149.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-150.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-151.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-152.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-153.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-154.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-155.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/miti-restaurant-and-cafe/",
+ "buy_likelihood": 6,
+ "notes": "1,483 reviews, live music + shisha. Replies 27%.",
+ "display_name": "Miti Restaurant & Café"
+}

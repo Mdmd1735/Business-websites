@@ -1,0 +1,1049 @@
+{
+ "slug": "ali-tailor",
+ "name": "Ali tailor",
+ "place_id": "ChIJG__bSOldXz4RAqZhDXPe1Zw",
+ "category": "tailor",
+ "category_weight": 10,
+ "area": "Deira, Dubai",
+ "address": "786H+FJH - Port Saeed - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2611875,
+  "lng": 55.3290625
+ },
+ "phone": "+971 58 277 4764",
+ "rating": 5,
+ "userRatingCount": 259,
+ "rating_distribution": {
+  "oneStar": 2,
+  "twoStar": 0,
+  "threeStar": 1,
+  "fourStar": 2,
+  "fiveStar": 254
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Ali%20tailor&query_place_id=ChIJG__bSOldXz4RAqZhDXPe1Zw",
+ "website": "",
+ "categories": [
+  "Tailor"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "11:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11:30 AM to 11:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11:30 AM to 11:30 PM"
+  }
+ ],
+ "owner_description": "Ali Alterations & Tailoring ✂️\nProfessional clothing alterations & tailoring for men & women.\nPerfect fitting • Neat stitching • Fast service\nPants • Shirts • Suits • Kandura • Abaya\nQuality work at affordable prices.\n\n📞 Contact us for fittings & orders.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ]
+ },
+ "review_tags": [
+  "clothing alterations",
+  "pants alteration",
+  "jacket repair",
+  "dress repairs",
+  "quality tailoring",
+  "precise measurements",
+  "affordability",
+  "attention to detail",
+  "accommodating staff",
+  "perfect fit"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 61
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 61
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 71
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Gurpreet Singh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Ali bhai provides excellent tailoring services.The fitting was perfect, the stitching was neat, and the work was completed on time. The tailor was professional, friendly, and paid great attention to detail. Very happy with the final result and would definitely recommend their services.",
+   "owner_reply": null
+  },
+  {
+   "author": "Chiara Bursich",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I rarely leave reviews, but Ali Tailor truly impressed me.\n\nThey altered 6 dresses in just one hour, with incredible attention to detail and professionalism. What touched me even more was their kindness, they offered me food and fresh laban while I was waiting and made me feel genuinely welcome.\n\nThe team works incredibly hard, staying open until 11:30 PM, and one of their shops even operates 24/7. It’s rare to find this level of dedication, service, and hospitality nowadays.\n\nIf you’re looking for a reliable tailor who delivers quality work quickly, this is the place. I can honestly say I’ve finally found my go-to tailor for all my clothes.\n\nHighly recommended!\n\n⭐️⭐️⭐️⭐️⭐️ 5/5 Service, professionalism, speed, and hospitality.",
+   "owner_reply": null
+  },
+  {
+   "author": "aivic",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "we came coz of the great review. and it is true its the affordable best choice yes we asked all same floors . we waited for all our 10 items and the original was placed back too. thank you so much ali and team 10/10 . we are grateful. all our pants have different textiles. silk, jeans , formal.",
+   "owner_reply": null
+  },
+  {
+   "author": "Eslamhassan H",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a truly wonderful experience at this shop. From the moment we arrived, everyone treated us with kindness, respect, and professionalism. The staff were friendly, welcoming, and very patient throughout the entire visit. They explained everything clearly and made sure we were completely satisfied.\n\nA special thanks to Mr. Ali, who was exceptionally helpful, polite, and professional. He went above and beyond to make sure everything was taken care of, and his positive attitude made our experience even better.\n\nThe quality of the service was excellent, and you can really tell that customer satisfaction is their top priority. I am very happy with my experience, and I will definitely recommend this place to all of my friends and family. They truly deserve five stars for their outstanding customer service and professionalism. Thank you for making our visit such a pleasant one. I look forward to coming back again in the future!",
+   "owner_reply": null
+  },
+  {
+   "author": "Divina Apacible",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Highly recommended! I had a lot of alterations done on my uniform, and everything turned out with a perfect fit. The service was very fast same-day and the prices are affordable. I’m really happy with the results and would definitely recommend Ali Tailor.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nalla M",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Perfect alteration more than showroom and expected. Would recommend and value for money.",
+   "owner_reply": null
+  },
+  {
+   "author": "Anka Legaspi",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Very fast service, and ali is expert in all kind of alteration, he did my pants like theres no alteration, for curtains, clothes hes a pro😊👍\nAlso for shuma ahes very accomodating. Thank u and surely i will do my kind of alterations here. ♥️",
+   "owner_reply": null
+  },
+  {
+   "author": "Cecily Yim",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I am deeply grateful for Ali Tailors for saving my favorite dress. Mr Ali's wife, Ms. Shuma is in charge of the women section and she skillfully, flawlessly altered my dress into perfection ! The dress was very tight on the chest area as it was a XS size (the only one left in the department store) and I badly needed to have it altered, giving more flexibility and room. MaashaAllah, like the other reviewers said,  Ali Tailors did not disappoint ! My dress feels much more comfortable now and you cannot find any trace of modification as if a magic ! Ms Shuma, friendly and cheerful, is such an excellent and seasoned tailor and I highly recommend them. I am so happy that I have found them in Dubai.",
+   "owner_reply": null
+  },
+  {
+   "author": "Amrit Suman",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Best tailors in Dubai. I have taken numerous items to Ali and his wife. I am always super impressed how they can make perfect alterations and make my clothes look like new.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kerollos Maher",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Mrs. Ali was truly wonderful for her precision in adjusting my pants. This is my third time visiting this lovely place, and it came about through a friend's recommendation. I will definitely always go there 👍🙏\nI highly recommend that place ✨️✨️✨️✨️",
+   "owner_reply": null
+  },
+  {
+   "author": "Anirban Bhattacharya",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Super smart tailor - bring your clothes without thinking twice...and charges very economical rates.highly recommend. And a nice warm person as well. I know him now 3 years and counting",
+   "owner_reply": null
+  },
+  {
+   "author": "R. M.L",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "If you’re looking for the best and most affordable tailor shop to fix your uniform or clothes, I highly recommend this shop at Murjanet. They’re very skilled, know exactly what to do, work quickly, and charge a reasonable price.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aloh Yanick",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Best tailor around Al Rigga ,, try them out you will not regret , what ever you want they got you 100%",
+   "owner_reply": null
+  },
+  {
+   "author": "Ronel Guevarra",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Outstanding tailoring service. The fit is sharp, balanced, and comfortable. You can really tell they understand body proportions and fabric. Worth every penny.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sally Kamel",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Ali is a professional Tailor with a very positive attitude, he is talented and highly experienced, thanks for your Excellent service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Glenn Rillera",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "We always visited this tailor shop and I’m very satisfied with their service. The staff are friendly, respectful, and really know their work. They listened carefully to what I needed and made sure every detail was perfect. The stitching is neat, the fitting is excellent, and the delivery was on time.\n\nHighly recommended for anyone looking for quality tailoring and professional service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Lander Galarse",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Suma is very professional tailor with great attention to detail. Will definitely come back.",
+   "owner_reply": null
+  },
+  {
+   "author": "yazen shrifa",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "He is the best one in the area me and my friends alterat our clothes there..\nWe never had a proplem with him and always on point..\nHis prices also are really good and he gives our clothes fast..\nHighly recommended you should try him for sure.. 👌🏻👌🏻👌🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdul Fouzan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Ali Bhai Tailoring has given me one of the best experiences I've had in my 19 years in the UAE. The fitting of my dress was perfect, and I must say, I've never encountered a more skilled and friendly tailor. Although the shop may be small, the expertise and quality of Ali Bhai's work are outstanding. I'm giving a 5-star rating, but honestly, his talent deserves more than just stars. Thank you, Ali Bhai, for providing me with the perfect fit. Hats off to you!",
+   "owner_reply": null
+  },
+  {
+   "author": "John Jhimbo Roque",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best and so friendly taylor in buy n save building. So fast and affordable. So accommodating staff. Thankyou mr ali",
+   "owner_reply": null
+  },
+  {
+   "author": "NOMIT music",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I came in to have my trousers taken up. It was done very quickly, even without an appointment. I'm really pleased with the work.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sultan Ali",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "He's good and best tailor shop I have v good experience with this guy",
+   "owner_reply": null
+  },
+  {
+   "author": "His Honour Judge Reid",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Mr Ali is a fine Taylor - he is reliable , honest and good price - you can rely on him very much- go upstairs he will be there - very honest man -",
+   "owner_reply": null
+  },
+  {
+   "author": "Kal Siman",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great experience. The tailor was fast, did a good job, and the prices were very reasonable. I’ll definitely go back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Pete Bryan",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I gave them 5 stars because they’re really good! The service is excellent, and the quality of their work is impressive. They finish everything on time and make sure the fit is perfect. Highly recommend Ali Tailor for anyone who wants reliable and professional tailoring.",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdelhalim B.",
+   "rating": 5,
+   "when": "Edited 2 months ago",
+   "text": "Great experience. Very professional m, quick and honest prices - I strongly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "alvin sabellina",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Highly recommended this tailoring shop, very friendly, and they know exactly what you want. You won’t be disappointed with the result of the items you have them tailor.\n\nThey even offered a discount, but we didn’t accept it because they are very hardworking and professional — all the staff. The service is also fast; you can wait and receive your tailored items right away.\n\nGood job to Ate and Kuya — I don’t know your names, but you know who you are. Amazing service and excellent customer care. Keep up the good work! 👍👏😇",
+   "owner_reply": null
+  },
+  {
+   "author": "jessie lopez",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I had more than 10 items for altering.\nBut all of them turns perfect when finish..\nReally thanks the owner Mr.Ali, his  really hands on with his business, make all his costumers happy.Likewise the fees is not costly and very affordable.\nSee so soon Mr Alih.\nI can really assure 100% for ever1 whose struggling for proper outcome of alteration.\nCome and See them on there shop🥰🥰🥰✅✅✅",
+   "owner_reply": null
+  },
+  {
+   "author": "Merima",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "After 13 years in Dubai, this is honestly the best tailor I’ve found. My jeans came out looking factory-made with flawless fit and stitching — and surprisingly affordable! Highly recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jay Arr Sy",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\nI had a great experience at this tailoring shop. The customer service is excellent—friendly and approachable staff who really listen. I gave my instructions, and they followed them exactly, making sure everything was done right. Very professional yet warm in dealing with customers. Highly recommended!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    149,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/ali-tailor/",
+ "buy_likelihood": 6
+}

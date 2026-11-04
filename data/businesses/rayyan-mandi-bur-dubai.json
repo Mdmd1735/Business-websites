@@ -1,0 +1,2494 @@
+{
+ "slug": "rayyan-mandi-bur-dubai",
+ "name": "Rayyan Mandi Mankhool,bur dubai",
+ "place_id": "ChIJ70UCdABDXz4Rhu4potHjyPs",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Bur Dubai",
+ "address": "Sheikh Sabah Al-Ahmad Al-Jaber Al-Sabah St - Al Raffa - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2511566,
+  "lng": 55.2892974
+ },
+ "phone": "+971 4 552 4424",
+ "rating": 4.8,
+ "userRatingCount": 4795,
+ "rating_distribution": {
+  "oneStar": 70,
+  "twoStar": 19,
+  "threeStar": 45,
+  "fourStar": 353,
+  "fiveStar": 4308
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Rayyan%20Mandi%20Mankhool%2Cbur%20dubai&query_place_id=ChIJ70UCdABDXz4Rhu4potHjyPs",
+ "website": "",
+ "categories": [
+  "Family restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11 AM to 2:30 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11 AM to 2:30 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11 AM to 2:30 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11 AM to 2:30 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "11 AM to 2:30 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11 AM to 2:30 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11 AM to 2:30 AM"
+  }
+ ],
+ "owner_description": "Cuisine with class! We have the best Mandi in town",
+ "amenities": {
+  "Service options": [
+   {
+    "Outdoor seating": true
+   },
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great dessert": true
+   },
+   {
+    "Great tea selection": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "All you can eat": true
+   },
+   {
+    "Coffee": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Private dining room": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Cozy": true
+   },
+   {
+    "Trendy": true
+   }
+  ],
+  "Crowd": [
+   {
+    "College students": true
+   },
+   {
+    "Groups": true
+   },
+   {
+    "Tourists": true
+   }
+  ],
+  "Planning": [
+   {
+    "Lunch reservations recommended": true
+   },
+   {
+    "Dinner reservations recommended": true
+   },
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   },
+   {
+    "High chairs": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "mandi",
+  "chicken mandi",
+  "outdoor seating",
+  "kunafa",
+  "chicken madbee",
+  "mutton mandi",
+  "luqaimat",
+  "accommodating staff",
+  "aromatic rice",
+  "rayyan mandi"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 9
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 6
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 8
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 7
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 8
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 10
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 17
+   }
+  ]
+ },
+ "owner_reply_rate": 0.77,
+ "reviews": [
+  {
+   "author": "Chester Singian",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "We visited Rayyan’s Bur Dubai on October 18, and what a treat it was! Our Pakistani friend Abdul brought us here for a welcome dinner, and it turned out to be such a wonderful experience. If you’re looking for delicious mandi in Dubai, this place is a must-try!\n\nThe place was very busy, but all the staff were incredibly accommodating and efficient. We only waited a few minutes to be seated, and we even got a great spot!The turnaround time was fast despite the crowd. There’s also plenty of parking space, and it’s within walking distance of hotels like Citymax and Four Points by Sheraton, which is a big plus. Wi-Fi is also available, making it even more convenient for diners.\n\nNow, let’s talk about the food!🤤 The appetizers were really good, and the mutton soup was top-tier,especially with a generous squeeze of lemon. They also serve unlimited onions, which is a nice touch!\n\nThe rice was absolutely delicious, especially when paired with the fried onions, tomato-vinegar sauce or salsa, and a sprinkle of chili flakes. That combination mixed into the rice was just  chef’s kiss. The chicken was incredibly tender, juicy, and flavorful. You can really tell it has been marinated for hours. I loved the potatoes, too!\n\nAnd the best part? This is the best mandi I’ve tried so far! Everything was so satisfying, and even the little sweet balls reminded me of carioca back home in the Philippines. Such a lovely way to end the meal!!!\n\nWhat makes the experience even better is the great food quality at very affordable prices.You really get excellent value for your money!!!\n\nOverall, it was an amazing dining experience, from the food to the service. Highly recommended for anyone craving delicious, flavorful mandi without breaking the bank. Definitely a place worth visiting!⭐⭐⭐⭐⭐",
+   "owner_reply": "Thank you for your wonderful review! We’re delighted to know you enjoyed our mandi, delicious food, and friendly service. Your appreciation means a lot to our team. We look forward to welcoming you back soon!"
+  },
+  {
+   "author": "FATHIMA ARSHAD",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Some places deserve a 5 star and this is one of them!!\nGreat service despite the crowd. Delicious food, great quality and quantity. A lot of condiments served too.\nThey also serve a free plate of luqaimat at the end.\nGreat place!!!",
+   "owner_reply": "Thank you so much for your amazing feedback! We’re delighted you enjoyed the food, generous portions, service, and variety of condiments. We’re also happy you loved the complimentary Luqaimat. Your 5-star support means a lot to us, and we look forward to welcoming you again!"
+  },
+  {
+   "author": "Ann Austria",
+   "rating": 4,
+   "when": "2 weeks ago",
+   "text": "We visited twice last month, both the food and service were great. They are so generous, even offered complimentary luqaimat and a tea.\n\nThe only thing, on our second visit, it was busy hours, lunch time, we cant get to choose the seating. The table we had was a bit hot.\n\nBut overall, highly affordable and great service.",
+   "owner_reply": "Thank you for visiting us twice and sharing your experience! We’re delighted that you enjoyed our food, service, and complimentary treats. We sincerely apologize for the discomfort with the seating during the busy lunch hours. Your feedback is valuable to us, and we’ll do our best to make your next visit even more comfortable. We look forward to welcoming you again soon!"
+  },
+  {
+   "author": "Francis Jarina",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "The food was superb and worth the price. The staff, especially Ahmed and Aika, made our dinner extra special with their great service. The ambiance was nice, but the AC was not that cool, though it was tolerable. Overall, our experience was great, and we will definitely come back here and recommend it to our friends.",
+   "owner_reply": "Thank you for your detailed feedback. We’re delighted to know you enjoyed the food, service, and ambience. We also appreciate your honest feedback about the AC and will look into it to improve our guests’ comfort. Thank you for recommending us, and we look forward to welcoming you again soon."
+  },
+  {
+   "author": "Saniya Kasmani",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Food? 10/10, absolutely smashed it. 🤌🔥\nEverything was super tasty and the overall experience was really good. BUTTTT the wait time… ARGHHHH 😭 had me questioning every life decision. 😂\n\nWould definitely go back though, just hoping the food comes with a little less waiting next time! ✨",
+   "owner_reply": "Thank you so much for the wonderful feedback! We’re delighted you loved the food and enjoyed your overall experience. We sincerely apologize for the long wait time and truly appreciate your patience. We’ll work on improving this for a smoother experience next time."
+  },
+  {
+   "author": "Organic Secrets",
+   "rating": 4,
+   "when": "a month ago",
+   "text": "Great experience at Rayyan Mandi Restaurant! The mandi rice was delicious, flavorful, and the mutton was tender and well-seasoned. The sides and sauces were also fresh specially they gave green chatni and sweet imli was amazing and tasty.  atmosphere ok  and excellent service. Portion also good prices are very economical even you can ask staff mini mandi worth 20 aed and don’t forget to order delicious dumpling only in 10 aed so must visit…!!!!!! 🫶@rayyanmandi",
+   "owner_reply": "Thank you for the fantastic review and recommendations! We are thrilled you loved our tender mutton mandi, special sauces, mini mandi, and dumplings.<br>We truly appreciate your support and look forward to welcoming you back soon!<br>"
+  },
+  {
+   "author": "yousuffejamani",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "First time I visited Rayaan Mandi Mankool branch, and the service was much better than the Rigga branch. The food quantity was also really good.\n\nI ordered Chicken Madhbi, and the quantity was more than enough for two people.\nHighly recommended!",
+   "owner_reply": "Thank you for your detailed feedback! We’re glad to hear you enjoyed your visit to the Mankhool branch, especially the generous portions and Chicken Madhbi. It’s also great to know you had a positive overall experience. We truly appreciate your recommendation and look forward to serving you again soon!"
+  },
+  {
+   "author": "Gaurav Mangaonkar",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "We were attended by Rajani and Arshad on our visit. They greeted us with warmth and suggested what to order. The recommendation was spot on. We had Haneet Ribs and the taste as well as flavours were simply amazing. Post meal interaction was also great as we felt connected to Indian roots.",
+   "owner_reply": "Thank you for your wonderful feedback! We’re delighted to hear that you enjoyed the delicious food and received excellent service. We truly appreciate your continued support and look forward to welcoming you again soon!"
+  },
+  {
+   "author": "Local Guide & Explorer",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Recently, we visited Shams Al Rayyan restaurant for Mandi based on the recommendations of our friends. We chose this place after seeing its high rating and excellent reviews on Google, and it definitely lived up to the expectations!\nThere were five of us, and we ordered two mutton shoulder spicy Mandi, one mini chicken Mandi Madhbi, Fattoush salad, and Kunafa for takeaway.\nHighlights:\nComplimentary Items: They serve soup, fried onions (unlimited), raita, tomato green chutney, and lemon as complimentary sides, all of which were excellent.\nTaste: The mutton shoulder was superb. As for the rice, I personally found it to be average, but overall, it was a good experience.\nService: The service here is truly outstanding. The Malayali staff member, Mithun, deserves special mention; he served us very quickly and happily, fulfilling all our requests.\nFinal Items & Incredible Hospitality: After our meal, we asked for Sulaimani black tea and Luqaimat. Mithun brought them as complimentary items with a smile. When we asked for a second round, he brought us two more plates of Luqaimat and five more black teas, all completely free of charge, without any hesitation! Mithun is a genuinely kind person, and the rest of the staff were equally polite and professional.\nAmbience & Facilities: The ambience is wonderful. With family rooms and Majlis seating, it is a perfect spot for families. The restaurant can accommodate about 100-150 people at a time with both indoor and outdoor seating. The entire place, including the washing area, is kept perfectly clean.\nBill Details:\nMutton Shoulder: 89 AED each\nMini Chicken Mandi: 20 AED\nFattoush Salad: 15 AED\nKunafa: 15 AED\nAdditional Rice: 10 AED\nOverall, it was a great experience. This is a must-visit place for Mandi lovers. If you are looking for great food paired with top-notch service, you can definitely visit this place. We are very happy with our visit",
+   "owner_reply": "Thank you for your detailed and wonderful feedback. We’re delighted to hear that you enjoyed the food, ambience, and overall dining experience, and that our team made your visit special with their hospitality and service.<br><br>We truly appreciate your recommendation and are glad we could meet your expectations. We look forward to welcoming you and your friends again soon for another great experience!"
+  },
+  {
+   "author": "Lyne Manuel",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "We ordered the Mixed Mandi Family Platter - huge portion, aromatic rice, super tender meat with grilled tomato & lemon on top. Served with shorba (soup), yoghurt, tomato chutney, green chutney, fried onions, fresh salad and lemon wedges. Easily enough for 3-4 people.\n\nFor dessert we had Luqaimat - crispy golden balls drizzled with honey & sesame, and Cheese Kunafa - fresh, crispy outside, cheesy inside topped with pistachios, served with sugar syrup.\n\nEnded with Sulaimani - hot black tea with lemon & mint, perfect to digest after Mandi. Refreshing and light.\n\nService fast, staff friendly, clean family seating, open till 2:30am on Al Mankhool Rd. Best value Mandi spot in Mankhool. Will come back!\nHighly recommended!!\nPhotos: Mandi Platter, Luqaimat, Kunafa, Sulaimani",
+   "owner_reply": "Thank you so much for such a detailed and wonderful review! We are thrilled to hear you loved our Mixed Mandi Family Platter, our desserts, and the refreshing Sulaimani tea to finish your meal.<br>It is great to know that you enjoyed our fast service, clean family dining area, and late-night hours. Your high recommendation and lovely photos mean the world to us, and we cannot wait to welcome you back again soon!<br>"
+  },
+  {
+   "author": "shaista aslam",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "This place is really good mandi is so yummy 😋 with salad and all chatnees so yum.\nWe in a majlis so comfortable only one button away from all service,  just press the button.\nAfter mandi gemath and kawa made our day.\nSo delicious 😋 😍.\n1000 % recommend 👌",
+   "owner_reply": null
+  },
+  {
+   "author": "Shola Pauline Lemon",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "We absolutely love the food at Rayyan Mandi! Everything is delicious, and it’s definitely one of those places we keep coming back to. The staff are always friendly and welcoming, which makes the experience even better. Special mention to Aika, who is incredibly kind, attentive, and accommodating. She always makes sure we feel well taken care of. Excellent food and excellent service! Highly recommended!",
+   "owner_reply": "Thank you for your continued support and kind recommendation! We’re delighted to know that you consistently enjoy dining with us and appreciate our team’s friendly and attentive service. Your kind words mean a lot to us, and we look forward to welcoming you back for many more wonderful experiences!"
+  },
+  {
+   "author": "Rahees Muhammed",
+   "rating": 4,
+   "when": "2 months ago",
+   "text": "I’ve been visiting Rayan Mandi and their different branches regularly, and I’ve always had a great experience. The meat is always soft and tender, with perfectly balanced spices, amazing aroma, and a great texture. It’s the kind of food you can keep coming back for. Definitely recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "hydie igual",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Had a great dining experience at Ryan Mandi Restaurant! The food was delicious, flavorful, and served in generous portions. Special thanks to Aika for being so accommodating and providing excellent service. She made sure we were well taken care of and made our dining experience even more enjoyable. Definitely a great place to enjoy good food with family and friends. Highly recommended! 😊",
+   "owner_reply": "Thank you for your wonderful feedback! We’re delighted you enjoyed the food and generous portions. It’s lovely to know our team made your visit extra special. We truly appreciate your recommendation and look forward to welcoming you and your loved ones again soon!"
+  },
+  {
+   "author": "Meenu Kutty",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Amazing experience! The mandi was absolutely delicious, perfectly cooked, and full of authentic flavor. The meat was tender, and the rice was fresh and aromatic. The restaurant was clean with a pleasant atmosphere.\nThe service was outstanding—everyone was friendly, attentive, and welcoming. Especially staff rejini I highly recommend this restaurant to anyone looking for great mandi and excellent customer service. I'll definitely be coming back!",
+   "owner_reply": "Thank you for your kind feedback! We’re delighted to hear you enjoyed the food and our service. We truly appreciate your support and look forward to welcoming you again soon!"
+  },
+  {
+   "author": "Rahul Fantasia",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "The mutton mandi ( Mutton Muhammar) was delicious. But the Fatoush salad was not at all good. Very less romaine lettuce, no radish, no sumac lemon dressing, no olive oil, no cherry tomato ,the only taste was of capsicum 🫑😔 and lots of fried kubboos.\n\nKeeping that salad worth 15 AED apart, the main course mutton Muhammar was tasty and quantity for 2 is more than enough.\n\nA must try place for Mandi lovers.",
+   "owner_reply": "Thank you for your honest feedback. We’re really glad you enjoyed the mutton Muhammar and found the portion satisfying. We’re sorry to hear that the Fattoush salad didn’t meet your expectations — your points about the ingredients and taste are well noted. We’ll share this with our team to improve the quality. We hope to serve you better on your next visit."
+  },
+  {
+   "author": "Lendl Desierto",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI had a wonderful experience at Al Rayan Restaurant! The food was delicious, the atmosphere was welcoming, and the service was excellent. Special thanks to Aica for being so friendly, accommodating, and attentive. Her excellent customer service made our dining experience even more enjoyable. Highly recommended! I will definitely come back again. Keep up the great work, Aica and the Al Rayan Restaurant team! 😊👏",
+   "owner_reply": "    Thank you for choosing our restaurant! We look forward to serving you again soon."
+  },
+  {
+   "author": "Jeraldine Reguyal",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I really love the Haneeth Ribs here at Rayyan Mandi Restaurant. The serving is already good for 3-4 persons. The meat is very tender and juicy. Also the staffs are very accommodating and warm specially Mr. Immam and Ms. Aica. I recommend you to try here at Mankhool Bur Dubai ❤️",
+   "owner_reply": "Thank you for your wonderful feedback. We’re delighted you enjoyed the Haneeth Ribs and our hospitality. We truly appreciate your recommendation and look forward to welcoming you again."
+  },
+  {
+   "author": "kate Galvez",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Absolutely one of the best dining experiences we’ve ever had! The restaurant exceeded our expectations in every way ... from the beautifully presented dishes to the impeccable service.\n\nThe team was attentive, welcoming, and truly professional. Every detail was handled with care, and you could feel the passion behind what they do. The food was exceptional... fresh, flavorful, and perfectly prepared.\n\nA big thank you to the entire team especially to Aica ( the ever energetic & beautiful) &  Siso ( the cheerful and cool guy)  making our visit so memorable. 😇🥰\n\nHighly recommended, and we will definitely be coming back!🥰😇🥳",
+   "owner_reply": null
+  },
+  {
+   "author": "Rianne Jeanella Diza De Guzman",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Good food and Service! Highly Recommended!!!! Amazing staff, Thank you to Jessie and Ahmad!",
+   "owner_reply": "Thank you so much for the great review and high recommendation! We are thrilled to hear you enjoyed the food and service, and we will be sure to pass along your special thanks to Jessie and Ahmad.<br>We look forward to welcoming you back again soon!<br>"
+  },
+  {
+   "author": "Archie Karylle Sandoval",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "The service was excellent. The staff were very attentive to my needs and served a variety of side dishes, including different sauces and a warm soup. They regularly checked if I was enjoying the food and were happy to take photos when I asked. At the end of the meal, they provided a wet towel/napkin. What made the experience unique was that after payment, they applied a lightly scented perfume or oil on my hand, which smelled really nice.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vijay Thomas Kurien",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I had lunch at Rayyan Mandi, Al Mankhool, and it was an absolutely wonderful experience. I had the quarter chicken mandi along with Sulaimani tea, lamb soup, and dessert, and everything was really delicious. The food was fresh, flavourful, and beautifully prepared.\n\nA special mention to Rajini and Arshad, who were exceptionally polite, warm, courteous, and cordial throughout. Their service was genuinely outstanding, and they made the whole dining experience even more pleasant. Both of them deserve a special appreciation for the way they treated guests with such kindness and professionalism.\n\nThe only small concern I had was the amount of food wastage. I personally am not a heavy eater, and I noticed that quite a bit of food can be left over. Given the importance of avoiding unnecessary food wastage, perhaps the restaurant could consider offering smaller portions or allowing customers to choose the quantity according to their appetite. It would be a wonderful initiative, especially at a time when food should be valued and not unnecessarily wasted.\n\nOverall, a fantastic dining experience, excellent food, and truly wonderful service from Rajini and Arshad. I would definitely recommend Rayyan Mandi and look forward to visiting again! ⭐⭐⭐⭐⭐",
+   "owner_reply": "Thank you for your wonderful feedback and recommendation. We’re delighted you enjoyed the food and service. We also appreciate your suggestion regarding portion sizes and food wastage, and we’ll certainly take it into consideration. We look forward to welcoming you again soon."
+  },
+  {
+   "author": "Hafis P M",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I recently tried the Mutton Manthi from Rayyan Manthi Restaurant, and it was absolutely delicious! The meat was incredibly tender and full of flavor, and the quality remained consistent from start to finish. The staff were very friendly and polite—special thanks to Rajani, Midhun, and Hossam for their wonderful service.\nDefinitely one of the best Manthi I’ve had in a long time. Highly recommended! ❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "AJ",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Tried this for the first time - Regini was serving us and recommended the best Dish.\n\nHaneeth Ribs- Spicy. It was amazing and meat is soft good for three people.\n\nExcellent service and good place for family.",
+   "owner_reply": "Thank you for your feedback. We’re glad you liked the food and service. We look forward to welcoming you again soon!"
+  },
+  {
+   "author": "maj escrupolo",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "This mandi restaurant is fantastic! They have delicious and tasty food at the friendly price. The servings and the service is awesome. Staff are happy and friendly 😊  I just came to give a try and my experience is 11/10 they deliver the best and incredible  service and food. This will be my first  choice in all mandi restaurant hossam is our food server he did well. And aika is the best and sweet attendant also guiding also which is best seller. Will comeback for sure.",
+   "owner_reply": null
+  },
+  {
+   "author": "Karen Florentino",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "It was a great place to eat thank to regine and arshad. Amazing and friendly staff. Nice ambience.",
+   "owner_reply": "We truly appreciate your kind words! It’s wonderful to know you had a great dining experience with us. Hope to welcome you back soon!"
+  },
+  {
+   "author": "sharad bishnoi",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Must thank my friend for showing us this gem of a place. Rayyan Mandi at Mankhool is heaven for people who saviour Mandi Biryani, a preparation of Yemeni Cuisine, made with lamb meat.\n\nIt’s a very popular restaurant in Dubai, especially for families and it’s always crowded. They serve Mandi Biryani (besides Kebabs and many other things) and let you choose from portion of meat that is to be used in the Biryani. Each serving is made separately and is served at your table, opened right in front of you.\n\nWe were in a big group so had to wait for sometime. We loved the place (and food) so much that we visited it again next day.\n\nGo hungry and come and stuffed to brim 😅😅\n\nMandi Biryani on your mind ? Go Rayyan !!\n\nAnd did I mention their soup, which they keep serving on request - amazing. Also try their Kunafa Cake. Yummy.",
+   "owner_reply": null
+  },
+  {
+   "author": "mohammed hisham avayil",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Ma sha allah.  Great good and very good service.  Guys where very live and delighted to serve everyone customer that came in.  And the food was very authentic. Usually a bit busy, but good waiting area",
+   "owner_reply": "Thank you for your kind words <br>We’re glad you enjoyed the food and experienced our team’s warm service. It means a lot to us, we’re happy the waiting area made things comfortable for you. Looking forward to welcoming you again soon!"
+  },
+  {
+   "author": "Mary Reyes",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great food and amazing experience. Best mandi ever. Juicy and soft mutton mandi.\n\nAlso great service from Rejni and Gulnav. Very attentive. Keep it up.",
+   "owner_reply": "Thank you for your kind feedback. We’re glad you enjoyed the food and service. Your appreciation for our team will be shared. Looking forward to serving you again."
+  },
+  {
+   "author": "Jemmelet Velasco",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Really enjoyed dining here. The mandi rice was flavorful, the meat was soft and well-cooked, and the serving size was generous. Staff( guljar and aica )were friendly and attentive even during busy hours. The complimentary soup, tea, and luqaimat were a nice bonus. Cozy place for family and friends, and prices are reasonable for the quality and portion.",
+   "owner_reply": "Thank you for your wonderful feedback. We’re delighted to hear you enjoyed the flavorful mandi, generous portions, and warm hospitality. Your kind words and support truly mean a lot, and we look forward to welcoming you again soon!"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    848,
+    478
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1122,
+    793
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    740,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    350,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    342,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    512,
+    424
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    512,
+    365
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    463,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    452,
+    454
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    347,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    347,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    347,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    512,
+    231
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    512,
+    282
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    512,
+    356
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    467,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-131.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-132.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-133.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-134.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-135.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-136.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-137.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-138.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-139.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-140.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-141.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-142.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-143.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-144.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-145.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-146.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-147.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-148.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-149.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-150.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-151.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-152.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-153.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-154.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-155.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-156.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-157.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-158.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-159.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-160.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-161.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-162.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-163.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-164.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-165.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-166.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-167.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-168.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-169.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-170.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-171.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-172.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-173.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-174.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-175.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-176.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 73,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/rayyan-mandi-bur-dubai/",
+ "buy_likelihood": 6,
+ "notes": "4,795 reviews but a chain (Rigga, Barsha, Gold Souk, Doha); rayyanmandi.com is parked. Pitch a group site to head office.",
+ "display_name": "Rayyan Mandi (Mankhool)"
+}

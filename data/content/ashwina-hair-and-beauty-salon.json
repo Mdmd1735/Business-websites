@@ -1,0 +1,36 @@
+{
+ "preset": "sage-spa",
+ "theme": {"accent": "#A3155A", "accent_text": "#8C1150", "surface_2": "#EFE6E3", "duo": "#E9C3D3", "busy": "#C2427E", "band_bg": "#2B1622", "band_accent": "#F4A9CC", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "Ashwina", "sub": "Hair & Beauty · Mankhool", "mark": "A", "footer_word": "Ashwina"},
+ "seo": {"title": "Ashwina Hair & Beauty Salon | Ladies Salon in Mankhool, Bur Dubai", "description": "Ashwina, a ladies-only hair and beauty salon on Sheikh Sabah Al Ahmad St, Mankhool: haircuts, global colour, highlights, keratin, blow-dry, nail spa, Moroccan bath and henna. 4.7 from 542 reviews."},
+ "hero": {"variant": "split", "kicker": "Ladies only · Mankhool · Bur Dubai", "title_lines": ["Hair you trust", "to one person."],
+   "lede": "A ladies-only salon in Mankhool for cuts, global colour, highlights, keratin and blow-dry, plus nail spa, Moroccan bath and henna. Some families have been coming since 2014.",
+   "image": "img/hero.jpg", "image_alt": "Ashwina salon floor with styling stations and product shelves", "secondary": {"label": "Services", "href": "#services"}},
+ "whatsapp": "+971 58 560 7005", "cta_label": "Book on WhatsApp", "cta_text": "Hi Ashwina, I'd like to book an appointment.",
+ "proof_note": "The owner replies to every review",
+ "address_lines": ["Ashwina Hair & Beauty Salon", "27 Sheikh Sabah Al Ahmad St, Mankhool, Bur Dubai"],
+ "socials": {"instagram": "ashwinasalon"},
+ "ticker": ["Haircuts", "Global colour", "Highlights", "Keratin", "Blow-dry & curls", "Nail spa", "Moroccan bath", "Henna"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Hair first.", "title_dim": "Then everything else.",
+   "items": [
+    {"name": "Cuts, curls & blow-dry", "feature": true, "img": "img/curls.jpg", "alt": "Long voluminous curls", "desc": "Personalised consultations before every cut.", "quote": "When it comes to my hair Bhagyashri is the one I truly trust.", "cite": "Parvathy G."},
+    {"name": "Colour & highlights", "img": "img/colour.jpg", "alt": "Soft caramel highlights", "desc": "Global colour, highlights and balayage."},
+    {"name": "Keratin & smoothening", "img": "img/wash.jpg", "alt": "Kérastase wash stations", "desc": "Straightening, smoothening and Kérastase rituals."},
+    {"name": "Nail spa", "img": "img/pedicure.jpg", "alt": "Magenta pedicure chairs under a palm mural", "desc": "Manicure, pedicure, extensions and nail art."},
+    {"name": "Moroccan bath, facials & henna", "img": "img/spa-room.jpg", "alt": "Arched treatment room", "desc": "Body massage, facials, waxing, threading and mehendi."}
+   ],
+   "perks": ["Ladies only", "Open daily 10 AM – 8:30 PM", "Kérastase & L'Oréal", "Cards & Apple Pay"]},
+  {"type": "team", "id": "team", "nav": "Stylists", "eyebrow": "The stylists", "title": "Bhagyashri, Bebo", "title_dim": "and Rachna.",
+   "items": [
+    {"name": "Bhagyashri", "count": 14, "role": "Senior stylist", "quote": "She is always my first choice and her advice never fails to make me feel my best.", "cite": "Parvathy G."},
+    {"name": "Bebo", "count": 4, "role": "Hair", "quote": "Very professional, friendly, and genuinely listened to what I wanted.", "cite": "Faye F."},
+    {"name": "Rachna", "count": 4, "role": "Beauty"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Ashwina storefront at night"}, {"src": "img/waves.jpg", "alt": "Glossy waves"}, {"src": "img/lounge.jpg", "alt": "Colourful waiting lounge", "wide": true}, {"src": "img/bob.jpg", "alt": "Layered bob"}, {"src": "img/nails.jpg", "alt": "Pink gel nails"}, {"src": "img/retail.jpg", "alt": "Hair product shelves"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Prices", "title": "Ask before you book.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a haircut and blow-dry?", "Price for global colour on long hair?", "Do you have keratin offers?", "Can I book with Bhagyashri this week?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Mankhool,", "title_dim": "Bur Dubai."}
+ ]
+}

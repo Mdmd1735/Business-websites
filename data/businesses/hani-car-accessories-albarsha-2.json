@@ -1,0 +1,1223 @@
+{
+ "slug": "hani-car-accessories-albarsha-2",
+ "name": "Hani Car Accessories albarsha 2",
+ "place_id": "ChIJm-V27eRrXz4RE5gVmhMr-_A",
+ "category": "car detailing",
+ "category_weight": 11,
+ "area": "Al Barsha, Dubai",
+ "address": "Umm Suqeim St - near FF3 Cafe - Al Barsha Second - Al Barsha - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.1109211,
+  "lng": 55.218993
+ },
+ "phone": "+971 50 271 7170",
+ "rating": 4.6,
+ "userRatingCount": 449,
+ "rating_distribution": {
+  "oneStar": 37,
+  "twoStar": 3,
+  "threeStar": 7,
+  "fourStar": 10,
+  "fiveStar": 392
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Hani%20Car%20Accessories%20albarsha%202&query_place_id=ChIJm-V27eRrXz4RE5gVmhMr-_A",
+ "website": "",
+ "categories": [
+  "Car accessories store"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 11:45 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 11:45 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 11:45 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 11:45 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "8 AM to 11:45 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "8 AM to 11:45 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "8 AM to 11:45 PM"
+  }
+ ],
+ "owner_description": "Hello, I am Hani. We do all kinds of car upholstery, from the dashboard to all the internal parts of the car, all kinds of audio systems. All the lights. Polishing lights, interior carbon fiber and all kinds of polishing. We do the work related to your car. Welcome.",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "tinting",
+  "seat covers",
+  "leather car seat",
+  "upholstery",
+  "car detailing",
+  "fast installation",
+  "warranty",
+  "supportive staff",
+  "clean work",
+  "lights installation"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 30
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 36
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 53
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 16
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 46
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 16
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 43
+   }
+  ]
+ },
+ "owner_reply_rate": 0.87,
+ "reviews": [
+  {
+   "author": "Osama El Nashar",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "+00000  DONT DEAL WITH THEM AT ALLLL\nThe worst service ever they will just take your money and the items will not work after 2 months, then they will tell you NO WARRANTY its your issue you bought and trusted them, they just seek money not customer trust, i bought a horn and headlights and both are not working after 3 months, when i told them, they simply said there is no warranty!!!! Complain if you want.",
+   "owner_reply": "If you check in your bill. You have warranty for just light.   Alsow cheap horn. Do you want 10 years warranty.  Impossible bro.   Thank you have grate day000000…..!?"
+  },
+  {
+   "author": "AbduRrhman Saber",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Fast see, effective, and affordable price. I called them for battery change it all done within 10-15 minutes to my location with only 350 aed. plus 1 year warranty. I strongly recommend them for such services and other car services. big thanks",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Mohammed Miah",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I visited this place a few weeks ago to get the upholstery for the sunroof replaced on my Audi A7. What I liked about this place is that they were honest with the work.\n\nOther places tried to get me to change the fabric for my whole car roof so that they could charge me more!\n\nHani accessories knew what they were doing, they took my sunroof off very quickly, changed the fabric and replaced it just as quick. I decided to write my review a few weeks later to see if the quality will be maintained and it has. Their prices were very fair and I even bought some Bosch wiper blades for the car at a very competitive price.\n\nYou have earned a loyal customer and now I will only be using Hani Accessories for my car needs. I have already recommended this place to my friends and they know who to go to in the future for their car needs.\n\nThank you for delivering honest, outstanding work. Honesty in business is rare to find these days but it's what will make us become returning customers. I wish other businesses were more like this.",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Nasser Ghafori",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Hani car accessories is truly outstanding when it comes to installing car accessories.they have a professional team and offer great prices.i highly recommend them to everyone.i am very grateful to mr omid and his team for their excellent work.🫶",
+   "owner_reply": "🌹🙏"
+  },
+  {
+   "author": "Lys Grli (Ilmak)",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Exceptional Service at HANI Car Accessories!\n\nWe had an amazing experience with HANI car accessories! The team Mehdi and Abolfazl was incredibly professional and knew exactly what they were doing. They replaced our old car radio with a brand new one, and the entire process was smooth, efficient, and done with great attention to detail.\n\nFrom the moment we walked in, Mehdi made us feel welcome and confident in their work. They handled everything with care, explained the steps, and ensured the new system was working perfectly before we left. We were especially impressed by their expertise and how clean and precise the installation was.\n\nHighly recommend HANI to anyone looking for top-notch car accessory services. Thank you for the outstanding work!",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Muhammad Ajmal",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I am happy to see how it turns out the selected leather car seat. I am happy for their service. Works done professionally and I could recommend this shop to anyone who wants to transform their car with luxurious interior looks. Specially Contact with Omid kaka only.",
+   "owner_reply": "❤️🌹🙏"
+  },
+  {
+   "author": "Yeti Car Rental",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Professional and friendly staff, good work with tinting. Would recommend for all tinting and vehicle outer protection services. Prices however go beyond the reach of a lot of people, so that's the part which can be improved. Hani car Accessories 👌👌👌🤟",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammad Ajmal",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best place To put tinting here i have experience with them a lot cars they always treat well the customer and give them good price i prefer whenever you want put tinting,lights or some other work you can come here their price are very good and they take good care of the car after finishing their job  specifically contact with Mr omid",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Info brunosplaycenter",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Hani car accessories in Umm suqiem is my go to shop when it comes to car tinting and anything you need for your car. I have been coming for more than 3 years now and they have a very friendly, accommodating and skilled team. Highly recommended",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Alhussain AlRedha",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Highly recommend Hani’s car accessories, super professional and clean job. They did an amazing job on my steering wheel installation and carbon fiber interior trimming.",
+   "owner_reply": "🌹🙏"
+  },
+  {
+   "author": "Nabil Battal",
+   "rating": 4,
+   "when": "Edited 4 years ago",
+   "text": "Willing to quote for a quality service unfortunately unable to deliver on the quote. Had tinting done & the final product was below expectation.\n\nUpdate - took the car back & this time the owner personally reviewed the tinting which he agreed was below par, he then proceeded to remove & replace properly which was a show of good faith with no charge for correcting the problem.",
+   "owner_reply": "Please return your car  we will fix the problem. Thank you"
+  },
+  {
+   "author": "Muhammad Sabiuddin",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Very professional team lead by Mr. Hani. The way they work is attention to detail. I explained to them my request and they came up with the right options.\n\nI am very satisfied with their work. And will recommend all my friends to them. Keep up the good work.",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Abdul Aziz",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "My second visit to the shop. Went in for replacement of low beam lights. Amazing team and customer service. Got a 1-year warranty for the lights for any problem.",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "jovany ortiz",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great work from the guys I really recommend if you’re looking to install something fast quick this is the place to be at",
+   "owner_reply": "🌹🙏"
+  },
+  {
+   "author": "Mckhell Lacson",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\nI had my car windows tinted at Hani Car Accessories Shop, and I’m really impressed with their excellent work and service! The tinting was done perfectly — clean, professional, and really upgraded the look of my car. The owner is very friendly and accommodating, making the whole experience smooth and pleasant. A big shoutout to Usman, who will be sewing my car seat covers — I can’t wait to see the finished result! Highly recommended for anyone looking for top-quality car accessories, window tinting, and great customer service.",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "jhonalcas atif",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Totally satisfied with work with reasonable price, expert staff highly recommended.",
+   "owner_reply": "🌹🙏"
+  },
+  {
+   "author": "Khurram Mughal",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Pest price for seat cover and widow tint. Please visit hand car in Barsham 2. They give you good service",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Jafi Kalam",
+   "rating": 1,
+   "when": "11 months ago",
+   "text": "I am extremely disappointed with this car accessory shop. I came to install window screen tinting, but the work was very poorly done. After they finished, the tint had a lot of bubbles and scratches on the screen. The quality was nowhere near professional.\n\nI also had to spend a long time waiting, and even after all that time, the result was unacceptable. I would not recommend this place to anyone, especially if you care about your car. Very bad experience.",
+   "owner_reply": "Hi sir Hope you are doing well.<br>We have only one parking to work here and we already told you have to wait but you was in hurry. Your car is also old model all glass rubber damaged and you didn’t wash the car before tinting. "
+  },
+  {
+   "author": "Samer Elsouri",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "It was an amazing place and very friendly ppl working in the shop they literally did everything i asked for in a very fast time and their prices are the most affordable in the area i guess, i really recommend this shop for everything about cars Accessories and tinting and leather customising special thanks to mr hani",
+   "owner_reply": null
+  },
+  {
+   "author": "arsalan mughal",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Excellent, quick and affordable service by Mr. Hani and team. I went for Installation of LCD and reverse camera, both was done perfectly and gives new look to my Car interior. Good job Guys 👏👏👏",
+   "owner_reply": null
+  },
+  {
+   "author": "jabbar jan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "They are very professional in the work they are doing excellent job",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Ian Lee",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My experience at this shop was impeccable. Services rendered by Usman and his team was amazing. I had a brand new steering wrapper that was hand knitted - craftmanship was excellent. Price was reasonable as well. Overall, this was a deeply memorable experience. I will definitely be coming back for more accessories when needed.",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Adeel Khan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Highly recommend, did some modifications on my car for off-reading and full interior upgraded, they did the job as per my expectations, staff is Friendly specially Mr Omed",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Alireza",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "best shop for car accessories services.they are very professional.🫶",
+   "owner_reply": "🌹🙏"
+  },
+  {
+   "author": "Adeel khattak",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Must recommended. Best price quick service. And especially whole staff are very supportive.",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Asad Ameen",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have a very good experience with hani car accessories they have very Good quality material products specially tinted",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Husnain Rajpot",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Amazing service Best quality product if u need any car accessories go to this shop very good experience.",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "Ahmed Mahmoud",
+   "rating": 3,
+   "when": "4 years ago",
+   "text": "Little rude, aggressive behavior, want always to sell high prices, in phone said 100 when i went there he said 200 and we agreed 150,\nAnyway you get what you paying. So lesson learnt\n\nThank you for the respectful answer, and you are correct 🌹",
+   "owner_reply": "Hi. Brother<br>Why are you satisfied with the price.<br>You cheng the quality. Because of this   The price allso chenged. You are a wise human being. Why are you willing to pay this amunt befor starting work ?  We acted on your request …..  thank you 🌹"
+  },
+  {
+   "author": "Pretheesh Thomas",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Great installation service. Good people to work with. They listen to you and do things the way you like. Will visit again.",
+   "owner_reply": "🙏🌹"
+  },
+  {
+   "author": "MONZA ILYAS MONZA ILYAS",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "The best place To put tinting here i have experience with them a lot cars they always treat well the customer and give them good price i prefer whenever you want put tinting,lights or some other work you can come here their price are very good and they take good care of the car after finishing their job  🤙🤙🤙🤙🤙",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    996
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1548
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1440,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    378,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    385,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    512,
+    465
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/hani-car-accessories-albarsha-2/",
+ "buy_likelihood": 8
+}

@@ -1,0 +1,33 @@
+{
+ "preset": "midnight-teal",
+ "theme": {"accent": "#F0A830", "accent_text": "#F5B94F", "on_accent": "#1A1206", "duo": "#5A3F12", "busy": "#B37A1C", "glow": "rgba(240,168,48,.15)", "band_accent": "#A8691A", "display": "\"Bebas Neue\",Impact,sans-serif", "google_fonts": "family=Bebas+Neue&family=Figtree:wght@400;500;600&family=Cairo:wght@700", "dw": "400", "dtrack": "0.02em", "dcase": "uppercase", "dlh": ".9", "h1lh": ".88", "h1max": "150px"},
+ "brand": {"name": "Fitnation", "sub": "Gym · Al Rawda, Ajman", "mark": "F", "footer_word": "FITNATION"},
+ "seo": {"title": "Fitnation Gym Ajman | Open till 4 AM · Al Rawda 2, Sheikh Ammar Street", "description": "Fitnation Gym, Sheikh Ammar Bin Humaid Street, Al Rawda 2, Ajman: modern bodybuilding machines, functional turf, boxing, cycling and personal training. Open 6 AM to 4 AM. 4.7 from 132 reviews."},
+ "hero": {"variant": "full", "kicker": "Sheikh Ammar Street · Al Rawda 2 · Ajman", "title_lines": ["Train at 6 AM.", "Or at 3 AM."],
+   "lede": "Top-line bodybuilding machines, a turf zone, boxing bags and bikes, with a manager who knows every member. Open from 6 AM until 4 AM, almost every day.",
+   "image": "img/hero.jpg", "image_alt": "Fitnation gym floor with branded carpet and machines", "secondary": {"label": "Inside", "href": "#gym"}},
+ "cta_label": "Ask about membership", "cta_text": "Hi Fitnation Gym, I'd like to know your membership prices.",
+ "proof_note": "132 reviews",
+ "address_lines": ["Fitnation Gym, Sheikh Ammar Bin Humaid Street", "Al Rawda 2, Ajman"],
+ "socials": {"instagram": "fitnationgymss"},
+ "ticker": ["Open till 4 AM", "Bodybuilding", "Functional turf", "Boxing", "Cycling", "Personal training"],
+ "sections": [
+  {"type": "services", "id": "gym", "nav": "The gym", "eyebrow": "Inside", "title": "Modern kit,", "title_dim": "late hours.",
+   "items": [
+    {"name": "Bodybuilding machines", "feature": true, "img": "img/racks.jpg", "alt": "Plate-loaded machines", "desc": "Top-of-the-line plate-loaded and selectorised machines.", "quote": "I've been a member for over a year and have really noticed the positive changes recently.", "cite": "Ashraf K."},
+    {"name": "Functional turf", "img": "img/turf.jpg", "alt": "Turf area with red rig", "desc": "Sled pushes, conditioning and rig work."},
+    {"name": "Boxing zone", "img": "img/boxing.jpg", "alt": "Heavy bags on a red wall", "desc": "Heavy bags and pad work."},
+    {"name": "Cycling & cardio", "img": "img/bikes.jpg", "alt": "Spin bikes", "desc": "Bikes, treadmills and cardio machines."},
+    {"name": "Kids & personal training", "img": "img/kid.jpg", "alt": "Coach doing pad work with a child", "desc": "Coaching for all ages."}
+   ],
+   "perks": ["Open 6 AM – 4 AM (Fri 4 PM – 2 AM)", "Personal training", "Instagram @fitnationgymss"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Beat the crowd", "title": "Night owl?", "title_dim": "We're open till 4."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Arshad, Noufal", "title_dim": "and Coach Anas.",
+   "items": [{"name": "Arshad", "count": 3, "role": "Gym manager", "quote": "The gym manager is very helpful and always makes sure everyone feels welcome.", "cite": "Google reviewer"}, {"name": "Noufal", "count": 3, "role": "Coach"}, {"name": "Coach Anas", "role": "Coach"}]},
+  {"type": "gallery", "images": [{"src": "img/dumbbells.jpg", "alt": "Dumbbell rack", "wide": true}, {"src": "img/logo.jpg", "alt": "Neon Fitnation logo"}, {"src": "img/bag.jpg", "alt": "Lift and Fight heavy bag"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Ask for this month's offer.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a monthly membership?", "Do you have personal training packages?", "Are there kids' boxing classes?", "Do you have ladies' timings?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Rawda 2,", "title_dim": "Ajman."}
+ ]
+}

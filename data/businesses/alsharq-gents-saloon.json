@@ -1,0 +1,1096 @@
+{
+ "slug": "alsharq-gents-saloon",
+ "name": "Alsharq gents saloon",
+ "place_id": "ChIJ_Scpht1dXz4RVoyg5IRTkvw",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Deira, Dubai",
+ "address": "1B St - Port Saeed - Deira - Dubai - United Arab Emirates",
+ "building": "Peter Saad Businessmen Services",
+ "location": {
+  "lat": 25.263493,
+  "lng": 55.3303718
+ },
+ "phone": "+971 54 722 9787",
+ "rating": 4.9,
+ "userRatingCount": 742,
+ "rating_distribution": {
+  "oneStar": 13,
+  "twoStar": 3,
+  "threeStar": 4,
+  "fourStar": 29,
+  "fiveStar": 693
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Alsharq%20gents%20saloon&query_place_id=ChIJ_Scpht1dXz4RVoyg5IRTkvw",
+ "website": "",
+ "categories": [
+  "Barber shop",
+  "Spa"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 1 AM"
+  }
+ ],
+ "owner_description": "We are proud of the very high evaluation from customers, and this is the greatest evidence of our continued success😉😉",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking garage": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "foot spa",
+  "manicure",
+  "polite staff",
+  "skilled staff",
+  "foot scrub",
+  "beard trim",
+  "complimentary facial",
+  "skin fade",
+  "Barber Omar",
+  "Classy service"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 51
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 46
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 55
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 59
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 48
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 46
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 53
+   }
+  ]
+ },
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Павел Горяинов",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "A good barbershop – excellent value for money.\nThe barber Ibrahim (from Egypt) gave me a haircut with great technique and good communication.\nI liked the final result.",
+   "owner_reply": "We appreciate your kind words about our team and we are so happy to have you as a part of our family 🌹🌹🌹"
+  },
+  {
+   "author": "kishore CMA",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I visited this shop after seeing the reviews, and it truly lived up to my expectations! Mr. Mukhtar is an amazing barber who takes his time and pays attention to every detail, making sure the haircut is exactly as requested. Highly recommended for anyone looking for a great haircut and excellent service!",
+   "owner_reply": "We appreciate your kind words about our team and our service and we are looking forward to seeing you soon ❤️❤️"
+  },
+  {
+   "author": "Repon Mohammed",
+   "rating": 4,
+   "when": "2 weeks ago",
+   "text": "This saloon is really professional and all staffs are amazing! They also offered me Turkish coffee, great hospitality, I had wonderful time. Highly recommend",
+   "owner_reply": "We appreciate your kind words and we are looking forward to seeing you soon 😊😊😊"
+  },
+  {
+   "author": "Ebdullah Khan ABK",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I came to this place to only get a haircut and I ended up getting my beard trimmed, a proper facial done and a body massage. I would never Forge. I would recommend everyone in the Deira And Dubai area to come to this salon. It is the best men’s salon. You can find in Dubai. For hair and beard styling ask for Ibrahim. For facial and massage, ask for Rem. Best!",
+   "owner_reply": "We appreciate your kind words about our team and our service and we are very happy to have you as a part of our family 🌺"
+  },
+  {
+   "author": "Thomas LOFFET",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent barber shop in Dubai! I had a haircut and beard trim, and the young barber who looked after me was extremely kind, professional, and meticulous. He took his time and paid great attention to every detail, which made the whole experience very pleasant and relaxing. I’m really happy with the result and highly recommend this place!",
+   "owner_reply": "We are so happy to hear that you’re enjoying and relaxing with our service and we are so excited to see you soon ❤️"
+  },
+  {
+   "author": "Ariel Dijamco",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great place to have manicure & foot spa. They have affordable offer. The service are great and worth to spend. Staffs (Ram & Camille) who did the service are friendly & accommodating. So come on and try this place!",
+   "owner_reply": "We are so happy to hear that you’re satisfied with our service and we are happy to have you as a part of our team 🌺🌺"
+  },
+  {
+   "author": "Haider Ali",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had a wonderful experience at the Salon. I am a regular now. The team is really friendly. Got my hair and beard done by Ibrahim Yousaf who is just awesome.",
+   "owner_reply": "We appreciate your kind words about our team and we are looking forward to seeing you soon 👍"
+  },
+  {
+   "author": "Ali Khalil",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Excellent barber shop, very clean. Omar is a very professional guy, make sure you ask about him. In case you wanna do your nails ask for Lani. Overall I am very happy with the experience",
+   "owner_reply": "We appreciate your kind words about our team and we are so happy to have you as a part of our family "
+  },
+  {
+   "author": "Lance Briones",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Mukhta (golden Boy) is an amazing barber. I had one of the best fades with him. Truly talented.",
+   "owner_reply": "We appreciate your kind words about our team and our service and we are looking forward to seeing you soon 😊😊"
+  },
+  {
+   "author": "Gim Sadol",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "One of the best salon for men. The haircutter/barber Ibrahim really knows the job and knows exactly what I wanted. This will always be my go to barber shop wherein also very near to my place and affordable.",
+   "owner_reply": "We are so happy to hear that you’re satisfied with one of our team and we are excited to see you again ❤️❤️"
+  },
+  {
+   "author": "Mohamed Ahmed",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The best hair cut in Dubai really goo people and help me always to look amazing in my personal life and my work\nThank you so much for hard work and commitment omar the best man in salon\nAgain thank you for the full cleaning and service",
+   "owner_reply": "We appreciate your kind words about our team and we are so happy to see you soon🌺🌺"
+  },
+  {
+   "author": "Zain H",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "It's a great experience overall. Omar has good communication and understanding of requirements. Overall the best barber for all types of requests",
+   "owner_reply": "Thank you for your kind words about our team and we are so excited to see you again ❤️❤️"
+  },
+  {
+   "author": "Mousa Amiri",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Highly professional and extremely customer-focused! The salon was very clean and well-maintained. Special thanks to Mr. Ebrahim for the great service!",
+   "owner_reply": "We appreciate your word about our team and we are so happy to have you as part of our family ❤️❤️"
+  },
+  {
+   "author": "Shoaib Sayyed",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Awesome service! Ibrahim was good better suggestions and make you comfortable. Top notch service",
+   "owner_reply": "Thank you for your kind words about my team and we are so happy to have you as a part of our family "
+  },
+  {
+   "author": "Lewis Mok",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very good haircut and the staff is very professional and patient.\nMukhtar (golden boy)",
+   "owner_reply": "We appreciate your kind comments about our team and we are happy to have you as a part of our family "
+  },
+  {
+   "author": "Fahd Ben Dhaou",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Best saloon ever, they have amazing service, warm welcome and talented staff always smiling and happy to help their clients",
+   "owner_reply": "Thanks for your kind words and we are so happy to have you as a part of our family ❤️"
+  },
+  {
+   "author": "Selon Salin",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "(Golden boy)mukhtar the best haircut ever made by this man I am really happy and I feel my  energy back now thank you Mr mukhtar 🙏🏻🙏🏻❤️",
+   "owner_reply": "We are so happy to hear that you’re satisfied with one of our team and we are looking forward to seeing you soon 😊😊"
+  },
+  {
+   "author": "Ramuel Ancasan",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Try to visit at Al Sharq salon this very recommended and trusted and also very accommodating staff thank you guys for good service to me as your regular client..",
+   "owner_reply": "Thank for your kind comment about our team ❤️❤️"
+  },
+  {
+   "author": "Jerwin Ramirez",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "To all kabayan and other nationality here in dubai most of specially closer in our shope, al sharq gents saloon, al rigga and muraqabbat area. Im sharing you this salon to give you a good quality service. We have also promo manicure pedicure and footspa. . For more details just visit us or call us.",
+   "owner_reply": "Thanks jerwin and hope see you soon 🌹🌹🌹"
+  },
+  {
+   "author": "Muhammed Musthafa",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had a very good experience at Alsharq Gents Saloon. The shop is clean and well maintained. Mr. Ibrahim cut my hair and he did an excellent job. He is very professional, friendly, and understands exactly what style you want.\n\nI am very happy with the haircut. Highly recommended! 👍",
+   "owner_reply": "We are so happy to hear that you’re happy with our service and we are so glad to see you again 🌹🌺🌹🌺"
+  },
+  {
+   "author": "mohamed darwiesh",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Experience & well educated stuff .especially Ibram  he created my hairstyle cut as piece of art . Thank you 😊",
+   "owner_reply": "We are so happy to hear that you’re satisfied with one of our team and we are looking forward to seeing you soon 🥰🥰"
+  },
+  {
+   "author": "Jishnu Saji",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Done a Haircut and Bear shape from Mr Ibrahim .. Such a professional guy … really loved the experience.. such a talented guy",
+   "owner_reply": "We appreciate your kind words about our team and we are so happy to have you as a part of our family 🥰🥰"
+  },
+  {
+   "author": "Sameer Chaudhry",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "⭐⭐⭐⭐⭐\nMukhtar did an absolutely brilliant job with my hair. The haircut is sharp, modern, and incredibly flattering — I genuinely look 10 years younger. I’ve been to some of the best salons in New York, and I can honestly say I’ve never had results this good.\n\nThe color was done beautifully, very natural and well balanced, and to top it off they even included a complimentary facial, which was a fantastic bonus. Professional, attentive, and extremely skilled — Mukhtar clearly knows his craft.\n\nHighly recommended. I’ll definitely be back.",
+   "owner_reply": "We appreciate your kind comments about our team and we are very excited to see you soon 🌹🌹"
+  },
+  {
+   "author": "zayood",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "One of the best barber shop in dubai\nIbrahim is the most professional guy there",
+   "owner_reply": "Thanks for your kind words about our team and we are so happy to have you as a part of our family 👍"
+  },
+  {
+   "author": "Kamran Khan",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I had an outstanding experience with Ibrahim, and I can confidently say he is one of the best in hair cutting. His skills, attention to detail, and professionalism are truly impressive. Ibrahim took the time to understand exactly what I wanted and delivered a haircut that exceeded my expectations.\nHe is very polite, friendly, and makes you feel comfortable throughout the session. The hygiene and cleanliness standards are excellent, and the overall environment is relaxing and well-organized. Ibrahim clearly knows the latest styles and techniques, and his work shows passion and dedication.\nI would highly recommend Ibrahim to anyone looking for high-quality hair cutting and professional service. Once you get a haircut from him, you won’t want to go anywhere else",
+   "owner_reply": "We are so happy to hear that you’re satisfied with our team and we are looking forward to seeing you soon 🌹🌹"
+  },
+  {
+   "author": "Omar Shboul",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Great service, one of the best barbershops nearby, with affordable prices. The staff are very friendly and welcoming.\n\nMukhtar is highly professional and gives excellent haircuts. Omar and Mohammad are also very friendly and great to deal with.\n\nHighly recommended.",
+   "owner_reply": "We appreciate your kind comments and we are excited to see you again ❤️❤️"
+  },
+  {
+   "author": "Sharon Nelson",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Alsharq Gents Saloon never disappoints. I’ve visited three times now and have always been attended by Ibrahim. His service quality, attention to detail, and professionalism are excellent. I’m very satisfied and will definitely continue coming back.",
+   "owner_reply": "We appreciate your kind comments about our team and we are very excited to be as a part of our community 🌹🌹"
+  },
+  {
+   "author": "Sreekumar A.K",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is my favorite saloon! They’re super professional, and the place is always spotless. My go-to specialist, Mr. Mohamed, is an absolute hair-cutting master! Plus, I love getting pedicures and manicures. The prices are also quite reasonable.",
+   "owner_reply": "🌹🌹🌹"
+  },
+  {
+   "author": "Mubashir Rahman",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Best saloon\nI came for headshave and beard dressing and ibrahim changed my look",
+   "owner_reply": "We are so happy to hear that you’re satisfied with our service and our team and we are looking forward to seeing you soon 😊"
+  },
+  {
+   "author": "Talha khan",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "One of the best barbar Mr. Golden boy(mukhtar),very hard working very sincere with there work and thats why due to there best work i always coming from Arjan which is 25-30km away.\nBest wishes for him and May God blessed him with all the things for which they travel to this country.",
+   "owner_reply": "Thanks for your kind words about your experience with our staff and we’re glad to see you soon "
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    733,
+    1098
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1440
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    243,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    243,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    243,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    243,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    243,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/alsharq-gents-saloon/",
+ "buy_likelihood": 8,
+ "notes": "4.9 from 742, replies to 100%, has a printed price list (site uses it).",
+ "display_name": "Al Sharq Gents Saloon"
+}

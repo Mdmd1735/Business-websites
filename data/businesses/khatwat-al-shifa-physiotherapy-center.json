@@ -1,0 +1,381 @@
+{
+ "slug": "khatwat-al-shifa-physiotherapy-center",
+ "name": "Khatwat Al Shifa Physiotherapy center L.L.C , مركز خطوه الشفاء للعلاج الطبيعي ذ.م.م",
+ "place_id": "ChIJ6VKw5mBbXz4RMJPsdCFfWew",
+ "category": "physiotherapy clinic",
+ "category_weight": 14,
+ "area": "Al Majaz, Sharjah",
+ "address": "Al Majaz 1 Crystal plaza Block C - 804 - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3445962,
+  "lng": 55.3862188
+ },
+ "phone": "+971 6 524 0001",
+ "rating": 4.9,
+ "userRatingCount": 124,
+ "rating_distribution": {
+  "oneStar": 2,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 2,
+  "fiveStar": 120
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Khatwat%20Al%20Shifa%20Physiotherapy%20center%20L.L.C%20%2C%20%D9%85%D8%B1%D9%83%D8%B2%20%D8%AE%D8%B7%D9%88%D9%87%20%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D8%A1%20%D9%84%D9%84%D8%B9%D9%84%D8%A7%D8%AC%20%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%20%D8%B0.%D9%85.%D9%85&query_place_id=ChIJ6VKw5mBbXz4RMJPsdCFfWew",
+ "website": "",
+ "categories": [
+  "Medical Center"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 9 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 9 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 9 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 9 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "Closed"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 9 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 9 PM"
+  }
+ ],
+ "owner_description": "نقوم بعلاج جميع حالات العظام و الاعصاب و العضلات و الاصابات الرياضية و علاج اعادة تأهيل الاطفال و الكبار.في السن\nWe treat all orthopedic, neurological, sports injuries and muscles problems and rehabilitation of kids , babies and old people",
+ "amenities": {
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   }
+  ]
+ },
+ "review_tags": [
+  "Physical therapy",
+  "Physical therapy center",
+  "Dr. Najah",
+  "back pain treatment",
+  "dry needling",
+  "acl surgery",
+  "Cleanliness of the center",
+  "Recovery sessions",
+  "Manual therapy",
+  "attentive team"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "Neamat Almasri",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "The best PT center in town! Visiting from the US and in urgent need of PT, finding Dr. Najah and her outstanding team was truly a lifesaver. Exceptional care and professionalism. So grateful to the entire team! Highly recommend! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Bayan Ashrafi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I highly recommend this physiotherapy center! From the moment you walk in, you are welcomed by a wonderful, clean, and positive atmosphere. The entire team is incredibly kind and attentive. A special and heartfelt thank you to Dr. Najah and Dr. Areej\n\nthey gave me their full concentration, listened closely to my concerns, and conducted thorough, precise diagnostic tests to find the exact issue. Their care and attention to detail made all the difference in my recovery. Everything about this place is excellent!",
+   "owner_reply": "Thank you wishing you continued health and wellness."
+  },
+  {
+   "author": "Talah Baytam",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I went to Royal Care Physiotherapy center with severe back pain and muscle spasms throughout my entire back. I could barely walk, I was losing my balance, and my muscles were very weak. I was in a really bad condition.\n\nFrom the moment I started treatment here, everything changed. Dr. Najah and Dr. Elhan helped me so much. They worked carefully on all the weak points in my body and truly understood my pain. Their professionalism, knowledge, and kindness made a huge difference in my recovery.\n\nThe entire team is amazing — from the receptionist to the doctors. Everyone is welcoming, respectful, and genuinely caring. You feel supported the moment you walk in.\n\nI am extremely grateful to this center and especially to Dr. Najah and Dr. Elhan. Thank you all so much for everything you’ve done for me. I truly appreciate you and highly recommend this place.",
+   "owner_reply": "We’re so happy you enjoyed your visit,thanks for the great review.<br>"
+  },
+  {
+   "author": "Hasan Othman",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Amazing experience! I had neck pain and felt a big improvement from the second session. The treatment was great, and the staff were very friendly and professional. 🙏🏻 and Thanks",
+   "owner_reply": "Thank you for your amazing feedback we look forward to welcoming you again."
+  },
+  {
+   "author": "Rashid Almheiri",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very Professional Treatment. A must to all who a regular amd active sportsmen.  It renergizes the body and clears any muscle issues. I highly recomend Dr. AHMAD and Dr. SALMAN.",
+   "owner_reply": "Thank you Mr rashid see u again."
+  },
+  {
+   "author": "Ahmed Sam",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Dr. Ahmed Abbas has been a great help and support to me in my knee and hip rehab. I cannot thank him and the team enough for all their help and expertise. I come from dubai driving 45 minutes minimum weekly because it is the best service. I definitely recommend this clinic to any athlete. Thank you team",
+   "owner_reply": "We’re grateful for your feedback and your confidence in our team."
+  },
+  {
+   "author": "Hamze Sidaoui",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Had a great physio session with Dr Ahmad. He was professional, attentive, and clearly knowledgeable. He explained everything well and made sure I was comfortable throughout.",
+   "owner_reply": "Thank u so much for your feedback and we are happy to hear that from you .. you are always welcome !"
+  },
+  {
+   "author": "Sudarshan Khadka",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "excellent service with professional and friendly staff. The physiotherapists are skilled, attentive, and explain treatments clearly. The clinic is clean, well-equipped, and well-managed. I noticed good improvement in my condition. Highly recommended for quality physiotherapy care.",
+   "owner_reply": "Thank you for your lovely feedback,we’re always happy to help you."
+  },
+  {
+   "author": "Sami Mohamed",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Best in town! Amazing people and outstanding specialists. They truly excel in manual therapy and don’t rely solely on machines. You feel genuinely cared for every step of the way.",
+   "owner_reply": "It was a pleasure having you with us,thanks for the lovely review."
+  },
+  {
+   "author": "Aariz abbas",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Great hospitality, very nice staffs and so much co operative.\n\nSpecial thanks to Dr Areej and everyone.\nAwesome service.",
+   "owner_reply": "We appreciate you taking the time to leave us a review."
+  },
+  {
+   "author": "jack jackson",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Dr. Salman’s sesh was nothing but pure relaxation. Loved it, and would recommend it to any athlete. ☝️👏",
+   "owner_reply": "Thank u so much for your kind comment.. and you are always welcome!"
+  },
+  {
+   "author": "Rami Sabra",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I visited the center after feedback from friends to do a full body recovery. The experience was amazing (painful but worth it) I feel like a new person after my session.\n\nStaff are very friendly, and Dr. Monther was extremely friendly and knew exactly what he was doing. I will definitely be visiting again and again.\n\nThank you to all the team for a professional service. Looking forward to my next visit",
+   "owner_reply": "Thank you,,We are very happy to see your feedback and always ready to ease your pain and tightness<br><br>Waiting for your next visit and you are welcome at anytime"
+  },
+  {
+   "author": "Mohamed Alnabouda",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best physiotherapy center I’ve visited so far. Dr. Ahmed is very knowledgeable and professional, and the staff are extremely polite and respectful. Highly recommended",
+   "owner_reply": "Your review motivates our team to continue delivering high-quality physiotherapy care. thank you for choosing us."
+  },
+  {
+   "author": "jafar jafar",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I feeling better after i go to this centre\nVery helpful and skilled",
+   "owner_reply": "Thank you "
+  },
+  {
+   "author": "habib ullah",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I have been suffering from back pain for a year because of a car accident. I did many physiotherapies However, the royal physiotherapy treatment was way different and more efficient than the others. I had over 10 sessions with Royal Physiotherapy. I felt the difference after the third therapy. My lower back pain and sciatica had put me almost into depression. But now, after receiving the therapy I feel much better.\nI was visiting Dubai. I found Royal Physiotherapy on Google. When I went there for treatment it was a life changer for me. I am very happy that I went there for my treatment. I can’t say how much thankful I am to all the staff and workers there, specifically doctor Mohamad. They’re very sympathetic, professional, and experienced. They are the people who feel your pain as we say that “you have to believe in order to receive”. They believed in our treatment and I received the best treatment and services from them. I would like to thank everyone at the Royal Physiotherapy from the bottom of my heart. I highly recommend Royal Physiotherapy.",
+   "owner_reply": "We are really happy to hear that from you ,, you gave all of us a positive vibes to give our best treatment and energy to make you feel better and thanks god that we have achieved that,,we wish you a very happy and healthy life"
+  },
+  {
+   "author": "Jessica Macanas",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "It was my first time to undergo on the first session of physiotherapy at ROYAL CARE. And the result was so fully satisfied the session was very helpful to ease our body pain and feel the relaxation.a very recommended clinic even the staff in the reception and those Dr./Dra. are very friendly service.",
+   "owner_reply": "Thank you so much for your feedback and we are happy to ease your pain at anytime!"
+  },
+  {
+   "author": "zuher Almusre",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Out standing services",
+   "owner_reply": "Awesome thanks."
+  },
+  {
+   "author": "Kiyamo M",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Highly recommended to visit the Royal care physiotherapy center, مركز العناية الملكية للعلاج الطبيعي Super professional doctor, very attentive, most important sure you can noticed the difference. My lower back pain was disappeared after couple of sessions.🙏 Thank You All❤️",
+   "owner_reply": "Thank you for your feedback,, happy to treat and happy to hear that from you 🌸"
+  },
+  {
+   "author": "Heath B.",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "I have suffered with lower back pain for many years and Royal Care were recommended to me. I’m delighted to report after a course of treatment my pain is no longer - I can’t thank Royal Care enough - highly recommended",
+   "owner_reply": "We are happy to hear that,, thank you so much for your feedback about your experience in our center,, we appreciate it"
+  },
+  {
+   "author": "Jomanaalhalabi",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "All thanks and gratitude to Dr. Amanpreet Kaur, she is more than wonderful.",
+   "owner_reply": "Thank you for the great review, We truly appreciate appreciate your support."
+  },
+  {
+   "author": "A Al Afkham",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I want to thanks Dr. Ahmed for his hospitality and experience on the muscles",
+   "owner_reply": "It was our pleasure to assist you on your healing journey, thank you for your trust and recommendation."
+  },
+  {
+   "author": "Carolina MB",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Very profesional service, it helped me a lot. I will definitely come back. Thank you!",
+   "owner_reply": "We are very happy to hear that from you🌸 thank you so much for your feedback"
+  },
+  {
+   "author": "ajay rajeev",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Very nice place Mr Mohammad and Munzir are really experienced and really took good care",
+   "owner_reply": "Thank you for your feedback Mr Ajay and happy to hear that from you"
+  },
+  {
+   "author": "abdallah mehbeni",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "the staff they are professional they know what the do.",
+   "owner_reply": "Thank you so much for your kind review, we’re truly happy to be part of your recovery journey and wish you continued health and wellness."
+  },
+  {
+   "author": "Md Kawsar Md Kawsar",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Good",
+   "owner_reply": "Thank you see u next time ."
+  },
+  {
+   "author": "Vape Dubai",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Everything is all Very Good 👍",
+   "owner_reply": "Thank you for your wonderful review, We truly appreciate your support "
+  },
+  {
+   "author": "Janna Abusido (Jojo)",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Amazing love it here 🫶",
+   "owner_reply": "Thank you for the feedback and for your support us."
+  },
+  {
+   "author": "M M",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Great experience and professional/friendly staff, highly recommend it.",
+   "owner_reply": "Thank you Mahmood, we are happy to hear that from you 😍🙏"
+  },
+  {
+   "author": "Garo Kivork Chahanian",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "amazing for recovery",
+   "owner_reply": "Thank you for your feedback, hope to see u soon."
+  },
+  {
+   "author": "RANIA OTHMAN",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Amazing",
+   "owner_reply": "Thanks for trusting us with your care,we’re always here for you."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    512,
+    363
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/khatwat-al-shifa-physiotherapy-center/",
+ "buy_likelihood": 8
+}

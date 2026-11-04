@@ -1,0 +1,1127 @@
+{
+ "slug": "karimi-saloon",
+ "name": "Karimi Saloon ارایشگاه ایرانی کریمی",
+ "place_id": "ChIJXY_utEVdXz4RTy6tR4O66Us",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Deira, Dubai",
+ "address": "Viva Supermarket Building, Dubai Creek Plaza - M Floor Al Maktoum Rd - Al Muraqqabat - Al Rigga - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2609315,
+  "lng": 55.3212711
+ },
+ "phone": "+971 55 309 6648",
+ "rating": 4.9,
+ "userRatingCount": 590,
+ "rating_distribution": {
+  "oneStar": 7,
+  "twoStar": 1,
+  "threeStar": 3,
+  "fourStar": 6,
+  "fiveStar": 573
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Karimi%20Saloon%20%D8%A7%D8%B1%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%20%DA%A9%D8%B1%DB%8C%D9%85%DB%8C&query_place_id=ChIJXY_utEVdXz4RTy6tR4O66Us",
+ "website": "",
+ "categories": [
+  "Barber shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "1 to 11 PM"
+  }
+ ],
+ "owner_description": "Karimi Saloon is a Persian/Iranian Barbershop located in Al Rigga. We provide an authentic Premium Iranian experience and hospitality. We do all kind of haircuts and anyone from any nationality is welcome!\nحلاق إيراني في دبي\nصالون حلاقة إيراني في دبي\nآرایشگاه ایرانی در دبی\nآرایشگر ایرانی در دبی\nسالن ایرانی کریمی دبي\nصالون إيراني كريمي دبي\n\nارایشگاه ایرانی\nدبی سالن ایرانی\nدبی ارایشگاه ایرانی\nکریمی سالن\nسالن کریمی\nسالن ایرانی\nIranian barbershop Dubai",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   },
+   {
+    "Wheelchair accessible restroom": false
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "iranian barbershop",
+  "Iranian hair salon",
+  "professional barber",
+  "welcoming staff",
+  "detailed cut",
+  "Moroccan barber",
+  "modern cuts",
+  "head shaving",
+  "professional team",
+  "fresh haircut"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.1,
+ "reviews": [
+  {
+   "author": "Alireza Bayatsarmadi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had an outstanding experience at this Iranian barber shop in Dubai. Mr. Mohammad is highly skilled, pays great attention to detail, and truly understands different hair types and styles. My haircut and beard trim were done with exceptional precision, and the result exceeded my expectations.\n\nThe shop is spotless, the atmosphere is welcoming, and the staff are professional and friendly. They take their time to ensure everything is perfect without making you feel rushed.\n\nIf you're looking for a barber who combines experience, professionalism, and genuine customer care, I highly recommend this place. Without a doubt, one of the best barber shops in Dubai. I'll definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammad Karimi",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Tried this barbershop for the first time and had a great experience.\nAmir did an excellent job, very professional and skilled. The overall vibe and environment are really nice, and the team has a great attitude. Definitely coming back again!",
+   "owner_reply": null
+  },
+  {
+   "author": "mohammad maharmah",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had an amazing experience with Maysam. He really pays attention to every detail and makes sure you leave looking sharp. I got a clean fade and an Italian-style beard, and both turned out exactly how I wanted. Super professional, friendly, and clearly very talented at what he does. The fade was smooth, the beard styling was precise, and the overall service was top tier. Definitely one of the best barbers I’ve been to — highly recommended and I’ll for sure be coming back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Arash Nakhaei",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "💈\n\nI had a fantastic experience with Mohammad. His attention to detail is incredible — he really takes the time to understand the style you want and delivers it perfectly. He’s professional, polite, and very skilled with both haircuts and beard styling. The fade was clean and the beard shape was exactly what I asked for. Truly one of the best barbers in the city. I will definitely come back!",
+   "owner_reply": null
+  },
+  {
+   "author": "kishore Kumar",
+   "rating": 1,
+   "when": "a month ago",
+   "text": "Worst customer service experience.\n\nI have been trying to reach them to book an appointment, but they are not responding properly. Whenever they answer the call, they keep saying, “We will text you,” or ask me not to call and instead send a message on WhatsApp.\n\nEven after following their instructions and sending messages on WhatsApp, there is no response.\n\nVery disappointing service and poor communication. If customers have to repeatedly follow up just to book an appointment, the overall experience becomes extremely frustrating.",
+   "owner_reply": null
+  },
+  {
+   "author": "Bahram Hashimi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Great barber and an even better person.He makes sure I leave happy. Friendly, respectful, and talented — you feel comfortable the moment you sit in his chair. Thank you Mohammad",
+   "owner_reply": null
+  },
+  {
+   "author": "Bardia Derakhshan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best Iranian barber shops in Rigga! The staff are super skilled, especially with Persian-style haircuts and beard shaping. The place is always clean, welcoming, and they take their time to make sure you leave happy. Highly recommended if you want a sharp cut and good vibes. Will definitely come back!",
+   "owner_reply": "YOU'RE WELCOME EVERYTIME 😊 "
+  },
+  {
+   "author": "kishore CMA",
+   "rating": 1,
+   "when": "a month ago",
+   "text": "Extremely disappointing service. Getting an appointment is unnecessarily difficult. Calls are not handled properly, and WhatsApp messages are also ignored. Customer service definitely needs improvement.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aghil Azarhomayoun",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Great experience here! Got a precise haircut and neat beard trim, exactly how I wanted it. Professional, friendly, and attention to detail is spot on. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Faisal. Mohmand",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Yesterday I visited this Iranian salon and I was genuinely satisfied with their service. The staff were polite and professional, and the salon was clean and well-organized. The service was done carefully and with attention to detail, and the result was exactly what I wanted. The prices were also reasonable considering the quality provided. I would definitely visit again and highly recommend it.\nAmir Hossein took care of my service, and he did a great job.",
+   "owner_reply": null
+  },
+  {
+   "author": "Amine Boudrifa",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Wow, one of the most beautiful atmosphere barbershops, the vibes are amazing and the staff so humble and professional, thanks for Amine he was very professional i will recommend him for ppl whose looking for professional haircut.",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdelmounim Adib",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very nice salon that is always clean. The staff are all the best and very welcoming. There's always a good vibe. Thank you for the great service, and thank you Simo for always taking care of me.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alireza Izadi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best haircut experiences that i have in Dubai.\nMake sure to visit the place. Great value for the money.",
+   "owner_reply": "Thank you for the wonderful comment. We take great pride in our hospitality and customer service  ☺️🤝♥️"
+  },
+  {
+   "author": "matarr Gaye",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Nice men salon professional, clean and spacious. Thanks to the lady who take care me for pedicure she was so good.",
+   "owner_reply": null
+  },
+  {
+   "author": "Arash Afshar",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "It was a great experience in a warm atmosphere\nI can confidently tell Mohammad is the best Iranian barber in the city\nHis skill is top notch and I highly recommend him for those who value the quality and perfection",
+   "owner_reply": null
+  },
+  {
+   "author": "AZIMI YASER",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Absolutely Amazing service and great customer care. Highly recommend for everyone in Dubai.\nA professional team ready to serve you in best possible ways. Good to know you guys 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "Dr. Kamel Dallaa",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Vibes are the one of the best with their chill team and energy!! Amin best tunisian barber in town. Always coming back and good to see you brother",
+   "owner_reply": "Thanks 📿❤️🧿"
+  },
+  {
+   "author": "Poly K.",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Very cool and good service I received from Amir and very polite\nKeep up the great work\nSee you again\nHighly recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Mahmood Taghavi",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "I had a great experience with the barbershop, all the crew members are professional and welcoming specially Mr Mohammed who gave me a well detailed haircut. You can enjoy company of warm persian tea at the beginning and a fresh good looking hairstyle at the end .\nWould recommend to everyone 🔥",
+   "owner_reply": null
+  },
+  {
+   "author": "Homan Shemirani",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "By far the best barber I been to in Dubai. Super nice prices and the most professional team compared so many others I tried in Dubai. Thank you Mr Karimi for taking such good care of me 🌹",
+   "owner_reply": null
+  },
+  {
+   "author": "11 11",
+   "rating": 3,
+   "when": "7 months ago",
+   "text": "The haircut itself turned out good, but the overall experience was disappointing for the premium price.\nThe service felt unprofessional, with loud chatting between staff and the barber taking phone calls during the haircut.\nAt payment, he also seemed unhappy despite a AED 20 tip and then mentioned an extra 5% tax.",
+   "owner_reply": null
+  },
+  {
+   "author": "amin Khoddam",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a fantastic experience getting my hair cut here in Dubai! The staff were professional, friendly, and really listened to what I wanted. The haircut was done with great attention to detail, and the atmosphere was comfortable and welcoming. I left feeling fresh, confident, and very satisfied with the result. Highly recommend this place to anyone looking for top-quality service!",
+   "owner_reply": null
+  },
+  {
+   "author": "davoud bahrami",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I found this salon by accident — it’s an Iranian salon I came across randomly.\nI wish I had found it sooner! The place was really elegant and nice.\nThe staff were amazing — very polite and respectful. They did everything they could to help and made sure I was comfortable.\nMost importantly, the hairstylist Meysam was excellent — very professional at his job.\nI hope I can visit again in the future.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alireza Parsi",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Liked Mohammad attention to details. The cut was clean, detailed and not rushed at all. Ver friendly atmosphere at Karimi saloon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kian Moazeni",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Amazing hospitality and professional barber , mohammad was very welcoming and i definitely suggest everyone to come here",
+   "owner_reply": null
+  },
+  {
+   "author": "samira alboghobeish",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Mr. Karimi is by far the best barber i’ve had in Dubai! He will go above and beyond your expectations and give you a haircut you’ll love. The barbershop is a joyful and modern atmosphere, all of the barbers are very respectful and they make sure you feel right at home from the very first moment. Overall I am very pleased with the entire experience. I advise you to go here and not elsewhere, you will not be disappointed❤️👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Masoud Mansoori",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I’ve tried many barbers in the area, but Karimi Salon truly stands out.\nMohammad is extremely skilled with modern cuts and detail work, also Iman has a great eye for style and always gives the cleanest fades.\nThe shop is tidy, the atmosphere is friendly, and they actually listen to what you want.\nthis is the place for perfect haircut every time,",
+   "owner_reply": null
+  },
+  {
+   "author": "Farhad Rahimi",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "It was excellent, and I had a very good experience with Mr. Meysam.",
+   "owner_reply": null
+  },
+  {
+   "author": "Pooria Khademi",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "They are perfect in their work and manner.",
+   "owner_reply": null
+  },
+  {
+   "author": "mohamad javad",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Mohammad is a master at his craft. Great haircut and even better service. Highly recommended!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    500,
+    282
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1067,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1350
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1350
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/karimi-saloon/",
+ "buy_likelihood": 6,
+ "notes": "Scouted in batch 3, not built (few photos or inactive owner)."
+}

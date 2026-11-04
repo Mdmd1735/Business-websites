@@ -1,0 +1,974 @@
+{
+ "slug": "the-first-studio-gents-salon",
+ "name": "The First Studio Gents Salon",
+ "place_id": "ChIJVVWVpbJsXz4RIcBE3_iZf6o",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "JLT, Dubai",
+ "address": "Lakeside Residence - Shop B2 - Cluster A - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+ "building": "JLT Cluster A",
+ "location": {
+  "lat": 25.0665251,
+  "lng": 55.1382915
+ },
+ "phone": "+971 56 705 0925",
+ "rating": 4.8,
+ "userRatingCount": 363,
+ "rating_distribution": {
+  "oneStar": 10,
+  "twoStar": 4,
+  "threeStar": 8,
+  "fourStar": 18,
+  "fiveStar": 323
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20First%20Studio%20Gents%20Salon&query_place_id=ChIJVVWVpbJsXz4RIcBE3_iZf6o",
+ "website": "https://wa.me/message/PIEJKENJ5AC7F1",
+ "categories": [
+  "Barber shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 11 PM"
+  }
+ ],
+ "owner_description": "No Matter What Situations You Are In, The First Studio Professional Team Will Help You Look Awesome, Feel Great And More Confident.\n\nExecutive Men's Grooming. Cut, Shave & More. Great Value 💈 ✂️\n\nVisit Us In Cluster A, JLT, Dubai, UAE.\n\nWarm Welcome 💈",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   },
+   {
+    "Wheelchair accessible restroom": false
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "beard line up",
+  "polite team",
+  "skilled staff",
+  "quality haircut",
+  "clean salon",
+  "manicure",
+  "friendly welcome",
+  "grooming",
+  "cleanliness",
+  "spaciousness"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Dario Pannullo",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Amazing experience! Marco is a fantastic barber, very professional, friendly, and attentive to every detail. He really knows what he’s doing and makes sure you leave looking your best. Great service, great atmosphere, and a perfect haircut. Definitely one of the best barbers I’ve found in Dubai. Highly recommended! 💈🔥",
+   "owner_reply": "Thank you, Dario, for your amazing review! 🙏 We truly appreciate your kind words and are delighted to know you enjoyed the experience and loved your haircut. Your satisfaction means everything to us, and we look forward to welcoming you back for another exceptional experience! ✨"
+  },
+  {
+   "author": "alex2020",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Excellent experience from start to finish! The salon has a stylish atmosphere, a very professional team, and outstanding attention to detail. The service was top-notch, and the staff made me feel welcome and comfortable. Highly recommended for anyone looking for a quality grooming experience. Definitely coming back!",
+   "owner_reply": "Thank you for your feedback and support. We truly appreciate your trust and look forward to welcoming you back to our salon! "
+  },
+  {
+   "author": "omkar patil",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had a great haircut and beard trim by Khalid. After going home, I felt like I wanted to fade my hair a little more, so I went back again after some time.\n\nThe owner and Khalid were incredibly welcoming and accommodating. They told me to come back whenever I wanted until I was completely happy with my haircut.\n\nReally appreciate such attitude. Kudos!",
+   "owner_reply": "Thank you so much for the nice words Omkar  ❤️❤️"
+  },
+  {
+   "author": "Rob Charles",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "​Shoutout to my local barber! In a time when foot traffic is down across Dubai and small businesses are feeling the pinch, it’s more important than ever to stay local and remain loyal. The team here is exceptional, professional, polite, and consistently excellent at what they do. They treat every customer like family. Let’s rally behind our community staples. If you're due for a fresh cut, skip the mall and give these guys your business. You won’t regret it.",
+   "owner_reply": "Thank you so much for your support and nice words ❤️❤️"
+  },
+  {
+   "author": "Daniel Zimmermann",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Khalid is honestly the best barber in whole of Dubai.\nYou should definitely come and visit him.",
+   "owner_reply": "Thank you so much, Daniel! We truly appreciate your kind words and recommendation. It’s always a pleasure having you with us. See you again soon! 🙏"
+  },
+  {
+   "author": "Moiz Badshah",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had a great experience at First Studio. Adel did a great job cutting my hair as per the way I wanted. Overall experience and ambience is top notch.",
+   "owner_reply": "Thank you so much ❤️❤️"
+  },
+  {
+   "author": "Tahir Alam",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Great barber shop with very professional team , been always happy to cut my hair here , thank you guys",
+   "owner_reply": "Thank you, Tahir! We truly appreciate your continued support and trust. Always a pleasure having you with us! 🙏"
+  },
+  {
+   "author": "Ahmed Azke",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I’ve been getting my haircut from Hassan for a while now, and he never disappoints. His skills, attention to detail, and friendly attitude make every visit a great experience. He understands exactly what I want every time. Highly recommend him to anyone looking for a top-quality barber.",
+   "owner_reply": "Thank you so much Ahmed ❤️❤️"
+  },
+  {
+   "author": "Mark Tychemski",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Adel is one of the best barber here! Always go this salon for last half year ! Lovely service and very professionally!",
+   "owner_reply": "Thank you so much ❤️❤️"
+  },
+  {
+   "author": "Azeem Iqbal",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I’ve been getting my haircuts/beard done with Mido recently, he’s a great barber, would recommend",
+   "owner_reply": "Thank you so much ❤️❤️"
+  },
+  {
+   "author": "Stephan Broek",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Khaled was fantastic.  Great job on my hair. I can recommend him to anyone.",
+   "owner_reply": "Thank you so much ❤️❤️"
+  },
+  {
+   "author": "Marwan Shami",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Nice experience one of the best Salon I have visited I love the environment and employees are very gentle",
+   "owner_reply": "Thank you so much ❤️❤️"
+  },
+  {
+   "author": "Abdulsamet Çoban",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Adel is a very good man and he can make very nice classic cuts, this is my new barber",
+   "owner_reply": "Thank you so much ❤️❤️"
+  },
+  {
+   "author": "Lars Østergaard",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Had a quick nice haircut from Marco. Nice experience",
+   "owner_reply": "Thank you, Lars! Glad you had a nice experience with Marco. We look forward to seeing you again! 🙏"
+  },
+  {
+   "author": "Stuart Milne",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve been here 10 years. And this is the best barber in Dubai by far.",
+   "owner_reply": "Thank you so much ❤️❤️"
+  },
+  {
+   "author": "Xavier Dalpra",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Marco was the best. Best haircut. 10/10",
+   "owner_reply": "Thank you, Xavier! We’re thrilled you enjoyed the haircut and had such a great experience. We truly appreciate the 10/10 rating and your support. See you again soon! 🙏"
+  },
+  {
+   "author": "Erwina Miguel",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Thanks to Rose and Mohammed, for their professionalism and dedication to their work.. highly recommend! 🩷",
+   "owner_reply": "Thank you so much "
+  },
+  {
+   "author": "Tarek Balkis",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best barbershop in JLT, hands down! Its been hard finding the right barber to perfect a fade and beard. However i trust Hossam to trim my beard and fade my hair to my needs! He also has a great sense of style when it comes to styling! 10/10 recommended",
+   "owner_reply": "Thank you so much Tarek ❤️❤️"
+  },
+  {
+   "author": "Wail Kertimi",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Best experience ever I really enjoyed it and the staff are so amazing, especially Bashar he really took care of me, made me a good treatment and now I look better then ever haha\n\nHighly Recommended\n#Thank_you_Bashar 🔥",
+   "owner_reply": "Thank you so much Wail ❤️❤️"
+  },
+  {
+   "author": "Tom",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Very good service and staff, rose did an amazing job on my manicure and pedicure she has talent. And the guys did a great haircut for me.",
+   "owner_reply": "Thank you so much ❤️❤️"
+  },
+  {
+   "author": "Ivan Kornilov",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Very good place to make a new haircut)",
+   "owner_reply": "Thank you, Ivan! 🙌 We’re really glad you enjoyed your haircut and had a great experience with us. We truly appreciate your kind words and hope to see you again soon! ✂️✨"
+  },
+  {
+   "author": "Viren Sabnani",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Bshar was very professional . He did my hair cut exactly the way I asked him. Thank you soo much for a great service",
+   "owner_reply": "Thank you so much Viren ❤️❤️"
+  },
+  {
+   "author": "Valentin Meakin",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Great job from Khaled, always on point",
+   "owner_reply": "Thanks, Valentin! Always a pleasure having you. Appreciate the trust and support! 🙏"
+  },
+  {
+   "author": "Lazar Abben",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Had a haircut with Muhammad at First Studio Gents Salon.\n\nReally happy with it!\n\nThe place was cool and relaxing, and the barber was super friendly.\n\nMuhammad listened to what I wanted and did a fantastic job. He paid close attention to details, and I love the final style.\n\nDefinitely recommend this salon for a great haircut experience!",
+   "owner_reply": "Thank you so much Lazar"
+  },
+  {
+   "author": "Zeshan Sumnani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I moved to Dubai 3 months ago. Went to multiple barbers and couldn’t find the right match for my hair, was always let down with an average trim. I finally stumbled upon FADY. His fades are on point as well as his beard line up. 100% recommend. Facials and manicure as well!",
+   "owner_reply": "Thank you so much Zeshan ❤️❤️"
+  },
+  {
+   "author": "Shane O'Sullivan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I love having my hair cut here with Fadi , he is the best hair dresser /barber I’ve experienced in dubai .\nHe is EXCELLENT!!! I wouldn’t or couldn’t go to anyone else now.\n\nAlso the salon has a cool vibe and can get pedicure at the same time which is also good ⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": "Thank you so much ❤️❤️"
+  },
+  {
+   "author": "Ghulam Qasim",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Good place for grooming. Hussam is really gentle man, he knows what he is doing and gave me good beard cut and hair.\nShop ambiance is nice and pleasant.",
+   "owner_reply": "Thank you so much MR Ghulam ❤️❤️"
+  },
+  {
+   "author": "Bojan Radovic",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Absolutely loved this salon! Super professional and friendly team. They really listen and make you feel comfortable. I’m so happy with my hair and always coming back 🙌🏻",
+   "owner_reply": "Thank you so much Bojan ❤️❤️"
+  },
+  {
+   "author": "Welly Chen",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Bery good experience. Bshar is doing a good job on my hair. Recommend!",
+   "owner_reply": "Thank you very much Welly ❤️❤️"
+  },
+  {
+   "author": "Jack Mulholland",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Staff are very friendly and do a great job!",
+   "owner_reply": "Thank you so much ❤️❤️"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://wa.me/message/PIEJKENJ5AC7F1",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/the-first-studio-gents-salon/",
+ "buy_likelihood": 8,
+ "notes": "Owner replies to 100%, JLT executive barber. Few photos: offer a shoot.",
+ "display_name": "The First Studio Gents Salon"
+}

@@ -1,0 +1,30 @@
+{
+ "preset": "ocean-wash",
+ "theme": {"accent": "#E2683C", "accent_text": "#C2522A", "on_accent": "#FFFFFF", "surface_2": "#DDEBE8", "duo": "#BFDDD5", "busy": "#3E8A7E", "band_bg": "#0F2E2A", "band_accent": "#F59A6B", "dcase": "none", "dw": "800", "display": "\"Fraunces\",Georgia,serif", "google_fonts": "family=Fraunces:ital,opsz,wght@0,9..144,600;1,9..144,600&family=Archivo:wght@400;500;600&family=Cairo:wght@700", "dw": "600", "accent_on_photo": "#FFB38A"},
+ "brand": {"name": "The Grove", "sub": "Restaurant · Al Jerf, Ajman", "mark": "G", "footer_word": "The Grove"},
+ "seo": {"title": "The Grove Restaurant Ajman | Mangrove Views, Sunset Dining & Levantine Grills", "description": "The Grove, Al Ittihad Street, Al Jerf 1, Ajman: international and Levantine cuisine with floor-to-ceiling views over Ajman's mangroves and flamingos, breakfast to late-night shisha. Open 8 AM to 1 AM. 4.5 from 2,933 reviews."},
+ "hero": {"variant": "full", "ar_name": "ذا غروف", "kicker": "Al Ittihad Street · Al Jerf 1 · Ajman", "title_lines": ["Dinner over", "the mangroves."],
+   "lede": "International and Levantine plates, breakfast to late-night shisha, served on a deck facing Ajman's mangroves and lagoons, where flamingos come in at sunset.",
+   "image": "img/hero.jpg", "image_alt": "Sunset over the mangroves seen from The Grove's glass-walled dining room", "secondary": {"label": "Menu", "href": "#menu"}},
+ "cta_label": "Reserve on WhatsApp", "cta_text": "Hi The Grove, I'd like to reserve a table for sunset.",
+ "proof_note": "2,933 Google reviews",
+ "address_lines": ["The Grove Restaurant, Al Ittihad Street", "Al Jerf 1, Ajman"],
+ "ticker": ["Mangrove views", "Sunset deck", "Mixed grill", "Kunafa", "Breakfast", "Shisha", "Iftar"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "On the menu", "title": "Breakfast to", "title_dim": "late-night grills.",
+   "items": [
+    {"name": "Mixed grill", "feature": true, "img": "img/grill.jpg", "alt": "Mixed grill platter with fries", "desc": "Levantine grills for the table.", "quote": "Spacious, relaxing ambiance with a wonderful view of the mangroves. We caught the sunset and it was absolutely a must-see.", "cite": "Jun C."},
+    {"name": "Breakfast", "img": "img/benedict.jpg", "alt": "Eggs benedict with mushrooms", "desc": "Eggs, Arabic breakfast and coffee from 8 AM."},
+    {"name": "Pasta & mains", "img": "img/pasta.jpg", "alt": "Rigatoni with chicken", "desc": "Pasta, burgers and international dishes."},
+    {"name": "Lamb ouzi & biryani", "img": "img/lamb.jpg", "alt": "Lamb shank on rice", "desc": "Slow-cooked lamb and rice dishes."},
+    {"name": "Kunafa & shisha", "desc": "Dessert and shisha on the deck."}
+   ],
+   "perks": ["Open 8 AM – 1 AM", "Outdoor deck", "Iftar in Ramadan", "Family-friendly"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Sunset tables", "title": "Book for golden hour.", "title_dim": "It goes first."},
+  {"type": "gallery", "images": [{"src": "img/terrace.jpg", "alt": "Terrace at sunset", "wide": true}, {"src": "img/deck.jpg", "alt": "Shaded deck overlooking the mangroves", "wide": true}, {"src": "img/sunset.jpg", "alt": "Sunset over the mangroves"}, {"src": "img/interior.jpg", "alt": "Dining room with trees"}, {"src": "img/sign.jpg", "alt": "The Grove sign on a green wall"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "reserve", "eyebrow": "Reserve", "title": "Watch the sunset with us.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I reserve a deck table for sunset?", "Do you serve breakfast on weekends?", "Can you host a birthday group?", "Is there an iftar menu?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Jerf 1,", "title_dim": "Ajman."}
+ ]
+}
