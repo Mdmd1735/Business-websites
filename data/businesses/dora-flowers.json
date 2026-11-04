@@ -1,0 +1,1396 @@
+{
+ "slug": "dora-flowers",
+ "name": "Dora Flowers",
+ "place_id": "ChIJH1UWXMVcXz4Rcgq7XmTUd7E",
+ "category": "flower shop",
+ "category_weight": 9,
+ "area": "Deira, Dubai",
+ "address": "Al Mamura Building - 63 Al Rigga Rd - Al Muraqqabat - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2628209,
+  "lng": 55.3256664
+ },
+ "phone": "+971 4 297 5509",
+ "rating": 4.8,
+ "userRatingCount": 364,
+ "rating_distribution": {
+  "oneStar": 13,
+  "twoStar": 1,
+  "threeStar": 10,
+  "fourStar": 15,
+  "fiveStar": 325
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Dora%20Flowers&query_place_id=ChIJH1UWXMVcXz4Rcgq7XmTUd7E",
+ "website": "https://www.instagram.com/doraflowersdubai/",
+ "categories": [
+  "Florist",
+  "Flower delivery"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 11:30 PM"
+  }
+ ],
+ "owner_description": "Flower shop for all the special occasions of your life",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "In-store pickup": true
+   },
+   {
+    "In-store shopping": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Planning": [
+   {
+    "Quick visit": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "fresh flowers",
+  "custom bouquet",
+  "flower arrangement",
+  "accommodating staff",
+  "affordable flowers",
+  "bouquet making",
+  "hand bouquet",
+  "flower selection",
+  "elegant flowers",
+  "affordability"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 37
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 44
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 79
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 72
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 48
+   }
+  ]
+ },
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "Belinda Movido",
+   "rating": 1,
+   "when": "6 months ago",
+   "text": "I ordered a wedding bouquet 3 days ago, I even talked to the guy in the store to give me a very nice flowers I want  white fresh flowers for the reason it is for my wedding, and the guy told me that if I want fresh flowers he need time at least to request it so I adjust my timings for picking up to 10am instead of 9am (their time for opening) so my partner picked up the flowers 10am but unfortunately it turns out the flowers are not fresh, so many flaws and near to withered, I never been so disappointed like this. As a person who loves flowers I know its quality and I expected a lot but they really ruined my special day just seeing the flowers they made, and the fact I want to preserve the flowers because it must be special I ended up throwing it due to disappointment. Absolutely I will never trust their shop again. If they cannot make the request they better be honest or they just recommend other shop instead (If I just knew)",
+   "owner_reply": "Thank you for sharing your feedback. We are truly sorry to hear that the bouquet did not meet your expectations, especially for such an important occasion.<br><br>We would like to clarify that all our flowers are prepared fresh on the day of collection, and your order was handled with care. However, we understand that what you received did not reflect this, and we sincerely apologize for the disappointment this caused.<br><br>Your experience is not what we want for any of our customers, especially for a wedding. We are taking this matter seriously and reviewing it with our team to ensure better consistency and quality.<br><br><br>"
+  },
+  {
+   "author": "BK",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very special thank you to Mel for putting together some beautiful yellow roses for my friend’s birthday.  Highly recommend this florist. They have good prices and very high-quality flowers and a good selection.",
+   "owner_reply": "We’re grateful for your kind words and support. Your feedback motivates us to continue giving the best service possible."
+  },
+  {
+   "author": "Shella Mae Espiritu",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "When I saw my wedding bouquet I was so disappointed 😔 I even asked last night if it’s gonna be fresh not the displayed one, but looks like it’s the display roses they have last night not only the roses is old the small flowers is falling 🥺. Price is not worth it especially it’s special occasion 😔",
+   "owner_reply": "We’re truly sorry to hear that you were disappointed with your wedding bouquet. We would like to clarify that the bouquet was made using fresh, newly prepared flowers, not the displayed flowers.<br><br>We always do our best to prepare fresh flowers for every order, especially for special occasions. We’re sorry that the bouquet did not meet your expectations, and we would have been happy to address any concerns immediately if we had been informed upon pick up <br><br>We genuinely value your feedback and will take it into consideration to improve our service."
+  },
+  {
+   "author": "Angelita Pascua",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Thank you for the beautiful flower arrangement and for your prompt replies on WhatsApp, Ms. Rjane. Excellent customer service—highly recommended!",
+   "owner_reply": "Thank you for your kind words and for choosing DORA FLOWERS. We take pride in every floral arrangement we create and are grateful for the opportunity to make your moments more memorable. We look forward to welcoming you again. ✨💐"
+  },
+  {
+   "author": "Philip Pineda",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I ordered an anniversary flower arrangement from Dora Flower and it was absolutely perfect! The staff were so kind, helpful, and truly passionate about what they do. They listened to what I wanted and created a stunning bouquet that made our anniversary extra special. The flowers were fresh, beautifully arranged, and delivered with great care. Thank you, Dora Flower, for making such an unforgettable moment even more beautiful! Highly recommended!",
+   "owner_reply": "Thank you so much for your kind words! 💐 We’re truly happy you loved our service and flowers. Your support means a lot to us, and we look forward to serving you again soon."
+  },
+  {
+   "author": "Kyae Mhone",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is i can say one of my best Flowers shop ever, i’m very clingy by choosing flowers and color and style . but staffs are very patience and they create a very artistic boutique for me. With also fair price.. Love yahh 🤍",
+   "owner_reply": "Thank you so much for your kind words! We’re so happy to hear you enjoyed your experience with us. 💐"
+  },
+  {
+   "author": "Jennika Ijares",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "My to go flower shop 🌸💐 cant count from my fingers on how many times I’ve purchased from this shop. Also, you can call for advance order❤️ all the staffs are accommodating and easy to deal with.",
+   "owner_reply": "Thank you for sharing your beautiful photo! We’re so happy the flowers made your moment special. 🌸📸"
+  },
+  {
+   "author": "Noel Vinoya",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "It was my first time buying from Dora Flowers. I didn’t have any recommendations or suggestions online, I just happened to see the store while strolling around the area. I reached out to them on WhatsApp using the contact details on their Instagram page (@doraflowersdubai), and their customer service was very helpful. The staff I spoke with was accommodating and thoroughly explained everything I needed, including my preferred arrangements and flower types.\n\nThey conveniently reserved my order, and when I picked it up at the store, the staff even added extra roses, which made the experience even better. Their flowers are affordable, and the arrangements are beautiful. Strongly recommended!",
+   "owner_reply": "We sincerely appreciate your kind appreciation. Knowing that you’re very happy with our work motivates us to keep delivering our best. Thank you for choosing us!"
+  },
+  {
+   "author": "Eljan",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "All they needed was a 1 hr notice(travelled all the way from AUH to DXB) to make the bouquet. Thank you so much for the fast delivery🙏",
+   "owner_reply": "Thank you so much for your wonderful review! 🌸 We’re truly grateful for your support and are delighted to hear you had a great experience with DORA Flowers. We look forward to creating more beautiful floral arrangements for you in the future!"
+  },
+  {
+   "author": "Evalyn Mariano",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "They’ve been here for years, and we’re happy that they still provide excellent service up to now. This shop truly deserves a great review. Their flowers are always fresh, and the arrangements are top-tier. Plus, they are budget-friendly and not overpriced. We will definitely come back again soon. Thank you, Dora Flowers!",
+   "owner_reply": "Thank you! You’re always welcome here anytime. We’re glad you enjoyed your order — you made our day! 🌷🥰"
+  },
+  {
+   "author": "Trafalgar Law",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Absolutely loved the flowers! They were fresh, vibrant, and arranged so beautifully. The service was smooth and the staff were very accommodating. Thank you for making the gift so special.",
+   "owner_reply": "Thank you so much for your wonderful feedback and for giving us 5 stars! We truly appreciate your support and we’re happy to know you had a great experience with us. We look forward to serving you again soon!"
+  },
+  {
+   "author": "marie claveria",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Fresh flowers and superb arrangement with an affordable price!! 😍💐 Friendly and helpful staff for accommodating us 💗✨",
+   "owner_reply": "Thank you for taking the time to leave us a review. We truly appreciate your feedback and are delighted to know you had a positive experience with Dora Flowershop. Your support means a lot to our team."
+  },
+  {
+   "author": "Ariane Empron",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had a wonderful experience with this flower shop! the staff (kabayan) are very nice and approachable, and they made the ordering process easy and smooth. The flowers were beautiful and well arranged, Highly recommended! 💐 Maraming Salamat Po!🇵🇭",
+   "owner_reply": "Thank you so much for your kind words! 🌸 We’re thrilled to hear you enjoyed our flowers and service. Your support means the world to us, and we look forward to making more special moments unforgettable for you!"
+  },
+  {
+   "author": "Rjane Ebuenga",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Loved the freshness of the flowers. Good quality and fair pricing.",
+   "owner_reply": "Thank you for choosing Dora Flowers again! 💐<br>We’re grateful for your trust and always happy to serve you. See you again soon!"
+  },
+  {
+   "author": "Rejie Tanghian",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Buying beautiful bouquet for our friends celebrating bridal shower, its so amazing because the staff so friendly and very accommodating. I will 1000% recommend this shop",
+   "owner_reply": "Thank you for your kind words! Customers like you make our work so much more meaningful. Sending you love and appreciation! 💗😊"
+  },
+  {
+   "author": "paul garin",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Thank you, Ms. Rjane, for assisting me in choosing flowers for my wife. She really loved them. The flowers were fresh and beautifully arranged. I really appreciate your help and good service. Thank you! 🫶🏻",
+   "owner_reply": "Thank you for choosing DORA FLOWERS! We truly appreciate your support and look forward to creating more beautiful floral arrangements for your special moments. 💐"
+  },
+  {
+   "author": "rheese escartin",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Thank you Dora Flowers❣️ for the fresh and beautiful arrangement. I ordered 2 bouquets today and it was great😘",
+   "owner_reply": "We’re grateful for your kind words and 5-star rating! Your feedback means a lot to our team. Thank you for choosing us, and we hope to see you again soon."
+  },
+  {
+   "author": "Jeza Gono",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Their staff are very polite and give the best service 🥰 even the flowers are so fresh! and so affordable if you'll compared to the other flower shop. I'll definitely recommend this flower shop!",
+   "owner_reply": "Thank you for leaving us such a sweet review! 💛<br>We’re glad you loved our service and arrangement.<br>See you again at Dora Flowers!"
+  },
+  {
+   "author": "Charlene Ocampo",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Jomar and Arjane Very Nice, charming, Jolly person. Accommodating also. 🫶❣️",
+   "owner_reply": "Thank you so much for your positive feedback! We truly appreciate your support and are happy to know you had a great experience with us."
+  },
+  {
+   "author": "Clifford Mark Musni",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Nice floral arrangements. Staff are really friendly and the price is affordable.",
+   "owner_reply": "We’re so glad you loved the arrangement! 🌷<br>Thank you for your kind words.<br>We hope to create more beautiful blooms for you soon!"
+  },
+  {
+   "author": "SEF Group LLC",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Beautiful flowers, excellent  and great value. The arrangements are stylish and fresh, and the staff really know how to guide you based on your needs. One of the best flower shops I’ve visited.",
+   "owner_reply": "Thank you for your kind review! 🌸 We appreciate your support and look forward to serving you again soon. 😊"
+  },
+  {
+   "author": "Prinsha Gurung",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Absolutely loved the flower bouquet! The flowers were fresh, beautifully arranged, and exactly like the pictures. The service was also amazing — very friendly, responsive, and helpful throughout the order process. the packaging was perfect. Highly recommend this shop for anyone looking for beautiful flowers and great customer service!”",
+   "owner_reply": "Thank you for taking the time to share your feedback. We’re glad you were satisfied and we look forward to serving you again!"
+  },
+  {
+   "author": "Math Leyson",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Dora Flower Shop offers exceptional quality and service. Their floral arrangements are elegant, fresh, and thoughtfully designed. The staff is courteous and ensures every order is handled with care. A truly reliable and impressive flower shop.",
+   "owner_reply": "Your happiness is our biggest reward! 🌸 Thank you for letting Dora Flowers be part of your special moments. 💐✨"
+  },
+  {
+   "author": "charina banza",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Highly recommended!\n\nThe staff are friendly and easy to talk at first you just want to check but what to do nabudol na us gravi mka salestalk also compare to others their price is more reasonable.",
+   "owner_reply": "Thank you for sharing your experience with us. 🌼<br>We’re grateful for your positive feedback and happy to know everything went well.<br>We hope to serve you again!"
+  },
+  {
+   "author": "poy Ayen",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Beautiful flowers and excellent service. The staff was very helpful, and the bouquet looked amazing. Highly recommended!",
+   "owner_reply": "We appreciate your kind feedback! It inspires us to create more beautiful bouquets for our customers. 💐💕"
+  },
+  {
+   "author": "Marielle Casbadillo",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Great service and choices of flowers. Affordable and nice arrangement 💐🫶",
+   "owner_reply": "Thank you so much! 💛<br>We’re happy to hear you had a great experience with us.<br>Your feedback inspires us to keep doing our best!"
+  },
+  {
+   "author": "Alyssa Jane Albina",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "The staff in the shop were very accommodating, especially Kuya Melandro. He gave an excellent recommendation, and the arrangement turned out fantastic. The prices are also very affordable. I will definitely be coming back 🩷🌸✨",
+   "owner_reply": "Thank you from the bottom of our hearts for your lovely review! 🌸 Your kind words truly inspire our team. We’re so happy to have served you and can’t wait to see you again."
+  },
+  {
+   "author": "Alexander Louis",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Please Guy's give this place a visit you never gone be disappointed. its really beautiful when you find a shop where you are handled with too much care and attention, regardless your nationality. its really a good experience guy's and thanks alot for bringing close the most fresh and beautiful awesome flowers 💐 😊 in town . There are flowers for all prices and they can also customize  your choice. Much appreciated 🥰💥💯✌🏻👊🏼",
+   "owner_reply": "We appreciate your review, and we're thrilled you had a great experience with us! Don't be a stranger, come back and see us again soon!"
+  },
+  {
+   "author": "Kent Jasper Delos Reyes",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The staff Jomar, RJ, and Melandro at Dora Flower shop were incredibly knowledgeable and friendly. They took the time to understand my needs and helped me choose the perfect bouquet for a partner’s birthday. Their passion for flowers was evident, and they provided valuable tips on care and arrangement.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nikki Gabriel",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Got our prettty bride-to-be bouquet from Dora Flowers. Thank you R-jane and team for creating such a wonderful bouquet, diff shades of pink roses & petals matching our theme. Dora Flowers never disappoint. I would highly recommend! 💯",
+   "owner_reply": "Hi Nikki, thank you so much for taking a moment to rate us 5 stars! your kind words are sincerely appreciated by everyone on our team."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1283
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    379,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    309
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    400,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/doraflowersdubai/",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "doraflowersdubai"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {
+  "instagram": "doraflowersdubai"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/dora-flowers/",
+ "buy_likelihood": 8,
+ "notes": "Replies to 97%, Instagram active, florists sell on occasions. Two recent 1-star bridal complaints: a proper order flow helps.",
+ "display_name": "Dora Flowers"
+}

@@ -1,0 +1,34 @@
+{
+ "preset": "citrus-pop",
+ "theme": {"accent": "#E8501A", "accent_text": "#C33E0E", "surface_2": "#FFE6CF", "duo": "#FFC9A3", "band_bg": "#3A0F06", "band_accent": "#FFB347", "hero_ratio": "21/9", "display": "\"Yeseva One\",Georgia,serif", "body": "\"Mukta\",system-ui,sans-serif", "google_fonts": "family=Yeseva+One&family=Mukta:wght@400;500;600&family=Cairo:wght@700", "dw": "400", "dtrack": "-0.01em"},
+ "brand": {"name": "Vishakha's", "sub": "Dance & Music · Al Nahda", "mark": "V", "footer_word": "Vishakha's"},
+ "seo": {"title": "Vishakha's Dance and Music Training Institute | Kathak, Bollywood & Zumba, Al Nahda Dubai", "description": "Vishakha's Dance Academy, Suite 1103, Mai Tower, Al Nahda: Kathak, Bollywood, semi-classical, hip hop, salsa, Zumba and yoga for ages 4 to 85, in studio and online. Rated 5.0 from 156 reviews."},
+ "hero": {"variant": "stack", "kicker": "Suite 1103 · Mai Tower · Al Nahda", "title_lines": ["Kathak to Bollywood.", "Age 4 to 85."],
+   "lede": "An inclusive dance school led by Vishakha Verma: Kathak, Bollywood, semi-classical, hip hop, salsa, Zumba and yoga, in the studio or online, for every age and ability.",
+   "image": "img/hero.jpg", "image_alt": "Vishakha's students in festive outfits in the orange-walled studio", "secondary": {"label": "Classes", "href": "#classes"}},
+ "cta_label": "Book a trial class", "cta_text": "Hi Vishakha's Dance Institute, I'd like to book a trial class.",
+ "proof_note": "Perfect 5.0 · women-owned",
+ "address_lines": ["Vishakha's Dance and Music Training Institute", "Suite 1103, Mai Tower, Al Nahda 1, Dubai"],
+ "socials": {"facebook": "vishakhasdance"},
+ "ticker": ["Kathak", "Bollywood", "Semi-classical", "Hip hop", "Salsa", "Zumba", "Yoga", "Garba workshops"],
+ "sections": [
+  {"type": "services", "id": "classes", "nav": "Classes", "eyebrow": "Classes", "title": "Find your style,", "title_dim": "whatever your age.",
+   "items": [
+    {"name": "Kathak & semi-classical", "feature": true, "img": "img/orange.jpg", "alt": "Students in orange costumes after a performance", "desc": "Classical training with grace and discipline.", "quote": "Dance is not just about learning steps, it is about discipline, expression, confidence, and connection.", "cite": "Sutanni S."},
+    {"name": "Bollywood", "img": "img/festive.jpg", "alt": "Students in festive outfits", "desc": "Fun, high-energy classes for kids and adults."},
+    {"name": "Hip hop & salsa", "img": "img/hiphop.jpg", "alt": "Hip hop dancers posing", "desc": "Modern styles with guest choreographers."},
+    {"name": "Zumba & yoga", "desc": "Fitness classes for every level."},
+    {"name": "Garba workshops", "img": "img/garba.jpg", "alt": "Dancers in garba outfits", "desc": "Seasonal workshops before Navratri."},
+    {"name": "Online classes", "desc": "Join from anywhere in the UAE."}
+   ],
+   "perks": ["Ages 4 to 85", "Women-owned", "Online classes", "Good for kids"]},
+  {"type": "team", "id": "team", "nav": "Guru", "eyebrow": "Your teacher", "title": "Vishakha Verma.", "title_dim": "Named in 23 of our last 30 reviews.",
+   "items": [{"name": "Vishakha Verma", "count": 23, "short": "her", "role": "Founder & guru", "quote": "It's an amazing journey to teach students 4 to 85 years under your wonderful guidance.", "cite": "Meenu P."},
+             {"name": "Rishan", "count": 4, "role": "Instructor"}]},
+  {"type": "gallery", "images": [{"src": "img/certificates.jpg", "alt": "Students holding certificates", "wide": true}, {"src": "img/stage.jpg", "alt": "Annual show on stage", "wide": true}, {"src": "img/kids.jpg", "alt": "Young students with their teacher"}, {"src": "img/studio.jpg", "alt": "Group photo in the studio"}, {"src": "img/team.jpg", "alt": "Dancers in sarees"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Try a class.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can my child join a trial class?", "What are the Kathak class timings?", "Do you have online Bollywood classes?", "How much are monthly fees?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Mai Tower,", "title_dim": "Al Nahda."}
+ ]
+}

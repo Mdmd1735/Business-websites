@@ -1,0 +1,35 @@
+{
+ "preset": "emerald-gold",
+ "theme": {"bg": "#160D09", "surface": "#21140E", "surface_2": "#2D1C14", "accent": "#E3A33B", "accent_text": "#F0B85A", "on_accent": "#1E1108", "duo": "#5C3313", "busy": "#9C5A1C", "glow": "rgba(227,163,59,.16)", "band_bg": "#FBF3E6", "band_accent": "#9C3D12", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "Manasi", "sub": "Beauty Salon · Since 2004", "mark": "M", "footer_word": "Manasi"},
+ "seo": {"title": "Manasi Beauty Saloon | Henna, Packages & Nails in Meena Bazaar, Bur Dubai", "description": "Manasi Beauty Saloon in Meena Bazaar, Bur Dubai since 2004: bridal and Eid henna, gold facials, waxing, jacuzzi pedicure and nails, with all-day packages from AED 45. 4.7 from 458 reviews."},
+ "hero": {"variant": "split", "kicker": "Meena Bazaar · Bur Dubai · Since 2004", "title_lines": ["Henna, facials", "and packages", "since 2004."],
+   "lede": "A women-owned parlour in the heart of Meena Bazaar for bridal and Eid henna, gold facials, waxing, jacuzzi pedicures and nails, with all-day package offers that regulars swear by.",
+   "image": "img/hero.jpg", "image_alt": "Intricate henna on both hands", "secondary": {"label": "Packages", "href": "#packages"}},
+ "whatsapp": "+971 50 525 2506", "cta_label": "Book on WhatsApp", "cta_text": "Hi Manasi, I'd like to book a package.",
+ "proof_note": "Women-owned · 458 reviews",
+ "address_lines": ["Manasi Beauty Saloon, Zamzam Main Building", "Behind Bhavna Restaurant, Meena Bazaar, Bur Dubai"],
+ "socials": {"instagram": "manasisaloon"},
+ "ticker": ["Bridal henna", "Gold facial", "Waxing", "Jacuzzi pedicure", "Gel nails", "Hair henna", "Threading"],
+ "sections": [
+  {"type": "menu", "id": "packages", "nav": "Packages", "eyebrow": "Offer all days", "title": "Three packages,", "title_dim": "every day of the week.",
+   "categories": [{"name": "Packages", "items": [
+     {"name": "Package 1–8", "desc": "Gold facial, face bleach, full arms wax, underarms wax, half legs wax, eyebrows, upper lip, forehead. Usually AED 50", "price": "AED 45"},
+     {"name": "Package 1–11", "desc": "Everything above plus hot oil massage, hair henna and hair wash. Usually AED 80", "price": "AED 65"},
+     {"name": "Package 1–14", "desc": "Everything above plus manicure, pedicure and hair trim. Usually AED 110", "price": "AED 95"},
+     {"name": "Fruit wax upgrade", "desc": "With any package", "price": "+ AED 10"}]}],
+   "note": "From the salon's current offer flyer. Walk-ins accepted; booking recommended on weekends and before Eid."},
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Known for henna.", "title_dim": "Loved for the details.",
+   "items": [
+    {"name": "Bridal & Eid henna", "feature": true, "img": "img/henna-bride.jpg", "alt": "Bridal henna on hands with a pastel dress", "desc": "Fine, detailed designs for brides, Eid and parties.", "quote": "I loved my henna from here which I got done in Eid! Their beauty packages are super affordable.", "cite": "Reshma K."},
+    {"name": "Nails", "img": "img/nails-dots.jpg", "alt": "Polka-dot nail art", "desc": "Gel polish, extensions and nail art.", "quote": "Mavina is an absolute perfectionist.", "cite": "Vishakha S."},
+    {"name": "Facials & waxing", "img": "img/hair.jpg", "alt": "Soft waves after a hair treatment", "desc": "Gold facial, cleanups, bleach and full-body waxing."},
+    {"name": "Jacuzzi pedicure", "img": "img/henna-feet.jpg", "alt": "Henna on feet with sandals", "desc": "Relaxing pedicure and manicure."}
+   ],
+   "perks": ["Women-owned", "Walk-ins accepted", "Free Wi-Fi", "Complimentary drinks"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan around Eid", "title": "Busy before Eid.", "title_dim": "Come mid-morning."},
+  {"type": "gallery", "images": [{"src": "img/henna-arms.jpg", "alt": "Henna on forearms"}, {"src": "img/nails-pearl.jpg", "alt": "Pearl gel nails"}, {"src": "img/henna-yellow.jpg", "alt": "Bright henna design"}, {"src": "img/nails-wine.jpg", "alt": "Wine-red gel nails"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Meena Bazaar,", "title_dim": "Bur Dubai.", "landmark": "Behind Bhavna Restaurant, near Giordano"}
+ ]
+}

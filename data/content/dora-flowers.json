@@ -1,0 +1,29 @@
+{
+ "preset": "sage-spa",
+ "theme": {"bg": "#FBF6F4", "surface_2": "#F2E4E1", "accent": "#8E1B3A", "accent_text": "#7A1631", "duo": "#EBC7CF", "busy": "#B4475E", "band_bg": "#25120F", "band_accent": "#F2A7B8", "hero_ratio": "3/4", "frame": "arch"},
+ "brand": {"name": "Dora Flowers", "sub": "Florist · Al Rigga", "mark": "D", "footer_word": "Dora"},
+ "seo": {"title": "Dora Flowers | Florist & Flower Delivery on Al Rigga Road, Deira, Dubai", "description": "Dora Flowers, Al Mamura Building, 63 Al Rigga Road, Deira: hand bouquets, rose boxes, hat boxes, Mother's Day and birthday arrangements, bridal bouquets and delivery. Open 9 AM to 11:30 PM. 4.8 from 364 reviews."},
+ "hero": {"variant": "split", "ar_name": "دورا للزهور", "kicker": "Al Mamura Building · 63 Al Rigga Road · Deira", "title_lines": ["Flowers for", "every reason", "to say it."],
+   "lede": "Hand-tied bouquets, rose boxes, hat boxes and bridal flowers made while you wait on Al Rigga Road, or delivered across Dubai. Open until 11:30 PM for last-minute surprises.",
+   "image": "img/hero.jpg", "image_alt": "Large pink rose bouquet wrapped in pink paper", "secondary": {"label": "Arrangements", "href": "#flowers"}},
+ "whatsapp": "", "cta_label": "Call to order", "proof_note": "Replies to 97% of reviews",
+ "address_lines": ["Dora Flowers, Al Mamura Building", "63 Al Rigga Road, Al Muraqqabat, Deira, Dubai"],
+ "socials": {"instagram": "doraflowersdubai"},
+ "ticker": ["Hand bouquets", "Rose boxes", "Hat boxes", "Bridal bouquets", "Birthdays", "Mother's Day", "Same-day delivery"],
+ "sections": [
+  {"type": "services", "id": "flowers", "nav": "Flowers", "eyebrow": "Arrangements", "title": "Made fresh,", "title_dim": "made to order.",
+   "items": [
+    {"name": "Hand bouquets", "feature": true, "img": "img/wild.jpg", "alt": "Wild-style bouquet with dried grasses", "desc": "Roses, lilies, gypsophila and seasonal stems, wrapped your way.", "quote": "Very special thank you to Mel for putting together some beautiful yellow roses. They have good prices and very high quality.", "cite": "BK"},
+    {"name": "Rose & gift boxes", "img": "img/mom.jpg", "alt": "Heart box of red roses spelling MOM", "desc": "Rose boxes with chocolates for birthdays and Mother's Day."},
+    {"name": "Hat boxes", "img": "img/hatbox.jpg", "alt": "Gold hat box of mixed roses", "desc": "Round boxes packed with fresh blooms."},
+    {"name": "Bridal bouquets", "img": "img/white.jpg", "alt": "White rose bridal bouquet with pearls", "desc": "Ask on the phone with your date and colours."},
+    {"name": "Vase arrangements", "img": "img/vase.jpg", "alt": "Red rose vase arrangement", "desc": "Table and event arrangements."}
+   ],
+   "perks": ["Open daily 9 AM – 11:30 PM", "Delivery across Dubai", "In-store pickup", "Cards & Apple Pay"]},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The florists", "title": "Mel, Rjane", "title_dim": "and Jomar.",
+   "items": [{"name": "Mel", "count": 3, "role": "Florist"}, {"name": "Rjane", "count": 3, "role": "Florist"}, {"name": "Jomar", "role": "Florist"}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Dora Flowers storefront"}, {"src": "img/sunflower.jpg", "alt": "Sunflower bouquet"}, {"src": "img/redbox.jpg", "alt": "Red rose gift box"}, {"src": "img/teddy.jpg", "alt": "Flower box with teddy bear"}, {"src": "img/pink.jpg", "alt": "Pink peony box"}, {"src": "img/sign.jpg", "alt": "Dora sign"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Rigga Road,", "title_dim": "Deira."}
+ ]
+}

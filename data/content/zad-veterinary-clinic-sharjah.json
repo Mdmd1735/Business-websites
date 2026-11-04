@@ -1,0 +1,37 @@
+{
+ "preset": "clinic-mint",
+ "theme": {"accent": "#1B5FBF", "accent_text": "#174FA0", "surface_2": "#E0ECFA", "duo": "#C4D9F5", "busy": "#3C7BE0", "band_bg": "#0C2348", "band_accent": "#FFB04D", "frame": "round", "hero_ratio": "3/4"},
+ "extra_css": ".ticker{background:#FFB04D;color:#0C2348}.hero-split .hero__slab{background:#FFB04D}",
+ "brand": {"name": "ZAD", "sub": "Vet Clinic · Sharjah", "mark": "Z", "footer_word": "ZAD VET"},
+ "seo": {"title": "ZAD Veterinary Clinic Sharjah | عيادة زاد البيطرية | Vet, Grooming & Cat Boarding", "description": "ZAD Veterinary Clinic, Al Marija Street, Al Qasimiah, Sharjah: vet consultations, vaccinations, cat and dog grooming, boarding, rescue care and a pet shop. Open daily 9:30 AM to 10:30 PM. 4.7 from 721 reviews."},
+ "hero": {"variant": "split", "ar_name": "عيادة زاد البيطرية", "kicker": "Al Marija Street · Al Qasimiah · Sharjah", "title_lines": ["Vets who are", "gentle with", "nervous cats."],
+   "lede": "Consultations, vaccinations, grooming and boarding under one roof near the Sharjah animal market, with prices pet owners call very affordable. Open every day until 10:30 PM.",
+   "image": "img/hero.jpg", "image_alt": "ZAD vet holding a freshly groomed cat on the table", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi ZAD Vet Clinic, I'd like to book an appointment for my pet.",
+ "proof_note": "721 reviews",
+ "address_lines": ["ZAD Veterinary Clinic, Al Marija Street", "Al Jubail, Al Qasimiah, Sharjah"],
+ "ticker": ["Consultations", "Vaccinations", "Cat grooming", "Dog grooming", "Boarding", "Rescue care", "Pet shop"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Everything your pet needs,", "title_dim": "on one street.",
+   "items": [
+    {"name": "Vet consultations", "feature": true, "img": "img/exam.jpg", "alt": "Vet examining a cat beside a carrier", "desc": "Check-ups, vaccinations, treatment and rescue care.", "quote": "Their prices are very affordable without compromising the quality of care.", "cite": "Anamavil T."},
+    {"name": "Grooming & baths", "img": "img/groom-dog.jpg", "alt": "Groomer trimming a dog", "desc": "Nail trims, baths and full grooms for cats and dogs."},
+    {"name": "Drying & spa", "img": "img/cat-dry.jpg", "alt": "Cat in a pet drying cabinet", "desc": "Quiet drying cabinets for anxious cats."},
+    {"name": "Boarding & adoption", "img": "img/kitten.jpg", "alt": "Kitten wrapped in a ZAD towel", "desc": "Cat boarding, adoption and rescue support."},
+    {"name": "Pet shop", "img": "img/shop.jpg", "alt": "Pet food shelves", "desc": "Royal Canin, litter, toys and accessories."}
+   ],
+   "perks": ["Open daily 9:30 AM – 10:30 PM", "Grooming on site", "Wheelchair accessible"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Short waits", "title": "Come in when", "title_dim": "it's quiet."},
+  {"type": "team", "id": "team", "nav": "Vets", "eyebrow": "The vets", "title": "Dr. Hassan, Dr. Islam", "title_dim": "and Dr. Ahmed.",
+   "items": [
+    {"name": "Dr. Hassan", "count": 5, "role": "Veterinarian"},
+    {"name": "Dr. Islam", "count": 4, "role": "Veterinarian", "quote": "Dr. Islam and Dr. Ahmed were very kind and professional.", "cite": "Anamavil T."},
+    {"name": "Dr. Ahmed Nasser", "count": 4, "role": "Veterinarian"}, {"name": "Bakheet", "role": "Groomer"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/team.jpg", "alt": "ZAD vets in the pet shop"}, {"src": "img/storefront.jpg", "alt": "ZAD Vet Clinic storefront"}, {"src": "img/mural.jpg", "alt": "ZAD clinic mural", "wide": true}, {"src": "img/grooming.jpg", "alt": "Cat grooming"}, {"src": "img/royal.jpg", "alt": "Royal Canin food wall"}, {"src": "img/reception.jpg", "alt": "Reception desk"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Prices", "title": "Ask before you come.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a consultation?", "Price for a full cat grooming?", "Do you have space for boarding?", "Which vaccines does my kitten need?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Marija Street,", "title_dim": "Sharjah."}
+ ]
+}

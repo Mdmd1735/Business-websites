@@ -1,0 +1,36 @@
+{
+ "preset": "rose-blush",
+ "theme": {"bg": "#FFF7F4", "accent": "#B3123A", "accent_text": "#9C0F32", "surface_2": "#F8DDD9", "duo": "#F1C2C8", "busy": "#C24A62", "band_bg": "#2E0A14", "band_accent": "#FF9BB0", "frame": "square", "hero_ratio": "4/5", "slab_o": ".9", "display": "\"Marcellus\",Georgia,serif", "google_fonts": "family=Marcellus&family=Nunito+Sans:wght@400;600;700&family=Cairo:wght@700"},
+ "brand": {"name": "Hafsah", "sub": "Beauty Saloon · Ajman", "mark": "H", "footer_word": "Hafsah"},
+ "seo": {"title": "Hafsah Beauty Saloon Ajman | Hair Extensions, Highlights & Protein Treatment Offers", "description": "Hafsah Beauty Saloon, Al Muhairi Tower 2, Al Rashidiya 1, Ajman: haircuts from AED 25, highlights AED 100, tape extensions AED 200, protein treatment AED 350, plus henna and Moroccan bath. 4.7 from 803 reviews."},
+ "hero": {"variant": "split", "ar_name": "حفصة للتجميل صالون", "kicker": "Al Muhairi Tower 2 · Al Rashidiya 1 · Ajman", "title_lines": ["Big hair changes,", "small Ajman", "prices."],
+   "lede": "Highlights, tape-in extensions, protein treatments, butterfly cuts, henna and Moroccan bath, open until 11:30 PM most nights, with offers regulars call the best rates around.",
+   "image": "img/hero.jpg", "image_alt": "Hafsah Beauty Saloon storefront with red and gold sign", "secondary": {"label": "Offers", "href": "#offers"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Hafsah Beauty Saloon, I'd like to book.",
+ "proof_note": "803 reviews",
+ "address_lines": ["Hafsah Beauty Saloon, Al Muhairi Tower 2", "Al Rashidiya 1, Ajman"],
+ "ticker": ["Highlights", "Tape extensions", "Protein treatment", "Butterfly cut", "Henna", "Moroccan bath", "Lash extensions"],
+ "sections": [
+  {"type": "menu", "id": "offers", "nav": "Offers", "eyebrow": "Recent offers", "title": "Offers straight", "title_dim": "from our posts.",
+   "categories": [{"name": "Hair", "items": [{"name": "Haircut", "price": "AED 25"}, {"name": "Hair highlights", "desc": "Special offer", "price": "AED 100"}, {"name": "Real tape hair extensions", "price": "AED 200"}, {"name": "Hair protein treatment", "desc": "Special offer", "price": "AED 350"}]}],
+   "note": "Prices from the salon's recent offer posts. Message us to confirm what's running this week."},
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Hair, henna,", "title_dim": "and a proper Moroccan bath.",
+   "items": [
+    {"name": "Colour & highlights", "feature": true, "img": "img/highlights.jpg", "alt": "Long hair with caramel highlights", "desc": "Highlights, global colour and butterfly cuts.", "quote": "I just showed her a pic of the cut I wanted and she did exactly that.", "cite": "M. AG, about Zayn"},
+    {"name": "Extensions & protein", "img": "img/straight.jpg", "alt": "Sleek straight hair after protein treatment", "desc": "Tape-in extensions, protein and keratin."},
+    {"name": "Bridal & party hair", "img": "img/updo.jpg", "alt": "Elegant curled updo", "desc": "Updos and styling for weddings and Eid."},
+    {"name": "Henna & Moroccan bath", "desc": "Henna, Moroccan bath, waxing, manicure and pedicure."},
+    {"name": "Lash extensions", "desc": "Natural to dramatic sets."}
+   ],
+   "perks": ["Open till 11:30 PM", "Cards & Apple Pay", "Walk-ins welcome"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Beat the wait", "title": "Evenings get busy.", "title_dim": "Come early afternoon."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Stylists", "title": "Sahar and Zayn.", "title_dim": "Ask for them by name.",
+   "items": [
+    {"name": "Sahar", "count": 8, "role": "Stylist", "quote": "She was very professional, kind, and paid close attention to every detail.", "cite": "Kiran J."},
+    {"name": "Zayn", "count": 5, "role": "Colour & cuts", "quote": "Zayn did an amazing job.", "cite": "M. AG"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Hafsah salon from the street"}, {"src": "img/sleek.jpg", "alt": "Sleek straight blow-dry"}, {"src": "img/interior.jpg", "alt": "Inside the salon"}, {"src": "img/sign.jpg", "alt": "Illuminated Hafsah sign", "wide": true}, {"src": "img/night.jpg", "alt": "Salon at night"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Muhairi Tower 2,", "title_dim": "Al Rashidiya, Ajman."}
+ ]
+}

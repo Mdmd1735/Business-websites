@@ -1,0 +1,30 @@
+{
+ "preset": "bistro-olive",
+ "theme": {"bg": "#F6F0E4", "surface_2": "#E7DCC6", "accent": "#D4202F", "accent_text": "#B01A27", "duo": "#C9D8A8", "busy": "#3F7A2E", "glow": "rgba(63,122,46,.14)", "band_bg": "#1C2914", "band_accent": "#F2C14E", "frame": "round", "hero_ratio": "4/3"},
+ "extra_css": ".ticker{background:#3F7A2E;color:#fff}",
+ "brand": {"name": "Calicut Stories", "sub": "Kerala Restaurant · Karama", "mark": "C", "footer_word": "Calicut Stories"},
+ "seo": {"title": "Calicut Stories Karama | Kerala Meals, Fish Tawa & Malabar Food till 2 AM", "description": "Calicut Stories, Building Y10, Sheikh Hamdan Colony, Karama: Malabar meals on banana leaf, prawns and fish tawa, beef kondattam, appam and fish platters. Open 11:30 AM to 2 AM. 4.6 from 1,367 reviews."},
+ "hero": {"variant": "split", "kicker": "Building Y10 · Sheikh Hamdan Colony · Karama", "title_lines": ["Taste and tales", "of Malabar."],
+   "lede": "Kerala meals on banana leaf, prawns and fish tawa, beef kondattam, appam and seafood platters, served until 2 AM in Karama by a team that takes hygiene seriously.",
+   "image": "img/hero.jpg", "image_alt": "Kerala meals on a banana leaf with rice, curries and papad", "secondary": {"label": "What to order", "href": "#menu"}},
+ "cta_label": "Order on WhatsApp", "cta_text": "Hi Calicut Stories, I'd like to order.",
+ "proof_note": "1,367 reviews",
+ "address_lines": ["Calicut Stories, Building Y10", "Sheikh Hamdan Colony, Al Karama, Dubai"],
+ "ticker": ["Kerala meals", "Prawns tawa", "Fish tawa", "Beef kondattam", "Appam", "Fish platter", "Lime tea"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "From the Malabar coast", "title": "Seafood, spice", "title_dim": "and banana leaf.",
+   "items": [
+    {"name": "Kerala meals", "feature": true, "img": "img/sadhya.jpg", "alt": "Banana leaf meal with rice and sides", "desc": "Rice, curries, thoran, pickle and papad on a fresh banana leaf.", "quote": "The meals were absolutely delicious, especially the prawn fry, which was perfectly cooked and full of flavour.", "cite": "Karthika S."},
+    {"name": "Fish & prawns tawa", "img": "img/tawa.jpg", "alt": "Fish tawa fry with onions", "desc": "Masala-crusted and pan-seared."},
+    {"name": "Seafood platter", "img": "img/platter.jpg", "alt": "Mixed seafood platter on banana leaf", "desc": "Fish, prawns and squid for the table."},
+    {"name": "Beef kondattam", "img": "img/beef.jpg", "alt": "Dark beef kondattam fry", "desc": "Crispy, spicy and very Kerala."},
+    {"name": "Curries & appam", "img": "img/curry.jpg", "alt": "Fish curry", "desc": "Prawn curry, fish curry and soft appam."}
+   ],
+   "perks": ["Open 11:30 AM – 2 AM", "Wheelchair accessible", "Dine-in & takeaway"]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Calicut Stories storefront", "wide": true}, {"src": "img/night.jpg", "alt": "Restaurant lit up at night", "wide": true}, {"src": "img/wall.jpg", "alt": "Taste and tales of Malabar wall"}, {"src": "img/interior.jpg", "alt": "Dining room"}, {"src": "img/fishfry.jpg", "alt": "Fish fry"}, {"src": "img/leaf.jpg", "alt": "Fish wrapped in banana leaf"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "order", "eyebrow": "Order", "title": "Craving Kerala?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I see your full menu with prices?", "Do you deliver to my area?", "Is the fish platter good for 4 people?", "Do you take group bookings?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Sheikh Hamdan Colony,", "title_dim": "Karama."}
+ ]
+}

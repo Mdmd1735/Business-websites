@@ -1,0 +1,1198 @@
+{
+ "slug": "pink-pie-beauty-salon",
+ "name": "Pink Pie Beauty Salon",
+ "place_id": "ChIJvzExJjlDXz4R3ZUZLq8axUM",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Bur Dubai",
+ "address": "6 74th St - Al Souq Al Kabeer - Al Fahidi - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2624105,
+  "lng": 55.2984842
+ },
+ "phone": "+971 50 514 0680",
+ "rating": 4.9,
+ "userRatingCount": 609,
+ "rating_distribution": {
+  "oneStar": 5,
+  "twoStar": 1,
+  "threeStar": 1,
+  "fourStar": 42,
+  "fiveStar": 560
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Pink%20Pie%20Beauty%20Salon&query_place_id=ChIJvzExJjlDXz4R3ZUZLq8axUM",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 9:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 9:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 9:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 9:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 9:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 9:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 9:30 PM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "welcoming staff",
+  "waxing",
+  "threading",
+  "blow dry",
+  "protein treatment",
+  "clean salon",
+  "cleanliness",
+  "gel nails",
+  "layered haircut",
+  "highlights"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "priya patel",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had an amazing experience at Pink Pie Beauty Saloon! I got gel nail extensions done and absolutely loved the results. Other services like Brazilian wax, manicure, pedicure, foot massage everything was excellent, and the staff were so friendly, warm, and lively — they made the whole experience even more enjoyable.\n\nIf you’re looking for an affordable salon that offers the best service and great quality work, I highly recommend visiting Pink Pie Beauty Saloon at Al Fahidi.\n\nDefinitely coming back again! 💅✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Renita Laveena",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I recently got my haircut done here, and I absolutely loved the experience. The staff were extremely friendly and welcoming from the moment I walked in, which made me feel comfortable right away. The environment is very pleasant and relaxing, creating a positive vibe throughout the salon. The service was done with great care and professionalism, and I am really happy with the final result. Overall, it is a highly recommended salon for anyone looking for good service and a friendly atmosphere.",
+   "owner_reply": null
+  },
+  {
+   "author": "Punam Varshney",
+   "rating": 4,
+   "when": "2 months ago",
+   "text": "Had a wonderful experience at Pink Pie Salon! Poonam was absolutely lovely—kind, professional, and did a fantastic job with my haircut. The hair spa was also excellent, and the service was warm and welcoming. Very reasonably priced too. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "akanksha wakhare",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Super happy!! Poonam ma'am did a fantastic haircut for me - just like I wanted - looks beautiful! Its a humble  and clean salon with a hairstylist who knows her work!",
+   "owner_reply": null
+  },
+  {
+   "author": "Anita Bhatta",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I am a regular client for this salon n always very happy with their services. Ambience is good , welcoming staff. Hair cut is awesome done by Poonamji. Nail art done by Anu is really cool. Pushpa for body massage n waxing. Must try , it's a good salon in Meena Bazaar. Highly highly recommended 👍❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Niya Sunar",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Excellent salon for haircuts. loved my new look given by Poonam. Salon is clean.staff also good n good work services. affordable prices..... Thank you. Hghly recommended .",
+   "owner_reply": null
+  },
+  {
+   "author": "al naser asraq",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "good morning to all in the fields of beauty i recommend these beauty salon here in bur dubai, the staff are so low profile and you may the smile in there face that your most welcome,  i meet mam poonam she is nice person talk so nice and she is so friendly. these salon are s clean and ambiance are good you can come here anytime . try also to come here so that you will experience what ive said on these survey.  may god bless us all 🌷🌷🌷🙏🙏🙏.",
+   "owner_reply": null
+  },
+  {
+   "author": "Priyadarshini Arunkumar",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a really pleasant experience at Pinkie Pie Beauty Salon. Ms.Poonam was warm, welcoming, and very professional from the moment I walked in.\nI went in for a haircut, and I was genuinely impressed with the stylist’s attention to detail. She took the time to understand exactly what I wanted and gave helpful suggestions based on my hair type. The haircut turned out neat, stylish, and easy to manage—exactly what I was hoping for.\nThe salon itself was clean, well-maintained, and had a relaxing atmosphere, which made the whole experience even better. Overall, I’m very happy with the service and would definitely recommend this place to anyone looking for a nice, professional.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nivedita Devadiya",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great salon with a friendly and professional staff! I got a fantastic haircut, and I’m really happy with the result. The team was skilled, attentive, and made the whole experience enjoyable. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Priya Sathish",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a wonderful experience at Pink Pie Beauty Salon! This is my second visit, and once again, I’m extremely happy with the service.\n\nA special thanks to Poonam for the haircut—she did an amazing job. She is not only very skilled but also incredibly friendly and patient. What I really appreciate is that she doesn’t stop until the look is absolutely perfect and she’s fully satisfied with her work. That level of dedication truly stands out.\n\nHighly recommend her if you’re looking for a great haircut and a pleasant experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Gurjit Kharbanda",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Poonam did an amazing job on my hair, very professional service here.\nPushpa thank you for your fantastic full body massage and herbal facial was just perfect.\n\nLovely clean facilities and will definately be coming back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Tamanna Roka",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Huge shoutout to Poonam Ma’am at the salon we visited yesterday! I’ve never seen someone work with such dedication and professionalism. She gave my friend a stunning haircut and saved my dry hair with a brilliant product recommendation that worked overnight! 💖 From now on, she’s the only person I’m trusting with the hair. Thank you, Poonam Ma’am!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ancuta Pricina",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I am absolutely thrilled with Mrs Poonam - great hairstylist. She is very professional and attentive to details,taking the time to understand the needs of her customers and their preferences. Her haircut was top and I love my new look. The salon atmosphere was welcoming and relaxing. I highly recommend this place.",
+   "owner_reply": null
+  },
+  {
+   "author": "nagdev lavin",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Poonam is extremely friendly and gives the best service. I got my haircut, waxing and threading done from her salon, and I am very happy with the results!",
+   "owner_reply": null
+  },
+  {
+   "author": "kelly mcnaught",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Lovely service here, I got my roots coloured to match and had a blow dry, everything was perfect. I personally judge a hair dressers by a blow dry. Didn’t need any other heat products to style or feel great. I also decided to get my nails done to as reasonable prices. Left very happy, I will be return to this salon before I got back to Ireland.",
+   "owner_reply": null
+  },
+  {
+   "author": "Angelica Seletaria",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Poonam is a talented hairdresser! She gave me a beautiful layered haircut, and I’m so happy with how it turned out. She was attentive, skilled, and really understood the look I wanted. I highly recommend her if you’re looking for a great haircut! ✨💇‍♀️",
+   "owner_reply": null
+  },
+  {
+   "author": "Jocil Quadras",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently visited Pink Pie Beauty Salon for the first time, and I couldn’t be happier with the experience! Poonam gave me a stunning haircut that perfectly matched my style. The service was outstanding—every staff member was friendly, attentive, and professional.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nadia Khan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Visited this salon after seeing the reviews. I must say i had the best haircut. Highly recommended & reasonably charged too. Will definitely visit again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Chloe Isabelle",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Wow woww wow ! I cut my hair and washed and did a blow out . The service was so amazing . The lady who owns it has been here for 30 years and did such an amazing job 🩷. I had a wonderful experience with them and would definitely recommend. The prices were also so reasonable .",
+   "owner_reply": null
+  },
+  {
+   "author": "Abi Athira",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Absolutely loved my experience at Pink Pie Saloon! Poonam mam and her staff were incredibly professional, friendly, and attentive. My haircut, underarms, pedicure, and eyebrows were done perfectly. The care, hygiene, and attention to detail were top-notch. Highly recommend them for a pampering and flawless salon experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Prathna Malani",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "The salon radiates cosiness. The employees here are extremely friendly and careful in their work. They are knowledgeable and well-mannered. I've had my haircuts done here a number of times, and each time the work is done in a really beautiful and professional manner with a satisfying outcome. When compared to other salons in the region, the pricing are really fair and reliable. Coming here would definitely help you feel as young and appealing as possible.",
+   "owner_reply": null
+  },
+  {
+   "author": "Eshita Banerjee",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "The place is very clean and welcoming. I had taken appointments with poonam ma'am more than twice for a layered haircut, face frame and curtain bangs and ive been very pleased with the results each time. Shes a very talented hairdresser and even others are welcoming and sweet. I highly recommend this salon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Yamini Chithra",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Poonam gave me an excellent haircut. She really understands customers’ needs and executes the style like a pro. Pushpa and Anu are very talented as well they did my pedicure and manicure perfectly. The team here is extremely customer-focused and professional, and they consistently provide excellent service. I highly recommend trying their services — I’m sure it’s worth it",
+   "owner_reply": null
+  },
+  {
+   "author": "Jyotsna Jayant",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I had a wonderful experience here.. the staff are very friendly and they did a wonderful job. The blow dry was excellent.. I would definitely recommend coming here",
+   "owner_reply": null
+  },
+  {
+   "author": "Sunita Somaiah",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "A cozy salon to begin with. I check out reviews & thought to give it a try. I must say Poonam who's the hairstylist was amazing. Her energy & passion for her work is seen through her work. Both my daughter & myself got a new amazing look today. I highly recommend you to vist & experience for yourself. Thank you Poonam for making us look amazing.",
+   "owner_reply": null
+  },
+  {
+   "author": "bhavadharini V.G.",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Had a great experience at the salon today! I got both a haircut and gel nails done. The place was clean, the staff was friendly, and the service was really good. I asked for a layered haircut and natural-looking nails, and they did exactly what I wanted. Everything turned out beautifully, and the prices were reasonable as well. Definitely a pleasant experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "AMI SONI",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Highly recommended\nWorth to spend money because they listen to your needs n what exactly you want....\nNeat n clean place to do our beauty services.They give nice haircut , expert hands are in pink pie beauty salon to give you new look . They are affordable and their products are high quality. Staff is welcoming n understand . Owner is down to earth sweet lady , expert in her work . Gel nails are done neatly n i love this salon n i recommend to all. Please try them once . They are well trained in their work.👍",
+   "owner_reply": null
+  },
+  {
+   "author": "soumya shankar",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I always have a wonderful experience at this salon. The space is clean, relaxing, and welcoming, but what truly sets it apart is the owner, Poonam. She is incredibly talented, professional, and genuinely cares about her clients. The haircuts and all the services are truly amazing—Poonam takes the time to understand exactly what you want and delivers beautiful results every time. Her attention to detail and friendly nature make each visit enjoyable and stress-free. I always leave feeling confident and refreshed. Highly recommend this salon to anyone looking for quality service and a personal touch!That makes you shine 🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "tshering lama",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "I got my nails done from Pink Pie beauty saloon for the first time & I just loved them.. I loved my hair cut , I liked it very much…..I am impressed specially with the very friendly & clean environment. I would happily suggest anyone to visit the saloon with suitable price & great service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Arti Mohite",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Incredible service we did hair cut and color and they are very dedicated and amazing kind people excellent service quality anyone in dubai looking for Ms Poonam signature haircut must visit Pink Pie Salon",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    902,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1342,
+    854
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1350
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    640
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1196
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    378,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    452,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    289,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    289,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    289,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    512,
+    289
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    460,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    389,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    389,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    375,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    465,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    279,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    326
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/pink-pie-beauty-salon/",
+ "buy_likelihood": 6,
+ "notes": "4.9 from 609, stylist Poonam is the draw. Owner never replies; already brands photos with phone number, so marketing-aware.",
+ "display_name": "Pink Pie Beauty Salon"
+}

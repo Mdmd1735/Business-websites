@@ -1,0 +1,35 @@
+{
+ "preset": "ink-paper",
+ "theme": {"accent": "#5B3A29", "accent_text": "#5B3A29", "on_accent": "#FFFFFF", "duo": "#DCCFC4", "busy": "#5B3A29", "band_bg": "#151515", "band_accent": "#D6B89A", "frame": "square", "hero_ratio": "4/3"},
+ "brand": {"name": "Eye Life", "sub": "Optics · JLT", "mark": "E", "footer_word": "EYE LIFE"},
+ "seo": {"title": "Eye Life Optics JLT | RTA-Approved Eye Test for Driving Licence, Glasses & Sunglasses", "description": "Eye Life Optics, Lake Terrace Tower, Cluster D, JLT: RTA-approved eye tests for driving licences, blue-cut lens + frame from AED 199, progressives from AED 299, polarized sunglasses from AED 99. 5.0 from 481 reviews."},
+ "hero": {"variant": "split", "kicker": "Lake Terrace Tower · Cluster D · JLT", "title_lines": ["RTA eye test.", "New glasses.", "Same visit."],
+   "lede": "An RTA-approved eye test centre for driving licences, plus blue-cut, progressive and polarized eyewear from Prada, Tom Ford, Hugo, Carrera and more. Rated a perfect 5.0.",
+   "image": "img/hero.jpg", "image_alt": "Eye Life Optics storefront with logo sign and frame walls", "secondary": {"label": "Prices", "href": "#prices"}},
+ "cta_label": "Book an eye test", "cta_text": "Hi Eye Life Optics, I'd like to book an RTA eye test.",
+ "proof_note": "5.0 · every review gets a reply",
+ "address_lines": ["Eye Life Optics, Shop G13, Lake Terrace Tower", "Cluster D, Jumeirah Lakes Towers, Dubai"],
+ "ticker": ["RTA eye test", "Blue-cut lenses", "Progressive lenses", "Polarized sunglasses", "Contact lenses", "Tom Ford", "Prada", "Carrera"],
+ "sections": [
+  {"type": "menu", "id": "prices", "nav": "Prices", "eyebrow": "Offers", "title": "Clear prices,", "title_dim": "lens and frame included.",
+   "categories": [{"name": "Eyewear", "items": [{"name": "Blue-cut lens + frame", "price": "From AED 199"}, {"name": "Progressive lens + frame", "price": "From AED 299"}, {"name": "Polarized sunglasses", "price": "From AED 99"}]}],
+   "note": "From the in-store offer poster. Tabby instalments available in store."},
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Eye care,", "title_dim": "start to finish.",
+   "items": [
+    {"name": "RTA eye test for driving licence", "feature": true, "img": "img/test-room.jpg", "alt": "Eye test room with auto-refractor", "desc": "Approved by the RTA, so your result goes straight into your licence application.", "quote": "Asif was very professional, friendly, and made the eye test smooth and comfortable.", "cite": "Anish D."},
+    {"name": "Designer frames", "img": "img/brands.jpg", "alt": "Wall of Guess, Vogue and Fila frames", "desc": "Prada, Tom Ford, Hugo, Mont Blanc, Carrera, Guess, Vogue, Oakley."},
+    {"name": "Sunglasses", "img": "img/skyline.jpg", "alt": "Sunglasses against the Dubai skyline", "desc": "Polarized and fashion sunglasses, adjusted to fit."},
+    {"name": "Contact lenses", "img": "img/roundframes.jpg", "alt": "Round Ray-Ban frames", "desc": "Daily, monthly and coloured lenses."}
+   ],
+   "perks": ["Open daily till 11:30 PM", "RTA approved", "Tabby available", "Wheelchair accessible"]},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Your optometrist", "title": "Asif.", "title_dim": "Named in 16 of our last 30 reviews.",
+   "items": [{"name": "Asif", "count": 16, "role": "Optometrist", "quote": "The examination was thorough, and everything was explained clearly.", "cite": "Anish D."}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Eye Life Optics shopfront in JLT"}, {"src": "img/sign.jpg", "alt": "Illuminated sign", "wide": true}, {"src": "img/optom.jpg", "alt": "Optometrist at the desk"}, {"src": "img/brands2.jpg", "alt": "Carrera, Tom Ford and Mont Blanc wall", "wide": true}, {"src": "img/chart.jpg", "alt": "Glasses on an eye chart"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "faq", "id": "faq", "eyebrow": "Driving licence", "title": "RTA eye test questions",
+   "items": [{"q": "Do I need an appointment?", "a": "Walk in any day from 10 AM to 11:30 PM (Friday 10 AM to 12 PM and 3 PM to 11:30 PM), or WhatsApp +971 50 923 6717 to book."},
+             {"q": "What do I bring?", "a": "Your Emirates ID, and your glasses or contacts if you already wear them."},
+             {"q": "Is the result sent to the RTA?", "a": "Yes, we're an RTA-approved eye test centre."}]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Lake Terrace Tower,", "title_dim": "Cluster D, JLT."}
+ ]
+}

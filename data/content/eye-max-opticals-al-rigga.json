@@ -1,0 +1,31 @@
+{
+ "preset": "ocean-wash",
+ "theme": {"accent": "#1F3FBF", "accent_text": "#1A35A3", "surface_2": "#DEE5F7", "duo": "#C6D2F2", "busy": "#3E5FD6", "band_bg": "#0C1A4A", "band_accent": "#8FB0FF", "dcase": "none", "dw": "800", "frame": "round"},
+ "brand": {"name": "Eye Max", "sub": "Optical · Al Rigga", "mark": "E", "footer_word": "EYE MAX"},
+ "seo": {"title": "Eye Max Optical Al Rigga | Eye Test, Glasses & Sunglasses, Open till 12:30 AM", "description": "Eye Max Optical, 65 Al Rigga Road, Deira: free-feeling eye tests, frame advice, transition and blue-cut lenses, sunglasses and discounts. Open daily 9:30 AM to 12:30 AM. Rated 5.0 from 660 reviews."},
+ "hero": {"variant": "stack", "ar_name": "آي ماكس للنظارات", "kicker": "65 Al Rigga Road · Deira", "title_lines": ["See better.", "Look better.", "Pay less."],
+   "lede": "Eye tests, honest frame advice, transition and blue-cut lenses and branded sunglasses on Al Rigga Road, open until 12:30 AM every night. Rated 5.0 by 660 customers.",
+   "image": "img/hero.jpg", "image_alt": "Bright Eye Max showroom with walls of frames", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book an eye test", "cta_text": "Hi Eye Max, I'd like to book an eye test.",
+ "proof_note": "Perfect 5.0 · women-owned",
+ "address_lines": ["Eye Max Optical, 65 Al Rigga Road", "Al Muraqqabat, Deira, Dubai"],
+ "ticker": ["Eye test", "Prescription glasses", "Transition lenses", "Blue-cut lenses", "Sunglasses", "Contact lenses", "Open till 12:30 AM"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "An eye test, a good frame,", "title_dim": "and no pressure.",
+   "items": [
+    {"name": "Eye test & consultation", "feature": true, "img": "img/floor.jpg", "alt": "Optometrist in the Eye Max showroom", "desc": "Clear explanations of your prescription and what lens suits you.", "quote": "The sales staff were very friendly, patient, and knowledgeable. They helped me choose the perfect pair.", "cite": "Zin Mar T."},
+    {"name": "Frames for every budget", "img": "img/display.jpg", "alt": "Frame display", "desc": "Designer and everyday frames, with honest suggestions."},
+    {"name": "Lenses", "img": "img/frames.jpg", "alt": "Clip-on sunglasses frames", "desc": "Transition, blue-cut, progressive and clip-on options."},
+    {"name": "Sunglasses & contacts", "desc": "Branded sunglasses and contact lenses."}
+   ],
+   "perks": ["Open daily till 12:30 AM", "Women-owned", "Delivery available", "Wheelchair accessible"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "No waiting", "title": "Eye test without", "title_dim": "the queue."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Ask for Jessica.", "title_dim": "Nine reviews do.",
+   "items": [{"name": "Jessica", "count": 9, "role": "Optical consultant", "quote": "A highly dedicated and reliable professional.", "cite": "Google reviewer"}, {"name": "Deepak", "count": 3, "role": "Optometrist"}, {"name": "Shahid", "role": "Optical consultant"}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Eye Max Optical storefront", "wide": true}, {"src": "img/window.jpg", "alt": "Shop window with sunglasses posters", "wide": true}, {"src": "img/counter.jpg", "alt": "Sales counter"}, {"src": "img/bag.jpg", "alt": "Eye Max gift bag"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "ask", "eyebrow": "Prices", "title": "Ask about this week's offer.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is an eye test?", "Price for blue-cut glasses with frame?", "Do you have progressive lenses?", "Can I come in after 11 PM?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Rigga Road,", "title_dim": "Deira."}
+ ]
+}

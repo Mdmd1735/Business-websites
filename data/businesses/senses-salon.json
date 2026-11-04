@@ -1,0 +1,719 @@
+{
+ "slug": "senses-salon",
+ "name": "Senses Salon",
+ "place_id": "ChIJU90oOKZsXz4RqxUkwUDMPD0",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "JLT, Dubai",
+ "address": "Suite 2808, Oaks Liwa Heights Hotel, Cluster W - Al Sarayat St - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+ "building": "Tiffany Towers",
+ "location": {
+  "lat": 25.0770701,
+  "lng": 55.1503714
+ },
+ "phone": "+971 4 457 2290",
+ "rating": 4.8,
+ "userRatingCount": 1582,
+ "rating_distribution": {
+  "oneStar": 54,
+  "twoStar": 9,
+  "threeStar": 12,
+  "fourStar": 65,
+  "fiveStar": 1442
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Senses%20Salon&query_place_id=ChIJU90oOKZsXz4RqxUkwUDMPD0",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10:30 AM to 9 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10:30 AM to 9 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10:30 AM to 9 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10:30 AM to 9 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10:30 AM to 9 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10:30 AM to 9 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10:30 AM to 9 PM"
+  }
+ ],
+ "owner_description": "DMCC Members Award 2016, Best Customer Service Award 2014, Gulf Capital SEM Awards MEED, ASCB",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Recycling": [
+   {
+    "Plastic bottles": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "hair mask treatment",
+  "brazilian blowout",
+  "keratin treatment",
+  "phloreten treatment",
+  "accommodating staff",
+  "blow dry",
+  "waxing",
+  "attention to detail",
+  "hair color",
+  "head massage"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.37,
+ "reviews": [
+  {
+   "author": "zy zii",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "This was my second visit to Sensen Salon, and once again, I had a wonderful experience! Leha did an amazing job cutting and curling my hair. She listened carefully to what I wanted and made me feel comfortable throughout the entire process. The haircut suited me perfectly, and the curls were absolutely beautiful. I left the salon feeling more confident, refreshed, and beautiful than ever.\nThe owner was also very welcoming and friendly, creating a warm and relaxing atmosphere from the moment I walked in. Their kindness and hospitality made the entire experience even more special.\nI'm truly impressed by the consistent quality of service and attention to detail. Thank you, Leha, for your talent, professionalism, and excellent care. I highly recommend Leha and Teri to anyone looking for a stylist who genuinely cares about making her clients look and feel their best. I can't wait for my next visit!",
+   "owner_reply": "Thank you so much for your wonderful review.  We truly appreciate it. "
+  },
+  {
+   "author": "Maryjane Corpin",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI had a wonderful experience at Senses Salon during my hair spa treatment. The service was relaxing, professional, and exceeded my expectations. My hair felt incredibly soft, nourished, and refreshed after the treatment.\nA special thank you to Ate Terry and her colleague Liya for their exceptional care and attention. They were both friendly, attentive, and highly skilled, ensuring I was comfortable throughout the entire experience. Their professionalism and warm attitude made my visit truly enjoyable.\nI highly recommend Senses Salon to anyone looking for excellent hair care services. Thank you, Ate Terry and Liya, for the fantastic service I will definitely be coming back! 💕✨🌸",
+   "owner_reply": null
+  },
+  {
+   "author": "Di Ja",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Amazing phloreten hair spa by Leha at Senses Salon and my hair feels fresh, clean and less dry. Relaxing atmosphere, professional and friendly staff and worth the time.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ameera Hajara",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Excellent Service & Amazing Experience!\nI’m very happy with the service I received at the salon. The staff were very friendly, professional, and attentive. I loved the final result of my hair—it looks beautiful and feels amazing! 💕\nThank you for the wonderful service and great customer care. I’ll definitely be coming back again! Highly recommended! ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Lucy",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I went to The Sense Salon and honestly I’m so happy with the result. They spent a lot of time on my hair and didn’t rush anything, and it came out absolutely perfect.\n\nTerry did my hair and wow… she’s insanely good at what she does. Super skilled and really pays attention to detail. Oland (I hope I’m spelling it right) also worked on my hair throughout the process and was really great and attentive the whole time.\n\nOverall such a great experience, really professional but also very welcoming. I’d 100% come back again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vinora Saldanha",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had a great experience! The hair spa was incredibly relaxing, and my hair felt so soft, smooth, and refreshed afterward. The body waxing was done professionally with great attention to hygiene, and the stylists Leha and Terri made the entire process as comfortable and painless as possible. They were friendly, patient, and attentive throughout. I'm really happy with the service and would definitely recommend them. Thank you for such a wonderful experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Geetanjali Digga",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "visited Senses Salon for the first time recently, and I was genuinely impressed. From the warm welcome at reception to the professional service, the entire experience exceeded my expectations.\n\nThe salon is beautifully maintained, with a relaxing atmosphere that makes you feel comfortable straight away. The staff were friendly, attentive, and took the time to understand exactly what I wanted.\n\nIt’s not often that a first visit leaves such a positive impression, but Senses Salon definitely did. I left feeling pampered, refreshed, and extremely happy with the results. I’ll definitely be returning and would highly recommend it to anyone looking for quality service and a great salon experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Walaa Wagih",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Honestly, they deserve more than 5 stars! 🤍\nI’ve been going to this salon for years and every single visit is amazing. Everything is always perfect — the facial, mani & pedi, blow dry… literally every service is done with so much care and professionalism.\n\nThe place itself is beautiful, clean, and has such a relaxing vibe. Every time I leave, I feel fresh, relaxed, and genuinely happy. The staff are super friendly and always make me feel comfortable and welcomed.\n\nI truly love this salon and highly recommend it to anyone who wants to pamper themselves and have a great experience. Definitely one of my favorite places ever ✨",
+   "owner_reply": "Thank you so much for your lovely review and recommendation!<br>We're delighted to hear that you enjoyed your experience with us and that you are happy with our services. Our team truly appreciates your kind words and support.<br>We look forward to welcoming you back again soon at Senses Salon ✨"
+  },
+  {
+   "author": "mayura mahesh",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I loved their service! I had a hair spa, and the entire experience was excellent. The team was very professional, and I was extremely satisfied with the service. A special thanks to Ms. Terry, who took care of the entire process and made sure everything was perfect. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "vandana Tiwari",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had an amazing experience at the salon today! My nails turned out absolutely beautiful, and the hair spa was so relaxing and rejuvenating. The staff were professional, friendly, and made me feel comfortable throughout. Attention to detail was excellent, and the service exceeded my expectations. Highly recommend this salon to anyone looking for quality beauty services. Will definitely be coming back😍 lady leha is expert in nails.. I love her service 👍",
+   "owner_reply": "Thank you so much, Vandana, for your wonderful review and for taking the time to share your experience with us.<br><br>We are delighted to hear that you enjoyed both your nail service and hair spa treatment. Knowing that you found the experience relaxing, rejuvenating, and comfortable means so much to us.<br><br>A special thank you for your kind words about Leha. She will be thrilled to know that you loved your nails and appreciated her service and attention to detail.<br><br>Your recommendation truly means a lot to our team, and we look forward to welcoming you back to Senses Salon for another wonderful experience soon.<br><br>Warm regards,<br><br>The Senses Salon Team"
+  },
+  {
+   "author": "Sanjana Ravi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I got my haircut from here and i am impressed with the detailing and output. I love the service as well! People are so sweet here and the ambience is pleasant with a great view.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mahima Mahajan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a wonderful experience with Leha! She did an amazing aloe vera hair spa and took great care throughout the treatment. My hair feels so soft, healthy, and refreshed. She was gentle, professional, and made the whole experience very relaxing. Highly recommend Leha to anyone looking for excellent hair care. Thank you for the lovely service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Shiksha Khadka",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI had my eyebrows and upper lip done at Senses Salon with Leha , and I'm very happy with the service. The staff were friendly, professional, and made me feel comfortable. My eyebrows were shaped perfectly, and the upper lip threading was quick and gentle. The salon was clean, and the results were excellent. I highly recommend Senses Salon and will definitely come back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Laica Bangayan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had a great experience at the salon. The hair mask treatment made my hair feel soft, smooth, and refreshed. The threading was done very neatly with good attention to detail and minimal discomfort. The staff was professional, friendly, and maintained good hygiene throughout the service. Overall, I’m very satisfied and would definitely recommend this salon.",
+   "owner_reply": "Thank you so much for your lovely review and recommendation!<br>We're delighted to hear that you enjoyed your experience with us and that you are happy with our services. Our team truly appreciates your kind words and support.<br>We look forward to welcoming you back again soon at Senses Salon ✨"
+  },
+  {
+   "author": "Sunita Moktan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing experience! Terry did a wonderful hair spa that was so relaxing and left my hair feeling soft and smooth. Leha did a great hair trim that made my hair look much healthier. Highly recommend their services and will definitely come back again! ⭐⭐⭐⭐⭐",
+   "owner_reply": "Thank you so much, Sunita, for your kind review! We’re thrilled to hear that you enjoyed your relaxing hair spa with Terry and that Leha’s trim left your hair feeling healthier and refreshed. Your recommendation means the world to us, and we can’t wait to welcome you back for another wonderful experience. ⭐⭐⭐⭐⭐"
+  },
+  {
+   "author": "Anju Gaire",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had my hair treatment and color done, and I’m absolutely satisfied with the service. Terry and Leha were both amazing—professional, attentive, and made sure I was happy with the results. I highly recommend them to anyone looking for excellent hair care!",
+   "owner_reply": null
+  },
+  {
+   "author": "Misbah Hemani",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Absolutely loved my experience at Senses! Leha was very professional. Facial was very relaxing and thorough. They even did buffer shine in mani pedi. Will definitely come again. FYI location is inside OAKS height.",
+   "owner_reply": null
+  },
+  {
+   "author": "Angie Kristie",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "Booked appointment one week in advance for a hair spa that I was offered complimentary by the salon, under name Sophia.\n\nArrived on time and waiting for 15 mins until the hair dresser came to me and said she feels sorry for me waiting so the other hairdresser will come from home although she was sick.\nI left and I wasted one hour of my life for a supposed free hair spa.\nA kind advice to be respectful on everyone’s time and inform in advance if there is no hair dresser for booked appointment.\n🤦🏻‍♀️\n\nGood luck with your business.",
+   "owner_reply": null
+  },
+  {
+   "author": "Gillsab",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "“Leha’s work is amazing! I had a facial and really enjoyed the massage throughout the treatment. It was very relaxing and professional. I highly recommend her services. Thank you, and I look forward to visiting again soon!”",
+   "owner_reply": "Thank you so much for your kind review! 💖 We’re delighted to hear that you enjoyed your facial and found the treatment relaxing and professional. Leha will be thrilled to know that her efforts made such a positive impression. We truly appreciate your recommendation and look forward to welcoming you back soon! ✨"
+  },
+  {
+   "author": "Lavanya Mukesh",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I’ve been coming to this salon regularly for my treatments, and they never disappoint. Every time, I leave with the best results, which is why I keep coming back!\n\nThe team here is incredibly sweet, welcoming, and friendly they really make you feel comfortable from the moment you walk in. I especially love the work Terry does; you can truly see how passionate she is about what she does, and it reflects in her results.\n\nAnd Crystal honestly, she makes you feel like a friend instantly! She’s always smiling, warm, and so kind. Overall, such a wonderful person and such a great experience every time.\n\nHighly recommend this place to anyone looking for quality service and a friendly atmosphere!\n\nFrom\nLavanya",
+   "owner_reply": "Dear Lavanya,<br><br>Thank you so much for your beautiful and heartfelt review. 🤍<br><br>It truly means the world to us to have your continued trust and support. We are so happy to hear that you consistently leave satisfied with your treatments and experience at Senses Salon. <br><br>Your kind words about Terry and Crystal will mean so much to them. Terry is incredibly passionate about her work, and Crystal always strives to make every client feel welcomed, comfortable, and cared for — so reading this genuinely makes us smile.<br><br>Thank you again for your recommendation and for being part of the Senses family. We can’t wait to welcome you back again soon! ✨"
+  },
+  {
+   "author": "Hiba Shanaa",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Amazing experience. Best of the best. Terry did my brazilian blow out and it was so natural and beautiful. Love their work so much.\n\nLeha was also amazong and she did my blow dry super natural and beautiful will be coming back for sure !!!\nThanks ladies amazing work u deserve more than 5 stars 😍😍😍😍😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Kanika Luthra",
+   "rating": 5,
+   "when": "Edited 11 months ago",
+   "text": "I got my hair keratin done. Was apprehensive trying a new place but , I got lucky!\nOne of the very few salons with a great view ;)\nThats just a bonus to the exceptional services. Florence is an asset! She was so warm and accommodating. Very understanding. Terry and Leha were absolute professionals.\nKudos to the team!\nMust visit guys!",
+   "owner_reply": "Thank you so much for taking the time to share your feedback — we truly appreciate your support 🤍<br><br>We’re delighted to know you enjoyed your experience at Senses Salon and we look forward to welcoming you again very soon.<br><br>For bookings:<br>📞 Phone: +971 4 457 2290 | +971 4 553 0593<br>📱 WhatsApp: +971 50 845 1782<br><br>Stay connected and don’t miss our latest promotions:<br>Instagram: https://www.instagram.com/sensessalonjlt/<br>Facebook: https://www.facebook.com/sensessalonjlt/<br>Website: https://sensessalondubai.com/<br><br>See you soon at Senses Salon ✨"
+  },
+  {
+   "author": "Ashis Theng",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had the Phloreten Hair Spa  Leha did my treatment. My hair feels so soft, shiny, and much healthier. I'm really happy with the results and highly recommend this treatment. Thank you, Amy and Leha, for the wonderful service♥️!",
+   "owner_reply": null
+  },
+  {
+   "author": "Maria Siddiqui Zia",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Terry & Leha are sooo good. They are very technical and precise in their work (nails). They are also really sweet and wonderful masseuse too! Also, they are cute so 🤓. The salon is very aesthetic and I love the vibes.",
+   "owner_reply": null
+  },
+  {
+   "author": "Laura Anisse",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I just had a Brazilian Blowout treatment, and I couldn’t be happier with the result! The ladies were so kind, professional, and did an amazing job on my hair. It’s been a long time since I’ve had such great results. Thank you so much!\n\nFatima",
+   "owner_reply": null
+  },
+  {
+   "author": "Tazmin Mohamed",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "I recently had the most amazing experience at Senses Salon, and I just had to share it with the world! From the moment I walked in, I was greeted with warmth and friendliness by the incredible staff. Zaida, the owner, and her team were so accommodating and made me feel right at home.\n\nLet me start by talking about the Phloroten treatment they did on my hair. Oh my goodness, it was a game-changer! Not only did it make my hair incredibly smooth, but it also gave it an instant boost of health, shine, manageability, and thickness. The best part? My hair still retained its natural curl and pattern, which is something I've struggled to find in other treatments. Plus, they even offer a jet straight option for those who prefer it. Talk about catering to all preferences!\n\nBut that's not all, folks. Senses Salon also took care of my nails and toes, and let me tell you, the results were beyond incredible. The foot spa pedicure left my feet feeling as soft as a baby's bottom. I couldn't help but smile every time I looked at my beautifully manicured nails and perfectly pampered toes. They truly know how to make you feel like royalty.\n\nI can't stress enough how much I recommend Senses Salon to anyone looking for a top-notch salon experience. Zaida and her team go above and beyond to ensure their clients are happy and satisfied. The atmosphere is so inviting, and you'll definitely leave feeling like a million bucks.\n\nSo, if you're in need of a salon that will not only make you look fabulous but also provide exceptional service, look no further than Senses Salon. Trust me, you won't be disappointed.",
+   "owner_reply": "Thank you for taking the time to give your feedback. We really appreciate it. Looking forward to seeing you again @ Senses Salon!<br><br>For bookings:<br>Phone: +97144572290 or +97145530593<br>WhatsApp: +971508451782<br><br>Follow us to see our new promotions:<br>https://www.instagram.com/sensessalonjlt/<br>https://www.facebook.com/sensessalonjlt/<br>https://sensessalondubai.com/"
+  },
+  {
+   "author": "Mariam Iqbal",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Fantastic salon! Mary at reception is amazing and so kind and passionate about the salon and the services.\n\nLeeha who did my hair was also superb and my hair is so soft now!\n\nAnd Gem gave me a great consultation for my eyebrow microblading.\n\nVery stylish and super clean salon.  Look forward to coming back again!",
+   "owner_reply": "Thank you for taking the time to give your feedback. We really appreciate it. Looking forward to seeing you again @ Senses Salon!<br><br>For bookings:<br>Phone: +97144572290 or +97145530593<br>WhatsApp: +971526591102<br><br>Follow us to see our new promotions:<br>https://www.instagram.com/sensessalonjlt/<br>https://www.facebook.com/sensessalonjlt/<br>https://sensessalondubai.com/"
+  },
+  {
+   "author": "Archana Shyam Kishore",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Really awesome experience. I had got the hair trim.. staff is sooo cordial and it turned out really well. I am very happy with their services. Must recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Kamala Tamang",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Terry did an amazing layered haircut, and Leha gave a wonderful hair wash. They were both so welcoming and friendly. Great service and a lovely experience. Highly recommended! ⭐⭐⭐⭐⭐",
+   "owner_reply": null
+  },
+  {
+   "author": "Rachel Abanto",
+   "rating": 5,
+   "when": "Edited 4 years ago",
+   "text": "Senses salon is a beautiful place. The energy here is so positive. The staff members are lively and they attend to clients very quickly. i love that my hair cut is perfect and my blowdry lasts for days.I highly recomend! + the beautiful view is so relaxing. Visited again and the quality is still top notch. I love my hair colour❤️❤️",
+   "owner_reply": "Thank you for taking the time to give your feedback. We really appreciate it. Looking forward to seeing you again @ Senses Salon!<br><br>For bookings:<br>Phone: +97144572290 or +97145530593<br>WhatsApp: +971526591102<br><br>Follow us to see our new promotions:<br>https://www.instagram.com/sensessalonjlt/<br>https://www.facebook.com/sensessalonjlt/<br>https://sensessalondubai.com/"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    848,
+    480
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1539,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1180,
+    1182
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    914
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    342,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 73,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/senses-salon/",
+ "buy_likelihood": 7,
+ "notes": "1,582 reviews, award-winning JLT salon; premium clientele expects a website. Landline only. Replies 37%.",
+ "display_name": "Senses Salon"
+}

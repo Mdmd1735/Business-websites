@@ -1,0 +1,1240 @@
+{
+ "slug": "restart-fitness-center-and-gym",
+ "name": "ReStart Fitness Center & Gym",
+ "place_id": "ChIJi4l6Wq1DXz4RGPx-LP3S5Bg",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Bur Dubai",
+ "address": "New Al Madina Supermarket, Al Zarooni Building - HC Floor - Rolla Street - Bur Dubai - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2573979,
+  "lng": 55.2871607
+ },
+ "phone": "+971 54 245 7211",
+ "rating": 4.8,
+ "userRatingCount": 439,
+ "rating_distribution": {
+  "oneStar": 14,
+  "twoStar": 0,
+  "threeStar": 8,
+  "fourStar": 28,
+  "fiveStar": 389
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=ReStart%20Fitness%20Center%20%26%20Gym&query_place_id=ChIJi4l6Wq1DXz4RGPx-LP3S5Bg",
+ "website": "",
+ "categories": [
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "5 AM to 1 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "4 to 9 PM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "trainer",
+  "supportive trainers",
+  "diet plans",
+  "zumba",
+  "yoga classes",
+  "restart gym",
+  "tailored workouts",
+  "trainer megalai",
+  "trainer ajay",
+  "friendly staff"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 30
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 26
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 21
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 36
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 28
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Anil Swamy",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I would like to appreciate my gym trainer Mr.Arun. He is an excellent, certified trainer with strong knowledge of fitness and training techniques. He is very patient, motivating, and always pushes his clients to achieve their best results. You can truly call him a “Fit Buddy.”\nI am very satisfied with his training sessions and would strongly recommend him to anyone looking to improve their fitness.\nI’m also happy to restart my gym journey here—the gym is affordable, and the staff are friendly and supportive.\nOne small request to the management: please start the sauna and steam facilities as soon as possible. It would greatly enhance the overall experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Chrislyn Stephanie",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I joined Restart Gym last August, and I truly don’t regret it at all. From day one, the environment has been incredibly positive, welcoming, and safe.\n\nAs someone completely new to the gym, I was a bit nervous at first, but the trainers made all the difference. All the trainers are kind, supportive and helpful which made my journey so much easier.\n\nI took personal training sessions with Coach Jagdish, and he’s truly amazing. He was friendly and supportive throughout. I told him I wanted to focus on strength training and reduce lower body fat, and he planned my workouts accordingly. But more than that, I ended up building overall strength too. Within 5 months, I could clearly see the results, and I was genuinely happy with my progress.\n\nNow, the gym has become my happy place. It’s always clean, well-maintained, and properly equipped. The people there are genuinely supportive and kind, which makes such a big difference.\n\nThank you Restart for changing my life 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "anil salve",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I've been training at ReStart Fitness Center & Gym for a while now, and it's been a great experience. The gym is clean, has all the equipment you need, and the atmosphere is very motivating. A special thanks to Mr. Arun Kumar, who is always supportive and pushes you to do your best. Highly recommend this place to anyone serious about fitness.",
+   "owner_reply": null
+  },
+  {
+   "author": "haris",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "The gym has good equipment, but the biggest issue is the lack of attention from most trainers. They are not bothered about what exercises members are doing, and they don’t properly teach how to use the machines or perform exercises with the correct form. This can be risky, especially for beginners.\n\nThe only trainer who genuinely helps everyone is Showrya. He gives proper instructions, corrects form, and provides good guidance during workouts. His training and support are the main positive experience in this gym.\n\nI hope the management improves the involvement and professionalism of the other trainers.",
+   "owner_reply": null
+  },
+  {
+   "author": "Arshdeep Singh",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Shourya sir is the best fitness coach i have ever meet  Always motivate and push to lift more.guys if u want to start your fitness journey come train with shourya sir and team . Thank u",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed Idris",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I would like to share my feedback regarding my trainer, Jagadish. Honestly, he is a very kind and professional person. Even though I joined recently, I had a training session with him, and during that time I learned many useful things about my body and fitness.\nHe has strong knowledge of physical training and explains everything very clearly. His way of communicating is excellent, which makes it easy to understand and follow his guidance. I truly appreciate his support and dedication.\nOverall, the gym environment is also very good. The atmosphere is positive, and the staff and members are friendly, which makes the experience even better.💕",
+   "owner_reply": null
+  },
+  {
+   "author": "Dija Dev",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Restart Fitness has been awesome to me. I have had nothing, but good experiences. I had a 3 months personal fitness training under the trainer, Mr.Ajay, which turned to be fruitful for me. He had been a wonderful trainer with the ability of making anyone in love with the fitness. His training inspired me to be punctual and more conscious about the health.\nMoreover, the gym has a wide range of facilities with great equipments. I recommend everyone to join this gym for a fruitful outcome.",
+   "owner_reply": null
+  },
+  {
+   "author": "ANI Rent A Car",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I have visited & found all the team members very cooperative, Trainers are always available for the guidance, even I had net a member from my country got his very good reviews from his one year experience. Good luck 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Anukaran Tarika",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I have been working out from last 2 months and amazing gym , good and very experienced trainers !!! Gym is so aesthetic and i feel very motivated!! Please join it and meet mr Shourya sir very experienced trainers who never let you down",
+   "owner_reply": null
+  },
+  {
+   "author": "Ashish Shriwas",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Recently I joined a grand restart gym and here my experience is wonderful, I feel positive environment & atmosphere, well quipped gym setup with supportive trainers , I’ll recommend people to join this gym facility. Specially one of trainer MY COACH SHOURYA Sir is Excellent Trainer who help me always to reach my fitness goal. I’m very happy to joined this gym.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aaron K P",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Very comfortable and accommodating gym. Good variety of equipment and facilities to hit every muscle group. The staff and trainers are also very accommodating and friendly especially joyita. Would definitely recommend if in the area !!",
+   "owner_reply": null
+  },
+  {
+   "author": "Bikram Magar",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It’s been more than 1 year for me in this gym it’s really amazing the customer service is awesome\nMore hygiene, all staff’s are very friendly Receptionist Tayseen always helps and welcomes with gesture..the trainers always guide on the floor for work out . Yoga Acharya Sir Sonu is also amazing his 1 class like stress boosting  class Zumba coach khushi is amazing her 1 Zumba session is awesome than anything . the gym is  affordable as they provide all the benefits in 1 Package and the gym is well equipped",
+   "owner_reply": null
+  },
+  {
+   "author": "Gaurav kumar",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I recently completed the T-99 Total Transformation Program, and it has been an amazing experience from start to finish. The program is very well structured and focuses not only on workouts but also on building discipline, consistency, and the right mindset toward fitness.\n\nA special thanks to Coach Jagdish, who conducted the training. His guidance, motivation, and deep knowledge of fitness made a huge difference in my journey. He explains every exercise clearly, ensures proper form, and constantly encourages everyone to push their limits in a safe and effective way. His positive attitude and dedication keep the entire group motivated throughout the program.\n\nWhat I liked most about this program is the supportive environment and the personal attention given during training sessions. Coach Jagdish genuinely cares about each participant’s progress and always pushes us to become a better version of ourselves.\n\nI highly recommend the T-99  Total Transformation Program to anyone who wants to improve their fitness, build strength, and develop a healthier lifestyle. Thank you, Coach Jagdish, for such an inspiring and transformative experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Nachappa kullachanda kalappa",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I would strongly recommend Restart gym and Mr. Arun (Trainer) for your body transformation.\nHe has strategic planning and workout methods including diet plans for fast recovery and body building.\nGym is well maintained with good ambience.\nStaffs are very friendly. Happy workout😊",
+   "owner_reply": null
+  },
+  {
+   "author": "nisar mohammed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been training with Arun Kumar and the experience has been nothing short of exceptional.He is extremely knowledgeable, motivating, and genuinely invested in helping clients reach their fitness goals.\n\nEvery session is well-structured, challenging, and tailored to my specific needs and progress. Arun not only focuses on form and technique but also educates about nutrition and recovery, which has made a big difference in overall results.\n\nWhat really sets him apart is the positive attitude and constant encouragement. Whether it’s early mornings or tough workouts,Arun always brings energy and focus to the session.\n\nHighly recommended for anyone looking for a dedicated, professional, and inspiring trainer!\n\nArun❤️👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Kabita Ghimire",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Had my first session today with Coach Jagdis sir and it was a great experience. The coach was very friendly, supportive, and made me feel comfortable even though I was nervous on my first day at the gym. The guidance and teaching style were excellent. Really enjoyed the session and looking forward to continuing 💪🤸‍♀️",
+   "owner_reply": null
+  },
+  {
+   "author": "anandhakrishnan suresh",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Great experience overall! Trainer Cijil is very friendly, supportive, and professional. Excellent guidance and service, with a great atmosphere. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rohit Daga",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I've been working out at restart fitness for the past few days and I must say it's been an excellent experience! The facility is clean, well-equipped, and has a positive and motivating atmosphere. Whether you're a beginner or a regular gym-goer, this place has everything you need for a complete workout.\n\nA special shoutout to Jagdish (trainer) who has been an incredible support. They are knowledgeable, professional, and genuinely passionate about helping clients reach their goals. He not only creates effective workout routines but also pays close attention to form and technique, which has really helped me improve.\n\nWhat I appreciate the most is the personalized approach and encouragement that keeps me motivated every session.\n\nIf you're looking for a great gym with a dedicated trainer who truly cares, I highly recommend restart fitness.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lanka Karthikeya",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "\"Sean is extremely knowledgeable about how the body works and tailored a specific training program based on my goals, abilities, and training availability.\"\"Coach Jagdish is an excellent fitness trainer. His knowledge about maintaining good health and nutritional advice is really helping me stay fit.\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Tahir Mehmood",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "From receptionist to trainers, i am fully satisfied, trainer imran khurshid, megalae, both are helping and well trained, all staff always keep smile on face and always ready to help. Its a well equipped gym. If i say in one line..  “”it is  just perfect’’",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Rayyan",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "It is such a great experience to workout in this gym, especially with certified Coach Mr Jagdish who helped me understand my body and what are the goals which needs to be achieved. He is very patient and helpful. I am very happy to part of this gym community. 🙌🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Narendra Shivdasani",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "Nice Clean Well Equiped Gym.\nAll Staff Are Very Friendly and Co Operative.\nReceptionist Miss Tayseen Welcomes Everybody with Smiling Face Always…..👌\nManagement Is Reachable Easily for Any Issue Related To Gym Or Amenities.\nI Am Taking PT Classes From Mr Liju.I Would Like To Thank Him For The Efforts He Is Putting In To Give Me Shape As I Want.He is the Best Person In Understanding Strength and Weekness Of His Students And Accordingly He Decides On The Work Out Pattern.\nHe Is also Very Good at Teaching Mobility Workouts Which Indeed are Very Important Before and After Workout To Avoid any Injury.\nHighly Recommended Gym and Their Trainers…..Specially Mr Liju….👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Manshika Tripathi",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "I've been training with Megha for several months now and I can confidently say that she is an excellent trainer. From the very beginning, she took the time to understand my goals and tailored the workouts to help me achieve them. I would highly recommend Megha to anyone looking for a dedicated and knowledgeable trainer who truly cares about her clients goals and transformation",
+   "owner_reply": null
+  },
+  {
+   "author": "Navaneeth Krishnan",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I had a really good experience with Restart fitness center. The trainers there are very supportive. Had to mention Ajay Aniyan specifically for his support. His motivation and training gave good results within short span of time. Expecting their full support going forward also.",
+   "owner_reply": null
+  },
+  {
+   "author": "kumara guru raj",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience at ReStart Fitness Centre & Gym! The facilities are top-notch, and the environment is perfect for achieving fitness goals. A special shoutout to my personal trainer, Jagdish, who has been incredibly supportive and motivating throughout my fitness journey. His expertise, personalised workout plans, and constant encouragement have made a huge difference. I highly recommend ReStart Fitness Centre & Gym and Jagdish to anyone looking to transform their fitness routine!",
+   "owner_reply": null
+  },
+  {
+   "author": "Devika S Kumar",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Very nice gym. I have trained under the trainer Ajay. He was very supportive, friendly and understanding. Overall nice and friendly gym to regain ur fitness....",
+   "owner_reply": null
+  },
+  {
+   "author": "Simran Kaur",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I was doing workout for 6 months..Gym atmosphere was too good and I’m taking personal training with Miss Megha she is jus incredible…having good knowledge about all the workouts , she also friendly and motivating to reach our goal",
+   "owner_reply": null
+  },
+  {
+   "author": "Dhanesh Pandhare",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "ReStart Fitness Center its Very nice Gym has state-of-the-art equipment, knowledgeable trainers, and a supportive atmosphere that motivates me to reach my fitness goals the Trainers are Very Helpful and Shout Out To Coach Jagdish helped me alot about all exercise and how to use all the equipment properly, Proper Form and Everything not only that he also explained me about the proper Diet plans now its been 2 Months im really enjoying my fitness Routine and Definitely recommend Coach Jagdish for Personal Training",
+   "owner_reply": null
+  },
+  {
+   "author": "Jubin Varghese",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I’ve been working with Trainer Megha for about 3 months now and made some awesome progress in my fitness levels and strength! I do tend to have my off days but she keeps me motivated and gets me right back on track!! The workouts are fun, intense and definitely yielding results!!\n\nThank you Trainer Megha. Looking forward to reaching my goal weight soon",
+   "owner_reply": null
+  },
+  {
+   "author": "Aejaz Ahmed (A2)",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Very good gym.iam very happy with the facilities.Took training with Ajay Sir and he gave me good results.iam very happy with my progress",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1256,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    376,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/restart-fitness-center-and-gym/",
+ "buy_likelihood": 7,
+ "notes": "439 reviews, big gym on Rolla Street, no website and owner never replies. Pitch walk-in.",
+ "display_name": "ReStart Fitness Center"
+}

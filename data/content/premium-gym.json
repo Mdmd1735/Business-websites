@@ -1,0 +1,34 @@
+{
+ "preset": "steel-volt",
+ "theme": {"accent": "#3D7BFF", "accent_text": "#6E9BFF", "on_accent": "#FFFFFF", "duo": "#16306B", "busy": "#3D7BFF", "glow": "rgba(61,123,255,.18)", "band_accent": "#1E4FCC", "display": "\"Archivo\",system-ui,sans-serif", "google_fonts": "family=Archivo:wght@500;700;800;900&family=Inter+Tight:wght@400;500;600&family=Cairo:wght@700", "dw": "900", "dlh": ".88", "h1lh": ".88"},
+ "extra_css": ".ticker{background:#FFD400;color:#0C0E10}",
+ "brand": {"name": "Premium Gym", "sub": "Al Nakhil · Ajman", "mark": "P", "footer_word": "PREMIUM"},
+ "seo": {"title": "Premium Gym Ajman | Kingston Tower, Al Nakhil · Open 7 AM to 1 AM", "description": "Premium Gym, Kingston Tower, Al Owan, Al Nakhil 1, Ajman: new machines, free weights, cardio classes, expert coaches, child care and a protein bar. Open 7 AM to 1 AM. 4.8 from 219 reviews."},
+ "hero": {"variant": "full", "kicker": "Kingston Tower · Al Nakhil 1 · Ajman", "title_lines": ["No pain.", "No gain.", "No excuses."],
+   "lede": "New machines, a big free-weights floor, cardio classes and coaches who check your form, plus child care and a protein bar. Open 7 AM to 1 AM in Al Nakhil, Ajman.",
+   "image": "img/hero.jpg", "image_alt": "Premium Gym floor with neon signs and plate-loaded machines", "secondary": {"label": "Inside the gym", "href": "#gym"}},
+ "cta_label": "Ask about membership", "cta_text": "Hi Premium Gym, I'd like to know your membership prices.",
+ "proof_note": "The owner replies to every review",
+ "address_lines": ["Premium Gym, Kingston Tower", "Al Owan, Al Nakhil 1, Ajman"],
+ "socials": {"instagram": "premiumgymuae"},
+ "ticker": ["Free weights", "New machines", "Cardio classes", "Personal training", "Child care", "Premium Bar", "Open till 1 AM"],
+ "sections": [
+  {"type": "services", "id": "gym", "nav": "The gym", "eyebrow": "Inside", "title": "Built since 2016", "title_dim": "for people who train.",
+   "items": [
+    {"name": "Free weights & racks", "feature": true, "img": "img/racks.jpg", "alt": "Rows of dumbbells and benches", "desc": "Benches, racks and dumbbells, with machines that feel new.", "quote": "The gym is very clean and well-maintained, with new, high-quality equipment.", "cite": "Durga P."},
+    {"name": "Cable & machine zone", "img": "img/cables.jpg", "alt": "Cable crossover machine under neon", "desc": "Plate-loaded and selectorised machines."},
+    {"name": "Cardio classes", "img": "img/floor.jpg", "alt": "Neon-lit training floor", "desc": "Coached group cardio sessions."},
+    {"name": "Premium Bar", "img": "img/bar.jpg", "alt": "Premium Bar protein counter", "desc": "Shakes and supplements after your session."},
+    {"name": "Child care", "desc": "Train while the kids are looked after."}
+   ],
+   "perks": ["Open 7 AM – 1 AM", "Child care", "Wheelchair accessible", "Supplement shop"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Beat the crowd", "title": "Peak hours?", "title_dim": "Here's when it's quiet."},
+  {"type": "team", "id": "team", "nav": "Coaches", "eyebrow": "Coaches", "title": "Coach Islam,", "title_dim": "Coach Bilal and the team.",
+   "items": [{"name": "Coach Islam", "count": 3, "role": "Head coach"}, {"name": "Coach Bilal", "count": 2, "role": "Coach"}, {"name": "Coach Othman", "role": "Coach"}]},
+  {"type": "gallery", "images": [{"src": "img/reception.jpg", "alt": "Premium Gym reception", "wide": true}, {"src": "img/logo-wall.jpg", "alt": "Premium logo on a green wall"}, {"src": "img/entrance.jpg", "alt": "Gym entrance on opening day", "wide": true}, {"src": "img/neon.jpg", "alt": "No pain no gain neon sign"}, {"src": "img/supplements.jpg", "alt": "Supplement shelves"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Memberships", "title": "Ask for this month's offer.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a monthly membership?", "Do you have ladies' timings?", "What do personal training sessions cost?", "Is child care included?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Kingston Tower,", "title_dim": "Al Nakhil, Ajman."}
+ ]
+}

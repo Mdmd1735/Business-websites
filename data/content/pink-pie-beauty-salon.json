@@ -1,0 +1,35 @@
+{
+ "preset": "citrus-pop",
+ "theme": {"bg": "#FFF6F8", "surface_2": "#FFE1EA", "accent": "#D63A6E", "accent_text": "#B82A5B", "duo": "#F8C5D5", "busy": "#D63A6E", "glow": "rgba(214,58,110,.12)", "band_bg": "#2A0E18", "band_accent": "#FF9DBD", "frame": "round", "hero_ratio": "3/4"},
+ "brand": {"name": "Pink Pie", "sub": "Beauty Salon · Bur Dubai", "mark": "P", "footer_word": "Pink Pie"},
+ "seo": {"title": "Pink Pie Beauty Salon | Layered Haircuts, Keratin & Nails in Al Fahidi, Bur Dubai", "description": "Pink Pie Beauty Salon, 74th Street, Al Fahidi, Bur Dubai: layered and step haircuts by Poonam, highlights, keratin and protein treatments, gel nails, waxing and threading. 4.9 from 609 reviews."},
+ "hero": {"variant": "split", "kicker": "74th Street · Al Fahidi · Bur Dubai", "title_lines": ["Layers, steps,", "and a cut that", "finally suits you."],
+   "lede": "Bur Dubai's haircut specialists: layered and step cuts, highlights, keratin and protein treatments, plus gel nails, waxing and threading in a clean, friendly pink salon.",
+   "image": "img/hero.jpg", "image_alt": "Client with a fresh layered haircut in the Pink Pie salon", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Pink Pie, I'd like to book a haircut.",
+ "proof_note": "4.9 from 609 reviews",
+ "address_lines": ["Pink Pie Beauty Salon, 74th Street", "Al Fahidi, Bur Dubai"],
+ "ticker": ["Layered cuts", "Step cuts", "Highlights", "Keratin", "Protein treatment", "Gel nails", "Waxing"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Come for the cut.", "title_dim": "Stay for the nails.",
+   "items": [
+    {"name": "Layered & step cuts", "feature": true, "img": "img/layers.jpg", "alt": "Long layered haircut from behind", "desc": "Haircuts come up in 23 of our last 30 reviews.", "quote": "Poonam ma'am did a fantastic haircut for me, just like I wanted.", "cite": "Akanksha W."},
+    {"name": "Highlights & colour", "img": "img/waves.jpg", "alt": "Glossy layered hair", "desc": "Highlights, global colour and touch-ups."},
+    {"name": "Keratin & protein", "img": "img/keratin.jpg", "alt": "Long straight hair after keratin", "desc": "Smoothing and repair treatments."},
+    {"name": "Gel nails & extensions", "img": "img/nails-french.jpg", "alt": "Ombre French nails", "desc": "Gel, extensions and nail art by Anu."},
+    {"name": "Waxing & threading", "desc": "Brazilian wax, waxing, threading, manicure and pedicure."}
+   ],
+   "perks": ["Open daily 10 AM – 9:30 PM", "Appointments recommended", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "No waiting", "title": "Book a weekday", "title_dim": "for the quietest chair."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The stylists", "title": "Ask for Poonam.", "title_dim": "Everyone else does.",
+   "items": [
+    {"name": "Poonam", "count": 19, "role": "Senior hair stylist", "quote": "Excellent salon for haircuts. Loved my new look given by Poonam.", "cite": "Niya S."},
+    {"name": "Anu", "role": "Nail artist"}, {"name": "Pushpa", "count": 3, "role": "Beauty & waxing"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/layers2.jpg", "alt": "Layered cut"}, {"src": "img/nails.jpg", "alt": "Pink ombre nails"}, {"src": "img/bob.jpg", "alt": "Voluminous layered cut"}, {"src": "img/nails3.jpg", "alt": "Lilac nails", "wide": true}, {"src": "img/storefront.jpg", "alt": "Pink Pie Beauty Salon storefront"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Prices", "title": "Ask for today's price.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a layered haircut?", "What does keratin cost for long hair?", "Price for gel nail extensions?", "Can I come in today?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "74th Street,", "title_dim": "Al Fahidi."}
+ ]
+}

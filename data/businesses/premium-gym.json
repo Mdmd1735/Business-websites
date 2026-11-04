@@ -1,0 +1,1204 @@
+{
+ "slug": "premium-gym",
+ "name": "Premium Gym",
+ "place_id": "ChIJo_Q_CwBXXz4R-oQ2-oaiRSU",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Ajman",
+ "address": "Kingston Tower - Al Owan - Al Nakhil 1 - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.4086938,
+  "lng": 55.4431987
+ },
+ "phone": "+971 56 255 0017",
+ "rating": 4.8,
+ "userRatingCount": 219,
+ "rating_distribution": {
+  "oneStar": 7,
+  "twoStar": 1,
+  "threeStar": 3,
+  "fourStar": 3,
+  "fiveStar": 205
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Premium%20Gym&query_place_id=ChIJo_Q_CwBXXz4R-oQ2-oaiRSU",
+ "website": "https://www.instagram.com/premiumgymuae?igsh=MTN5bWR2bzNqbmJiMQ%3D%3D&utm_source=qr",
+ "categories": [
+  "Fitness center",
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "3 AM to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "7 AM to 1 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "7 AM to 1 AM"
+  }
+ ],
+ "owner_description": "Premium Gym: Designed to complement your luxurious lifestyle since 2016, with our first branch located in UAE.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   },
+   {
+    "Online classes": false
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   },
+   {
+    "Assistive hearing loop": false
+   },
+   {
+    "Wheelchair accessible restroom": false
+   }
+  ],
+  "Amenities": [
+   {
+    "Child care": true
+   },
+   {
+    "Has a tennis court": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Shower": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking garage": true
+   },
+   {
+    "Free parking lot": true
+   },
+   {
+    "On-site parking": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "Coach Islam",
+  "expert coaches",
+  "new machines",
+  "Gym cleanliness",
+  "Coach Othman",
+  "Cleanliness of the place",
+  "cardio classes",
+  "Equipment quality",
+  "helpful coaches",
+  "Classy service"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 3
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 3
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 23
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 32
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 30
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 28
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 2,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 25
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 23
+   }
+  ]
+ },
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "kialsjjaka",
+   "rating": 3,
+   "when": "a month ago",
+   "text": "The gym is of okay quality, a wide variety of equipment to assort from. As well as a physical area for stretching, yoga, and bodyweight exercises. However there are still major core problems\n\n1 - Some lights are broken and have not been repaired for a long while from around the gym, meaning that some equipment in the corners that'd you use. It'd be hard to see the weight number you're putting and more difficult to look and find handles. For that, I am deducting one star\n\n2 - No free wifi, I'd expect for the price of the gym. They'd provide the minimum convince of allowing people to connect to wifi provided alongside with a gym membership. As it'd greatly increase the experience and make the gym feel like a 2nd home. For that, I am deducting another star.\n\nBut with all being said, the equipment is great in terms of variety and accessiblity. And the employees are friendly.",
+   "owner_reply": "Thank you, kialsjjaka, for your detailed feedback. We’re sorry that the lighting and lack of Wi-Fi affected your workouts, and we appreciate your comments about the equipment and staff. Please speak with our reception team about the areas you found difficult to use so we can understand your concerns in more detail."
+  },
+  {
+   "author": "Durga Prasad Kurimella",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I recently joined Premium Fitness Gym in Al Ain, and I’m extremely happy to be here. The gym is very clean and well-maintained, with new, high-quality machines that make every workout enjoyable. The environment is excellent — friendly, motivating, and perfect for anyone serious about fitness.\nThe coaches are very supportive, always ready to guide and help with proper form and training plans. Their encouragement truly makes a difference.\nOverall, it’s a fantastic gym and I’m really glad to be a member. Highly recommended! 💪✨",
+   "owner_reply": "Thank you for your thoughtful review, Durga Prasad. We are glad you appreciated the cleanliness, equipment, and motivating atmosphere. Your kind words about the coaches and their guidance mean a great deal to us."
+  },
+  {
+   "author": "Just friendly",
+   "rating": 1,
+   "when": "a month ago",
+   "text": "Unfortunately, my experience at this gym was disappointing. The gym is very hot because the air conditioning is not properly turned on, and the overall smell inside the gym is unpleasant.\n\nAlso, the coaches do not seem to have enough knowledge or experience to properly guide members during training.\n\nI hope the management takes these issues seriously, especially the cleanliness, ventilation, air conditioning, and quality of coaching. These are basic things that should be improved for a better experience for members.",
+   "owner_reply": "Thank you, Just friendly, for explaining your concerns. We’re sorry your experience felt uncomfortable and disappointing, particularly regarding the heat, odour and coaching support. Please speak with our reception team and share when you visited so we can better understand your experience."
+  },
+  {
+   "author": "zimaaa",
+   "rating": 2,
+   "when": "a month ago",
+   "text": "Decent gym, but unfortunately lacking a really important thing. For the price, I'd expect free wifi. But they don't have it there, You'd have to pay for data to access fitness apps and listen to music. This gym would easily be one of the best in Ajman if only they had started having free wifi.",
+   "owner_reply": "Thank you for your feedback, Flare. We understand that access to Wi-Fi is useful for fitness apps and music, and we’re sorry this affected your experience. We appreciate your positive comments about the gym, and our reception team would welcome the opportunity to discuss your suggestion with you."
+  },
+  {
+   "author": "sajjad hussain syed",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Great premium gym with a really good atmosphere and excellent equipment. The trainers are friendly and professional. Special thanks to Bilal—he’s a great trainer, very supportive and helpful. Highly recommended! 💪",
+   "owner_reply": "Thank you for your recommendation, Sajjad. We’re pleased you enjoyed the atmosphere and equipment, and we appreciate your special mention of Bilal’s support."
+  },
+  {
+   "author": "FAISAL MOHAMMED",
+   "rating": 5,
+   "when": "Edited a month ago",
+   "text": "Excellent Gym with Great Equipment and Experienced Trainers\n\nI have been a member of Premium Gym since 2021, and I’ve had a very good experience here. The equipment is excellent, the gym is clean and hygienic, and the overall atmosphere is motivating.\n\nThe trainers—especially Islam, who has been with the gym for many years, along with Ahmed and Bilal—are all very experienced, supportive, and professional. The personal training is excellent, and I have personally seen many people achieve impressive transformations with their guidance and consistent training.\n\nI would also like to mention the owner, Dr. Mustafa, who is very friendly and approachable. He personally takes an interest in the members, helps during workouts, and even corrects postures when needed. That personal attention makes a big difference.\n\nOverall, I highly recommend Premium Gym to anyone looking for a well-equipped, clean gym with experienced trainers, excellent personal training, and a friendly atmosphere.",
+   "owner_reply": "Thank you for such a detailed review, Faisal. We are delighted that you value the equipment, cleanliness, and motivating atmosphere. Your recognition of Islam, Ahmed, Bilal, and Dr. Mustafa’s approachable manner means a great deal to the team. We appreciate your recommendation and trust."
+  },
+  {
+   "author": "walid galal97",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "from my openion that Gym is perfect, I liked it because it’s machines is very modern pluse high style, professional team are there and they are supporting everyone specially the new members",
+   "owner_reply": "Thank you, Walid, for sharing your experience. We’re pleased the equipment and the team’s support, especially for new members, made a positive impression."
+  },
+  {
+   "author": "Munsif Khan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The gym is outstanding and the stuff is very kind and professional all the equipment is new and very good quality of equipment and there is the guy available for cleaning all the time to keep clean it's very clean gym there is nice smell all the time I love it",
+   "owner_reply": "Thank you, Munsif, for your detailed review. We’re pleased you appreciated the equipment, cleanliness and the team’s kind, professional approach."
+  },
+  {
+   "author": "Danyal Sayyed",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great gym with all of the essential equipments needed for a great workout. Trainers and gym personnel are also kind and very nice.",
+   "owner_reply": "Thank you, Danyal, for your thoughtful review. We’re pleased you found the equipment suitable for your workouts and the trainers and staff welcoming."
+  },
+  {
+   "author": "Anoop r",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Neat and tidy with almost all types of equipment. Cleanliness is commendable and a place to do ground workouts.",
+   "owner_reply": "Thank you, Anoop, for highlighting the cleanliness, equipment and floor workout space. We’re glad these made your experience a positive one and appreciate your feedback."
+  },
+  {
+   "author": "Arnulfo Cabuday",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "i recomend this gym,,very clean and fresh,all equipments are good and quality😊😊😊",
+   "owner_reply": "Thank you for your recommendation, Arnulfo. We’re pleased you enjoyed the clean surroundings and equipment, and we appreciate your five-star review."
+  },
+  {
+   "author": "Myassar Kab",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "From day one at the gym, coach Islam was the guy who supported me. I liked the gym and the vibe there.",
+   "owner_reply": "Thank you, Myassar, for sharing your experience. We’re pleased Coach Islam helped you feel supported from the start and that you enjoyed the atmosphere."
+  },
+  {
+   "author": "Himmat Singh sahota",
+   "rating": 4,
+   "when": "2 months ago",
+   "text": "Great gym to have in your building and coaching staff is great to have",
+   "owner_reply": "Thank you, Himmat, for your kind feedback. We’re glad the location is convenient for you and that you appreciate the coaching team."
+  },
+  {
+   "author": "Shafiur Rahman",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Excellent environment, good place for gym",
+   "owner_reply": "Thank you, Shafiur, for your kind feedback. We’re pleased you enjoyed the environment and found it a good place to train."
+  },
+  {
+   "author": "Shijo Joy",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Good gym and ambience nice coach available Mr islam",
+   "owner_reply": "Thank you, Shijo, for your feedback. We’re glad you enjoyed the atmosphere and appreciated Coach Islam’s support."
+  },
+  {
+   "author": "Abdullah MK",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Gym is so good my training got better with the new equipment",
+   "owner_reply": "Thank you, Abdullah, for sharing your experience. We’re pleased the new equipment has been a helpful addition to your training."
+  },
+  {
+   "author": "Muhammad Farhan KT",
+   "rating": 4,
+   "when": "Edited a year ago",
+   "text": "Gym Inauguration 08/12/2024 Sunday\nGood facilities\nMixed Gym\nSeparate Ladies timings from 10 - 2",
+   "owner_reply": "Thank you, Muhammad, for sharing your impressions of our facilities around the gym’s opening. We appreciate your four-star rating and the time you took to leave this feedback."
+  },
+  {
+   "author": "Moha Dreamer",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best gym at Ajman , high quality equipments , very clean and the trainers there so helpful\nI requmend this gym for who really wants to go level up.",
+   "owner_reply": "Thank you for your recommendation, Moha. We are pleased that you valued the equipment, cleanliness, and support from our trainers. We appreciate you choosing Premium Gym for your training."
+  },
+  {
+   "author": "Wardah Faraz",
+   "rating": 3,
+   "when": "2 months ago",
+   "text": "Starting time needs to be 5 am for people who like to workout before their work starts 7 am people are already at work request the management to look into this",
+   "owner_reply": "Thank you for your suggestion, Wardah. We understand that a 5 am opening would make it easier to train before work, and we’re sorry our previous reply did not properly acknowledge that need. We appreciate your feedback and invite you to discuss your preferred training times with our reception team."
+  },
+  {
+   "author": "zaheer surve",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Good gym. Near and clean with good quality equipment and well trained staff who is available there always to assist. Like their cardio classes  which they are conducting during the week. Enjoying a lot",
+   "owner_reply": "Thank you for your recommendation, Zaheer. We are delighted that you enjoy the cardio classes and appreciate the equipment, cleanliness, and support from our team. It is lovely to hear that you are enjoying your workouts."
+  },
+  {
+   "author": "MAHER BENHSANOU",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "A Top place To practice in and clean gym that has all the equipment needed by athletes from various sports, and this is what I like about it. The equipment is new and clean, and the trainers are at the highest level and are very friendly and fun. I don’t think anyone would miss out on subscribing with specifications like this or find a better solution than this gym.",
+   "owner_reply": "Thank you, Maher, for sharing what you enjoyed about the gym. We’re pleased the range of equipment and friendly trainers made a positive impression, and we appreciate your recommendation."
+  },
+  {
+   "author": "Dal B",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This gym is excellent—it's always clean, well-organized, and has plenty of space, even during peak hours. The equipment is in great condition, and there's a wide variety to choose from. Highly recommend. 👍",
+   "owner_reply": "Thank you, Dal, for your thoughtful recommendation. We are pleased you appreciate the clean, organized space and the range and condition of the equipment, including during busier hours."
+  },
+  {
+   "author": "Jansson Jose",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best gym in Ajman without any confusion. The   trainers here are very friendly and also the equipments are very advanced. If you want to make videos or take good quality pictures then you are at the right place as the ambience of the gym is very cool and you're welcome if you are a content creator. Do a visit and know about the exciting offers.",
+   "owner_reply": "Thank you, Jansson, for sharing such detailed feedback. We’re pleased the equipment, welcoming trainers and atmosphere stood out to you, and we appreciate your recommendation."
+  },
+  {
+   "author": "Ashfaque Ameer",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great gym with excellent equipment! The trainers are knowledgeable and always ready to assist. Clean and well-maintained facilities make every workout enjoyable. Highly recommend!”",
+   "owner_reply": "Thank you, Ashfaque, for your thoughtful recommendation. We’re pleased the equipment, helpful trainers and clean facilities contributed to enjoyable workouts."
+  },
+  {
+   "author": "SOLOM TUBE",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Excellent and perfect coaching.\nHighly Recommended.",
+   "owner_reply": "Thank you, SOLOM TUBE, for your recommendation. We’re pleased the coaching made a positive impression and appreciate your support."
+  },
+  {
+   "author": "Aya Aburden",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "\"An excellent gym with top-notch facilities, professional trainers, and a motivating atmosphere. 💪🏻💪🏻",
+   "owner_reply": "Thank you for your thoughtful review, Aya. We are delighted that the facilities, trainers, and atmosphere make your workouts feel motivating. We appreciate you being part of Premium Gym."
+  },
+  {
+   "author": "Hassan Bhatti",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Very good gym in ajman ❤️",
+   "owner_reply": "Thank you, Hassan, for your kind review. We’re pleased you enjoyed the gym and appreciate your support."
+  },
+  {
+   "author": "Kujo",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Premium gym as a team of professional trainers—knowledgeable, certified, and committed to providing personalized support and motivation. Whether you're looking to build muscle, lose weight, or improve overall wellness, premium gym delivers the tools and guidance you need in a clean, modern, and motivating environment.",
+   "owner_reply": "Thank you, Kujo, for your detailed feedback. We are pleased you value the trainers’ guidance and motivation, as well as the clean environment. Your recommendation means a great deal to our team."
+  },
+  {
+   "author": "Walaa Ahmed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Honestly, my experience at PRemiunGym was one of the best fitness experiences I’ve had. From the moment you walk in, you feel comfortable — the place is clean, whether it’s the equipment or the locker rooms.",
+   "owner_reply": "Thank you, Walaa, for sharing such thoughtful feedback. We are pleased you felt comfortable from the moment you arrived and appreciated the cleanliness of the equipment and locker rooms."
+  },
+  {
+   "author": "shenu george",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I’ve been going to this gym for a while now, and I’m really happy with it.. The ambience is clean, well-maintained, and motivating – a great environment to work out in. Highly recommend for anyone looking for a solid fitness space nearby!",
+   "owner_reply": "Thank you, Shenu, for your recommendation and continued support. We’re pleased the clean, motivating atmosphere has made training here enjoyable for you."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    718,
+    1202
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1064,
+    1479
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1095,
+    736
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    576,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    242,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/premiumgymuae?igsh=MTN5bWR2bzNqbmJiMQ%3D%3D&utm_source=qr",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "premiumgymuae"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 73,
+ "socials": {
+  "instagram": "premiumgymuae"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/premium-gym/",
+ "buy_likelihood": 9,
+ "notes": "Replies to 100% of reviews, Instagram active, says 'first branch' (growth-minded). Big modern gym with no website.",
+ "display_name": "Premium Gym"
+}

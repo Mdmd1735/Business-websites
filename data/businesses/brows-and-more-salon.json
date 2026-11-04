@@ -1,0 +1,1176 @@
+{
+ "slug": "brows-and-more-salon",
+ "name": "BROWS AND MORE SALON",
+ "place_id": "ChIJd5uwaS9dXz4Rxxx0z4wKAZM",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "Flat #401, Al Zarooni - Al Rigga Rd - above Westzone Supermarket - Al Muraqqabat - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2645622,
+  "lng": 55.321985
+ },
+ "phone": "+971 50 237 3029",
+ "rating": 4.8,
+ "userRatingCount": 910,
+ "rating_distribution": {
+  "oneStar": 31,
+  "twoStar": 5,
+  "threeStar": 12,
+  "fourStar": 49,
+  "fiveStar": 813
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=BROWS%20AND%20MORE%20SALON&query_place_id=ChIJd5uwaS9dXz4Rxxx0z4wKAZM",
+ "website": "https://linktr.ee/browsandmore",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Brows and More Salon is one of the foremost and trendiest salons based in Dubai. We provide a full range of personal care services to every fashion and beauty enthusiast. You can choose from premium lash extensions, microblading and skin treatments at competitive prices.\n\nModern and advanced beauty treatments at the salon ensure clients are pampered and look their best at all times. Our highly-trained and professional team of experts offer microblading, lash extensions, radiant skin, stunning nail art, and much more. Our salon features a luxurious, upscale ambiance as well as the best beauty products, services, and amenities.",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "microblading",
+  "microshading",
+  "eyebrows",
+  "eyebrow shaping",
+  "accommodating staff",
+  "bb glow facial",
+  "eyelashes",
+  "eyebrow threading",
+  "nail extensions",
+  "eyelash extensions"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.1,
+ "reviews": [
+  {
+   "author": "Corazon Intino Haddad (Mimi)",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had such a wonderful experience at Brows and More Salon! Anita was absolutely amazing—very professional, friendly, and attentive. I especially loved the pedicure, massage, and eyebrow threading. She did such a great job and made me feel so relaxed and pampered.\n\nHighly recommend Anita and Brows and More Salon! I’ll definitely be coming back. ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "alyssa k",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "I went to this salon on Thursday to get my hair dyed black specifically to cover the lighter sections in my hair. Black is one of the most straightforward colors to achieve, yet only three days later and before I’ve even washed my hair once, you can already see lighter patches showing through.When I contacted the salon, instead of taking responsibility, they insisted the color looked black when I left and suggested that I “must have done something” to my hair, despite me telling them I hadn’t even shampooed it yet.They also claimed it couldn’t be their product or technician because it looked fine after the blow dry.I requested a full refund because I no longer trust the product used on my hair. Instead, they refused to refund me and only offered a touch up with a different technician. My issue isn’t just the technician, it’s that the color didn’t last even until my first wash, and I don’t want the same product used on my hair again.\nI expected much better customer service. Rather than acknowledging my concerns, they blamed me and refused to take accountability. Unfortunately, I can’t recommend this salon based on my experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "CessaMwaa",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Thank you so much, Sunita, for the amazing foot spa! 🥰 I’ve been to other salons, but honestly, yours is the one I loved the most. You removed all the dry skin on my feet, and they don’t feel itchy anymore. I’m so happy with the result! Highly recommended! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Marie cris Novilla",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "From an honest review. Ms sunny did an exceptional job in shaping my eyebrow... Makapal original na eyebrow ko Kaya mix ang pinili q na stroke . I am so satisfied with the result. More than 1 month na tong kilay ko Ngayon Lang ako nahreview kase gusto ko muna matry Kung di talga natatangal.Thank you Ms sunny.  😍 Microblading Hairstroke +shading  ❤️\n\nFor my Nails, I would like also to appreciate MS. Luan. Her personality is great and her service is exceptional. I highly recommend BROWS AND MORE SALON. All of their staff are amazing.I hope your service will never change and your staff will remain as exceptional as they are. Thanks a lot.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jen Casa",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had an amazing experience at brows and more salon! My microshading looks natural and beautifully shaped, my keratin treatment left my hair smooth and shiny, and my nails turned out perfect. The team was professional, gentle, and very attentive. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Joanne Agustin",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I’m very happy with my microshading experience with Ms. Sunny! She was very professional, gentle, and attentive throughout the whole process. She made sure I was comfortable and explained everything clearly. I really love how my eyebrows turned out—natural, neat, and beautifully shaped. ❤️\n\nThank you so much, Ms. Sunny, for your amazing work! I highly recommend her to anyone looking for beautiful and natural-looking brows. ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Manisha Shahi",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "\"I cannot recommend brows and more  enough. From the moment I arrived, the entire team made me feel comfortable and pampered special thanks to Miss anita and naila ,\nMiss anits did an incredible job to look perfect with my highlights likely Miss naila relax me with her incredible massage i step out so refreshed, taking extra care to make sure it looked perfect. The salon is clean, relaxing, and the service is top-notch.\" Surely will be back Highly recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Ronelyn Mesias",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I finally found the best hair rescuer! Thank you, Mary, for saving my super dry and damaged hair.\n\nI was hesitant at first since it was my first visit to the salon, but after two weeks, the results speak for themselves. My hair is healthier, smoother, and still stays straight even after swimming.\n\nShe also gave me the perfect haircut that really suits my look. Highly recommended! 💖✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Sawera Khan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "This is me after washing it. It's so light and soft. Their work is great and their staff is so caring and my face is glowing after my facial.❤️❤️❤️❤️❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Lucy Taurus",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I really love my nails artist Kun, she's is the best not just that you requested the style and she even gives advice that which size/style will match for you 😄😄😄. I introduce all the friend and they become customers of her now. 🥰🥰🥰",
+   "owner_reply": "Hello,<br> Thank you so much for your kind words and for taking the time to leave us a review! We're thrilled to hear you had a great experience at our salon. Your satisfaction means everything to us, and we look forward to welcoming you back soon!<br>Warm regards, Brows and More Salon Team"
+  },
+  {
+   "author": "Jireh Linsi Taan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful experience with Ms. Carren! She did an amazing job on my nails and provided such great customer service throughout my visit. She was very professional, friendly, and attentive to detail, making sure I was comfortable and happy with the results. I truly appreciate her effort and would highly recommend her to anyone looking for quality nail care. Thank you, Ms. Carren! 💅✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Shova Laxmi Rai",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Highly recommend!!\n\nIt was amazing service by Mary. I just did my hair colour and it was so great. Thank you for your beautiful service Mary💕 also she’s so humble.\n\nAlso I did nails 3 days ago she was so good and very fast. I will be back next month thank so much guys.",
+   "owner_reply": "Hello,<br> Thank you so much for your kind words and for taking the time to leave us a review! We're thrilled to hear you had a great experience at our salon. Your satisfaction means everything to us, and we look forward to welcoming you back soon!<br>Warm regards,<br> Brows and More Salon Team"
+  },
+  {
+   "author": "Sayani Mondal",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Excellent Experience with Mary at Brows & More Salon, Al Rigga!\n\nI recently got my haircut and blow-dry done by Mary, and I honestly couldn’t be happier! She is an absolute gem — professional, friendly, and incredibly talented. At first, I was a bit skeptical about getting a haircut in Dubai, but Mary completely changed my perception.\n\nAs a senior hairdresser and head stylist, she truly knows what suits your face and personality. She gives honest suggestions and ensures you walk out feeling confident and beautiful. Her skills and precision are outstanding, but what makes her special is her caring and compassionate nature. She makes every client feel valued and comfortable — no wonder everyone asks for her by name!\n\nI’ve developed such a great bond with her, and honestly, I visit the salon only because of Mary. She’s polite, polished, and always goes the extra mile to make sure you’re happy with the result.\n\nTo the management: Please recognize her amazing work — she truly deserves a raise! Talented professionals like Mary are the reason clients keep coming back.\n\nHighly recommend her to anyone looking for the best hair experience in Dubai! 💇‍♀️✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Jamaica",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best salons I've been to in Dubai. The staff are accommodating and approachable. 🥰 They offer a wide range of services, and you'll feel like you're in a high-class salon because of their amenities. Yet, the services are very affordable and of high quality. Thanks Queenie for my eyebrows, Urmala for my nails ♥️\n\nThey also gave me an unexpected gift, something I haven't experienced at other salons. 🥹 Kudos to the CEO of this salon 🌺",
+   "owner_reply": "Hello,<br>Thank you so much for your kind words and for taking the time to leave us a review! We're thrilled to hear you had a great experience at our salon. Your satisfaction means everything to us, and we look forward to welcoming you back soon!<br>Warm regards, <br>Brows and More Salon Team"
+  },
+  {
+   "author": "Alia Magbanua",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "My first experience here in brows and more salon in rigga branch  for the first time i do eye brow shading and they make it perfectly.. staff are amazing and attentive, the price are worth it when you see the result, place is tiny but cozy, that’s why I didn’t hesitate to bring my manager also here and she really like it the shaping of her eye brow and amazing results of her eye lashes 🥰 it’s really highly recommended thank you and keep it up.",
+   "owner_reply": null
+  },
+  {
+   "author": "Natasha Kabwe",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Luan did an excellent job with my nails and eyelashes. It was my first time at Brows and More and I totally loved the experience! I highly recommend them!",
+   "owner_reply": null
+  },
+  {
+   "author": "Grace Bliss",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "Zero customer service especially the indian lady at the reception but the lady who is doing the lashes mary is very good and the one who does micro shading (Nani) is perfect with her job.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sadia Ahmed",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "Please  my humble  request  to all ladies Please  choose your own colour  if you planning  to do lips shading  bcz she put me very agly colour  .now I facing my look is to much ugly.now i dont  have solution  for this how i remove  my lips colour. So much ugly my face now.",
+   "owner_reply": null
+  },
+  {
+   "author": "Linda Asobo",
+   "rating": 5,
+   "when": "Edited 10 months ago",
+   "text": "Lily and sunny are amazing, and customer service is excellent, this place is tasted and trusted. They are excellent, I recommend 💯 %",
+   "owner_reply": null
+  },
+  {
+   "author": "Mae Leyva",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had my very pretty nails done with Luan and Sunitha. Great service and very friendly staff. Surely will be back again here.",
+   "owner_reply": null
+  },
+  {
+   "author": "Gretchen Acenas",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Im very satisfied of her work.\nThank you ate mary for your patient and for my new hair color..its so nice po💚",
+   "owner_reply": null
+  },
+  {
+   "author": "juvy lumacang",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had an amazing day ,I did my brows shading, lip blushing, and mani pedi footspa and hairspa,im super satisfied with their service 5 star 🥰🥰🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "Xydee Du-oma",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "My experience was great, i love my hair done with ms Mary and i am satisfied with my eyebrows ,well done brows and more",
+   "owner_reply": null
+  },
+  {
+   "author": "kamar bibi",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Highly recommended.\nHighly praised for pain-free and professional threading results, with specialists like Mary 😊..",
+   "owner_reply": null
+  },
+  {
+   "author": "divya murukan",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I had a wonderful experience from Brows. The staff are extremely polite, professional, and welcoming. They really listen to what you want and deliver beautiful results. The salon is clean, relaxing, and well maintained. I felt pampered and confident when I left. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "fule 90",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "Good service, lovely staff and amazing brows. Highly recommend. They provide other services as well",
+   "owner_reply": null
+  },
+  {
+   "author": "Scher Mayne",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Mary is the best. She explain thoroughly what she gonna do and recommends what’s best for my hair type. Highly recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Pearly Shell's",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "I’m writing to express my dissatisfaction with the service I received from the receptionist during my recent visit to Brows and More. This was my second time coming to your salon, and unfortunately, both times I encountered the same rude and unprofessional behavior from the receptionist.\nWhile I have no complaints about the services provided by Sunny, who did my sister’s microshading and whom we were both very satisfied with, I found the receptionist’s attitude to be consistently unwelcoming and discourteous. The behavior was not only off-putting but also left a negative impression on my experience at your otherwise excellent salon.\nI believe it’s important to bring this matter to your attention so that you can address it with your team. I would appreciate it if future visits could be handled with more respect and professionalism from the front desk staff.",
+   "owner_reply": null
+  },
+  {
+   "author": "Joanna Marie Villanueva",
+   "rating": 1,
+   "when": "7 months ago",
+   "text": "I had an absolutely terrible experience at this salon. I got my eyebrows microbladed last January, and from the very beginning, they were uneven. I asked them to fix it, and they told me it could only be done after my eyebrows healed. They promised me a “special technology” would correct it by February.\n\nI waited an entire month for the fix. I even had to cut my bangs to hide my failed eyebrows, feeling self-conscious every day. I was so excited to finally get it corrected… but when I went back, it was another disappointment. My eyebrows ended up thicker than before and still completely uneven.\n\nI feel so frustrated, hurt, and honestly traumatized by this experience. I just wanted eyebrows I could feel confident in, and instead, I’ve been left stressed and disappointed for months.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kayla Ong",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "NAYLA is the BEST 👌🏻 ive been looking for a good massage place in Dubai and she did not disappoint at all. ♥️",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    266,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    347,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://linktr.ee/browsandmore",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 77,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/brows-and-more-salon/",
+ "buy_likelihood": 7,
+ "notes": "910 reviews, women-owned, Instagram-driven brow studio. Rarely replies (10%), so pitch in person or on WhatsApp.",
+ "display_name": "Brows and More Salon"
+}

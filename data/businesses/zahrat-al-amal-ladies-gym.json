@@ -1,0 +1,479 @@
+{
+ "slug": "zahrat-al-amal-ladies-gym",
+ "name": "نادي زهرة الامل للسيدات - Zahrat Al Amal Ladies GYM",
+ "place_id": "ChIJp9G2U7pbXz4RkPYjyT_1QrE",
+ "category": "yoga studio",
+ "category_weight": 12,
+ "area": "Al Majaz, Sharjah",
+ "address": "Al Khan - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3289937,
+  "lng": 55.3737203
+ },
+ "phone": "+971 54 556 6021",
+ "rating": 5,
+ "userRatingCount": 329,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 1,
+  "fiveStar": 327
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=%D9%86%D8%A7%D8%AF%D9%8A%20%D8%B2%D9%87%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%85%D9%84%20%D9%84%D9%84%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA%20-%20Zahrat%20Al%20Amal%20Ladies%20GYM&query_place_id=ChIJp9G2U7pbXz4RkPYjyT_1QrE",
+ "website": "",
+ "categories": [
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 1 PM, 5 to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 1 PM, 5 to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 1 PM, 5 to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 1 PM, 5 to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "Closed"
+  },
+  {
+   "day": "Saturday",
+   "hours": "6 to 9 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 1 PM, 5 to 10 PM"
+  }
+ ],
+ "owner_description": "We Empower women to live a lifestyle of confidence, happiness, fitness and health",
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "Coach Amal",
+  "Body sculpting",
+  "Belly dancing",
+  "Zumba",
+  "Exciting atmosphere",
+  "Varied exercises",
+  "Gym cleanliness",
+  "female trainer",
+  "energetic coach",
+  "Various classes"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.37,
+ "reviews": [
+  {
+   "author": "Shibila Nizar",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I had a fantastic experience at the gym. The facilities are top-notch, and I was particularly impressed with the body combat training. The coach Amal is excellent and provided great guidance throughout the sessions. I truly enjoy my time at the gym and I love my fitness journey here. Peace and love ✌🏻☮️",
+   "owner_reply": null
+  },
+  {
+   "author": "Zeeba Kalan",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I’m in absolute love with the gym and my gym instructor- Amal. She’s full of energy, full of life and has this bright smile that’s so heartwarming. I joined to shape my body and to lose a bit of weight. I managed to achieve them both because of her constant push and regular classes. It’s been only 3 months. Apart from that, I love the place, the environment, the people that come here and technically, everything else. Everyone is so kind and giving. I enjoy every class, including our dance fever classes. The belly dancing classes with Maha are a plus point. I’d also like to add, I don’t see an improvement in my body only. I see a whole new person on an emotional and mental level. I couldn’t be more grateful! Love and light x ♥️✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Parveen",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I absolutely love the atmosphere at this gym! It’s always positive, motivating, and full of friendly faces. The group of ladies here truly makes it special. I would never usually train in the evenings, but now I actually look forward to it because I get to see Amal and the amazing group of women who make every session enjoyable. Amal is one of a kind, love her energy and she lifts everyone up the moment we walk in.\n\nBeing new to Sharjah wasn’t easy, but she welcomed me with open arms and made me feel like family. This gym is more than just a place to work out, it’s a community I’m genuinely grateful to be part of. Highly recommend! Thank you Amal 😘😘",
+   "owner_reply": "Love you dear ❤️❤️❤️❤️"
+  },
+  {
+   "author": "Zhra Mohamed",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I've been to many sports clubs, but I've never enjoyed my time like I did here. There are such friendly people, and a lovely person like Amal, with her enthusiasm and positive energy that she spreads throughout the place, which made me love it. Love you Amoola😘🥰♥️",
+   "owner_reply": "❤️❤️🌹🌹"
+  },
+  {
+   "author": "Leen",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "It was a very good and nice experience and I recommend it very much for young girls and every age",
+   "owner_reply": "Thanks dear ❤️❤️"
+  },
+  {
+   "author": "Helen Tr",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Thank you coach Amal for the amazing sessions. I'm so happy to join lately & I didn't only build muscles, I build lasting friendship. Keep the good work up 💪",
+   "owner_reply": "❤️❤️❤️🥰🥰🥰"
+  },
+  {
+   "author": "SHAHFIZZ TRENDS",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Really happy I joined Zahrat Al Amal Gym. The trainer are kind, workouts are varied, and the gym feels comfortable and encouraging for beginners too.",
+   "owner_reply": "❤️❤️❤️🥰🥰🥰"
+  },
+  {
+   "author": "Mumthaz Hassan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "My experience at the gym has been phenomenal. Their guidance has been valuable, and I've seen remarkable improvements in myself both physically and mentally. The gym offers a clean environment and a wide range of daily classes, keeping workouts exciting and varied. The availability of quality equipment further enhances the experience. The coach Amal’s motivational approach has boosted my confidence and kept me motivated throughout. I feel that I've made positive strides in my fitness journey. Overall, my time at the gym has been transformative, leaving me feeling better and more confident than ever before.",
+   "owner_reply": "Thank you for the beautiful review I am glad that you benefited from the exercises."
+  },
+  {
+   "author": "Rama Khalil",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "The best gym I have ever went to\nThe people there are so nice and motivating\nI love it so much that I keep on renewing my membership every time it finishes",
+   "owner_reply": "I love you, Rama ❤️❤️❤️❤️"
+  },
+  {
+   "author": "Mohamad Kasaby",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "This gym inspired me to workout and the coach is very kind and encouraging I honestly was surprised when i wanted to go every day ,and i really wanna thank the coach .thank you\n\nBy:nour",
+   "owner_reply": "My darling Noor, I love you too ❤️❤️❤️❤️"
+  },
+  {
+   "author": "Rizana Razak",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Great gym with a very enthusiastic trainer🩷 Clean environment and daily classes with different activities. A good amount of gym equipment is available as well! Been visiting for almost two months now and I can say that, I feel much better exercising almost everyday. 🫶🏼",
+   "owner_reply": null
+  },
+  {
+   "author": "Yamama Ali",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best experiences of my life were when I visited this club. I tried every means to lose weight, to see myself from another perspective, and to achieve this achievement. I dreamed, dreamed, and tried, and they all failed. When I adapted to the gym , I felt something inside me with a will and determination, something that pushed me to make the most important decisions of my life. I lost thirty kilograms of weight and became a completely different person. My life has changed. I have become more diligent, optimistic and energetic, and all of this is thanks to the coach Amal, who helped me and always encouraged me. After this wonderful experience, I advise everyone to visit the Gym .",
+   "owner_reply": "❤️❤️❤️❤️❤️"
+  },
+  {
+   "author": "Rubab Mohd",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "My confidence in myself has also increased since going to this gym as I’ve seen improvements in myself which I thought I might never see. The coach is amazing and motivative❤\nIn my opinion, there is nothing better then when leaving the gym and feeling like you did something which benefitted you..\nSo overall my  gym experience and the atmosphere has been pretty positive to say the least. I look better, I feel better, it’s been great for me.😍😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdullah Alazam",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I'm delighted that my mom has finally committed to going to the gym regularly because of the trainer and the enjoyable atmosphere. The gym offers a variety of classes including Zumba, aerobics, and belly dance, which has helped her maintain a consistent routine.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Ali",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Amazing experience. Highly recommended to all the ladies who are willing to lose their weight.. Amal the trainer is sooper star and really hard working 💖💖💖💖Love the environment. Gym is All time clean. My weight lose journey in 4 months is excellent and credit goes to The Trainer Amal. She is sooper energetic mashaAllah. All of you must visit this Gym 👍👍👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Rachel Kenton",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Amal is awesome!\nHer classes are super fun, energetic and she's a ray of sunshine ☀️\nNot to mention she teaches Zumba, yoga, CrossFit, sticks, steps, aerobics, kickboxing, cardio, body combat and belly dancing for a totally reasonable price. I can already see the transformation with her workouts as they are super duper effective.\nFive stars all around!! ♥️♥️",
+   "owner_reply": null
+  },
+  {
+   "author": "NAT ABD",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "You will not regret joining this amazing centre! I’ve trained in so many places but Coach Amal is so dedicated to her work and clients you will not leave without reaching your goal. I can’t thank her enough!",
+   "owner_reply": null
+  },
+  {
+   "author": "HUMA KHAN",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I've had a terrific experience at the gym with a motivated coach who is always encouraging and supporting me as I go there every day with a fresh set of exercises; no day has been the same. I'm inspired to come here every day and learn something new!👌",
+   "owner_reply": null
+  },
+  {
+   "author": "Shafaq A.Qadir",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Having a great experience at the gym with an enthusiastic coach who is always supporting and encouraging with being there everyday with a new course of exercises daily, not one day has been the same. Motivated to be here everyday at my own convinience! 👍🏼",
+   "owner_reply": null
+  },
+  {
+   "author": "Shahala Sirajudheen",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Amazing experience! Group classes are energetic, and the trainer push you to do your best.",
+   "owner_reply": "Thanks dear ❤️❤️❤️"
+  },
+  {
+   "author": "Tajally Nasir",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I’m having an awesome training with Amal. She put together her personalized & energetic workout plan to train us & explains us every move so that we’ll know what we’re doing. She is great in cardio, zumba, yoga, stretching & ofcourse belly dances. She is literally amazing. Personally. I highly recommend her. Good work Amal. God Bless you shining star. Luv yoou ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "May alneamy",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Best gym in Sharjah. Very professional trainer named Amal. She made me lose weight in a very healthy way. Also the gym is very cleaaann. I love this place and I recommend everyone in Sharjah looking for a fun and professional place.",
+   "owner_reply": null
+  },
+  {
+   "author": "ASLAM MOHAMMED",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "The gym is very nice means different classes good atmosphere amd alot of motivation from the coach .cleaniness is the key to sucess and during class we dont feel time enjoy our class andmost important i reduced.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ethar Abbadi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Perfect GYM, nice place with great vibes, Coach Amal is such an amazing trainer, I enjoy every moment of it",
+   "owner_reply": "❤️❤️❤️❤️❤️❤️"
+  },
+  {
+   "author": "Maram Zawaedi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "The gym is always clean and the coach is lively and full of energy. The exercises are full of enthusiasm and you never get bored. I recommend it to lose weight or to shape your body.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rawan Hamida",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "It's awesome , I was so fat but they really helped me and I grew muscles,the people are so friendly, it's so fun to be here and dance with your friends, the coach is so beautiful she has blonde short hair and she is so fun to be around, her energy is so amazing and it makes my day wayyyy better.",
+   "owner_reply": null
+  },
+  {
+   "author": "yasmeen emad",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I love the vibes and the environment in this gym it makes me want to go here every day the workouts are on point they made me look so athletic and the coach is very professional when ever I fell sad going to this gym makes me fell better❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Zulfa Mehemed",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "This gym is the best gym I went to it has the best coach and it has energy with great people, because of that I love to go here every day. it has everything a gym might have, if u need to go to a gym and lose Wight I really recommend you to go to coach amal",
+   "owner_reply": null
+  },
+  {
+   "author": "rawna sos",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "The best gym it’s amazing cause it’s clean , have the most loss weight classes and the coaching is perfect because there’s different movements and all type of machines and the coaching measures the changes in your body and I’m pretty sure you will find an improvement within a week.",
+   "owner_reply": null
+  },
+  {
+   "author": "rahimeh cheshmeh",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I have participated in her class,I love her behavior with her costumer,I am Iranian .from the first session her behavior was like friend and we made our friendship.she is knowladgeable,nice,kind and best coach,Do not miss her belly dance and zumba you will be feel in love",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1242,
+    1443
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    776
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    826,
+    1444
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    480
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 70,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/zahrat-al-amal-ladies-gym/",
+ "buy_likelihood": 7,
+ "notes": "5.0 from 329, posts its own designed posters (class schedules, meal plans). Ladies-only, Coach Amal. Replies 37%.",
+ "display_name": "Zahrat Al Amal Ladies Gym"
+}

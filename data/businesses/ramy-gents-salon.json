@@ -1,0 +1,1030 @@
+{
+ "slug": "ramy-gents-salon",
+ "name": "RAMY GENTS SALON صالون رامي للرجال",
+ "place_id": "ChIJD1iHWzpdXz4R8ISA16uy-ks",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Deira, Dubai",
+ "address": "28 Al Rigga Rd - Al Muraqqabat - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2651454,
+  "lng": 55.3196822
+ },
+ "phone": "+971 56 357 6066",
+ "rating": 4.9,
+ "userRatingCount": 1075,
+ "rating_distribution": {
+  "oneStar": 24,
+  "twoStar": 2,
+  "threeStar": 2,
+  "fourStar": 6,
+  "fiveStar": 1041
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=RAMY%20GENTS%20SALON%20%D8%B5%D8%A7%D9%84%D9%88%D9%86%20%D8%B1%D8%A7%D9%85%D9%8A%20%D9%84%D9%84%D8%B1%D8%AC%D8%A7%D9%84&query_place_id=ChIJD1iHWzpdXz4R8ISA16uy-ks",
+ "website": "",
+ "categories": [
+  "Barber shop",
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 2 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 2 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 2 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 2 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 2 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 2 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 2 AM"
+  }
+ ],
+ "owner_description": "Gents salon - barber shop",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "On-site parking": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "kabayan barber",
+  "Rami Salon",
+  "gents salon",
+  "Classy service",
+  "accommodating staff",
+  "fade",
+  "clean cut",
+  "experienced staff",
+  "beard trim",
+  "attention to detail"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 98
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 24
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 26
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 32
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 24
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 24
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 21
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 29
+   }
+  ]
+ },
+ "owner_reply_rate": 0.03,
+ "reviews": [
+  {
+   "author": "Diamond Arts",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I would like to express my sincere appreciation to Kuya James of Ramy Gents Salon for always meeting—and even exceeding—my expectations with every haircut. Your skill, attention to detail, and consistency are truly impressive. Thank you for always making sure I leave satisfied and confident. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "James Maravilla",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I do like the services here. It's very relaxing and everyone are approachable. Highly recommended ♥️ #GhonwaSaloon",
+   "owner_reply": null
+  },
+  {
+   "author": "Ayman Agami",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I had an amazing experience at Ramy Gents Salon, and I have to say that Yahia is truly exceptional. From the moment I sat in his chair, I knew I was in professional hands. He pays incredible attention to detail, understands exactly what you want, and delivers results beyond expectations.\nYahia is not just a barber — he’s an artist. His precision, clean fades, and smooth finishing touches make a huge difference. He takes his time to ensure everything is perfect, and you can tell he genuinely cares about his work and his clients.\nThe atmosphere of the salon is great, clean, and welcoming, but what really stands out is Yahia’s skill and professionalism. I left feeling confident, fresh, and completely satisfied.\nIf you’re looking for the best barber experience, I highly recommend asking for Yahia — you won’t regret it.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammad Irshad",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a great experience at this barbershop. Muhammad did an excellent job with my haircut. He was professional, friendly, and paid great attention to detail. The service was excellent, and I am very happy with the result. I highly recommend Muhammad to anyone looking for a skilled barber. Thank you!",
+   "owner_reply": null
+  },
+  {
+   "author": "Aftab Qureshi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "This is my second time visiting Ramy Gents Salon, and once again I was very satisfied with the service. I had a manicure and pedicure, and the experience was excellent. A special thanks to Doaa—she was very professional, friendly, and attentive throughout my visit. She made sure everything was done perfectly. I highly recommend Ramy Gents Salon to anyone looking for high-quality service. I will definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Honey",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I would like to share some feedback regarding our experience at Ramy Salon yesterday.\n\nMy husband and son are regular customers, especially my husband, who visits almost twice a month. We keep coming back because of the excellent service we consistently receive. In fact, I would still highly recommend your salon and give it a good rating because of the great service provided, especially by the Filipino staff member who usually attends to my husband and son.\n\nHowever, I would like to express my disappointment about what happened yesterday after my husband’s haircut.\n\nI understand that Ramy Salon is not specifically a children’s salon, but this was not my son’s first haircut there. In fact, it was already his fifth time having his haircut at your salon. We always choose to have his haircut done by the Filipino barber because he has always been very patient and understanding, even when my son cries due to being scared of the razor.\n\nUnfortunately, yesterday, as soon as the filipino barber will start cutting my son’s hair and my son began crying, not even 30 seconds had passed when another staff member, an Egyptian barber, approached and whispered something to the Filipino barber. He then told us to stop the haircut because my son was crying and said that other customers might complain.\n\nWhat disappointed me was that it seemed he had already assumed customers would complain simply because my son was crying. I did not hear or see any customer expressing a complaint. It felt like a decision was made based on an assumption rather than an actual issue.\n\nI completely understand that not everyone is comfortable with a child crying, and I respect that. However, the way the situation was handled made me feel unwelcome. Because of that, we decided to leave, as I did not want to continue receiving a service when it seemed that someone was unhappy with us being there.\n\nThank you for taking the time to read. I hope you can understand my frustration regarding what happened. My intention is simply to share our experience, as we have always enjoyed your service and have been loyal customers for quite some time.",
+   "owner_reply": null
+  },
+  {
+   "author": "Stenin Tony",
+   "rating": 1,
+   "when": "3 weeks ago",
+   "text": "**Worst experience ever. Absolutely horrible.** 😡\n\nI showed them a clear reference picture and somehow they managed to give me the **complete opposite of what I asked for**. My hair was literally ruined.\n\nIt honestly felt like they were using my head as a **testing ground** rather than actually knowing what they were doing. If you’re not confident about recreating a hairstyle, just say so instead of experimenting on a customer.\n\nI trusted them with my hair and walked out extremely disappointed and frustrated. **Zero professionalism, zero attention to the reference, and absolutely no regard for the customer’s expectations.**\n\nWould **NOT recommend this place to anyone**. If you value your hair, think twice before going here. 💀",
+   "owner_reply": "Sorry sir for what happen  I wish you come back again we will fix everything  and I promise to you make better i give  to you a very good barber and very good Service "
+  },
+  {
+   "author": "Chy Gabriel",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I’m very satisfied with my haircut at this salon! The outcome exceeded my expectations, and I absolutely love how my hair turned out. Big thanks to Kuya Nhol for doing such an amazing job very skilled, friendly, and professional. Highly recommended! 😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Richard Ramos",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Great service and clean haircut. Friendly barbers. Highly recommended! Nol did a great job!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mau Sangueza",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The service provided was excellent, and I'm very pleased with the result. My stylist did a wonderful job with the haircut. I truly appreciate the attention to detail and the friendly atmosphere. It was a thoroughly enjoyable experience. I would highly recommend this establishment.",
+   "owner_reply": null
+  },
+  {
+   "author": "Franz Louie U. Vitug",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I've been coming here for my haircuts, and I always leave satisfied. The shop is clean, the atmosphere is welcoming, and the service is consistently excellent. A special thanks to my personal barber Muhammad for the professionalism, attention to detail, and making sure every haircut is exactly how I want it. He take its time, listen to what i ask for, and deliver great results every time. I highly recommend this barbershop/salon to anyone looking for quality service and a skilled barber.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ryan Fajota",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I always return  to this salon because of their excellent service and consistent attention to detail. They always deliver exactly what I’m looking for, especially when it comes to my haircut. Special thanks to Rico for consistently taking great care of my hair and making every visit a positive experience. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Fabio Cesari",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Very good service! A special mention to Mr. Mahmoud, best cut!",
+   "owner_reply": null
+  },
+  {
+   "author": "Allen Angelo Cuaderno",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Really happy with my haircut at Ramy Gent Salon. Good quality cut at a very affordable price. Thanks to Barber Rico for the great job. Definitely coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "aja bigalbal",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I highly recommend this barbershop! Kuya Robert is the barber I trust the most. He's kind, friendly, and always keeps the conversation going while giving a great haircut. I always leave satisfied. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Yuan Celemen",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Find Mr. Master! He’s not just a barber that will do what you, he’ll actually suggest a style that fits u and ur personality. If you want a barber that really love doing his work. Mr. Master is the guy.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jefrey Francisco",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "My hair cutter stylist is amazing.. it's 101% recommended..",
+   "owner_reply": null
+  },
+  {
+   "author": "allen vite",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "A big shout out to master for taking good care of my hair treatment which is he give good service and relaxing moment while im doing my treatment...Great Job Thankyou Recommended to the other friends.",
+   "owner_reply": null
+  },
+  {
+   "author": "mac 4u",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Best salon Good Barber I’m taking service from 5 years",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdulrahman Hassan",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I got the best service by Yahya. He treated me good, he make me look really good. Nice fade and nice service",
+   "owner_reply": null
+  },
+  {
+   "author": "ryan valentino",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "to my hair dresser boss Nol. i've been a long time customer of kuya NOL i can say he is very professional and accurate with job.very approaching and easy to deal with.he is the only one taking care of my hair-cut eversince for 5yrs.highly recommend if you guys looking for hair-dresser i will recommend kuya NOL. five 🌟🌟🌟🌟🌟 for him. 👌",
+   "owner_reply": null
+  },
+  {
+   "author": "Freddie Gelera",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Been in Ramy Salon multiple times and im so satisfied with the service🤭☺️ Thank you so much 👍💯",
+   "owner_reply": null
+  },
+  {
+   "author": "sushant poojary",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Visted this saloon Mr. Yahia was very kind and very professional and gentle while cutting my hair , he suggest me good haircut according to my look\nThank you",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Fayaz Yousaf",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Haircuts at Ramy are always exceptional. The staff consists of highly skilled, professional, and genuinely friendly gentlemen, especially Mr. Yahya, Mr. Mohammad, and Mr. Hamada.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Naziir",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The best place in rigga diera I have 5 years always join there and nice hair cut the tools always clean the staff always grooming thanks alot for Mr mohamed the manger there for customer service\nthanks alot for Alaa the best staff there",
+   "owner_reply": null
+  },
+  {
+   "author": "Hail Fianza",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Just had my haircut for the 3rd time now from this Men’s Salon. I definitely recommend this one for anyone near Al Rigga or Al Muraqqabat area.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ashish Gupta",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great service by Mohammed, he is very professional and the saloon is worth of money .\nAnd Hydrofical was great . She was also very and polite",
+   "owner_reply": null
+  },
+  {
+   "author": "Sreekuttan Biju",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Currently ramy saloon is my favourite 😍\nCustomer service was great and good hair cutting  special thanks to shamo ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "LhenMatt Mart",
+   "rating": 5,
+   "when": "Edited 3 months ago",
+   "text": "Highly recommended for kids, staffs are patient to our little ones. My friend recommended this salon so we tried it toegther with them.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alem Atab",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Always best service  \"ramy salon\" Credit to rico... great experienced always.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/ramy-gents-salon/",
+ "buy_likelihood": 6,
+ "notes": "Scouted in batch 2, not built (few photos or inactive owner)."
+}

@@ -1,0 +1,1054 @@
+{
+ "slug": "eye-max-opticals-al-rigga",
+ "name": "eye max opticals- Al rigga",
+ "place_id": "ChIJVZ55ms1dXz4REw7tTamHKLs",
+ "category": "optician",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "65 Al Rigga Rd - Al Muraqqabat - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2627877,
+  "lng": 55.3257442
+ },
+ "phone": "+971 56 177 6679",
+ "rating": 5,
+ "userRatingCount": 660,
+ "rating_distribution": {
+  "oneStar": 4,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 8,
+  "fiveStar": 648
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=eye%20max%20opticals-%20Al%20rigga&query_place_id=ChIJVZ55ms1dXz4REw7tTamHKLs",
+ "website": "",
+ "categories": [
+  "Optician"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9:30 AM to 12:30 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9:30 AM to 12:30 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9:30 AM to 12:30 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9:30 AM to 12:30 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9:30 AM to 12:30 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9:30 AM to 12:30 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9:30 AM to 12:30 AM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "In-store shopping": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Quick visit": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "accommodating staff",
+  "eye test",
+  "eye consultation",
+  "frame suggestions",
+  "discounts",
+  "clear explanations",
+  "transition eyeglasses",
+  "frame selection",
+  "professional doctor",
+  "informative staff"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 30
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 20
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 55
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 55
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 50
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 70
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 75
+   }
+  ]
+ },
+ "owner_reply_rate": 0.8,
+ "reviews": [
+  {
+   "author": "No Superpowers But I am Honest",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "though my first choice is double the price of what i could have get but it’s not something for me, from which i appreciate the staff that suggested something comfortable and i was surprised that it look similar of what i was really looking for. indeed it’s such a good price. definitely would come back with my girlfriend and recommend first with my coworkers. btw ty deepak 💯🌟🙏🏻",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Zin Mar Thet Zin",
+   "rating": 5,
+   "when": "Edited 5 months ago",
+   "text": "I had a really great experience at this optical shop. The sales staff were very friendly, patient, and knowledgeable—they helped me choose the perfect frame that suits my face.\nThe doctor was also highly skilled and professional. The eye check was very thorough, and they explained everything clearly, which made me feel comfortable and confident.\nOverall, excellent service and quality. Highly recommended for anyone looking for good eyewear and professional eye care!",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Jessica Bantigue",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Jessica is a highly dedicated and reliable professional. She consistently demonstrate a strong work ethic, attention to detail, and a positive attitude toward their responsibilities. Her ability to work well independently and as part of a team makes them a valuable asset. She's willing to go the extra mile to ensure quality results.",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊<br>"
+  },
+  {
+   "author": "Cher J",
+   "rating": 4,
+   "when": "9 months ago",
+   "text": "A lot of frames you can choose from and they have good offers.\n\nJessica is very accomodating, attentive, she knows the product, explains everything in detailed. great in customer service.\n\nDr. Deepak explains the conditions to clients and very patient to all queries.\n\nGreat Team & as a client fully satisfied with the service..",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊<br>"
+  },
+  {
+   "author": "Sugina Parker",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "“Excellent service and very professional staff. The staff were friendly, helpful, and patient in helping me choose the right glasses. The quality is very good and the service was quick and smooth. I’m very happy with my experience at Yemeni Optical and would definitely recommend them to others!” ⭐⭐⭐⭐⭐",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊<br>"
+  },
+  {
+   "author": "Carmela Garcia",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Ms. Jessica was friendly and attentive, and she explained everything clearly. Excellent customer service.\n\nThe doctor was very patient and thorough, explaining my eye condition and prescription in detail so I understood what my eyes needed. He made sure my lenses fit perfectly from every angle and even gave me the maximum discount on the lenses, suggesting the best option for me 😭\n\nI’ll definitely come back next time and recommend this to my friends. I’m really happy with my new lenses, they’re crystal clear, like full HD! 🫶",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Abou Salman .",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "It's a good service, with a quality that is consistently met. Additionally, the doctor lady  from the Philippines provided truly excellent service, with a lot of professionalism, great listening skills, and a real attention to detail. Overall, I'm very satisfied",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Joycel Ilago",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I’m really happy with the service I received. The doctor was knowledgeable and thorough, and the assistant was very friendly and supportive. They both made the eye test smooth and stress-free. Thank you for the excellent care!",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Reizle Jane Doctora",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent service and a great selection of eyewear. The staff were friendly, patient, and helped me choose frames that suited my face and budget specially Ate Jessica. Highly recommend Eye Max Optical!",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Niel Anthony Sarsale",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Thank you Ms. Shara, Excellent service staff, good and highly recomended.🙏🙏\nSatisfied Client😇",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊<br>"
+  },
+  {
+   "author": "neeryoj jheren",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "i like their staff very approachable and friendly ♥️ i think her name is Sahara if im not mistaken ..keep a good work ❣️",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊<br>"
+  },
+  {
+   "author": "Aldrin Rioflorido",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "My wife and I had an excellent experience at Eye Max Optical in Al Rigga. Jessica and Mohamad Syed were very professional, knowledgeable, and attentive throughout our visit. They explained everything clearly and helped us choose the best option with patience and care. Their customer service is outstanding and shows real dedication. They truly deserve recognition, and we believe they are worthy of an increment or promotion. Highly recommended, and we will definitely come back.💯",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Aida Dasal",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "The staff was incredibly patient and took the time to help me find a frame that suits me.Special thanks to Ms.Jessica for helping me out for my entire visit.can’t wait to try my new eye glasses.",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Mary Ann Villanueva",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Thank you, Eye Max! The staff is exceptionally accommodating and approachable, offering excellent service and top-notch options. I bought contact lenses and enjoyed a discount. I'm considering purchasing eyeglasses in the future.",
+   "owner_reply": null
+  },
+  {
+   "author": "Brian Haw",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "The service, checkup, and overall process is great. Highly recommended.",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊"
+  },
+  {
+   "author": "Edna Pontemayor",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The moment I walk in ate was very helpful already she knew what I needed she made me feel welcome and I didn’t feel that pressure from her. Salute to ate and doctor ❤️ if only I could give 10 stars I would",
+   "owner_reply": null
+  },
+  {
+   "author": "Akshay Anil",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "There is awesome and delivery the product with the time they mentioned. Highly recommend",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "LheizelAnn Castro",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Super nice kind and friendly their Doctor\nVery good optical,",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊<br>"
+  },
+  {
+   "author": "Jocelyn Tabo",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Great variety of styles from classic to trendy. I found exactly what I was looking for.🥰❤️\n\nThe staff were really helpful specially Ms. Jessica and Doc. for suggesting frames that suit my face shape. More success to you guys.",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Chelsey Kate",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "The only optical shop that truly takes the time to check my eyes thoroughly. I’ve tried different places before but never got the right prescription. Here, they always double-check with me to make sure the grade is just right. Instead of just my mom getting one, I ended up getting one too! Kudos to Dr. Shahid and Jessica for assisting us!",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Fatima Ahmad",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "Their service is good, but unfortunately there was a delay in handling the invoices. They promised me a specific time to receive the invoice but did not commit to it, which caused me inconvenience, and I had to follow up multiple times. There should be better commitment and respect for customers’ time.",
+   "owner_reply": null
+  },
+  {
+   "author": "Christine",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "Excellent experience to the staff specially Miss Jessica and Dr.Shahid and amazing discount.",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "Lancris Porado",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very approachable staff. They will give you satisfactory answer on your inquires. Love the frames and the quality is at best. I bought 3 eye glasses including my mom eye glass. Highly recommendable.",
+   "owner_reply": null
+  },
+  {
+   "author": "Marichu Taucan",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Bets service. Doctor and staff are very accommodating",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊"
+  },
+  {
+   "author": "joel doza",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Thank you for the free consultation and for assisting , all staff are very attentive and friendly .",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot , and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon!!.."
+  },
+  {
+   "author": "matet mendiola",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I had one glasses that needs to be repaired. And seeing all the designs and collections they have I decided to buy new pair. I'm still confused whether to buy contact lens or glasses. Thankfully Joy was there to assist and answer all my inquiries and gave her honest opinions. I even got a clip-on sunglasses. This optical shop is really recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Greglin Mercado",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Good service specially to Dr. Deepak and Ms. Angelica.. Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Umer (Hyperesthetic)",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We received excellent service, especially from Dr. Noufal and Ms. Irene. We were thoroughly impressed with their level of care. They took the time to explain everything in detail and offered excellent suggestions and options.",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊<br>"
+  },
+  {
+   "author": "ayemyamya nyein",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Really good optical store, with lots of options to choose from.",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊"
+  },
+  {
+   "author": "Blossom Bloom",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Service excellence, if u wanna make new glasses highly recommend",
+   "owner_reply": "Thank you so much for your positive review! We’re so glad to hear that you had a great experience with us. Your support means a lot to us, and it’s always a pleasure to serve customers like you. We look forward to welcoming you back soon! 😊<br>"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1296,
+    944
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    512,
+    395
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 73,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/eye-max-opticals-al-rigga/",
+ "buy_likelihood": 8,
+ "notes": "Perfect 5.0 from 660, replies 80%, open till 12:30 AM. Opticians benefit from 'eye test near me' searches.",
+ "display_name": "Eye Max Optical"
+}

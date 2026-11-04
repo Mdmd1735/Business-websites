@@ -1,0 +1,1006 @@
+{
+ "slug": "ibn-al-nil-barber-ajman",
+ "name": "صالون ابن النيل للحلاقة",
+ "place_id": "ChIJjbdmbLpZXz4R4zyPckcByCc",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Ajman",
+ "address": "1 شارع النسيم - الراشدية - Al Rashidiya 1 - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3916712,
+  "lng": 55.4658829
+ },
+ "phone": "+971 56 569 4048",
+ "rating": 4.9,
+ "userRatingCount": 457,
+ "rating_distribution": {
+  "oneStar": 6,
+  "twoStar": 1,
+  "threeStar": 4,
+  "fourStar": 7,
+  "fiveStar": 439
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=%D8%B5%D8%A7%D9%84%D9%88%D9%86%20%D8%A7%D8%A8%D9%86%20%D8%A7%D9%84%D9%86%D9%8A%D9%84%20%D9%84%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&query_place_id=ChIJjbdmbLpZXz4R4zyPckcByCc",
+ "website": "https://www.instagram.com/ibn_elniel_salon",
+ "categories": [
+  "Barber shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 1 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 1 AM"
+  }
+ ],
+ "owner_description": "حلاقة وتصفيف الشعر للرجال\nحلاقة وتصفيف الشعر للاطفال",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "Respectable place",
+  "ibn el nil salon",
+  "Barber Yasser",
+  "Salon cleanliness",
+  "Classy service",
+  "Yasser is an artist",
+  "Respectful people",
+  "High-end haircut",
+  "golden fingers",
+  "Excellent offers"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 35
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 22
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 35
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 65
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 32
+   }
+  ]
+ },
+ "owner_reply_rate": 0.87,
+ "reviews": [
+  {
+   "author": "tarik sabri",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "A very beautiful salon with wonderful and excellent service 🤍🤍🌹",
+   "owner_reply": null
+  },
+  {
+   "author": "osman gafar",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Absolutely fantastic experience at Ibn Al Nil Salon! 👌✨ The haircut was incredibly professional and precise—you can tell they really care about the details from the moment you walk in. ✂️🔥\n\n​The atmosphere is welcoming and respectful, which makes you feel right at home. A huge shoutout to Ahmed Fathy; he is a wonderful person and such a class act. His professionalism and friendly attitude truly make the difference. 🤝💫\n\n​The place is spotless, well-organized, and the service is both fast and top-notch. 🌟 Honestly, this spot deserves the highest rating possible. 👑 I highly recommend it to everyone!",
+   "owner_reply": "Thank you so much, Mr. Othman, for your trust and support. We promise continuous improvement and development."
+  },
+  {
+   "author": "Htoo Myint Naing",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "This shop very nice all staff are kind and they make new hair style for me",
+   "owner_reply": null
+  },
+  {
+   "author": "YXM3_",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This place is so good I come everytime I get long Hair this place needs to get atlast 10 Stars the people are good and funny and not gonna lie every haircut I got needs amazing :my favourite barbier is Ayser",
+   "owner_reply": "Thank you sir for your visit us "
+  },
+  {
+   "author": "Loai Wafik",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "صالون ممتاز و ياسر راجل فاهم و محترم 🌹🌹👍🫡🫡",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Shareef",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is very good saloon, professional and kind staff members, prices are reasonable as well.\nDefinitely a recommended one.\nMr. Yasir is a very good professional, knows how to get the job done.",
+   "owner_reply": "Thank you mr Mohamed shareef for your kind words ! We are glad you enjoyed our services and look forward to seeing you again soon "
+  },
+  {
+   "author": "Akash Hari",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Yasser is perfect barber ath this shop and all people's behave like a friend also the saloon was perfect.\nEveryone can come and enjoy the service🖤🖤❤",
+   "owner_reply": "<br>Thank you mr Akashi hari for visiting our salon and for your kind review , We're glad you enjoyed the service and look forward to seeing you again soon.<br>"
+  },
+  {
+   "author": "Mohamad Firas AlNabki",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Perfect staff and kind people's",
+   "owner_reply": "Thank you so much, Professor Mohammed, for your valued trust and for visiting us. We promise to provide the best, God willing."
+  },
+  {
+   "author": "Raafat",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "More than perfect, highly recommended",
+   "owner_reply": "Thank you so much, Professor Raafat, for your valuable trust and for visiting us. We promise to provide the best, God willing."
+  },
+  {
+   "author": "Madhu Nair",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "This is the second time I am doing a haircut with them. They know the hairstyle which suits us, so no need to tell them anything in particular.  Their packages are a good choice according to your needs.",
+   "owner_reply": "Thank you mr madhu for your comments "
+  },
+  {
+   "author": "Adnan Mattoo",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Mehmood is an absolute legendary stylist. He is young and talented guy. I highly recommend him.",
+   "owner_reply": "Thank you so much, Professor Adnan, for your valuable trust and for visiting us. We promise to provide the best."
+  },
+  {
+   "author": "Don NeMo",
+   "rating": 4,
+   "when": "Edited 2 years ago",
+   "text": "Friendly Staff, very hospitable, good prices and service, just need a bit more professionalism in both the provided service and the customers handling",
+   "owner_reply": "Thank you mr don for your comments "
+  },
+  {
+   "author": "Mohammad Abrar Bhat",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best experience I had , wow what an expert Mr Yasir is . He gave me the best cut  . Will recommend to everyone.",
+   "owner_reply": "Thank you so much, Mr. Mohammed, for your visit and your valuable trust. We promise to provide the best."
+  },
+  {
+   "author": "Ahmed Abdelrahman",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very good services and very kind persons specially (Mahmoud Rajab), hope they have a success in thier business 😇🙏🙏",
+   "owner_reply": "Thank you so much, Mr. Ahmed, for your valued trust and for visiting us. We promise to provide the best, God willing."
+  },
+  {
+   "author": "MONIRUL ABRAR MONIR",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Feel Comfortable since 6 years in sample place",
+   "owner_reply": "Thank you mr monirul for visiting our barbershop! We appreciate your trust and look forward to seeing you again soon "
+  },
+  {
+   "author": "Nerijus N",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Excellent service shave haircut and wash, highly recomend. Will be back.",
+   "owner_reply": "Thank you mr nerijus for visiting our barbershop ! We appreciate your trust and look forward to seeing you again soon "
+  },
+  {
+   "author": "Sarfaraz Khan",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Excellent service and good staff 👍 👏 thanks to Mr Ahmed for the great job 👍",
+   "owner_reply": "Thank you for your kind words mr sarfaraz We’re glad you enjoyed the service, Looking forward to seeing you again"
+  },
+  {
+   "author": "Marwan Abdelkafi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very esteemed and proper salon.\n\nYasir is the best 🙏🏾",
+   "owner_reply": "Thank you so much, Mr. Marwan, for your valued trust and for visiting us. We promise to provide the best, God willing."
+  },
+  {
+   "author": "tareq al abdallh",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best barbershop ever\nVery good service 💯💯💯💯\nThanks for all guys 🙏",
+   "owner_reply": "Thank you so much, Mr. Tariq Abdullah, for your valued trust and for visiting us. We promise to provide the best, God willing."
+  },
+  {
+   "author": "AlAhmadain Abu Ahmad",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Dry kind and nice people and very professional",
+   "owner_reply": "Thank you sir for your kind words ! We’re glade you enjoyed our services and look forward to seeing you again soon "
+  },
+  {
+   "author": "Amir Shah",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Best saloon in ajman. Specificaly Yasir is a professional at what he does.",
+   "owner_reply": "Thank you so much, Mr. Amir, for your trust and for visiting us. We promise to provide the best."
+  },
+  {
+   "author": "Shady NasrEldin",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "Honestly thank you Mahmoud for your great service, you are very kind person",
+   "owner_reply": "Thank you so much, Mr. Shadi, for your valuable trust and for visiting us. We promise to provide the best."
+  },
+  {
+   "author": "Sultan Kokash",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This saloon is the best in Ajman and yasser is a professional at what he does",
+   "owner_reply": "<br>Thank you for your kind words mr sultan We’re glad you enjoyed the service,Looking forward to seeing you again!<br><br>"
+  },
+  {
+   "author": "Ahmed Esmail",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "They are very good talent person  specially mr.yasser",
+   "owner_reply": "Thank you so much, Professor Ahmed Ismail, for your valuable trust. We promise you the best, God willing."
+  },
+  {
+   "author": "bharath b",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Good hair cut and beard styling",
+   "owner_reply": "Thank you sir for your kind words ! See you again soon "
+  },
+  {
+   "author": "Sabry Youssef",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Highly recommend, Appreciated service provided by Mr.Yasser",
+   "owner_reply": "Thank you so much, Professor Sabri, for your trust and for visiting us. We promise to do our best."
+  },
+  {
+   "author": "Naveed khan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Ibrahim is the best barber with amazing service.",
+   "owner_reply": "Thank you so much, Mr. Ryan, for your valued trust and for visiting us. We promise to provide the best to ensure your satisfaction and happiness."
+  },
+  {
+   "author": "Nasir Anwer",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very professional and affordable excellence in service",
+   "owner_reply": "Thank you mr Nasir Anwar "
+  },
+  {
+   "author": "Osama “abo abd alrahman” ali",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Perfect salon 💯 with abo sande he is the number 1",
+   "owner_reply": "Thank you so much, Professor Osama, for your valuable trust. We promise to provide the best, God willing."
+  },
+  {
+   "author": "Mohmmad Alkhelifeh",
+   "rating": 5,
+   "when": "Edited 10 months ago",
+   "text": "Super perfect 🔥",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    586,
+    331
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1038,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/ibn_elniel_salon",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "ibn_elniel_salon"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 73,
+ "socials": {
+  "instagram": "ibn_elniel_salon"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/ibn-al-nil-barber-ajman/",
+ "buy_likelihood": 7,
+ "display_name": "Ibn Al Nil Barber Salon",
+ "notes": "4.9 from 457, replies to 87%, Instagram active. Arabic-speaking clientele: site is bilingual-ready."
+}

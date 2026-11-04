@@ -1,0 +1,1113 @@
+{
+ "slug": "zang-beauty-dubai",
+ "name": "Zang Beauty Dubai",
+ "place_id": "ChIJkdrmcEZDXz4RtC_VA_BLpzM",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "119 A Street Exit-1 - near to Union Metro Station - Al Rigga - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2675557,
+  "lng": 55.3135722
+ },
+ "phone": "+971 58 898 9220",
+ "rating": 5,
+ "userRatingCount": 2113,
+ "rating_distribution": {
+  "oneStar": 11,
+  "twoStar": 2,
+  "threeStar": 1,
+  "fourStar": 5,
+  "fiveStar": 2094
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Zang%20Beauty%20Dubai&query_place_id=ChIJkdrmcEZDXz4RtC_VA_BLpzM",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Zang Beauty has been known as one of the most loved ladies saloon in the UAE, we are specialized for Hydrafacial, Carbon Laser Facial, BB Glow, Melasma Treatment, Pimple/Acne Treatment, Micro-needling (Tright Treatment) Eyebrows Microblading, Lips Spraying Collagen, Eyelash Extension and Nails Services. With latest Korean Technologies and our experienced experts, we are surely met and exceed your expectations. Our quality of services have been proof by our clients in the last decade. Not only that, we are adding more values for our customers by giving special offers for COMBO's every time.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "eyelash extensions",
+  "hydrafacial",
+  "microblading",
+  "microshading",
+  "bb glow",
+  "lashes",
+  "armpit whitening",
+  "eyebrows",
+  "eyebrow shaping",
+  "nano microblading"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.13,
+ "reviews": [
+  {
+   "author": "Chinju Koshy",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "I had a very disappointing first visit to this Clinic and would not recommend it based on my experience. Before booking, I specifically called to confirm if a doctor consultation was available, and I was told “yes.” However, when I arrived at the clinic, there was no greeting, no smile, and the receptionist had a very rude attitude.\n\nI was then told that there was no doctor available for consultation and that they “cannot guarantee treatment.” I was also informed that after the first session, I as the patient would need to decide how many sessions I require, which is unprofessional and concerning. The receptionist further stated that she is “the manager, supervisor, and everything” in the clinic, which came across as dismissive.As a manger or supervisor position even she don't know how to spell her name ,which I heard is MAEN.\n\nOverall, the attitude was unprofessional, the clinic was empty with no other patients, and there was an unpleasant smell in the premises. With this level of service and lack of clear medical guidance, I cannot recommend this clinic. It was a waste of time.",
+   "owner_reply": null
+  },
+  {
+   "author": "Connie Roxanne",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I had the most amazing experience at Zang Beauty getting my lashes done, and I couldn’t be happier with the results! They turned out absolutely beauty—full, natural-looking, and exactly what I was hoping for.\n\nA huge thank you to Huyen for her incredible attention to detail and warm, professional service. She truly has a gift! Highly recommend Zang Beauty to anyone looking for top-quality lash work in a relaxing, welcoming environment.",
+   "owner_reply": null
+  },
+  {
+   "author": "XIAMIN KIRK SAMSON",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "SO DISAPPOINTING!!!!! i will give this salon 1 star. i am terribly disappointed with service they made. i made a booking for my eyebrow microblading and i instructed the beautician how my eyebrow look the way i want and she agreed. after 5 days i noticed i didnt like the shape and i talk to the receptionist about it. during the conversation it sounds like she is more disappointed than me lol! she is raising her voice while explaining and she cut our conversation. i will never ever ever go bact to that salon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Melchicherish Ani",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Yesterday i had a wonderful experience at this salon having my hydra facial done! The service was absolutely amazing, Thanks to Ms.Hao she's very polite, professional, and really took the time to understand what I wanted. The ambiance is impressive clean,relaxing, and beautifully set up, making the whole visit feel like a treat. Definitely coming back again. Highly recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Dananji Jayasundara",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Hong did an amazing job on my nails! Really happy with the result and the overall experience ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Soror Diar",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I love this sallon, I always come here every month and especially the hydra facial is amazing. The girls are amazing and very polite and talented. I come all the way from Tecom every month just to do from them because of their good behavior and services ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Mitch J",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I visited dubai branch near union, with my friend and we did lip spray , i recomend them because all the staff there is very accomodating, and can comunicate to you very well, good service honestly, will come back soon again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Linn Smedstad",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best pedicure and manicure I had in Dubai ever! Highly recommended, professional staff. I walked in and they managed to fit me in, they were very busy so I recommend booking in advance",
+   "owner_reply": null
+  },
+  {
+   "author": "UAE Educator",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Coming to Zang Beauty Salon, you are always taken cared of especially for lash extensions. They take extra time and care to give you the lashes you want. They offer other services as well. The staff will always be ready to assist you.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ester Agutaya",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had a HydraFacial and armpit whitening done by Diem. It was very thorough, yet still done with gentle hands. The salon is very well kept, and the staff are nice and professional. They also offer a variety of combo packages to help save a few dirhams.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jackylyn Golamco",
+   "rating": 2,
+   "when": "2 years ago",
+   "text": "1st time i went for microblading... Technician was nice and good... didnt feel the pain... i went also for foot spa but its not worth the money i jst want to pass the time coz im waiting for someone. 2nd time i went for retouch i did mani and pedi as they said they have offer. they were very friendly but i think still amateur on this nail thing as i was not happy about the outcome of my nails an they took long for nail polish application... u can see frm the photo and rate the work ... im jst in a hurry i cannot repeat it again",
+   "owner_reply": null
+  },
+  {
+   "author": "Aireen QC",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It was my first time to do a BB Glow and Manicure -gelish here and had a great experience. The staff’s were so friendly and accommodating specially Ms.Lin. Thank you for the good service. Highly recommended.",
+   "owner_reply": "Thanks a lot Ma'am, we can't be here without such amazing Customer like you! We work from our heart to serve our clients. And we hope all of our clients will get the same feeling like you😘<br>Once again thanks a lot for your trust in Zang Beauty Sis!"
+  },
+  {
+   "author": "Fatemeh",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "i have been to zang beauty abudhabi branch ad it was an amazing experience.My eyebrow and eyelashes was perfectly done!❤️i love it!staff especially the reception was nice&friendly!Staff was professional!Place was relaxing&nice.higly recommend this place..il come back for my lips session..❤️👏👏",
+   "owner_reply": null
+  },
+  {
+   "author": "Analin Awing",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I would say, Zang Beauty is highly recommended!!! Diam the beauty attendant the one who made my eyebrows, hydra facial and upper lip removal she really did well!!! I love the results❤️❤️❤️I have more sessions to do and I love the place it’s so relaxing and cleanliness is amazing and price is affordable but good quality and services and the staff very accommodating!!!❤️❤️❤️\n\nThanks Zang Beauty",
+   "owner_reply": "Thanks a lot Ma'am, we can't be here without such amazing Customer like you! We work from our heart to serve our clients. And we hope all of our clients will get the same feeling like you😘<br>Once again thanks a lot for your trust in Zang Beauty Sis!<br>"
+  },
+  {
+   "author": "Pia Angela Ganancial",
+   "rating": 1,
+   "when": "9 months ago",
+   "text": "It was my first time visiting Zang Beauty Dubai Branch and unfortunately, my first experience was very disappointing. The receptionist needs proper training in customer service. The receptionist was RUDE!! There was no greeting, no smile, and no welcoming attitude. she did not handle my concern professionally, there was no apology or even a simple acknowledgment.\n\nBeing a receptionist is not only about managing appointments or explaining services. it also involves handling clients with respect, empathy, and good customer service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Charlote Parino",
+   "rating": 1,
+   "when": "2 years ago",
+   "text": "so sad, i experienced a bad service! i booked an appointment at 5pm and she started at 5:30 i took a photo while sitting because she didn’t even ask me to lay down. she put the cream while we’re standing! i ended up with a lot and big scars! as u can see before the procedure i have a small warts, i expected it to be like a red dots but it looks horrible and very painful. and also the cream is useless i can feel the burning sensation during the laser.  because of the distress i experienced during the procedure i ask her to stop even if we’re not yet done.",
+   "owner_reply": null
+  },
+  {
+   "author": "Cyril anne Tasong",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The staff are very accommodating and very good. I was very satisfied and happy with the result..\nthe salon is clean and staff are very well mannered.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kattleya Ygat",
+   "rating": 5,
+   "when": "Edited 3 months ago",
+   "text": "Been a loyal customer for almost 2 years now and the lashes are AMAZING. By the way the lashes here in this picture is already 5 weeks so it tells you about their quality 🔥",
+   "owner_reply": null
+  },
+  {
+   "author": "sonam deki",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I and my friend recently got my eyelash extensions and manicure done by Tra, and I’m beyond happy with the results! 💖 She is so talented, gentle, and detail-oriented — my lashes look stunning and my nails are perfect. The quality is absolutely worth every penny!\n\nAlso, a big shout-out to Chau Anh at reception — she was so polite, professional, and wonderfully friendly, which made the whole experience even better. ✨ Highly recommend this place if you want top-notch service and a warm welcome. I’ll definitely be coming back again and again! 💕",
+   "owner_reply": null
+  },
+  {
+   "author": "Jowdiee Badilla",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "❤️ Tuyet , Chau Anh , you guys are  amazing!! Accomodating and  Always smilling.  The place is cozy and calm, i will recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Tshering Wangmo",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Always my favorite salon for lashes, the staffs are really nice, very soft spoken, very welcoming and provides the best customer service. Thank you to HUYEN, you did great job! I liked the way you did my lashes. Perfect! See you very soon💕💕💕",
+   "owner_reply": null
+  },
+  {
+   "author": "Moh Sha (MoSha)",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I did microshading and lash extension Combo and so woWW 😍 as in super I really love and  like it! My brows are so good and the lash perfect i even ddnt feel i did extension super natural light weight very comfortable the technician Ms.Hoang did it for me from brows to lash  i highly recommend you to visit ZANG BEAUTY and see it for your self 😍👄",
+   "owner_reply": null
+  },
+  {
+   "author": "MARIA ASISOLA BOQUIREN",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It’s my first time  in this salon and  I am very impressed on the eyelash extension done by Nhai.  I always have it done from a known salon but this time it’s really different in terms of the quality of  materials used and price is reasonable. The staff too are very nice and knows their job well.\nI will definitely come back.",
+   "owner_reply": null
+  },
+  {
+   "author": "neng zkie",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I just had my Eyebrows Microblading Spraying Nano today. And for a first timer like me doing it to my eyebrows, I am really happy with the result. I am very thankful for her(who did my eyebrows). She's doing it very carefully and nicely... Thanks Zhang salon!! 👍😊",
+   "owner_reply": null
+  },
+  {
+   "author": "allanzhel abes",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I just want to share today  the good service for this saloon,i visited 2 times i do hydrifacial and Lazer for armpit,i was very satisfying for this service,staff are so frendly,thank you ate for making me feel nore relaxing also,good job,",
+   "owner_reply": null
+  },
+  {
+   "author": "Ayie Sharba",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The ladies at the salon are incredibly accommodating and attentive to their clients' needs. I recently had a hydrafacial and eyelash extensions done, and I must say, Tuyet was exceptional; she performed both treatments with great skill and care. I absolutely love the results! I highly recommend this salon for anyone looking for quality beauty services.",
+   "owner_reply": null
+  },
+  {
+   "author": "Tisha Tabligan",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Hello everyone. I am one of the customer of Zang Beauty Dubai basing on my experience I highly recommend  this for you to savour their magical hands, good service with so much satisfaction. This is my stress reliever and one of my beauty secret when it comes to personality enhancement. So try it with no doubt and for sure you can get what you want to be. Thanks madam Zang for your patience I know you will prosper in this kind of field. God bless you more and all your staff they are very nice and accommodating.",
+   "owner_reply": "Thanks a lot Ma'am, we can't be here without such amazing Customer like you! We work from our heart to serve our clients. And we hope all of our clients will get the same feeling like you😘<br>Once again thanks a lot for your trust in Zang Beauty Sis!"
+  },
+  {
+   "author": "rakhshaan muqadam",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The ambience of saloon is good\nHad no issues reaching as it’s near to metro station and the receptionist was kind enough to guide me\nGot hydrafacial done by hyun\nShe is extremely good at her job and really gentle",
+   "owner_reply": null
+  },
+  {
+   "author": "Mhae E.",
+   "rating": 5,
+   "when": "Edited 4 months ago",
+   "text": "Thank You  Zang beauty for Amazing Microblading especially Tuyet Ang Phong",
+   "owner_reply": null
+  },
+  {
+   "author": "Elybeth Bonaobra",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "One of my favourite place to pamper myself. They are very dedicated and passionate towards their job. Thanks to all the staff of Zang beuty for the warm welcome and a very friendly environment.Very satisfied guest. I'll be one of their regular customer. You will feel beautiful indeed. 😊",
+   "owner_reply": "Thanks a lot Ma'am, we can't be here without such amazing Customer like you! We work from our heart to serve our clients. And we hope all of our clients will get the same feeling like you😘<br>Once again thanks a lot for your trust in Zang Beauty Sis!<br>"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 75,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/zang-beauty-dubai/",
+ "buy_likelihood": 8,
+ "notes": "Perfect 5.0 from 2,113 reviews and a branch in Abu Dhabi, so it has a budget; still no website. A few recent 1-star reviews about consult bookings: a clear site with prices would help. Replies 13%.",
+ "display_name": "Zang Beauty"
+}

@@ -154,8 +154,9 @@ def build(slug):
     hours, table = parse_hours(b.get("hours"))
     phone = b.get("phone", "")
     digits = re.sub(r"\D", "", phone)
-    wa = phone.startswith("+971 5") or digits.startswith("9715")
-    wa_base = f"https://wa.me/{digits}"
+    wa_num = re.sub(r"\D", "", c.get("whatsapp", "")) or digits
+    wa = wa_num.startswith("9715")
+    wa_base = f"https://wa.me/{wa_num}"
     cta_label = c.get("cta_label", "Message us on WhatsApp" if wa else "Call us")
     cta = {"wa": wa, "ext": wa, "label": cta_label, "short": "WhatsApp" if wa else "Call",
            "href": f"{wa_base}?text=" + urllib.parse.quote(c.get("cta_text", f"Hi {b['name']}, I'd like to know more.")) if wa else f"tel:+{digits}"}

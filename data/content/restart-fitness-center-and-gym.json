@@ -1,0 +1,35 @@
+{
+ "preset": "garage-amber",
+ "theme": {"accent": "#FF7A1A", "accent_text": "#FF8F3D", "on_accent": "#140A02", "duo": "#5A2A08", "busy": "#B85414", "glow": "rgba(255,122,26,.16)", "band_accent": "#C45A12", "display": "\"Anton\",Impact,sans-serif", "body": "\"Inter Tight\",system-ui,sans-serif", "google_fonts": "family=Anton&family=Inter+Tight:wght@400;500;600&family=Cairo:wght@700", "dw": "400", "dtrack": "0.01em", "dlh": ".95", "h1lh": ".92"},
+ "brand": {"name": "ReStart", "sub": "Fitness · Bur Dubai", "mark": "R", "footer_word": "RESTART"},
+ "seo": {"title": "ReStart Fitness Center & Gym | Rolla Street, Bur Dubai · Open 5 AM to 1 AM", "description": "ReStart Fitness Center, Al Zarooni Building, Rolla Street, Bur Dubai: big training floor, personal trainers, diet plans, Zumba and yoga. Open 5 AM to 1 AM. 4.8 from 439 reviews."},
+ "hero": {"variant": "stack", "kicker": "Al Zarooni Building · Rolla Street · Bur Dubai", "title_lines": ["Don't stop when you're tired.", "Stop when you're done."],
+   "lede": "A big, bright training floor on Rolla Street with personal trainers, diet plans, Zumba and yoga, open from 5 AM until 1 AM so your workout fits around your shift.",
+   "image": "img/hero.jpg", "image_alt": "ReStart gym floor with cardio and strength machines", "secondary": {"label": "The gym", "href": "#gym"}},
+ "cta_label": "Ask about membership", "cta_text": "Hi ReStart Fitness, I'd like to know your membership prices.",
+ "proof_note": "4.8 from 439 reviews",
+ "address_lines": ["ReStart Fitness Center & Gym, Al Zarooni Building (HC floor)", "Above New Al Madina Supermarket, Rolla Street, Bur Dubai"],
+ "ticker": ["Personal training", "Diet plans", "Zumba", "Yoga", "Free weights", "Cardio", "Open 5 AM – 1 AM"],
+ "sections": [
+  {"type": "services", "id": "gym", "nav": "The gym", "eyebrow": "Inside ReStart", "title": "Everything you need,", "title_dim": "and trainers who care.",
+   "items": [
+    {"name": "Personal training", "feature": true, "img": "img/floor.jpg", "alt": "Strength machines and cardio on the ReStart floor", "desc": "Certified trainers, tailored workouts and form checks.", "quote": "He is an excellent, certified trainer with strong knowledge of fitness and training techniques.", "cite": "Anil S., about Arun"},
+    {"name": "Free weights", "img": "img/dumbbells.jpg", "alt": "Dumbbell rack", "desc": "Dumbbells, benches and racks."},
+    {"name": "Cardio zone", "img": "img/cardio.jpg", "alt": "Treadmills by the windows", "desc": "Treadmills, bikes and steppers."},
+    {"name": "Zumba & yoga studio", "img": "img/studio.jpg", "alt": "Studio room with wooden floor and murals", "desc": "Group classes in a dedicated studio."},
+    {"name": "Diet plans", "desc": "Nutrition plans that match your training goals."}
+   ],
+   "perks": ["Open 5 AM – 1 AM (Sun 4 – 9 PM)", "Group classes", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Beat the crowd", "title": "Rack free at", "title_dim": "the quiet hours."},
+  {"type": "team", "id": "team", "nav": "Trainers", "eyebrow": "Trainers members name", "title": "Jagdish, Arun,", "title_dim": "Ajay and Megha.",
+   "items": [
+    {"name": "Jagdish", "count": 7, "role": "Head trainer", "quote": "From day one, the environment has been incredibly positive, welcoming, and safe.", "cite": "Chrislyn S."},
+    {"name": "Arun", "count": 4, "role": "Personal trainer"}, {"name": "Ajay", "count": 4, "role": "Personal trainer"}, {"name": "Megha", "count": 3, "role": "Trainer"}
+   ]},
+  {"type": "gallery", "images": [{"src": "img/mirror.jpg", "alt": "Kettlebell-shaped mirror"}, {"src": "img/logo.jpg", "alt": "ReStart logo wall"}, {"src": "img/machines.jpg", "alt": "Machine zone", "wide": true}, {"src": "img/quote-wall.jpg", "alt": "Don't stop when you are tired wall"}, {"src": "img/class.jpg", "alt": "Kids class on the gym floor", "wide": true}, {"src": "img/zumba.jpg", "alt": "Member in the studio"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Memberships", "title": "Ask for today's rates.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a monthly membership?", "What do personal training sessions cost?", "What time are the Zumba classes?", "Do you have a free trial?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Rolla Street,", "title_dim": "Bur Dubai."}
+ ]
+}

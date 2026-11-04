@@ -1,0 +1,859 @@
+{
+ "slug": "al-jawareh-veterinary-clinic",
+ "name": "Al Jawareh Veterinary Clinic",
+ "place_id": "ChIJN6luAWJbXz4Rv86gc1t6iAw",
+ "category": "veterinary clinic",
+ "category_weight": 13,
+ "area": "Al Majaz, Sharjah",
+ "address": "خلف - Al Marija St - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.353724,
+  "lng": 55.3830774
+ },
+ "phone": "+971 50 737 4152",
+ "rating": 4.8,
+ "userRatingCount": 256,
+ "rating_distribution": {
+  "oneStar": 8,
+  "twoStar": 0,
+  "threeStar": 4,
+  "fourStar": 13,
+  "fiveStar": 231
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Jawareh%20Veterinary%20Clinic&query_place_id=ChIJN6luAWJbXz4Rv86gc1t6iAw",
+ "website": "https://instagram.com/vetaljawareh?utm_medium=copy_link",
+ "categories": [
+  "Animal hospital",
+  "Pet boarding service",
+  "Veterinarian",
+  "Veterinary care"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 1:30 PM, 5 to 9:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 1:30 PM, 5 to 9:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 1:30 PM, 5 to 9:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 1:30 PM, 5 to 9:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "Closed"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 1:30 PM, 5 to 9:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 1:30 PM, 5 to 9:30 PM"
+  }
+ ],
+ "owner_description": "عيادة بيطرية نقدم أفضل الخدمات للحيوانات الاليفة",
+ "amenities": null,
+ "review_tags": [
+  "Dr. Tamim",
+  "experienced doctor",
+  "skilled vet",
+  "Doctor's manners",
+  "Clinic cleanliness",
+  "passionate vet",
+  "Knowledgeable doctor",
+  "Cat handling",
+  "handling children",
+  "cat care"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Mohammad Al Owais",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "One of the best clinics in Sharjah! The clinic is excellent and well-organized. The doctor is highly polite, professional, and very cooperative. Highly recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Maysam Al Obaidi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "This vet is one of the best vets that I’ve ever been to in my life, the doctor is very experienced and gentle with animals and I’m very grateful for his services and how he nursed my baby cockatiel back to health, thank you !",
+   "owner_reply": null
+  },
+  {
+   "author": "iPadapphacks",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "My family and I have been treating our cat with Dr.Tamimi for a few years now and honestly, he is the best vet we have ever encountered!! He is very skilled, informed, and passionate when it comes to treating animals. He goes above and beyond for animals! HIGHLY recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nilushi Srimanjali",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "We are treating our cat with Dr. Tamimi. Honestly, he is the best vet we have ever met!! He is very skilled, knowledgeable and passionate about treating animals. He goes above and beyond for the animals! Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "EventZtec Av",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I have 2 Cats . This is the best clinic . Doctor and staff is really good.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ameen Alhosni",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "Excellent experience with Dr. Tamim—very knowledgeable and takes great care of my dog. Highly recommended!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "karthikeyan muruganandam",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Dear Viewers,\n\nGreetings!!\n\nI recently bought a shitzhu and in couple of days he got sick, I just went to a clinic in sharjah and the puppy was treated casually but not recovering. He become worst being a 3 months puppy. Again I went to an another clinic in sharjah and they ask me to board the puppy since he was vomiting continously and no improvement day by day as of I was paying much and no results and it's almost a week the puppy was in clinic and going worse. PUPPY WAS HELPLESS AND AS A OWNER I WAS UPSET, SOMEHOW I NEED TO SAVE THE PUPPY.\n\nHERE YOU GO!!\n\nI Checked nearby who is the experienced doctor for vets, I MET THE MAN OF HUMANITY AND A CARING PERSON AS AN INDIVIDUAL IN THIS PART OF WORLD. DR. TAMIM.\n\nHe started diagnosis with my puppy and immediately identified the cause of the decease and helped the puppy by taking care of his own interest even in Ramadan time. He boarded the puppy as per my request and saved the life of my puppy.\n\nThe staffs are like family members, who showed lots of love and respect towards me and the pet.\n\nI addition I would say about AL Jawarah is Excellent service, reasonable fees, flexible time, expertise in profession, experienced Doctor, humble with respect people.\n\nDr. Tamim, it's a personal thanks to you on behalf of my puppy and my family.\n\nThank you for saving ones life...\n\nRegards\nKarthikeyan",
+   "owner_reply": null
+  },
+  {
+   "author": "Saba yousaf",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I want to share that about 5 weeks ago, my cat got hurt from grooming shop. I was running in the whole market in search of good clinic.\n2 clinics ruined my cat leg. They were just after money and not caring at all. They will treat you as if you are nothing and just do the in a minute so we keep. Coming and paying.\n\nAlhamdullilah luckily i entered this clinic, Dr Tamim treated her like a human. This is the clinic you can trust your pet with. Most important thing he is very concerned with pets pain.\nHe stiched my cats wound and kept treating her in follow up visits.\nBest thing is that Dr treat your pet personally and gives best treatment and suggestions. I am so happy that my cat is healing now Alhamdullilah.\nThank you so much Doctor and the nurse is also really good.",
+   "owner_reply": null
+  },
+  {
+   "author": "ML Ch",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Glad we’ve found Dr Tamim, he is a savior and by far the best Vet I have seen. Dr Tamim and his team are the true meaning of dedication and integrity. He is a blessing and cannot imagine consulting another vet for my cats.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rayan el",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "Very good vet. Nurses are caring and passionate about their patients.. the doctor is highly skilled and gives excellent time and attention.",
+   "owner_reply": null
+  },
+  {
+   "author": "Imad Jamal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "By the grace of Allah, our little one survived.\nI would like to thank you, Dr. Tamim (Al Jawareh Vet); he stood by us with unmatched professionalism and care.\nOur cat was really in critical condition. He explained everything gently, treated him urgently for almost 2 weeks, and never left us feeling alone in the process.\nHis medical judgment was spot on — he prescribed the right medication and gave accurate doses.\nInstead of giving up, he gave us hope.\nWhat truly touched us is how he treated our cat not just as a patient, but as a soul worth saving.\nThank you, doctor, for walking with us through this, with kindness, skill, and heart.\nMay Allah reward you for the lives you touch.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rahul Venugopal Nair",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Tamim is one of the most compassionate vet doctors.",
+   "owner_reply": null
+  },
+  {
+   "author": "Viktoriia Makahonova",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Amazing doctor! Very clean and neat clinic.\nWhen a person works with love and passion it becomes an Art!",
+   "owner_reply": null
+  },
+  {
+   "author": "M H",
+   "rating": 5,
+   "when": "7 years ago",
+   "text": "Good and reliable vet, pet saloon is clean and excellent, but don’t visit in weekend days, it will be crowded",
+   "owner_reply": null
+  },
+  {
+   "author": "Yousef Alherbawi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "The best and most experienced veterinary doctor i have ever came to. I have been bringing all my pets since i was 12 and Dr. Tamim never hesitated to help me out with all he got. and right now they have a new set of of equipment and and new sections which made our experience 10/10.\n\n100% recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdullah Zahid",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Very nice are the doctor is very nice and humble person as well as the nurses there definitely a 10/10 i hade a very very very good experience and i would definitely recommend this place",
+   "owner_reply": null
+  },
+  {
+   "author": "Zuhair Bukhari",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "We are very satisfied with the doctor and the clinic staff, everyone was very nice and friendly. They showed genuine care towards our cat and answered many of our questions with patience. The prices are very reasonable, highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "DrMay Ali",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Dr. Tamim is a very kind, compassionate, and well experienced professional.  He took good care of my 2 girls 🐶 🐾\nI respect his honesty and him not trying to deceive his patients like other veterinaries do, unfortunately.",
+   "owner_reply": null
+  },
+  {
+   "author": "Syed Majid Hussain",
+   "rating": 4,
+   "when": "9 months ago",
+   "text": "very good experience with doctor very cooperative staff and good quality treatment fonr by doctor Muhammad . really appreciate",
+   "owner_reply": null
+  },
+  {
+   "author": "sr r",
+   "rating": 4,
+   "when": "3 years ago",
+   "text": "Had great service the last time we went. However, I was trying to phone them today and received no response.\n\nI’m curious as to whether this clinic performs surgeries? My cat requires a few infected teeth to be pulled out and we were looking for someplace to do this. A reply would be appreciated.",
+   "owner_reply": null
+  },
+  {
+   "author": "Fostin Correya",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had taken my cats for the yearly injection to the clinic and the Vet doctor is so friendly and he did an excellent job\nvery well experienced Doctor I recommend everyone to go to his vet and feel the experience .",
+   "owner_reply": null
+  },
+  {
+   "author": "A",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "If we want to talk about the best dr ever for animals then this place is for you! Very professional and friendly that is the most important part. As for other clinics they are very rude with the animals and they dont treat them nice. I always go there for my cats and i advice you to always go there aswell!\n\nThanks for being there for us!",
+   "owner_reply": null
+  },
+  {
+   "author": "Perveez Saifuddin",
+   "rating": 5,
+   "when": "8 years ago",
+   "text": "Dr. Tamim is an outstanding Veterinarian whose strong love for the welfare of animals is evident in his daily practice. His assessments and diagnosis have always been accurate. This is not just our opinion but also that of many pet owners that we meet when we visit Al Jawareh Vet Clinic. He has been our vet of choice for more than 10 years for our 5 healthy cats who have grown up under his care. Thank you Dr. Tamim  and keep up the good work.",
+   "owner_reply": null
+  },
+  {
+   "author": "Loyal Dsouza",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Well skilled and  knowledgeable doctor (Dr. Tammim). He did a thorough inspection for my 2 months old GSD and my Persian Cat. Responded and provided/suggested appropriate guidance for treating both my pets.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shiji Feroz",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I have two cata Bella and Beuno and I always take them to Doctor Thameem.I am extremely satisfied about his hospitality and treatment.A very experienced person.Also the staff are very good.I really recommend this place for all the pet owners.",
+   "owner_reply": null
+  },
+  {
+   "author": "SN S.",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Really apreciated the work done by this Dr. For my cat, he is very kind and polite and giving utmost care to animals ... Best to visit this Dr. Related to pet animals,, rates are good compare to other private clinics. Negotiable...",
+   "owner_reply": null
+  },
+  {
+   "author": "khaldoon mardini",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It doesn’t need ratings, the best vet and the best and cleanest clinic.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mira AH",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The absolute best vet clinic in Sharjah. Dr. Tamim is the only vet I fully trust with my cats’ healthcare",
+   "owner_reply": null
+  },
+  {
+   "author": "Salama Hafez",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The most amazing most helpful most friendly vet. clinic ever",
+   "owner_reply": null
+  },
+  {
+   "author": "Amina Abdul Aziz",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "Dr.Tamim is very professional and kind hearted. May Allah bless him and reward him with the best reward. 😻",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    512,
+    302
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    512,
+    419
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    427,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://instagram.com/vetaljawareh?utm_medium=copy_link",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "vetaljawareh"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {
+  "instagram": "vetaljawareh"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/al-jawareh-veterinary-clinic/",
+ "buy_likelihood": 6,
+ "notes": "Dr. Tamim is loved, Instagram exists, but owner never replies on Google. Split hours (closed Friday).",
+ "display_name": "Al Jawareh Veterinary Clinic"
+}

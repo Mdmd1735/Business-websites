@@ -1,0 +1,1379 @@
+{
+ "slug": "charsi-restaurant-ajman",
+ "name": "Charsi Restaurant, Ajman",
+ "place_id": "ChIJa-91AghZXz4Rn1HC_IW303w",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Ajman",
+ "address": "behind Brother gas - new industrial area 2 - Ajman - United Arab Emirates",
+ "building": "Sharam Al Sheikh",
+ "location": {
+  "lat": 25.3768049,
+  "lng": 55.4605849
+ },
+ "phone": "+971 54 477 3328",
+ "rating": 4.7,
+ "userRatingCount": 3908,
+ "rating_distribution": {
+  "oneStar": 170,
+  "twoStar": 42,
+  "threeStar": 102,
+  "fourStar": 250,
+  "fiveStar": 3344
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Charsi%20Restaurant%2C%20Ajman&query_place_id=ChIJa-91AghZXz4Rn1HC_IW303w",
+ "website": "",
+ "categories": [
+  "Pakistani restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "5 AM to 12 AM"
+  }
+ ],
+ "owner_description": "Charsi Restaurant provides a hub to meet friends and colleagues with a well-crafted food list, discreet yet professional service and sophisticated menus all delivered in a relaxed setting. By night the scene is set for any and all occasions. From intimate tables for two to small groups or larger private events. Our unparalleled attention to detail and strong focus on delivering the best culinary experiences is designed to exceed expectations.",
+ "amenities": {
+  "Service options": [
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Drive-through": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great dessert": true
+   },
+   {
+    "Great tea selection": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "All you can eat": true
+   },
+   {
+    "Healthy options": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Trendy": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Groups": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "dum pukht",
+  "charsi karahi",
+  "namkeen karahi",
+  "charsi tikka",
+  "afghani pulao",
+  "polite staff",
+  "peshawar taste",
+  "mutton paya",
+  "kulfi",
+  "wait time"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Vinoj Siva (v)",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Amazing food and superb service! Highly recommend their mutton and chicken dishes, along with their authentic atta rotis. The staff is polite and well-mannered. Family room space is a bit limited, but the dining experience overall is outstanding!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ali Hashmi",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "As I see in their TikTok videos about the DumPukh Taste and quality and finally I come to taste. So really amazing taste and very nice Service specially \"Mr. YUSUF\" Very Appreciated.😍\nI recommend all DummPukh lover must Visit this place and enjoy the Taste. Also one thing more I get there parking also...... Thanks to All Team \"Charsi Restaurant Ajman\". 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Romana",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "We tried the Dum Pukht at Charsi, and it was absolutely amazing. The meat was unbelievably tender—it was literally falling off the bone. It was cooked in the goat’s fat, which made it incredibly rich, juicy, and packed with flavor. I have honestly never had meat this tender before.\n\nWe also tried the Namkeen Gosht, which was delicious, and the Shinwari Chicken, which was very flavorful and perfectly cooked. Every dish we tried was worth it.\n\nThe only thing to keep in mind is that the food takes a long time to prepare. We waited almost two hours, so I would definitely recommend ordering ahead if you plan to dine there.\n\nA special mention to Dildar, who provided exceptional service. He was incredibly friendly, made us feel like family, and looked after us throughout our visit. His hospitality made the experience even more enjoyable.\n\nOverall, if you’re looking for authentic, flavorful meat dishes, Charsi is definitely worth visiting. Just be sure to order ahead and enjoy the experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rameez Rafique",
+   "rating": 3,
+   "when": "3 months ago",
+   "text": "The staff were friendly, but the wait time was honestly the biggest issue. We arrived around 9:30 PM after spending 15–20 minutes looking for parking, and it still took about 30 minutes just to get seated. Then we waited another hour for our food, and we didn't leave until 11:30 PM.\n\nThe restaurant also needs better A/C, as the temperature wasn't very comfortable. The biryani and pulao were a bit disappointing and didn't taste fresh, even though I asked before ordering. On the positive side, the Namkeen Karahi and Dum Put were excellent and definitely the highlight of the meal.\n\nOverall, the food was good, but the long wait made the experience feel less worthwhile. You can get similar-quality food at other restaurants without spending so much time waiting for a table and your meal.",
+   "owner_reply": null
+  },
+  {
+   "author": "Adeel",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had lunch at Charsi Restaurant Ajman today, and it was an incredible experience! We ordered the Charsi Karahi, and it was absolutely fantastic—fresh, rich in flavor, perfectly cooked, and served piping hot. The meat was tender, and the authentic taste really stood out. Excellent service and great hospitality as well. Highly recommended if you are craving authentic, delicious karahi!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Azhar",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Had an amazing dinner at Charsi Restaurant, Ajman! The lamb chops were perfectly cooked, the kandai was full of flavor, and the grilled chicken was juicy and delicious. Every dish was outstanding. Definitely one of the best restaurants in Ajman for authentic and tasty food. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Nagma Sheikh",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Fantastic food and osm staff. I like services also. I will definitely recommend to all. Best of luck charsi Team.",
+   "owner_reply": null
+  },
+  {
+   "author": "Dr. Wardah Qureshi",
+   "rating": 4,
+   "when": "Edited 3 months ago",
+   "text": "It’s a very Desi place with loud music, big screen and lots of shisha smoke. We had namkeen mutton with chapati and dahi papdi chat and Boss shisha. For me the shisha was bit strong. Polite staff very helpful and kind.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Ehsan",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had a wonderful experience at Charsi Restaurant, as always! ⭐⭐⭐⭐⭐ Delicious food, excellent service, and a great atmosphere. Everything was fresh and full of flavour, especially the Dumpukht & Afghani seekh tikka - absolutely amazing! 😋🍽️",
+   "owner_reply": null
+  },
+  {
+   "author": "Burhan Athar",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Had a wonderful dining experience at Charsi Restaurant today. We ordered the Charsi Kadhai and Malai Boti, and both dishes were absolutely delicious. The Charsi Kadhai was full of flavor and perfectly cooked, while my kids loved the Malai Boti so much that they couldn't stop talking about it.\n\nWhat made the experience even better was the excellent service. The staff were extremely polite, professional, and attentive throughout our visit.\n\nHighly recommended for anyone looking for great Peshawari food and outstanding hospitality. We will definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Owais Ashfaq",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Had a wonderful family dinner at Charsi Restaurant. Special thanks to Dildar for his outstanding service and Ghazanfar for the warm welcome. Great hospitality from both. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rubab Rana",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Today I had a wonderful experience at Charsi Restaurant. I went there with my siblings and they have high-quality and fresh food, and the service is also amazing. There's one staff member, Mr. Dildar, he is so kind to us and guided us so well. Thanks to him as well !",
+   "owner_reply": null
+  },
+  {
+   "author": "iwvz",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "If you’re looking for Real Desi flavor in Ajman then Charsiii Restaurant is honestly One of the Best spots From the Moment we Entered the whole atmosphere felt warm And Welcoming The staff treated us with Great respect and hospitality and their service was quick professional and very friendly You can genuinely feel that they care about their customers Now coming to the food absolutely Outstanding  Everything was fresh hot perfectly cooked and full of authentic taste The karahi was rich and flavorful the BBQ was juicy and smoky, and every bite had proper traditional charsi style flavor The spices were balanced perfectly  not too much not too little  just proper desi taste done right The portions were generous, quality was top tier and the prices were worth it for the experience and taste you get Even the naan and sides were fresh and served properly Honestly you can tell they put real effort into their food instead of just serving average restaurant meals What really stood out was the hospitality The staff kept checking respectfully if everything was okay and made us feel comfortable throughout That kind of service is rare these days The place has a good family vibe clean seating and overall a very chill environment To Enjoy food with friends or family Ajman definitely needed a place like this If you love Authentic Pakistani Afghani style food with proper taste Great Portions and amazing hospitality Charsi Restaurant is a must visit Highly recommended and definitely coming back again\nBig thanks to Arsalan Al Balushii for having us at this awesome spot Charsi restaurant",
+   "owner_reply": null
+  },
+  {
+   "author": "Izharullhaq Shaikh",
+   "rating": 3,
+   "when": "a month ago",
+   "text": "Charai kadhai was good and motton cooked well but not tasty and dumpukht is very heavy food its not good for who’s going to gym or following diet. But for food lovers you must visit once charsi kadhai",
+   "owner_reply": null
+  },
+  {
+   "author": "Engr. Aamir Hanif",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "The ambience is quite good. The food is fantastic and giving a good vibe overall. Good for outing and having an aesthetic dinner with family and friends. Special thanks to Dildar, he literally didn’t allow us to ask for anything, he did everything from himself giving us a special feeling. A true gem hidden in the industrial streets of Ajman. Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Usman Ali",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I recently had the pleasure of dining at Charsi Restaurant, and it was a wonderful experience. The food was absolutely delicious, full of authentic flavors, and served fresh. Every dish we tried was well-prepared and truly satisfying.\nThe service was equally impressive — a special thanks to Dildar, who was extremely friendly, attentive, and made sure we were comfortable throughout our visit. His professionalism really added to the overall experience.\nThe ambiance of the restaurant was warm and welcoming, making it a perfect place to enjoy a meal with family and friends.\nWhat I liked the most:\n▪︎Delicious and authentic food\n▪︎Fresh and high-quality ingredients\n▪︎Friendly and professional staff\n▪︎Excellent service by Dildar\n▪︎Comfortable and welcoming ambiance\nHighly recommended for anyone looking for great taste and excellent service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Tushar David",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Dildar is very hospitable and gives good suggestions.\nIt was an authentic treat directly from Peshawar.\nDumpukth and kebab platter was delicious.",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdul Waheed Vayani",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Delicious Food, after long time I ate Kandahari Nan (Afghani Roti) same taste as I used to eat in Kharadhar Karachi Pakistan. Excellent service specially by Diladar and Abdul Ghaffar. Good thing is that Family hall and Parking available. Strongly recommend for Pakistani Food lovers.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shannon Soans",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Just dined at Charsi Restaurant and it was so worth the drive! The quality of meat and taste was great - dishes like Charsi Karahi and the Namkeen Karahi was so good, packed with Flavor! I would recommend ordering before, because it takes around 50 minutes to prepare.\nWas super happy with the people that took care of us and served us! Shoutout too Dildar - he even showed us a super cool way to eat Naali!\nLooking forward to coming back here again🔥",
+   "owner_reply": null
+  },
+  {
+   "author": "Sam Golmarvi",
+   "rating": 4,
+   "when": "3 months ago",
+   "text": "Great food. Friendly staff and caring. And quality of food is amazing and fresh",
+   "owner_reply": null
+  },
+  {
+   "author": "Atiq ur Rehman",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "⸻\n\nIf you’re in Ajman and looking for authentic desi flavors, Charsi Restaurant is a foodie’s delight! 🍽️✨\n\nOn my visit, I tried their Chicken Biryani, and honestly, it was loaded with aroma and flavor – every spoonful had that perfect balance of spices and tender chicken. Then came the Dum Pukht – slow-cooked to perfection, rich, and absolutely mouthwatering, a true taste of traditional Peshawari cuisine. 🥘🔥\n\nAnd to finish off on a sweet note, I had their Malai Kulfi – super creamy, refreshing, and one of the tastiest kulfis I’ve had in Ajman! 🍨👌\n\nThe whole experience felt homely yet full of authentic taste. If you’re planning a family dinner or a friends’ foodie night out, Charsi Restaurant definitely deserves a spot on your list.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kashif Ali",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "Tried for 1st time charsi restaurant at ajman have amazing ambience with delicious food and great services with smile face welcoming atmosphere\nSpecially Thankful To Mr.Dildar was a great server and knows How to accommodate The customers love the place💯",
+   "owner_reply": null
+  },
+  {
+   "author": "Realtoronr6",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "From the moment we stepped in, everything at Charsi Restaurant was absolutely perfect. The food was bursting with authentic flavor — every dish was cooked to perfection and served fresh and hot. Whether you're a fan of traditional Pakistani cuisine or simply love rich, hearty meals, this place delivers beyond expectations.\n\nWhat truly elevated the experience was the outstanding hospitality of Mr. Dildar. His warm welcome, attention to detail, and genuine care for every guest made us feel right at home. It's rare to find such personalized service these days, and Mr. Dildar’s dedication truly sets Charsi Restaurant apart.\n\nHighly recommended for anyone looking for top-notch food and exceptional service in Ajman. Will definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Imran Muhammad",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I recently visited the restaurant and want to share some feedback about my experience.\n\nThe food was okay, and I appreciate the variety offered on the menu.\n\nPricing: I found the prices to be quite high compared to other similar restaurants in the area that offer similar food quality. It may be helpful to re-evaluate the pricing or offer more value for the cost.\nAmbience and Seating: The seating arrangement felt very congested and uncomfortable, making it difficult to enjoy the meal. A more spacious and relaxed seating area would improve the overall dining experience.\n\nService: Unfortunately, the service did not meet expectations. The staff seemed to be overwhelmed or inattentive, which led to delays and confusion during the meal.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Chohan",
+   "rating": 2,
+   "when": "7 months ago",
+   "text": "Charsi karhai namkeen was just ok. Nothing great. Had a unique flavour but not traditional. Had lemon and onions and not desi mirchein. Very expensive for location and ambiance.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sameehktr D",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I tried the Mutton Dum Pukht, and it was really tasty and full of flavor. The meat was soft, tender, and cooked perfectly, with spices that made the dish truly enjoyable. However, the prices are quite high, which might be a concern for some. Despite that, the quality and taste make it worth trying at least once",
+   "owner_reply": null
+  },
+  {
+   "author": "Kainat Shafeeq",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "The food at Charsi Restaurant is great, we came for brunch and the service by Dildar is excellent! I also tried their unique hand-washing technique for the first time, which removes food smells from your hands. It was a really nice touch😇",
+   "owner_reply": null
+  },
+  {
+   "author": "Anoosha Khan",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "The overall experience was great.. the food was so delicious … The staff was so friendly especially Dildar Bhai who was attentive, gave good recommendations and made sure everything was perfect throughout our dinner",
+   "owner_reply": null
+  },
+  {
+   "author": "Hussain",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience at this restaurant! From the moment we walked in, we were warmly welcomed and treated with exceptional hospitality. The waiter Mr. Dildar who attended to us was incredibly polite, attentive, and made us feel truly valued. He went above and beyond to ensure our comfort and satisfaction throughout the meal. The service alone made our visit memorable — a true example of how great customer service should be. Highly recommended, and I’ll definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Shabraz",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "After a long drive, I was craving a hearty and flavorful meal. We decided to explore some authentic Pakistani cuisine at this spot.\nThey boast a diverse menu, but we opted for their signature Mutton Charsi Karahi. While the 40-minute wait seemed long, the dish was well worth it.\nIt truly evoked the flavors of Peshawar's famed Namak Mandi Karahe. The accompanying raita and tomato chutney were incredibly delicious, and we also enjoyed the complimentary salad.\nThe staff, particularly Dildar, were friendly and made our dining experience pleasant.\n\nHowever, the pricing could be slightly adjusted, and the dining space felt a bit cramped, which can be a minor distraction.\nWhile they only have two reserved parking spots, finding street parking nearby was manageable.\n\nOverall, this is a must-try for any mutton enthusiast.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    981
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    956
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    899,
+    1599
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    305,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    415,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    512,
+    389
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    300,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    307,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    512,
+    478
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    200,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 72,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/charsi-restaurant-ajman/",
+ "buy_likelihood": 6,
+ "notes": "3,908 reviews, active on TikTok, never replies on Google. Pitch online ordering to cut aggregator fees.",
+ "display_name": "Charsi Restaurant"
+}

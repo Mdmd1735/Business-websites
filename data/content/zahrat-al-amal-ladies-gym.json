@@ -1,0 +1,33 @@
+{
+ "preset": "clinic-teal",
+ "theme": {"bg": "#FFF5F9", "surface_2": "#FDE1EC", "accent": "#D81B6A", "accent_text": "#B3155A", "duo": "#F7C3D9", "busy": "#D81B6A", "glow": "rgba(216,27,106,.14)", "band_bg": "#1A1A1A", "band_accent": "#FFD23F", "display": "\"Baloo Bhaijaan 2\",system-ui,sans-serif", "body": "\"Nunito\",system-ui,sans-serif", "google_fonts": "family=Baloo+Bhaijaan+2:wght@600;700;800&family=Nunito:wght@400;600;700&family=Cairo:wght@700", "dw": "800", "dtrack": "-0.02em"},
+ "extra_css": ".ticker{background:#FFD23F;color:#1A1A1A}",
+ "brand": {"name": "Zahrat Al Amal", "sub": "Ladies Gym · Sharjah", "mark": "ز", "footer_word": "Zahrat Al Amal"},
+ "seo": {"title": "Zahrat Al Amal Ladies Gym | نادي زهرة الامل للسيدات | Al Khan, Sharjah", "description": "Zahrat Al Amal, a ladies-only gym in Al Khan, Sharjah: body sculpting, belly dance, Zumba, body combat, CrossFit and diet plans with Coach Amal. Rated 5.0 from 329 reviews."},
+ "hero": {"variant": "collage", "ar_name": "نادي زهرة الامل للسيدات", "kicker": "Ladies only · Al Khan · Sharjah", "title_lines": ["Strong women,", "loud music,", "Coach Amal."],
+   "lede": "A ladies-only club for body sculpting, belly dance, Zumba, body combat and CrossFit, with meal plans and a coach whose energy fills the room. Rated a perfect 5.0.",
+   "image": "img/hero.jpg", "image_alt": "Members' feet in a circle of pink exercise balls", "collage": ["img/floor.jpg", "img/balls.jpg"], "secondary": {"label": "Classes", "href": "#classes"}},
+ "cta_label": "Join on WhatsApp", "cta_text": "مرحبا، أريد الاشتراك في النادي / Hi, I'd like to join the ladies gym.",
+ "proof_note": "Perfect 5.0 · ladies only",
+ "address_lines": ["Zahrat Al Amal Ladies Gym", "Al Khan, Sharjah"],
+ "ticker": ["Body sculpting", "Belly dance", "Zumba", "Body combat", "CrossFit", "Meal plans", "Ladies only"],
+ "sections": [
+  {"type": "services", "id": "classes", "nav": "Classes", "eyebrow": "Classes · الحصص", "title": "Every class,", "title_dim": "a different workout.",
+   "items": [
+    {"name": "Body sculpting", "feature": true, "img": "img/studio.jpg", "alt": "Training floor with mirrors and yellow walls", "desc": "Toning circuits with weights and bands.", "quote": "The facilities are top-notch, and I was particularly impressed with the body combat training. Coach Amal is excellent.", "cite": "Shibila N."},
+    {"name": "Belly dance & Zumba", "desc": "Cardio that feels like a party."},
+    {"name": "Body combat & CrossFit", "img": "img/weights.jpg", "alt": "Pink kettlebells and weights", "desc": "High-energy sessions for strength and stamina."},
+    {"name": "Meal plans", "desc": "Simple daily plans to support weight loss."}
+   ],
+   "perks": ["Ladies only", "Morning & evening sessions", "Cards & Apple Pay"]},
+  {"type": "team", "id": "team", "nav": "Coach", "eyebrow": "Your coach", "title": "Coach Amal.", "title_dim": "Named in 15 of our last 30 reviews.",
+   "items": [{"name": "Coach Amal", "count": 15, "short": "her", "role": "Head coach", "quote": "She's full of energy, full of life and has this bright smile that's so heartwarming.", "cite": "Zeeba K."}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Ask about memberships.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a monthly membership?", "What time are the morning classes?", "When is belly dance class?", "Can I try one class first?"]},
+  {"type": "faq", "id": "faq", "eyebrow": "Timings", "title": "Class times",
+   "items": [{"q": "When are you open?", "a": "Mornings 10 AM to 1 PM and evenings 5 PM to 10 PM on most days. Saturday 6 PM to 9 PM; closed Friday."},
+             {"q": "Is it women only?", "a": "Yes. Zahrat Al Amal is a ladies-only club with female coaches."}]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Khan,", "title_dim": "Sharjah."}
+ ]
+}

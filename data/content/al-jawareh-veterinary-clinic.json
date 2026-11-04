@@ -1,0 +1,29 @@
+{
+ "preset": "bistro-olive",
+ "theme": {"hero_pos": "center 35%"},
+ "brand": {"name": "Al Jawareh", "sub": "Veterinary Clinic · Sharjah", "mark": "J", "footer_word": "Al Jawareh"},
+ "seo": {"title": "Al Jawareh Veterinary Clinic Sharjah | Dr. Tamim · Vet, Pet Hospital & Boarding", "description": "Al Jawareh Veterinary Clinic on Al Marija Street, Sharjah: experienced vet Dr. Tamim for dogs, cats and birds, check-ups, treatment and boarding. 4.8 from 256 reviews."},
+ "hero": {"variant": "full", "ar_name": "عيادة الجوارح البيطرية", "kicker": "Al Marija Street · Sharjah", "title_lines": ["The vet families", "keep coming back to."],
+   "lede": "Dr. Tamim and the team care for dogs, cats and birds with experience, patience and a gentle hand, from first vaccines to boarding while you travel.",
+   "image": "img/hero.jpg", "image_alt": "Dr. Tamim with a smiling Samoyed on the exam table", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Al Jawareh Vet Clinic, I'd like to book an appointment.",
+ "proof_note": "4.8 from 256 reviews",
+ "address_lines": ["Al Jawareh Veterinary Clinic, Al Marija Street", "Sharjah"],
+ "socials": {"instagram": "vetaljawareh"},
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Dogs, cats and birds,", "title_dim": "all welcome.",
+   "items": [
+    {"name": "Check-ups & vaccinations", "feature": true, "img": "img/golden.jpg", "alt": "Dr. Tamim with a golden retriever", "desc": "Routine care and vaccination schedules for puppies, kittens and adults.", "quote": "My family and I have been treating our cat with Dr. Tamimi for a few years now and honestly, he is the best vet we have ever encountered!", "cite": "Google reviewer"},
+    {"name": "Treatment & surgery", "img": "img/exam.jpg", "alt": "Vet examining a fluffy dog", "desc": "Diagnosis and treatment in a clean, organised clinic."},
+    {"name": "Birds", "img": "img/cockatiel.jpg", "alt": "Cockatiel perched on flowers", "desc": "Care for parrots, cockatiels and other birds."},
+    {"name": "Boarding", "img": "img/poodles.jpg", "alt": "Two small poodles on the exam table", "desc": "Safe stays while you travel."}
+   ],
+   "perks": ["Mon–Sat 10 AM – 1:30 PM & 5 – 9:30 PM", "Good with children", "Pet boarding"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan your visit", "title": "Come when", "title_dim": "the waiting room's empty."},
+  {"type": "team", "id": "team", "nav": "Vet", "eyebrow": "Your vet", "title": "Dr. Tamim.", "title_dim": "Named in 13 of our last 30 reviews.",
+   "items": [{"name": "Dr. Tamim", "count": 13, "short": "him", "role": "Veterinarian", "quote": "The doctor is very experienced and gentle with animals.", "cite": "Maysam A."}]},
+  {"type": "gallery", "images": [{"src": "img/husky.jpg", "alt": "Two huskies resting on the exam table"}, {"src": "img/shihtzu.jpg", "alt": "Happy Shih Tzu"}, {"src": "img/cat.jpg", "alt": "Scottish fold cat"}, {"src": "img/clinic-night.jpg", "alt": "Clinic sign at night"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Marija Street,", "title_dim": "Sharjah."}
+ ]
+}

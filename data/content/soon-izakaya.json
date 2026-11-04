@@ -1,0 +1,180 @@
+{
+ "preset": "noir-red",
+ "theme": {
+  "accent": "#FF2E93",
+  "accent_text": "#FF5AAB",
+  "on_accent": "#14040C",
+  "bg": "#0B0709",
+  "surface": "#160E12",
+  "surface_2": "#20161B",
+  "duo": "#5A0F33",
+  "busy": "#B01764",
+  "glow": "rgba(255,46,147,.2)",
+  "band_bg": "#F4EFEA",
+  "band_accent": "#C2126B",
+  "display": "\"Dela Gothic One\",system-ui,sans-serif",
+  "body": "\"Inter Tight\",system-ui,sans-serif",
+  "google_fonts": "family=Dela+Gothic+One&family=Inter+Tight:wght@400;500;600&family=Cairo:wght@700",
+  "dw": "400",
+  "dstyle": "normal",
+  "dcase": "none",
+  "dtrack": "-0.02em",
+  "h1max": "112px"
+ },
+ "extra_css": ".ticker{background:#3DFF8F;color:#0B0709}",
+ "brand": {
+  "name": "SOON",
+  "sub": "Izakaya · JLT",
+  "mark": "S",
+  "footer_word": "SOON"
+ },
+ "seo": {
+  "title": "SOON Izakaya JLT | Japanese Izakaya, Sushi & Cocktails at Armada Tower 2",
+  "description": "SOON Izakaya, Armada Tower 2, Cluster P, JLT: Tokyo-style izakaya with wagyu katsu sando, prawn gyoza, lobster maki and sushi, signature cocktails, DJs and a terrace. Open 3 PM to 1 AM. 4.7 from 1,186 reviews."
+ },
+ "hero": {
+  "variant": "full",
+  "kicker": "Armada Tower 2 · Cluster P · JLT",
+  "title_lines": [
+   "Tokyo after dark,",
+   "in JLT."
+  ],
+  "lede": "A Tokyo-raised izakaya with wagyu katsu sando, prawn gyoza, lobster maki and sushi, signature cocktails, DJs on weekends and a terrace facing the towers. Open daily from 3 PM to 1 AM.",
+  "image": "img/terrace.jpg",
+  "image_alt": "SOON terrace at night with the JLT towers lit up behind",
+  "secondary": {
+   "label": "What to order",
+   "href": "#menu"
+  }
+ },
+ "cta_label": "Reserve on WhatsApp",
+ "cta_text": "Hi SOON Izakaya, I'd like to reserve a table.",
+ "proof_note": "1,186 reviews",
+ "address_lines": [
+  "SOON Izakaya, Armada Avenue Hotel",
+  "Armada Tower 2, Cluster P, Jumeirah Lakes Towers, Dubai"
+ ],
+ "ticker": [
+  "Wagyu katsu sando",
+  "Prawn gyoza",
+  "Lobster maki",
+  "Sashimi",
+  "Signature cocktails",
+  "DJ nights",
+  "Terrace"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "menu",
+   "nav": "Menu",
+   "eyebrow": "What to order",
+   "title": "Small plates,",
+   "title_dim": "big flavours.",
+   "items": [
+    {
+     "name": "Wagyu katsu sando",
+     "feature": true,
+     "img": "img/katsu.jpg",
+     "alt": "Glazed katsu bites",
+     "desc": "The dish regulars tell you to try first.",
+     "quote": "Food was amazing, especially the wagyu katsu sando. You should definitely try it!",
+     "cite": "Ulka B."
+    },
+    {
+     "name": "Gyoza",
+     "img": "img/gyoza.jpg",
+     "alt": "Prawn gyoza in sauce",
+     "desc": "Crispy-bottomed prawn gyoza."
+    },
+    {
+     "name": "Maki & sushi",
+     "img": "img/maki.jpg",
+     "alt": "Lobster maki roll",
+     "desc": "Lobster maki, spicy tuna and nigiri."
+    },
+    {
+     "name": "Robata & grills",
+     "img": "img/chops.jpg",
+     "alt": "Glazed lamb chops on a blue plate",
+     "desc": "Lamb chops, skewers and wagyu mazesoba."
+    },
+    {
+     "name": "Signature cocktails",
+     "img": "img/cocktails.jpg",
+     "alt": "Two signature cocktails",
+     "desc": "Creative drinks, happy hour and ladies' night."
+    }
+   ],
+   "perks": [
+    "Open daily 3 PM – 1 AM",
+    "Terrace seating",
+    "DJ & live music",
+    "Delivery"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Get a table",
+   "title": "Busy after 9.",
+   "title_dim": "Come early for the terrace."
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/robot.jpg",
+     "alt": "Retro robot sculpture at the entrance"
+    },
+    {
+     "src": "img/hero.jpg",
+     "alt": "Neon SOON logo over the bar"
+    },
+    {
+     "src": "img/bar.jpg",
+     "alt": "Bar with orange lights"
+    },
+    {
+     "src": "img/sushi.jpg",
+     "alt": "Salmon maki"
+    },
+    {
+     "src": "img/spread.jpg",
+     "alt": "Sushi and cocktails on the table"
+    },
+    {
+     "src": "img/dining.jpg",
+     "alt": "Dining room"
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "reserve",
+   "eyebrow": "Reserve",
+   "title": "Book your table.",
+   "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": [
+    "Can I book a table for tonight?",
+    "When is happy hour?",
+    "Is there a DJ this weekend?",
+    "Can you host a birthday group?"
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Armada Tower 2,",
+   "title_dim": "JLT.",
+   "landmark": "Enter through the Armada Avenue Hotel"
+  }
+ ]
+}

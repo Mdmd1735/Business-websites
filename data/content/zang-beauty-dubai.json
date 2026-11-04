@@ -1,0 +1,197 @@
+{
+ "preset": "luxe-gold",
+ "theme": {
+  "bg": "#100E0B",
+  "surface": "#1A1712",
+  "surface_2": "#24201A",
+  "accent": "#CDAA6D",
+  "accent_text": "#DDBB7E",
+  "band_bg": "#F5F1E8",
+  "band_accent": "#8C6A2E",
+  "hero_pos": "center"
+ },
+ "brand": {
+  "name": "Zang Beauty",
+  "sub": "Ladies Salon · Al Rigga",
+  "mark": "Z",
+  "footer_word": "Zang"
+ },
+ "seo": {
+  "title": "Zang Beauty Dubai | Hydrafacial, Microblading & Lashes near Union Metro, Al Rigga",
+  "description": "Zang Beauty, 119 A Street near Union Metro Exit 1, Al Rigga: Hydrafacial, carbon laser facial, BB Glow, acne and melasma treatment, microblading, lash extensions and nails. 5.0 from 2,113 Google reviews."
+ },
+ "hero": {
+  "variant": "panel",
+  "kicker": "119 A Street · Union Metro Exit 1 · Al Rigga",
+  "title_lines": [
+   "2,113 reviews.",
+   "A perfect five."
+  ],
+  "lede": "Skin, brows and lashes by a Vietnamese beauty team: Hydrafacial, carbon laser facial, BB Glow, acne and melasma care, microblading and lash extensions, a minute's walk from Union Metro.",
+  "image": "img/hero.jpg",
+  "image_alt": "Zang Beauty treatment room with cream curtains and facial beds",
+  "secondary": {
+   "label": "Treatments",
+   "href": "#treatments"
+  }
+ },
+ "cta_label": "Book on WhatsApp",
+ "cta_text": "Hi Zang Beauty, I'd like to book a treatment.",
+ "proof_note": "Rated 5.0 on Google",
+ "address_lines": [
+  "Zang Beauty, 119 A Street",
+  "Near Union Metro Exit 1, Al Rigga, Dubai"
+ ],
+ "ticker": [
+  "Hydrafacial",
+  "Carbon laser facial",
+  "BB Glow",
+  "Acne & melasma",
+  "Microblading",
+  "Lash extensions",
+  "Nails",
+  "Laser hair removal"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "treatments",
+   "nav": "Treatments",
+   "eyebrow": "Treatments",
+   "title": "Skin first.",
+   "title_dim": "Then brows, lashes and nails.",
+   "items": [
+    {
+     "name": "Hydrafacial",
+     "feature": true,
+     "img": "img/interior.jpg",
+     "alt": "Zang staff with clients in the salon lounge",
+     "desc": "Deep cleanse, extraction and hydration. Some clients come every month.",
+     "quote": "I always come here every month and especially the hydra facial is amazing.",
+     "cite": "Soror D."
+    },
+    {
+     "name": "Acne, melasma & BB Glow",
+     "img": "img/brows-work.jpg",
+     "alt": "Therapist working on a client's brows",
+     "desc": "Carbon laser facial, micro-needling, BB Glow and pigmentation care."
+    },
+    {
+     "name": "Microblading & brows",
+     "img": "img/glam.jpg",
+     "alt": "Client smiling after brows and makeup",
+     "desc": "Microblading, microshading, nano brows and shaping."
+    },
+    {
+     "name": "Lash extensions",
+     "desc": "Full, natural-looking sets. Lashes come up in 9 of our last 30 reviews."
+    },
+    {
+     "name": "Nails & pedicure",
+     "img": "img/pedicure.jpg",
+     "alt": "Gold pedicure chairs under the Zang logo",
+     "desc": "Manicure, pedicure, foot spa and extensions."
+    },
+    {
+     "name": "Laser hair removal",
+     "desc": "Single sessions or full packages. Prices include 5% VAT."
+    }
+   ],
+   "perks": [
+    "Open daily 10 AM – 10 PM",
+    "Near Union Metro",
+    "Wheelchair accessible",
+    "Branch in Abu Dhabi"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Plan your visit",
+   "title": "Walk in when",
+   "title_dim": "the beds are free."
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Team",
+   "eyebrow": "The team",
+   "title": "Names our clients",
+   "title_dim": "come back for.",
+   "items": [
+    {
+     "name": "Tuyet",
+     "count": 3,
+     "role": "Facials & brows"
+    },
+    {
+     "name": "Anh",
+     "role": "Lashes"
+    },
+    {
+     "name": "Hao",
+     "role": "Hydrafacial",
+     "quote": "She's very polite, professional, and the hydra facial was absolutely amazing.",
+     "cite": "Melchicherish A."
+    },
+    {
+     "name": "Hong",
+     "role": "Nails",
+     "quote": "Hong did an amazing job on my nails!",
+     "cite": "Dananji J."
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/logo.jpg",
+     "alt": "Zang Beauty logo on marble wall"
+    },
+    {
+     "src": "img/reception.jpg",
+     "alt": "Reception desk with chandelier"
+    },
+    {
+     "src": "img/corridor.jpg",
+     "alt": "Salon floor with gold accents"
+    },
+    {
+     "src": "img/nails.jpg",
+     "alt": "White almond nails"
+    },
+    {
+     "src": "img/storefront.jpg",
+     "alt": "Zang Beauty ladies salon entrance"
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "book",
+   "eyebrow": "Prices",
+   "title": "Ask for the menu.",
+   "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": [
+    "How much is a Hydrafacial?",
+    "What does microblading cost?",
+    "Price for lash extensions?",
+    "Do you have laser hair removal packages?"
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Union Metro, Exit 1,",
+   "title_dim": "Al Rigga."
+  }
+ ]
+}

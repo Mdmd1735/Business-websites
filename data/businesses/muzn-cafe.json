@@ -1,0 +1,1618 @@
+{
+ "slug": "muzn-cafe",
+ "name": "Muzn Cafe",
+ "place_id": "ChIJs6c0qJf39T4Rglld9adQH98",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "Ajman",
+ "address": "CG5G+CC - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.408435,
+  "lng": 55.5261572
+ },
+ "phone": "+971 6 744 4744",
+ "rating": 4.6,
+ "userRatingCount": 585,
+ "rating_distribution": {
+  "oneStar": 21,
+  "twoStar": 6,
+  "threeStar": 21,
+  "fourStar": 71,
+  "fiveStar": 466
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Muzn%20Cafe&query_place_id=ChIJs6c0qJf39T4Rglld9adQH98",
+ "website": "https://linktr.ee/muzncafe",
+ "categories": [
+  "Cafe"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "6:30 AM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "6:30 AM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "6:30 AM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "6:30 AM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "6:30 AM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "6:30 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "6:30 AM to 12 AM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Service options": [
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Drive-through": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   },
+   {
+    "Great dessert": true
+   },
+   {
+    "Great tea selection": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Solo dining": true
+   },
+   {
+    "Good for working on laptop": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Happy hour food": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegan options": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Cozy": true
+   },
+   {
+    "Quiet": true
+   },
+   {
+    "Romantic": true
+   },
+   {
+    "Trendy": true
+   },
+   {
+    "Upscale": true
+   }
+  ],
+  "Crowd": [
+   {
+    "College students": true
+   },
+   {
+    "Groups": true
+   },
+   {
+    "Tourists": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   },
+   {
+    "Kids' menu": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "panda cake",
+  "ice cream",
+  "Matcha",
+  "Sweet",
+  "hot chocolate",
+  "watermelon ice cream",
+  "Acai Smoothie",
+  "matcha coconut ice cream",
+  "croissant",
+  "V60"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 68
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 64
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   }
+  ],
+  "We": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 59
+   }
+  ],
+  "Th": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 64
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 61
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Mai Magcuro",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great place to have coffee and dessert ❤️🥰 place is very cozy and the hot chocolate is a must to order and the panda ice cream cake.  Had our free teddies turned into a flower accessories in the flowershop outside muzn ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Sara B",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "You can tell they really care about what they do. This is easily one of my favorite spots, and I’ll definitely be back. Delicious food, a cozy atmosphere, and friendly, attentive service make this cafe an absolute must-visit!\n\nHighly recommend to anyone looking for great food, great coffee, and a great vibe.",
+   "owner_reply": null
+  },
+  {
+   "author": "dana alhosani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I ordered takeout from this café and everything was perfect! The food was delicious, the service was quick, and the packaging was neat. On top of that, the prices were super reasonable for the quality. Definitely a place I’ll be ordering from again!",
+   "owner_reply": null
+  },
+  {
+   "author": "MZ L (Malcleavius)",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "A fantastic hidden gem in Ajman for families. The desserts and sweets are absolutely incredible—pure indulgence! My only wish is that they would bring back their sugar-free ice cream options.",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdalla Alali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The sweets i tried (Um Ali, Panda cake) was great 👍🏻\nThe coffee they are serving (Brazilian beans) test nice\nVery busy place more for take away than dine in at least after midnight during Ramadan.\n\nI really recommend this cafe (5 🌟)",
+   "owner_reply": null
+  },
+  {
+   "author": "noora AlBarbary",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "Tasty dessert, I tried panda and date panda dessert and it was super delicious. I ordered piccolo and it was great too\nThe service is excellent, the staff are helpful and friendly\nThe coffee shop has great atmosphere.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jim Purcell",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Excellent service from our server.\nThey understand the essence of customer care.\nI do believe the prices are a bit high compared to other cafes in the market.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sultan Saif Sultan Alnuaimi",
+   "rating": 3,
+   "when": "5 months ago",
+   "text": "To be honest my favorite coffee shop, but worst drive through communication system, speakers not too loud I hardly understand, sometimes no one reply to me, this happened to me many times i come to drive through and no one reply to me i need to take a big circle and come infront of the shop, please fix speakers and try to always respond to drive through customers.",
+   "owner_reply": null
+  },
+  {
+   "author": "Simab Shaikh",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Recently had their special winter edition hot chocolate which comes with a stuffed teddy bear on the side 😍 Totally love the concept and the hot cocoa was delicious as well.",
+   "owner_reply": null
+  },
+  {
+   "author": "Tota Go",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Fresh ice cream to cool up the summer heat!\nLoved the watermelon ice cream, the flavor taste natural watermelon and it doesn’t taste artificial also the prices are very reasonable",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdulrahman Alattar",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Nice food, friendly staff, good prices, quiet atmosphere.",
+   "owner_reply": null
+  },
+  {
+   "author": "Iforntieyzj",
+   "rating": 3,
+   "when": "3 years ago",
+   "text": "in my opinion its a good cafe and has good food and good service but for the most part this place is good for a grab and go. only come here if u have a car because staying here might get boring",
+   "owner_reply": null
+  },
+  {
+   "author": "Khawla Al Yassi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Excellent coffee and very good ice cream.  Service are a bit slow because they are in soft opening. Decor is fine . Well done Ibrahim Al Shihi 👏🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Sara Almulla",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Yummy hot chocolate and they offer a loyalty program",
+   "owner_reply": null
+  },
+  {
+   "author": "Merox 537",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Everything I ordered was top quality so far, specially the flat white I’m addicted to it now.",
+   "owner_reply": null
+  },
+  {
+   "author": "by HK",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best panda cake—so cute! The crispy caramel combined with the melted cake is a fantastic combination. I absolutely love the taste!",
+   "owner_reply": null
+  },
+  {
+   "author": "Obaid Al Ajmani",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "This cafe shop will never disappoint you..\n\nDelicious food 🍲\nFriendly stuff 👍🏼\nGood atmosphere\n\nWhat I like in this place is the watermelon ice cream and 🥐.. Really delicious\nOf course the cofee also\n\nWell done guys",
+   "owner_reply": null
+  },
+  {
+   "author": "Alyaa Al Ali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I always come for their fresh croissant 🥐 and their ice latte 🫶🏻 very quick service and the croissant is delicious. Thank you.",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdo Mo.",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "the most place i feel comfort and relaxing in Ajman.\nHigh class and great service.\nteasty sweet and drinks.\nVarious delicious juice drinks.\nThanks Muzn cafe for made our day",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Ik",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Amazing service, food and staff",
+   "owner_reply": null
+  },
+  {
+   "author": "Mrs Tabriz",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Im a regular customer for raspberry creme brulee and panda brownie.  Theee best in town",
+   "owner_reply": null
+  },
+  {
+   "author": "Saif Al Harazi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best places in Ajman  to have a coffee or dessert! There Cascara And Panda sweet are top and must have",
+   "owner_reply": null
+  },
+  {
+   "author": "Hamad Almulla",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Everything was perfect and you must try the ice cream\n\nMany thanks to the staff for the perfect hospitality",
+   "owner_reply": null
+  },
+  {
+   "author": "khalood A",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I first came here few months ago had the hot chocolate which was delicious and today came and tried the iced peach tea. Delicious would love to try the desserts next.",
+   "owner_reply": null
+  },
+  {
+   "author": "Wed RRR",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Muzn Coffee Shop is one of the best places I’ve visited! The atmosphere is calm and relaxing, the coffee is high-quality and delicious, and the service is excellent. A special thanks to Halima 🌷  for her kindness and outstanding service. I will definitely visit again and highly recommend it to anyone looking for a great coffee experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Fatima Alhammadi",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Never had a bad experience here from staff to service to flavors. God bless them. One of the best cafes in ajman for sure.",
+   "owner_reply": null
+  },
+  {
+   "author": "Haneen Quyej",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Hot choclate there absolutely the most delicious i have tasted so far 🤩💕\nThank you friendly staff",
+   "owner_reply": null
+  },
+  {
+   "author": "Hamda Almarzooqi",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Great coffee and a lovely atmosphere…Special thanks to Halima for her kindness and excellent service.\nI will definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdalla Alhammadi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I had the best peanut butter ice cream I have tried so far in my life. It was so fresh and very well good served.\nAlso my family tried the mango and watermelon ice creams and they were perfect too.\nRecommended for coffee, ice creams & deserts lovers.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nadia Almheiri",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently discovered this place. I tried their “Panda” dessert!! so YUM and they give you cute little panda’s to collect 🐼 I also loved that they have reserved parkings for take away orders so you won’t struggle with finding a parking spot.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    718,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1569,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1142,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    907,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1205,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    360,
+    640
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    717
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    502,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    299,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    350,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    287,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    373,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    318,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://linktr.ee/muzncafe",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/muzn-cafe/",
+ "buy_likelihood": 6,
+ "notes": "Scouted in batch 2, not built (few photos or inactive owner)."
+}

@@ -1,0 +1,1407 @@
+{
+ "slug": "zad-veterinary-clinic-sharjah",
+ "name": "ZAD veterinary clinic Sharjah عيادة زاد البيطرية",
+ "place_id": "ChIJD3fhz_9bXz4RridoOay_Dr8",
+ "category": "veterinary clinic",
+ "category_weight": 13,
+ "area": "Al Majaz, Sharjah",
+ "address": "Al Marija St - Al Jubail - Hay Al Qasimiah - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3544511,
+  "lng": 55.3820017
+ },
+ "phone": "+971 50 765 5365",
+ "rating": 4.7,
+ "userRatingCount": 721,
+ "rating_distribution": {
+  "oneStar": 38,
+  "twoStar": 6,
+  "threeStar": 4,
+  "fourStar": 19,
+  "fiveStar": 654
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=ZAD%20veterinary%20clinic%20Sharjah%20%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9%20%D8%B2%D8%A7%D8%AF%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%B1%D9%8A%D8%A9&query_place_id=ChIJD3fhz_9bXz4RridoOay_Dr8",
+ "website": "https://wa.me/+971507655365",
+ "categories": [
+  "Veterinarian",
+  "Animal rescue service",
+  "Cat boarding service",
+  "Pet adoption service",
+  "Pet boarding service",
+  "Pet groomer",
+  "Pet sitter",
+  "Pet trainer"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9:30 AM to 10:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9:30 AM to 10:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9:30 AM to 10:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9:30 AM to 10:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9:30 AM to 10:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9:30 AM to 10:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9:30 AM to 10:30 PM"
+  }
+ ],
+ "owner_description": "The best veterinary clinic\nBird market Sharjah\nAnimal market Sharjah\nNear Al watania veterinary clinic\nVet\nVeterinarian\nThe best vet clinic in Sharjah\nPet store\nPet sitter\nPet groomer\nPet trainer\nAnimal hospital\nCat boarding service\nPet adoption service\nPet boarding service\nAnimal rescue service\nVeterinary clinic\nPet clinic\nBird clinic\nBird medicine\nBird grooming\nBird hospital\nBird treatment\nCat hospital\nDog hospital\nCat clinic\nDog clinic\nVeterinary medicine\nBird market Sharjah\nPet shop",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ]
+ },
+ "review_tags": [
+  "dr hassan",
+  "cat grooming",
+  "zad clinic",
+  "clean clinic",
+  "zad team",
+  "cat bath",
+  "dr ahmed",
+  "Dr. Ahmed Nasser",
+  "gentle with cats",
+  "cat handling"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.33,
+ "reviews": [
+  {
+   "author": "Anamavil Rose Tayone",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a wonderful experience at Zad Vet Clinic in Sharjah. Their prices are very affordable without compromising the quality of care. Dr. Islam and Dr. Ahmed are both incredibly friendly, professional, and genuinely care about their patients. They took the time to explain everything clearly and made us feel comfortable throughout the visit. The staff are welcoming, and the service is excellent from start to finish. I highly recommend Zad Vet Clinic to anyone looking for compassionate, reliable, and affordable veterinary care for their pets. Thank you for taking such great care of my cats!",
+   "owner_reply": null
+  },
+  {
+   "author": "htet naing",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Such a nice clinic that we ever met, very clean shop. Doctor is so kind and patient. Doctor’s assistant who did nail cutting, cleaning, showering and drying so patient and did amazing job. Price is reasonable. We are happy over all. Thank you ZAD Veterinarian sharja.",
+   "owner_reply": "Thank you so much for your kind review and for choosing our veterinary clinic in Sharjah. Our experienced vets and pet care team are dedicated to providing the best veterinary services in Sharjah, including pet vaccinations, surgery, diagnostics, dental care, grooming, emergency vet care, and compassionate treatment for cats and dogs. We truly appreciate your trust in our animal hospital and look forward to caring for your pets again. ❤️"
+  },
+  {
+   "author": "Minoli Perera",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I took the rescued ginger cat to the vet straight from the road and she was treated with utmost kindness . I explained I don’t know anything about her as she just got rescued . Dr Ahmed ran all tests on her to see if she was healthy , groomed her and microchipped her . I was given a good discount as well",
+   "owner_reply": null
+  },
+  {
+   "author": "Jithvi Justin",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "I’ve had a wonderful experience with the grooming services here. The groomer genuinely loves and cares for cats, and it really shows in the way he handles them. He is very gentle and careful, never rushing or doing anything that might hurt or frighten them. He is also very sensitive to each cat’s mood and individual needs, which makes the grooming experience much less stressful for the cats.\n\nThe vets at ZAD Veterinary Clinic are also very good, caring, and supportive. They are always ready to step in and offer advice or assistance when needed, which gives great peace of mind.\n\nOverall, a place where you can feel that your cats are genuinely cared for and treated with kindness and respect. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Aya Mamdouh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had a wonderful experience at ZAD Veterinary Clinic! 🐾❤️ The clinic is clean, professional, and the staff are genuinely caring and helpful.\n\nA special thank you to Master Islam for being incredibly kind, patient, and supportive. He went above and beyond to make sure everything was taken care of and made us feel comfortable throughout the visit. His attitude and professionalism really made a difference.\n\nIt’s clear that the team truly cares about the animals and their owners. I highly recommend ZAD Veterinary Clinic, and I especially appreciate Master Islam for his amazing service and kindness. ⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": null
+  },
+  {
+   "author": "Lyra’s Playtime",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\nWe recently brought our cats to Zad Vet Clinic PCH and for deworming and a full body check-up, and we couldn’t be happier with the experience. The doctor was very thorough and gentle, making sure our pets were comfortable throughout the process and giving us advise too. The staff were equally helpful, attentive, and caring, treating our cats as if they were their own. It’s reassuring to know that our pets are in such good hands. Thank you for the excellent service—see you again on our next visit! 👍",
+   "owner_reply": "Thank you so much for your kind review and for choosing our veterinary clinic in Sharjah. Our experienced vets and pet care team are dedicated to providing the best veterinary services in Sharjah, including pet vaccinations, surgery, diagnostics, dental care, grooming, emergency vet care, and compassionate treatment for cats and dogs. We truly appreciate your trust in our animal hospital and look forward to caring for your pets again. ❤️"
+  },
+  {
+   "author": "Lina Barry",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I've visited many veterinary clinics in Dubai, but I've never experienced a visit with such genuinely kind and welcoming people. Everyone was incredibly friendly and caring. The doctor is brilliant, professional, and took the time to explain everything clearly. I was also pleasantly surprised by the prices, which are much more affordable compared to many other vets I've visited or been recommended. I highly recommend this clinic to anyone looking for excellent care and outstanding service for their pets.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ghayur Baig",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We recently visited this veterinary clinic for general health check up of our kitten, and we had a wonderful experience. Dr. Hassan was very polite he took the time to explain us everything which we really appreciated. He even took sample swap sample from out kitten year to check for year mites. In addition to health check up they trim her hairs, cut nails and gave her refreshing bath. Health check up and grooming was done at very affordable prices. We highly recommend this veterinary clinic.",
+   "owner_reply": "Thank you so much for your kind review and for choosing our veterinary clinic in Sharjah. Our experienced vets and pet care team are dedicated to providing the best veterinary services in Sharjah, including pet vaccinations, surgery, diagnostics, dental care, grooming, emergency vet care, and compassionate treatment for cats and dogs. We truly appreciate your trust in our animal hospital and look forward to caring for your pets again. ❤️"
+  },
+  {
+   "author": "Warren Ramos",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The veterinarian is so accommodating. And honest to the point that we wanted to buy vitamins for the cat. But he said our cat doesn't need it at the moment. Will definitely be our go to place for KiKi our cat.",
+   "owner_reply": null
+  },
+  {
+   "author": "Migoo Magdi",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Many thanks to the staff for your kind welcome and treatment. A respectful meeting, honesty in dealing, reasonable prices, and always welcoming offers. Respectful, sustainable dealing and help in the best ways available. Special thanks to Mr. Islam Helal for the welcome, appreciation, honest handling, wise behavior, good reception, and calm handling of pets even in the hardest cases. I am very happy to deal with Zad Veterinary Clinic. Thank you, Mr. Islam.",
+   "owner_reply": null
+  },
+  {
+   "author": "CELINA 2601",
+   "rating": 4,
+   "when": "4 weeks ago",
+   "text": "Had visited the place for my kitties routine vaccination since watania is closed temporarily. The vet was fine, did his job and so was the groomer. Connecting with compassion to the furr babies visiting is something they can improve on- this I would more specific n much required for the groomers there.",
+   "owner_reply": null
+  },
+  {
+   "author": "Glenda Maniego",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "i saw the promotion for cat grooming, so i tried it on august 7, and today again i came back for grooming coz i saw how they took care of my misssy we affordable price 😆😄☺️",
+   "owner_reply": null
+  },
+  {
+   "author": "Ayub Subhaniya",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Had a great experience at ZAD Clinic . I took my kitten there for vaccination, and everything was handled very professionally.\n\nDr. Ahmed was very kind, patient, and explained everything clearly. The staff was also helpful and made the process smooth.\n\nHighly recommend this clinic for anyone looking for good veterinary care.",
+   "owner_reply": "Thank you so much for your kind review and for choosing our veterinary clinic in Sharjah. Our experienced vets and pet care team are dedicated to providing the best veterinary services in Sharjah, including pet vaccinations, surgery, diagnostics, dental care, grooming, emergency vet care, and compassionate treatment for cats and dogs. We truly appreciate your trust in our animal hospital and look forward to caring for your pets again. ❤️"
+  },
+  {
+   "author": "Chrisnova Buligan",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "The services was great. The doctor and groomer are very good and kind. They took good care of my cat and I got free treats! 🩷",
+   "owner_reply": null
+  },
+  {
+   "author": "hassan modan",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Very clean and professional service. Also rates for full grooming much lower than other clinics nearby . Lastly they give loyalty card as well for frequent visits. Very recommended",
+   "owner_reply": "Thank you so much for your kind review and for choosing our veterinary clinic in Sharjah. Our experienced vets and pet care team are dedicated to providing the best veterinary services in Sharjah, including pet vaccinations, surgery, diagnostics, dental care, grooming, emergency vet care, and compassionate treatment for cats and dogs. We truly appreciate your trust in our animal hospital and look forward to caring for your pets again. ❤️"
+  },
+  {
+   "author": "Roudha Al Suwaidi",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had such a wonderful experience at this veterinary clinic! 🐾 I brought my dog in, and the service was truly amazing. The place is very clean and even smells nice, which made me feel comfortable right away.\n\nThey took great care of my dog, gave him excellent grooming, and handled his vaccinations professionally. The staff are so kind, friendly, and genuinely caring — you can tell they really love animals.\n\nI highly recommend this place to anyone looking for a trustworthy and lovely veterinary clinic! 💕",
+   "owner_reply": "Thank you so much for your kind review and for choosing our veterinary clinic in Sharjah. Our experienced vets and pet care team are dedicated to providing the best veterinary services in Sharjah, including pet vaccinations, surgery, diagnostics, dental care, grooming, emergency vet care, and compassionate treatment for cats and dogs. We truly appreciate your trust in our animal hospital and look forward to caring for your pets again. ❤️"
+  },
+  {
+   "author": "Allain G",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I recently brought my cat here in ZAD veterinary clinic in sharjah for grooming and had a great experience. The staff were gentle, patient, and clearly experienced in handling cats. Which I cannot do at home🤭.My cat came back clean, and smelling fresh. They also carefully trimmed the nails and cleaned the ears. I appreciated how they made sure my cat stayed calm and comfortable throughout the session. The place was clean and organized, and the service was worth it. I would definitely recommend this grooming service to other cat owners.\nThanks to all the staff.",
+   "owner_reply": "Thank you so much for your kind review and for choosing our veterinary clinic in Sharjah. Our experienced vets and pet care team are dedicated to providing the best veterinary services in Sharjah, including pet vaccinations, surgery, diagnostics, dental care, grooming, emergency vet care, and compassionate treatment for cats and dogs. We truly appreciate your trust in our animal hospital and look forward to caring for your pets again. ❤️"
+  },
+  {
+   "author": "VANESSA ROSE PIMENTEL",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We had a wonderful experience at this vet clinic during our cat’s first full grooming session. Abdelrahman and Dr. Mohamed were both incredibly gentle and professional—you can truly see they care about animals and know exactly what they’re doing.\n\nDr. Mohammed went the extra mile by checking our cat’s ears and discovering he had ear mites. He immediately provided us with the proper treatment, including ear drops and medication. He was also kind enough to give our cat some treats after the service, which was a lovely gesture.\n\nThe pricing was very reasonable, especially compared to other clinics—we received top-quality care without the hefty cost. I highly recommend this clinic for anyone looking for trustworthy and affordable veterinary care. Excellent service all around!",
+   "owner_reply": "Thank you so much for your kind review and for choosing our veterinary clinic in Sharjah. Our experienced vets and pet care team are dedicated to providing the best veterinary services in Sharjah, including pet vaccinations, surgery, diagnostics, dental care, grooming, emergency vet care, and compassionate treatment for cats and dogs. We truly appreciate your trust in our animal hospital and look forward to caring for your pets again. ❤️"
+  },
+  {
+   "author": "Ryan Gonzaga",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I visited ZAD Clinic Sharjah and was greeted with good smiling people. Dr. Hassan, is very helpful, friendly and accommodating. Place is clean and most of all affordable. I highly recommend this clinic. Keep up the good work ZAD Clinic. They have good variety of pet food, vitamins, etc. I felt comfortable around these people and Tiger was, too, during his operation.",
+   "owner_reply": "💖"
+  },
+  {
+   "author": "eriselda ferko",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My cat had surgery yesterday at the Zad Clinic with Dr. Ahmed, and I couldn't be happier with the experience. The entire process went very well, and my cat is recovering perfectly. The staff was kind and professional, and I felt confident that my pet was in great hands with Dr Ahmed. Thank you for the excellent care!",
+   "owner_reply": "Thank you so much for your kind words! We're happy you were pleased with the service. Your support truly means a lot to us! 😊🐾<br>"
+  },
+  {
+   "author": "Ahmed Ali",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "The clinic is so nice staff is very good area is clean they was so respectful I will keep coming here price also is good they have nice offer\nAnd especially thanks to Bakheet he is so good",
+   "owner_reply": null
+  },
+  {
+   "author": "jana H",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I took my 6 year old cat for teeth removal. Great staff, and clean clinic, took really good care of my cat. he came back in great shape, even had a bit of appetite right after the removal.",
+   "owner_reply": null
+  },
+  {
+   "author": "Adheena Aisha",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I am so happy that I found the Zad clinic grooming saloon. very affordable for grooming and clinical care with best and satisfying results. I had some other concerns about my pet and they were very helpful.. I recommend their services a 1000 times . I’m extremely satisfied. ⭐️ ⭐️⭐️⭐️⭐️",
+   "owner_reply": null
+  },
+  {
+   "author": "chaima Missoum",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I really love this company and I appreciate what they did with my Misha, they helped with everything tabbies test\nPassport and also the health certificate\n\nI appreciate it and I can’t wait to take my car with me to travel 🫶🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Joanne Licas",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "The staff are very accommodating most especially Dr. Hassan. They groomed my cat very neatly . I will always come back here for grooming and health services. My cats are well taken care of.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jes Joshua",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Such a friendly vet clinic! 🙏🏻❤️ Dr. hassan and the the entire team are very professional and provides the best care for our pets! 🙏🏻🙏🏻❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Soban",
+   "rating": 2,
+   "when": "9 months ago",
+   "text": "Today, we took our cat for grooming to Zad Veterinary Clinic, located behind the Sharjah Bird Market. Upon arrival, we were informed that the grooming charges would be AED 120, which we agreed to.\nUnfortunately, our experience was extremely disappointing and distressing.\nThe staff was completely unprofessional\nThe groomer’s behavior towards our cat was very harsh and unacceptable\nDuring grooming, the groomer cut our cat’s leg with scissors\nThe cat’s ears were held and twisted so forcefully that blood clotted on them\nWithout informing us about any of these injuries, our cat was immediately locked in a cage and handed over to us\nNormally, at other veterinary clinics, the pet is first shown to the owner and any issues are clearly explained before placing the pet in a cage. However, none of this standard procedure was followed here.\nIn addition, the grooming and haircut were extremely poor and careless the fur was uneven, messy, and completely unprofessional.\nWe are sharing pictures of our cat along with this post, which clearly show the condition she was returned in.\nWe strongly advise all pet owners to be extremely careful when choosing a grooming or veterinary facility.\nIf animals are not treated with care and comfort, such places cause nothing but harm.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rushan Mae Baguio",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Thank you for your great service and grooming to my cat. Definetly we will come back. Especially thanks the groomer Bakheet , dr. Islam and  Mr. Islam .",
+   "owner_reply": null
+  },
+  {
+   "author": "Rizza Hapas",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Highly Recommended!! Amazing clinic! The staff is so kind and professional with Dr. Hassan, and the vets truly care about your pets. Always a positive experience 👍🏻👍🏻👍🏻I wouldn’t take my furry friend anywhere else!",
+   "owner_reply": null
+  },
+  {
+   "author": "lilas farhat",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "very friendly staff\ntheir service is professional and know how to handle cats\ngrooming as well was very smooth and fast\nask for dr ahmad naser and staff bakhit for a high quality service",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    960,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1059,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    904,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    299,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    381,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    329,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    430,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    291,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://wa.me/+971507655365",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 76,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/zad-veterinary-clinic-sharjah/",
+ "buy_likelihood": 7,
+ "notes": "721 reviews, keyword-stuffs its Maps description (so it cares about search). Grooming + boarding + vet. Replies 33%.",
+ "display_name": "ZAD Veterinary Clinic"
+}

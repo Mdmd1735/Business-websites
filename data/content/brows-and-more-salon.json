@@ -1,0 +1,188 @@
+{
+ "preset": "ink-paper",
+ "theme": {
+  "accent": "#C2185B",
+  "accent_text": "#A3134C",
+  "on_accent": "#FFFFFF",
+  "duo": "#F3C4D6",
+  "busy": "#C2185B",
+  "glow": "rgba(194,24,91,.08)",
+  "band_accent": "#F49AC1",
+  "hero_ratio": "4/5"
+ },
+ "brand": {
+  "name": "Brows & More",
+  "sub": "Salon · Al Rigga",
+  "mark": "B",
+  "footer_word": "Brows & More"
+ },
+ "seo": {
+  "title": "Brows and More Salon | Microblading, Lashes & Nails in Al Rigga, Deira",
+  "description": "Brows and More Salon, Al Zarooni building above Westzone, Al Rigga Road: microblading, microshading, BB Glow, lash extensions, keratin and nails. 4.8 from 910 Google reviews."
+ },
+ "hero": {
+  "variant": "collage",
+  "kicker": "Al Zarooni Building · Above Westzone · Al Rigga Road",
+  "title_lines": [
+   "Brows that look like",
+   "yours, only better."
+  ],
+  "lede": "Microblading and microshading, lash extensions, BB Glow, keratin and nails in a bright, women-owned salon on Al Rigga Road. 910 Google reviews and counting.",
+  "image": "img/hero.jpg",
+  "image_alt": "Brows and More reception with the eye logo and flowers",
+  "collage": [
+   "img/hair.jpg",
+   "img/nails.jpg"
+  ],
+  "secondary": {
+   "label": "Services",
+   "href": "#services"
+  }
+ },
+ "cta_label": "Book on WhatsApp",
+ "cta_text": "Hi Brows and More, I'd like to book.",
+ "proof_note": "Women-owned salon",
+ "address_lines": [
+  "Brows and More Salon, Flat 401, Al Zarooni Building",
+  "Al Rigga Road (above Westzone), Deira, Dubai"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "services",
+   "nav": "Services",
+   "eyebrow": "Services",
+   "title": "Brows are in the name.",
+   "title_dim": "The rest is just as good.",
+   "items": [
+    {
+     "name": "Microblading & microshading",
+     "feature": true,
+     "img": "img/brows.jpg",
+     "alt": "Brows before and after microshading",
+     "desc": "Natural strokes or soft powder brows, shaped to your face.",
+     "quote": "My microshading looks natural and beautifully shaped.",
+     "cite": "Jen C."
+    },
+    {
+     "name": "Lash extensions",
+     "img": "img/station.jpg",
+     "alt": "Nail and lash station under an arch",
+     "desc": "Classic to volume sets."
+    },
+    {
+     "name": "Nails & extensions",
+     "img": "img/logo-nails.jpg",
+     "alt": "Fresh manicure in front of the logo",
+     "desc": "Gel, extensions and nail art."
+    },
+    {
+     "name": "Hair & keratin",
+     "img": "img/cut.jpg",
+     "alt": "Layered brunette haircut",
+     "desc": "Cuts, colour and keratin."
+    },
+    {
+     "name": "BB Glow & facials",
+     "desc": "BB Glow, facials and foot spa."
+    }
+   ],
+   "perks": [
+    "Women-owned",
+    "Open daily 10 AM – 10 PM",
+    "Appointments recommended"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Plan ahead",
+   "title": "Brow appointments",
+   "title_dim": "go fast in the evening."
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Team",
+   "eyebrow": "Ask for",
+   "title": "Mary, Sunny",
+   "title_dim": "and Luan.",
+   "items": [
+    {
+     "name": "Mary",
+     "count": 8,
+     "role": "Senior beautician"
+    },
+    {
+     "name": "Sunny",
+     "count": 4,
+     "role": "Brows & microshading",
+     "quote": "She was very professional, gentle, and attentive throughout the whole process.",
+     "cite": "Joanne A."
+    },
+    {
+     "name": "Luan",
+     "count": 3,
+     "role": "Brows"
+    },
+    {
+     "name": "Anita",
+     "role": "Beauty",
+     "quote": "Anita was absolutely amazing: very professional, friendly, and attentive.",
+     "cite": "Corazon H."
+    },
+    {
+     "name": "Sunita",
+     "role": "Foot spa"
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/team.jpg",
+     "alt": "Staff with a client"
+    },
+    {
+     "src": "img/pedicure.jpg",
+     "alt": "Pedicure in progress"
+    },
+    {
+     "src": "img/duo-staff.jpg",
+     "alt": "Two Brows and More beauticians"
+    },
+    {
+     "src": "img/lips.jpg",
+     "alt": "Lip blush result"
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "book",
+   "eyebrow": "Prices",
+   "title": "Ask before you book.",
+   "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": [
+    "How much is microblading?",
+    "Price for microshading touch-up?",
+    "How much are lash extensions?",
+    "Do you have a slot today?"
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Above Westzone,",
+   "title_dim": "Al Rigga Road."
+  }
+ ]
+}

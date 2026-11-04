@@ -1,0 +1,32 @@
+{
+ "preset": "citrus-pop",
+ "theme": {"bg": "#FFF9E5", "surface_2": "#FFEDA8", "accent": "#C8102E", "accent_text": "#A60D26", "duo": "#FFD84D", "busy": "#C8102E", "glow": "rgba(255,210,0,.35)", "band_bg": "#2A0A0A", "band_accent": "#FFD400", "frame": "square", "hero_ratio": "1/1", "slab_o": "1"},
+ "extra_css": ".hero-split .hero__slab{background:#FFD400}.ticker{background:#FFD400;color:#2A0A0A}",
+ "brand": {"name": "Charsi", "sub": "Restaurant · Ajman", "mark": "چ", "footer_word": "CHARSI"},
+ "seo": {"title": "Charsi Restaurant Ajman | Dum Pukht, Namkeen Karahi & Peshawari Food", "description": "Charsi Restaurant, Sharam Al Sheikh building, behind Brother Gas, New Industrial Area 2, Ajman: Peshawari dum pukht, namkeen and charsi karahi, tikka, Afghani pulao and paya. Open 5 AM to midnight. 4.7 from 3,908 reviews."},
+ "hero": {"variant": "split", "ar_name": "مطعم چرسی", "kicker": "New Industrial Area 2 · Ajman", "title_lines": ["Peshawar's", "dum pukht,", "in Ajman."],
+   "lede": "Slow-cooked dum pukht, namkeen and charsi karahi, tikka off the coals and Afghani pulao, with fresh atta roti. Open from 5 AM for paya breakfast until midnight. 3,908 Google reviews.",
+   "image": "img/hero.jpg", "image_alt": "Mutton karahi with green chillies and ginger", "secondary": {"label": "What to order", "href": "#menu"}},
+ "cta_label": "Order on WhatsApp", "cta_text": "Hi Charsi Restaurant, I'd like to order.",
+ "proof_note": "3,908 Google reviews",
+ "address_lines": ["Charsi Restaurant, Sharam Al Sheikh Building", "Behind Brother Gas, New Industrial Area 2, Ajman"],
+ "ticker": ["Dum pukht", "Namkeen karahi", "Charsi karahi", "Charsi tikka", "Afghani pulao", "Mutton paya", "Kulfi"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "What to order", "title": "The Peshawari", "title_dim": "classics.",
+   "items": [
+    {"name": "Dum pukht", "feature": true, "img": "img/dumpukht.jpg", "alt": "Slow-cooked dum pukht ribs", "desc": "Lamb sealed and slow-cooked in its own fat until it falls off the bone.", "quote": "The meat was unbelievably tender. It was literally falling off the bone.", "cite": "Romana"},
+    {"name": "Namkeen karahi", "img": "img/namkeen.jpg", "alt": "Namkeen karahi with lemon", "desc": "Salt, pepper and tomato. Peshawar-style simplicity."},
+    {"name": "Charsi karahi", "img": "img/karahi.jpg", "alt": "Red charsi karahi", "desc": "The house karahi, cooked to order."},
+    {"name": "Tikka & seekh", "img": "img/tikka.jpg", "alt": "Tikka and seekh on the grill", "desc": "Charsi tikka, seekh kebab and chops off the coals."},
+    {"name": "Afghani pulao & breads", "img": "img/naan.jpg", "alt": "Fresh naan", "desc": "Pulao, atta roti, naan and paratha."}
+   ],
+   "perks": ["Open 5 AM – 12 AM", "Family seating", "Delivery & takeaway", "Drive-through"]},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Ask for", "title": "Dildar.", "title_dim": "Thirteen reviews name him.",
+   "items": [{"name": "Dildar", "count": 13, "short": "him", "role": "Service", "quote": "Really amazing taste and very nice service.", "cite": "Ali H."}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Charsi Restaurant storefront", "wide": true}, {"src": "img/seekh.jpg", "alt": "Seekh kebab platter"}, {"src": "img/paratha.jpg", "alt": "Paratha"}, {"src": "img/spread.jpg", "alt": "Table spread"}, {"src": "img/dining.jpg", "alt": "Family dining room"}, {"src": "img/chandelier.jpg", "alt": "Mosaic glass chandelier"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "order", "eyebrow": "Order", "title": "Feeding the family?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I pre-order dum pukht for tonight?", "Do you deliver to my area in Ajman?", "Do you have family seating?", "What's the price of 1 kg namkeen karahi?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Behind Brother Gas,", "title_dim": "Industrial Area 2."}
+ ]
+}

@@ -1,0 +1,901 @@
+{
+ "slug": "the-gents-salon",
+ "name": "The Gents Salon",
+ "place_id": "ChIJDUaztJ2_7Q8RiH5F20GqJ1U",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Bur Dubai",
+ "address": "Central Park Towers Residences - Zaa'beel Second - DIFC - Dubai - United Arab Emirates",
+ "building": "Central Park Towers Residences",
+ "location": {
+  "lat": 25.2066222,
+  "lng": 55.2753562
+ },
+ "phone": "+971 4 579 8609",
+ "rating": 5,
+ "userRatingCount": 462,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 3,
+  "fiveStar": 458
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Gents%20Salon&query_place_id=ChIJDUaztJ2_7Q8RiH5F20GqJ1U",
+ "website": "http://www.instagram.com/thegentssalondubai",
+ "categories": [
+  "Barber shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "12 to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 11 PM"
+  }
+ ],
+ "owner_description": "You know where to drop in",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "hydrafacial",
+  "beard trim",
+  "skin fade",
+  "attention to detail",
+  "welcoming atmosphere",
+  "polite staff",
+  "listening to customers",
+  "clean cut",
+  "skilled staff",
+  "clean place"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Biorn Ragnarson",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Fahd was excellent, skilled and highly attentive to details. One of the best beard trims I had.\nAll the staff was honestly caring. 100% recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Faisal",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Fehd was amazing! Insane attention to detail and gave me the best haircut and shave I’ve ever had! Shoutout to everyone. Lovely place and will always come here.",
+   "owner_reply": null
+  },
+  {
+   "author": "Joshua Medina",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "10/10 service! 5/5 stars ⭐️ ⭐️⭐️⭐️⭐️ If you’re new here to Dubai or want a new barber shop I highly recommend this place! Professionalism and premium service is what this shop brings!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Hitesh Tahiliani",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "It was my first time visiting this Salon and I was extremely happy with the overall experience. Magdy was very professional and I am very satisfied with my haircut! Surely recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Ummer Rashid",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "First time visiting this place. Zahir was extremely professional and did a great job for my hair and beard. 100% recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Ryead Arifi",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Having tried 3 different mem salons, Fahad is by far the best out all of them.\n\nExcellent, friendly and polite.\n\nVery pleased with my hair cut. Exactly what I wanted and i will definitely be back again.\nThank you!",
+   "owner_reply": null
+  },
+  {
+   "author": "Aldrich Gutierrez",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The barber is quite attentive to the style you want and does the cut fast and with precision. Would recommend to visit in Dubai if you want a stylish cut",
+   "owner_reply": null
+  },
+  {
+   "author": "DRZ 04",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Fahet very very good barber! Did exactly like explained, didnt rush and took his time to fulfill my wishes\nDefinitely recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Artem Puzikov",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Fahd is an amazing professional. He nailed my haircut even without any references. Couldn’t recommend this salon more.",
+   "owner_reply": null
+  },
+  {
+   "author": "Zin",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Fantastic service from Magdy, amazing haircut. Great energy and hospitality also. will visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Matthew Nathan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "magdy was great, nice experience overall and love the basketball deco…!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sami",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Hi I’m visiting Dubai, and found this place near my hotel, Magdy did my hair cut and beared + hair colour great guy and great service knew exactly what I wanted if I am ever in Dubai and need to get another haircut il definitely come back to this place.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vigo",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Fahd did an amazing job! Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ярослава Капертехова",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I coming already second time to Fahd, and he is amazing! Recommend to everyone, perfect service and he always understands what I exactly wanted.",
+   "owner_reply": null
+  },
+  {
+   "author": "Diego Alexis Riveros",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Had a great experience with Fahad. He is incredibly detailed and takes his time to get everything right. highly recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Gustavo Marzolla",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had a cut with Mohammed and both the cut and the overall salon service was amazing! Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Han",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I’m Asian, and I’ve had several bad experiences getting my hair cut by non-Asian stylists in the past. Today I decided to give it another try (since there aren’t many options in the Middle East), and I’m glad I did.\n\nMagdy was patient, polite, and really listened to what I wanted and what I wanted to avoid. He’s skilled, and the result turned out great. I’ll be coming back for sure.",
+   "owner_reply": null
+  },
+  {
+   "author": "mohammad Akbar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Mr Fahad  really listens to what you want and makes sure you leave looking sharp and feeling confident\nI’ve been to many barbers, but none compare to this one. The attention to detail, the precision, and the friendly atmosphere make every visit a great experience. . Highly recommend to anyone looking for a professional and reliable barber in town!",
+   "owner_reply": null
+  },
+  {
+   "author": "Yanal Abul-Failat",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amazing haircut by Fahad who was brilliant amd stylish.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vishnu Mohan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Great service and very good quality. Fahad did a great job! Highly recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Jason Boles",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been to many barbers, but this one truly stands out. The attention to detail, cleanliness of the shop, and overall professionalism were top-notch. My haircut turned out exactly how I wanted.  Magdy took the time to listen to what I was looking for and offered great suggestions based on my hair type and face shape",
+   "owner_reply": null
+  },
+  {
+   "author": "Nauras Ilyas",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Great work from Fahad! Beard trim and shave on point.\nDefinitely visiting again",
+   "owner_reply": null
+  },
+  {
+   "author": "Kamran Khan",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Brilliant service & haircut by Mohammed, highly recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Amer AlKadri",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I had a Great experience Very professional staff, clean place, and excellent attention to detail. The haircut and grooming were done exactly as requested big thanks to Zaher, very professional and friendly, Highly recommended for anyone looking for quality service and a relaxed atmosphere.",
+   "owner_reply": null
+  },
+  {
+   "author": "henrique hatum",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently visited Magdy for the first time and I couldn’t be happier with the experience! He is extremely talented, very attentive to detail, and takes the time to really understand what you want. Not only is his work excellent, but he is also incredibly kind and welcoming, which made the whole experience even better. I left feeling so happy with my hair and definitely found my new go-to hairdresser. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Cabin Yim",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Barber was Fahd, I came over for a quick shave, and that was great. It was extremely efficient, smooth, with no pain or cuts. More importantly, he cleaned me up around my hairline and noticed some areas that could be improved. On top of just a shave, he gave me a nice cleanup. I really appreciate it. Exceptional service and highly recommend it. Thank you.",
+   "owner_reply": null
+  },
+  {
+   "author": "J Toney",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best beard trim I've ever had! They even through in complimentary service. Clean, professional, efficient - left my beard looking great and smelling nice. Will definitely stop by again next time I'm in town!",
+   "owner_reply": null
+  },
+  {
+   "author": "Harshdeep Singh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Fahid did an amazing job! Well done",
+   "owner_reply": null
+  },
+  {
+   "author": "Yllber",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I did the Hydrofacial by Crshl did a really really good job! Fell asleep, gave me informations about the next steps!\n\nThe Haircut incl. Beard is also soo good. Thankful for The Gents Saloon",
+   "owner_reply": null
+  },
+  {
+   "author": "Saeed Alblooshi",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Magdy was amazing. This is the first time I’ve ever seen a barber with such an excellent way of handling customers, and the level of cleanliness was outstanding.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "http://www.instagram.com/thegentssalondubai",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "thegentssalondubai"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 74,
+ "socials": {
+  "instagram": "thegentssalondubai"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/the-gents-salon/",
+ "buy_likelihood": 6,
+ "notes": "Scouted in batch 2, not built (few photos or inactive owner)."
+}

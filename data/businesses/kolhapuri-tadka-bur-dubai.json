@@ -1,0 +1,1682 @@
+{
+ "slug": "kolhapuri-tadka-bur-dubai",
+ "name": "Kolhapuri Tadka Restaurant-Bur Dubai | Best Indian Restaurant in Dubai",
+ "place_id": "ChIJYauupEdDXz4RAiTTuGl38_k",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Bur Dubai",
+ "address": "Metro Station - Food Court-Al Khaleej Centre - Al Mankhool Rd - beside Sony - Al Raffa - Dubai Sharaf DG - Exit 2 - Al Fahidi - Dubai - United Arab Emirates",
+ "building": "Al Khaleej Center",
+ "location": {
+  "lat": 25.2571171,
+  "lng": 55.2956425
+ },
+ "phone": "+971 4 238 9795",
+ "rating": 4.7,
+ "userRatingCount": 792,
+ "rating_distribution": {
+  "oneStar": 42,
+  "twoStar": 11,
+  "threeStar": 14,
+  "fourStar": 45,
+  "fiveStar": 680
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Kolhapuri%20Tadka%20Restaurant-Bur%20Dubai%20%7C%20Best%20Indian%20Restaurant%20in%20Dubai&query_place_id=ChIJYauupEdDXz4RAiTTuGl38_k",
+ "website": "",
+ "categories": [
+  "Marathi restaurant",
+  "Indian restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 1 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 1 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 1 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 1 AM"
+  }
+ ],
+ "owner_description": "Experience the best and most delicious Maharashtrian Kolhapuri Tambda and Pandhra Rassa, along with authentic Konkani, Malvani, and Goan cuisine. Enjoy pure Dhaba-style flavors, Gava Kadcha Bet, and a homemade taste. At Kolhapuri Tadka Restaurant – Dubai, the Best Maharashtrian Restaurant in Dubai, we bring you the finest Indian dining experience with special homemade recipes and expertise in non-veg delicacies.",
+ "amenities": {
+  "Service options": [
+   {
+    "Outdoor seating": true
+   },
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great dessert": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   },
+   {
+    "Assistive hearing loop": false
+   }
+  ],
+  "Offerings": [
+   {
+    "Late-night food": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Counter service": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Quiet": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Family-friendly": true
+   },
+   {
+    "Groups": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   },
+   {
+    "High chairs": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   },
+   {
+    "Valet parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "kolhapuri food",
+  "pandhra rassa",
+  "kolhapuri chicken thali",
+  "bhakri",
+  "kolhapuri tadka",
+  "puran poli",
+  "fish thali",
+  "solkadhi",
+  "maharashtrian food",
+  "food court location"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 99
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 32
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 21
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 24
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 25
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 23
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 32
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 99
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Shubh Sam",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nHad a great experience at Kolhapuri Tadka! The food was very delicious, fresh, and full of authentic flavors. Every dish was well prepared and tasted amazing. The staff were friendly, and the service was quick. If you’re looking for tasty Indian food, I highly recommend this place. Will definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Amey Panchal (AmeyLiveSound)",
+   "rating": 4,
+   "when": "2 months ago",
+   "text": "Kolhapuri Tadka is our go-to place whenever we crave authentic, home-cooked-style food. The food genuinely feels like eating at home rather than eating at a restaurant, which is what makes this place special.\n\nTheir thalis have always been a solid 10/10 for us. The taste, homely flavours, and overall quality have been consistently good.\n\nHowever, we recently ordered the Batata Bhaji, and unfortunately, it was a total disappointment. The potato slices were far too thick and had a very thick coating. They also seemed to have not been properly drained after frying, as there was an excessive amount of oil. We actually had to place tissue paper underneath the dish to absorb the excess oil.\n\nOne small suggestion for the management: since the restaurant is located inside the food court of a shopping centre and the food is traditionally eaten with hands, it would be helpful to have tissue paper or paper towels available in the washroom. After enjoying a thali, washing your hands is obviously necessary, and having tissues available would make the experience much more convenient.\n\nOverall, we still love Kolhapuri Tadka for its authentic, homely food and especially the thalis. Just a couple of small improvements would make the experience even better.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shamal Kashinath",
+   "rating": 4,
+   "when": "3 weeks ago",
+   "text": "The food was delicious and full of authentic flavors specially tambda pandhara rassa, mutton thali, chicken thali, bhakari. The service was good. Highly recommended for non veg lovers. 😋",
+   "owner_reply": null
+  },
+  {
+   "author": "Monty Wadkar",
+   "rating": 5,
+   "when": "Edited 5 months ago",
+   "text": "Kolhapuri Tadka Restaurant is a must-visit if you’re craving authentic Kolhapuri and spicy Marathi-style food. The owner is very nice and welcoming. It’s a small place, but the taste is absolutely ultimate. They serve fresh chicken and fish dishes, and once you place your order, it’s quickly prepared and served. I love it and highly recommend it to anyone who enjoys flavorful, traditional food!",
+   "owner_reply": null
+  },
+  {
+   "author": "R patiL",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "अप्रतिम...We ordered Surmai Rawa fry with Kharda Muton thali & Special Kolhapuri Chicken thali...authentic taste, rich flavors, and perfectly cooked, fresh and delicious....the hospitality and service were excellent too...highly recommend this hotel to anyone looking for great Indian cuisine in Dubai",
+   "owner_reply": null
+  },
+  {
+   "author": "Carmin Fernandes",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "The food was incredible and very tasty, it bought back memories with every bite of it. It felt like home cooked meals. The services and staff were so calm and patient and would give them 100/10 for their food and staffs. A must visit place if your going with friends and family and it’s very budget friendly as well.",
+   "owner_reply": null
+  },
+  {
+   "author": "Anjali Iynath",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "This is my first time trying authentic Maharashtrian cuisine, and I must say that it really blew my mind away.\nI went to their branch in bur Dubai- which was inside Al khaleej centre inside a food court. However, the service was par excellence. I felt like I was inside a restaurant with Mr Sulaiman’s prompt response and delivery for each and everything I asked.\nI ordered Non-veg Vade thaali which comprised of bajra-jowar roti/ chicken sukha/ normal thick gravy along with rice and other condiments.\nEvery dish- was delicious.  For the South-Indian in me, it was truly a delightful experience exploring this new cuisine.\n\nWould 100% come back to this place.",
+   "owner_reply": null
+  },
+  {
+   "author": "Bini B",
+   "rating": 2,
+   "when": "4 months ago",
+   "text": "I think their chef is changed now . I ordered mutton kolhapuri thali today but the taste was not good at all as usual . I'm really heartbroken as this was our one of the top favourite restaurants. If your chef is changed please bring him back please don't compromise on the taste  or please hire someone good who cooks exactly like the previous one . I'm very upset today .",
+   "owner_reply": null
+  },
+  {
+   "author": "Sid Pawar",
+   "rating": 4,
+   "when": "4 months ago",
+   "text": "Had a good experience at Kolhapuri Tadka Restaurant in Bur Dubai. If you are looking for authentic Marathi-style food, this place is definitely worth trying. The taste was good, and the pricing felt reasonable for the quality and quantity offered.\n\nMarathi people who miss home-style flavors can surely give this place a try. The food had a nice authentic touch and overall the dining experience was enjoyable.\n\nGiving 4/5 mainly because service can take a little time, sometimes 20 minutes or more for the order. However, I feel they may be preparing the food fresh after ordering, which could be their policy for maintaining quality — so I may be wrong in judging the waiting time.\n\nOverall, a good experience with tasty food, reasonable prices, and authentic Marathi flavors. Recommended for Marathi food lovers in Dubai.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mehboob Zartarghar",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Humchi Maharashtra Taste😎😎😎\n\nFirst time visit to our Kolhapuri Tadaka Restaurant and Eaten TAMBDA and Pandra Rasa along with Pure  Jawar  Bakri💥💥💥\n\nVery happy to share our review and too satisfied 😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Mandar Amberkar",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Ek number.  Bas thats it, baki samaj jao.\n\nServers are always checking if you need anything,  very prompt service\n\nMust try kala chicken/mutton thali, kolhapuri thali, pompfret fry, chicken fry, puran poli.",
+   "owner_reply": null
+  },
+  {
+   "author": "Hardik Malvi",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "i order from noon and when order delivers this bhindi is just like plastic… when you chewed it like you eat plastic… after each bite i spit this plastic ladyfingers.",
+   "owner_reply": null
+  },
+  {
+   "author": "Harsh Jarare",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "Kolhapuri Tadka in Dubai served up an incredibly authentic and delicious mutton Thali! Definitely worth a visit. 😋 #Dubai #Food #MuttonThali",
+   "owner_reply": null
+  },
+  {
+   "author": "Sushama Gavali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "⭐⭐⭐⭐⭐\nWe had a wonderful experience at Kolhapuri Tadka! The food brought back the true flavors of Maharashtra. The Bharla Vanga was rich and perfectly spiced, the Bhakri fresh and soft, and the Shrikhand absolutely divine. I especially loved the Poornpuri, which is my personal favorite – it tasted just like home. The ambiance was cozy, and the service was friendly and attentive. It felt lovely being here, and I’ll definitely be coming back for more authentic Maharashtrian delicacies 🧡",
+   "owner_reply": null
+  },
+  {
+   "author": "Tukaram Chikane",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Excellent Maharashtrian non-vegetarian food!\nThe chicken thali and rassa were authentic, spicy, and full of traditional flavors. Chicken quality was fresh and perfectly cooked. The bhakri and solkadhi were a perfect match. Service was quick and staff were polite. A must-visit hotel for real Maharashtrian non-veg lovers.",
+   "owner_reply": null
+  },
+  {
+   "author": "Romeo Shrestha",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had an absolutely exceptional experience at Kolhapuri Tadka Restaurant! 🤩 The food was incredibly flavorful, each dish a burst of authentic taste. The service was top-notch, with attentive staff making us feel truly welcome. 💯 The atmosphere was so inviting and pleasant, perfect for a fantastic meal. Highly recommend visiting! ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Er. Abhinav Mule",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Had an amazing experience at Kolhapuri Tadka, Dubai Shsrsf D! The food was absolutely delicious with authentic Kolhapuri flavors that truly reminded me of home. Every dish was perfectly spiced, fresh, and full of rich taste. The service was excellent—staff were polite, attentive, and made us feel very welcome. The overall ambience was clean and comfortable, making the dining experience even better. Highly recommended for anyone who loves authentic Indian and Kolhapuri-style food in Dubai. Will definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdul Rahman Gada",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "The food is pretty okay...There's no wow factor. Both the rassa are exceptionally good. The chicken preparation fails to amaze. There's only 1 bhakri provided with the thali which should have been 2 atleast so I took roti which is 3 per thali. Also no solkadi with the thali brings everything down to 3 stars.\n\nAlso ordered puran poli, which was pretty downside. Felt like puran stuffed in roti.",
+   "owner_reply": null
+  },
+  {
+   "author": "SHARIQ SOLKAR",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Excellent Food and Special Crabs Thali, Poflet Thali , Prawns Thali & Chicken Karda Thali..... Awesome we enjoy food\n\nLast attached we really enjoyed and finish everything 😄❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Shweta Rathod",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Had an amazing experience at Kolhapuri Tadka ❤️\nThe food was absolutely super delicious with authentic Maharashtrian taste and perfect spices. Every dish gave a proper homemade Maharashtra feeling 🇮🇳✨\n\nIf you are Maharashtrian, this place is a must-try! The taste, aroma, and vibe are truly another level. Highly recommended for anyone who loves spicy and flavorful food 🌶️🍛\n\nSpecially suleman bhaiya is so sweet and good service",
+   "owner_reply": null
+  },
+  {
+   "author": "Akshay Lokare",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Kolhapuri Tadka, Dubai Shsrsf D! The food was absolutely delicious . The overall ambience was clean and comfortable, making the dining experience even better. Highly recommended for anyone who loves authentic Indian and Kolhapuri-style food in Dubai. Will definitely visit again",
+   "owner_reply": null
+  },
+  {
+   "author": "akshay gholve",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "The Chicken Thali was outstanding. Authentic Kolhapuri taste, great quality, and satisfying portions. Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Saurabh Singh",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Part of food court, but Badal, serving us made it so easy and comfortable. And what a great food, we tried signature veg dishes and every thing was tasteful. The pithale, bhakri, methi subzi, modal pao, black vatana, sol kadhi, Kolan Sharabat, thecha, everything fresh. Great and moderate balance of spices and taste.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sakshi Kamble",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Absolutely loved the authentic Maharashtrian flavors! From the perfectly spiced misal pav to the soft bhakris and delicious puran poli, every dish felt homemade and full of tradition. The ambience had a warm Marathi touch and the staff was extremely welcoming and attentive. A perfect place for anyone craving real Maharashtrian food with great taste and quality. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "zaara mohd",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "If you’ve ever wondered where to find authentic Marathi cuisine, look no further! This place offers an incredible variety of traditional dishes that are not only delicious but also reasonably priced. One of my personal favorites is their rice flour roti, which perfectly complements the flavorful meals they serve.\n\nTheir menu features an amazing selection of thalis, with options for fish, chicken, mutton, and vegetarian dishes. Each thali is a delightful experience, showcasing the rich flavors of Marathi cooking that you’ll surely enjoy.\n\nFor your convenience, there is ample parking available both inside the mall and in the nearby RTA parking area. Plus, if you prefer to dine at home, they also offer home delivery, making it easy to enjoy quality Marathi food wherever you are. Don’t miss the chance to indulge in this culinary gem!",
+   "owner_reply": null
+  },
+  {
+   "author": "sanket parmekar",
+   "rating": 5,
+   "when": "Edited 7 months ago",
+   "text": "The food was very tasty and fresh.\nAbsolutely delicious! Loved every bite.\nAmazing taste and great quality.\nVery flavorful and well cooked.\nOne of the best meals I’ve had!",
+   "owner_reply": null
+  },
+  {
+   "author": "aditya das",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Absolutely fantastic experience! The food was amazing from start to finish. Every dish was full of flavor, beautifully presented, and made with fresh, high-quality ingredients. The portions were generous, and everything we ordered exceeded our expectations.\n\nThe service was friendly and attentive, creating a welcoming atmosphere that made the experience even better.  I can’t wait to come back and try more from the menu. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Vijay Kodag",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Had a great time at Kolhapur Tadaka! The food quality is excellent. Both the Veg and Non-Veg Thalis are amazing. The Chicken Jatra Thali with Jawar Bhakri is my favorite—super tasty and filling. The Chicken Kala Thali is also really good, with great flavor. And the Chicken Hyderabad Biryani is delicious too. Definitely recommend this place for anyone who loves great food!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rupesh Moudekar",
+   "rating": 1,
+   "when": "7 months ago",
+   "text": "Absolutely disappointing experience. We ordered the mutton thali and mutton kharda thali, expecting authentic flavors from a Kolhapuri restaurant—but it was a complete letdown. The so-called “kharda” had nothing remotely close to the actual taste or spice it’s known for.\n\nIt became quite obvious that the food wasn’t freshly prepared. The curries seemed pre-cooked, stored, and simply reheated upon order. When customers are paying premium prices, the least you can do is serve fresh, properly made food. The only redeeming factor was the bhakri, which was at least served fresh.\n\nTo make matters worse, they charged an additional 10% per thali claiming price hikes, yet neither the menu nor the bill reflected these updated prices. This feels misleading and unprofessional.\n\nIf you cannot serve authentic Kolhapuri food, at the very least don’t misuse the name and reputation of Kolhapur. Truly disappointing.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sneha Hengade",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "We ordered the spcl kholapuri mutton thali and the chicken wade thali. Authentic kholapuri taste and spice level. The tamba, pandhara rassa was to die for. This location is in a food court so dont expect ambience, but you will not be dissapointed with the food and the service. They come to your table to take orders and attend to you just like they would at a proper restaurant setup.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    1088
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1408,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    810,
+    609
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1408,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1154,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    810,
+    609
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1056,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1198,
+    799
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    229,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/kolhapuri-tadka-bur-dubai/",
+ "buy_likelihood": 6,
+ "notes": "Scouted in batch 2, not built (few photos or inactive owner)."
+}

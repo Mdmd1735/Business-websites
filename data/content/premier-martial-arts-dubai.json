@@ -1,0 +1,31 @@
+{
+ "preset": "clinic-navy",
+ "theme": {"accent": "#D7192A", "accent_text": "#B7121F", "surface_2": "#E5ECF8", "duo": "#C5D2EE", "busy": "#2B4C9A", "band_bg": "#0D1B3E", "band_accent": "#FFD23F", "hero_pos": "center 30%"},
+ "extra_css": ".hero-panel .hero__copy{background:#EEF2FA}",
+ "brand": {"name": "Premier", "sub": "Martial Arts · Ibn Battuta", "mark": "P", "footer_word": "PREMIER"},
+ "seo": {"title": "Premier Martial Arts Dubai | Karate & Kickboxing Classes, Ibn Battuta Gate", "description": "Premier Martial Arts, Office 503A, 5th floor, Ibn Battuta Gate Building: JSKA-affiliated karate and kickboxing for kids and adults, approved by the UAE Karate Federation. Rated 5.0 from 165 reviews."},
+ "hero": {"variant": "panel", "kicker": "Ibn Battuta Gate Building · 5th floor · Office 503A", "title_lines": ["Confidence,", "discipline,", "black belts."],
+   "lede": "JSKA-affiliated karate and kickboxing for children and adults, approved by the UAE Karate Federation. Patient coaches, grading every term, and medals at national tournaments.",
+   "image": "img/hero.jpg", "image_alt": "Young karateka in a fighting stance on blue mats", "secondary": {"label": "Classes", "href": "#classes"}},
+ "cta_label": "Book a free trial", "cta_text": "Hi Premier Martial Arts, I'd like to book a trial class.",
+ "proof_note": "Perfect 5.0 from parents and students",
+ "address_lines": ["Premier Martial Arts, Office 503A, 5th floor", "Ibn Battuta Gate Building, Jebel Ali 1, Dubai"],
+ "ticker": ["Kids karate", "Adult karate", "Kickboxing", "Grading", "Tournaments", "JSKA affiliated", "UAE Karate Federation approved"],
+ "sections": [
+  {"type": "services", "id": "classes", "nav": "Classes", "eyebrow": "Classes", "title": "From first white belt", "title_dim": "to the podium.",
+   "items": [
+    {"name": "Kids karate", "feature": true, "img": "img/class.jpg", "alt": "Children practising karate in the dojo", "desc": "Focus, respect and fitness for ages 4 and up.", "quote": "The coaches are professional, patient, and genuinely focused on helping students improve step by step.", "cite": "Ajitha V."},
+    {"name": "Adult karate", "img": "img/kata.jpg", "alt": "Student performing kata", "desc": "Never too late: beginners welcome."},
+    {"name": "Kickboxing & sparring", "img": "img/sparring.jpg", "alt": "Students sparring in protective gear", "desc": "Safe, supervised sparring with full gear."},
+    {"name": "Grading & tournaments", "img": "img/podium.jpg", "alt": "Students on the tournament podium", "desc": "JSKA grading and UAE tournament entries."}
+   ],
+   "perks": ["Approved by UAE Karate Federation", "JSKA affiliated", "Wheelchair accessible"]},
+  {"type": "team", "id": "team", "nav": "Coaches", "eyebrow": "Coaches", "title": "Coach Midhun", "title_dim": "and the team.",
+   "items": [{"name": "Coach Midhun", "count": 8, "short": "him", "role": "Head instructor", "quote": "Coach Midhun is excellent, very supportive, and pays individual attention to students.", "cite": "Ganga R."}]},
+  {"type": "gallery", "images": [{"src": "img/team.jpg", "alt": "Students with belts under the Premier logo"}, {"src": "img/medals.jpg", "alt": "Premier Martial Arts medals", "wide": true}, {"src": "img/jump.jpg", "alt": "Flying kick in the park", "wide": true}, {"src": "img/award.jpg", "alt": "Student receiving a trophy"}, {"src": "img/line.jpg", "alt": "Students lined up in the dojo", "wide": true}, {"src": "img/grading.jpg", "alt": "Grading day group photo", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Book a trial class.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can my child try a free class?", "What are the class timings?", "How much are monthly fees?", "Do you have adult beginner classes?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Ibn Battuta Gate,", "title_dim": "5th floor."}
+ ]
+}

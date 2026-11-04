@@ -1,0 +1,1014 @@
+{
+ "slug": "hafsa-beauty-saloon",
+ "name": "Hafsa beauty saloon",
+ "place_id": "ChIJnzecHPZZXz4RpOlbna9cNEE",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Ajman",
+ "address": "Al Rashidiya 1 - Ajman - United Arab Emirates",
+ "building": "Al Muhairi tower 2",
+ "location": {
+  "lat": 25.3949291,
+  "lng": 55.4576086
+ },
+ "phone": "+971 50 568 9591",
+ "rating": 4.7,
+ "userRatingCount": 803,
+ "rating_distribution": {
+  "oneStar": 39,
+  "twoStar": 9,
+  "threeStar": 7,
+  "fourStar": 45,
+  "fiveStar": 703
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Hafsa%20beauty%20saloon&query_place_id=ChIJnzecHPZZXz4RpOlbna9cNEE",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11 AM to 11:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11 AM to 10:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11 AM to 11:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11 AM to 11:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "2 to 11:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11 AM to 11:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11 AM to 11:30 PM"
+  }
+ ],
+ "owner_description": "Your beauty is our duty\nAwarded best beauty salon in uae",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "highlights",
+  "protein treatment",
+  "manicure",
+  "hair extensions",
+  "cooperative staff",
+  "waxing",
+  "henna",
+  "hair color",
+  "moroccan bath",
+  "eyelash extensions"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 61
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 35
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 63
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 64
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 98
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 83
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Fobz",
+   "rating": 4,
+   "when": "4 months ago",
+   "text": "Saloon offers good discounted rates for beauty services. Staff also works with dedication overall its fine but the only thing they need to work on  is delayed service.\nThey need to provide services within fixed time frame. The day I visited it was not too busy but still it took whole day for them to get all services done. Apart from that they are doing good work.",
+   "owner_reply": null
+  },
+  {
+   "author": "M. AG",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Went to the saloon yesterday for hair color and hair cut. Zayn did an amazing job. I just showed her a Pic of the cut I wanted she did exactly that. She did butterfly haircut for my sister. The results were amazing. She explains things very well. The service was good.  Satisfied customer",
+   "owner_reply": null
+  },
+  {
+   "author": "Kiran Jamil",
+   "rating": 4,
+   "when": "2 months ago",
+   "text": "I had such a great experience at the beauty salon, and Sahar did an amazing job! She was very professional, kind, and paid close attention to every detail. I’m really happy with the results and loved how everything turned out. She made me feel comfortable and took her time to make sure everything was perfect. Definitely recommend Sahar if you’re looking for someone who does beautiful work! 💕✨",
+   "owner_reply": null
+  },
+  {
+   "author": "erum zohaib",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a wonderful experience with Zain at Hafsa Salon Branch 2. She is very professional, friendly, and talented. She listened carefully to what I wanted and gave me a beautiful haircut. I am so happy with the result and will definitely come back. Thank you, Zain, for your excellent work. Highly recommended!\n\nI had a wonderful experience at Hafsa Salon Branch 1.The Nepali lady Meena who did my manicure, pedicure, and hair spa was incredibly professional, gentle, and attentive. She made me feel comfortable throughout the entire service, and everything was done with great care and perfection. My nails look beautiful, and my hair feels so soft and refreshed after the spa. Thank you for your excellent service i truly appreciate your hard work. Highly recommended!\nn the last lady tanya gill She is very professional, friendly, and skilled at what she does. She made me feel comfortable throughout the treatment, explained each step, and took great care of my skin. My face felt clean, refreshed, and glowing afterward. Thank you, Tanya Gill, for your excellent service. I highly recommend her to anyone looking for a relaxing and effective facial at Hafsa Salon Branch 2!",
+   "owner_reply": null
+  },
+  {
+   "author": "N Waqas",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Salon offers are very good in Ajman…. Staff are also very nice…. I came for the first time and I was very satisfied for my all services….. Specially thanks for the (Ghanghan) girl she did my hair cutting curtain bangs was very for my type…..Thanks a lot all of them guys",
+   "owner_reply": null
+  },
+  {
+   "author": "Mrs Umar",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "⭐⭐⭐⭐⭐\nI had a wonderful experience at Hafsa Salon, and I’m especially happy with the amazing work done by Sahar, the hair artist. She was professional, attentive, and truly understood what I wanted. She did an excellent job with my hair, and I absolutely loved the final result! ❤️\nThank you, Sahar, for your amazing service and attention to detail. I really appreciate your effort and skill. Highly recommended! ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "bi bi fathima",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a wonderful experience at Hafsa Beauty Salon. The service was excellent, and the staff were very friendly, supportive, and professional.\n\nA special thanks to the Nepali staff member who did my manicure—she was gentle, attentive, and did a beautiful job. I also want to appreciate Jashna for the pedicure. She was kind, caring, and made sure I was comfortable throughout the service.\n\nI'm very happy with the overall experience and would definitely recommend Hafsa Beauty Salon to anyone looking for quality service and a welcoming atmosphere. Thank you to the entire team!",
+   "owner_reply": null
+  },
+  {
+   "author": "sumbal malik",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "⭐⭐⭐⭐⭐ Amazing experience! I love my new hair color. The shade is perfect, and the service was excellent. Friendly staff and great results. Highly recommended sehar she did my highlights I absolutely love my new hair color! The result is even better than I expected. The staff were friendly, professional, and made me feel comfortable throughout the process. Thank you for the amazing service. I highly recommend this salon!❤️❤️\nthank you sehar",
+   "owner_reply": null
+  },
+  {
+   "author": "Saila Wazir",
+   "rating": 2,
+   "when": "2 months ago",
+   "text": "I recently visited the salon for a hair treatment, but unfortunately, my overall experience was quite disappointing.\n\nThe salon was very crowded and there seemed to be fewer staff available to manage the number of clients. I had left my baby at home and came to the salon expecting the service to be completed within a reasonable time. I requested Roma twice to arrange two staff members to help with the hair ironing, but unfortunately, my request was not accommodated.\n\nI would like to appreciate the girl who was doing my hair straightening. She was polite and tried her best to help and manage the situation, and I really appreciate her effort. However, the overall staff support was not cooperative, which made the experience more stressful and time-consuming.\n\nI would also request the salon management to be more considerate towards clients who have small children at home. Many mothers leave their babies with someone at home and come to the salon for a service, so unnecessary delays can be very difficult for them. If a client politely requests some assistance to finish the service a little faster, the staff should try their best to cooperate when possible.\n\nI hope the management takes this feedback seriously and improves the staff coordination, customer service, and overall experience for clients in the future.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mrunal Gaonkar (Mrunal)",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I have been to so many salons before, but usually, when it gets late, the staff rush through everything just to go home and compromise heavily on the quality of their service. Hafsa Salon is completely different they are an absolute blessing!My friend and I arrived around 8:00 PM. Even though they had many other customers and it was getting quite late, they did not rush us at all. They started our appointment with a professional, thorough consultation and a mandatory patch test before putting any color on our hair, which showed me how much they truly care about hair safety and health.I got a gorgeous global hair color, stunning multi-dimensional highlights, a flawless manicure/pedicure, and clean gel polish. My friend got a beautiful hair color transformation and a deeply relaxing body polishing treatment. The results are absolutely awesome!Because we received so many detailed treatments, we were the very last customers to leave the salon at 1:00 AM! Trust me, despite the late hour, the staff never once compromised on their service. They remained incredibly patient, professional, and sweet until the very last second.Those humble, beautiful staff members are real shezadis (princesses) at heart! ❤️ Their hospitality and dedication are unmatched. If you want a luxury experience where you are truly valued as a customer, this is the best place to go. Thank you so much, Hafsa Salon team! I will definitely be a customer for life!",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Ishaq",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I am sehrish and I really would like to express my honest acknowledgement and thanks to Hafza salon in Ajman. I went there yesterday for organic protein treatment for me and my daughter. It was awesome and the staff was so efficient and professional. SEHAR and GAGAN did a fabulous job on me and my daughter's hair. Our hair look so shiny, smooth and straight after wash. The results are so amazing. There was so many clients but they were dealing and managing them properly. Highly recommended salon!",
+   "owner_reply": null
+  },
+  {
+   "author": "hina ameen",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "We took services from hafsa salon it was really great kamaljit was very kind and she took good care of our services. Zen did the best haircut and hair color for us.. It was overall a wonderful experience. Looking forward to seeing them again soon",
+   "owner_reply": null
+  },
+  {
+   "author": "S atif Atif",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very friendly staff. Always ready to work and keeps a lively and jolly atmosphere in the salon.I recently tried their Hair protien treatment and I'm thrilled with the results! My hair feels incredibly smooth, shiny, and revitalized. The stylist kamal was skilled and took the time to explain the process. The treatment not only tamed my frizz but also added a beautiful bounce to my hair. I highly recommend it for anyone looking to rejuvenate their hair.😊 Their facial is amazing Rehana did my facial and i really like it .. she is the best ..",
+   "owner_reply": null
+  },
+  {
+   "author": "Ifrah Khalid",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a wonderful experience with Zain. She is professional, talented, and pays great attention to detail. She listened to exactly what I wanted and did an amazing job with my hair. I am very happy with the results and would highly recommend her to anyone looking for a skilled hairstylist. Thank you, Zain!”♥️\nHighly recommend ⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad.huzaifah AlAfridi",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Had a wonderful experience! Very professional i would say so and got my hair done on an affordable price! Very happy with the service especially with Zain she is professional on how she did my hair. Would recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rana Sahab",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had such a lovely experience with Mina at Hafsa Salon! 💅✨\nShe did my manicure & pedicure so professionally and with so much care. Her work is always neat, clean, and beautiful. Honestly, I can wait the whole day just to get my mani & pedi done by her because no one does it like Mina! ❤️\nShe’s super friendly, patient, and makes the whole experience so relaxing. Highly recommended!”",
+   "owner_reply": null
+  },
+  {
+   "author": "Asiya Kamal",
+   "rating": 4,
+   "when": "2 months ago",
+   "text": "I had a wonderful experience at Hafsa saloon. Both their services & results are very good. Their staff name ‘Sehar’ & ‘Dilsha (from Srilanka)’ both services were outstanding. Sehar is very welcoming and suggested me exactly what i was looking for.\nI do recommend this Saloon to everyone.",
+   "owner_reply": null
+  },
+  {
+   "author": "Fazi Khan",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I absolutely loved the full-body scrub by Meena. It was so relaxing and refreshing! The facial and waxing services were also excellent. Everything was done professionally, and I had a wonderful experience. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarinnah Shaikh",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I highly recommend Rihanna at Hafsa Salon for anyone looking for a great facial. From the moment I walked in, the service was top-notch. Rihanna is highly skilled, very attentive, and made sure I was completely comfortable throughout the treatment. I will definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Iqra Noor",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Amazing service we did hair color and blow dry and eyebrow and very very nice workers and sahar did my eyebrows and hairs she is very nice and the owner was also nice and they guide us very well and also they gave discounts",
+   "owner_reply": null
+  },
+  {
+   "author": "Anitha Shiju",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Sehar gave an amazing service and did a great job at my hair. I'm very satisfied with the products they use and the service they provide.",
+   "owner_reply": null
+  },
+  {
+   "author": "Julaine Gener",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "We came from Al Ain and had a great experience at Hafsa Salon. The staff were friendly, professional, and welcoming. The service was excellent, affordable and we were very happy with the results. Thank you for making us feel comfortable. Highly recommended! 😊💕",
+   "owner_reply": null
+  },
+  {
+   "author": "Ayesha Sheikh",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "It was my first visit and I came from Dubai for Mani Pedi and facial.\nFacial rehana lady did..she did good job.\nFor Mani Pedi 2 Punjabi girls,they were good in services and staff is lovely .\nI really like this saloon services.",
+   "owner_reply": null
+  },
+  {
+   "author": "taylor Juarez",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Very happy with the protein treatment I did with Tania. Even though the salon was so busy, it was organized and they had two staff able to complete my treatment quickly. The results are amazing and I’m so happy with my hair. They also guided me on how to take care of my hair after the treatment as it’s my first time getting it done.\nWill definitely go back again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aasma Shaikh",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I like how they were gentle and patient with me and they were really nice and kind to me I really liked and loved their service I recommend everyone to come here and the massage specially almost made me fall asleep I truly enjoyed being here.",
+   "owner_reply": null
+  },
+  {
+   "author": "quddsiya noor",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I have taken my all services from hafsa saloon i am very satisfied and happy with them will come again to have services in future also highly recommended staff os also very nice",
+   "owner_reply": null
+  },
+  {
+   "author": "Hanan Iqbal",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had my hair highlights and base color done at Hafsa Salon in Ajman. Guys trust my opinion they are amazing in their work. Special thanks to Zain and Saher they did magic on my hair. I loved it. You guys must visit them they are affordable and good at their work.",
+   "owner_reply": null
+  },
+  {
+   "author": "Hamna Ibrahim",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Raihana was the lovely lady who put me at ease.\nA cheerful person who did the treatment fabulously.\nI would go back here simply for Raihana and her great service.\nWould definitely give this lovely lady a 10/5 stars 🌟…",
+   "owner_reply": null
+  },
+  {
+   "author": "Suban Suban",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "I love there hair cutting waxing mani pedi and color amazing color and safe for hairs very nice stuff and thank you sehar your doing and amazing job and work and all the stuff is soon nice cooperative",
+   "owner_reply": null
+  },
+  {
+   "author": "Laraib Baloch",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Today i went to hafsa salon for my regular services as i have been looking at it from quite sometime now on tiktok.\nIm very happy with all the services. I did manicure, pedicure, haircut, hair color, full face wax with eybrows and everything was fantastic. Im very happy with all the girls who did my services specially Roma as she kept checking on me while i was getting my services. I recommend everyone to atleast visit the salon once and believe me you wont regret it.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    576,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    538,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    999,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/hafsa-beauty-saloon/",
+ "buy_likelihood": 7,
+ "notes": "803 reviews, posts price offers on TikTok/Maps (AED 25 cuts, AED 100 highlights). Owner never replies on Google. Mentions multiple branches.",
+ "display_name": "Hafsah Beauty Saloon"
+}

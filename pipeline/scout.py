@@ -65,9 +65,11 @@ def places(path, data=None, fields="", method_get=False):
 
 
 def slugify(s):
+    raw = s
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     s = re.sub(r"[^a-z0-9]+", "-", s.lower().replace("&", " and ")).strip("-")
-    return re.sub(r"-(llc|l-l-c|fz|fze|fzco|est|establishment|trading)$", "", s)[:48]
+    s = re.sub(r"-(llc|l-l-c|fz|fze|fzco|est|establishment|trading)$", "", s)[:48].strip("-")
+    return s or "biz-" + __import__("hashlib").md5(raw.encode()).hexdigest()[:8]
 
 
 # ---------------------------------------------------------------- website audit

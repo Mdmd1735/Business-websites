@@ -1,0 +1,1010 @@
+{
+ "slug": "manasi-beauty-salon",
+ "name": "Manasi Beauty Saloon (Since 2004)",
+ "place_id": "ChIJT3dW8K9DXz4RlnEhlk-Sf8Q",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Bur Dubai",
+ "address": "8 42 St - Al Souq Al Kabeer - Al Fahidi - Dubai - United Arab Emirates",
+ "building": "Zamzam Main",
+ "location": {
+  "lat": 25.2619318,
+  "lng": 55.2950267
+ },
+ "phone": "+971 4 353 7071",
+ "rating": 4.7,
+ "userRatingCount": 458,
+ "rating_distribution": {
+  "oneStar": 23,
+  "twoStar": 4,
+  "threeStar": 11,
+  "fourStar": 33,
+  "fiveStar": 387
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Manasi%20Beauty%20Saloon%20(Since%202004)&query_place_id=ChIJT3dW8K9DXz4RlnEhlk-Sf8Q",
+ "website": "https://www.instagram.com/manasisaloon/?hl=en",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9:30 AM to 9:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9:30 AM to 9:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9:30 AM to 9:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9:30 AM to 9:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "12 to 9:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9:30 AM to 9:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9:30 AM to 9:30 PM"
+  }
+ ],
+ "owner_description": "Offering affordable beauty services to you since 2004. Located in the heart of Meena Bazar, Bur Dubai.",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "henna",
+  "waxing",
+  "gel nail polish",
+  "polite staff",
+  "jacuzzi pedi",
+  "friendly owner",
+  "gold facial",
+  "relaxing experience",
+  "threading",
+  "package concept"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.13,
+ "reviews": [
+  {
+   "author": "Vishakha Sharma",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I am so in love with how my nails turned out! Mavina is an absolute perfectionist, and her dedication to her craft is unmatched. Just look at the photos, the precision and nail art are flawless! You can truly feel how much passion, love, and heart she pours into her work, and she makes the whole experience feel so warm and special. If you’re reading this review and second-guessing whether to book with her, trust me, just go for it! You will not regret it. Thank you so much, Mavina!",
+   "owner_reply": null
+  },
+  {
+   "author": "Shila Bhusal",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Raziya and two ladies from Nepal also she give me suggestions about my face , I just wanted to tell you how incredibly impressed I was with your service today! You did my waxing, threading, and facial, and honestly, I didn't expect such fantastic results across the board. Everything was done perfectly, and I really appreciate how nice and friendly you were throughout my visit. You made the whole experience so enjoyable and I felt completely at ease. Thank you for being so skilled and professional!",
+   "owner_reply": null
+  },
+  {
+   "author": "Siddhi Sonavane",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I always go to Manasi for my package and nails. They do every service with great care and love. Love the expansion of the saloon, very spacious rooms and organized. The prices are super affordable. The overall vibe is great, I will highly recommend Manasi in meena bazar bur dubai 😍",
+   "owner_reply": null
+  },
+  {
+   "author": "mansi chaturvedi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had such a lovely experience at Manasi Parlour! ❤️ I got my nail extensions done, along with a facial, cleanup, and a pedicure. The staff was friendly, patient, and paid great attention to detail.\n\nWhat I loved the most were their amazing packages—they offer great value for money. On top of that, they have so many complimentary services, which made the whole experience even better. The salon is clean, welcoming, and the service is excellent.\n\nIf you’re looking for quality services at reasonable prices with lots of added perks, I would definitely recommend Manasi Parlour. I’ll surely be visiting again! 💅✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Himanshi Mehta",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Came in today for waxing and gel polish, and I am so happy with the results! They were extremely gentle, detailed, and professional. I come here all the time and every single visit is fantastic. If you're looking for high-quality, excellent service at super reasonable prices, this is hands down the best place to go. You must try it♥️",
+   "owner_reply": null
+  },
+  {
+   "author": "Reshma Kc",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I loved my henna from here which I got done in Eid! Also their beauty packages are super affordable highly recommend them. Now they have expanded the space and it’s more comfortable and convenient 💕",
+   "owner_reply": null
+  },
+  {
+   "author": "Parm Sandhu",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI had a very positive experience at the salon and would definitely recommend their services. A special mention to Sapna, who provided excellent service with great attention to detail and professionalism. I had several services done by her, including waxing, eyebrow shaping, facial, manicure, and pedicure, and I was very satisfied with the results.\n\nKamal is also very skilled and professional at her work. Both Sapna and Kamal were attentive, polite, and made sure the services were done carefully and comfortably.\n\nOverall, I’m very happy with the quality of service and the professional staff. I would definitely visit again and recommend the salon to others.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ayesha Kamran",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "One of my favorite salons! I’ve always had such a lovely experience here. The staff is incredibly kind, welcoming, and professional, and the owner is equally warm and wonderful.\n\nWhat I especially love is how comfortable they make you feel. The staff is so friendly and caring that it honestly doesn’t feel like I’m at a salon , it feels like I’m sitting at home, completely relaxed, while getting my services done. 🥰\n\nThe whole experience is comfortable, personal, and genuinely pleasant. Highly recommended! 🤍",
+   "owner_reply": null
+  },
+  {
+   "author": "zarine sayed",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I have been visiting them since 4 years..they have the best henna artists,I travel all the way from sports city to get the desired khaleeji design and they never disappoint me and their prices are also reasonable as compared to other henna artists in town..thanks Manasi salon 🫶🏻",
+   "owner_reply": "Thank you so much for your lovely review! 💖 We truly appreciate your continued support over the years. We’re delighted to know you love our henna/mehendi services and Khaleeji designs. Our team always strives to provide beautiful artistry, quality service, and affordable prices at Manasi Beauty Salon. We can’t wait to welcome you back again soon! ✨<br>"
+  },
+  {
+   "author": "P P",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Nice services, very organised and neat and spacious saloon. Super affordable and reasonable packages and prices for nails, hair, body waxing, manicure and pedicure. staffs are super friendly. Highly recommend manasi for all your beauty needs in meena bazaar bur dubai.",
+   "owner_reply": null
+  },
+  {
+   "author": "Veena Relan",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I am one of thr oldest clients of mansi and seeing it grow like this makes me really happy!! Love the services. It's exceptionally good!! I always take the full package and every time I'm super satisfied. Staffs are super friendly, owner is soo down to earth, so many complimentary services and now love the jacuzzi pedi inclusion. So happy with expansion and always giving 5star. Highly recommend manasi beauty saloon in meena bazar bur dubai",
+   "owner_reply": null
+  },
+  {
+   "author": "Shabana Shaikh",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI visited Manasi Saloon Parlour in Meena Bazaar, Dubai,  1st time had a wonderful experience. The staff were amazing, friendly, and professional. They are also offering great deals, which is a nice bonus.\n\nA special thanks to Rekha, who did my service. She was so calm, patient, and made me feel completely relaxed. She really understood what I wanted and did an excellent job.\n\nI highly recommend Manasi Saloon to anyone looking for great service and a relaxing experience. I’ll definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Amaan Ehsan",
+   "rating": 1,
+   "when": "3 weeks ago",
+   "text": "⭐ Very Disappointing Experience!\n\nOne of the staff members took my mum’s L’Oréal Paris hair colour cream from home but, apparently, didn’t read the product instructions properly and used the entire conditioner instead of the actual hair dye. This resulted in a waste of an expensive product, along with our valuable time. What made the experience even more disappointing was that the salon offered neither a discount nor complimentary service to compensate for their mistake. Customers should not have to bear the cost of staff negligence. Very unprofessional service and poor customer handling. I would expect better responsibility and customer care from a salon.",
+   "owner_reply": "Hi Aman,<br><br>I was present at the salon and personally explained the product to your mum. I clarified that usually, hair colour comes in a tube and conditioner in a bottle, but in this particular product, the packaging was the opposite, which caused the confusion. We apologize on this part. <br><br>I would also like to clarify that the product was not wasted. I explained to your mum that the conditioner could be mixed with the hair colour for a smoother result. She appeared happy with the final outcome, and I made sure to explain everything to her politely and clearly.<br><br>Additionally, I noticed that the colour product she brought had a very strong smell and appeared to contain harsh chemicals. Keeping her hair health in mind, I recommended that next time she consider our ammonia-free hair colour as a gentler alternative. This is the kind of personalised care we believe in — not just providing a service, but guiding our customers towards what we feel is best for their hair.<br><br>We take customer care seriously, and in this case, we made sure your mum was informed, advised, and comfortable with the result. We always strive to provide the best possible service and honest recommendations for our customers.<br><br>Had you wished to discuss a discount or any other concern, you were welcome to speak to me directly so we could address the matter in person, rather than having a misunderstanding shared publicly.<br><br>I’m happy to discuss this with you directly and clear up any concerns. You can call or WhatsApp me on 050 525 2506.<br><br>Thank you."
+  },
+  {
+   "author": "Anjali Kataria",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amazing reasonable packages and love the expansion. Very comfortable and spacious. The experience is top class here. They treat like VIP. Love the staffs nature and very kind and welcoming and respectful mainly. Manasi will always be highly recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "paramjeet kour “pami house wife” swad ka swag",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I always take their full beauty package and they do it soo professionally, neatly and with full hygiene. The technicians/staffs are very friendly, welcoming and polite. They explain what is good for your skin type and use products accordingly. Their products are all highly quality and owner is very down to earth with very good behavior. I will highly recommend Manasi beauty saloon 😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Nida Fatimah",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amazing services by the friendly staff. Owner and staffs are all very friendly and sweet. Very welcoming in nature. I always go here for my jacuzzi  pedicure and waxing and everytime it is done very neatly and professionally. Extremely reasonable prices here. Love the vibe and i will highly recommend manasi beauty salon in meena bazar bur dubai",
+   "owner_reply": null
+  },
+  {
+   "author": "Kavita Idnani",
+   "rating": 4,
+   "when": "6 months ago",
+   "text": "I have been using Manasi salon’s services for more than 10 years.... and will continue. They offer really very good services and very reasonable price.... kudos to the owner and now to her daughter for maintaining the same level of service",
+   "owner_reply": "Thank you so much for your kind words and for trusting Manasi Beauty Saloon for over 10 years! ❤️<br><br>Your continued support truly means the world to us. We’re so happy to know you’ve had a consistently great experience with our services and pricing. A special thank you for appreciating both generations, it’s our promise to maintain the same quality, care, and dedication you’ve always known.<br><br>We look forward to welcoming you again soon and continuing to serve you with the best beauty services in Dubai ✨<br>"
+  },
+  {
+   "author": "neeha kataria",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Had an amazing experience here at manasi. My bridal package with hand heena was done with so much care and effort. The staff took full care of me and did all the services with great attention. Love my bridal henna as well the artist was fabulous.\nThanks manasi for all the best work you guys did, highly recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Aishwarya",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Love their package concept as it is very affordable!! And you get amazing facial and waxing results. The staffs are very professional and welcoming here at manasi, and now they have expanded it, so it is even more comfortable and organized! Highly recommend Manasi Beauty saloon in meena bazar bur dubai 😍",
+   "owner_reply": null
+  },
+  {
+   "author": "radadiya kajal",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Nice services and great customer service as well! Nice spacious rooms and my face feels so fresh and glowing after facial services and body super smooth after waxing!! Painless and so patiently done",
+   "owner_reply": null
+  },
+  {
+   "author": "Salijidha Salim",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Got my nail extensions done at Manasi and I absolutely loved how natural they look! The package was really affordable, the staff was  friendly and the overall environment was so nice and comfortable. Definitely happy with the experience and will be coming back! ❣️",
+   "owner_reply": null
+  },
+  {
+   "author": "nirali soni",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had an amazing facial and face bleach session here! The staff was incredibly welcoming, professional, and attentive throughout the entire process. My skin looks absolutely radiant and refreshed. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "shabeena majeed",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amazing Service\n\nI had my service done by Maria, and I’m really happy with the experience. The service was excellent, and the prices were very reasonable. Maria was professional and did an amazing job. I would definitely recommend this place to everyone, especially if you’re looking for great service at a reasonable price. Don’t forget to ask for Maria! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Jiya",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "We visited this salon for the first time & I absolutely loved my experience… Everyone was so welcoming & the service was excellent from start to finish… A special thanks to Navina she is incredibly kind and genuinely sweet.. She made me feel so comfortable and took great care of me throughout my visit… I’m really happy with the service & will definitely be coming back…",
+   "owner_reply": null
+  },
+  {
+   "author": "Aisha Omair (Aishaaknowsdubai)",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had a great experience at Manasi overall. I had gone for my blowout and hand henna design on Eid. Loved the detailing and neatness. They also have affordable packages which is a must try, Will surely recommend Manasi for all your beauty services in meena bazar bur dubai! 💕",
+   "owner_reply": null
+  },
+  {
+   "author": "Nikita Kriplani",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had got my hair colored here, the service was exceptional and very professional. The staff as well as the owner was very kind. They served free coffee and gave a date cookie too! Absolutely loved the service, I highly recommend this salon.",
+   "owner_reply": null
+  },
+  {
+   "author": "vaishali kulkarni",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Best saloon in Meena bazar bur dubai, love the expansion of the saloon. They are really professional and great with all the services! Manasi will also be my favorite and highly recommend! I also love their jacuzzi pedi tubs and spacious rooms 😍 I also get my nails done and love my cat eye gelis nails",
+   "owner_reply": null
+  },
+  {
+   "author": "Thamina Q",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I love this place i have been coming for years.  ...it's a hidden gem ....mummy and daughter run the show ...daughter is very professional and kind and a hennah artist. Her Mummy is great at cutting hair . You can do so much here for 100 aed. If you wanna get pampered come here. I had Maria and Razia. Thank you and thank you for the best tea Ganga.",
+   "owner_reply": null
+  },
+  {
+   "author": "Asiya Mukadam",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI’ve been going to Manasi Ladies Salon for more than a decade and it has always been one of the best budget-friendly salons in the Meena Bazaar area. Their prices are very affordable compared to many other salons, yet the quality of service is consistently excellent.\n\nThe staff is extremely friendly, welcoming and professional. They make every customer feel comfortable and give proper attention to their needs. Whether it’s hair services, threading, facials or other beauty treatments, the experience is always satisfying.\n\nWhat I truly appreciate is their consistency over the years — good service, hygienic environment and reasonable prices all in one place. It’s hard to find a salon that maintains both affordability and quality for such a long time.\n\nHighly recommended for all ladies looking for a reliable, friendly and affordable salon in Meena Bazaar. Definitely a trusted place I keep coming back to again and again! 💖\nThank you Manasi Salon ✨🙌🫶🏻",
+   "owner_reply": "Thank you so much for your kind words and continued trust in Manasi Ladies Salon for over a decade 💖<br>We are truly grateful for your support and are so happy to know you love our affordable prices, friendly staff, hygienic environment and quality beauty services. Your recommendation means a lot to us and motivates our team to keep delivering the best salon experience in Meena Bazaar ✨ We look forward to welcoming you again soon in our expanded Manasi Beauty Saloon 🫶🏻"
+  },
+  {
+   "author": "Komal Puri",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I have been coming to manasi for so so so long now! Love the expansion the spacious rooms, very organized and professional staffs, beat and clean saloon and good qukity products used. Always get my nails done from mavina (gel nails and gel extensions) love it! Love the package concept and reasonable price always recommend manasi beauty saloon in meena bazar bur dubai now one of the biggest saloons here in dubai",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    397,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    309,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    512,
+    375
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    366,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    420,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/manasisaloon/?hl=en",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "manasisaloon"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 73,
+ "socials": {
+  "instagram": "manasisaloon"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/manasi-beauty-salon/",
+ "buy_likelihood": 8,
+ "notes": "Since 2004, women-owned, prints its own offer flyers (packages AED 45/65/95) and has Instagram. The site puts the flyer online. WhatsApp 050 525 2506 from the flyer.",
+ "display_name": "Manasi Beauty Saloon"
+}

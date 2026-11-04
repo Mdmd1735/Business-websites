@@ -1,0 +1,502 @@
+{
+ "slug": "vishakha-dance-music-institute",
+ "name": "Vishakha's Dance and Music Training Institute",
+ "place_id": "ChIJy5GIcfFdXz4RlciVcsLC8B4",
+ "category": "dance studio",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "Suite 1103, Mai Tower - Al Nahda First - Dubai - United Arab Emirates",
+ "building": "Mai Tower",
+ "location": {
+  "lat": 25.2879542,
+  "lng": 55.3652105
+ },
+ "phone": "+971 50 502 1710",
+ "rating": 5,
+ "userRatingCount": 156,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 1,
+  "fourStar": 0,
+  "fiveStar": 154
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Vishakha's%20Dance%20and%20Music%20Training%20Institute&query_place_id=ChIJy5GIcfFdXz4RlciVcsLC8B4",
+ "website": "https://www.facebook.com/vishakhasdance/",
+ "categories": [
+  "Dance school",
+  "Fitness center"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 7 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 7 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 7 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 7 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "Closed"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 7 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 7 PM"
+  }
+ ],
+ "owner_description": "Vishakha's Dance Academy is an inclusive dance school for all the abilities.\nWe train students of all age groups in Kathak, bollywood, semi classical, hip hop, salsa, zumba and yoga, all over the world. We are also specialists in Dance Movement therapy for specially abled kids.\nClasses available in-person and online.\nMessage us on our social media platforms to enroll or email business@vishakhasdance.com.",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Online classes": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "kathak classes",
+  "bollywood dance",
+  "online classes",
+  "garba workshop",
+  "zumba",
+  "talented teachers",
+  "easy dance lessons",
+  "interactive classes",
+  "supportive teachers",
+  "graceful guru"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.63,
+ "reviews": [
+  {
+   "author": "Sutanni Sarkar",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Grateful to be a part of Vishakha Verma Dance Institute. 🌸\n\nDance is not just about learning steps, it is about discipline, expression, confidence, and connecting with our roots. Under the guidance of Vishakha Ma'am, every class becomes a journey of learning and self-growth.\n\nThank you, Vishakha Ma'am, Meenu ma'am , Akansha ma'am for your dedication, patience, and for inspiring so many students through the beautiful art of dance. It is truly a privilege to learn from you.\n\nForever grateful to my Guru. 🙏✨",
+   "owner_reply": "Watching you bloom in your passion is the best feeling ✨ thank you for trusting Vishakhas"
+  },
+  {
+   "author": "Meenu Pandey",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "love you vishakha maam & feel always blessed to be a part of Vishakha's family, it's a amazing journey to teach students 4 to 85 years under of your wonderful guidance & support 💝 🙏💃💐🎁",
+   "owner_reply": null
+  },
+  {
+   "author": "Suganthi “Sugi” Murali",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "My daughter Maaya is very happy to be part of the Bollywood and Kathak dance classes. The classes are very engaging and interactive that she looks forward to the classes. Hardly misses any of the classes. She finds it easy to learn the well taught choreographies . Special\nthanks to Vishaka Ji and Meenu Ji for making sure that she’s learning the choreographies well. ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "marin george",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Vishakha Ma’am’s institute feels just like a second home to me. Her classes are something I genuinely look forward to, and the joy I feel there is hard to put into words. The journey from someone with no dance background to now taking my first confident steps on the dance floor — none of it would have been possible without her guidance.",
+   "owner_reply": null
+  },
+  {
+   "author": "JAYATI ROY",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Vishakha Ma'am is a great teacher, great dancer, very soulful. I am learning from her online- bollywood and semi classical, and I have learnt many things from her. Other teachers are also very good here, a good team. It's a great place to learn dance.❤️❤️❤️❤️",
+   "owner_reply": "Thank you for trusting Vishakhas ✨"
+  },
+  {
+   "author": "Geita Chatterjee",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Though I am a recent student(2/3 months old), I am enjoying. Visakha ma’am’s class so much. Learning to dance with grace and with the correct posture. She’s such a patient and good teacher and makes you feel like a part of the family. My best decision so far!!",
+   "owner_reply": "You are a gem of a person ✨ thank you for joining us and sharing your rhythm with us ❤️"
+  },
+  {
+   "author": "Rashmi Khullar",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "✨ Grateful for my dance teacher’s guidance and inspiration. Their patience, creativity, and passion make every class joyful and motivating. Thank you for helping me grow with confidence and expression! ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "aruna kataria",
+   "rating": 3,
+   "when": "4 months ago",
+   "text": "I used to watch Vishakhas mam videos online n was fascinated. When I thought of joining some hobby I immediately joined it n came to know why it attracted me. All of them are pure at heart, motivating n makes dancing easy with their unique way.Proud to be part of it.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rajlaxmi Jain",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Mrs Vishakha is very talented, energetic and enthusiastic teacher. She instills the same energy in other teachers and her students. She is best teacher for special needs. She has got patience and lots of empathy and love. She observers children very closely and give valuable suggestions to parents. Me and my daughters enjoy the classes.",
+   "owner_reply": "Thank you for your love and blessings ❤️🙏"
+  },
+  {
+   "author": "Lodaya Neeta",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Must say, Vishaka Dance academy makes the students be confident to dance on any tune. Vishaka and other tutors of her academy are blessed with extraordinary talent and this is being passed to our kids.",
+   "owner_reply": null
+  },
+  {
+   "author": "smriti joshi",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "An amazing dance teacher who is patient, encouraging, and incredibly talented. Every class is fun, engaging, and helps build both confidence and skill. I’ve learned so much and always look forward to each session.",
+   "owner_reply": null
+  },
+  {
+   "author": "kapila Garg",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Namaste Vishakha Guruma,\nI am blessed to be your student. You dance teaching skills along with mentorship are superb.\n\nI’ve never dance before. But now I got a compliments from my friends n family that “ wow! Dance can be learn online also” and sometimes like “ You are Vishakha’s student “. 👏👏\n\nThankfully to God to bless me with you GURUMA 🌷🙏",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "ankita moharir",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Vishakha's dance institute is the best in Dubai.\nI am personally experiencing it.\nRecently had a very big concert \"Jhankar 2024\" was very nicely conducted and had a very good experience.Also Thankful to Rishan sir and meenu mam.\nVishakha mam always motivate all of us.\nShe is so kind and helping.\nOfcourse she is beautiful by heart.And the work she is doing for special children is very very good.\nKeep doing this.\nWe all are with you mam.\nLove you....",
+   "owner_reply": "Thank you so much for your kind words and love ❤️ love & blessings "
+  },
+  {
+   "author": "Trina Sensharma",
+   "rating": 5,
+   "when": "Edited 4 months ago",
+   "text": "I have been following Ms Vishakha Verma's dance videos and live sessions on Facebook since 2020. Her graceful choreography, her smiling disposition and her poise have made me an ardent fan of hers. Her ability to show beautiful dance moves, while draping a saree, is admirable! Her motto of inclusion of differently abled students is praiseworthy!\nI took inspiration from her choreography, remotely, and have tried to create my own dance videos. During one of her visits to India in 2023, I've had the chance to meet her in person  and attend one of her dance workshops in Gurgaon. It was a fan-girl moment for me! I enjoyed the experience so much that I immediately joined her online dance classes. Since the last three years, I am thoroughly enjoying the sessions twice weekly. I strongly recommend others who are interested in learning semiclassical forms of dance to join her classes. My best wishes for all her future endeavours. 🙏🏼💝",
+   "owner_reply": null
+  },
+  {
+   "author": "Smrita Kumari",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Vishakha Ma'am is fantastic and wonderful mentor who not only teaches dance but also helps build confidence and self-expression.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ashar Hussain",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Thank You\nfor being such an amazing host. You went above and beyond to make us feel welcome and relaxed. Your dedication to providing the best experience is inspiring and we left with smiles on our faces after what can only be described as a truly brilliant time.❤️😍😍\nThank you so much,  Sir Rishan , Ma’am Vishakha, for giving me the opportunity to perform with you again after such a long time. It was truly a joy to be on stage together. And being able to indulge in my passion for photography and video shooting during the process made it even more special. Your support means a lot to me! ❤️❤️😍😍",
+   "owner_reply": "Thank you Ashar❤️ love & blessings "
+  },
+  {
+   "author": "Aishwarya Prabakar",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The garba workshop was a lovely and lively one. The energy level which was present in the dance floor was really great .. indeed it gave me a lot of happiness dancing to the songs . The song collections were awesome . Thank you vishakaji for giving us a excellent opportunity to learn garba this navarathri . Eagerly waiting for the next one.",
+   "owner_reply": "Thank you for trusting us ❤️"
+  },
+  {
+   "author": "Arpita Ray",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The Vishakha Dance Academy is a great place to learn how to dance without being judged. Vishakha Ma'am is amazing!\nHer way of teaching & …changed my life! The classes are awesome, gave me the skills and confidence to become an accomplished dancer. Ma'am has classes for the absolute beginners to the advanced level.",
+   "owner_reply": "Thank you Arpita ❤️"
+  },
+  {
+   "author": "richa ar",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I can't say enough about the joy being a part of the Vishakha’s Family has brought to my life. Really nice studio!\n\nAmazing staff, especially Ma’am Vishakha. Anyone who come across her feels so associated as she has that charismatic aura of positivity which helps an individual to get best out of it.\n\nI have a special need son who is 16 year old. After joining Vishakha's he became so independent and fun filled. Everyday he is extremely exited to come here. He has progressed in few weeks itself. The staff here is so cooperative and encouraging.\n\nThe instructors are excellent .They create a caring community of dancers across the spectrum from novice to expert.\n\nI highly recommend Vishakha's Dance and Music Training Institute.\n\nHeartiest wishes to Vishakha ma'am and big thank you. You are an amazing person.",
+   "owner_reply": "Thank you "
+  },
+  {
+   "author": "neha mittal",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "One of the best dance classes. I have joined Vishakha's online classes 1.5 yrs back with my daughter and till date my experience was outstanding. All the teachers at Vishakha's are superly talented. Vishakha ma'am is a gem of a person and I really feel blessed that she is mine and my daughter's mentor. Highly recommend online/offline Vishakha's dance classes for everyone.",
+   "owner_reply": "Thank you Neha for believing in us.<br>You and Dhwani are a beautiful mother daughter duo."
+  },
+  {
+   "author": "Sangeetha Pai",
+   "rating": 5,
+   "when": "Edited 4 months ago",
+   "text": "I live in Dubai and joined Vishakha’s Dance Academy online in 2020. These classes have become much more than dance lessons for me—they are a form of healing. Whenever I attend a class, I feel stress melt away and my mind becomes calm and positive. Every session fills me with joy, energy, and confidence. Vishakha ji, thank you for creating such a beautiful space where we can learn, grow, and heal through dance. You are doing an incredible job, and I truly cherish every moment of the classes. ❤️\nIf you are looking for a place to learn, enjoy, grow, and experience the therapeutic benefits of dance, this is the perfect institute to join. I truly cherish every moment of these classes and look forward to each session. ❤️",
+   "owner_reply": "Thank you Sangeeta for choosing us .<br>Proud to be your teacher"
+  },
+  {
+   "author": "Pushpanjali Arusia",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Excellent teachers with tremendous energy, very supportive, enthusiastic and passionate towards dance. I am sending my kids (6 yr old girl and 11 yr old boy) to Vishakha's dance classes since past 8-10 months, have seen remarkable improvement in their dance skills. They love the class. Thank you Vishakha mam and Rishan sir.",
+   "owner_reply": "Thank you for trusting Vishakhas ❤️"
+  },
+  {
+   "author": "Kirti Sendwalgg",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This is one of the best dance academy in Dubai. It is full of positive vibes which give you a extreme motivation. The owner of the centre  madam Vishakha is an amazing teacher, choreographer and a person with beautiful soul. I had a wonderful experience in this academy during my Fitness classes. The team of this centre is fully professional and nice.\nThank you Vishakha ji for your ever inspiring words.",
+   "owner_reply": "Your kind words inspire us❤️"
+  },
+  {
+   "author": "geetika lal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was power pact workshop of vishakha maam in delhi.  Her dance and the way she teaches are as graceful as she looks. Looking forward for many more such workshops.",
+   "owner_reply": null
+  },
+  {
+   "author": "Axita Gangwani",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It's been a 8month I have joined Vishakha's zumba fitness class. It's an amazing experience. I found myself so happy, energetic while dancing. So happy to be a part of Vishakha's. She is truely motivation, great dancer i love to dance with her. Our dance instructor Rishan Sir is so talented and i always enjoy dancing with him.",
+   "owner_reply": "Thank you Axita ❤️ love & blessings "
+  },
+  {
+   "author": "Alexandra Duenas",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I took Vishakha’s Bollywood workshop in California and it was an amazing experience. It was my fist Bollywood dance class (a complete novice) and Vishakha was a patient, detailed and fun instructor. I felt completely welcomed. I had such a great time and now I am hooked.\n\nVishakha has an extraordinary and vibrant presence and she transfers her enthusiasm for dance to her students. Will take her online classes going forward",
+   "owner_reply": "Thank you so much ❤️"
+  },
+  {
+   "author": "Deepa Sharma",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I started my official kathak training from Vishakha’s in 2020, during lockdown. It was a blessing to be connected with Vishakha Mam ❤️❤️ She is my first guru n amazing person n spreads so much happiness n positivity among all. She would make you fall in love with your own-self. The grace she has in her dance is mesmerising. A big shoutout to Vishakha’s dance academy, keep growing n keep spreading happiness. ❤️🙏",
+   "owner_reply": "Thank you for your love and blessings ❤️🙏"
+  },
+  {
+   "author": "Science Decoded - Sunil Sikri",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "At 69 my dream to learn and dance with Vishakha was fulfilled in Nritya workshop at Janakpuri Delhi. I loved and enjoyed the workshop. I didn't dance in my school or college, and started my Dance journey at 67. Age is no Bar. It is never too late to learn to Dance. My best Wishes to the Dancing Queen 👑 Vishakha. We love you ❤️.",
+   "owner_reply": null
+  },
+  {
+   "author": "prithvi bhat",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "First of all thank you for changing my dance journey Vishaka Ma’am 🙏 I was always keen on learning classical never thought I could. The confidence instilled in me by Vishaka ma’am has made me perform on stage which is surreal for me. It’s been 1.5 years since I joined the institution and I am absolutely in love with my teachers and classes. Vishaka ma’am is one of a kind woman her energy literally radiates to everyone around her. Vishaka’s institute is one of the best thing happened to me ❤️🙏 Highly recommend everyone, may it be Classical, Bollywood, Zumba, freestyle. Every teacher is gifted ❤️ Wish you all the success and happiness to Vishaka’s Dance and Music training institute.",
+   "owner_reply": "Thank you for your kind words of love ❤️"
+  },
+  {
+   "author": "Soma Mukhopadhyay",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I joined online in Vishakha’s dance classes two years back. Before that, I never thought that I could bring out my full potential in dancing. It was only possible because of Vishakha ma’am’s encouragement, support and positivity. She is a person who can make the impossible, possible. Through her motivation and cooperation anybody can feel free to dance and enjoy. For me, time spent at Vishakha’s is a refreshing, relaxing and definitely a bundle of stress free time. I feel blessed to be a part of Vishakha’s. Thanks a lot ma’am, keep continue your good work.\nGod bless 🙏",
+   "owner_reply": "Thank you for your love and blessings ❤️🙏"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    322,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    512,
+    341
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    511,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    375,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.facebook.com/vishakhasdance/",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "facebook": "vishakhasdance"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 71,
+ "socials": {
+  "facebook": "vishakhasdance"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/vishakha-dance-music-institute/",
+ "buy_likelihood": 8,
+ "notes": "5.0 from 156, women-owned, runs online classes and events, Facebook page. Replies 63%.",
+ "display_name": "Vishakha's Dance & Music Institute"
+}

@@ -1,0 +1,30 @@
+{
+ "preset": "garage-amber",
+ "theme": {"accent": "#FFD23F", "accent_text": "#FFD23F", "display": "\"Oswald\",sans-serif", "google_fonts": "family=Oswald:wght@500;600;700&family=Barlow:wght@400;500;600&family=Cairo:wght@700;800", "dw": "700", "frame": "square", "hero_ratio": "4/5"},
+ "brand": {"name": "Ibn El Nil", "sub": "Barber Salon · Ajman", "mark": "N", "footer_word": "IBN EL NIL"},
+ "seo": {"title": "Ibn El Nil Salon | صالون ابن النيل للحلاقة | Barber in Al Rashidiya, Ajman, Open till 1 AM", "description": "Ibn El Nil gents and kids barber on Al Naseem Street, Al Rashidiya 1, Ajman: fades, classic cuts, beard styling and kids' haircuts, open 9 AM to 1 AM every day. 4.9 from 457 reviews."},
+ "hero": {"variant": "split", "ar_name": "صالون ابن النيل للحلاقة", "kicker": "Al Naseem Street · Al Rashidiya 1 · Ajman", "title_lines": ["Fades with", "golden fingers.", "Open till 1 AM."],
+   "lede": "Precise fades, classic cuts and beard work for men and boys, by barbers regulars call artists. Clean, respectful and open from 9 AM to 1 AM, seven days a week.",
+   "image": "img/hero.jpg", "image_alt": "Sharp skin fade with textured top", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "مرحبا، أريد حجز موعد حلاقة / Hi, I'd like to book a haircut.",
+ "proof_note": "4.9 from 457 · owner replies",
+ "address_lines": ["Ibn El Nil Salon, Al Naseem Street", "Al Rashidiya 1, Ajman"],
+ "socials": {"instagram": "ibn_elniel_salon"},
+ "ticker": ["Skin fade", "Classic cut", "Beard styling", "Kids haircut", "حلاقة", "تصفيف الشعر", "Open till 1 AM"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services · الخدمات", "title": "Men's and boys' cuts,", "title_dim": "done with care.",
+   "items": [
+    {"name": "Fades & modern cuts", "feature": true, "img": "img/pompadour.jpg", "alt": "Silver pompadour with a hard part", "desc": "Skin fades, tapers and textured tops.", "quote": "The haircut was incredibly professional and precise. You can tell they really care about the details.", "cite": "Osman G."},
+    {"name": "Beard styling", "img": "img/styled.jpg", "alt": "Client with a styled beard and slick hair", "desc": "Shape-ups, line-ups and hot towel finishes."},
+    {"name": "Kids' haircuts · حلاقة الأطفال", "img": "img/cut.jpg", "alt": "Barber cutting a young man's hair", "desc": "Patient barbers for boys of all ages."},
+    {"name": "Hair styling · تصفيف", "desc": "Styling, wash and finish for events."}
+   ],
+   "perks": ["Open daily 9 AM – 1 AM", "Good for kids", "Cards & Apple Pay"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "No queue", "title": "Late-night cut?", "title_dim": "We're open till 1."},
+  {"type": "team", "id": "team", "nav": "Barbers", "eyebrow": "The barbers", "title": "Ask for Yasser.", "title_dim": "Our reviews do.",
+   "items": [{"name": "Yasser", "count": 8, "role": "Master barber", "quote": "Yasser is a perfect barber at this shop, and everyone behaves like a friend.", "cite": "Google reviewer"}]},
+  {"type": "gallery", "images": [{"src": "img/sign.jpg", "alt": "Lit Ibn El Nil sign"}, {"src": "img/chair.jpg", "alt": "Barber at work"}, {"src": "img/shop.jpg", "alt": "Inside the barber shop"}, {"src": "img/storefront.jpg", "alt": "Shop front at night"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Rashidiya 1,", "title_dim": "Ajman."}
+ ]
+}
