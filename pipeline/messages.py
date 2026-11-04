@@ -10,7 +10,7 @@ import csv, hashlib, json, re, urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SENDER = "[Your name]"
+SENDER = "Ahmed"
 PRICE = "99 AED"
 
 KIND = {  # category -> (what customers do, short noun)
@@ -153,8 +153,8 @@ def build():
     rows.sort(key=lambda r: -(r["buy"] or 0))
     with open(ROOT / "outreach.csv", "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=rows[0].keys()); w.writeheader(); w.writerows(rows)
-    md = ["# WhatsApp outreach", "", f"{len(rows)} messages, sorted by likelihood to buy. Replace **{SENDER}** with your name first "
-          "(or set `SENDER` in `pipeline/messages.py` and rerun).", "",
+    md = ["# WhatsApp outreach", "", f"{len(rows)} messages, sorted by likelihood to buy. Signed as **{SENDER}**; change `SENDER` in `pipeline/messages.py` to resend under another name."
+          "", "",
           "On a phone, tap **Open in WhatsApp** and the message is pre-filled. Landline-only businesses are marked: call or visit, then send the text from your own WhatsApp.", ""]
     for i, r in enumerate(rows, 1):
         md += [f"## {i}. {r['business']}", f"{r['category']} · {r['area']} · buy {r['buy']}/10 · {r['phone']}", ""]
