@@ -78,6 +78,9 @@ def main():
             res = {"success": False, "message": str(e)}
         ok = bool(res.get("success"))
         print(f"{'sent' if ok else 'FAIL'} {r['business']} -> +{number} {'' if ok else res.get('message')}", flush=True)
+        if not ok and "500" in str(res.get("message")):  # bridge returns 500 when the number has no WhatsApp
+            log[r["site"]] = {"business": r["business"], "number": f"+{number}", "status": "failed (probably not on WhatsApp)"}
+            LOG.write_text(json.dumps(log, indent=1, ensure_ascii=False))
         if ok:
             log[r["site"]] = {"business": r["business"], "number": f"+{number}",
                               "sent_at": datetime.now(timezone.utc).isoformat(timespec="seconds"), "status": "sent"}
