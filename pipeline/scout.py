@@ -149,7 +149,13 @@ def discover(args):
         for cat in cats:
             body, pages = {"textQuery": f"{cat} in {area}", "regionCode": "AE", "pageSize": 20}, 0
             while pages < args.pages:
-                res = places("places:searchText", body, SEARCH_FIELDS); pages += 1
+                try:
+                    res = places("places:searchText", body, SEARCH_FIELDS); pages += 1
+                except RuntimeError as e:
+                    if "429" in str(e):
+                        cand_file.write_text(json.dumps(cands, indent=1, ensure_ascii=False))
+                        sys.exit(f"Places quota exhausted; saved {len(cands)} candidates. Try again tomorrow or use a full key.")
+                    raise
                 for p in res.get("places", []):
                     if p["id"] in cands or p.get("businessStatus") != "OPERATIONAL": continue
                     if p.get("userRatingCount", 0) < args.min_reviews: continue
@@ -162,6 +168,7 @@ def discover(args):
                 if not res.get("nextPageToken"): break
                 body["pageToken"] = res["nextPageToken"]; time.sleep(1.5)
             print(f"{area:28} {cat:24} -> {len(cands)} total candidates")
+            DATA.mkdir(exist_ok=True); cand_file.write_text(json.dumps(cands, indent=1, ensure_ascii=False))
     DATA.mkdir(exist_ok=True); cand_file.write_text(json.dumps(cands, indent=1, ensure_ascii=False))
 
 
