@@ -17,6 +17,6 @@ Goal: as many pitch-ready sites as possible per token. Don't re-explore the repo
      Presets are in `pipeline/build.py`; `python3 .claude/skills/ui-ux-pro-max/scripts/search.py "<category> <mood>" --design-system` for ideas.
    - `python3 pipeline/build.py <slug>` → `docs/<slug>/`. QA with `node playbook/qa.js <slug> <outdir>` and look at the hero screenshot.
    - Set `site_status: built`, adjust `buy_likelihood`, add `notes` (why they'd buy).
-4. `python3 pipeline/scout.py leads`, commit, push to `claude/uae-bulk-website-generation-7gkcoz` (GitHub Pages serves `/docs`).
+4. `python3 pipeline/scout.py leads` and `python3 pipeline/messages.py` (WhatsApp pitches → `OUTREACH.md`, `outreach.csv`), commit, push to `claude/uae-bulk-website-generation-7gkcoz` (GitHub Pages serves `/docs`).
 
 Bespoke sites (not generated): `docs/champions-gym-karama/`, `docs/forge-athletic-club/` (fictional template, never pitch it).
