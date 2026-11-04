@@ -25,7 +25,7 @@ UA = "Mozilla/5.0 (compatible; site-audit/1.0)"
 CATEGORIES = {
     "gym": 15, "fitness studio": 14, "martial arts academy": 13, "dental clinic": 15, "physiotherapy clinic": 14,
     "beauty salon": 12, "barber shop": 10, "spa": 13, "restaurant": 12, "cafe": 10, "bakery": 9,
-    "car repair garage": 12, "car detailing": 11, "furniture store": 11, "interior design company": 14,
+    "car repair garage": 12, "optician": 12, "tailor": 10, "dance studio": 12, "yoga studio": 12, "car wash": 9, "laundry": 8, "music school": 13, "photography studio": 11, "flower shop": 9, "kids play area": 11, "car detailing": 11, "furniture store": 11, "interior design company": 14,
     "nursery school": 14, "tutoring center": 12, "pet grooming": 10, "veterinary clinic": 13, "florist": 9,
 }
 AREAS = [
@@ -256,7 +256,7 @@ def apify_enrich(args):
     if not picked: return print("nothing to enrich")
     print(f"Apify: scraping {len(picked)} places…")
     items = _apify("compass~crawler-google-places", {
-        "startUrls": [{"url": c["googleMapsUri"]} for c, *_ in picked], "maxImages": args.photos, "maxReviews": 40,
+        "startUrls": [{"url": c["googleMapsUri"]} for c, *_ in picked], "maxImages": args.photos, "maxReviews": args.reviews,
         "reviewsSort": "mostRelevant", "language": "en", "maxCrawledPlacesPerSearch": 1, "includeWebResults": False})
     by_id = {it.get("placeId"): it for it in items}
     for c, slug, audit, score in picked:
@@ -366,7 +366,7 @@ if __name__ == "__main__":
     d.add_argument("--pages", type=int, default=1); d.add_argument("--min-reviews", type=int, default=25)
     e = sub.add_parser("enrich"); e.add_argument("--top", type=int, default=10); e.add_argument("--photos", type=int, default=10)
     e.add_argument("--min-score", type=int, default=60)
-    a2 = sub.add_parser("apify"); a2.add_argument("--top", type=int, default=10); a2.add_argument("--photos", type=int, default=30)
+    a2 = sub.add_parser("apify"); a2.add_argument("--top", type=int, default=10); a2.add_argument("--photos", type=int, default=30); a2.add_argument("--reviews", type=int, default=40)
     a2.add_argument("--min-score", type=int, default=60); a2.add_argument("--ids", help="comma-separated place ids to enrich")
     sub.add_parser("socials")
     sub.add_parser("leads")

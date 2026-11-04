@@ -5,7 +5,7 @@
 
 Content JSON keys: preset, theme (overrides), hero{variant split|full|stack, kicker, ar_name, title_lines, accent_line,
 lede, image, image_alt, caption, secondary{label,href}, badge{label,text}}, brand{name,sub,mark,footer_word},
-cta_label, ticker[], sections[] (services|menu|crowd|team|gallery|reviews|asks|faq|visit), review_picks[], socials{}, seo{}.
+cta_label, ticker[], hero.collage[] (collage variant), sections[] (services|menu|crowd|team|gallery|reviews|asks|faq|visit), review_picks[], socials{}, seo{}.
 """
 import json, re, sys, urllib.parse
 from pathlib import Path
@@ -82,6 +82,21 @@ PRESETS = {
     "ocean-wash": {**LIGHT, "bg": "#F2F7F8", "surface": "#FFFFFF", "surface_2": "#DCEBEE", "accent": "#0B5D74", "accent_text": "#0B5D74", "on_accent": "#FFFFFF", "duo": "#BEDBE3", "busy": "#4F93A8", "glow": "rgba(11,93,116,.1)",
                    "band_bg": "#08262F", "band_text": "#E8F4F7", "band_accent": "#5FD0E8", "display": '"Archivo",system-ui,sans-serif', "body": '"Archivo",system-ui,sans-serif', "dw": "800", "dcase": "uppercase", "dtrack": "-0.02em", "r": "10px", "btn_r": "10px", "mark_r": "10px", "dlh": ".9",
                    "google_fonts": "family=Archivo:wght@400;500;600;800&family=Cairo:wght@700"},
+    "midnight-teal": {**DARK, "bg": "#0A1517", "surface": "#10201F", "surface_2": "#172B2A", "accent": "#2EC4B6", "accent_text": "#4FD8CB", "on_accent": "#06201D", "duo": "#0F4A45", "busy": "#1E8A80", "glow": "rgba(46,196,182,.15)", "band_bg": "#EEF5F4", "band_accent": "#127A70",
+                      "display": '"Sora",system-ui,sans-serif', "body": '"Figtree",system-ui,sans-serif', "dw": "700", "dtrack": "-0.035em", "r": "12px", "btn_r": "12px", "mark_r": "12px",
+                      "google_fonts": "family=Sora:wght@600;700&family=Figtree:wght@400;500;600&family=Cairo:wght@700"},
+    "citrus-pop": {**LIGHT, "bg": "#FFFBEF", "surface": "#FFFFFF", "surface_2": "#FFEFC9", "accent": "#F2600C", "accent_text": "#C94A04", "on_accent": "#FFFFFF", "duo": "#FFD9A8", "busy": "#F2600C", "glow": "rgba(242,96,12,.12)",
+                   "band_bg": "#1F1300", "band_text": "#FFF6E3", "band_accent": "#FFB347", "display": '"Bricolage Grotesque",system-ui,sans-serif', "body": '"Figtree",system-ui,sans-serif', "dw": "800", "dtrack": "-0.04em", "r": "16px", "btn_r": "999px", "mark_r": "50%",
+                   "google_fonts": "family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600&family=Cairo:wght@700"},
+    "ink-paper": {**LIGHT, "bg": "#F6F5F1", "surface": "#FFFFFF", "surface_2": "#E9E7E0", "accent": "#141414", "accent_text": "#141414", "on_accent": "#F6F5F1", "duo": "#D6D3C8", "busy": "#141414", "glow": "rgba(0,0,0,.05)",
+                  "band_bg": "#141414", "band_text": "#F6F5F1", "band_accent": "#E8D9A8", "display": '"Instrument Serif",Georgia,serif', "body": '"Inter Tight",system-ui,sans-serif', "dw": "400", "dtrack": "-0.02em", "r": "4px", "btn_r": "999px", "mark_r": "50%", "h1max": "132px", "dlh": ".95",
+                  "google_fonts": "family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600&family=Cairo:wght@700"},
+    "emerald-gold": {**DARK, "bg": "#07130E", "surface": "#0E1F17", "surface_2": "#152B20", "accent": "#D4AF37", "accent_text": "#E2C25B", "on_accent": "#0B1A12", "duo": "#2C4A2F", "busy": "#8C7424", "glow": "rgba(212,175,55,.14)", "band_bg": "#F3F0E6", "band_accent": "#1F6B47",
+                     "display": '"Playfair Display",Georgia,serif', "body": '"Lato",system-ui,sans-serif', "dw": "600", "dtrack": "-0.01em", "r": "6px", "btn_r": "999px", "mark_r": "50%",
+                     "google_fonts": "family=Playfair+Display:ital,wght@0,600;1,600&family=Lato:wght@400;700&family=Cairo:wght@700"},
+    "clinic-mint": {**LIGHT, "bg": "#F3FAF7", "surface": "#FFFFFF", "surface_2": "#DDF2EA", "accent": "#0F9D6E", "accent_text": "#0B7F59", "on_accent": "#FFFFFF", "duo": "#BFE8D8", "busy": "#3DB58A", "glow": "rgba(15,157,110,.12)",
+                    "band_bg": "#0B2A20", "band_text": "#EAF7F1", "band_accent": "#7EE0B8", "display": '"Outfit",system-ui,sans-serif', "body": '"Outfit",system-ui,sans-serif', "dw": "600", "dtrack": "-0.03em", "r": "18px", "btn_r": "14px", "mark_r": "14px", "h1max": "96px", "h2max": "64px",
+                    "google_fonts": "family=Outfit:wght@400;500;600;700&family=Cairo:wght@700"},
 }
 TOKEN_MAP = {k: "--" + k.replace("_", "-") for k in set(BASE) | {k for p in PRESETS.values() for k in p}}
 

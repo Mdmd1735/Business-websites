@@ -51,6 +51,7 @@
   <div class="hero__visual in-2">
     <div class="hero__slab" aria-hidden="true"></div>
     <figure class="hero__frame"><img src="{{ hero.image }}" alt="{{ hero.image_alt }}" fetchpriority="high">{% if hero.caption %}<figcaption>{{ hero.caption }}</figcaption>{% endif %}</figure>
+    {% if hero.collage %}<div class="collage" aria-hidden="true">{% for im in hero.collage %}<img src="{{ im }}" alt="" loading="lazy">{% endfor %}</div>{% endif %}
     {% if crowd %}<div class="live" aria-live="polite"><p class="live__label"><i></i>Right now</p><p class="live__text" data-live-text>Checking…</p><div class="live__bars" data-live-bars aria-hidden="true"></div><p class="live__src">From Google Maps popular times</p></div>
     {% elif hero.badge %}<div class="live badge"><p class="live__label"><i></i>{{ hero.badge.label }}</p><p class="live__text">{{ hero.badge.text }}</p></div>{% endif %}
   </div>

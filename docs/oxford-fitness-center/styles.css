@@ -340,4 +340,36 @@ h3{font-size:clamp(21px,1.9vw,27px);line-height:1.1}
   .visit__info{padding:22px}
   .menu__row{grid-template-columns:1fr auto}.menu__row i{display:none}
 }
+
+/* hero: panel (text on a solid panel, photo bleeds to the right edge) */
+.hero-panel .hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.05fr);min-height:90svh}
+.hero-panel .hero__copy{padding:clamp(110px,14vh,150px) clamp(24px,4vw,64px) clamp(48px,7vw,90px) max(var(--gut),calc((100vw - var(--max))/2 + var(--gut)));display:flex;flex-direction:column;justify-content:center;background:var(--surface)}
+.hero-panel .hero__visual{position:relative}
+.hero-panel .hero__frame{position:absolute;inset:0;border-radius:0!important;clip-path:none!important}
+.hero-panel .hero__slab{position:absolute;left:-6px;top:18%;bottom:18%;width:12px;background:var(--accent);z-index:2;opacity:1}
+.hero-panel .live{left:-40px;bottom:12%;z-index:3}
+/* hero: collage (centered copy, three tilted photos) */
+.hero-collage .hero{max-width:var(--max);margin:0 auto;padding:clamp(120px,15vh,160px) var(--gut) clamp(40px,6vw,80px);text-align:center}
+.hero-collage .hero__copy{display:flex;flex-direction:column;align-items:center}
+.hero-collage .hero__kicker{justify-content:center}
+.hero-collage .hero__lede{margin-inline:auto}
+.hero-collage .hero__cta{justify-content:center}
+.hero-collage .hero__visual{position:relative;display:grid;grid-template-columns:1fr 1.25fr 1fr;gap:16px;align-items:end;margin-top:clamp(36px,5vw,64px)}
+.hero-collage .hero__frame{grid-column:2;grid-row:1;aspect-ratio:4/5;border-radius:var(--r);z-index:2;box-shadow:0 30px 60px -30px rgba(0,0,0,.5)}
+.hero-collage .hero__slab{display:none}
+.hero-collage .collage{display:contents}
+.hero-collage .collage img{grid-row:1;width:100%;aspect-ratio:3/4;object-fit:cover;border-radius:var(--r);transition:transform 1.4s var(--ease)}
+.hero-collage .collage img:first-child{grid-column:1;transform:rotate(-4deg) translateY(30px)}
+.hero-collage .collage img:last-child{grid-column:3;transform:rotate(4deg) translateY(30px)}
+.ready.hero-collage .collage img:first-child{transform:rotate(-3deg) translateY(0)}
+.ready.hero-collage .collage img:last-child{transform:rotate(3deg) translateY(0)}
+.hero-collage .live{left:50%;transform:translateX(-50%);bottom:-26px;z-index:3}
+@media (max-width:820px){
+  .hero-panel .hero{grid-template-columns:1fr;min-height:0}
+  .hero-panel .hero__copy{padding:104px var(--gut) 40px}
+  .hero-panel .hero__visual{height:62vw;min-height:280px}
+  .hero-panel .live{display:none}
+  .hero-collage .hero__visual{grid-template-columns:1fr 1.4fr 1fr;gap:8px}
+  .hero-collage .live{display:none}
+}
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition-duration:.001ms!important;scroll-behavior:auto!important}}
