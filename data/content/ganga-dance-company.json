@@ -1,0 +1,31 @@
+{
+ "preset": "spice-ember",
+ "theme": {"accent": "#FF3E9A", "accent_text": "#FF64B0", "on_accent": "#14040C", "bg": "#0D0A14", "surface": "#16111F", "surface_2": "#20182C", "duo": "#4A1A5A", "busy": "#B0338C", "glow": "rgba(255,62,154,.2)", "band_bg": "#FFF3FA", "band_accent": "#B0206E", "display": "\"Bricolage Grotesque\",system-ui,sans-serif", "google_fonts": "family=Bricolage+Grotesque:opsz,wght@12..96,800&family=DM+Sans:wght@400;500;600&family=Cairo:wght@700", "dw": "800", "dtrack": "-0.03em", "frame": "round", "hero_ratio": "4/3"},
+ "extra_css": ".hero-split .hero__slab{background:#FFC93C}.ticker{background:#FFC93C;color:#0D0A14}",
+ "brand": {"name": "Ganga", "sub": "Dance Company · Al Nahda", "mark": "G", "footer_word": "GANGA"},
+ "seo": {"title": "Ganga Dance Company | Bollywood & Hip Hop Dance Classes for Kids, Al Nahda Sharjah", "description": "Ganga Dance Company, Al Zarooni Building, Block A, Office 08, near Ansar Mall, Al Nahda, Sharjah: Bollywood, hip hop and freestyle classes for kids and adults with Hemant Sir and Pooja Ma'am, and performances at Global Village. Rated 5.0 from 169 reviews."},
+ "hero": {"variant": "split", "kicker": "Al Zarooni Building · Block A · Near Ansar Mall, Al Nahda", "title_lines": ["From the studio", "to the Global Village", "stage."],
+   "lede": "Bollywood, hip hop and freestyle for kids and adults, with teachers who build confidence first and choreography second, and stage shows at Global Village and big Dubai events.",
+   "image": "img/hero.jpg", "image_alt": "Ganga Dance Company students performing on the Global Village stage", "secondary": {"label": "Classes", "href": "#classes"}},
+ "cta_label": "Book a trial class", "cta_text": "Hi Ganga Dance Company, I'd like to book a trial class.",
+ "proof_note": "Perfect 5.0 from 169 reviews",
+ "address_lines": ["Ganga Dance Company, Office 08, Block A, Al Zarooni Building", "Near Ansar Mall, Al Nahda, Sharjah"],
+ "ticker": ["Bollywood", "Hip hop", "Freestyle", "Kids batches", "Adult classes", "Global Village shows", "Workshops"],
+ "sections": [
+  {"type": "services", "id": "classes", "nav": "Classes", "eyebrow": "Classes", "title": "Confidence,", "title_dim": "then choreography.",
+   "items": [
+    {"name": "Kids Bollywood & hip hop", "feature": true, "img": "img/red.jpg", "alt": "Kids crew in red at an event", "desc": "Weekly batches for children, with stage performances.", "quote": "My daughter joined their Bollywood dance classes, and the growth we've seen in her skills and confidence has been amazing.", "cite": "Anoop R."},
+    {"name": "Stage shows", "img": "img/stage.jpg", "alt": "Students performing on a decorated stage", "desc": "Global Village, school events and festivals."},
+    {"name": "Adult classes", "img": "img/duo.jpg", "alt": "Teacher with a student", "desc": "Bollywood and fitness dance for adults."},
+    {"name": "Workshops", "img": "img/field.jpg", "alt": "Large outdoor formation", "desc": "Choreography workshops and flash mobs."}
+   ],
+   "perks": ["Open daily 9 AM – 10 PM", "Kids & adults", "Performance opportunities"]},
+  {"type": "team", "id": "team", "nav": "Teachers", "eyebrow": "The teachers", "title": "Hemant Sir", "title_dim": "and Pooja Ma'am.",
+   "items": [{"name": "Hemant", "count": 25, "short": "him", "role": "Founder & choreographer", "quote": "Hemant Sir and Mayur Sir are incredible teachers.", "cite": "Maryam D."}, {"name": "Pooja", "count": 6, "role": "Teacher"}, {"name": "Mayur", "role": "Teacher"}]},
+  {"type": "gallery", "images": [{"src": "img/logo.jpg", "alt": "Ganga Dance Company logo"}, {"src": "img/stage2.jpg", "alt": "Stage performance", "wide": true}, {"src": "img/pink.jpg", "alt": "Performance under purple lights", "wide": true}, {"src": "img/festival.jpg", "alt": "Global Village performance", "wide": true}, {"src": "img/kid.jpg", "alt": "Young dancer in traditional dress"}, {"src": "img/tv.jpg", "alt": "Founder on a TV dance show set"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Try a class.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["When is the next kids' trial class?", "What are the batch timings?", "How much are monthly fees?", "Do you perform at Global Village this season?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Near Ansar Mall,", "title_dim": "Al Nahda."}
+ ]
+}

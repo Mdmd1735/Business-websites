@@ -387,7 +387,8 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "backup",
  "site_url": "https://mdmd1735.github.io/Business-websites/millennium-beauty-ladies-salon/",
- "buy_likelihood": 7
+ "buy_likelihood": 7,
+ "notes": "No hours listed; Instagram points to another brand (hilitedxb). Verify ownership."
 }

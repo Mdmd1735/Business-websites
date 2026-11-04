@@ -1,0 +1,1046 @@
+{
+ "slug": "impression-ladies-salon",
+ "name": "Impression Ladies Salon Al Karama",
+ "place_id": "ChIJ6R7MbkVDXz4RvIQRwaQlCig",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Karama, Dubai",
+ "address": "Shop 3, R 444 Wasl Properties Bldg - Dubai - United Arab Emirates",
+ "building": "Pioneer Buildings",
+ "location": {
+  "lat": 25.2418077,
+  "lng": 55.3004662
+ },
+ "phone": "+971 50 585 4972",
+ "rating": 4.9,
+ "userRatingCount": 289,
+ "rating_distribution": {
+  "oneStar": 5,
+  "twoStar": 2,
+  "threeStar": 3,
+  "fourStar": 10,
+  "fiveStar": 269
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Impression%20Ladies%20Salon%20Al%20Karama&query_place_id=ChIJ6R7MbkVDXz4RvIQRwaQlCig",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Impression Beauty Salon located in Al Karama, Dubai . The salon offers services like hairdressing, hair color, permanent Hair extensions, Eyelashes extensions, beauty and spa treatments. We also offer hair spa services, waxing, mehendi, manicures, pedicures, gel nail polish,Nail Extensions, hair treatments for hair loss/anti dandruff, Keratin and Botox hair treatments among many others.",
+ "amenities": {
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "hair keratin",
+  "nail extension",
+  "friendly staff",
+  "threading",
+  "hair spa",
+  "hydra facial",
+  "gel polish",
+  "hair color",
+  "waxing",
+  "hair botox"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.5,
+ "reviews": [
+  {
+   "author": "Uma Gurung",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "⭐⭐⭐⭐⭐\nI had my hair colored and threading done here, and I had such a wonderful experience! 🥰❤️ The staff are extremely friendly, kind, and professional, especially Nisha and Gloria. They took such good care of me throughout the entire process, explained everything clearly, and made sure I felt comfortable at every step. 💕\nBoth of them are so sweet, caring, and truly skilled at what they do. I absolutely loved their work and the way they treated me. ❤️\nA big thank you to Nisha and Gloria for making my experience so special! 🥰🌸 I’m really happy with the service and will definitely visit again. Highly recommended! ❤️✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Jyoti Pereira",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Had a wonderful experience at the salon! Gloria did an excellent job with my haircut and root colour. She was professional, attentive, and made sure everything turned out beautifully. I’m very happy with the results and would definitely recommend Gloria to anyone looking for great hair care! 💇‍♀️  Nisha is excellent in promoting the salon services 😉",
+   "owner_reply": null
+  },
+  {
+   "author": "Fathima Razana",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI had a lovely experience at Impression Ladies Salon with Nisa. I travel lots of country  and have tried different salons, but Nisa’s customer service really impressed me. She is very professional, gentle, and makes me feel comfortable throughout the treatment. Her facial and massage are excellent and very relaxing. Highly recommended! ❤️✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Bhavya Bangera",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I visited yesterday , loved my lashes and hair treatment .i highlight recommended for best quality services and reasonable pricing .\nAmazing salon  The staff are friendly, the atmosphere is lovely, and the results are beautiful. Definitely coming back! 💕.Thank you Impression salon ♥️💫",
+   "owner_reply": null
+  },
+  {
+   "author": "Cyrene thomas",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I got a highlights and a haircut by gloria, she was so sweet and always made sure I was okay, the staff there is incredibly helpful, would definitely come back here!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Susha Philip",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "\"Had an absolutely amazing experience! The staff was highly professional, and the advanced products they used were incredibly soothing. My Daughter has very sensitive skin, but she experienced zero irritation or redness. Highly recommend!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Tinu Chandy",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a wonderful experience at Impression Beauty Salon. I first had my eyebrows threaded and a pedicure by Ms. Selina, and both the services exceeded by expectations. She shaped my eyebrows exactly the way I wanted, and the pedicure was incredibly relaxing. She was very patient and thorough in removing all the dead skin, and the foot massage afterward was so soothing. Her attention to detail and gentle approach made the whole experience truly enjoyable.\nI also got my hair colored by Ms. Gloria, who did an excellent job. She was professional, friendly, and made sure I was comfortable throughout the process. The head massage during the hair wash was one of the most relaxing parts of my visit.\nOverall, it was a very pleasant and refreshing experience. The staff were warm, skilled, and attentive. I would definitely recommend Impression Beauty Salon and will be happy to visit again!",
+   "owner_reply": "Thank you so much for your wonderful review! 🌸 We're delighted to know you enjoyed our services and experienced the warm hospitality of our team. Your kind words mean the world to us and inspire us to keep delivering our very best. We can't wait to welcome you back soon!"
+  },
+  {
+   "author": "Zee Jetha",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I had a wonderful experience at the salon today! I went in for a manicure which was done by BABY she has magic in her hands, pedicure, and a Korean hair spa by LAXMi she was amazing, and everything was absolutely perfect.\n\nThe staff were extremely professional, friendly, and attentive throughout my visit, and not  forgetting Josephina who served me a delicious coffee with love and care 😊. My manicure and pedicure were done with great care and precision, and my nails look beautiful and well-groomed. The Korean hair spa was the highlight of my visit — it was incredibly relaxing and left my hair feeling soft, nourished, and healthy.\n\nThe salon was clean, comfortable, and had a very calming atmosphere, which made the whole experience even more enjoyable. I truly appreciated the attention to detail and the excellent service provided by the team.\n\nHighly recommend this salon to anyone looking for quality treatments and a relaxing self-care experience. I will definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Supriya Suresh",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had an amazing experience ,got my nail extensions done, and they turned out absolutely gorgeous—so natural and flawless. A huge thank you to Ms. Roshni, who was so skilled, attentive, and made me feel right at ease.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nischitha Bs",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Just had my appointment here and loved every bit of my experience. I have been to the salon for meni/pedi ,cleanup, threading and waxing which is done by Nisha.The service was great, the atmosphere was warm and welcoming. I’m loving it! Highly recommended and will surely come back. Nisha is just amazing at her work! MUCH NEEDED Pampering sessions.❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Sivapriya Senthil",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I recently visited the salon for a complete makeover including hair color and haircut, and I couldn’t be happier with the experience. Gloria handled my hair service, and she was exceptional. She listened to me carefully, understood exactly what I was looking for, suggested the right hair color, and gave me a beautiful haircut. Throughout the process, she showed utmost care, patience, and dedication.\nMy pedicure was done by Roshini, and it was equally wonderful. The service was relaxing and thorough, and my feet felt incredibly soft and refreshed by the end.\nThank you both for such a lovely experience.",
+   "owner_reply": "Thank you so much for your review 🤩And glad you loved 🥰 our services & looking forward see you back again 🩷"
+  },
+  {
+   "author": "Aswathy Mohan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I did my first hair coloring from impression. It really comes out beautiful. Ms Mona is really amazing and very patient too.  I loved the new makeover 🥰. All staffs are very friendly and I highly recommend the salon.",
+   "owner_reply": "Thank you Miss 💕 and we are overwhelmed 🤗❤️"
+  },
+  {
+   "author": "Fayuna Jh",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had a really lovely experience at this salon! The atmosphere is clean, relaxing, and welcoming. A special shoutout to Viola Nisha — she’s incredibly friendly, professional, and made me feel completely comfortable. Highly recommend!",
+   "owner_reply": "Thank you so much for your kind words and for taking the time to leave us such a wonderful review! Your support means a lot to our team, and we look forward to welcoming you back again soon for another relaxing and beautiful experience. ✨"
+  },
+  {
+   "author": "ASHA MOGAVEERA",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Great experience at the salon. The staff was very professional, friendly, and did an excellent job. Ms. Nisha did my service and she was amazing. I’m very happy with the service. Highly recommended.” ⭐✨",
+   "owner_reply": "Thank you for your lovely review! We’re so happy to hear that you enjoyed your hair service with us. We truly appreciate your support and can’t wait to see you again soon!"
+  },
+  {
+   "author": "Wareesha Moon",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I went there for hair cutting..I am so satisfied with the haircut after a long time. Thank u gloria for this hair cut with blow dry.",
+   "owner_reply": "Thank you so much for your wonderful Google review! We truly appreciate your kind words. It means a lot to us that you had such a positive experience.. We look forward to welcoming you back to our salon again soon!"
+  },
+  {
+   "author": "Amrin Noufal",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Superb experience! I did a detan facial, manicure, pedicure, and hot oil massage. The massage was truly amazing — no words to describe how relaxing it was. The head massage helped me sleep peacefully for 10 hours! Thank you for the excellent service and warm hospitality😍👌\nAnd nisha u were truly amazing ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Mary Ruth M. Diaz",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had such a great experience with Baby at Impressions Salon in Karama. She really took her time to analyze my hair — she even explained that my previous haircut and my hair color was uneven. She fixed everything so beautifully. My color is now even, enhanced, and looks so much healthier. My hair is soo shiny and straight I couln’t be more happier😍\n\nShe spent almost 4 hours working on my hair in between treatments, and her patience and skill really showed. I also had a 1-hour massage (thanks to sister Leshkmi) that relieved all my sore muscles, especially from my neck down to the center of my upper back. I walked out feeling relaxed, light, and super satisfied. Massive relief from this full body massage😍\n\nThank you, Baby and Lekshmi for the amazing service. Highly recommended!❤️❤️❤️",
+   "owner_reply": "Thank you for your lovely feedback! We’re so glad you’re happy with our work and look forward to seeing you again soon ✨💖"
+  },
+  {
+   "author": "Ruth Mbambu",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Amazing services by staffs in impression salon 🥰  I really loved my eyebrows, microshading with lashes . it’s so flawless looking and perfect 😍 Also Haircut and Makeup up is best . Thanks to all staffs and price is best ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Melani Cool",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Best salon for Hair and nails extension . Staffs are very polite and very professional . Also new korean spa is relax with massage . Staff gloria and other india staff amazing work. Me very happy ❤️",
+   "owner_reply": "Thank you for your lovely feedback! We’re so glad you’re happy with our work and look forward to seeing you again soon ✨"
+  },
+  {
+   "author": "pavitha m",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had my keratin treatment done at this salon, and the staff ( Ms Gloria) did very well. The staff were professional and friendly to make me feel comfortable during the time.I highly recommend this salon for keratin treatment.",
+   "owner_reply": "Thank you so much for your wonderful review! We're delighted to hear that you had a great experience with our salon services and that our team made a positive impression. We truly appreciate your support and look forward to welcoming you back again soon!"
+  },
+  {
+   "author": "Diya Sandeep",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "Today i did my  Haircut and hair styling again with Ms.Glory, I'm in love with my hair and it's a fantastic experience at impressions salon! The soft gel nails service was top-notch with Ms. Nisha, and my nails came out absolutely great. The attention to detail and overall atmosphere made it a truly enjoyable visit. I highly recommend this salon for anyone looking for exceptional hair ,nail ,facial & body massage . Can't wait to come back! Big thanks to impressions team!  ❤️",
+   "owner_reply": "Thank you dear 💕"
+  },
+  {
+   "author": "Christine Pranita",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Got my nail extensions done here along with haircut and eyebrow threading by Lakshmi in branch 2 of this salon. Such good service by her. Very neat and good services. Professional service.",
+   "owner_reply": "Many thanks 😊 Ms. Christine . We are super excited to know you loved the services. Waiting to welcome you back soon 💕"
+  },
+  {
+   "author": "Sona Raj",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had a layered haircut done by Gloria, such an amazing experience! She was super friendly, sweet, and made me feel really comfortable. Loved how she took care of everything",
+   "owner_reply": "Thank you so much for your kind words! We’re thrilled to hear that you were happy with our work. Your support truly means a lot to us, and we can’t wait to welcome you back for another great experience 💖"
+  },
+  {
+   "author": "Sinsidha",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "It was a good experience at Impression Ladies Salon, they impressed me with their work. Seetha did my haircut 🥰 and it was really amazing♥️.She did exactly what I wanted. Also the customer service is very 😊 . I really recommend the salon to everyone and their prices are flexible for everyone.",
+   "owner_reply": "Thank you dear client for the lovely feedback 💕<br>Waiting to welcome you soon 💛💛💛"
+  },
+  {
+   "author": "Geetha Sundaram",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’m really satisfied with this salon. I need to mention the people Gloria, Roshini, Nisha made me comfortable and did the service excellent to me. I’m very much happy to rate 5star",
+   "owner_reply": null
+  },
+  {
+   "author": "saranya ks",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I would recommend 100% their services because turns excellent for me. I was dreaming for a hair color so long, It didn't work out from other salons i tried but here they did great consulting and service. Seetha staff was great. Everybody really friendly",
+   "owner_reply": "We are totally overwhelmed Ms.Saranya ❤️ thanks a ton for the positive feedback 🤗💕"
+  },
+  {
+   "author": "Kellyann Murzello",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Had a great experience here! The staff was so welcoming, and my hair turned out perfect and beautifully blended. The salon has a great atmosphere, and everyone was super friendly. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sandeep K",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "My wife and my teenage daughter had a Fantastic Hair , Nail and facial Experience ant Impression ladies salon.staffs greeted warmly , creating a welcoming atmosphere.\nFor the hair service,they opted for an organic keratin ,cut and color. The result was exactly what they  envisioned – a fresh, stylish look that I absolutely love. Highly recommend Impression salon 😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Nagamani petla",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Thank you 😊  everyone for making me look gorgeous 😍  I loved my hair color,cut and absolutely  blow dry. My o3 facial is so refreshing glow .  Also staffs are super professional and good services.  👍  highly  recommended 👌",
+   "owner_reply": null
+  },
+  {
+   "author": "Maureen Encarnacion",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Ate Glo is really a hair expert. She knows what your hair needs and what clients wants. Always satisfied with her work.",
+   "owner_reply": "Thank you so much for your kind words! We’re thrilled to hear that you were happy with our work. Your support truly means a lot to us, and we can’t wait to welcome you back for another great experience 💖"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    325,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    327,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    361,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/impression-ladies-salon/",
+ "buy_likelihood": 8,
+ "notes": "4.9 from 289, prints a full package price list (site uses it). Replies 50%.",
+ "display_name": "Impression Ladies Salon"
+}

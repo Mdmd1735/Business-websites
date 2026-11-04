@@ -1,0 +1,976 @@
+{
+ "slug": "noor-al-sabah-opticals-tr",
+ "name": "NOOR AL SABAH OPTICALS TR.",
+ "place_id": "ChIJl6zlQOtbXz4RhdPRNS4BMHI",
+ "category": "optician",
+ "category_weight": 12,
+ "area": "Al Majaz, Sharjah",
+ "address": "Al Mahatta - Hay Al Qasimiah - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3478581,
+  "lng": 55.3932285
+ },
+ "phone": "+971 50 296 1747",
+ "rating": 4.9,
+ "userRatingCount": 202,
+ "rating_distribution": {
+  "oneStar": 2,
+  "twoStar": 1,
+  "threeStar": 1,
+  "fourStar": 7,
+  "fiveStar": 191
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=NOOR%20AL%20SABAH%20OPTICALS%20TR.&query_place_id=ChIJl6zlQOtbXz4RhdPRNS4BMHI",
+ "website": "",
+ "categories": [
+  "Optician",
+  "Contact lenses supplier",
+  "Sunglasses store"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9:30 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9:30 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9:30 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9:30 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "4 to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9:30 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9:30 AM to 11 PM"
+  }
+ ],
+ "owner_description": "OPTICAL FRAME & LENSES , SUNGLASSES AND CONTACT LENSES SELLING",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "In-store pickup": true
+   },
+   {
+    "In-store shopping": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Quick visit": true
+   }
+  ],
+  "Payments": [
+   {
+    "Checks": true
+   },
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "affordable rates",
+  "variety of frames",
+  "affordable lens",
+  "stylish frames",
+  "frame selection",
+  "promptness",
+  "kind staff",
+  "attentive team",
+  "quality glasses",
+  "smooth process"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.3,
+ "reviews": [
+  {
+   "author": "Reynan Zuniga",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "No hesitation giving this shop 5 stars—honestly, they deserve 6! The quality of both the frames and lenses is top-tier, especially considering how much more affordable they are compared to other shops. I’ve referred several friends here now, and every single one has been amazed by the product quality and the level of service. Highly recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "قصي احمد",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "\"Highly recommended! I bought prescription glasses from them and they were absolutely fantastic",
+   "owner_reply": null
+  },
+  {
+   "author": "Ali Al Herek",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Fasil helped me fix my glasses completly change lenses for free, even after 10 month of me buying them from him, gentleman and helpful, definitely recommended!!.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jimi Osman",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I bought my and sister glasses from them, good quality and friendly workers would help you with anything. I received my glassed the next day. Highly recommended as trust that you are well taken care of.",
+   "owner_reply": "Thank you so much for your wonderful review and recommendation! We're delighted that you and your sister had a great experience with us. It's great to hear that you were happy with the quality of your glasses, our friendly team, and our quick next-day delivery. Your trust and support mean a lot to us, and we look forward to taking care of all your eye care needs again in the future!"
+  },
+  {
+   "author": "Denzil Fernandes",
+   "rating": 4,
+   "when": "3 weeks ago",
+   "text": "Excellent service, prompt delivery and jovial reception from staff. Expect good and detailed assessment on your 👓",
+   "owner_reply": null
+  },
+  {
+   "author": "Athira Anil",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Excellent customer service and a great collection of frames and lenses. The team was professional, attentive, and guided me well throughout the process. Very happy with the final look and comfort of my glasses.",
+   "owner_reply": "Thank you so much for your wonderful review! We're truly delighted to hear that you had a great experience with our team and found the perfect frames and lenses. It means a lot to know that our staff could guide you throughout the process and help you achieve both comfort and a look you love. Your kind words encourage us to continue providing the best service and quality products. We sincerely appreciate your support and look forward to welcoming you again soon!"
+  },
+  {
+   "author": "Halima Nabirye",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I love my the product and services perfectly fit for my eyes and my eye problm solved , customer care is top notch, from both the Female and male .. Prices are usual friendly. Keep up the good work.",
+   "owner_reply": "Thank you so much for your wonderful review! We're delighted to hear that our products fit your eyes perfectly and helped solve your eye problem. It means a lot to know that you had a great experience with both our male and female team members—we'll be sure to share your kind words with them. We're also happy that you found our prices reasonable. Your support and trust truly motivate us to continue providing the best products and service. We look forward to serving you again!"
+  },
+  {
+   "author": "Nageh Hosny",
+   "rating": 5,
+   "when": "Edited 3 months ago",
+   "text": "I had an excellent experience with Noor Al Sabah Opticals. The staff were professional and friendly, the prices were reasonable, and the product quality was outstanding. My order was ready in record time. Highly recommend this place for anyone looking for great optical products and service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdallah Alkhadam abdalgadier",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I recently visited Noor Alsabah and had, without a doubt, a perfect 5-star experience from start to finish. If you are looking for new glasses or exceptional eye care, this is the place to go.\nThe staff was incredibly welcoming, professional, and knowledgeable. They took the time to patiently guide me through the selection process, offering insightful recommendations without being pushy. They truly prioritized my comfort and ensured all my questions about lens options and insurance were answered clearly.  The selection of frames was excellent—they offered a fantastic mix of stylish, modern, and classic designs. My new glasses are absolutely perfect; the prescription is spot-on, and the quality of the lenses and frame is top-tier. I can tell the product is built to last.\nI highly recommend Noor Alsabah. It’s rare to find a place where the customer service, product quality, and expertise are all this exceptional. Everything was, quite literally, perfect. Thank you, Noor Alsabah, for a wonderful experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Reshma Pillai",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I  bought all my glasses n shades from here and the quality was excellent. Price was very reasonable.they are very considerate towards their customers.",
+   "owner_reply": null
+  },
+  {
+   "author": "Catherine",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "This is the only optical shop I have trusted in Sharjah for several years, and I just want to say thank you for the fast, easy, and smooth transaction. The owner and staff are kind and genuinely listen to customers’ needs, which is very important to me as someone who is meticulous about details. Overall, I am very happy with my new glasses and, for the record, this is already my fifth pair from Noor Opticals. Thank you again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Tahnoun Parvani",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\nLoved the experience! The glasses and optics are top-notch — super clear and comfortable to wear.\nThey’ve got a great collection of stylish frames too.\nService was quick, friendly, and professional.\nDefinitely my go-to place for eyewear from now on!",
+   "owner_reply": null
+  },
+  {
+   "author": "Joy Mercy",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "It's very nice",
+   "owner_reply": "Thank you"
+  },
+  {
+   "author": "Unicorn Talent",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Had a great experience. The staff patiently checked my eyes and guided me properly. Good service and friendly approach. Highly recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Khan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best place to get solution for your eye ware, they have best quality glasses with affordable rates and variety of frames which will give you more option to fit your need.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sogoud Kamal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve visited this optical shop three times for maintenance of my glasses, and every time the service has been excellent. Fasil was very friendly, professional, and easy to deal with. He was polite, attentive, and did an excellent job with my glasses. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Bashar Rababaa",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "had an amazing experience with Fasil! His passion and dedication truly stood out. He made the whole process so much more than just buying lenses. From start to finish, he went above and beyond to ensure I felt supported and informed. It’s rare to come across someone who genuinely cares this much about both the product and the customer experience. Thank you, Fasil, for making it such a positive and memorable journey!\n\nI definitely recommend them.",
+   "owner_reply": null
+  },
+  {
+   "author": "Saffan Mohammad",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I visited the optical shop recently and was assisted by Mr. Fasil, who made the whole process so easy and comfortable. He explained the lens options clearly and gave me honest suggestions that suited both my style and budget. Truly professional and friendly service — thank you, Fasil! I will definitely come back and recommend this place to my friends and family.",
+   "owner_reply": null
+  },
+  {
+   "author": "Faiza Azmat",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The service was very good and satisfactory and the products are very good quality.",
+   "owner_reply": "Thank you so much for your wonderful feedback! We're delighted to hear that you were satisfied with our service and the quality of our products. Your support means a lot to us, and we look forward to serving you again soon!"
+  },
+  {
+   "author": "Jasim",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Had a great experience at this shop. Very good service, friendly staff, and quick support. Highly recommended 😊 👌 . Fasil 🤝",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarah Mughal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My child accidentally broke my spectacles and i was in urgent need of get them fixed. Fosil not only helped me finding the relevant frame, he also fixed the old glasses perfectly into the new frame. The fitting was excellent as it doesnt appear that we have reshaped the old glasses. Highly recommend his services.",
+   "owner_reply": null
+  },
+  {
+   "author": "shafeek pk",
+   "rating": 5,
+   "when": "Edited 10 months ago",
+   "text": "I had a great experience at Noor Al Saba Opticals in Sharjah. The customer service was excellent, and the staff were very friendly and helpful throughout my visit. They guided me perfectly in choosing the right frame and lenses. The shop is well-organized, and the overall service was truly satisfying. Totally a good experience — highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "aaru rawat",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I have bought 2 eyes glass today, the quality is very good",
+   "owner_reply": null
+  },
+  {
+   "author": "Krishna Pal",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I liked their work. Prompt in time",
+   "owner_reply": "Thank you for your kind review! We're glad you were happy with our work and timely service. We truly appreciate your support and look forward to serving you again!"
+  },
+  {
+   "author": "SURESHKUMAR Palliyana",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful experience at NOOR Al Sabah Optical Shop, located in Al Mahatta, Sharjah, and am so happy with my new glasses. The salesperson who assisted me was incredibly helpful and patient. They had a great eye for what would suit my face and their guidance made the frame selection process easy and fun.\nWhen I picked up my glasses, everything was perfectly fitted. My vision is so crisp and sharp now. It's clear that the staff at Noor Al Sabah Optical is knowledgeable and committed to quality. I will definitely recommend them to others and will be a repeat customer.",
+   "owner_reply": null
+  },
+  {
+   "author": "Teena Mariam",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have always visited Noor Al Sabah over the last 3-4 years and I have always been happy with the experience! The staff are incredibly professional and helpful, guiding me through the process of selecting the perfect pair of glasses. They offer a wide variety of frames and lenses to choose from, catering to all budgets and styles",
+   "owner_reply": "🙏🏻"
+  },
+  {
+   "author": "Azhar Rahza",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "We look for Polarised sun glasses. And its worth to buy here",
+   "owner_reply": "Thank you so much for your kind review !<br>Your satisfaction means a lot to us and truly appreciate your support<br>We look forward to serving you again soon!"
+  },
+  {
+   "author": "The Vantility",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Fasil was amazing and made it go smooth",
+   "owner_reply": null
+  },
+  {
+   "author": "yara osman",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very fast and p professional services",
+   "owner_reply": "Thank you for your kind feedback! We're glad you were happy with our fast and professional service. We truly appreciate your support and look forward to serving you again!"
+  },
+  {
+   "author": "Azeez AZio",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Great customer service and quality products",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1171,
+    1297
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/noor-al-sabah-opticals-tr/",
+ "buy_likelihood": 7,
+ "notes": "Only 11 photos, mostly product shots; rebuild with a photo shoot."
+}

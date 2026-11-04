@@ -1,0 +1,1264 @@
+{
+ "slug": "ganga-dance-company",
+ "name": "Ganga Dance Company - | Dance classes | Dance studio | Sharjah | Al Nahda",
+ "place_id": "ChIJMf7g4qRdXz4RVvTMcwiViRE",
+ "category": "dance studio",
+ "category_weight": 12,
+ "area": "Al Majaz, Sharjah",
+ "address": "Night To Night, Al Zarooni Building - A Block , Office No : 08 - near Ansar Mall - Hay Al Nahda - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3013168,
+  "lng": 55.3675455
+ },
+ "phone": "+971 58 853 4066",
+ "rating": 5,
+ "userRatingCount": 169,
+ "rating_distribution": {
+  "oneStar": 0,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 2,
+  "fiveStar": 167
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Ganga%20Dance%20Company%20-%20%7C%20Dance%20classes%20%7C%20Dance%20studio%20%7C%20Sharjah%20%7C%20Al%20Nahda&query_place_id=ChIJMf7g4qRdXz4RVvTMcwiViRE",
+ "website": "",
+ "categories": [
+  "Dance school"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 10 PM"
+  }
+ ],
+ "owner_description": "“ Welcome to [ Ganga Dance Company ] ,\nWhere dance education meets innovation,\nand our uniquely tailored classes promise an experience that goes beyond the ordinary.”",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "ganga dance company",
+  "pooja mam",
+  "dance moves",
+  "creative choreography",
+  "bollywood dance classes",
+  "teaching style",
+  "talented teacher",
+  "dedicated teacher",
+  "dancing class for kids",
+  "positive environment"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Maryam Desai",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "⭐⭐⭐⭐⭐\n\nGanga Dance Class is truly an amazing place to learn, grow, and enjoy dancing! ❤️‍🔥 Hemant Sir and Mayur Sir are incredible teachers who not only teach you amazing choreography but also constantly motivate you, push you to do better, and support you in every opportunity. Their dedication and encouragement make every class fun, energetic, and inspiring! A special appreciation to Pooja Ma’am for managing everything behind the scenes and making it all happen so smoothly. ❤️ The vibe, the teaching, the support, and the opportunities make this place truly special. So grateful to be a part of Ganga Dance Class. Couldn't recommend it enough! 💃🏻✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Anoop Ravi",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "We’ve had a wonderful experience with Ganga Dance Company. My daughter joined their Bollywood dance classes, and the growth we’ve seen in her skills and confidence has been truly impressive. One of the proudest moments for us was watching her perform a Bollywood routine at Global Village, the way she handled the stage with confidence was amazing to see.\n\nA heartfelt thanks to Hemant Sir and Mayur Sir for their dedication, encouragement, and supportive teaching style. They create a positive and energetic environment where children not only learn dance but also gain self-confidence and stage presence. I highly recommend Ganga Dance Company to parents looking for professional and inspiring dance training for their kids.",
+   "owner_reply": null
+  },
+  {
+   "author": "Suchiz VideoHub",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI’m delighted to give this dance class a 5-star recommendation! The teachers are incredibly supportive, encouraging, and dedicated to bringing out the best in every student. I’ve seen a remarkable improvement in my 8-year-old daughter’s dancing, and it has been wonderful to watch her confidence and skills grow.\n\nThe academy offers both basic and advanced-level training, and the instructors give individual attention to each child, providing personalized guidance and constructive feedback to help them improve.\n\nThey also offer excellent adult dance and Zumba classes, making it a great place for learners of all ages.\n\nI highly recommend this dance class to anyone who is passionate about dance. Join them and experience the difference for yourself!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sanu Samuel",
+   "rating": 4,
+   "when": "10 months ago",
+   "text": "I’m very happy with Ganga Dance Academy! I enrolled my kids for Bollywood dance classes, and the improvement I’ve seen has been amazing. The highlight was watching them perform at Global Village this evening— they did a fantastic job!\n\nA big thank you to Hemant Sir for his excellent guidance, patience, and leadership. He truly brings out the best in the kids and makes learning dance fun and exciting. Highly recommended for anyone looking for quality dance training for their children!",
+   "owner_reply": null
+  },
+  {
+   "author": "Laya Aneesh",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Excellent  and talented masters. Teaching kids very well and being friendly with them.\nMy daughter is very interested in this class.\nMy heartfelt thanks to hemand sir and mayur sir. We love your team❤️👌🙏👍🥰.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarada Tamang",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My daughter, Samaya who is eight years old, is in great hands with Mr. Hemant Gurkha and Ms. Pooja Gurkha. The way Mr. Hemant pushes his students to go beyond their limits while maintaining discipline seems like a fantastic approach, especially for someone as young as Samaya. It is so exciting to see her grow and learn new moves so quickly. The dedication of Mr. Hemant really shines through, and it’s great to see how well Ms. Pooja manages everything behind the scenes, too.\nI am incredibly proud to watch Samaya develop her dancing skills, and I’m sure she’ll continue to thrive under such thoughtful guidance. Here's to Ganga Dance Company reaching even greater heights!",
+   "owner_reply": null
+  },
+  {
+   "author": "Meghana Sudeep",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Thank you to the Ganga Dance Group for providing the opportunity to perform in the global village. Mr. Hemant, your kindness and care for the children create a safe environment, making it easy for us to send our child to your dance class. Our child had stage fright and was nervous about performing, but your encouragement and support helped her gain confidence on stage. We are truly grateful to see her shine. Thank you so much, and God bless you!",
+   "owner_reply": null
+  },
+  {
+   "author": "biolin blumi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Our experience with Ganga Dance Company has been amazing! My daughter looks forward to every class and is more enthusiastic about dance than ever. Sir Hemant and Pooja Mam are exceptional teachers who truly care about their students. They provide a positive, supportive environment that fosters growth and confidence. We are so grateful for everything they've done for my daughter. I would wholeheartedly recommend Ganga Dance Company to any parent looking for a wonderful dance experience for their child.",
+   "owner_reply": null
+  },
+  {
+   "author": "Dipak Desai",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Ganga Dance Company !!\nWonderful Place for Young Dancers!!\n\nWe are grateful to Hemant sir & Pooja Mam for incredible experience provided to my 8-year-old daughter Saloni. Hemant sir is not just highly talented but also incredibly nurturing, ensuring that every child feels valued and encouraged. They have a unique way of balancing discipline with fun, which has helped my daughter to grow both in her dance steps and confidence.\n\nThe progress we’ve seen in her is remarkable, and she looks forward to every class with excitement. The academy fosters a positive and creative environment where children can express themselves freely while learning the technicalities of dance.\n\nThey provide kids various platforms to perform such as global village shows, cricket stadium shows, etc.. which is just simply amazing !!\n\nWe highly recommend Ganga Dance TV Compnay to any parent looking for a professional, supportive, and inspiring place for their child to learn dance. It’s truly a second home for young dancers!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Virginia Fernandes",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Here’s a polished and warm Google review you can post:\n\n🌟🌟🌟🌟🌟\nGanga Dance Company is truly amazing!\n\nMy daughter absolutely loves going for her dance classes here. The environment is positive, energetic, and so encouraging for kids. A special mention to Hemant Sir, who is incredibly patient, talented, and dedicated. His way of teaching keeps the children motivated and excited for every class.\n\nI’ve seen a wonderful improvement in my daughter’s confidence, rhythm, and overall performance. Highly recommend Ganga Dance Classes to anyone looking for a professional and joyful dance learning experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Deepshikha Rawat",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Dear Hemant Sir and Pooja Ma'am,\n\nI wanted to take a moment to express my deepest gratitude for the incredible impact you’ve had on FAIRY. Your dedication, passion, and guidance have not only helped her develop as a dancer but also as a person. The way you nurture her confidence, patience, and work ethic truly speaks volumes about the kind of mentor you are. We are so thankful for your support and encouragement, and we are thrilled to see FAIRY grow under your expert coaching. Thank you for inspiring her to reach new heights in dance.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mahesh Baboo",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Outstanding Dance Training at Ganga Dance Company with Hemant Gorkha!\n\nI cannot express enough gratitude for the incredible experience my daughter has had at Ganga Dance Company. From the moment we enrolled her, we knew we had made the right choice. The studio offers a vibrant, supportive, and inspiring environment where students are encouraged to express themselves through dance while developing discipline and confidence.\n\nA special mention to her dance instructor, Hemant Gorkha, whose dedication and passion for teaching are truly remarkable. He has a unique ability to connect with students, making learning both enjoyable and challenging. His patience, technique, and personalized approach have significantly improved my daughter’s skills and confidence in dance. Whether it’s classical, contemporary, or freestyle, Hemant ensures that each student gets the attention they need to grow as a dancer.\n\nThe professionalism, energy, and warmth at Ganga Dance Company make it an exceptional place to learn. I highly recommend it to anyone looking for top-quality dance training. Thank you, Hemant Gorkha, for your unwavering support and guidance—you are a fantastic mentor!\n\n⭐⭐⭐⭐⭐",
+   "owner_reply": null
+  },
+  {
+   "author": "Drashti Modha",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "We are very happy to got nice choreography form hemant sir thank you to give my kids this opportunity so happy and big thank to you and pooja ma’am 🙏great job keep it up thank you 🤩",
+   "owner_reply": null
+  },
+  {
+   "author": "Sumija Sajjad",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "A huge thank you to Hement  for bringing energy, passion, and joy to everything he does. His dedication and patience are unmatched, and he always pushes us to be our best while making sure we enjoy every step. He truly makes our events peppy, fun, and unforgettable! We’re so lucky to have his guidance and support throughout this journey. thank u ganga dance company ,thanks alot.",
+   "owner_reply": null
+  },
+  {
+   "author": "Vandita Singh",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "My favourite choreographer ever. He is the BEST. His dance is perfect 😻\nHe is very down to earth personality.\nYou'll be happily learning dance from him.♥️\n\nKitna bhi bolo kam hai..💕",
+   "owner_reply": null
+  },
+  {
+   "author": "Greeshma Narayanan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My daughter Aavantika has been learning dance from Hemant Sir at Ganga Dance Company, and I couldn’t be happier with her progress. Hemant Sir is incredibly patient, kind, and passionate about teaching. He makes every class enjoyable, and Aavantika always looks forward to it.\n\nWhat I truly appreciate is how the academy gives kids real opportunities to perform on stage. These experiences have really helped build her confidence and love for dance. I'm so grateful for the positive impact this place has had on her.\n\nHighly recommend Ganga Dance Company for anyone looking for a nurturing and inspiring dance environment!",
+   "owner_reply": null
+  },
+  {
+   "author": "Snehal Modi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "\"I had an amazing experience at GANGA DANCE COMPANY! The instructors Mr.Hemant gurkha n mrs.pooja gurkha are incredibly talented, patient, and passionate about teaching.\nEach class is well-structured, making it easy to learn new techniques while having fun. Whether you're a beginner or an experienced dancer, they create a welcoming and encouraging environment for everyone. The energy in the studio is always uplifting, and my daughter gained so much confidence in her  dancing.\nBig thanks to Hemant sir.\n\nHighly recommended for anyone looking to improve their skills and enjoy the art of dance!\"\n\nPhoto uploaded: my daughter Myra\nClick on 02/02/2025 @dubai cricket stadium performance by Ganga dance company.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lona Fernandes",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Hemanth sir is an incredible dance instructor! His dance institute creates a welcoming environment and challenges students to grow while having fun. Highly recommend for dancers of all levels!",
+   "owner_reply": null
+  },
+  {
+   "author": "Md Naim",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "incredible experience with Ganga Dance Company Hemant Sir the choreographer is truly exceptional best dance teacher i have seen in my whole life nd His talent and passion for dance shine through in every class nd he creates a positive encouraging atmosphere that motivates everyone to do their best. His friendly and approachable nature makes learning dance a delightful experience for all students he loves kids nd treated everyone same I highly recommend GDC to anyone looking to learn dance in a supportive and uplifting environment... Paisa wasool experience",
+   "owner_reply": null
+  },
+  {
+   "author": "gipi gopinathen",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Heartfelt gratitude to Mr. Hemant for his exceptional guidance and support as a dance teacher. Under his mentorship, my son had the remarkable chance to perform at Global Village, an experience that was truly transformative. Mr. Hemant's dedication, patience, and encouragement inspired all the students to shine their brightest. I am thrilled to see the opportunities provided for children to showcase their talents on such a significant platform. Thank you for igniting passion and motivation in the young dancers!  Amazing to see the transformation in my son. You are truly a star.",
+   "owner_reply": null
+  },
+  {
+   "author": "Neha Gupta",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I am thrilled to share my experience with Hemant, the incredible dance teacher at Ganga Dance Institute in Al Nahda, Sharjah. My daughter has been learning under his guidance, and the progress she has made is truly remarkable. Hemant's passion for dance is evident in every class, and his dedication to his students is unmatched.\n\nHis recent achievement as a finalist on Dance Deewane speaks volumes about his talent and hard work. It is inspiring to see him consistently grow in his career and reach new heights. Hemant's ability to motivate and nurture young dancers is exceptional, and I am confident he will continue to achieve great success.\n\nBest of luck to Hemant for all his future endeavors! Ganga Dance Institute is fortunate to have such a talented and committed teacher.",
+   "owner_reply": null
+  },
+  {
+   "author": "ishita banerjee",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Hemant Sir is very competent, extremely humble and caring towards all the kids. Highly recommend Ganga Dance Company 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Shahid Ahmed77",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience learning dance under Hemant Sir at Ganga Dance Company. His teaching style is so engaging and professional, making even the toughest steps feel easy to learn. He is patient, supportive, and ensures every student improves at their own pace. Highly recommend him and Ganga Dance Company for anyone looking to learn dance in a fun and welcoming environment!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Asha Ajayan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was an amazing night and proud moment as a parents!!!😍Thank you Sir Hemanth for giving this experience😊your dedication and guidance to her in this short time to make her this much confidently to stand first time in a such big stage🙏🙏🙏.. You have a gift for teaching and a passion for dance..Thank you for sharing both🙏🙏💐💐\nSame time I should appreciate the way you handling specially small kids ( level 1)👏👏🙏🙏💐",
+   "owner_reply": null
+  },
+  {
+   "author": "Nangsel kyra Family",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great place to enhance & explore your dancing skills . It’s been years and my daughter never stops surprising me with her new moves & she is improving a lot every single session. This place is such a friendly & welcoming vibes where you can always be heard & get a feedback whenever you desire.I  always love this place & people around specially Sir Hemant our adorable Bro is doing such a fantastic job, Creating that magic through his dance &guiding our little ones so beautifully which I can’t unnoticed it. ❤️\nAwesome place\nGreat choreographer\nBest mentor\nMuch love & respect always 😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Yogeswara Reddy",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Great improvement in my kid. She’s coping so well with the dance masters in Ganga dance company and started expressing herself in a great way through dance.",
+   "owner_reply": null
+  },
+  {
+   "author": "Arpita Maurya",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This dance class was a fantastic experience! The instructor was energetic and created a welcoming atmosphere for all skill levels. I appreciated the clear explanations of steps and the personalized attention. The music was upbeat and motivating, making each session fly by. I left feeling energized, more coordinated, and with a genuine love for the dance style. Highly recommend this class for anyone looking to have fun, get fit, and learn something new!",
+   "owner_reply": null
+  },
+  {
+   "author": "THAZNEEM SAJEED",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Hemant Sir is a very hardworking, talented, and optimistic choreographer. He is very dedicated to his students and understands every members potential. I am really grateful to be trained under him and definitely recommend him. 🙏😊",
+   "owner_reply": null
+  },
+  {
+   "author": "muvisha ajay",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The most talented choreographer out there!! Mentored us so well and made us win in the inter-university dance competition🫶🏾",
+   "owner_reply": null
+  },
+  {
+   "author": "Sahil Ks",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Absolutely amazing experience!\nThe energy, talent, and passion in this GANGA DANCE COMPANY are on another level. Every performance is full of life, and you can tell how much effort goes into making it perfect.\n\nBig shoutout to hemant bhai not just an incredible dancer, but also a fantastic teacher and choreographer. They know how to bring out the best in everyone, and learning from them is both fun and inspiring.\n\nIf you love dance or just want to be part of something creative and exciting, this is the place to be. Highly recommend!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1072,
+    1440
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    468,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    512,
+    215
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    319,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    495,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    329,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    413,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/ganga-dance-company/",
+ "buy_likelihood": 7,
+ "notes": "Perfect 5.0 from 169, performs at Global Village; never replies on Google.",
+ "display_name": "Ganga Dance Company"
+}

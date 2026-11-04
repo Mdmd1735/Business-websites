@@ -1989,7 +1989,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/borbone-pizzeria-and-caffe-jlt/",
- "buy_likelihood": 6
+ "buy_likelihood": 5,
+ "notes": "Italian chain branch (two JLT sites); may have group marketing. Replies 23%.",
+ "display_name": "Borbone Pizzeria & Caffè JLT"
 }

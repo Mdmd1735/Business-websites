@@ -1,0 +1,30 @@
+{
+ "preset": "citrus-pop",
+ "theme": {"bg": "#FFFCF3", "surface_2": "#FFF0C2", "accent": "#7B2CBF", "accent_text": "#6820A8", "duo": "#E3CCF5", "busy": "#9D4EDD", "glow": "rgba(255,200,0,.3)", "band_bg": "#26103D", "band_accent": "#FFC300", "frame": "round", "hero_ratio": "4/3"},
+ "extra_css": ".hero-split .hero__slab{background:#FFC300}.ticker{background:#FFC300;color:#26103D}",
+ "brand": {"name": "Helen", "sub": "Beauty Salon · Al Nahda, Sharjah", "mark": "H", "footer_word": "Helen"},
+ "seo": {"title": "Helen Beauty Salon Al Nahda | Braids, Lash Extensions, Nails & Moroccan Bath, Sharjah", "description": "Helen Beauty Salon, Al Jabari Tower 2, Bukhara Street, Al Nahda, Sharjah: boho braids and hair extensions, lash fixing, nail extensions, pedicure, Moroccan bath and henna. Open until 11:30 PM. 4.8 from 340 reviews."},
+ "hero": {"variant": "split", "kicker": "Al Jabari Tower 2 · Bukhara Street · Al Nahda, Sharjah", "title_lines": ["Braids, lashes", "and nails worth", "the drive."],
+   "lede": "Boho braids and extensions, lash fixing, nail extensions, pedicure, henna and Moroccan bath, with friendly prices that keep clients coming back for years. Open until 11:30 PM.",
+   "image": "img/hero.jpg", "image_alt": "Helen Beauty Salon's yellow storefront with braid posters", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Helen Beauty Salon, I'd like to book.",
+ "proof_note": "Replies to 97% of reviews",
+ "address_lines": ["Helen Beauty Salon, Al Jabari Tower 2", "Bukhara Street (13 St), Al Nahda, Sharjah"],
+ "ticker": ["Boho braids", "Hair extensions", "Lash fixing", "Nail extensions", "Pedicure", "Henna", "Moroccan bath"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Braids are", "title_dim": "our specialty.",
+   "items": [
+    {"name": "Braids & extensions", "feature": true, "img": "img/braider.jpg", "alt": "Braider holding a Helen Beauty Salon flyer", "desc": "Boho braids, knotless, twists and extensions.", "quote": "It's my third time going there, and I absolutely love it! Driving 45 min to 1 hr is so worth it.", "cite": "Aisha A."},
+    {"name": "Lash fixing", "desc": "Classic and volume lashes."},
+    {"name": "Nails", "img": "img/yellow.jpg", "alt": "Yellow nails with daisy art", "desc": "Extensions, gel and nail art."},
+    {"name": "Pedicure & spa", "img": "img/wash.jpg", "alt": "Wash and spa area", "desc": "Pedicure, Moroccan bath and henna."}
+   ],
+   "perks": ["Open daily till 11:30 PM", "Loyal clients for years", "Friendly prices"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan ahead", "title": "Braids take time.", "title_dim": "Book a quiet slot."},
+  {"type": "gallery", "images": [{"src": "img/night.jpg", "alt": "Salon storefront at night"}, {"src": "img/wings.jpg", "alt": "Glowing angel wings photo spot"}, {"src": "img/floor.jpg", "alt": "Salon floor with wig wall"}, {"src": "img/nails.jpg", "alt": "Blue evil-eye nail art"}, {"src": "img/party.jpg", "alt": "Team celebration"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Prices", "title": "Ask for today's price.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much are boho braids?", "Price for lash extensions?", "How long do knotless braids take?", "Can I come in tonight?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Bukhara Street,", "title_dim": "Al Nahda, Sharjah."}
+ ]
+}

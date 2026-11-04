@@ -1375,7 +1375,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/ifthar-restaurant-al-quoz/",
- "buy_likelihood": 8
+ "buy_likelihood": 7,
+ "notes": "Replies 70%, Ifthar brand since 2016 (may have other branches).",
+ "display_name": "Ifthar Restaurant (Al Quoz)"
 }

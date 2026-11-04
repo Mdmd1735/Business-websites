@@ -1,0 +1,740 @@
+{
+ "slug": "monroe-and-me-salon",
+ "name": "monroe & me beauty salon al barsha",
+ "place_id": "ChIJ3_86Tb5rXz4RvwOW5169TCo",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Barsha, Dubai",
+ "address": "Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+ "building": "The Iridium Building",
+ "location": {
+  "lat": 25.1187891,
+  "lng": 55.2074213
+ },
+ "phone": "+971 52 279 9039",
+ "rating": 4.7,
+ "userRatingCount": 386,
+ "rating_distribution": {
+  "oneStar": 29,
+  "twoStar": 2,
+  "threeStar": 2,
+  "fourStar": 6,
+  "fiveStar": 347
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=monroe%20%26%20me%20beauty%20salon%20al%20barsha&query_place_id=ChIJ3_86Tb5rXz4RvwOW5169TCo",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11 AM to 9 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11 AM to 9 PM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "eyelashes",
+  "russian manicure",
+  "nail technicians",
+  "lash lifting",
+  "hydra facial",
+  "keratin",
+  "eyelash extensions",
+  "gel manicure",
+  "welcoming atmosphere",
+  "blowdry"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.23,
+ "reviews": [
+  {
+   "author": "olga sungurova",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Amina did a beautiful job with my manicure! She’s gentle, attentive, and has a great eye for detail—my nails look so neat and elegant. She’s also lovely to chat with, which makes the experience even more enjoyable. The salon has a welcoming atmosphere and is a lovely place to relax. Highly recommend! 💅✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Jasmin Patel",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I have been coming to Monroe and Me for four years and always get my nails done with Jarkynai, she is amazing!! She’s such a perfectionist but really gentle when she does the manicure. I always give her a new design each time and she always does a beautiful job. My nails always get compliments from everyone and I love showing them off after I visit her. She is the best!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Alya A",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I’m obsessed with my nails thanks to Medina! She’s excellent at what she does and she’s super talented. Her passion really shows in her work and honestly she really deserves to get employee of the month and a pay raise as well. I’ve been getting compliments on my nails non stop, even from strangers! She really is the best and I recommend this salon for sure. Even the receptionist was so kind and I really love how they pay attention to details. Monroe & Me is my favorite salon now 💗💗💗",
+   "owner_reply": "Hi Ms. Alya Thank you so much for your wonderful review!<br>we truly appreciate your support and are glad to know you had a great experience with us. We look forward to serving you again.<br>"
+  },
+  {
+   "author": "T",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Tatiana is an amazing nail technician! She is very talented, professional, and pays attention to every little detail. Her work is always neat, beautiful, and perfect. She makes sure you’re happy with the results and provides such a lovely experience. I highly recommend Tatiana to anyone looking for beautiful nails! 💅🏻💕",
+   "owner_reply": null
+  },
+  {
+   "author": "Tati Grebneva",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I would like to express my deepest gratitude to Monro Beauty Salon and especially to my amazing stylist, Nastya! She is hands down the best stylist in Dubai. She has truly divine hands and is a master of her craft.For a long time, no one could get my hair color right, but Nastya worked absolute magic. She completely corrected my color and gave me a stunning, luxurious blonde that exceeded all my expectations. The quality of my hair feels incredible. I am beyond grateful for her talent and the salon's wonderful service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Manal AlManal",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had my nails done often by this saloon and today they really indeed exceeded my expectations. The ladies are so talented there, friendly and super professional. Thank to Jarkinay and Madina for the lovely nail art today",
+   "owner_reply": null
+  },
+  {
+   "author": "Raneem Abbass",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I like the clinic a lot. Quiet and professional. Noza & Cindy did a great job and I’m loving the results. The coffee there is also good and the products they use is amazing.",
+   "owner_reply": null
+  },
+  {
+   "author": "Diana Parry",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been getting my nails done here monthly for a while now and honestly, I leave happy and so in love with my nails every single time.\nBabi runs this place so well - she’s got stellar management skills and just makes everything feel welcoming and organized.\n\nJulia, Karina, and Madina are amazing nail techs! They’re super professional and have such a good eye for detail. Like, they really pay attention to what you want and make sure everything looks perfect.\n\nI genuinely look forward to my monthly nail appointments here. The work is always top quality and the whole experience is just great. If you’re looking for a reliable spot for your nails, definitely check this place out! 💅",
+   "owner_reply": null
+  },
+  {
+   "author": "Mila Shirin",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I loved it! The salon is spacious and smells wonderful, and the staff are kind and friendly. My nails have never looked so good; they're magnificent!",
+   "owner_reply": null
+  },
+  {
+   "author": "M",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Booked an appointment for gel removal + full set extensions with Jarkynai and I’m OBSESSED.\nShe has unreal attention to detail, I’m talking, work underneath the nail so there’s no “gap” between the tip and your real nail.\n\nTheir online booking platform is also very easy to use and their WhatsApp response time is fast.\n\nI’m obsessed with my nails🥹🥹 I’m definitely going back and highly recommend Jarkynai. I found my new nail tech in Dubai!\n\nI literally spent HOURS (no seriously, hours) searching for a nail salon + tech in Dubai who I could trust to preserve the health of my natural nails during removal and do a flawless job on a new set.\nEverywhere I looked, there was something seriously concerning in the google reviews which made me change my mind, or the nail work just looked sloppy.\nIf you’re overwhelmed like I was, I hope this review helps tip you over the scale 🩵",
+   "owner_reply": "Thank you so much for your wonderful review!<br>we truly appreciate your support and are glad to know you had a great experience with us. We look forward to serving you again.<br>"
+  },
+  {
+   "author": "Jamila Maher",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a HydraFacial at this salon and it was an amazing experience from start to finish. The staff were welcoming, professional, and made me feel comfortable throughout the treatment. My skin felt incredibly clean, hydrated, and glowing immediately afterwards. The salon was spotless and had a relaxing atmosphere. I highly recommend this place to anyone looking for high quality  treatment ask for Leslie . I'll definitely be coming back .",
+   "owner_reply": null
+  },
+  {
+   "author": "Angelina",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "got my nails done by Jarkynai, and she did an absolutely perfect job! 💅\nShe’s incredibly precise, detail-oriented, and made sure every nail looked flawless. The shape, polish, and finish were all spot on. You can really tell she takes pride in her work super professional and talented. I’m obsessed with how clean and elegant my nails turned out!",
+   "owner_reply": "Thank you so much for your wonderful review!<br>we truly appreciate your support and are glad to know you had a great experience with us. We look forward to serving you again.<br>"
+  },
+  {
+   "author": "Melodie Pascual",
+   "rating": 3,
+   "when": "5 months ago",
+   "text": "Had my lashes lift at Monroe, though the ladies are warm and friendly unfortunately the quality of work is not up there, maybe lashes is also not their specialty. I left with glue and tint still on my eye lids, which I mentioned after the session but it was just not cleaned properly, the chemical used has a sewege smell which I've not experienced with other places before and lastly my eyes got stung with the serum they used. Lastly, the lift is barely there, again maybe it's not their speciality, coz I found out after that the lady who worked on me is a nail technician. So even though I could've given the lowest rating I still give them a 3 for their attitudes.",
+   "owner_reply": null
+  },
+  {
+   "author": "Asmahan Ha",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I’ve been coming here for a long time.Best salon in Dubai. Every time I’m happy with results.Specially with my nails ,master Gulya and Cindy-they are amazing and qualified.Also I did my hair treatment (protein) with Juliet.I love coming here.Highly recommended",
+   "owner_reply": "Thank you so much for your wonderful review!<br>we truly appreciate your support and are glad to know you had a great experience with us. We look forward to serving you again.<br>"
+  },
+  {
+   "author": "Irina Kuznetsova",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amina from Al Barsha branch is absolutely the best! Her professionalism is 100 out of 100%\nI highly recommend her to everyone who’s into neat classy and complement-causing manicure 💓💓💓\nThank you Amina for the best experience each time🙏",
+   "owner_reply": null
+  },
+  {
+   "author": "Noran Abdalla",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "i love this place so much.. the work, the service, the cleanliness and the ambiance.. unparalleled!!!!\ni have been going there every month for over a year, i have never once had anything but and absolutely wonderful experience.\nstarting from their customer service and reception, Babi is so soweet and accommodating, accommodating and absolutely wonderful 🥹💜\nmy nail tech, Gulya is my girl.. her work is ✨beyond perfect✨, she my go to!\nfor the first time today i did the multi-services (lashes, manicure with exensions and padicure) i got different techs (madina and emily) and guess what.. they did not disappoint 💜\nmy nails are even better than i expected!\n\nthe lashes tech (Altynai) has such gentle hands and her work?? GORGEOUS!\n\n100000/10 would recommend you will not regret it 💜",
+   "owner_reply": null
+  },
+  {
+   "author": "A",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I am very happy with my nails they are exactly how I want it. Noza was my technician, she did an amazing job. I highly recommend the salon. Best experience and service is excellent.",
+   "owner_reply": null
+  },
+  {
+   "author": "Yasmine Kallah",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Did my manicure  and pedicure with Jarkynai. It was lovely. She listened to what I wanted, was showing me options for the colours and really took her time! Been coming here for a while and will definitely come back again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sara Mirza",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had the pleasure of visiting this nail salon for the first time, and I couldn't be more impressed! The Russian manicure and pedicure were absolutely top-notch—precise, detailed, and incredibly thorough. The technician took her time to ensure everything was perfect, from cuticle care to nail shaping, and the results were flawless. The salon itself was clean, welcoming, and had a relaxing atmosphere. I felt pampered from start to finish. I will definitely be returning and highly recommend this place to anyone looking for a high-quality nail experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Guney Abbaszade",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Madina is the best technician in UAE in my opinion as I’m living in Dubai more than 20 year\nAnd for pedicure Javeria she is so lovely and very good in pedicure love her work",
+   "owner_reply": "Thank you so much for your wonderful review!<br>we truly appreciate your support and are glad to know you had a great experience with us. We look forward to serving you again.<br>"
+  },
+  {
+   "author": "Bambi Ekong",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Officially THE BEST nail salon in Dubai. My previous mini French manicure (thin line) lasted 10 weeks!!! I refuse to do my nails abroad so waited it out until I got back to Dubai. They’re that good. They do the best Russian manicures they are so elegantly thin you’ll never accept thick gel nails again. Try ‘leveling’ too to help grow out your natural nails and prevent your manicures chipping. All nail technicians are very qualified and precise and you can even have a back/shoulder massage whilst upgrading your nail situation. Manicures and pedicures can be done at the same time to save you time. The Al Barsha location serves me well as I live on the Palm, otherwise their downtown shop is conveniently located too.\nTry it, they nail it when it comes to mani-pedis.",
+   "owner_reply": null
+  },
+  {
+   "author": "Meera Alkaabi",
+   "rating": 1,
+   "when": "2 weeks ago",
+   "text": "I was a regular at this salon, and last week I had the most horrible experience with the receptionist, which put me and the staff and almost everyone at the salon at an awkward position. She was trying to cause drama between me and the staff and ruined the whole experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sonia O",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I did my keratin, gel manicure and pedicure, waxing and eyebrows here.. So far the  best experience I had. The staff is very professional and efficient at their work. Special shout out to Aram who did my hair keratin, Nargis who did my nails and the girls who did my waxing and eyebrows. Good job guys.\nKeep it up. 5 star from me.. See you soon ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Sama . S",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "I’ve been to this salon before and never had issues, but this time was honestly awful. Two weeks ago, I got a wavy blowout and the stylist used a straightener on insanely high heat (300–350°C) to curl my hair. I asked for heat protectant and she said, “It’s too late, your hair is dry and the curls won’t hold.” That makes zero sense — protectant can be used on dry hair. She didn’t understand anything I was saying in English and only spoke Russian, so I couldn’t even communicate with her properly. She curled from near my scalp, and I could literally smell my hair burning. Now my hair is fried, smells burnt even after washing, and I have split ends halfway up. The curls didn’t even last. I’m genuinely upset. Be careful who you book with.",
+   "owner_reply": null
+  },
+  {
+   "author": "Zharkyn Mukambetova",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "I had a very disappointing experience on 18.08.2025 at your salon. I had a confirmed booking close to 6:30 PM, but upon arrival, the manager (Babi) informed me that her shift was ending at 7 PM and asked me to pay in advance before any service was done. She also mentioned that the salon would close in 10 minutes, even though my appointment had been accepted for this time.\n\nIt was unprofessional to rush the service and create discomfort for both clients and staff. If the salon closes at 7 PM, bookings should not be accepted so close to closing time. As a customer, I expect respect for my booking, and as an employer, you should also respect your staff by not forcing them to work overtime unnecessarily.And also Babi was telling me that I should not worry about staff because they are working over time every day. She doesn’t even know that saloon is in G floor she keeps telling me that saloon in first floor,her English was very bad and even her Russian language was in same level.\n\nI kindly request you to review your booking system and management approach to ensure better customer experience in the future.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jeannine Schunke",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I visited Monroe & Me salon Al Barsha & can absolutely highly recommend Jarkynai who exceeded my expectations on shape & attention to detail with my nails … WOW 🤩 WOW 🤩 WOW 🤩 will defo be back Jarky … thank you 🙏🏻❤️🙏🏻",
+   "owner_reply": "Thank you so much for your wonderful review!<br>we truly appreciate your support and are glad to know you had a great experience with us. We look forward to serving you again.<br>"
+  },
+  {
+   "author": "maha soleman",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amazing work by Anastasia! ❤️ My hair feels so soft, smooth and shiny after the protein treatment. Highly recommended! ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Shanvay Bangash",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I’ve been coming here for around 3 years. Best service. All the technicians are kind and talented. I’ve done many many sets from here and have never been disappointed. 10/10 service. Beautiful nails everytime.",
+   "owner_reply": "Thank you so much for your wonderful review!<br>we truly appreciate your support and are glad to know you had a great experience with us. We look forward to serving you again.<br>"
+  },
+  {
+   "author": "Lilia",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve been a regular for my hair for almost a year and just started doing lashes too. Kristina lash work was perfect, knows what she’s doing, fast and really sweet!",
+   "owner_reply": null
+  },
+  {
+   "author": "Kimberly Concepcion",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Did my lash lamination and Jamal did a fantastic job! Super pleased with the results and service. Love the aeshetic and service of the salon too. Highly recommend!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    878,
+    1536
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    768,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    512,
+    416
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    496,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/monroe-and-me-salon/",
+ "buy_likelihood": 6,
+ "notes": "Multi-branch nail studio with a Taplink page; replies 23%.",
+ "display_name": "Monroe & Me Beauty Salon"
+}

@@ -1,0 +1,30 @@
+{
+ "preset": "midnight-teal",
+ "theme": {"accent": "#7ED957", "accent_text": "#8FE36B", "on_accent": "#0A1A05", "duo": "#2C4A22", "busy": "#4F9A33", "glow": "rgba(126,217,87,.16)", "band_accent": "#3F8A2A", "display": "\"Syne\",system-ui,sans-serif", "google_fonts": "family=Syne:wght@600;700;800&family=Figtree:wght@400;500;600&family=Cairo:wght@700", "dw": "800"},
+ "brand": {"name": "Traffic", "sub": "Café · Karama", "mark": "T", "footer_word": "TRAFFIC"},
+ "seo": {"title": "Traffic Café Karama | مقهى ترافيك | Shisha, Coffee & Arabic Food, Khalid Bin Al Waleed Road", "description": "Traffic Café, Hamsa Building, Khalid Bin Al Waleed Road, Al Karama: long-lasting shisha, specialty coffee, Arabic grills, salads, pizza and manakish, fresh juices and fruit platters. Open 10 AM to 3 AM. 4.6 from 625 reviews."},
+ "hero": {"variant": "full", "ar_name": "مقهى ترافيك", "kicker": "Hamsa Building · Khalid Bin Al Waleed Road · Karama", "title_lines": ["Slow down.", "Stay till 3 AM."],
+   "lede": "A spacious lounge with long-lasting shisha, specialty coffee, Arabic grills, pizza and manakish, fresh juices and fruit platters, open from 10 AM until 3 AM.",
+   "image": "img/hero.jpg", "image_alt": "Traffic Café lounge with green booths and curved ceiling lights", "secondary": {"label": "Menu", "href": "#menu"}},
+ "cta_label": "Reserve on WhatsApp", "cta_text": "Hi Traffic Café, I'd like to reserve a table.",
+ "proof_note": "625 reviews · replies to 53%",
+ "address_lines": ["Traffic Café, Hamsa Building", "Khalid Bin Al Waleed Road, Al Karama, Dubai"],
+ "ticker": ["Shisha", "Specialty coffee", "Arabic grills", "Manakish", "Fresh juices", "Fruit platters", "Open till 3 AM"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "On the menu", "title": "Coffee, shisha", "title_dim": "and good food.",
+   "items": [
+    {"name": "Shisha", "feature": true, "img": "img/shisha.jpg", "alt": "Shisha pipe on the table", "desc": "Long-lasting, smooth and flavourful.", "quote": "The atmosphere was great, the hookah was smooth and flavorful, and the food was honestly delicious.", "cite": "A Zami"},
+    {"name": "Arabic grills", "img": "img/grill.jpg", "alt": "Mixed grill platter", "desc": "Mixed grills, kebabs and mezze."},
+    {"name": "Salads & mains", "img": "img/salad.jpg", "alt": "Greek salad", "desc": "Fresh salads, pasta and sandwiches."},
+    {"name": "Fresh juices", "img": "img/juice.jpg", "alt": "Fresh orange juice", "desc": "Juices, mocktails and coffee."},
+    {"name": "Fruit platters", "img": "img/fruit.jpg", "alt": "Colourful fruit platter", "desc": "Big platters for sharing."}
+   ],
+   "perks": ["Open daily 10 AM – 3 AM", "Spacious lounge", "Vegetarian options"]},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Your hosts", "title": "Beza and Sogun.", "items": [{"name": "Beza", "count": 6, "role": "Host"}, {"name": "Sogun", "role": "Host", "quote": "She was very friendly, professional, and attentive throughout our visit.", "cite": "Ahmed A."}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Traffic Café by day", "wide": true}, {"src": "img/night.jpg", "alt": "Traffic Café at night", "wide": true}, {"src": "img/pasta.jpg", "alt": "Creamy pasta", "wide": true}, {"src": "img/lounge.jpg", "alt": "Lounge with curved lights"}, {"src": "img/hummus.jpg", "alt": "Hummus plates", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "reserve", "eyebrow": "Reserve", "title": "Coming tonight?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I reserve a table tonight?", "What shisha flavours do you have?", "Do you show the football?", "Can you host a group of 10?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Khalid Bin Al Waleed Road,", "title_dim": "Karama."}
+ ]
+}

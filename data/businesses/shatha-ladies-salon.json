@@ -963,7 +963,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/shatha-ladies-salon/",
- "buy_likelihood": 7
+ "buy_likelihood": 6,
+ "notes": "690 reviews; replies 13%. Kerala clientele.",
+ "display_name": "Shatha Ladies Salon"
 }

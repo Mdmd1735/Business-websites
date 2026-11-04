@@ -1,0 +1,37 @@
+{
+ "preset": "ocean-wash",
+ "theme": {"accent": "#1D3F9E", "accent_text": "#1A378A", "surface_2": "#DFE6F5", "duo": "#C3D0EE", "busy": "#3B5BC9", "band_bg": "#0B1A3D", "band_accent": "#F2C14E", "dcase": "none", "dw": "800", "frame": "round", "hero_ratio": "4/3"},
+ "extra_css": ".ticker{background:#F2C14E;color:#0B1A3D}",
+ "brand": {"name": "Kodiyal", "sub": "Mangalorean Restaurant · Al Nahda", "mark": "K", "footer_word": "KODIYAL"},
+ "seo": {"title": "Kodiyal Restaurant Sharjah | Authentic Mangalorean Food, Ghee Roast & Fish Thali, Al Nahda", "description": "Kodiyal Restaurant, Al Wazir building behind KFC, Al Nahda, Sharjah: Mangalorean coastal cuisine with prawns and crab ghee roast, neer dosa, golibaje, fish thali from AED 16 and biryani from AED 14. Breakfast to dinner. 4.8 from 436 reviews."},
+ "hero": {"variant": "split", "ar_name": "مطعم كوديال", "kicker": "Al Wazir Building · Behind KFC · Al Nahda, Sharjah", "title_lines": ["Mangalore,", "on a plate."],
+   "lede": "Authentic Mangalorean coastal cooking: crab and prawn ghee roast, neer dosa, golibaje and Mangalore buns, fish thali and biryani, from breakfast at 7 AM until late.",
+   "image": "img/hero.jpg", "image_alt": "Mangalorean fish thali with papad, curries and rice", "secondary": {"label": "Menu", "href": "#menu"}},
+ "cta_label": "Order on WhatsApp", "cta_text": "Hi Kodiyal, I'd like to order.",
+ "proof_note": "4.8 from 436 reviews",
+ "address_lines": ["Kodiyal Restaurant, Al Wazir Building", "Behind KFC, Al Nahda, Sharjah"],
+ "ticker": ["Ghee roast", "Neer dosa", "Golibaje", "Mangalore buns", "Fish thali", "Prawns mango curry", "Biryani"],
+ "sections": [
+  {"type": "menu", "id": "menu", "nav": "Menu", "eyebrow": "From our menu", "title": "Coastal classics,", "title_dim": "honest prices.",
+   "categories": [
+    {"name": "Seafood specials", "items": [{"name": "Jengi masala (crab)", "price": "AED 25"}, {"name": "Jengi masala, big crab", "price": "AED 45"}, {"name": "Prawns mango curry", "price": "AED 28"}, {"name": "Prawns / bendi", "price": "AED 28"}, {"name": "Marwai sukka (clams)", "price": "AED 20"}, {"name": "Yetti sukka (prawns)", "price": "AED 25"}]},
+    {"name": "Starters", "items": [{"name": "Chicken 88", "price": "AED 22"}, {"name": "Chicken kadipatta", "price": "AED 18"}, {"name": "Guntoor chicken", "price": "AED 18"}, {"name": "Prawns deep fry", "price": "AED 25"}, {"name": "Squid pepper dry", "price": "AED 25"}, {"name": "Silver fish / natoli rawa fry", "price": "AED 14"}]},
+    {"name": "Biryani & thali", "items": [{"name": "Chicken biryani", "price": "AED 14"}, {"name": "King fish biryani", "price": "AED 25"}, {"name": "Mutton biryani", "price": "AED 22"}, {"name": "Chicken or fish thali", "desc": "Weekdays, 12 – 3:30 PM", "price": "AED 16"}, {"name": "Veg thali", "desc": "Weekdays, 12 – 3:30 PM", "price": "AED 15"}]}
+   ],
+   "note": "From the restaurant's printed menu. Ghee roasts and breakfast items on request."},
+  {"type": "services", "id": "dishes", "nav": "Dishes", "eyebrow": "What people order", "title": "Tastes like", "title_dim": "home.",
+   "items": [
+    {"name": "Prawns & crab ghee roast", "feature": true, "img": "img/roast.jpg", "alt": "Chicken ghee roast on banana leaf", "desc": "Fiery, buttery and the dish Kodiyal is known for.", "quote": "Amazing food! It truly felt like home. We ordered the Crab Ghee Roast, Prawns Masala, and Prawns Mango Curry.", "cite": "Fiona P."},
+    {"name": "Fish fry", "img": "img/fishfry.jpg", "alt": "Rava fish fry on banana leaf", "desc": "Rava-crusted and crisp."},
+    {"name": "Neer dosa & buns", "img": "img/neer.jpg", "alt": "Neer dosa", "desc": "Soft neer dosa, Mangalore buns and golibaje."},
+    {"name": "Fish thali", "img": "img/thali.jpg", "alt": "Fish thali with fried fish and rice", "desc": "Weekday lunch thali with fish fry."}
+   ],
+   "perks": ["Open from 7 AM", "Breakfast, lunch & dinner", "Outdoor catering", "Bulk orders"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Get a table", "title": "Lunch rush at 1.", "title_dim": "Come early."},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Kodiyal storefront in blue", "wide": true}, {"src": "img/spread.jpg", "alt": "Biryani and curries"}, {"src": "img/chicken.jpg", "alt": "Chicken fry"}, {"src": "img/masala.jpg", "alt": "Fish masala"}, {"src": "img/dosa.jpg", "alt": "Masala dosa"}, {"src": "img/buns.jpg", "alt": "Idli on banana leaf"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "order", "eyebrow": "Order", "title": "Craving Mangalorean?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Is crab ghee roast available today?", "Do you deliver in Al Nahda?", "Can you cater a party?", "What's on the breakfast menu?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Behind KFC,", "title_dim": "Al Nahda, Sharjah."}
+ ]
+}

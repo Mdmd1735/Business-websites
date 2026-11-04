@@ -1135,7 +1135,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/lamasat-al-maleka-beauty-lounge/",
- "buy_likelihood": 8
+ "buy_likelihood": 8,
+ "notes": "Replies 97%, open till 12:30 AM, Arabic clientele; posts promos.",
+ "display_name": "Lamasat Al Maleka Beauty Lounge"
 }

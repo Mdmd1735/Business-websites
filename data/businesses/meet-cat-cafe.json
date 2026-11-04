@@ -2063,7 +2063,8 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "skipped",
  "site_url": "https://mdmd1735.github.io/Business-websites/meet-cat-cafe/",
- "buy_likelihood": 7
+ "buy_likelihood": 7,
+ "notes": "Already has a website (meetcatcafe.com)."
 }

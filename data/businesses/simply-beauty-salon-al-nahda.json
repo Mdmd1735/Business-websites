@@ -1,0 +1,960 @@
+{
+ "slug": "simply-beauty-salon-al-nahda",
+ "name": "Simply Beauty Salon & Spa - Al Nahda (Al Buhaira Bldg.)",
+ "place_id": "ChIJR0xwLfJdXz4Rhz-hnaHA3hM",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Nahda, Sharjah",
+ "address": "Bldg. (New Quick Supermarket, Al Buhaira Towers - Al Nahda St - near Sahara Center - Hay Al Nahda - Al Qusais Industrial Area - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3007225,
+  "lng": 55.380521
+ },
+ "phone": "+971 6 531 3238",
+ "rating": 4.8,
+ "userRatingCount": 313,
+ "rating_distribution": {
+  "oneStar": 10,
+  "twoStar": 2,
+  "threeStar": 5,
+  "fourStar": 14,
+  "fiveStar": 282
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Simply%20Beauty%20Salon%20%26%20Spa%20-%20Al%20Nahda%20(Al%20Buhaira%20Bldg.)&query_place_id=ChIJR0xwLfJdXz4Rhz-hnaHA3hM",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 11 PM"
+  }
+ ],
+ "owner_description": "At Simply Beauty Salon & Spa, we offer a comprehensive range of services from hair treatments and nail care to beauty and wellness. Our skilled and highly trained hairstylists, technicians, and therapists are dedicated to delivering top-tier service with an unwavering commitment to quality and affordability.\n\nWith 21 branches located across the country, we ensure that premium beauty services are always within reach.",
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "eyebrow threading",
+  "hair protein treatment",
+  "accommodating staff",
+  "moroccan bath",
+  "relaxing atmosphere",
+  "hair color",
+  "waxing",
+  "neat nails",
+  "hair trim",
+  "clean salon"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "GISELLE BELARMA",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had my nails done today in preparation for my graduation tomorrow, and I am very happy with the service. The staff were friendly, professional, and attentive to detail. They took the time to ensure that my nails looked neat, elegant, and exactly how I wanted them.\n\nThe salon was clean and comfortable, and the overall experience was relaxing. I especially appreciate the care and effort put into making my nails look perfect for such an important occasion.\n\nThank you for helping me feel confident and ready for my beautiful Celebration tomorrow ate Rhea and ate Cathy! . I highly recommend your services and look forward to coming back again in the future. ⭐⭐⭐⭐⭐",
+   "owner_reply": "Dear Ms. Giselle,<br><br>Thank you so much for your wonderful 5-star review! We are truly honored to have been part of your preparation for such a special milestone. Congratulations on your graduation!<br><br>We’re delighted to hear that you enjoyed your experience and that our team made you feel comfortable, cared for, and confident for your celebration. Your kind words about the friendly service, attention to detail, and relaxing atmosphere mean so much to us. We will be sure to share your appreciation with Ms. Rhea and Ms. Cathy—they will be thrilled to know they helped make your day even more memorable.<br><br>Thank you for your recommendation and trust. We look forward to welcoming you back again soon!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Hiyaam Omar",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "My all time favorite beauty salon I used to go there with my girls hair cut specifically. Miss it so much\nIam sending this review from Saudi Arabia Riyadh\nSimply beauty u have to open ur branch here in Saudi Riyadh too.🥰🥰",
+   "owner_reply": "Dear Ms. Hiyaam,<br><br>Thank you so much for your lovely words! 🥰❤️ It truly warms our hearts to know that Simply Beauty holds such special memories for you and your girls. We miss welcoming you too! Your sweet suggestion about opening a branch in Riyadh means so much to us. Sending you lots of love from our team, and we hope to see you again soon! 💕<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Ash k",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful experience at Simply Beauty, Al Nahda. Ms.Arlene did my layer cut exactly the way I wanted — she listened carefully, was very friendly, and handled everything with great professionalism. She made me feel comfortable throughout, and I truly appreciate her skill and attention to detail.\n\nThe salon environment was clean and pleasant, which added to the overall good experience. Highly recommend Arlene and the team at Simply Beauty!",
+   "owner_reply": "Dear Ms. Ash,<br><br>Thank you for the lovely feedback. We're so glad to know you had a great experience at Simply Beauty, Al Nahda. Ms. Arlene will be happy to hear how much you appreciated her work and care. It's always our goal to make you feel comfortable and to deliver exactly what you’re looking for.<br><br>Looking forward to welcoming you again soon.<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Sandra Edward",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I went in for a haircut (Butterfly) and I absolutely loved it. Personal I feel like the price is a lil high but the service is very good. Friendly staffs. Clean and tidy environment. Loved it. Thankyou so much. I'll definitely come again.",
+   "owner_reply": "Dear Ms.Sandra,<br><br>Thank you for sharing such a thoughtful and honest review. We're truly happy to know you loved your Butterfly haircut and enjoyed our friendly service and clean, welcoming environment. Your kind words means so much to our team, and we sincerely appreciate your feedback  - it helps us to continue to grow and serve you better.<br><br>We're excited to welcome you back again soon for more beautiful moments with us.<br><br>Glamorously grateful, <br>The Simply Beauty Salon & Spa Team "
+  },
+  {
+   "author": "krista",
+   "rating": 3,
+   "when": "5 months ago",
+   "text": "The massage was okay and helped me relax after months of traveling, plus the location is convenient to my apartment. However, the nail service was highly disappointing. The clippers used weren't sharp enough for my cuticles, and my polish started chipping after only two days. To make matters worse, the staff held a loud meeting inside during my service. It was so noisy it completely ruined the spa atmosphere, and I actually had to ask the lady to close the door. Very disappointed.",
+   "owner_reply": "Dear Ms. Krista,<br><br>Thank you for taking the time to share your honest feedback with us. We're glad to hear that you found the massage relaxing and appreciated our convenient location.<br><br>We sincerely apologize that your nail service and the atmosphere during your visit did not meet your expectations. Your comments regarding the nail tools, the longevity of the polish, and the noise caused by the staff meeting are taken very seriously. This is not the experience we strive to provide, and we will address these concerns with our team to ensure better service and a more peaceful environment for all our clients.<br><br>We truly appreciate your feedback, as it helps us improve, and we hope to have the opportunity to provide you with the exceptional experience you deserve in the future.<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team."
+  },
+  {
+   "author": "Madeeha Kamran",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "I have taken their services in the past as well as recently for my daughter’s concert hairstyle.\n\nThank you soooooo much for such a lovely hairstyle Hairstylist Rita. My daughter was very happy & everyone loved her hair as well.\n\nThank you so much to all the staff for being so patient with my daughter & doing such a wonderful job ❤️ I will always remember this day & you guys.\n\nI also got her first ever haircut from them about 2 and half years back.\n\nOnce again, thank you for catering to my request on such urgent notice & for providing an extraordinary service.\n\n100% recommended, if you are looking for professional salon services in Al Nahda, Sharjah.",
+   "owner_reply": "Hi Madeeha! We are grateful that you took the time out to leave us a review. Your feedback helps us to improve service for everyone."
+  },
+  {
+   "author": "Safoora Junaidi",
+   "rating": 1,
+   "when": "7 months ago",
+   "text": "I was soo soo happy when I entered the salon the ambience looked soo classy and trapped me into thinking the services would be just like wise, but for putting over trust into the way the salon looked my services one after the other turned into night mares, who applied oil before waxing? I took a shower from home and went to the salon so that there’s no moisturiser on my body and the hair gets removed easily. My waxing is left incomplete bcoz of oil application, and then the threading part, what the actual hell?? My eyebrows are not done properly, I still put my trust in and asked for full face threading but god all the hair is left here and there and I feel soo disappointed so heart broken, Beth was getting mad at me bcoz I didn’t wanna go for face wax instead of threading, she just wanted to get rid of me and kept asking me to check in the mirror if I am okay, this is not how you handle your clients who put soo much trust in you, Im in this field too, I never accept this kind of behaviour and service from my staff, I want the management or the owner to kindly call me. I don’t want any refund or anything but I want to share my disappointment. Eid is day after tomorrow and my eyebrows are not even done properly…this is truly heat breaking 💔💔",
+   "owner_reply": "Dear Ms. Safura,<br><br>Thank you for your feedback, and we sincerely apologize if your experience was not as expected.<br><br>We understand how frustrating it can feel when a concern isn’t immediately addressed. While the issue was not raised during your service, corrective measures have been reinforced with our team to ensure every client receives full attention and care at all times. Simply Beauty Ladies Salon is committed to maintaining the same high standards across all branches.<br><br>We truly appreciate your understanding and hope to welcome you again for a smoother, more relaxing experience.<br><br>Thanks & Regards,<br>Simply Beauty Ladies Salon"
+  },
+  {
+   "author": "jhansi priya",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Visited here for a haircut. Had an amazing experience. The hairstylist Ms Arlene is very professional and did a great work. Ms Aira, the receptionist is very polite and attentive. Clean place.",
+   "owner_reply": "Dear Ms. Priya,<br><br>Thank you so much for your wonderful review! We’re delighted to hear that you had an amazing experience with us and that you loved your haircut.<br><br>Ms. Arlene will be truly happy to know her professionalism and great work made such a positive impression, and we’re equally grateful for your kind words about Ms. Aira’s polite and attentive service.<br><br>It also means a lot to us that you appreciated the cleanliness of our salon—we always strive to create a welcoming and comfortable environment for our clients.<br><br>We truly value your support and look forward to welcoming you back again soon!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Emy Varghese",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful pedicure experience! The staff was friendly and professional, and the salon was clean and welcoming. They paid great attention to detail and made sure I was comfortable throughout the entire process. My feet felt refreshed and looked amazing afterward. I’ll definitely be coming back and highly recommend their services to anyone looking for quality self-care. I will suggest again MJ",
+   "owner_reply": "Dear Ms. Emy,<br><br>Thank you so much for sharing your experience with us. We’re really glad to know you enjoyed your pedicure and felt comfortable and well taken care of throughout your visit. Your kind words for Ms. MJ are truly appreciated, and we’re happy she made your self-care time extra special. We look forward to welcoming you again soon.<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Saru Karki",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Staff Janica does her best always… her massage is amazing…. So is the receptionist and Shiela is best for doing eye brows….. I love the service in general no waiting at all",
+   "owner_reply": "Thank you so much for your wonderful feedback!  We’re delighted to hear that you enjoyed the amazing massage and eyebrow service. We’re also happy that our receptionist and smooth, prompt service made your visits even more enjoyable. Your continued support means so much to our entire team!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Nadia Latif",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing job as usual Ms Arlene ! Thanks for the patient understanding of my requirements and ure expertise!!!  Cheers ! Satisfied customer !!",
+   "owner_reply": "Dear Ms. Nadia,<br><br>Thank you so much for your kind words! We’re so glad you had another amazing experience with Ms. Arlene. Your satisfaction and trust mean everything to us. We can’t wait to welcome you back again soon!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Chaithu NB",
+   "rating": 1,
+   "when": "10 months ago",
+   "text": "I’m honestly disappointed with my recent experience at this salon. I had taken a manicure and pedicure package, which was explained to me as gel. At the reception, I was told that nail art would cost AED 15 extra, which I agreed to.\n\nHowever, once I went inside and showed a very simple design, the staff said they couldn’t do it. When I asked about the AED 15 nail art charge, they then changed the explanation and said AED 15 is only for ONE finger, which was never clearly mentioned earlier. This felt misleading and confusing.\n\nInstead of offering alternatives, they kept insisting that I choose from the colors they suggested, and the final color applied did not suit my skin tone at all. There was no professional guidance.\n\nOn top of this, I was not informed beforehand that there would be an additional charge for removing my previous nail paint. This was only told to me at the time of billing, which felt very unprofessional. Again, it’s not about the money — it’s about how the lack of transparency made me feel as a customer. I ended up paying for a service that I was not satisfied with, which is disappointing.\n\nThe only positive part of my visit was the threading service, which was done well.\n\nOverall, I feel the salon really needs to improve on clear communication, honest pricing, and customer satisfaction.",
+   "owner_reply": null
+  },
+  {
+   "author": "Maleesha Harischandra",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I went to Simply beauty Salone alnahda 2 today. Service is very good.Miss Chamindra Srilankan hair dresser did my hair cut. She was very good and kind. Result was very good. I love my appearance with this hair cut. Thank you Miss Chamindra.❤ and other staff members also very good. Thank you every one. 💐",
+   "owner_reply": "Dear Ms. Maleesha,<br><br>Thank you for your lovely 5-star review and for choosing Simply Beauty Salon & Spa. We're glad to know you loved your haircut and felt happy with your new look. Your kind words for Ms. Chamindra truly mean a lot - she will be so pleased to know her care and skill made your experience special. We also appreciate your warm mention of our entire team. <br><br>We look forward to welcoming you back again soon for more beautiful moments. <br><br>Glamorously grateful, <br>The Simply Beauty Salon & Spa Team "
+  },
+  {
+   "author": "Payal ninawe",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Absolutely loved the experience! The beauty parlour provides excellent service — the staff especially Ronalyn and Marilyn are friendly, professional, and really take the time to make you feel comfortable. Everything was clean, well-organized, and the results were amazing. Highly recommend this place to anyone looking for great service and a relaxing experience!",
+   "owner_reply": "Dear Ms. Payal,<br><br>Thank you for sharing such a beautiful review! We're truly delighted to know you loved your experience with us and felt comfortable and well cared for. Your kind words about our team - especially Ms. Roanalyn and Ms. Marilyn - mean so much. Their friendliness and professionalism reflect the heart of Simply Beauty. <br><br>We're grateful for your recommendation and can't wait to welcome you back for more relaxing and wonderful moments. <br><br>Glamorously grateful, <br>The Simply Beauty Salon & Spa Team "
+  },
+  {
+   "author": "Shamodi Vihara",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I have done hair cut, hair color and protein treatment. Ms. Arlene provided me all the services and she did a very professional job. I am very satisfied with her service and highly recommended for others as well",
+   "owner_reply": "Dear Ms. Shamodi,<br><br>Thank you so much for your wonderful feedback and for trusting Simply Beauty Salon & Spa with your haircut, hair color, and Bio Protein Treatment. We're truly delighted to know that you are very satisfied with your experience. <br><br>Ms. Arlene will be especially happy to hear your kind words. She always strives to deliver professional service, and it means so much to know her efforts made you feel confident and happy with your results. <br><br>Your recommendation is the greatest compliment we could receive. We can’t wait to welcome you back for another beautiful experience soon.<br><br>Glamorously grateful, <br>The Simply Beauty Salon & Spa Team "
+  },
+  {
+   "author": "Bella",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "Very good service. Nice place and good staff. Arlene and staff were very friendly and offered a great service.\nThank you team.❤💐",
+   "owner_reply": "Dear Ms. Chanchala,<br><br>Thank you so much for your lovely 5-star review! We're delighted to hear that you enjoyed our service, as well as the welcoming atmosphere of our salon.<br><br>A special thank you for recognizing Ms. Arlene and the team. Your kind words about their friendliness and great service mean a lot, and we will be sure to share your appreciation with them.<br><br>We truly value your support and look forward to welcoming you back again soon!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Hasnain Ali",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Hey 👋, good service I'll recommend...\nI wanna connect with you but qlthe what'sapp and contact are not working...",
+   "owner_reply": "Dear Hasnain, <br><br>Thank you so much for your kind words and recommendation! We’re delighted to hear that you enjoyed our service and appreciate your support.<br><br>We’re sorry to hear that you had trouble reaching us through WhatsApp and our contact number. Thank you for bringing this to our attention. Please feel free to send us a message through our social media channels, and our team will be happy to assist you.<br><br>We truly value your interest in connecting with us and look forward to welcoming you again soon!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Beverly Petate",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Great mani-pedi experience.The staff are courteous and well experienced in what they do. I like how neat looking my nails are after the service.",
+   "owner_reply": "Dear Ms. Beverly,<br><br>Thank you so much for your wonderful 5-star review! We’re delighted to hear that you enjoyed your mani-pedi experience with us.<br><br>It’s wonderful to know that our team’s courtesy and experience made a positive impression, and that you loved how neat and beautiful your nails looked after the service. Your kind words truly mean a lot to us.<br><br>We look forward to welcoming you back to Simply Beauty Salon & Spa again soon!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Miss G",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I did my hair color, manicure- pedi gel and eye brown tint and the service is exceptional. Ms Arlene is expert on Hair and so are the others. For sure I’ll be back for more services.\n#simplybeautyalnahda2",
+   "owner_reply": "Dear Ms.G,<br><br>Thank you so much for wonderful 5-star review. We're glad to know you enjoyed your hair color, gel manicure-pedicure, and eyebrow tint, and what you found our service exceptional. Your kind words for Ms. Arlene truly mean a lot. <br>We're also grateful for your appreciation of our team.<br><br>We can’t wait to welcome you back for more pampering soon.<br><br>Glamorously grateful, <br>The Simply Beauty Salon & Spa Team <br><br>"
+  },
+  {
+   "author": "Angeline Ilustre",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Had my protein treatment here today and I loved how it turned out! Ms. Arlene even guided me on how I should take care of my hair. I also loved the moroccan bath here. It is so calming and my body felt relaxed. Will definitely recommend it to my friends! 😊🤍",
+   "owner_reply": "Thank you so much for your beautiful review!  We’re delighted that you loved your protein treatment and Moroccan bath. A special thank you for recognizing Ms. Arlene’s care and helpful hair guidance. We’re so happy you left feeling relaxed and satisfied, and we truly appreciate your recommendation! <br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Shanu Perera",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "I have been a loyal customer at Simply Beauty Al Nahdha for 11 years, and I continue to be impressed by the exceptional quality of service and craftsmanship provided. This is truly a wonderful place for all ladies,\nSpecial recognition goes to Ms. Arlene and Ms. Ronaline for their outstanding service. Their professionalism, dedication to customer satisfaction, and commitment to quality make every experience truly exceptional.\n\nI highly recommend this place to anyone seeking top-tier service and excellence. 👌",
+   "owner_reply": "Dear Ms. Shanu,<br><br>Thank you so much for your loyalty and heartfelt review! We’re truly honored to have served you for 11 years. Ms. Arlene and Ms. Ronaline will be so happy to hear your kind words. It’s clients like you who inspire us to keep striving for excellence every day.<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Pallavi Kaler",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Simply salon very nice customer service and sweety ❤️\nThank you Marilyn 😌",
+   "owner_reply": "Dear Ms. Pallavi,<br><br>Thank you so much for your wonderful 5-star review! We're delighted to hear that you enjoyed our customer service and had a lovely experience with us.<br><br>A special thank you for recognizing Ms. Marilyn. She will be thrilled to know that her care and kindness made your visit so memorable. We truly appreciate your support and look forward to welcoming you back soon!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Sumaira Saeed",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "My experience with Simply Beauty has always been amazing.All thier staff is very friendly and caring. The hair protein treatment result was great as i have very dry hair and my scalp is extremely sensitive but  the result was really great as now my hair is soft straight and manageble.Since a year i am regularly coming to them for my hair color and Thanks to them i never had any complaints. I always leave satisfied",
+   "owner_reply": "Thank you so much for your heartfelt review!  We’re truly grateful for your continued trust over the past year. We’re delighted that you’re happy with your hair color and loved the results of your protein treatment. Knowing you always leave satisfied means so much to our entire team. We look forward to caring for you again soon! <br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "anvitha dinesh",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "I had a fantastic experience at this Salon getting my nail extensions. The staff was friendly, the salon was clean and stylish, and my nail technician ‘Angel’ did an amazing job. My nails look beautiful and natural, and I've received many compliments. Highly recommend this salon for top-notch nail services!",
+   "owner_reply": "Thank you so much for your wonderful review!  We’re delighted to hear that you loved your nail extensions and enjoyed our clean, stylish salon. A special thank you for recognizing Ms. Angel—she’ll be so happy to know you loved her work and the beautiful, natural results. Your recommendation means so much to us!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Muzayn Nisar",
+   "rating": 3,
+   "when": "Edited 4 months ago",
+   "text": "Arleen is very good at haircuts, and I would recommend this salon for a simple, budget-friendly haircut. However, I found many of the other services to be overpriced for what they offer.\n\nOne thing that concerned me was being encouraged to leave a 5-star review and positive feedback before even leaving the salon. Reviews should be voluntary and reflect a customer’s genuine experience. Many people rely on online reviews when deciding where to go, so it is important that feedback remains honest and authentic rather than being pressured or influenced.\n\nOverall, I would recommend the salon for haircuts, especially if you’re looking for an affordable option, but I believe customer reviews should be collected in a more transparent and unbiased way.",
+   "owner_reply": "Dear Ms. Muzayn Nisar,<br><br>Thank you for taking the time to share your honest feedback. We’re pleased to hear that you were happy with your haircut and that Ms. Arlene’s work left a positive impression on you. Your recommendation for our haircut services is truly appreciated.<br><br>We also value your concerns regarding your experience and the way review requests were communicated. At Simply Beauty Salon & Spa, we strive to create a comfortable and respectful environment for every client, and your feedback serves as an important reminder for us to continually improve our approach and ensure that all reviews are shared voluntarily and authentically.<br><br>Thank you again for your constructive comments. We appreciate your support and hope to have the opportunity to provide you with an even better experience in the future.<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Rajashri",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I am coming from\nThe last 9 years and there is a lot of trust I have on\nSimply Beauty parlor ,al nahda 2, I trust Arlene completely for my hair , also for gel, Daisy and Ira are extremely friendly , Marlene and analyne also extremely professional",
+   "owner_reply": "Dear Ms. Rajashri,<br><br>Thank you for being with us for the past 9 years, it truly means a lot. We're grateful for the trust you've placed in Simply Beauty Al Nahda 2. We're happy to hear that our team have consistently delivered the service you deserve. Your continued support is deeply appreciated, and we look forward to serving you for many more years to come.<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Omalka De Silva",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Simply Beauty Ladies Salon is one of the best salons for ladies in Al Nahda, Sharjah. I  started going to Al Nahda branch 2 recently and the service is exceptional. As soon as you enter the salon you are been welcomed by the staff with so much enthusiasm, that makes you feel really welcomed to the place. The staff over this branch goes above and beyond to serve you and they use quality authentic products. Arlene, Ronalyn, Receptionist and the Supervisor was very helpful whenever I visit the salon. This place is very clean and hygenic and very relaxing unlike other places. I highly recommend them to anyone who would want exceptional quality services.",
+   "owner_reply": "Thank you so much for your heartfelt review!  We’re truly delighted to know that you’ve had such a wonderful experience at our Al Nahda Branch 2. A special thank you for recognizing Ms. Arlene, Ms. Ronalyn, our Receptionist, and Supervisor for their exceptional care and support. Your kind words about our team, cleanliness, and quality of service mean so much to us. We’re grateful for your recommendation and look forward to welcoming you back again soon!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Maryam Danagege",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "This is my go to place for the past 3 years and it is conveniently located close to my house. The staff are friendly and the work is professional. I get my monthly pedicures done and no complaints.\nWould be nice if they have discounts for long time customers.\nKeep up the good work!",
+   "owner_reply": "Dear Ms. Maryam,<br><br>Thank you for your wonderful 5-star review and for being a loyal part of the Simply Beauty family for the past 3 years! We’re truly honored to be your go-to salon and delighted to know that our convenient location, friendly team, and professional service keep you coming back for your monthly pedicures.<br><br>We also appreciate your thoughtful suggestion regarding discounts for long-time customers. Feedback like yours helps us grow and improve, and we’ll certainly take it into consideration.<br><br>Thank you for your continued trust and support. We look forward to pampering you for many more years to come!<br><br>Glamorously grateful,<br>The Simply Beauty Salon & Spa Team"
+  },
+  {
+   "author": "Connie Mishra",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "I have  been going to Simply Beauty Saloon Al Nadha 2 Branch for more than 5 years. I highly recommend this place  ,all the personnel here are very welcoming especially Ms. Arlene, Daisy and Mads. My nail technician - Marissa is superb, never had any problem on my visit. Always happy after my visit.",
+   "owner_reply": "Dear Connie,<br><br>Thank you so much for your kind words and continued support over the past 5 years. We're happy to hear that you've had such positive experiences at our Al Nadha 2 Branch. We'll be sure to pass along your compliments to Ms. Arlene, Daisy, Mads, and especially Marissa. We look forward to serving you again soon!<br><br>Warm regards,<br>Simply Beauty Ladies Beauty Center - Al Nahda Sharjah Team"
+  },
+  {
+   "author": "jana alashkar",
+   "rating": 1,
+   "when": "3 years ago",
+   "text": "⚠️  DON'T GO THERE.....⚠️\nBad service, I don't recommend it to anyone. I made an appointment for the nails over the phone, and we agreed on the price. When I arrived, it turned out that it was registered on the front desk. When I started, I was asked for an additional payment to remove the gel that it was an unexpected amount for a customer who came for the first time and Instead of encouraging me to come again, I was shocked by the way of dealing when I did not like the color, as it was There are no different colors. The receptionist employee did not concede and come to talk to me. Rather, she sent another employee to silence me. Finally, I paid a huge amount for very bad service and an inappropriate manner, so I advise you not to work for them.\nDON'T GO THERE ....⚠️⚠️⚠️⚠️⚠️⚠️",
+   "owner_reply": "Hi Jana, <br><br>We regret to learn of your recent visit to Simply Beauty Salon and the concerns you've raised. We sincerely apologize for the inconvenience this has caused you.<br><br>In our efforts to improve and address these issues, we kindly request your contact number for further assistance. Please feel free to email us at hello@simplybeautysalon.ae with your details.<br><br>Thank you for your patience, and we look forward to the chance to rectify this situation for you.<br><br>Warm regards,<br>Simply Beauty Ladies Salon & Spa – Team"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    366,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    512,
+    424
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    378,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "skipped",
+ "site_url": "https://mdmd1735.github.io/Business-websites/simply-beauty-salon-al-nahda/",
+ "buy_likelihood": 8,
+ "notes": "Multi-branch chain with a website (simplybeautysalon.ae)."
+}

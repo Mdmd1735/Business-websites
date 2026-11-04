@@ -1,0 +1,27 @@
+{
+ "preset": "luxe-gold",
+ "theme": {"bg": "#FBF6E9", "surface": "#FFFFFF", "surface_2": "#F3E6C4", "text": "#2A2114", "text_2": "#55452B", "dim": "#857358", "line": "rgba(0,0,0,.09)", "line_strong": "rgba(0,0,0,.2)", "nav_bg": "rgba(251,246,233,.88)", "card_glass": "rgba(255,255,255,.92)", "tint": "rgba(0,0,0,.05)", "map_filter": "grayscale(.3)", "accent": "#B98A2E", "accent_text": "#8C6516", "on_accent": "#FFFFFF", "duo": "#EED9A8", "busy": "#B98A2E", "band_bg": "#2A2114", "band_text": "#FBF6E9", "band_card": "rgba(255,255,255,.06)", "band_line": "rgba(255,255,255,.14)", "band_accent": "#F2CF7E", "ask_bg": "#FFFFFF", "ask_text": "#2A2114", "quiet": "#C9B48A", "accent_on_photo": "#FFFFFF", "frame": "round", "hero_ratio": "3/4"},
+ "brand": {"name": "Desert Wave", "sub": "Ladies Beauty Center · Deira", "mark": "D", "footer_word": "Desert Wave"},
+ "seo": {"title": "Desert Wave Ladies Salon | Moroccan Bath, Massage, Foot Spa & Nails in Muraqqabat, Deira", "description": "Desert Wave Ladies Beauty Center, 26B Street, Al Muraqqabat, Deira: Moroccan bath, full-body massage, foot spa, gel polish, waxing, threading and hair colour, serving Deira for over 12 years. 4.5 from 583 reviews."},
+ "hero": {"variant": "split", "kicker": "26B Street · Al Muraqqabat · Deira", "title_lines": ["Step into the world", "of beauty", "& wellness."],
+   "lede": "Moroccan bath and full-body massage, foot spa, gel nails, waxing, threading and colour in a gold-and-cream salon that's been looking after Deira's ladies for over 12 years.",
+   "image": "img/hero.jpg", "image_alt": "Desert Wave salon with gold mirrored ceiling and white chairs", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Call to book", "proof_note": "583 reviews · 12+ years",
+ "address_lines": ["Desert Wave Ladies Salon, 26B Street", "Al Muraqqabat, Deira, Dubai"],
+ "ticker": ["Moroccan bath", "Full body massage", "Foot spa", "Gel polish", "Waxing", "Threading", "Hair colour"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Relax, refresh,", "title_dim": "repeat.",
+   "items": [
+    {"name": "Moroccan bath & massage", "feature": true, "img": "img/pedi.jpg", "alt": "Gold pedicure chairs", "desc": "Steam, scrub and full-body massage.", "quote": "I especially want to thank Ms. Cheryl, who always does my nails beautifully.", "cite": "Khadijah W."},
+    {"name": "Foot spa & pedicure", "img": "img/footspa.jpg", "alt": "Foot spa bowl", "desc": "Foot spa, scrub and pedicure."},
+    {"name": "Nails", "img": "img/nails.jpg", "alt": "Soft pink nails", "desc": "Gel polish, manicure and extensions."},
+    {"name": "Hair", "img": "img/wings.jpg", "alt": "Long straight hair in front of gold wings", "desc": "Colour, blow-dry and treatments."}
+   ],
+   "perks": ["Open daily 10 AM – 10 PM", "Snack bar for guests", "12+ years in Deira"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Short waits", "title": "Quietest before", "title_dim": "lunch."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Cheryl, Angie", "title_dim": "and Raj.", "items": [{"name": "Raj", "count": 5, "role": "Beauty"}, {"name": "Angie", "count": 4, "role": "Nails"}, {"name": "Rissa", "count": 3, "role": "Massage"}, {"name": "Cheryl", "role": "Nails"}]},
+  {"type": "gallery", "images": [{"src": "img/logo.jpg", "alt": "Desert Wave gold logo"}, {"src": "img/entrance.jpg", "alt": "Entrance with crystal chandelier", "wide": true}, {"src": "img/snackbar.jpg", "alt": "Guest snack bar"}, {"src": "img/quote.jpg", "alt": "Step into the world of beauty wall"}, {"src": "img/polish.jpg", "alt": "Nail polish wall", "wide": true}, {"src": "img/heart.jpg", "alt": "Heart wall"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Muraqqabat,", "title_dim": "Deira."}
+ ]
+}

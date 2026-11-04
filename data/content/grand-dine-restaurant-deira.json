@@ -1,0 +1,31 @@
+{
+ "preset": "sage-spa",
+ "theme": {"bg": "#F7F5EE", "surface_2": "#E9E6D8", "accent": "#A07A2C", "accent_text": "#7E5F1F", "duo": "#DED3B4", "busy": "#A07A2C", "band_bg": "#1C2416", "band_accent": "#D9BE79", "frame": "square", "hero_ratio": "3/4"},
+ "brand": {"name": "Grand Dine", "sub": "Restaurant · Al Muteena", "mark": "G", "footer_word": "Grand Dine"},
+ "seo": {"title": "Grand Dine Restaurant Deira | مطعم جراند داين | Turkish, Afghani, Arabic & Indian, Al Muteena", "description": "Grand Dine Restaurant, Al Muteena Street, Deira: Turkish, Afghani, Indian, Arabic and steak in a spacious, family-friendly dining hall with live grill, chicken madbi, mutton haneeth and mixed grills. Open till 2 AM on weekends. 4.6 from 592 reviews."},
+ "hero": {"variant": "split", "ar_name": "مطعم جراند داين", "kicker": "Al Muteena Street · Deira", "title_lines": ["A grand table", "for the whole", "family."],
+   "lede": "Turkish, Afghani, Indian and Arabic cooking in a spacious green-and-gold dining hall: live grill, chicken madbi, mutton haneeth, mixed grills and biryani, open until 2 AM on weekends.",
+   "image": "img/hero.jpg", "image_alt": "Long dining hall with hanging greenery and gold trim", "secondary": {"label": "What to order", "href": "#menu"}},
+ "cta_label": "Reserve on WhatsApp", "cta_text": "Hi Grand Dine, I'd like to reserve a family table.",
+ "proof_note": "592 reviews · family dining",
+ "address_lines": ["Grand Dine Restaurant, Al Muteena Street", "Deira, Dubai"],
+ "ticker": ["Live grill", "Chicken madbi", "Mutton haneeth", "Mixed grills", "Cheese kebab", "Biryani", "Birthday celebrations"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "What to order", "title": "Four cuisines,", "title_dim": "one long table.",
+   "items": [
+    {"name": "Mixed grills", "feature": true, "img": "img/grill.jpg", "alt": "Mixed grill board with kebabs and fries", "desc": "Kebabs, chops and tikka from the live grill.", "quote": "Yesterday we celebrated our son's birthday at Grand Dine, and honestly, it was such a lovely experience.", "cite": "Shabana S."},
+    {"name": "Chicken madbi & mandi", "img": "img/madbi.jpg", "alt": "Chicken madbi on rice", "desc": "Stone-grilled chicken over fragrant rice."},
+    {"name": "Mutton haneeth", "img": "img/lamb.jpg", "alt": "Slow-roasted lamb", "desc": "Slow-roasted, falling-apart lamb."},
+    {"name": "Indian curries", "img": "img/karahi.jpg", "alt": "Chicken karahi", "desc": "Karahi, butter chicken and biryani."},
+    {"name": "Fresh juices & desserts", "img": "img/drinks.jpg", "alt": "Fresh juices and mocktails", "desc": "Juices, mocktails and sundaes."}
+   ],
+   "perks": ["Open till 1 AM (2 AM weekends)", "Family & banquet seating", "Free parking"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Get a table", "title": "Weekends are busy.", "title_dim": "Book big tables early."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Ask for", "title": "Gilbert.", "title_dim": "Ten reviews thank him.", "items": [{"name": "Gilbert", "count": 10, "role": "Floor manager"}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Grand Dine storefront", "wide": true}, {"src": "img/terrace.jpg", "alt": "Terrace seating", "wide": true}, {"src": "img/banquet.jpg", "alt": "Banquet table setup", "wide": true}, {"src": "img/mandi.jpg", "alt": "Mandi rice platter"}, {"src": "img/feast.jpg", "alt": "Family feast spread", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "reserve", "eyebrow": "Reserve", "title": "Celebrating something?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I book a table for 15 people?", "Do you host birthday parties?", "Is the live grill on tonight?", "Do you have a set menu for groups?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Muteena,", "title_dim": "Deira."}
+ ]
+}

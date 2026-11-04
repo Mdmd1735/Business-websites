@@ -1,0 +1,32 @@
+{
+ "preset": "sage-spa",
+ "theme": {"bg": "#F7F4EE", "surface_2": "#ECE5D8", "accent": "#A8823C", "accent_text": "#7E6127", "duo": "#E2D3B4", "busy": "#A8823C", "band_bg": "#1F1A12", "band_accent": "#E2C27A", "frame": "square", "hero_ratio": "4/3"},
+ "brand": {"name": "Power of Five", "sub": "Ladies Beauty Salon · Al Quoz", "mark": "5", "footer_word": "Power of Five"},
+ "seo": {"title": "Power of Five Ladies Beauty Salon | Hair, Nails & Skin on Al Meydan Road, Al Quoz", "description": "Power of Five Ladies Beauty Salon, 3A Street off Al Meydan Road, Al Quoz 1: hair Botox and keratin, colour and highlights, cuts and blow-dry, nail art, eyelash extensions and deep-cleanse facials. Rated 4.9 from 134 reviews."},
+ "hero": {"variant": "panel", "kicker": "3A Street · Off Al Meydan Road · Al Quoz 1", "title_lines": ["Reveal your", "true self."],
+   "lede": "Hair, nails and skin in a bright, gold-trimmed salon off Al Meydan Road: hair Botox and keratin, colour and highlights, nail art, lash extensions and deep-cleanse facials.",
+   "image": "img/hero.jpg", "image_alt": "Power of Five salon floor with gold mirrors and chandelier", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Power of Five, I'd like to book.",
+ "proof_note": "4.9 · the owner replies to every review",
+ "address_lines": ["Power of Five Ladies Beauty Salon, 3A Street", "Off Al Meydan Road, Al Quoz 1, Dubai"],
+ "socials": {"facebook": "profile.php?id=100089231506740"},
+ "ticker": ["Hair Botox", "Keratin", "Highlights", "Blow-dry", "Nail art", "Lash extensions", "Deep-cleanse facial"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Hair · Nails · Skin", "title": "Five senses,", "title_dim": "one salon.",
+   "items": [
+    {"name": "Hair Botox & keratin", "feature": true, "img": "img/sleek.jpg", "alt": "Sleek ash-blonde hair after treatment", "desc": "Repair for dry, damaged hair.", "quote": "Anna did a fantastic hair treatment. My hair was dry and damaged. She did a Botox treatment, full colour, cut and blow-dry.", "cite": "Ruwini M."},
+    {"name": "Colour & highlights", "img": "img/highlights.jpg", "alt": "Caramel highlights", "desc": "Highlights, balayage and bold colour."},
+    {"name": "Nails", "img": "img/nailart.jpg", "alt": "Floral nail art", "desc": "Manicure, pedicure and nail art."},
+    {"name": "Cuts & waves", "img": "img/waves.jpg", "alt": "Soft waves", "desc": "Cuts, blow-dry and styling."},
+    {"name": "Lashes & facials", "desc": "Eyelash extensions, deep-cleanse facials, threading and foot scrubs."}
+   ],
+   "perks": ["Open daily 10 AM – 8 PM", "Ladies only", "Facebook: Power of Five"]},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Cathy, Anna,", "title_dim": "Irene and Aileen.",
+   "items": [{"name": "Cathy", "count": 7, "role": "Stylist"}, {"name": "Anna", "count": 4, "role": "Hair treatments"}, {"name": "Irene", "count": 3, "role": "Cuts", "quote": "She knows what style is best for you.", "cite": "Khristine M."}, {"name": "Aileen", "role": "Nails"}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Reveal your true self glass front", "wide": true}, {"src": "img/balayage.jpg", "alt": "Ash balayage"}, {"src": "img/nails.jpg", "alt": "Red nails"}, {"src": "img/burgundy.jpg", "alt": "Burgundy waves"}, {"src": "img/floor.jpg", "alt": "Salon floor"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Prices", "title": "Ask for the menu.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is hair Botox for long hair?", "Price for highlights?", "Do you have a slot today?", "How much are lash extensions?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Off Al Meydan Road,", "title_dim": "Al Quoz."}
+ ]
+}

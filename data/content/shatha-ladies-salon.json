@@ -1,0 +1,31 @@
+{
+ "preset": "spice-ember",
+ "theme": {"accent": "#E24C9A", "accent_text": "#F06AAE", "on_accent": "#1A0610", "bg": "#130B10", "surface": "#1D1219", "surface_2": "#281A23", "duo": "#5A1A3E", "busy": "#B0336F", "glow": "rgba(226,76,154,.18)", "band_bg": "#FCF0F6", "band_accent": "#A8206A", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "Shatha", "sub": "Ladies Salon · Al Nuaimia", "mark": "S", "footer_word": "Shatha"},
+ "seo": {"title": "Shatha Ladies Salon Ajman | Henna, Hair Botox, Keratin & Saree Draping, Al Nuaimia", "description": "Shatha Ladies Salon, Waha Street near Nuaimiya Tower, beside Al Wasl Bakery, Al Nuaimia 1, Ajman: henna, hair colour, Botox and keratin, protein and dandruff treatments, threading, waxing, pedicure and saree draping. 4.6 from 690 reviews."},
+ "hero": {"variant": "split", "ar_name": "صالون شذى للسيدات", "kicker": "Waha Street · Beside Al Wasl Bakery · Al Nuaimia 1, Ajman", "title_lines": ["Henna, hair", "and a saree", "draped right."],
+   "lede": "A ladies' salon in Al Nuaimia for henna, colour, hair Botox and keratin, dandruff and protein treatments, threading, pedicures and saree draping for every celebration.",
+   "image": "img/hero.jpg", "image_alt": "Shatha Ladies Salon storefront with neon sign", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Shatha Ladies Salon, I'd like to book.",
+ "proof_note": "690 Google reviews",
+ "address_lines": ["Shatha Ladies Salon, Waha Street", "Near Nuaimiya Tower, beside Al Wasl Bakery, Al Nuaimia 1, Ajman"],
+ "ticker": ["Henna", "Hair colour", "Hair Botox", "Keratin", "Dandruff treatment", "Threading", "Saree draping"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Ready for", "title_dim": "every occasion.",
+   "items": [
+    {"name": "Henna", "feature": true, "img": "img/henna.jpg", "alt": "Detailed floral henna on a hand", "desc": "Bridal, Eid and party henna.", "quote": "A special shoutout to Nishana for the amazing service. She was very patient, professional, and paid great attention to detail.", "cite": "Renuka N."},
+    {"name": "Colour & treatments", "img": "img/colour.jpg", "alt": "Client showing burgundy colour", "desc": "Colour, Botox, keratin, protein and dandruff care."},
+    {"name": "Saree draping", "img": "img/saree.jpg", "alt": "Client in a draped Kerala saree", "desc": "Draping for weddings, Onam and events."},
+    {"name": "Pedicure & waxing", "img": "img/pedicure.jpg", "alt": "Fresh red pedicure", "desc": "Pedicure, threading, waxing and hot oil massage."}
+   ],
+   "perks": ["Open daily 9 AM – 10 PM", "Ladies only", "Malayalam, Hindi, English"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan ahead", "title": "Festive weeks fill fast.", "title_dim": "Book early."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Ask for Nishana.", "title_dim": "Nine reviews do.",
+   "items": [{"name": "Nishana", "count": 9, "role": "Senior beautician", "quote": "Had the best pedicure with Nishana today! She was so gentle and detailed.", "cite": "Shyni Z."}]},
+  {"type": "gallery", "images": [{"src": "img/interior.jpg", "alt": "Salon interior", "wide": true}, {"src": "img/henna2.jpg", "alt": "Henna on the arm"}, {"src": "img/henna3.jpg", "alt": "Floral henna"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Prices", "title": "Ask before you book.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is hair Botox?", "Price for bridal henna?", "Do you offer saree draping?", "Can I come in today?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Nuaimia 1,", "title_dim": "Ajman."}
+ ]
+}

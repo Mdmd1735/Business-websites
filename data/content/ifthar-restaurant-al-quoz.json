@@ -1,0 +1,195 @@
+{
+ "preset": "spice-ember",
+ "theme": {
+  "accent": "#F2B33D",
+  "accent_text": "#F6C25E",
+  "on_accent": "#1A1206",
+  "bg": "#130D08",
+  "surface": "#1D140D",
+  "surface_2": "#291C13",
+  "duo": "#5A3A12",
+  "busy": "#B47A1E",
+  "band_bg": "#FBF3E4",
+  "band_accent": "#9C5A12",
+  "frame": "square",
+  "hero_ratio": "4/3"
+ },
+ "brand": {
+  "name": "Ifthar",
+  "sub": "Kerala & Malabar · Al Quoz",
+  "mark": "إ",
+  "footer_word": "IFTHAR"
+ },
+ "seo": {
+  "title": "Ifthar Restaurant Al Quoz | Kerala & Malabar Biryani, Charcoal Chicken & Seafood, Open till 2 AM",
+  "description": "Ifthar Restaurant, Al Asayel St behind Al Khail Mall, Al Quoz 4: Kerala and Malabar cuisine with biryani, avocado and chicken charcoal, seafood bucket, grilled fish, beef fry, shawarma and falooda. Open 6 AM to 2 AM. 4.5 from 683 reviews."
+ },
+ "hero": {
+  "variant": "full",
+  "kicker": "Al Asayel Street · Behind Al Khail Mall · Al Quoz 4",
+  "title_lines": [
+   "Kerala and Malabar,",
+   "6 AM to 2 AM."
+  ],
+  "lede": "Authentic Kerala and Malabar cooking behind Al Khail Mall: biryani, avocado and chicken charcoal, seafood buckets, grilled fish, beef fry, shawarma and falooda.",
+  "image": "img/interior.jpg",
+  "image_alt": "Ifthar dining room with warm wood and gold lighting",
+  "secondary": {
+   "label": "What to order",
+   "href": "#menu"
+  }
+ },
+ "cta_label": "Order on WhatsApp",
+ "cta_text": "Hi Ifthar, I'd like to order.",
+ "proof_note": "683 reviews · replies to 70%",
+ "address_lines": [
+  "Ifthar Restaurant, Al Asayel Street",
+  "Behind Al Khail Mall, Al Quoz 4, Dubai"
+ ],
+ "ticker": [
+  "Biryani",
+  "Chicken charcoal",
+  "Avocado charcoal",
+  "Seafood bucket",
+  "Grilled fish",
+  "Beef fry",
+  "Falooda"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "menu",
+   "nav": "Menu",
+   "eyebrow": "What to order",
+   "title": "From the charcoal",
+   "title_dim": "and the coast.",
+   "items": [
+    {
+     "name": "Chicken charcoal",
+     "feature": true,
+     "img": "img/charcoal.jpg",
+     "alt": "Charcoal chicken with fries",
+     "desc": "Smoky, juicy, with garlic sauce.",
+     "quote": "The food tasted amazing, especially the biryani and grill items. The staff are super friendly.",
+     "cite": "Shabeer"
+    },
+    {
+     "name": "Seafood bucket",
+     "img": "img/seafood.jpg",
+     "alt": "Seafood platter on banana leaf",
+     "desc": "Prawns, crab and fish for the table."
+    },
+    {
+     "name": "Beef fry & Malabar classics",
+     "img": "img/beef.jpg",
+     "alt": "Achayans beef fry",
+     "desc": "Achayan's beef, porotta and appam."
+    },
+    {
+     "name": "Grilled fish",
+     "img": "img/fishgrill.jpg",
+     "alt": "Grilled fish with lemon",
+     "desc": "Whole fish, Kerala-spiced."
+    },
+    {
+     "name": "Dosa & breakfast",
+     "img": "img/dosa.jpg",
+     "alt": "Chef making dosa",
+     "desc": "Breakfast from 6 AM."
+    }
+   ],
+   "perks": [
+    "Open daily 6 AM – 2 AM",
+    "Dine-in, takeaway & delivery",
+    "Family dining"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Get a table",
+   "title": "Dinner fills up.",
+   "title_dim": "Come early."
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Team",
+   "eyebrow": "Ask for",
+   "title": "Manu and Jerry.",
+   "items": [
+    {
+     "name": "Manu",
+     "count": 5,
+     "role": "Manager"
+    },
+    {
+     "name": "Jerry",
+     "count": 3,
+     "role": "Service",
+     "quote": "Very humble, professional and welcoming staff. Special thanks to Jerry.",
+     "cite": "Rehan T."
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/hero.jpg",
+     "alt": "Storefront at night",
+     "wide": true
+    },
+    {
+     "src": "img/storefront.jpg",
+     "alt": "Ifthar storefront with crowd"
+    },
+    {
+     "src": "img/night.jpg",
+     "alt": "Ifthar at night",
+     "wide": true
+    },
+    {
+     "src": "img/interior.jpg",
+     "alt": "Warm wood dining room",
+     "wide": true
+    },
+    {
+     "src": "img/avocado.jpg",
+     "alt": "Avocado charcoal plate"
+    },
+    {
+     "src": "img/bucket.jpg",
+     "alt": "Seafood bucket",
+     "wide": true
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "order",
+   "eyebrow": "Order",
+   "title": "Hungry?",
+   "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": [
+    "Can I see your menu with prices?",
+    "Do you deliver to my area in Al Quoz?",
+    "Is the seafood bucket good for 4?",
+    "Do you take party orders?"
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Behind Al Khail Mall,",
+   "title_dim": "Al Quoz."
+  }
+ ]
+}

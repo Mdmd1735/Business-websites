@@ -1,0 +1,1036 @@
+{
+ "slug": "pet-dreamland-veterinary-clinic",
+ "name": "Pet Dreamland Veterinary Clinic",
+ "place_id": "ChIJ11Cr_39nXz4R4BnQBJ4wSSI",
+ "category": "veterinary clinic",
+ "category_weight": 13,
+ "area": "Bur Dubai",
+ "address": "Al Kheeran First - Dubai Creek Harbour - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2035893,
+  "lng": 55.3442842
+ },
+ "phone": "+971 4 824 3122",
+ "rating": 4.9,
+ "userRatingCount": 167,
+ "rating_distribution": {
+  "oneStar": 3,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 3,
+  "fiveStar": 161
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Pet%20Dreamland%20Veterinary%20Clinic&query_place_id=ChIJ11Cr_39nXz4R4BnQBJ4wSSI",
+ "website": "",
+ "categories": [
+  "Veterinarian",
+  "Medical clinic"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "8 AM to 11 PM"
+  }
+ ],
+ "owner_description": "Pet Dreamland Veterinary Clinic in Dubai Creek Harbour is your one-stop destination for pet care. We offer veterinary consultations, routine check-ups, vaccinations, diagnostics and treatment, along with in-store pet grooming, daycare, cat boarding and pet supplies. Can’t come to us? Our Mobile Veterinary Clinic and Mobile Grooming services bring professional pet care right to your doorstep. Whether your pet needs veterinary care, a fresh groom, a comfortable stay or everyday essentials, our team is here to care for your pets in-clinic or at home.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ]
+ },
+ "review_tags": [
+  "kidney problem treatment",
+  "manner with cats",
+  "full grooming",
+  "knowledgeable vet",
+  "careful diagnosis",
+  "dr prince",
+  "gentle handling",
+  "treating pets like family",
+  "nail trimming",
+  "exceptional care"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Amelia Cook",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Jerwyn cut my toy poodle Otto’s fur exactly as I asked and gave him a lovely summer cut. He did a wonderful job, and I am so impressed.\n\nI will definitely keep coming back to this groomer and would recommend them to everyone. Jerwyn and Joshua are both so talented, and we love the whole team at Pet Dreamland, including Alfie, Lyn and Dr Prince. They are always so friendly and professional, and they take such wonderful care of my dogs.\n\nA really talented and caring group of people who are genuine pet lovers.",
+   "owner_reply": "Thank you so much for your wonderful feedback and for trusting us with Otto’s grooming. We’re thrilled to hear that Jerwyn was able to give Otto the perfect summer cut exactly as you envisioned.<br><br>Your kind words mean so much to all of us at Pet Dreamland. <br>We sincerely appreciate your continued support and recommendation. We look forward to welcoming you and Otto and Albie back again soon!"
+  },
+  {
+   "author": "L. ALQ.",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "The clinic is very professional, and they took excellent care of my kittens during their operations. They kept me regularly updated, which gave me peace of mind knowing my kittens were in safe hands during their stay.\n\nDr. Mohamed El Prince is an amazing vet who did a great job with both kittens. He also acted quickly when he noticed that one of them wasn’t eating at all. Dr. Isra is also very friendly and gentle with the pets, handling them with so much care.\n\nYou can really see that the clinic takes the health and well-being of pets seriously. I’m very grateful to the whole team for their care and attention.",
+   "owner_reply": "  Dear L. ALQ., thank you so much for your wonderful review and kind words! ❤️ We’re delighted to know that you felt confident and reassured while your kittens were in our care. Dr. Mohamed El Prince, Dr. Isra, and our entire team truly appreciate your trust and kind appreciation. Your kittens’ health, comfort, and well-being are always our top priorities. 🐾❤️ We wish both little ones a speedy recovery and lots of happy, healthy days ahead! Thank you for choosing Pet Dreamland Veterinary Clinic. 💕<br>"
+  },
+  {
+   "author": "Doris Anna Kirch",
+   "rating": 5,
+   "when": "Edited 3 weeks ago",
+   "text": "⭐⭐⭐⭐⭐\n\nAbsolutely outstanding veterinary clinic! I have honestly never experienced such amazing service at a vet before!\n\nWe got an appointment incredibly quickly, and the clinic is conveniently located within walking distance of our apartment. They even offer home visits, which is a fantastic service!\n\nYesterday, we suddenly had an emergency with our dog Chico, and we were able to come in immediately. He was examined right away, and the veterinarian Dr Boody was simply wonderful – extremely professional, caring, attentive, and genuinely dedicated to helping animals.\n\nThe entire team is incredibly friendly, welcoming, and helpful. You can really feel that everyone here loves what they do and truly cares about their patients.\n\nWe are absolutely delighted and couldn't be happier with the care and service we received!\n\nA huge THANK YOU to the wonderful veterinarian Dr Boody and the entire team at Pet Dreamland Veterinary Clinic! ❤️🐾\n\nIf I could give more than five stars, I absolutely would! Highly, highly recommended!",
+   "owner_reply": "Thank you so much, Doris, for your amazing review and for taking the time to share your experience with us! ❤️🐾<br><br>We are truly grateful for your kind words and delighted to hear that you were happy with the care Chico received. Providing prompt, compassionate, and professional care—especially during emergencies—is something our entire team is deeply committed to.<br><br>It means so much to know that our veterinarian and staff were able to make you feel supported and cared for during a stressful situation. Your recognition of our home visit service, convenient location, and dedication to our patients is greatly appreciated.<br><br>Thank you for trusting Pet Dreamland Veterinary Clinic with Chico’s care. We wish him continued good health and look forward to being here for you whenever you need us. Your recommendation means the world to us! ❤️😊🐶<br>"
+  },
+  {
+   "author": "mohamed waheed",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Dr. El Prince is one of the most dedicated veterinarians I have met. His clinical knowledge, surgical skills, and attention to detail are truly impressive. He takes the time to explain every step clearly and treats each patient with genuine care and compassion. The level of professionalism and follow-up provided by him and his team gives pet owners great confidence. Highly recommended for anyone looking for a skilled and trustworthy veterinary surgeon.",
+   "owner_reply": "We truly appreciate your trust in Dr. El Prince and our team. It means a lot to know that his care, professionalism, and follow-up made you feel confident and well supported throughout your pet’s treatment. We’re grateful for your recommendation and will always do our best to provide the same level of compassionate and dedicated care for every patient."
+  },
+  {
+   "author": "Mariia Volodchenko",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I’m so happy that we live in a walking distance to the one of the best vet clinics in Dubai.\n\nOne of our cats - Cherub - had a severe kidney problem, and have been treated in the hospital for few weeks. He got the best care here, recovered well, and now is happily home with regular checkup visits to his beloved doctors!\n\nMany thanks for your dedication and kindness!",
+   "owner_reply": "Thank you so much for your heartfelt review, We're truly grateful for your kind words and delighted to hear that Cherub is doing well and happily back home. It was our pleasure to care for him throughout his treatment and recovery.<br><br>Thank you for trusting us with Cherub's care. Your support means a lot to  the entire team. We look forward to seeing Cherub at his future checkups 🐱❤️"
+  },
+  {
+   "author": "katharina Schober",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "We are truly very happy and grateful to have Dr. Prince as our vet. We always feel very well advised, everything is explained clearly and in detail, and he always takes the time to address all of our concerns. He truly goes above and beyond for our dogs, no matter how complicated the situation may be. We trust him completely and know that our dogs are always in the best hands with him. Thank you so much for the wonderful care, Dr. Prince.",
+   "owner_reply": "Dear Katharina,<br><br>Thank you so much for your heartfelt review and kind words about Dr. Prince. We are truly grateful for your trust and support.<br><br>It means a lot to hear that you feel well informed, supported, and confident in the care your dogs receive. Dr. Prince is dedicated to providing compassionate, thorough, and personalized care, and we are delighted that his commitment has made such a positive difference for you and your pets.<br><br>Your appreciation will be shared with Dr. Prince and the ent<br>"
+  },
+  {
+   "author": "эвели фрэсш",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Today we visited Dr. Ahmed again. I would especially like to mention his professionalism, caring attitude, and kind approach to animals.\nWe have visited Dr. Ahmed several times already, and every time we have been very satisfied. He listens carefully, explains everything in detail, calmly answers all our questions, and genuinely tries to understand the situation. You can feel that he takes his work very seriously and truly cares about animals.\nFor me, it is very important that a veterinarian does not simply prescribe treatment, but also explains what is happening and why this particular treatment is needed. Dr. Ahmed has exactly this approach — everything is explained clearly, calmly, and professionally.\nThank you, Dr. Ahmed, for your care, attention, and help. We will definitely continue coming to him and can confidently recommend him to other pet owners. He is a very knowledgeable, caring, and professional veterinarian! 🐾",
+   "owner_reply": "Dear,<br><br>Thank you so much for your heartfelt and detailed review. We are truly grateful that you continue to trust Dr. Ahmed with your pet's care.<br><br>It means a lot to hear that you appreciate his professionalism, patience, and caring approach. We believe that clearly explaining the diagnosis and treatment is an important part of helping pet owners feel comfortable and informed.<br><br>We will definitely share your wonderful feedback with Dr. Ahmed. Thank you for your continued trust, support, and recommendation. We look forward to welcoming you and your pet again! 🐾❤️<br><br>Best regards,<br>Pet Dreamland Veterinary Clinic<br>"
+  },
+  {
+   "author": "Mina Bahgat",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Dr. Prince is one of the best vets I have met. He is thorough, compassionate, and always puts the pet’s well-being first. I felt confident that my pet was receiving the best possible care.",
+   "owner_reply": "Thank you for your wonderful feedback, We’re delighted to hear about your positive experience with Dr. Prince. His dedication, compassion, and commitment to providing the best care for every pet are qualities we greatly value.<br><br>Thank you for trusting us with your pet’s care. We truly appreciate your support and look forward to seeing you again."
+  },
+  {
+   "author": "Yara Chebil",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I have three dog and all of them had every single treatment treated in the best an most professional way possible.\nThe way they treat the dogs and the way they respect them tells a lot about the clinic.\nAll the rooms where they keep the dogs who need to stay overnight for medical reasons are extremely clean.\nAll the vet doctors are really nice, caring and professional.\nExactly what u expect from a proper clinic.",
+   "owner_reply": "Dear,<br><br>Thank you so much for your wonderful review and for trusting us with the care of all three of your dogs. We are truly grateful for your kind words about our team, facilities, and the care we provide.<br><br>It means a lot to us that you noticed the love, respect, and attention we give to every pet, as well as our commitment to maintaining a clean and comfortable environment for hospitalized patients. Your appreciation motivates us to continue providing the highest standard of veterinary care.<br><br>Thank you for your trust and support. We look forward to caring for your dogs for many years to come.<br><br>Best regards,<br>Pet Dreamland Veterinary Clinic<br>"
+  },
+  {
+   "author": "Эвелина Сташевич",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Today we had an appointment with Dr. Ahmed. He is a very good, professional, and attentive specialist. We have visited him several times already and are very happy with his care and professionalism.\nHe always explains everything clearly and in detail, examines our dog carefully, and gives us helpful recommendations.\nThank you so much, Dr. Ahmed, for your professionalism, care, and kind attitude. We will definitely continue to see him in the future.",
+   "owner_reply": "Dear ,<br><br>Thank you so much for your kind and thoughtful review. We are very happy to hear that you have had such a positive experience with Dr. Ahmed and that you are satisfied with the care he provides for your dog.<br><br>Your appreciation of his professionalism, attention, and detailed explanations means a lot to us. We will be sure to share your lovely feedback with Dr. Ahmed.<br><br>Thank you for your continued trust and support. We look forward to caring for your dog again in the future! 🐾❤️<br><br>Best regards,<br>Pet Dreamland Veterinary Clinic<br>"
+  },
+  {
+   "author": "Regine Gwen Ramos",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I’m honestly so happy with the good experience! The grooming service was perfomed very precisely and professionally!\nThe staff name Elfie is very friendly , caring and knowledgeable.\nI would definitely recommend it ✨",
+   "owner_reply": "Thank you so much for your wonderful feedback! We’re delighted to hear that you had such a positive experience with our grooming service. We truly appreciate your recommendation and look forward to welcoming you and your pet again soon! ✨"
+  },
+  {
+   "author": "Kenet brown",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I brought Zuzu in for her spay, and I was impressed by how gently Dr. Prince and the team handled everything. They marked her ear neatly and respectfully — not the harsh cut that some places still do — and it really shows their genuine concern for animal welfare.\n\nWhat stood out the most is their sensitivity to responsible cat population management. They understand the importance of keeping things under control in a humane and balanced way — because we all know what happens when no one steps up. Their contribution is discreet but incredibly valuable, always putting the animal’s dignity first.\n\nI highly recommend Pet Dreamland Veterinary Clinic for their ethics, professionalism, and true compassion. It’s rare to find a team that does things right without turning it into marketing. Thank you for the great care. 🐾❤️\nps: Zuzu available for adoption :)",
+   "owner_reply": "Thank you so much for your thoughtful review 🌟 We truly appreciate your recognition of our efforts to promote responsible and humane cat population management. Our team strives to provide care with compassion, dignity, and integrity, and it means a lot to know that our approach resonates with you. We’re grateful for your trust and recommendation, and it’s always a pleasure to care for our furry friends the right way."
+  },
+  {
+   "author": "Svetlana Pavlenkova",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Just an amazing vet clinic!!! I’m truly grateful to the team for their excellent service and the lovely gifts we received after the vaccination, as well as the check-up, nail trimming, and everything else we already do at this clinic. Everything is at the highest level\n\nThank you so much, Rahma🐈 and me I’m very happy.",
+   "owner_reply": "Thank you so much for your wonderful review. We’re truly happy to hear that you and Rahma had a great experience with us.Your kind words motivate us to keep providing the best care possible. Give Rahma a gentle cuddle from all of us , we look forward to seeing you both again soon.<br>"
+  },
+  {
+   "author": "zaineb chenguit",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I can’t recommend this veterinary clinic enough! The entire team is incredibly kind, caring, and professional. They always take the time to answer all of my questions and make sure my dog feels comfortable and well cared for. You can truly see how much they love animals and how dedicated they are to providing the best care possible.\n\nEvery visit has been a positive experience, and I always leave feeling confident that my dog is in the best hands. Thank you for your compassion, patience, and excellent service. I’m so grateful to have such an amazing vet!",
+   "owner_reply": "Thank you for your heartfelt review, We are truly grateful for your kind words and trust in our team. It means so much to know that you and your dog have had positive experiences with us and that you feel confident in the care we provide.<br><br>Your appreciation motivates us to continue giving every pet the compassion, attention, and quality care they deserve. Thank you for being part of our Pet Dreamland family🐶❤️"
+  },
+  {
+   "author": "Neno Saleh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve only had good experience with Dr Prince, he’s caring, honest and knowledgeable. Would definitely come back because of his way of work.\n\nThanks for the exceptional care he’s showen for our dog kiko . I feel confident leaving my dog with Dr Prince, he always goes above and beyond to take care of Kiko and make us feel comfortable. Dealing with Dr Prince is very smooth and transparent.\n/Nari saleh",
+   "owner_reply": "Dear Nari,<br><br>Thank you so much for your heartfelt review and for trusting Dr. Prince with Kiko’s care. ❤️ We’re truly happy to hear that you appreciate his caring, honest, and knowledgeable approach.<br><br>It means a lot to know that you feel comfortable and confident when Kiko is in our care. We always strive to provide transparent communication and make every step as smooth as possible for both pets and their families.<br><br>We will definitely share your wonderful feedback with Dr. Prince. Thank you for your continued trust and support. We look forward to caring for Kiko again! 🐾❤️<br><br>Best regards,<br>Pet Dreamland Veterinary Clinic<br>"
+  },
+  {
+   "author": "peyman ch",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Dr. Esra has truly cared for our cats with great dedication over a long period; she is simply outstanding.",
+   "owner_reply": "Dear Peyman,<br><br>Thank you so much for your kind words and for taking the time to share your experience. We are delighted to hear that Dr. Esra has cared for your cats with such dedication over the years.<br><br>Your trust and appreciation mean a great deal to us. We will be sure to share your wonderful feedback with Dr. Esra. Thank you for choosing Pet Dreamland Veterinary Clinic for your cats' care.<br><br>Best regards<br>"
+  },
+  {
+   "author": "Eman Hamshari",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "The whole clinic team is amazing. Special thanks to Dr. Ahmed who looked after my cat’s surgery. Very professional , very friendly and trustworthy.\nAlso Dr. Prince and Dr. Esraa really looked after my cat. Their follow ups and quick response are very helpful and appreciated.",
+   "owner_reply": "Thank you, Eman, for your wonderful review and kind words. ❤️<br><br>We are delighted to hear that you had a positive experience with our team. Dr. Ahmed, Dr. Prince, and Dr. Esraa will be very happy to know that their care, follow-ups, and support made a difference for you and your cat.<br><br>Your trust means a lot to us, and we truly appreciate your recognition of our team's professionalism, dedication, and commitment to providing the best care possible.<br><br>Thank you for choosing Pet Dreamland Veterinary Clinic. We wish your cat continued good health and look forward to assisting you whenever needed. 🐾😊<br>"
+  },
+  {
+   "author": "Petra M",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I live in the area and was looking for a vet that would take on rescue cats. Not only are their rates unmatched, Dr Prince and his staff are some of the most caring, thorough and kind professionals I’ve had the pleasure of dealing with in Dubai. It is clear that their number one priority is your animal’s wellbeing. I was so impressed with my experience that I’ve decide to transfer my own cat into their care going forward. And the fact they offer a mobile vaccination service for nervous pets is such a massive plus! Highly recommend",
+   "owner_reply": "Thank you so much for your wonderful review, We are truly honored by your kind words and grateful for the trust you've placed in Dr. Prince and our team. Caring for rescue animals and ensuring the wellbeing of every pet is at the heart of what we do.<br><br>We're delighted to hear that your experience was so positive that you've chosen to transfer your own cat's care to us. Thank you for your recommendation and support, we look forward to continuing to care for your furry family members for years to come🐱❤️"
+  },
+  {
+   "author": "Amelia Cook",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Joshua groomed my very aggressive Pomeranian and did an absolutely outstanding job. I could not be happier with the result. He was incredibly calm, kind and patient throughout, and it was clear he is very experienced with difficult dogs. He even managed to brush my dog’s teeth, which is something I have never been able to do myself. I felt completely comfortable leaving Albie in his care. I highly recommend Joshua to anyone looking for a skilled and trustworthy groomer, and I will definitely be bringing Albie back again. Thank you!",
+   "owner_reply": "Thank you so much for this lovely review! We are really glad you were happy with Albie’s groom and that you felt comfortable leaving him with Pet Dreamland's care. We really appreciate the recommendation and can’t wait to see you both again. Cheers!"
+  },
+  {
+   "author": "Viktorija Bordo",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I am incredibly grateful to Pet Dreamland Veterinary Clinic, and especially to Dr. Prince, who literally saved my cat Martin’s life.\nMartin suddenly started struggling to breathe for an unknown reason, and it was absolutely terrifying. Dr. Prince acted quickly, professionally, and with genuine care. Thanks to his knowledge and immediate actions, Martin was stabilized and could breathe again.\nIt is difficult to put into words how thankful I am to Dr. Prince for saving my beloved cat in such a frightening situation.\n\nThank you, Dr. Prince, and the entire Pet Dreamland team, for your compassion, professionalism, and dedication. I will never forget what you did for Martin. ❤️🐾\nHighly recommended!",
+   "owner_reply": "Thank you so much for your amazing review! 🥰🌟 We are truly honored to hear that this has been your best veterinary experience. Your recommendation means the world to us! We’ll be sure to share your kind words with Dr. Prince. Thank you for trusting Pet Dreamland Veterinary Clinic with your pet’s care. We look forward to seeing you and your furry family again! 🐾🫶💙<br><br>"
+  },
+  {
+   "author": "Janna Glukhova",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "It was Oliver Sprinkles’ first visit to Pet Dreamland Clinic, and it was absolutely a 10 out of 10 experience.\nDr. Israa was the loveliest, kindest, and most knowledgeable vet. Our little furry boy wasn’t stressed in her hands at all — she made him feel completely safe.\nAfter the appointment, we popped into the Dreamland grooming shop next door, where we were unexpectedly gifted a whole bag of goodies. Such a sweet gesture!\nWe will definitely be back. We are so happy to have found not only the best veterinary clinic locally — especially Dr. Israa — but also a wonderful grooming place right next door.",
+   "owner_reply": "hank you so much for your wonderful review. We’re delighted to hear that Oliver Sprinkles had such a positive first visit with us. Dr. Israa truly appreciates your kind words, and we’re glad she was able to help him feel comfortable and safe during his appointment.<br><br>We’re also happy you enjoyed your visit to our Dreamland grooming shop and the little goodies bag. It’s our pleasure to make every visit special.<br><br>We look forward to welcoming you and Oliver Sprinkles back again soon. Thank you for choosing Pet Dreamland Clinic."
+  },
+  {
+   "author": "Luay Al Omar",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Took both my cats for removal of infected teeth and Dr. Mohammed was very attentive and helpful in answering all my questions and doubts about the operation and why it needed to be done. Everything went smoothly and throughout having my cats there it was very easy to receive updates on what was happening. Highly recommend them will be back.",
+   "owner_reply": "Dear Luay,<br><br>Thank you so much for your wonderful review and for trusting us with the care of both your cats. We are very happy to hear that everything went smoothly and that Dr. Mohammed was able to answer all your questions and explain the procedure clearly.<br><br>We are also glad that you found our updates helpful throughout your cats’ stay. Keeping pet owners informed and comfortable is very important to us.<br><br>Thank you for your trust, support, and recommendation. We look forward to welcoming you and your cats again in the future! 🐾❤️<br><br>Best regards,<br>Pet Dreamland Veterinary Clinic<br>"
+  },
+  {
+   "author": "sogol vaghti",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I can’t thank Dr. Maher and the team enough for everything they did for Oreo 🤍\n\nFrom start to finish, Dr. Maher went above and beyond to take care of him and to make sure I felt reassured throughout the whole process. He was incredibly kind, patient, and genuinely caring, not just towards Oreo, but towards me as well during a very stressful time.\n\nOreo had to be admitted and monitored for a few days, which made the whole situation even more overwhelming for me, but Dr. Maher handled everything with such professionalism and compassion.\n\nOreo is usually very scared of vets and always tries to run away, but Dr. Maher was completely different, he felt comfortable with him right away, which honestly says everything. You can even see it in the picture 🤍\n\nAlso, thank you to Dr. Prince for his support at the beginning and for taking the time to explain everything clearly.\n\nThe entire team was amazing, always friendly and accommodating, and they even allowed me to visit Oreo multiple times a day, which meant so much to me.\n\nThank you again Dr. Maher and the team for taking such incredible care of Oreo. We’re so grateful 🙏",
+   "owner_reply": "We truly appreciate your kind words. It’s wonderful to know that our veterinarian’s care and patience made a positive difference for your pet. Thank you for trusting us. we’re always here to provide the best care for your furry family members."
+  },
+  {
+   "author": "Muhammed Ehab",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Brought my dog in feeling really worried, and Dr. Mohamed El prince completely put me at ease. He examined her so gently and patiently, took the time to explain everything clearly, and you could tell right away how experienced and caring he is. The clinic was clean and well-organized, and the whole team was kind and welcoming. My dog actually delivered her puppies safely under his care, and his follow-up afterward was excellent. Highly professional, highly recommended for anyone who wants the best care for their pets! ⭐⭐⭐⭐⭐\nThanks Dr Mohamed",
+   "owner_reply": "hank you so much for your wonderful review, We are truly grateful for your kind words and thrilled to hear that you had such a positive experience with Dr. Mohamed Prince and our team. Knowing that your dog delivered her puppies safely and received the care and support she needed means a lot to us.<br><br>Thank you for your trust and recommendation. We wish the proud mom and her puppies continued good health, and we look forward to seeing you again🐶❤️"
+  },
+  {
+   "author": "Carah D' Expat",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I cannot thank Pet Dreamland enough, especially Dr. Esraa, for the exceptional care she gave to my beloved cat, Snowy.\n\nAlthough I have been a long-time customer of their mobile grooming services, I decided to bring Snowy to their clinic after visiting several other veterinary clinics for her condition and not receiving the results I was hoping for.\n\nWe visited three different clinics before coming to Pet Dreamland, but it was only with Dr. Esraa that I truly felt someone genuinely cared about my cat's well-being. Snowy has been suffering from an autoimmune disease for a long time, along with severe inflammation,which I also just found out as the other clinics just always give us a cream and never suggested for any other solution, and it was heartbreaking to watch her struggle every day.\n\nThere came a point when I felt hopeless and even considered putting her to sleep because I couldn't bear to see her suffer anymore. But Dr. Esraa gave Snowy a chance when I was ready to give up. Her confidence, compassion, and dedication gave me hope that my cat could still recover.\n\nShe took the time to understand Snowy's condition, explained everything clearly, and treated her with so much patience and compassion. Most importantly, she never made us feel like just another case-she genuinely cared about Snowy's recovery and well-being.\n\nToday, Snowy is recovering well, and for the first time in a long while, we are seeing real progress and hope. I am deeply grateful to Dr. Esraa and the entire Pet Dreamland team for their support, commitment, and genuine care.\n\nI hope to share a photo of Snowy soon once she has fully recovered. Thank you for giving my precious cat a second chance and for treating her like family. I will never forget what you have done for us.\n\nHighly recommended!",
+   "owner_reply": "Thank you so much for sharing Snowy's journey with us. Your kind words truly mean to our entire team. We're so grateful that you trusted us with Snowy's care, and it means so much to know that we could be part of her recovery. Seeing her make progress is the greatest reward for us. We wish Snowy continued healing and can't wait to see her photo when she's feeling even better. Thank you for letting us be part of her story."
+  },
+  {
+   "author": "Jennifer L. Yarbrough",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Our senior dog, Cola, has been hospitalized here twice and they always take very good care of her. They have a lot of patience (she gets very hyper at the vet) and I believe without their good care Cola would not have survived her ailments, particularly her pancreatitis, as long as she has. We are very grateful to the vets and staff who look after her with kindness. They obviously really love animals.",
+   "owner_reply": "Thank you so much for your heartfelt review and for trusting us with Cola’s care. 🐾❤️it truly means a lot to our team to hear your kind words. We know how special Cola is, and we are very grateful to have been able to support her through her treatments, especially during such difficult times with her pancreatitis."
+  },
+  {
+   "author": "Sabrina Stephanie",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I love how Dr. Ahmed handle my little peach during her first vet visit. And also Lousel Dr. Ahmed assistant. They are a great team. And its also nice to experience this mobile vet visit very convenient most specially to all pet parents who don’t have car to travel. Instead pf paying expensive pet taxi try Pet dreamland Mobile vet visit ❤️🥰",
+   "owner_reply": "Dear Sabrina,<br><br>Thank you so much for your lovely review! ❤️ We are so happy to hear that Peach had a comfortable experience during her first vet visit.<br><br>We’re also delighted that you were happy with Dr. Ahmed and Lousel. We will definitely share your kind words with them. 🥰<br><br>We’re glad you found our mobile vet service convenient, especially for pet parents who may not have easy transportation. Your trust and support mean a lot to us!<br><br>We look forward to caring for Peach again in the future. 🐾❤️<br><br>Best regards,<br>Pet Dreamland Veterinary Clinic<br>"
+  },
+  {
+   "author": "Tanya L.",
+   "rating": 4,
+   "when": "Edited 6 months ago",
+   "text": "We came here for our annual vaccination and had a great experience. The clinic is good, the staff are very friendly, and many thanks to Dr. Ahmed for the care. They also have a wide selection of Royal Canin, Pro plan and other veterinary diets available.\n\nUPD\nI’m updating my review since they don’t have separate reviews for grooming services.\nOverall, they did a fairly good job grooming and washing my cat, but the smell of shampoo or perfume on his fur was very strong and only faded about three weeks after the grooming.\nAlso, his claws were cut too short, and they started bleeding — I find this unacceptable and extremely careless work.",
+   "owner_reply": "We truly appreciate your kind words. It’s wonderful to know that our veterinarian’s care and patience made a positive difference for your pet. Thank you for trusting us. we’re always here to provide the best care for your furry family members."
+  },
+  {
+   "author": "Sandra Hilt (Sandy Tyger)",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I am so happy, I found this mobile vet clinic! Not only are the very competent and super friendly, but they also do fair pricing. Dr. Ahmed Magdi took care of my 4 (not always friendly to strangers) cats with so much patience and love for animals, I cannot thank him enough!",
+   "owner_reply": "Dear Sandra,<br><br>Thank you so much for your wonderful review! ❤️ We are truly happy to hear that you had such a positive experience with our mobile vet service.<br><br>We’re especially glad that Dr. Ahmed Magdi was able to care for all four of your cats with patience, kindness, and understanding. We know that some pets can be a little cautious with strangers, so it means a lot to hear that he made them feel comfortable. 🐾🥰<br><br>Thank you for your trust, kind words, and appreciation of our service. We will definitely share your lovely feedback with Dr. Ahmed and the team.<br><br>We look forward to caring for your cats again in the future! ❤️<br><br>Best regards,<br>Pet Dreamland Veterinary Clinic<br>"
+  },
+  {
+   "author": "Charlise Lane",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "I’ve recently moved to Dubai and was sceptical about choosing a new vet but Dreamland have made me feel so comfortable. All the staff are so kind and welcoming, thank you especially to Dr Prince. Highly recommend!",
+   "owner_reply": "Dr. Prince & Pet dreamland team Thank you, Charlise, for your kind review and recommendation. We are delighted to hear that we were able to make you feel comfortable after your move to Dubai. Your kind words about our team, especially Dr. Prince, mean a lot to us. We truly appreciate your trust in Pet Dreamland Veterinary Clinic and look forward to continuing to care for your pet. 🐾😊<br>"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    504,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    512,
+    341
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    385,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    385,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    410,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    410,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    410,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    293,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    329
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/pet-dreamland-veterinary-clinic/",
+ "buy_likelihood": 8,
+ "notes": "4.9, replies to 100%, Creek Harbour (affluent area). Landline.",
+ "display_name": "Pet Dreamland Veterinary Clinic"
+}

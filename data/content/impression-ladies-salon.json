@@ -1,0 +1,36 @@
+{
+ "preset": "noir-red",
+ "theme": {"accent": "#D9B451", "accent_text": "#E6C46A", "on_accent": "#14100A", "bg": "#0C0B0A", "surface": "#161412", "surface_2": "#201D1A", "duo": "#4A3C1A", "busy": "#9C7A28", "glow": "rgba(217,180,81,.15)", "band_bg": "#F6F1E6", "band_accent": "#8C6A1E", "display": "\"Playfair Display\",Georgia,serif", "body": "\"Lato\",system-ui,sans-serif", "google_fonts": "family=Playfair+Display:ital,wght@0,600;1,600&family=Lato:wght@400;700&family=Cairo:wght@700", "dw": "600", "dstyle": "normal", "dcase": "none", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "Impression", "sub": "Ladies Salon · Karama", "mark": "I", "footer_word": "Impression"},
+ "seo": {"title": "Impression Ladies Salon Karama | Packages from AED 105 · Hair Colour, Keratin & Lashes", "description": "Impression Ladies Salon, Shop 3, R444 Al Wasl building, near ADCB Metro Exit 1, Karama: hair colour, keratin and Botox, lash extensions, hydra facial, gel nails and packages from AED 105. 4.9 from 289 reviews."},
+ "hero": {"variant": "split", "ar_name": "امبريشن", "kicker": "Shop 3 · R444 Al Wasl Building · Near ADCB Metro Exit 1", "title_lines": ["Make an", "impression."],
+   "lede": "Hair colour, keratin and Botox, lash extensions, hydra facials and gel nails, a minute from ADCB Metro, with mix-and-match packages from AED 105.",
+   "image": "img/hero.jpg", "image_alt": "Impression salon styling stations with pink walls", "secondary": {"label": "Packages", "href": "#packages"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Impression Ladies Salon, I'd like to book.",
+ "proof_note": "4.9 from 289 reviews",
+ "address_lines": ["Impression Ladies Salon, Shop 3, R444 Al Wasl Building", "Near ADCB Metro Exit 1, Al Karama, Dubai"],
+ "ticker": ["Hair colour", "Keratin", "Hair Botox", "Lash extensions", "Hydra facial", "Gel nails", "Packages from AED 105"],
+ "sections": [
+  {"type": "menu", "id": "packages", "nav": "Packages", "eyebrow": "Packages", "title": "Pick your services,", "title_dim": "pay one price.",
+   "categories": [{"name": "Packages", "items": [
+    {"name": "Express package", "desc": "Clean-up or manicure, half arm & half leg waxing, eyebrow & upper lip", "price": "AED 105"},
+    {"name": "Classic package", "desc": "Any 5 for AED 125 or any 7 for AED 155: manicure, pedicure, facial, waxing, henna, wash & dry, trim, reflexology", "price": "From AED 125"},
+    {"name": "Premium package", "desc": "Any 5 for AED 190, 7 for 235, 10 for 300: gelish mani/pedi, Brazilian, gold or diamond facial, blow-dry, hot oil", "price": "From AED 190"},
+    {"name": "Economy package", "desc": "Face wax, hot oil or root touch-up, half arm & leg waxing, underarm, brows & lip", "price": "AED 205"}]}],
+   "note": "From the salon's printed price list. Packages valid 30 days; T&C apply."},
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Colour, care", "title_dim": "and lashes.",
+   "items": [
+    {"name": "Colour & highlights", "feature": true, "img": "img/burgundy.jpg", "alt": "Burgundy balayage waves", "desc": "Global colour, balayage and root touch-ups.", "quote": "Gloria did an excellent job with my haircut and root colour. She was professional and attentive.", "cite": "Jyoti P."},
+    {"name": "Cuts & styling", "img": "img/layers.jpg", "alt": "Layered blow-dry with highlights", "desc": "Layers, curls and blow-dry."},
+    {"name": "Keratin & Botox", "img": "img/straight.jpg", "alt": "Sleek straight hair", "desc": "Smoothing and repair."},
+    {"name": "Nails & lashes", "img": "img/nails.jpg", "alt": "Glossy brown almond nails", "desc": "Gel nails, extensions and lash extensions."}
+   ],
+   "perks": ["Open daily 10 AM – 10 PM", "Near ADCB Metro", "Hydra facial"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan your visit", "title": "Come in when", "title_dim": "it's calm."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Nisha and Gloria.", "title_dim": "Named in 9 reviews each.",
+   "items": [{"name": "Nisha", "count": 9, "role": "Senior stylist", "quote": "I travel to lots of countries and have tried different salons, but Nisa's customer service really impressed me.", "cite": "Fathima R."}, {"name": "Gloria", "count": 9, "role": "Hair & colour"}]},
+  {"type": "gallery", "images": [{"src": "img/curls.jpg", "alt": "Glossy curls"}, {"src": "img/blue.jpg", "alt": "Blue-black colour"}, {"src": "img/waves.jpg", "alt": "Brunette waves"}, {"src": "img/nails2.jpg", "alt": "Pale pink nails"}, {"src": "img/station.jpg", "alt": "Wash and styling area"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Near ADCB Metro,", "title_dim": "Karama."}
+ ]
+}

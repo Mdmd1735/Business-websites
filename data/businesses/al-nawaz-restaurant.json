@@ -1047,7 +1047,8 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "skipped",
  "site_url": "https://mdmd1735.github.io/Business-websites/al-nawaz-restaurant/",
- "buy_likelihood": 7
+ "buy_likelihood": 7,
+ "notes": "Appears to have a website (alnawazrestaurant.com, menu matches)."
 }

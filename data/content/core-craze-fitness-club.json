@@ -1,0 +1,29 @@
+{
+ "preset": "steel-volt",
+ "theme": {"frame": "square", "hero_ratio": "3/4"},
+ "brand": {"name": "Core Craze", "sub": "Fitness Club · Naif", "mark": "C", "footer_word": "CORE CRAZE"},
+ "seo": {"title": "Core Craze Fitness Club | 24-Hour Gym in Naif, Deira · Traditional Souk Shabia", "description": "Core Craze Fitness Club, 29a Street, Naif, Deira: 24-hour gym with new machines, free weights, cardio, certified trainers and a friendly, budget-friendly vibe. Rated 4.9 from 90 reviews."},
+ "hero": {"variant": "split", "kicker": "29a Street · Naif · Deira Traditional Souk", "title_lines": ["Yes,", "you can."],
+   "lede": "A new 24-hour gym in Naif with fresh machines, a full dumbbell wall, cardio and certified trainers, at prices members call budget-friendly. Closed only on Sunday mornings.",
+   "image": "img/hero.jpg", "image_alt": "Core Craze gym floor with hexagon lights and lime-green pillars", "secondary": {"label": "The gym", "href": "#gym"}},
+ "cta_label": "Ask about membership", "cta_text": "Hi Core Craze, I'd like to know your membership prices.",
+ "proof_note": "4.9 · replies to 70%",
+ "address_lines": ["Core Craze Fitness Club, 29a Street", "Naif, Deira, Dubai"],
+ "ticker": ["Open 24 hours", "New machines", "Free weights", "Cardio", "Certified trainers", "Budget-friendly"],
+ "sections": [
+  {"type": "services", "id": "gym", "nav": "The gym", "eyebrow": "Inside", "title": "New kit,", "title_dim": "no excuses.",
+   "items": [
+    {"name": "Strength floor", "feature": true, "img": "img/machines.jpg", "alt": "Plate-loaded machines with lime trim", "desc": "New plate-loaded and cable machines.", "quote": "I've been to almost every gym in this area, but Core Craze is the one I decided to stay with.", "cite": "Chen C."},
+    {"name": "Dumbbells", "img": "img/dumbbells.jpg", "alt": "Dumbbell rack with blue lighting", "desc": "A full dumbbell wall and benches."},
+    {"name": "Cardio", "img": "img/treadmills.jpg", "alt": "Treadmills", "desc": "Treadmills and bikes."},
+    {"name": "Personal training", "img": "img/duo.jpg", "alt": "Trainer with a member", "desc": "Certified trainers for every level."}
+   ],
+   "perks": ["Open 24 hours (Sun 4 – 9 PM)", "Budget-friendly", "Good music"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Beat the crowd", "title": "Train when", "title_dim": "it's empty."},
+  {"type": "gallery", "images": [{"src": "img/lights.jpg", "alt": "Hexagon ceiling lights"}, {"src": "img/yescan.jpg", "alt": "Yes You Can pillar"}, {"src": "img/believe.jpg", "alt": "Believe in yourself wall"}, {"src": "img/floor.jpg", "alt": "Training floor", "wide": true}, {"src": "img/entrance.jpg", "alt": "Core Craze entrance", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Ask for this month's rate.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a monthly membership?", "Do you have personal training packages?", "How do I find the gym from the metro?", "Can I try a day pass?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Naif,", "title_dim": "Deira.", "landmark": "About 10 minutes' walk from the metro, in the Traditional Souk Shabia area"}
+ ]
+}

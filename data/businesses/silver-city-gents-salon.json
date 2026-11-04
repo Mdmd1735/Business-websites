@@ -1,0 +1,882 @@
+{
+ "slug": "silver-city-gents-salon",
+ "name": "Silver City Gents Salon",
+ "place_id": "ChIJy9RxCGJdXz4RLTlG84UJ9hk",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Al Nahda, Sharjah",
+ "address": "Al Nahda Al Nahda Sahara plaza block C - Sharjah - United Arab Emirates",
+ "building": "Al Nahda Sahara Plaza",
+ "location": {
+  "lat": 25.2994232,
+  "lng": 55.3788523
+ },
+ "phone": "+971 6 715 5921",
+ "rating": 4.7,
+ "userRatingCount": 480,
+ "rating_distribution": {
+  "oneStar": 29,
+  "twoStar": 2,
+  "threeStar": 5,
+  "fourStar": 21,
+  "fiveStar": 423
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Silver%20City%20Gents%20Salon&query_place_id=ChIJy9RxCGJdXz4RLTlG84UJ9hk",
+ "website": "",
+ "categories": [
+  "Hair salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "7 AM to 11:45 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "7 AM to 11:45 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "7 AM to 11:45 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "7 AM to 11:45 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "7 AM to 11:45 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "7 AM to 11:45 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "7 AM to 11:45 PM"
+  }
+ ],
+ "owner_description": "A new 18 Chairs Men's Salon with Latest equipment and Safe and Internationally renown Brand for you Hair care, with experienced, multinational Hairstylists at your service. All services AED 5, Great weekly Offers that is Pocket friendly, new offers every week , for great savings.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "beard trim",
+  "head massage",
+  "expert staff",
+  "shaving",
+  "affordability",
+  "creative hairdresser",
+  "hair stylist jashan",
+  "polite staff",
+  "grooming",
+  "prabesh"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 65
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 72
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   }
+  ]
+ },
+ "owner_reply_rate": 0.2,
+ "reviews": [
+  {
+   "author": "Mohamed Salman",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I recently visited a salon in Sharjah and had a great experience. One of the best and most affordable salons I’ve been to. Dawood was extremely customer-friendly, professional, and genuinely skilled as a hairstylist. He listened carefully to what I wanted and delivered an excellent haircut with great attention to detail. Highly recommended for anyone looking for quality service at a reasonable price.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mr. Maruf",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "My Experience at This Barbershop\n\nI would not recommend this barbershop to anyone who is looking for a good haircut. From my experience, some of the people cutting hair there are trainees who are still learning and receiving training.\n\nThe barber also seemed very careless while cutting my hair. The overall service was not good, and I was very disappointed with the result.\n\nI simply told the barber that he was not cutting my hair the way I had asked. I explained how I wanted my hairstyle to look, but he did not follow my instructions properly. Instead of calmly listening to my concern, he became angry with me and started speaking to me disrespectfully.\n\nI believe that if a customer politely explains what they want, the barber should listen and try to understand the customer's request. Getting angry and speaking rudely to a customer is not professional.\n\nIf you are thinking about coming to this barbershop because the haircut is cheaper, don't assume that you will necessarily get a good haircut just because the price is low. You could end up wasting your time and being unhappy with your appearance.\n\nBased on my personal experience, I would not recommend this barbershop if you care about getting the hairstyle you asked for and receiving professional customer service. I would personally prefer to pay a little more and go to an experienced barber who listens to customers and respects their preferences.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ajlaan ck",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "Dear Owner,\n\nIf there were an option to give zero stars, I would have chosen that.\n\nI visited your salon tonight for a haircut, shave, and facial. Unfortunately, I had a very disappointing experience with the barber wearing the maroon cap with the \"Dubai\" label.\n\nHe was extremely rude throughout my visit. What was even more concerning was that he spent most of the time watching Punjabi videos on his phone instead of paying attention to his work. While using a blade on my head, his eyes were on his phone rather than on what he was doing. This is completely unprofessional and could have caused a serious injury.\n\nBecause of his rude attitude and unprofessional behavior, I decided to get only the haircut and cancelled the shave and facial that I had originally planned. I did not feel comfortable continuing with the service.\n\nI have been a regular customer at your salon, but after this experience, I will not be returning. I hope you take this feedback seriously and ensure your future customers do not have to go through the same experience.\n\nIf you need to verify what happened, please review your CCTV footage in the upstairs\nbetween 10:15 PM and 10:30 PM. It will clearly show the barber's behavior during my service.\n\nI hope you address this issue by providing better training and ensuring your staff treat customers with the professionalism and respect they deserve.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Haroon",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a great experience at Silver City Gents Salon. The haircut costs only AED 5, and the cutting style is excellent. The staff are very friendly and professional. Mandeep Singh (nickname: Laadi) did my haircut, and he was very skilled, polite, and attentive. I'm really happy with the service and would highly recommend this salon to anyone looking for a quality haircut at an affordable price.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muneeb Ahmed",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I recently visited Silver City Gents Salon located in Al Nahda Sahara Plaza Block C, Sharjah, The reasons I’m mentioning the exact location is you too must visit the place and know how worth your 5 dhms are , and I must say my experience was genuinely impressive. The salon has a very welcoming vibe, and from the moment I walked in, I was greeted politely by the staff. The waiting time was minimal because their system of handling customers is well organized and smooth. The overall atmosphere feels clean, modern, and comfortable, which immediately gives a good first impression. I felt relaxed and confident that I was in the right place for grooming services.\n\nThe haircut service was the highlight of my visit. The barber named Aadil and Rehan (I’ve cut my hair with both ) was extremely skilled and listened carefully to what I wanted before starting. Aadil gave me suggestions that actually suited my face shape and hair type, which showed real experience. The fade and trimming were done with great precision, and the finishing looked very sharp and clean. I also appreciated how patient the barber was, making sure every detail was perfect before completing the style. The system inside the salon is efficient, so you don’t feel rushed or ignored, and everything flows nicely from entry to service completion.\n\nThey also offer many additional grooming services such as beard trimming, facials, waxing, hair treatments, and head massage, which makes it a complete men’s grooming spot. I noticed the place is very hygienic, and all tools are properly sanitized. The pricing is reasonable compared to the quality they provide, which makes it worth every dirham. The staff behavior is respectful and friendly, always ready to help and guide you with services if you are unsure. It is rare to find a salon that balances quality, cleanliness, and affordability so well in one place.\n\nOverall, I am very satisfied with my visit to Silver City Gents Salon and will definitely return again. I highly recommend it to anyone in Sharjah looking for a professional haircut and reliable grooming experience.\n\nTruly a trusted salon for consistent quality, great service, and a comfortable grooming experience every single time you visit highly recommended always again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Malan Perera",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Mr. Rihan is an exceptional professional who provides top-tier service. He delivered a flawless haircut and beard trim, maintained excellent communication, and concluded the experience with a deeply relaxing head massage.",
+   "owner_reply": null
+  },
+  {
+   "author": "Saif Sm",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Manoj did a very good job. This salon offers good services at reasonable rates and have many seats too. Also, manoj does his work with great dedication. They should hire more people like him.",
+   "owner_reply": null
+  },
+  {
+   "author": "umar malik",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Hi Thank you Naveed for cutting my hear nicely I am fully satisfied with the service of Silver City saloon as I always comes here and definitely will recommend in my contact list.\n\nThanks once again Naveed for your such a lovely services 😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Jerin Th",
+   "rating": 1,
+   "when": "a month ago",
+   "text": "Manager please note: one staff can ruin your reputation. Uttermost disgusting behaviour experienced from one of your staff. He was not wearing a mask and was chewing something. Disturbing thing was, he was putting his hands on his mouth and nose.\n\nPlease don't entertain this kind of staff behaviour in workplace.\n\nNot asking to be 100% hygienic, but keep a bare minimum.\n\nThank you!",
+   "owner_reply": null
+  },
+  {
+   "author": "Shan Muhammed",
+   "rating": 1,
+   "when": "7 months ago",
+   "text": "WORST SALON IN MY LIFE..This is the first time in my life that I have been to such a bad salon. When I go there , I had an average look. After the cut, it was completely looks so bad. The staff who cut my hair was incredibly rude. Every time when he im telling something abt the cut or he is asking  he looks so mad and angry. And how hard do they use the machine.  Terrible pain. I went to the shop in Al Nahda, Sharjah. A staff member little old with long beard on the left side of the shop. Sorry to say this. But its maximum 10 out of 100.",
+   "owner_reply": "We sincerely apologize for the inconvenience caused. This is not the level of service we aim to provide.Kindly contact us at +971 52 423 5725, to know details of the inconvenience caused to you so that we can make it right and improve.<br>As a token of our apology, we would like to offer you a complimentary facial on your next visit. Kindly contact us at +971 52 423 5725, and we will arrange it for you.<br>Thank you for your feedback, and we hope to serve you better next time."
+  },
+  {
+   "author": "Chalana Madubashitha",
+   "rating": 1,
+   "when": "11 months ago",
+   "text": "Very bad service, the person who did my hair cut even didn’t know how to cut the hair properly. Very unprofessional. Even I showed him my usual hair cut, but the haircut he did not what I expect from the barber. 1 st time in UAE happened like this. I showed him a photo 3-4 times but he didn’t care. He cut my hair like a school child hair cut. I told him to cut my hair like v shape. That’s my usual hair cut. He cut my hair like a trainee barber.\n\nSecondary He put face mask on my face then he hold the hair dryer on my face until it dry. Because he had another customer. First time I tried this salon and I never recommended this salon to anyone who wants cut the hair.\n\nDon’t think about 5 AED cheaper do your hair cut from the proper salon. This people very unprofessional and very rude. Don’t know how to talk, maintain hygiene. Very unprofessional service.",
+   "owner_reply": "We’re very sorry to hear about your experience. This is not the standard we aim to provide. We take your feedback seriously and will review this matter with our team. Please contact us directly so we can understand what happened and offer a proper resolution.<br>Kindly reach out to us at silvercitysalon23@gmail.com. <br>Your review helps us improve.<br>Thank you for bringing this to our attention. "
+  },
+  {
+   "author": "Jerry Gnanaprakasham",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Mr. Jagadhish is reallywonderful, he knows exactly what we require and how we need to look , that he will make it true. Truly i am happy customer. Kudos to Mr. Jagadish.",
+   "owner_reply": null
+  },
+  {
+   "author": "sheikh salman",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "sourav aneja.  is very good person and having very good knowledge of hair cutting and beard setting also communicates very well .doing his work with hygiene way . i am suggesting to come his shop and  meet him give him chance to serve you.",
+   "owner_reply": null
+  },
+  {
+   "author": "Manveer Mangat",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Really happy with the service. Jagdish is skilled, patient, and understands exactly what style suits you. Definitely recommended *Jagdish Singh .",
+   "owner_reply": null
+  },
+  {
+   "author": "Ramesh Thayan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "It was a wonderful experience with Jagdeesh Singh. He was very much welcoming , polite and understand the requirements and does exactly what I wanted. I strongly recommend him . Worth for money",
+   "owner_reply": null
+  },
+  {
+   "author": "Arman world",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had a great experience everything I visited especially my last cut was the best I hope ts business keeps running so I come here all the time. Saurav aneja",
+   "owner_reply": null
+  },
+  {
+   "author": "Jonathan Bantogon",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I have a very good experience in this barbershop and I highly recommend it. Thanks to Arif for giving me the best haircut and services. He is my barber for more than a year now. Thanks again Arif!",
+   "owner_reply": null
+  },
+  {
+   "author": "md hisham",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a great experience with the Punjabi gentleman. He listened carefully to every word and understood exactly what I wanted. The service was excellent, and this is the best salon in the area.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nazim Naqsh",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "It was an Awesome experience, i was served from Mr Rihan who really is professional  and have a smooth touch on the skin, surely having a high quality patience with the customer",
+   "owner_reply": null
+  },
+  {
+   "author": "Sanoop Ak",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I have done beard dressing , Mr adil have done a great work and i never ever done it with a very low cost. This guy is very friendly as welk as skill full. If you want to cut your hair and beard he is the ryt person👌👌👌",
+   "owner_reply": null
+  },
+  {
+   "author": "Danish Jamil",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Hi every one Sourav aneja is good persan and very talented person he doing my hair work is very nice thanks sourav aneja",
+   "owner_reply": "Thank you for your wonderful feedback! Our team always aims to deliver quality service with care and attention to detail, and we’re glad it shows. We look forward to welcoming you again soon!"
+  },
+  {
+   "author": "Tinto Michael",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Just wanted to say my personal beautician Abdallah at silvery city is the best I have had ever in my life. He is very empathetic and does his artistic work so personalised that I walk off a delighted customer every time. Thanks Abdallah and Hats off to you! 🥂",
+   "owner_reply": null
+  },
+  {
+   "author": "Akash Karan",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Nice service and good way of taking care for costumer and all good stafs Sourav Aneja made good cutting and shape wat I asked",
+   "owner_reply": null
+  },
+  {
+   "author": "Ebin John",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Amazing neighborhood barber shop with the best vibe! The team is super friendly, the service is top‑notch, and you always walk out looking fresh and confident. It’s the kind of place that feels like home the moment you step in.",
+   "owner_reply": null
+  },
+  {
+   "author": "Essa Khatri",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "Worst saloon. The staff dont respect the people waiting in queue and take other people. 2 staff did the same thing Suno and the one opposite to him. The manager was not present so they will do what the what. On asking them why they did take my son no reply.",
+   "owner_reply": null
+  },
+  {
+   "author": "Innocent Prince",
+   "rating": 1,
+   "when": "6 months ago",
+   "text": "Very bad service and cutting. I said to him only cut front hair not back but he also cut my back hair in lower part. That time I didn't notice and went to room and after that when I see carefully in my mirror, I noticed he cut my back hair as well. Then I again went to that salon and I told him like what happened. I said, you cut my back hair lower part unless I told you to cut. Then I said, now it's not looking good so you trim my back hair with scissors so that it looks good. He responded I am not going to cut. If you want to trim again you have to pay for this. I said it's your fault. I didn't told you to cut my back hair even though you cut so now trim and make a bit good. He didn't agree even he threatened me , shouted me , and said I will not cut you down whatever you want to do. After that there is another person who supported him and he also spoke same like as who cut my hair.\nI just want to say that, your staff have no manners to speak with customers, to manage problems, to deal with any issues. They started to threatened me.\nSo, I am not going to cut my hair in silver city gents salon anymore in Al Nahda Sharjah.",
+   "owner_reply": "Dear Customer, we’re sorry to hear about your experience. This is not the standard of service we aim to provide at Silver City Gents Salon. We take your feedback seriously and will address this matter with our staff immediately. <br>And Yes You were right. You don't have to pay again<br>Customer satisfaction is very important to us, and we regret the inconvenience caused. Kindly visit us again so that we can rectify it for you.<br>Contact our manager (Ismail) directly so we can resolve this for you. Thank you for bringing this to our attention."
+  },
+  {
+   "author": "khalid Malik",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "One of the best saloon in Area. We have our hair cut and beard done by Mr Adil. One of the best barbers we have ever met and encountered. Even at young age , perfection and dedication is his definition. We wish them best of luck.",
+   "owner_reply": "Thank you for your wonderful feedback! Our team always aims to deliver quality service with care and attention to detail, and we’re glad it shows. We look forward to welcoming you again soon!"
+  },
+  {
+   "author": "Tufail Waris",
+   "rating": 1,
+   "when": "Edited 5 months ago",
+   "text": "No quewe system. I waited for 15 minutes and they started hair cutting of person who came after me. Few staff are very good and hard working but few are just careless. I am their regular customer but every time I face the same issue.",
+   "owner_reply": null
+  },
+  {
+   "author": "irfan ullah",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a good experience at Silver City Gents Salon. If you take a package, the service is excellent and the results are really impressive. They pay great attention to detail, and you can feel the difference in the overall grooming. Credit to Manoj",
+   "owner_reply": "Thank you for your valuable comment. We look forward to serve our customers well. "
+  },
+  {
+   "author": "waqas shah",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "I visited many times but AC is not working most of the time which is very bad, if you don't have enough budget to install the AC then better close the shop, i was sitting there full of sweating and it's happend with me for last 4 times, really bad environment and disappointed 😞",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "backup",
+ "site_url": "https://mdmd1735.github.io/Business-websites/silver-city-gents-salon/",
+ "buy_likelihood": 6,
+ "notes": "Only 4 photos."
+}

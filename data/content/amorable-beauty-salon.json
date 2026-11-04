@@ -1,0 +1,35 @@
+{
+ "preset": "midnight-teal",
+ "theme": {"bg": "#0B1410", "surface": "#122019", "surface_2": "#192B22", "accent": "#D6B25E", "accent_text": "#E4C576", "on_accent": "#14100A", "duo": "#3A3A22", "busy": "#8C7A3A", "band_bg": "#F4EFE6", "band_accent": "#2E6B45", "frame": "arch", "hero_ratio": "3/4", "display": "\"Cormorant Garamond\",Georgia,serif", "google_fonts": "family=Cormorant+Garamond:ital,wght@0,600;1,600&family=Figtree:wght@400;500;600&family=Cairo:wght@700", "dw": "600"},
+ "brand": {"name": "Amorable", "sub": "Beauty Salon · Muraqqabat", "mark": "A", "footer_word": "Amorable"},
+ "seo": {"title": "Amorable Beauty Salon Deira | Japanese & Vietnamese Head Spa, Hair Packages from AED 159", "description": "Amorable Beauty Salon, 101 Bu Haleeba Building, Muraqqabat Road, near Asiana Grand Hotel: Japanese and Vietnamese head spa, Moroccan bath, massage, balayage and keratin packages from AED 159. 4.9 from 347 reviews."},
+ "hero": {"variant": "split", "kicker": "101 Bu Haleeba Building · Muraqqabat Road · Near Asiana Grand", "title_lines": ["Affordable", "luxury,", "head to toe."],
+   "lede": "Japanese and Vietnamese head spas, Moroccan bath and full-body massage, balayage, keratin and nails, in a green-and-gold salon near Asiana Grand Hotel.",
+   "image": "img/hero.jpg", "image_alt": "Amorable lounge with flower wall and a gold moon mirror", "secondary": {"label": "Packages", "href": "#packages"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Amorable, I'd like to book a head spa.",
+ "proof_note": "Replies to 97% of reviews",
+ "address_lines": ["Amorable Beauty Salon, Flat 101, Bu Haleeba Building", "Muraqqabat Road, near Asiana Grand Hotel, Deira"],
+ "ticker": ["Japanese head spa", "Vietnamese head spa", "Moroccan bath", "Full body massage", "Balayage", "Keratin", "Foot spa"],
+ "sections": [
+  {"type": "menu", "id": "packages", "nav": "Packages", "eyebrow": "Hair packages", "title": "Three packages,", "title_dim": "everything included.",
+   "categories": [{"name": "Hair packages", "items": [
+    {"name": "Ultimate hair glow-up", "desc": "Keratin, protein or Botox, full hair colour, hair collagen, haircut, blow-dry & styling", "price": "AED 449"},
+    {"name": "Shine & mesmerize", "desc": "Balayage, highlight or ombré, Olaplex, full colour, toning, haircut, blow-dry & styling", "price": "AED 399"},
+    {"name": "Luxe colour", "desc": "Full hair colour, Olaplex, hair collagen, blow-dry & styling", "price": "AED 159–248"}]}],
+   "note": "From the salon's printed package card. Ask on WhatsApp for head spa and massage prices."},
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Signature treatments", "title": "The head spa", "title_dim": "people travel for.",
+   "items": [
+    {"name": "Japanese & Vietnamese head spa", "feature": true, "img": "img/headspa.jpg", "alt": "Client relaxing in the head spa basin", "desc": "Scalp cleanse, massage and water therapy.", "quote": "Miss Thao gave my wife the best Vietnamese head spa experience!", "cite": "Mark Louie M."},
+    {"name": "Massage & Moroccan bath", "img": "img/spa-room.jpg", "alt": "Spa beds under the Amorable logo", "desc": "Full-body massage, foot spa and Moroccan bath."},
+    {"name": "Balayage & colour", "img": "img/balayage.jpg", "alt": "Copper balayage", "desc": "Balayage, highlights and Olaplex."},
+    {"name": "Nails", "img": "img/nails.jpg", "alt": "Pink nails on roses", "desc": "Manicure, pedicure and gel."}
+   ],
+   "perks": ["Open daily 10 AM – 10 PM", "Near Asiana Grand Hotel", "Permanent makeup"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan your visit", "title": "Book a calm", "title_dim": "afternoon slot."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The therapists", "title": "Thao and Rowena.", "title_dim": "Ask for them.",
+   "items": [{"name": "Thao", "count": 14, "role": "Head spa specialist"}, {"name": "Rowena", "count": 11, "role": "Massage therapist", "quote": "Lovely lady, and very professional. She took her time.", "cite": "Aveen M."}, {"name": "Rose", "count": 5, "role": "Beauty"}, {"name": "Sital", "count": 3, "role": "Hair"}]},
+  {"type": "gallery", "images": [{"src": "img/logo.jpg", "alt": "Neon Amorable logo on flowers"}, {"src": "img/night.jpg", "alt": "Moon mirror lit at night"}, {"src": "img/floor.jpg", "alt": "Styling floor"}, {"src": "img/reception.jpg", "alt": "Sequin reception desk"}, {"src": "img/alcoves.jpg", "alt": "Lit alcove wall"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Muraqqabat Road,", "title_dim": "Deira."}
+ ]
+}

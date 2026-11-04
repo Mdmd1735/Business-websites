@@ -1,0 +1,31 @@
+{
+ "preset": "ink-paper",
+ "theme": {"bg": "#F7F2EE", "surface_2": "#EDE3DC", "accent": "#B0384A", "accent_text": "#93303F", "on_accent": "#FFFFFF", "duo": "#EFCFD4", "busy": "#B0384A", "band_bg": "#1F1517", "band_accent": "#F4B4BF", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "Monroe & Me", "sub": "Beauty Salon · Al Barsha", "mark": "M", "footer_word": "Monroe & Me"},
+ "seo": {"title": "Monroe & Me Beauty Salon Al Barsha | Russian Manicure, Lashes & Keratin, The Iridium Building", "description": "Monroe & Me Beauty Salon, The Iridium Building, Al Barsha 1: Russian manicure, gel and overlay nails, lash extensions and lifts, hydra facial, keratin and blow-dry. 4.7 from 386 reviews."},
+ "hero": {"variant": "collage", "kicker": "The Iridium Building · Al Barsha 1", "title_lines": ["Russian manicure,", "done perfectly."],
+   "lede": "Clean, precise Russian manicures, gel overlays and nail art by master technicians, plus lash extensions and lifts, hydra facials, keratin and blow-dry in Al Barsha.",
+   "image": "img/hero.jpg", "image_alt": "Monroe & Me salon with arched mirrors and gold rings lighting", "collage": ["img/frenchflower.jpg", "img/brown.jpg"], "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Monroe & Me, I'd like to book a manicure.",
+ "proof_note": "386 reviews",
+ "address_lines": ["Monroe & Me Beauty Salon, The Iridium Building", "Al Barsha 1, Dubai"],
+ "ticker": ["Russian manicure", "Gel overlay", "French", "Nail art", "Lash extensions", "Lash lift", "Hydra facial", "Keratin"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Nails are our", "title_dim": "craft.",
+   "items": [
+    {"name": "Russian manicure", "feature": true, "img": "img/white3d.jpg", "alt": "White nails with 3D flower art", "desc": "Precise cuticle work and a long-lasting finish.", "quote": "I have been coming to Monroe and Me for four years and always get my nails done with Jarkynai. She's such a perfectionist but really gentle.", "cite": "Jasmin P."},
+    {"name": "Gel & overlay", "img": "img/cateye.jpg", "alt": "Cat-eye gel nails", "desc": "Overlay, gel polish and French."},
+    {"name": "Nail art", "img": "img/gold.jpg", "alt": "Gold foil nail art", "desc": "Chrome, foil, 3D and custom designs."},
+    {"name": "Lashes", "desc": "Lash extensions and lash lifts."},
+    {"name": "Keratin & blow-dry", "img": "img/straight.jpg", "alt": "Long straight glossy hair", "desc": "Keratin, blow-dry and hydra facials."}
+   ],
+   "perks": ["Open daily 11 AM – 9 PM", "Master nail technicians", "Multiple branches"]},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Nail masters", "title": "Jarkynai, Amina,", "title_dim": "Madina and Tatiana.",
+   "items": [{"name": "Jarkynai", "count": 6, "role": "Master nail technician"}, {"name": "Amina", "count": 3, "role": "Nails", "quote": "She's gentle, attentive, and has a great eye for detail.", "cite": "Olga S."}, {"name": "Madina", "count": 3, "role": "Nails"}, {"name": "Tatiana", "role": "Nails"}]},
+  {"type": "gallery", "images": [{"src": "img/red.jpg", "alt": "Deep red nails"}, {"src": "img/pinktips.jpg", "alt": "Pink ombré tips"}, {"src": "img/master.jpg", "alt": "Master Jarkynai's French overlay"}, {"src": "img/card.jpg", "alt": "Monroe & Me card with lips logo"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Prices", "title": "Ask for the menu.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a Russian manicure?", "Can I book with Jarkynai?", "Price for lash extensions?", "Do you have a slot today?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "The Iridium Building,", "title_dim": "Al Barsha."}
+ ]
+}

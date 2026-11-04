@@ -1,0 +1,29 @@
+{
+ "preset": "luxe-gold",
+ "theme": {"bg": "#0C0C0D", "surface": "#161617", "surface_2": "#202022", "accent": "#D4AF37", "accent_text": "#E6C35A", "frame": "square", "hero_ratio": "4/3", "display": "\"Anton\",Impact,sans-serif", "body": "\"Inter Tight\",system-ui,sans-serif", "google_fonts": "family=Anton&family=Inter+Tight:wght@400;500;600&family=Cairo:wght@700", "dw": "400", "dcase": "uppercase", "dtrack": "0.01em"},
+ "brand": {"name": "Money Kuts", "sub": "Barbers · Sunset Mall", "mark": "$", "footer_word": "MONEY KUTS"},
+ "seo": {"title": "Money Kuts Barbers | Skin Fades, Tapers & Gold Masks at Sunset Mall, Jumeirah", "description": "Money Kuts Barbers, Sunset Mall, Jumeirah 3: skin fades, taper fades, braids, beard trims, hair colour and gold-mask facials. Open daily until 10:30 PM (11:30 PM weekends). 4.7 from 480 reviews."},
+ "hero": {"variant": "split", "kicker": "Sunset Mall · Jumeirah 3", "title_lines": ["Fresh fades.", "Gold masks.", "Money."],
+   "lede": "Skin fades, tapers, braids, beard work and gold-mask facials in a marble-and-gold shop at Sunset Mall. Travellers from Melbourne to Mali say it's the best fade they've had.",
+   "image": "img/hero.jpg", "image_alt": "Money Kuts storefront with gold logo and marble interior", "secondary": {"label": "Barbers", "href": "#team"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Money Kuts, I'd like to book a fade.",
+ "proof_note": "480 reviews",
+ "address_lines": ["Money Kuts Barbers, Sunset Mall", "Jumeirah 3, Dubai"],
+ "ticker": ["Skin fade", "Taper fade", "Braids", "Beard trim", "Gold mask", "Hair colour", "Kids cuts"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Every fade,", "title_dim": "done right.",
+   "items": [
+    {"name": "Skin & taper fades", "feature": true, "img": "img/cut.jpg", "alt": "Barber working on a fade", "desc": "Clean blends from 0 to whatever you want.", "quote": "We've done a lot of travelling over the past 15 years, which means a lot of fades, and this place is out of this world.", "cite": "LJ, Melbourne"},
+    {"name": "Braids", "img": "img/braids.jpg", "alt": "Fresh cornrows", "desc": "Cornrows and twists."},
+    {"name": "Gold mask facial", "img": "img/gold.jpg", "alt": "Gold peel-off mask facial", "desc": "Peel-off gold mask and grooming."},
+    {"name": "Beard & colour", "desc": "Beard trims, line-ups and hair colour."}
+   ],
+   "perks": ["Open daily till 10:30 PM", "Fri–Sat till 11:30 PM", "Kids welcome"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "No waiting", "title": "Walk in", "title_dim": "when it's quiet."},
+  {"type": "team", "id": "team", "nav": "Barbers", "eyebrow": "The barbers", "title": "Kelvin, Francis,", "title_dim": "Mike and Idriss.",
+   "items": [{"name": "Kelvin", "count": 8, "role": "Barber"}, {"name": "Francis", "count": 4, "role": "Barber"}, {"name": "Mike", "count": 4, "role": "Barber"}, {"name": "Idriss", "role": "Barber", "quote": "I've been getting my hair done here with Idriss for four years. He's great for both adults and kids!", "cite": "Bidja S."}]},
+  {"type": "gallery", "images": [{"src": "img/wall.jpg", "alt": "Gold Money Kuts logo on honeycomb wall"}, {"src": "img/interior.jpg", "alt": "Shop interior"}, {"src": "img/owner.jpg", "alt": "Owner by the logo wall"}, {"src": "img/fade.jpg", "alt": "Client after a fresh cut"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Sunset Mall,", "title_dim": "Jumeirah."}
+ ]
+}

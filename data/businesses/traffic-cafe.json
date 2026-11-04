@@ -1,0 +1,875 @@
+{
+ "slug": "traffic-cafe",
+ "name": "مقهي ترافيك Traffic Cafe",
+ "place_id": "ChIJ3eCNdjRDXz4RUs6t2BVNlSE",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "Al Karama, Dubai",
+ "address": "Hamsa Building - Khalid Bin Al Waleed Rd - Al Karama - Dubai - United Arab Emirates",
+ "building": "Shuraa Business Center - Hamsa Building",
+ "location": {
+  "lat": 25.2519966,
+  "lng": 55.3089859
+ },
+ "phone": "+971 50 300 3604",
+ "rating": 4.6,
+ "userRatingCount": 625,
+ "rating_distribution": {
+  "oneStar": 27,
+  "twoStar": 9,
+  "threeStar": 28,
+  "fourStar": 50,
+  "fiveStar": 511
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D9%82%D9%87%D9%8A%20%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D9%83%20Traffic%20Cafe&query_place_id=ChIJ3eCNdjRDXz4RUs6t2BVNlSE",
+ "website": "",
+ "categories": [
+  "Cafe",
+  "Restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 3 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 3 AM"
+  }
+ ],
+ "owner_description": "Traffic Cafe is the perfect spot for coffee lovers and anyone looking to enjoy a relaxed, friendly atmosphere in the heart of Al Karama, Dubai. We offer a wide selection of freshly brewed coffee and drinks in a cozy setting, ideal for catching up with friends or enjoying some quiet time.\n\n📍 Location: Al Karama – Ansar Gallery Building, Dubai\n📞 Contact: +971 50 300 3604",
+ "amenities": {
+  "Service options": [
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   },
+   {
+    "Great dessert": true
+   },
+   {
+    "Great tea selection": true
+   },
+   {
+    "Live music": true
+   },
+   {
+    "Live performances": true
+   },
+   {
+    "Sports": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   },
+   {
+    "Good for working on laptop": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Happy hour food": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Cozy": true
+   },
+   {
+    "Trendy": true
+   },
+   {
+    "Upscale": true
+   }
+  ],
+  "Crowd": [
+   {
+    "College students": true
+   },
+   {
+    "Groups": true
+   },
+   {
+    "Tourists": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Kids' menu": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free street parking": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "shisha",
+  "shesha",
+  "kind staff",
+  "long lasting shisha",
+  "beza",
+  "arabic food",
+  "meetup spot",
+  "vegetarian options",
+  "spacious",
+  "Staff behavior"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.53,
+ "reviews": [
+  {
+   "author": "Boris Hada",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had a wonderful experience at Traffic Cafe! The ambience was beautiful, relaxing, and perfect for spending quality time. The food was delicious and well-prepared, making the visit even more enjoyable.\n\nA special thanks to Miss Sagun for her outstanding hospitality. She was incredibly humble, kind, and attentive throughout our visit, making us feel truly welcome. Her warm service really made our experience memorable.\n\nHighly recommended, and I'll definitely be visiting again! 🌟",
+   "owner_reply": "Thank you and we wish you a pleasant visit."
+  },
+  {
+   "author": "A Zami",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had an amazing experience at this hookah lounge and restaurant. The atmosphere was great, the hookah was smooth and flavorful, and the food was honestly delicious — everything we ordered was fresh and full of flavor.\n\nA special shoutout to Beza for the outstanding service. She was incredibly friendly, attentive, and made us feel welcome from the moment we arrived. Her positive attitude and attention to detail really made the whole experience even better.\n\nI loved everything about this place and will definitely be coming back. Highly recommend for anyone looking for great food, relaxing vibes, and excellent customer service!",
+   "owner_reply": null
+  },
+  {
+   "author": "ahmed alharbi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I would like to compliment Sogun for her excellent service. She was very friendly, professional, and attentive throughout our visit. She made sure we had everything we needed and made our experience very pleasant. Thank you, Sogun, for the great service!",
+   "owner_reply": "Thank you so much"
+  },
+  {
+   "author": "Rashmi Rapz",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I think we need to do 10 star rating for this...I just have 5 stars to click here... Marabella tweek the best ever flavour of Hookah that I have had till now ....that rustic......oh man ♂️ just in Love 😘 Superb care @ Dubai",
+   "owner_reply": null
+  },
+  {
+   "author": "ATLIS IMMIGRATION",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Complete amazing experience. Being a vegetarian, finding delicious meals is always a challenge. But here right from appetizers to main course to dessert - everything was so mouthwatering. We were a party of 6- from adults to kids and  from liking typical Indian to western cuisines. All of us had a wonderful experience dining experience. My son said that he liked all the dishes so much! Highly recommended! It is a must try",
+   "owner_reply": null
+  },
+  {
+   "author": "Shweta bhagvatula",
+   "rating": 2,
+   "when": "3 years ago",
+   "text": "This place is at the junction and the ambience is good. Staff is good but the service is bit slow. Shisha is good but again you will have to call the staff many times to get one thing done. Coffee was good in taste. Service needs to be improved.\n\nWhen we visited this place it was not even crowded, so if the service was not good when it the place is not crowded then I am not sure how it will be when the place is crowded. If you are looking for a place to have a quick bite or shisha then you can definitely visit this place.",
+   "owner_reply": "We apologize to you, Madam, for the service, but we promise that the service will be fine next time"
+  },
+  {
+   "author": "Ahmed Abbas",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "One of the most beautiful cafes and restaurants in Dubai with an amazing ambiance and stylish setting. The food is delicious, fresh, and well served , the service is excellent with very friendly and responsive staff. Overall, a great spot for a relaxing and high-quality dining experience.",
+   "owner_reply": "Thank you so much"
+  },
+  {
+   "author": "Abdul Basit",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Angie is the best one\nFlavor pan mint very good Taste\nLemon mint 100\nKunafa and Pakistani food was served hot one\n100% experience would love to come back anytime\nThanks",
+   "owner_reply": null
+  },
+  {
+   "author": "Zain Banuri",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Courtesy and Service by the staff is outstanding.\nAmazing food (tried Smoke Turkey Sandwich, Baba Ganouch, and Fawa Foul)\nFresh carrot and orange juice.\nNakhla Apple Shisha\n\n5-Star experience.\n\nDuring working hours, it's a calm place with good Internet connection for remote workers.",
+   "owner_reply": "Thank you sir"
+  },
+  {
+   "author": "Endrias",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Best shisha in town.\n\nI had a wonderful experience, thanks to Beza. She treated me exceptionally well and made me feel like a king. She suggested the best ice cream, and her recommendation was absolutely perfect, I truly enjoyed it. Her kindness, hospitality, and excellent service made my visit even more special. Thank you so much, Beza!",
+   "owner_reply": "Thank you so much welcome for next time"
+  },
+  {
+   "author": "Accounts Department- FP&A",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Ms Beza consistently provides excellent service. She anticipates guest needs, remembers regular customers, and maintains a welcoming, friendly demeanor even during peak hours. Kudos to her",
+   "owner_reply": null
+  },
+  {
+   "author": "Obaid Asad",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "Beza was very nice and attentive. She provided us with excellent service. I would definitely recommend this café as it is very economical and offers great shisha.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mostafa El Meligy",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "One of my favorite places in Dubai totaly recommended for people who would love to have a good quality service and the food there is amazing.. Also one of the best thing there is the parking very easy to park and easy to find parking slots available",
+   "owner_reply": "Thank you for you and thank you for your friend"
+  },
+  {
+   "author": "mahalakshmi bollineni",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "i had an amazing experience at the cafe! The staff were super friendly and attentive, the food was delicious, and the sheesha was top quality. Highly recommend this place to anyone looking for a great spot to relax and enjoy good vibes!",
+   "owner_reply": "<br>Thank you so much, sir"
+  },
+  {
+   "author": "Zerrick Sheikh",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "didn’t expect the flavours and smoke quality to be this good honestly, definitely the best shisha spot in dubai. good music, clean setup, amazing hospitality and the shisha hits perfectly from start to finish.",
+   "owner_reply": "Thank you so much, sir"
+  },
+  {
+   "author": "MR UAE 2020",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "It’s a great experience. The ambiance is very welcoming and charming. Amazing shisha, food and service. Staff are extremely knowledgeable and make great recommendations. such a lovely place,",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Taha",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve been spending my time in the place for the past few month , everything is on the spot the staff are amazing and attentive, the food is great , the atmosphere is really nice and cozy and I always return whenever I got the chance , thanks again for the wonderful hospitality .",
+   "owner_reply": "Thank you"
+  },
+  {
+   "author": "Aaman _AK_",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "Traffic Cafe presents an inviting atmosphere suitable for couples, families, and groups of friends. Traffic cafe offers a diverse menu, encompassing starters, main courses, and shisha, all crafted with a focus on quality and flavor.",
+   "owner_reply": "Thank you.<br><br>"
+  },
+  {
+   "author": "Tarannum Anwar",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "All the services and the staff and the ambience is too good.Shisha is outstanding here .",
+   "owner_reply": "Thank you, madam"
+  },
+  {
+   "author": "Gurjit Soor",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Nice and cozy place for shisha and to watch sports. Close to Burjuman metro.",
+   "owner_reply": "We would be honored at any time, sir."
+  },
+  {
+   "author": "Miel xian",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "From the place,the food,drinks up to the staff are so amzing.this is the perfect place you need to go and chill everything is amazing and very affordable,highly recomended,for me one of dubai’s pride best of everything.🦾❤️‍🔥",
+   "owner_reply": null
+  },
+  {
+   "author": "Safe Travel Faheem",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I never know this café before\nI use to go to some other café to smoke shesha\nBut\nSince I came to know about TRAFFIC\nIt my choice\nIf I cannot come everyday\nThen weekly this is my place\n\nStaff's here are so cooperative, and friendly.\nService is so fast\nLocation is very easy and so clean\nSpecially Staff Mr.Sam, Mr.Nomi they are really very cooperative and they always there to provide indefinite service to customers.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aiman Anwar",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Best shisha cafe in Dubai !\nMust try . They have the best and the most long lasting shisha and they have more than 100 flavors\nThey have the best multi cuisine food especially their lamb chops is a must try and all their mocktail are amazing\nThey have the best hospitality and service all the staff is very friendly",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "razak razak",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great place with very good shisha and excellent service. The staff is friendly and attentive, making it one of the best shisha cafés to relax and enjoy.”",
+   "owner_reply": null
+  },
+  {
+   "author": "Dr Ram Virmani",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Amazing food service and atmosphere. We are vegetarians and they had so many veg options. A must try for all food options. Appetisers, main course and dessert- everything was amazing.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohd Feroz",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Had a great time at Traffic Cafe!\nFood was really tasty, shesha was smooth and perfect, and the staff were very friendly and helpful. The overall atmosphere is nice and relaxing—good place to chill with friends.",
+   "owner_reply": "Thank you, sir<br>"
+  },
+  {
+   "author": "Muhammed Aashin",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The waitress Beza was soo good.She treated us well.Great Experience.The food was great.Ambience too.",
+   "owner_reply": null
+  },
+  {
+   "author": "Baldeep Aurora",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "All the food was amazing we ordered potatoes corn spring rolls pizza sandwiches soups and salads and the service was also great they were very polite and helpful.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mhmd Shuhaib",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Great cafe with a cozy atmosphere, delicious coffee, and friendly staff. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Pukar Gurung",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best place to have food, and drinks with your friends. Enjoy Food and Vibe! Thank you traffic Cafe team!",
+   "owner_reply": "Thank you, sir. We hope to see you again."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1537,
+    1023
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    522,
+    391
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1400,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1400,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    899,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    831,
+    1133
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1168,
+    878
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    810,
+    540
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1440
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    810,
+    540
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    286,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    512,
+    428
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    394,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/traffic-cafe/",
+ "buy_likelihood": 7,
+ "notes": "Replies 53%, 625 reviews, open till 3 AM.",
+ "display_name": "Traffic Café"
+}

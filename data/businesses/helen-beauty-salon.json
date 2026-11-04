@@ -1008,7 +1008,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/helen-beauty-salon/",
- "buy_likelihood": 8
+ "buy_likelihood": 8,
+ "notes": "Replies 97%, braids specialist, loyal multi-year clients.",
+ "display_name": "Helen Beauty Salon"
 }

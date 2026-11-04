@@ -1,0 +1,1639 @@
+{
+ "slug": "kudla-house-restaurant-al-karama",
+ "name": "Kudla House Restaurant - Al Karama",
+ "place_id": "ChIJV6Uvy2pDXz4Ra5_ALWpxrSM",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Al Karama, Dubai",
+ "address": "Street 9A - Al Karama - Sheikh Hamdan Colony - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2495179,
+  "lng": 55.3073033
+ },
+ "phone": "+971 4 552 8462",
+ "rating": 4.7,
+ "userRatingCount": 326,
+ "rating_distribution": {
+  "oneStar": 15,
+  "twoStar": 3,
+  "threeStar": 6,
+  "fourStar": 18,
+  "fiveStar": 284
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Kudla%20House%20Restaurant%20-%20Al%20Karama&query_place_id=ChIJV6Uvy2pDXz4Ra5_ALWpxrSM",
+ "website": "",
+ "categories": [
+  "Karnataka restaurant",
+  "South Indian restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "12 PM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "12 PM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "12 PM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "12 PM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "12 PM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "12 PM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "12 PM to 12 AM"
+  }
+ ],
+ "owner_description": "KUDLA House Karama-where flavors unite!🐟🍗🍤🍽️",
+ "amenities": {
+  "Service options": [
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Healthy options": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": false
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Quiet": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Groups": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "mangalorean food",
+  "ghee roast",
+  "prawns ghee roast",
+  "neer dosa",
+  "seafood thali",
+  "fish tawa",
+  "squid ghee roast",
+  "fresh seafood",
+  "biryani",
+  "ghee rice combo"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 60
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 52
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 66
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 75
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 87
+   }
+  ]
+ },
+ "owner_reply_rate": 0.1,
+ "reviews": [
+  {
+   "author": "praveen monteiro",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "We ordered the seafood meals, and everything was absolutely delicious! 😍 The meal had a great variety of dishes, including prawns and two types of fish fry, all cooked to perfection. The food felt just like homemade food, with amazing taste and quality.\nThe staff were very friendly and welcoming. We even asked for extra rice, and they served it without any additional charge, which was a lovely gesture. The location was also great.\nOverall, we had a wonderful dining experience. Highly recommended for anyone who loves tasty seafood and homely food! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Sweetesh Cerejo",
+   "rating": 4,
+   "when": "7 months ago",
+   "text": "If you’re craving authentic coastal South Indian flavors, Kudla House Restaurant - Al Karama is a hidden gem that truly delivers. This spot stands out for its fresh seafood and rich, traditional flavors—especially dishes like ghee roast, fish tawa fry, and neer dosa, which are packed with authentic coastal taste.  ￼\n\nThe food is consistently flavorful, well-portioned, and reasonably priced, making it a great choice for casual dining. Seafood lovers will especially appreciate the freshness and variety, with many dishes capturing that true “home-style food.\n\nThe restaurant itself is on the smaller side, giving it a cozy, no-frills vibe. Service is generally friendly and quick, though it can get a bit busy during peak hours.\n\nOverall, Kudla House is a must-visit for anyone looking to enjoy authentic southern cuisine in Dubai simple setting, but big on flavor and definitely worth coming back to.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rahila Akthar",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "A True Taste of Manglore in Dubai!\n\nI had an absolutely wholesome meal at Kudla in Karama, and it honestly felt like I was back in Mangalore! Every single dish was spot on. The sambar had that perfect, exact traditional taste, the fish tawa fry was incredible, and the dry fish chutney was outstanding. To top it all off, the yellow sheera was the perfect sweet finish, and the refreshing buttermilk tied everything together beautifully. The cook here is an absolute genius. If you want authentic Mangalorean food, this is the place to be!",
+   "owner_reply": null
+  },
+  {
+   "author": "Himanshu D P",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Have been to this place 4 times already in just a month, and I can confidently say it’s hands down the best Mangalorean/coastal Karnataka food in Dubai. I’ve tried almost every dish on the menu and each one has been absolutely delicious. The flavors are authentic, you can tell the chefs have been trained in Mangalore itself. Their ghee roast is the best you’ll find in Dubai, no comparison.\n\nMust-try dishes: prawns ghee roast, king fish tawa fry, pomfret masala fry, and their thali (don’t miss it if you’re visiting for lunch).\nIf you’re craving true coastal flavors, this spot in Karama is a gem!",
+   "owner_reply": null
+  },
+  {
+   "author": "heartcheff sethaz",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "The food here is amazing! If you are looking for authentic Mangalore flavors, this is the place to be. Everything tasted like a home-cooked meal. The staff are also very professional, friendly, and made us feel welcome throughout our visit. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "The Beary Channel",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "Updated review:\nReally appreciate your efforts in considering the previous feedback. Outside seating arrangement and waiting chairs inside are now arranged.\n\nSo far, best authentic ghee roast recipes in Dubai.\n\nOld review:\nThe place has very limited seating and hardly any space. There isn’t even a chair for customers who are waiting. We were asked to wait outside, but no seating was provided, which felt uncomfortable. It would be good to see some effort put into improving the seating capacity or adding a proper waiting or outdoor seating area.\n\nThe food itself is good, but the overall experience is affected when there isn’t enough space to sit or wait comfortably.",
+   "owner_reply": "We regret the inconvenience caused,kindly note that the RTA application for outdoor seating is already in process…Upon approval,we will implement it at the earliest!<br>We are new into this industry we need your blessings and support!"
+  },
+  {
+   "author": "ZAHID SHAIK",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently visited Kudla house restaurant and had an absolutely wonderful experience. The seafood was incredibly fresh and full of flavor you can really tell the chefs take pride in quality. The menu has a great variety, from traditional favorites to unique coastal specialties, and everything we ordered was cooked to perfection.\n\nThe service was warm and attentive without being overbearing, and the staff made sure we felt welcomed from the moment we arrived. The ambiance is relaxing and perfect whether you’re dining with family, friends, or even for a business meal.\n\nHighly recommend giving it a try — I’ll definitely be coming back",
+   "owner_reply": null
+  },
+  {
+   "author": "Rosh Kark",
+   "rating": 4,
+   "when": "3 weeks ago",
+   "text": "Manglorean Resto. Tried fish meal👍. It's Nice. Fish fry comes seperate order, it was fresh and delicious.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mithun Kotian",
+   "rating": 4,
+   "when": "11 months ago",
+   "text": "I tried the Kori Roti and Ghee Rice Special Combo.\nThe quantity was good, and the food overall was okay for the price. The Kori Roti gravy wasn’t bad, but it didn’t really taste like the traditional Kori Roti flavor I expected. The Ghee Rice combo was of good quality, though the meat curry could be improved a bit more in taste.\n\nThe service was good and the staff were polite.\nOverall, a nice experience with some room for improvement.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jude Rodricks",
+   "rating": 4,
+   "when": "10 months ago",
+   "text": "This was another one of our happenstance finds while driving around Karama. Ordered a veg thali & a seafood thali with tawa mackerel & a side order of tawa prawns. Everything on the thali seems to have been freshly made which was quite evident in how melt in the mouth the fish & prawns were. The staff (Asif in particular) were quite friendly & always checking on our needs.\nI would suggest getting to the restaurant between 12:00 & 12:30 to beat the rush as there are very few tables.\nLooking forward to our next visit. Thank you team & wish you all the success. 🙏🏾",
+   "owner_reply": null
+  },
+  {
+   "author": "asm_sannu (ANTONY SANATH MONTHEIRO)",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Visited Kudla House Restaurant in Karama yesterday and had a really good experience overall. We tried a variety of dishes – the Chicken Green Fry was exceptional and definitely a must-try! The Ghee Rice combo paired very well with the curries. The King Fish Tawa Masala was flavorful and satisfying. The Pomfret Rava Fry was good, though not quite up to the mark compared to what I expected. The Mangalore Mutton Biryani was also very tasty and worth trying.\n\nA nice place for authentic Mangalorean food with good flavors and decent portions. Will surely visit again!",
+   "owner_reply": "Thank you Antony for your amazing review, We’re so happy to hear that you’re enjoying the quality and taste of our dishes.<br>We put a lot of effort into ensuring our products are made to last and provide value. Your feedback really makes our day. 🙏💐"
+  },
+  {
+   "author": "Sayooj Ravindran",
+   "rating": 1,
+   "when": "8 months ago",
+   "text": "I visited this restaurant for the second time and unfortunately had a very disappointing experience.\n\nDuring my first visit, the restaurant was new in august 2025 and the staff took good initiative. The food was nice, which is why I decided to visit again.\n\nThis time I ordered Prawns Ghee Roast. I am familiar with authentic Mangalorean ghee roast — it is usually red in colour. However, what I was served was completely black and clearly burnt. The taste was not good at all.\n\nAfter eating it, my stomach also got upset, which made the experience even worse. I have posted a picture for reference.\n\nI hope the restaurant maintains consistency and improves food quality, because my first visit was actually good.",
+   "owner_reply": null
+  },
+  {
+   "author": "Marion Ralph Serra",
+   "rating": 1,
+   "when": "a month ago",
+   "text": "Very disappointed with the food quality. We ordered Kori Rotti and Chicken Curry with Paratha, but the taste was nowhere close to what it used to be. Sadly, the restaurant seems to have lost its original authentic taste. It’s heartbreaking to see a place we once loved change like this. I truly hope they bring back the original taste and quality.",
+   "owner_reply": null
+  },
+  {
+   "author": "Pinto",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "We had very good experience at Kuala house restaurant.\nFood was very tasty and the quantity was also very good! Budget friendly! Best place for friends and family!\nFish, veg ,chicken thali must try!\nWould like to visit soon again !",
+   "owner_reply": null
+  },
+  {
+   "author": "Nagesh Prabhu",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "The service is really amazing. The Manager explained the dish and also helped us to choose the best dish. We tried Hamour and also the Ghee Roast along with Neer Dosa. The place is a must visit. Mangalorian cuisine at it's best.",
+   "owner_reply": null
+  },
+  {
+   "author": "Wander With Deeksha",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Great seafood spot with a wide variety of dishes and a generous range of fresh catches including vegetarian options. The staff is friendly and welcoming. Perfect place for seafood lovers . Felt like a one-time trip to Mangalore.",
+   "owner_reply": "Thank you so much Deeksha for your kind words. We’re so happy to hear that you had a great experience with our service and dishes. <br>See you again. 🩷🙏"
+  },
+  {
+   "author": "Vikas Singh",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "This is a well-known restaurant serving authentic Mangalorean coastal cuisine, famous for its seafood, ghee roasts, and local specialties like neer dosa. We ordered their in house speciality Egg Gassi and Egg Ghee Roast.",
+   "owner_reply": null
+  },
+  {
+   "author": "arun s",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Located in karama .. very nice mangalorean food place .. the restaurant is quite small as the seating are is very less . But the service is good and the food is nice too.. we tried biriyani and prawns gheeroast. It was tasty and the food came fast too",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Altaf",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "After watching so many Instagram videos about this restaurant,  we recently visited this place and believe me food is amazing.  Fish and prawns are very fresh and tasty.  Biriyani was amazing. Alfaaz was an amazing host. I highly recommend this restaurant. Please visit and you will not be disappointed.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nausheen Abdulla",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Finally some good mangalorean food in dubai .  The food here is absolutely delicious! Every dish we tried was bursting with flavor , from the chicken  ghee roast to the King fish tawa fry and not to forget the pomfret masala fry.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nithash Nazir",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Visited kudla house restaurant today food was too delicious.we ordered fish special thali prawns ghee roast white pamplet tawa fry it was up to the mark fresh seafood.Felt like we are having food in Mangalore.Service was too good very caring staff they served food very fast just loved the food.Thank you somuch. I highly recommend this restaurant for authentic Mangalorian food.food was too good definitely need to give it a try",
+   "owner_reply": null
+  },
+  {
+   "author": "Rash Beary",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Wow, had a special fish thali, so tasty, marwai sukka and anjal thawa 👌🏻. Must try spot in karama.",
+   "owner_reply": null
+  },
+  {
+   "author": "shafeer 77",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Absolutely delicious biryani and ghee roast! Perfect aroma, rich flavors, and excellent spice balance. One of the best I’ve had. Highly recommended!”",
+   "owner_reply": null
+  },
+  {
+   "author": "Varun Gowda",
+   "rating": 1,
+   "when": "10 months ago",
+   "text": "I ordered King Fish Pulimunchi and Mutton Sukka from Kudla House, Karama via Smiles for AED 62. Unfortunately, the King Fish Pulimunchi was not up to the mark taste-wise. The quantity was very less for the price, making it feel expensive. Overall, I was not impressed and did not find it worth the money. I wouldn’t recommend trying these dishes.",
+   "owner_reply": null
+  },
+  {
+   "author": "Functional training",
+   "rating": 1,
+   "when": "7 months ago",
+   "text": "As per previous reviews same prawns and squid ghee roast completely burnt and taste bitter due to burning. I thot it’s one time burnt but it’s always thus taste which is really pathetic",
+   "owner_reply": null
+  },
+  {
+   "author": "Andrea Pinto",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We recently ordered from Kudla house restaurant in Karama and we were not very pleased with the quantity of the food against the price.\nThe taste was average.\nThere are quite a few restaurants in Karama that serve decent quantity and value for money.\nEven after calling and telling him about the scarce order, there was no active resolution from their part. They were just adamant on, our is better quality and it tastes better.\nNot sure of visiting or ordering from them.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarah Faiz",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "We ordered chicken lollipop last night and had a very bad experience. The chicken was not fresh, and it seemed like it had been fried in old, stale oil. After taking just one bite, we felt like vomiting. This was extremely disappointing, and we hope the restaurant pays more attention to the freshness and quality of its food.We ordered chicken lollipop last night and had a very bad experience. The chicken was not fresh, and it seemed like it had been fried in old, stale oil. After taking just one bite, we felt like vomiting. This was extremely disappointing, and we hope the restaurant pays more attention to the freshness and quality of its food.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sheza",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "FINALLY! Dubai have seen many mangalore cuisines come n go i thought this would just be another one. But Kudla House proved me wrong, King fish tava fry took me back home! Prawn Ghee roast best yet in Dubai. Spl fish meals must try.\nPrices are much better than those unaffordable home fish places, good warm staff and welcome for suggestions.",
+   "owner_reply": null
+  },
+  {
+   "author": "Santhosh Shet",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The most authentic mangalore cuisine. If you ever crave for authentic mangalore Ghee Roast, this is the place to be. Amazing place, hygiene and perfectly priced. This place is a must visit",
+   "owner_reply": null
+  },
+  {
+   "author": "Vismitha Yeshwanth",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Absolutely loved the food here! We tried the neer dosa, squid ghee roast, anjal tawa fry, and a few more dishes — every single item was delicious and full of flavor, true for tulunadu flavour.\n\nGood service and amazing food. Highly recommended!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    893,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    712
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1144,
+    778
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1166,
+    820
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1055
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    273,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    512,
+    239
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    239,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    512,
+    466
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    331,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    512,
+    332
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    512,
+    316
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    512,
+    338
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    457,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    512,
+    352
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    505,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    349,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/kudla-house-restaurant-al-karama/",
+ "buy_likelihood": 6,
+ "notes": "326 reviews, rarely replies; landline.",
+ "display_name": "Kudla House Restaurant"
+}

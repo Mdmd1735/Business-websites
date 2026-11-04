@@ -1,0 +1,27 @@
+{
+ "preset": "citrus-pop",
+ "theme": {"bg": "#FFFAF0", "surface_2": "#FFE9C2", "accent": "#C8102E", "accent_text": "#A60D26", "duo": "#FFD199", "busy": "#C8102E", "band_bg": "#1C1208", "band_accent": "#FFC94D", "frame": "square", "hero_ratio": "4/3"},
+ "brand": {"name": "Kudla House", "sub": "Mangalorean · Karama", "mark": "K", "footer_word": "KUDLA"},
+ "seo": {"title": "Kudla House Restaurant Karama | Mangalorean Ghee Roast, Seafood Thali & Neer Dosa", "description": "Kudla House Restaurant, Street 9A, Sheikh Hamdan Colony, Karama: authentic Mangalorean and coastal Karnataka food with prawns, squid and kori ghee roast, seafood thali, fish tawa, king fish masala fry and neer dosa. Open 12 PM to midnight. 4.7 from 326 reviews."},
+ "hero": {"variant": "stack", "kicker": "Street 9A · Sheikh Hamdan Colony · Karama", "title_lines": ["Like being back", "in Mangalore."],
+   "lede": "Coastal Karnataka cooking in Karama: prawns, squid and kori ghee roast, seafood thali with two kinds of fish fry, king fish masala fry, neer dosa and kori rotti.",
+   "image": "img/hero.jpg", "image_alt": "Mangalorean seafood thali on banana leaf", "secondary": {"label": "What to order", "href": "#menu"}},
+ "cta_label": "Call to order", "proof_note": "326 reviews",
+ "address_lines": ["Kudla House Restaurant, Street 9A", "Sheikh Hamdan Colony, Al Karama, Dubai"],
+ "ticker": ["Ghee roast", "Seafood thali", "Fish tawa", "King fish fry", "Neer dosa", "Kori rotti", "Biryani"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "What to order", "title": "Ghee, spice", "title_dim": "and the catch of the day.",
+   "items": [
+    {"name": "Seafood thali", "feature": true, "img": "img/fishmeals.jpg", "alt": "Fish meals poster", "desc": "Prawns and two kinds of fish fry with rice and curries.", "quote": "I had an absolutely wholesome meal at Kudla in Karama, and it honestly felt like I was back in Mangalore!", "cite": "Rahila A."},
+    {"name": "Ghee roast", "img": "img/sukka.jpg", "alt": "Chicken ghee roast on banana leaf", "desc": "Prawns, squid or kori ghee roast."},
+    {"name": "King fish masala fry", "img": "img/tawa.jpg", "alt": "Masala-fried fish steak", "desc": "Thick-cut, masala-crusted and pan-fried."},
+    {"name": "Neer dosa & kori rotti", "img": "img/neer.jpg", "alt": "Kori rotti with curry", "desc": "Soft rice crepes and crispy rotti."},
+    {"name": "Biryani", "img": "img/biryani.jpg", "alt": "Chicken biryani", "desc": "Chicken, mutton and seafood biryani."}
+   ],
+   "perks": ["Open daily 12 PM – 12 AM", "Dine-in & takeaway"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Get a table", "title": "Busiest at 9.", "title_dim": "Come early."},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Kudla House storefront"}, {"src": "img/night.jpg", "alt": "Restaurant at night", "wide": true}, {"src": "img/kingfry.jpg", "alt": "King masala fry poster"}, {"src": "img/spread.jpg", "alt": "Table spread", "wide": true}, {"src": "img/painting.jpg", "alt": "Painted storefront art", "wide": true}, {"src": "img/team.jpg", "alt": "The Kudla House team", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Sheikh Hamdan Colony,", "title_dim": "Karama."}
+ ]
+}

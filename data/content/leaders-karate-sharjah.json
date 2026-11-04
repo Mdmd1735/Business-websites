@@ -1,0 +1,32 @@
+{
+ "preset": "pet-sky",
+ "theme": {"bg": "#FFF8F5", "surface_2": "#FCE2D8", "accent": "#D7263D", "accent_text": "#B81E33", "duo": "#F6C9C2", "busy": "#D7263D", "glow": "rgba(40,120,220,.18)", "band_bg": "#0F2547", "band_accent": "#FFC94D", "frame": "round", "hero_ratio": "4/3", "display": "\"Archivo\",system-ui,sans-serif", "google_fonts": "family=Archivo:wght@600;800;900&family=Nunito:wght@400;600;700&family=Cairo:wght@700", "dw": "900", "dcase": "uppercase", "dtrack": "-0.02em"},
+ "extra_css": ".hero-split .hero__slab{background:#2E7CD6}.ticker{background:#2E7CD6;color:#fff}",
+ "brand": {"name": "Leaders", "sub": "Karate & Arts Center · Sharjah", "mark": "L", "footer_word": "LEADERS"},
+ "seo": {"title": "Leaders Karate & Arts Center Sharjah | Karate, Kickboxing, Zumba & Ladies Yoga · Al Majaz", "description": "Leaders Karate & Arts Center, Majaz 3, Buhaira Corniche, Sharjah: Japan Karate Shoto Federation karate for kids from age 4 and adults, kickboxing, ladies-only yoga, Zumba and aerobics in a huge hall. 4.9 from 73 reviews."},
+ "hero": {"variant": "split", "ar_name": "مركز القادة للكاراتيه والفنون", "kicker": "Majaz 3 · Buhaira Corniche · Sharjah", "title_lines": ["Karate from age 4.", "Zumba for mum."],
+   "lede": "Japan Karate Shoto Federation karate for kids and adults, kickboxing, ladies-only yoga, Zumba and aerobics, in a huge hall on the Buhaira Corniche with training by the water.",
+   "image": "img/hero.jpg", "image_alt": "Rows of karate students in white gi training in the hall", "secondary": {"label": "Classes", "href": "#classes"}},
+ "cta_label": "Book a free trial", "cta_text": "Hi Leaders Karate, I'd like to book a trial class.",
+ "proof_note": "4.9 · the owner replies to every review",
+ "address_lines": ["Leaders Karate & Arts Center, Majaz 3", "Buhaira Corniche, Sharjah"],
+ "socials": {"facebook": "Leaderskarate"},
+ "ticker": ["Kids karate", "Adult karate", "Kickboxing", "Ladies yoga", "Zumba", "Aerobics", "JKS affiliated"],
+ "sections": [
+  {"type": "services", "id": "classes", "nav": "Classes", "eyebrow": "Classes", "title": "Something for every", "title_dim": "member of the family.",
+   "items": [
+    {"name": "Kids karate", "feature": true, "img": "img/kids.jpg", "alt": "Kids flexibility training poster", "desc": "From age 4, with JKS grading and tournaments.", "quote": "They teach the kids and make them feel at home. Best coaches, lovely Zumba teacher.", "cite": "Jessy S."},
+    {"name": "Kickboxing", "img": "img/boxing.jpg", "alt": "Kickboxing pad work", "desc": "Fitness and sparring for teens and adults."},
+    {"name": "Zumba & aerobics", "img": "img/hall.jpg", "alt": "Large training hall", "desc": "Mentioned in 11 of our last 30 reviews."},
+    {"name": "Ladies yoga", "img": "img/stretch.jpg", "alt": "Students stretching", "desc": "Ladies-only yoga and meditation."},
+    {"name": "Corniche sessions", "img": "img/corniche.jpg", "alt": "Karate training on the Buhaira Corniche", "desc": "Outdoor training by the water."}
+   ],
+   "perks": ["Mon–Sat 3 – 10 PM", "Japan Karate Shoto Federation", "Huge training hall"]},
+  {"type": "team", "id": "team", "nav": "Coaches", "eyebrow": "Coaches", "title": "Mrs. Jayanthi", "title_dim": "and the Leaders team.", "items": [{"name": "Mrs. Jayanthi", "count": 4, "short": "her", "role": "Zumba & fitness"}]},
+  {"type": "gallery", "images": [{"src": "img/sign.jpg", "alt": "Leaders Karate & Arts Center sign"}, {"src": "img/split.jpg", "alt": "Young student doing the splits"}, {"src": "img/kick.jpg", "alt": "High kick on the bag"}, {"src": "img/tournament.jpg", "alt": "Tournament bout", "wide": true}, {"src": "img/park.jpg", "alt": "Outdoor training at night", "wide": true}, {"src": "img/bjj.jpg", "alt": "Grappling practice"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Try a class.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can my child join a free trial?", "What are the karate timings?", "When is Zumba?", "How much are monthly fees?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Buhaira Corniche,", "title_dim": "Sharjah."}
+ ]
+}

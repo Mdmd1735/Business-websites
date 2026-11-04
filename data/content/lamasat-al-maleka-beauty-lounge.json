@@ -1,0 +1,216 @@
+{
+ "preset": "royal-plum",
+ "theme": {
+  "bg": "#FCF7FB",
+  "surface": "#FFFFFF",
+  "surface_2": "#F3E4F0",
+  "text": "#1F1320",
+  "text_2": "#4C3A4E",
+  "dim": "#7A6A7C",
+  "line": "rgba(0,0,0,.09)",
+  "line_strong": "rgba(0,0,0,.2)",
+  "nav_bg": "rgba(255,255,255,.86)",
+  "card_glass": "rgba(255,255,255,.92)",
+  "tint": "rgba(0,0,0,.05)",
+  "map_filter": "grayscale(.3)",
+  "accent": "#8E2C8A",
+  "accent_text": "#7A2477",
+  "on_accent": "#FFFFFF",
+  "duo": "#E9C6E6",
+  "busy": "#B04AAA",
+  "band_bg": "#2A1029",
+  "band_text": "#FBEFFA",
+  "band_card": "rgba(255,255,255,.06)",
+  "band_line": "rgba(255,255,255,.14)",
+  "band_accent": "#F2A7EC",
+  "ask_bg": "#FFFFFF",
+  "ask_text": "#1F1320",
+  "quiet": "#B8A2C0",
+  "accent_on_photo": "#FFFFFF",
+  "frame": "round",
+  "hero_ratio": "4/3",
+  "dcase": "none"
+ },
+ "brand": {
+  "name": "Lamasat",
+  "sub": "Al Maleka · Beauty Lounge",
+  "mark": "ل",
+  "footer_word": "Lamasat"
+ },
+ "seo": {
+  "title": "Lamasat Al Maleka Beauty Lounge | لمسات الملكة | Henna, Hair & Nails at Ajman One Towers",
+  "description": "Lamasat Al Maleka Beauty Lounge, Shoraf Tower 1, Shop 7, Ajman One: henna art, hair colour and extensions, keratin, hard gel and acrylic nails, Moroccan bath, HydraFacial and massage, open until 12:30 AM. 4.7 from 396 reviews."
+ },
+ "hero": {
+  "variant": "full",
+  "ar_name": "لمسات الملكة",
+  "kicker": "Shoraf Tower 1 · Shop 7 · Ajman One Towers",
+  "title_lines": [
+   "A royal touch,",
+   "until 12:30 AM."
+  ],
+  "lede": "Henna art, colour and extensions, keratin, hard gel and acrylic nails, Moroccan bath, HydraFacials and massage, in a pink-and-gold lounge at Ajman One. Open late every night.",
+  "image": "img/henna.jpg",
+  "image_alt": "Intricate bridal henna on both hands on white fur",
+  "secondary": {
+   "label": "Services",
+   "href": "#services"
+  }
+ },
+ "cta_label": "Book on WhatsApp",
+ "cta_text": "مرحبا، أريد حجز موعد / Hi, I'd like to book an appointment.",
+ "proof_note": "Replies to 97% of reviews",
+ "address_lines": [
+  "Lamasat Al Maleka Beauty Lounge, Shop 7",
+  "Shoraf Tower 1, Ajman One Towers, Ajman"
+ ],
+ "ticker": [
+  "Henna",
+  "Hair colour",
+  "Extensions",
+  "Keratin",
+  "Hard gel",
+  "Acrylic",
+  "Moroccan bath",
+  "HydraFacial"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "services",
+   "nav": "Services",
+   "eyebrow": "Services · الخدمات",
+   "title": "Henna, hair",
+   "title_dim": "and everything in between.",
+   "items": [
+    {
+     "name": "Henna art",
+     "feature": true,
+     "img": "img/beforeafter.jpg",
+     "alt": "Before and after colour correction",
+     "desc": "Bridal, Eid and party henna by our henna artists.",
+     "quote": "Zahra provided exceptional facials for all four of us, and each treatment was relaxing and personalized.",
+     "cite": "Holly G.-A."
+    },
+    {
+     "name": "Colour & colour correction",
+     "img": "img/nails.jpg",
+     "alt": "Ombre almond nails",
+     "desc": "Colour, highlights and correction."
+    },
+    {
+     "name": "Keratin & cuts",
+     "img": "img/straight.jpg",
+     "alt": "Long glossy straight hair",
+     "desc": "Keratin, blow-dry, layered cuts and extensions."
+    },
+    {
+     "name": "Nails",
+     "img": "img/frenchtips.jpg",
+     "alt": "French tip extensions",
+     "desc": "Hard gel, acrylic and nail art."
+    },
+    {
+     "name": "Moroccan bath & facials",
+     "img": "img/room.jpg",
+     "alt": "Facial room",
+     "desc": "HydraFacial, massage and Moroccan bath."
+    }
+   ],
+   "perks": [
+    "Open daily 11 AM – 12:30 AM",
+    "Ladies only",
+    "Arabic & English"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Late-night beauty",
+   "title": "Open past",
+   "title_dim": "midnight."
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Team",
+   "eyebrow": "The team",
+   "title": "Rania, Zahra",
+   "title_dim": "and the lounge team.",
+   "items": [
+    {
+     "name": "Rania",
+     "count": 5,
+     "role": "Beauty specialist"
+    },
+    {
+     "name": "Zahra",
+     "count": 3,
+     "role": "Facials"
+    },
+    {
+     "name": "Eman",
+     "role": "Nails"
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/hero.jpg",
+     "alt": "Storefront at night",
+     "wide": true
+    },
+    {
+     "src": "img/storefront.jpg",
+     "alt": "Lamasat storefront by day",
+     "wide": true
+    },
+    {
+     "src": "img/henna-sign.jpg",
+     "alt": "Henna art on the salon logo"
+    },
+    {
+     "src": "img/nails.jpg",
+     "alt": "Ombre almond nails",
+     "wide": true
+    },
+    {
+     "src": "img/layers.jpg",
+     "alt": "Layered cut"
+    },
+    {
+     "src": "img/bob.jpg",
+     "alt": "Glossy bob"
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "book",
+   "eyebrow": "Prices",
+   "title": "Ask for today's price.",
+   "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": [
+    "How much is bridal henna?",
+    "Price for hard gel extensions?",
+    "Do you have a HydraFacial offer?",
+    "Can I book after 10 PM?"
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Ajman One Towers,",
+   "title_dim": "Ajman."
+  }
+ ]
+}

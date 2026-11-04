@@ -1572,7 +1572,8 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "backup",
  "site_url": "https://mdmd1735.github.io/Business-websites/bo-s-coffee-sahara-center/",
- "buy_likelihood": 6
+ "buy_likelihood": 6,
+ "notes": "Scouted in batch 5, not built (few photos or franchise)."
 }

@@ -1,0 +1,31 @@
+{
+ "preset": "clinic-navy",
+ "theme": {"bg": "#F6F7FB", "surface_2": "#E3E8F4", "accent": "#1E3FA0", "accent_text": "#1A378A", "duo": "#C5D2EE", "busy": "#3B5BC9", "band_bg": "#0F1E4A", "band_accent": "#F2C14E", "display": "\"Playfair Display\",Georgia,serif", "google_fonts": "family=Playfair+Display:ital,wght@0,700;1,700&family=Manrope:wght@400;500;600&family=Cairo:wght@700", "dw": "700", "dtrack": "-0.01em", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "Borbone", "sub": "Pizzeria & Caffè · JLT", "mark": "B", "footer_word": "Borbone"},
+ "seo": {"title": "Borbone Pizzeria & Caffè JLT | Authentic Italian Pizza, Pasta & Coffee by the Lake", "description": "Borbone Pizzeria & Caffè, Lake Level, Platinum Tower, Cluster I, JLT: authentic Italian pizza alla pala, spaghetti alla Nerano, parmigiana, sandwiches, croissants and fresh juices with a lake-view terrace. Open 7 AM to midnight. 4.9 from 543 reviews."},
+ "hero": {"variant": "split", "kicker": "Lake Level · Platinum Tower · Cluster I, JLT", "title_lines": ["Naples,", "by the lake."],
+   "lede": "Authentic Italian street food and caffè on the JLT lake: pizza alla pala, spaghetti alla Nerano, parmigiana, focaccia sandwiches and espresso from 7 AM until midnight.",
+   "image": "img/hero.jpg", "image_alt": "Borbone terrace with blue umbrellas by the JLT lake", "secondary": {"label": "What to order", "href": "#menu"}},
+ "cta_label": "Reserve on WhatsApp", "cta_text": "Hi Borbone, I'd like to reserve a table on the terrace.",
+ "proof_note": "Rated 4.9 by 543 guests",
+ "address_lines": ["Borbone Pizzeria & Caffè, Lake Level", "Platinum Tower, Cluster I, Jumeirah Lakes Towers"],
+ "ticker": ["Pizza alla pala", "Spaghetti alla Nerano", "Parmigiana", "Focaccia", "Croissants", "Fresh juices", "Lake terrace"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "Autentico", "title": "Italian street food,", "title_dim": "made properly.",
+   "items": [
+    {"name": "Pizza alla pala", "feature": true, "img": "img/pizza.jpg", "alt": "Long Roman-style pizza on the table", "desc": "Long, crisp, shared at the table.", "quote": "Late-night pizza cravings brought us to Borbone, and I'm so glad we went. Everything was fresh, flavorful, and truly delicious.", "cite": "Viktoria W."},
+    {"name": "Pasta", "img": "img/pasta.jpg", "alt": "Spaghetti with lasagne on a blue plate", "desc": "Spaghetti alla Nerano, lasagne and pesto."},
+    {"name": "Focaccia sandwiches", "img": "img/sandwich.jpg", "alt": "Stuffed focaccia sandwich", "desc": "Tricolore and filled focaccia."},
+    {"name": "Burrata & salads", "img": "img/burrata.jpg", "alt": "Burrata salad with focaccia", "desc": "Burrata, caprese and seasonal salads."},
+    {"name": "Breakfast & caffè", "desc": "Croissants, espresso, matcha and fresh juices from 7 AM."}
+   ],
+   "perks": ["Open daily 7 AM – 12 AM", "Lake-view terrace", "Two JLT locations"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Terrace tables", "title": "Sunset by the lake", "title_dim": "goes fast."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Your hosts", "title": "Nira and Mara.", "items": [{"name": "Nira", "count": 6, "role": "Host"}, {"name": "Mara", "count": 3, "role": "Host"}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Borbone storefront"}, {"src": "img/interior.jpg", "alt": "Navy and white interior"}, {"src": "img/spread.jpg", "alt": "Pizza and drinks at night"}, {"src": "img/night.jpg", "alt": "Terrace dinner at night"}, {"src": "img/caprese.jpg", "alt": "Pizza with cherry tomatoes"}, {"src": "img/tower.jpg", "alt": "Platinum Tower and the terrace"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "reserve", "eyebrow": "Reserve", "title": "Book the terrace.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can I reserve a terrace table tonight?", "Do you deliver in JLT?", "Is breakfast served on weekends?", "Can you host a group of 10?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Platinum Tower,", "title_dim": "JLT."}
+ ]
+}

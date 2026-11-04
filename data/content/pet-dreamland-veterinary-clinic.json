@@ -1,0 +1,28 @@
+{
+ "preset": "clinic-mint",
+ "theme": {"accent": "#E07A2E", "accent_text": "#C2621A", "surface_2": "#FBE7D6", "bg": "#FFF9F4", "duo": "#F6D2B4", "busy": "#E07A2E", "band_bg": "#2B1A0F", "band_accent": "#FFB072", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "Pet Dreamland", "sub": "Vet Clinic · Creek Harbour", "mark": "P", "footer_word": "Pet Dreamland"},
+ "seo": {"title": "Pet Dreamland Veterinary Clinic | Vet & Grooming in Dubai Creek Harbour", "description": "Pet Dreamland Veterinary Clinic, Dubai Creek Harbour: consultations, vaccinations, diagnostics, surgery and kidney care with Dr. Prince, plus full grooming and a pet shop. Open daily 8 AM to 11 PM. Rated 4.9 from 167 reviews."},
+ "hero": {"variant": "split", "kicker": "Al Kheeran 1 · Dubai Creek Harbour", "title_lines": ["Vet care", "that treats pets", "like family."],
+   "lede": "Consultations, vaccinations, diagnostics, surgery and kidney care, plus full grooming and a stocked pet shop, at Dubai Creek Harbour. Open every day from 8 AM to 11 PM.",
+   "image": "img/hero.jpg", "image_alt": "Pet Dreamland clinic reception and pet shop corridor", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Call to book", "proof_note": "4.9 · the owner replies to every review",
+ "address_lines": ["Pet Dreamland Veterinary Clinic", "Al Kheeran 1, Dubai Creek Harbour"],
+ "ticker": ["Consultations", "Vaccinations", "Diagnostics", "Surgery", "Full grooming", "Pet shop", "Open 8 AM – 11 PM"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Check-ups to", "title_dim": "summer cuts.",
+   "items": [
+    {"name": "Vet care & surgery", "feature": true, "img": "img/scottish.jpg", "alt": "Scottish fold cat resting after treatment", "desc": "Diagnostics, surgery and kidney treatment.", "quote": "They took excellent care of my kittens during their operations and kept me regularly updated.", "cite": "L. Alq."},
+    {"name": "Full grooming", "img": "img/groom.jpg", "alt": "Poodle on the grooming table", "desc": "Breed cuts, baths and nail trims.", "quote": "Jerwyn cut my toy poodle's fur exactly as I asked.", "cite": "Amelia C."},
+    {"name": "Vaccinations", "img": "img/shihtzu.jpg", "alt": "Happy Shih Tzu", "desc": "Puppy and kitten schedules."},
+    {"name": "Pet shop", "img": "img/bubble.jpg", "alt": "Cat in a bubble carrier", "desc": "Food, carriers and accessories."}
+   ],
+   "perks": ["Open daily 8 AM – 11 PM", "Grooming on site", "Dubai Creek Harbour"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Short waits", "title": "Book a quiet", "title_dim": "slot."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Dr. Prince", "title_dim": "and the Dreamland team.",
+   "items": [{"name": "Dr. Prince", "count": 18, "short": "him", "role": "Veterinarian", "quote": "One of the most dedicated veterinarians I have met. His clinical knowledge and surgical skills are truly impressive.", "cite": "Mohamed W."}, {"name": "Dr. Ahmed", "count": 11, "role": "Veterinarian"}, {"name": "Esraa", "count": 5, "role": "Vet nurse"}, {"name": "Jerwyn", "role": "Groomer"}]},
+  {"type": "gallery", "images": [{"src": "img/poodle.jpg", "alt": "Toy poodle after a summer cut"}, {"src": "img/calico.jpg", "alt": "Calico cat outdoors"}, {"src": "img/pom.jpg", "alt": "Fluffy Pomeranian"}, {"src": "img/camping.jpg", "alt": "Poodle in a camping photo set"}, {"src": "img/couple.jpg", "alt": "Clients with their cat"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Dubai Creek Harbour,", "title_dim": "Al Kheeran."}
+ ]
+}

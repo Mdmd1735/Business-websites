@@ -1,0 +1,31 @@
+{
+ "preset": "rose-blush",
+ "theme": {"accent": "#C2185B", "accent_text": "#A3134C", "frame": "round", "hero_ratio": "16/10"},
+ "brand": {"name": "Primera", "sub": "Beauty Salon · Al Rigga", "mark": "P", "footer_word": "Primera"},
+ "seo": {"title": "Primera Beauty Salon | Moroccan Bath, Microshading & Vietnamese Hair Spa, Al Rigga", "description": "Primera Beauty Salon, Flat 203, Al Zarooni Building, Al Rigga Road: Moroccan bath, full body massage, microshading, microblading, lip blush, Vietnamese hair spa, keratin and hydrafacial. Ladies only. 4.9 from 289 reviews."},
+ "hero": {"variant": "stack", "kicker": "Flat 203 · Al Zarooni Building · Al Rigga Road", "title_lines": ["A Moroccan bath", "you'll fall asleep in."],
+   "lede": "Moroccan bath and full-body massage, microshading and lip blush, Vietnamese hair spa, keratin and hydrafacials in a ladies-only salon on Al Rigga Road.",
+   "image": "img/hero.jpg", "image_alt": "Primera salon with a flower wall and styling chairs", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Primera Beauty Salon, I'd like to book a Moroccan bath.",
+ "proof_note": "4.9 · the owner replies to every review",
+ "address_lines": ["Primera Beauty Salon, Flat 203, Al Zarooni Building", "Al Rigga Road, Deira, Dubai"],
+ "ticker": ["Moroccan bath", "Full body massage", "Microshading", "Lip blush", "Vietnamese hair spa", "Keratin", "Hydrafacial"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Relax first,", "title_dim": "then glow.",
+   "items": [
+    {"name": "Moroccan bath & massage", "feature": true, "img": "img/oils.jpg", "alt": "Bath oils on a gold tray", "desc": "Mentioned in 15 of our last 30 reviews.", "quote": "Joy did my Moroccan bath and was very professional, gentle, and thorough. My skin felt so clean, soft, and refreshed.", "cite": "Juliet"},
+    {"name": "Brows & lip blush", "img": "img/wings.jpg", "alt": "Client in front of the glowing angel wings", "desc": "Microshading, microblading and lip blush."},
+    {"name": "Vietnamese hair spa", "img": "img/waves.jpg", "alt": "Glossy brunette waves", "desc": "Scalp care and deep conditioning."},
+    {"name": "Nails", "img": "img/nails.jpg", "alt": "Pink nails with art", "desc": "Manicure, pedicure and nail art."}
+   ],
+   "perks": ["Ladies only", "Open daily 10 AM – 10 PM", "Hydrafacial"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan your visit", "title": "Book the bath", "title_dim": "before evenings fill."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Joy, Sabina", "title_dim": "and Chanda.",
+   "items": [{"name": "Sabina", "count": 9, "role": "Beauty"}, {"name": "Joy", "count": 8, "role": "Moroccan bath & pedicure"}, {"name": "Chanda", "count": 6, "role": "Brows"}, {"name": "Winnie", "count": 6, "role": "Hair"}, {"name": "Mercy", "count": 5, "role": "Massage"}]},
+  {"type": "gallery", "images": [{"src": "img/logo.jpg", "alt": "Primera logo on a flower wall"}, {"src": "img/love.jpg", "alt": "Love sign"}, {"src": "img/floor.jpg", "alt": "Salon floor"}, {"src": "img/polish.jpg", "alt": "Nail colour chart"}, {"src": "img/entrance.jpg", "alt": "For ladies only entrance"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Prices", "title": "Ask for today's offer.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a Moroccan bath?", "Price for microshading?", "Do you have a massage package?", "Can I come in today?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Rigga Road,", "title_dim": "Deira."}
+ ]
+}

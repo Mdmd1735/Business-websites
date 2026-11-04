@@ -1,0 +1,1224 @@
+{
+ "slug": "core-craze-fitness-club",
+ "name": "Core Craze fitness club",
+ "place_id": "ChIJryUiBQBDXz4ROMHv9cMyyzs",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Deira, Dubai",
+ "address": "29a Street 5 - Naif - Deira - Dubai - United Arab Emirates",
+ "building": "Diera Traditional Souk Shabia",
+ "location": {
+  "lat": 25.2734541,
+  "lng": 55.3100242
+ },
+ "phone": "+971 58 874 0696",
+ "rating": 4.9,
+ "userRatingCount": 90,
+ "rating_distribution": {
+  "oneStar": 0,
+  "twoStar": 1,
+  "threeStar": 1,
+  "fourStar": 2,
+  "fiveStar": 86
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Core%20Craze%20fitness%20club&query_place_id=ChIJryUiBQBDXz4ROMHv9cMyyzs",
+ "website": "",
+ "categories": [
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "4 to 9 PM"
+  }
+ ],
+ "owner_description": "We provide premium gym experience, and certified trainers and friendly environment",
+ "amenities": {
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Shower": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "new machineries",
+  "trainers",
+  "friendly staff",
+  "value for money",
+  "coaches",
+  "ambience",
+  "good music",
+  "clean gym",
+  "location",
+  "warm up"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 79
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 0,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 33
+   }
+  ],
+  "We": [
+   {
+    "hour": 0,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 89
+   }
+  ],
+  "Th": [
+   {
+    "hour": 0,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 64
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 0,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 83
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 0,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 54
+   }
+  ]
+ },
+ "owner_reply_rate": 0.7,
+ "reviews": [
+  {
+   "author": "Chen Chan",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve been to almost every gym in this area, but Core Craze Gym is the one I decided to stay with. The difference is easy to notice. The trainers are friendly, experienced, and always ready to help without making you feel uncomfortable. They genuinely care about your progress and are happy to answer questions or give advice.The gym is always clean, the equipment is well maintained, and the atmosphere is really positive. It never feels overcrowded or unorganized, which makes every workout enjoyable.\nI’m glad I joined Core Craze Gym, and I would definitely recommend it to anyone looking for a clean gym with great trainers and a welcoming environment. Keep up the great work!",
+   "owner_reply": "Thank you so much for your amazing review! ❤️💪 We’re really happy to have you as part of the Core Craze Fitness Club family. Your support and feedback motivate us to keep getting better every day. Keep training hard, stay consistent, and let’s reach those goals together! 🔥🏋️‍♂️"
+  },
+  {
+   "author": "Bazith Hazeen",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "One of the best and well maintain gym in  Deira👍🏻\nCoachs are good support💪🏻",
+   "owner_reply": "Thanks for sharing your experience 🙌"
+  },
+  {
+   "author": "Murshid Thekke pulukkool",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "It’s genuinely a good gym in this area—budget-friendly and with experienced trainers.",
+   "owner_reply": "Thanks for sharing your experience 🙌"
+  },
+  {
+   "author": "Mahmoud Ibrahiem maky",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "Core Craze fitness club is about a 10-minute walk from the metro and a bit tricky to locate at first. The gym is small and doesn’t have a large number of machines, but the equipment available is in very good condition. The atmosphere is nice, and one unique thing is the Indian music playing, which gives the place a different vibe. The staff are helpful and professional—they assisted with booking my trial session, explained the offers, helped me inside the gym, and guided me through using the equipment and lockers. The gym is generally clean, but the shower room wasn’t as clean as expected, and there was some dust between machines. Overall, it’s an acceptable gym if you live nearby and want good equipment in a small space, but it may not be the best option for someone looking for a wide or fully equipped workout area.",
+   "owner_reply": "Thank you for the detailed feedback, Mahmoud! We're glad you enjoyed our equipment, staff support, and vibe. We've noted your comments regarding cleanliness and are addressing those areas right away to make improvements. Hope to see you again soon! 💪"
+  },
+  {
+   "author": "Ajmal Majal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best gyms in Naif! The equipment here is well-maintained, and the trainers are really supportive and knowledgeable. The atmosphere is very motivating — perfect for both beginners and regular gym-goers. The gym is always clean, and the staff are friendly and professional. Great value for money, especially considering the location. Highly recommend Core Craze Gym to anyone serious about fitness!",
+   "owner_reply": "Thank you so much for the fantastic feedback! We're thrilled to hear you're enjoying your experience with us. Our team works hard to provide a top-notch environment, and your support means the world. See you at your next workout! 💪"
+  },
+  {
+   "author": "Muhammed Anas np",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Wonderful gym with great team . The coaches are very friendly and supportive. Highly recommend for anyone looking to stay fit.",
+   "owner_reply": "Thank you so much for the fantastic feedback! We're thrilled to hear you're enjoying your experience with us. Our team works hard to provide a top-notch environment, and your support means the world. See you at your next workout! 💪"
+  },
+  {
+   "author": "Ansar Ahammed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Core Craze Fitness Club is by far the best gym I’ve ever joined! Amazing equipment, clean environment, and the trainers are super helpful and motivating. The vibe here pushes me to give my best every day. Totally worth it!",
+   "owner_reply": "Thank you so much for the fantastic feedback! We're thrilled to hear you're enjoying your experience with us. Our team works hard to provide a top-notch environment, and your support means the world. See you at your next workout! 💪"
+  },
+  {
+   "author": "AHAMMED ZIYAD",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "It was great effect to me everyone should take the courage to start working out",
+   "owner_reply": "Thank you so much! ❤️ Glad to have you as part of the Core Craze family! 💪🔥"
+  },
+  {
+   "author": "Aju Ajmal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been coming to Core Craze Gym Fitness Club for several months now, and I couldn’t be more pleased. The gym offers an excellent selection of modern equipment — everything from free weights to machines and cardio gear — so no matter what workout I’m planning, I always find what I need.\n\nCleanliness is top‑notch: the floors, bathrooms, and workout areas are well maintained. Staff are friendly, professional, and always willing to help with technique or suggestions if you ask — it makes a big difference, especially as a newer gym‑goer.\n\nThe atmosphere is welcoming and motivating without being overwhelming: good music, well‑ventilated space, sensible crowding so you’re not waiting ages for a machine. Flexible hours are a plus — I can show up early or late and still get a good workout.\n\nWhat I appreciate most is how responsive management is to feedback. If something needs fixing (a loose handle, a worn out mat, etc.), it’s dealt with promptly. Overall, great value for the membership in terms of facilities, support, and environment. Highly recommend for anyone serious about fitness or just wanting a gym where you feel at ease.",
+   "owner_reply": "Thanks for sharing your experience 🙌❤️"
+  },
+  {
+   "author": "Jiyad",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Really good gym, I enjoy coming here. Trainers are helpful and friendly🤍",
+   "owner_reply": "Thank you so much for the fantastic feedback! We're thrilled to hear you're enjoying your experience with us. Our team works hard to provide a top-notch environment, and your support means the world. See you at your next workout! 💪"
+  },
+  {
+   "author": "Mohd shaiba Azmi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Excellent gym, professional trainers, good machines. Very happy with the membership",
+   "owner_reply": "Thank you so much for the fantastic feedback! We're thrilled to hear you're enjoying your experience with us. Our team works hard to provide a top-notch environment, and your support means the world. See you at your next workout! 💪"
+  },
+  {
+   "author": "Shahad ts",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Well maintained , fully equipped gym in deira naif",
+   "owner_reply": "Thanks for sharing your experience 🙌"
+  },
+  {
+   "author": "Rahil Sardar",
+   "rating": 2,
+   "when": "6 months ago",
+   "text": "Good gear and very nice and helpful staff, but the space is suffocating. It’s constantly packed with people because the layout is very small and poorly managed. If you need a proper warm-up or to do some push-ups, this isn't the place!!!",
+   "owner_reply": "Thank you for your honest feedback, Rahil! We’re glad you liked our equipment and staff. 🙏 We understand your concern about the space, and we’re happy to share that we’re setting up a dedicated warm-up space within the next few days. We truly appreciate your feedback—it helps us improve! 💪❤️"
+  },
+  {
+   "author": "basith ali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "“Great value for the price. The gym is clean, staff is friendly, and the no-judgment policy really helps create a welcoming environment. It’s perfect for beginners or people who just want to get in a solid workout without pressure.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohd Anzar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best gym in deira naif.. totally worth it",
+   "owner_reply": "Thank you so much for the fantastic feedback! We're thrilled to hear you're enjoying your experience with us. Our team works hard to provide a top-notch environment, and your support means the world. See you at your next workout! 💪"
+  },
+  {
+   "author": "Junaid JJ",
+   "rating": 5,
+   "when": "Edited 7 months ago",
+   "text": "“Core Craze Fitness Club is an excellent place for anyone serious about their fitness journey. The trainers are highly professional, supportive, and always ready to guide you with proper techniques. The gym is well-equipped with modern machines and clean facilities, making workouts enjoyable and effective. The environment is motivating and friendly, which keeps you consistent and inspired. Highly recommended for both beginners and experienced fitness enthusiasts!”",
+   "owner_reply": "Thanks for sharing your experience 🙌"
+  },
+  {
+   "author": "Jawahar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Training under Mr. Shinoj at Core Craze Fitness Center has been a truly transformative experience. His deep knowledge, encouraging attitude, and genuine passion for fitness make him an exceptional trainer. He tailors every workout to your goals, constantly motivating you to push your limits safely and effectively. Thanks to his guidance, I’ve seen real progress—not just in strength and endurance, but also in mindset. Core Craze provides a great environment, and with a trainer like Mr. Shinoj, it becomes even more inspiring. Truly grateful to be part of this journey!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sharon S S",
+   "rating": 4,
+   "when": "7 months ago",
+   "text": "Good gym but small in size. And there is no space for warm up exercise.",
+   "owner_reply": "Thank you for the review, Sharon! We appreciate your feedback regarding the space and are looking at ways to optimize our layout for warm-ups. See you soon! 💪"
+  },
+  {
+   "author": "Bilal Gunaje",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Its best gym in deira\nClean smell staff ambiance  and equpments all 🔥",
+   "owner_reply": "Thanks for sharing your experience 🙌"
+  },
+  {
+   "author": "Mohammed Nabil",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Super ambience love the gym. Trainers are very professional\nVery good and hygienic gym",
+   "owner_reply": "Thank you so much for the fantastic feedback! We're thrilled to hear you're enjoying your experience with us. Our team works hard to provide a top-notch environment, and your support means the world. See you at your next workout! 💪"
+  },
+  {
+   "author": "Salman Ashraf",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It’s very good to train here.and our trainer Ajumal is training nicely.and every trainers are very friendly and good supportive to everyone",
+   "owner_reply": null
+  },
+  {
+   "author": "Paiichuu",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best gym in deira,naif. Trainers are awesome and the ambiance and mechines are superb.",
+   "owner_reply": null
+  },
+  {
+   "author": "latheef dabet",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best gym I ever seen… premium setup with good trainers",
+   "owner_reply": null
+  },
+  {
+   "author": "Nadhaan Yoonus",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best gym in naif.friendly staff.decent equipments.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shakir shaki",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Good",
+   "owner_reply": "Thanks ❤️"
+  },
+  {
+   "author": "Abdul Ashfer",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Awesome! One and only best gym in deira",
+   "owner_reply": "Thank you so much for the fantastic feedback! We're thrilled to hear you're enjoying your experience with us. Our team works hard to provide a top-notch environment, and your support means the world. See you at your next workout! 💪"
+  },
+  {
+   "author": "Numa Ksd",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best GYM In deira\ntrainers 🔥\nAmbience 👌",
+   "owner_reply": null
+  },
+  {
+   "author": "Vinayan Manoharan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "One of the best gym I have ever seen 😍😍☮️☮️",
+   "owner_reply": null
+  },
+  {
+   "author": "MUHAMMED RAEES M",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very friendly and good experience",
+   "owner_reply": "Thank you so much for the fantastic feedback! We're thrilled to hear you're enjoying your experience with us. Our team works hard to provide a top-notch environment, and your support means the world. See you at your next workout! 💪"
+  },
+  {
+   "author": "Muhammed Uvais",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best and premium gym experience in deira",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    512,
+    228
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    512,
+    374
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    512,
+    290
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    383,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/core-craze-fitness-club/",
+ "buy_likelihood": 8,
+ "notes": "4.9, replies 70%, new 24-hour gym in Naif.",
+ "display_name": "Core Craze Fitness Club"
+}

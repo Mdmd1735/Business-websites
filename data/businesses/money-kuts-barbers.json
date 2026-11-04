@@ -1,0 +1,1009 @@
+{
+ "slug": "money-kuts-barbers",
+ "name": "Money Kuts Barbers",
+ "place_id": "ChIJWYTbjSBpXz4RXKm3k1ysLAo",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Jumeirah, Dubai",
+ "address": "Sunset Mall - Jumeirah 3 - jumeirah 1 - Dubai - United Arab Emirates",
+ "building": "Sunset Mall",
+ "location": {
+  "lat": 25.1835541,
+  "lng": 55.2261248
+ },
+ "phone": "+971 50 691 0633",
+ "rating": 4.7,
+ "userRatingCount": 480,
+ "rating_distribution": {
+  "oneStar": 30,
+  "twoStar": 4,
+  "threeStar": 5,
+  "fourStar": 10,
+  "fiveStar": 431
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Money%20Kuts%20Barbers&query_place_id=ChIJWYTbjSBpXz4RXKm3k1ysLAo",
+ "website": "",
+ "categories": [
+  "Barber shop",
+  "Hair salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 11:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 11:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10:30 PM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "fade",
+  "skin fade",
+  "taper fade",
+  "fresh haircut",
+  "gold mask",
+  "beard trim",
+  "welcoming staff",
+  "moneykuts",
+  "attention to detail",
+  "hair colour"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 85
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 68
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Ultra Plus",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Rating: ⭐⭐⭐⭐⭐\n\nI had an outstanding experience at Money Cut Barbers. From the moment I walked in, the atmosphere was welcoming and professional. The barbers here are true experts who pay incredible attention to detail—they really take the time to understand exactly what style you’re looking for and execute it with precision.\n\nThe shop is impeccably clean, well-maintained, and has a great vibe. It’s rare to find such a high level of skill combined with such excellent customer service. If you’re looking for a top-tier haircut in Dubai, I highly recommend checking them out. I’ll definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Shreyash Reddy Venkata Subba Reddy",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "Idk what this haircut is the barber told his name something like musa and he messed up all my hair I am so disappointed in this\nI came all the way from USA for my vacation and wanted a good haircut and this is what I ended up with",
+   "owner_reply": null
+  },
+  {
+   "author": "LJ",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "We came into Dubai from melbourne Australia. We’ve done a lot of travelling over the past 15 years which means a lot of fades needed and this place is out of this world. By far the best barber and service we’ve had while abroad. Every single staff is greeting you with a smile and always happy to help. I got a pedicure, manicure, hair fade, beard fade and a gold mask and I cannot fault anything. This place should be rated 5, anyone who rates less, Ill be speechless",
+   "owner_reply": null
+  },
+  {
+   "author": "Bidja Sidibe",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I've been getting my hair done here with Idriss for four years now, and he's super nice and attentive—and he's a great hairstylist for both adults and kids!",
+   "owner_reply": null
+  },
+  {
+   "author": "João Aguiar",
+   "rating": 1,
+   "when": "11 months ago",
+   "text": "I’ve been living in Dubai for years and I’ve tried many barbers, but Money Cuts in Sunset Mall was by far the worst experience I’ve ever had.\n\nThe barber (a Kenyan guy) tried to upsell me a hair “treatment” the moment I sat down, even though I never asked for anything. The haircut itself showed zero experience — uneven lines, zero technique, and no attention to detail.\n\nWithout asking, he suddenly started touching my beard and trimming it, even after I clearly told him I didn’t want anything done to it. He ended up making a cut on my beard line near my lip that looks completely ridiculous now. I told him to stop multiple times.\n\nThen the worst part: when I went to pay, he tried charging me for the haircut AND the beard trim — something I never requested and actually asked him NOT to do.\n\nUnprofessional, inexperienced, and absolutely disrespectful.\nI genuinely regret stepping into this place.\n\nDo yourself a favour and avoid this barbershop. There are plenty of good barbers in Dubai — this is definitely NOT one of them.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "A big thank you to the entire team at Money Kuts Barbers. The service is excellent, very professional, and always consistent. The staff are welcoming, skilled, and take great care to make sure every detail is perfect. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Omor Rahman",
+   "rating": 1,
+   "when": "9 months ago",
+   "text": "Would not recommend. Barbers are not trained well. Took 2 hours for a simple low fade and shape up. Barber looked like it was his first ever time cutting hair. Absolutely unimpressed by the quality of the hair cut. Had to constantly tell the barber hes doing it wrong. Absolutely unprofessional.",
+   "owner_reply": null
+  },
+  {
+   "author": "Minhal Jaffer",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Huge thank you to Francis at Money Kutz. Came from Toronto on vacation recieved the royal treatment (shave, lineup, facial and gold mask) was incredible! Never done this service before and left feeling refreshed and brand new. My 3 year old son (usually never sits for a haircut) also got the best fade, lineup and haircut from Francis. His service was 7 stars, he was kind, and hospitable and stayed late for us. Will 100% return and recommend to everyone! Thank you Francis my brother!",
+   "owner_reply": null
+  },
+  {
+   "author": "Daryl John Silva Laygo",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had been looking for a barbershop in Dubai that could do a proper skin fade, and I came across Money Kuts Barbers. I was immediately intrigued by the great reviews and decided to give it a try. I booked an appointment with Kingsley, and he did not disappoint. He is very attentive to how I like my hair cut and always makes sure the result meets my expectations.",
+   "owner_reply": null
+  },
+  {
+   "author": "Eisa Saidi",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "It took a lot of patience, i did my braids done by Peace, she paid attention to details and I’d recommend doing your braids from her, at the end I was rlly satisfied, it was worth the long sitting.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ibs. t1",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "For anyone visiting Dubai and need of a good fade or even taper fade what I got,\nHit up my guy Musa fantastic guy and even a wonderful barber.\nCame to Dubai from London for a month and after being here for 2 weeks I needed a trim for in which I went into money cutz and I was welcomed in by Musa who got me sat on his car told him exactly what I wanted then he did exactly what I asked for\n10/10\nHighly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Pierre De Prat",
+   "rating": 1,
+   "when": "10 months ago",
+   "text": "I’ve been to this barber several times and it’s always the same issue: I book an appointment, he confirms it, and then I end up waiting over an hour before he even starts. Every visit takes around 3 hours for a simple haircut. On top of that, it’s a shame that Kingsley — the best barber they had — left. He was always respectful, professional, and on time. Unfortunately, the service now is very unorganized and unprofessional. I do not recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Saif",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Amazing  service with great atmosphere\nStaff is amazing\nSpecial thanks to Michael for always giving a fresh look\nIt's a must try barber shop.....and best in the town",
+   "owner_reply": null
+  },
+  {
+   "author": "Basel Basha",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’m visiting from the US and I needed a haircut and beard trim. First, I noticed the place is very clean and modern with good customer service (although staff could smile more). I’d been introduced to Saghir (not sure about the spelling of his name) and he did a great job, very detail oriented, and I highly recommend him.",
+   "owner_reply": null
+  },
+  {
+   "author": "Tarek Al Moussa",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently had the pleasure of getting my haircut at Money Kuts, and I have to say, Mike is hands down one of the best barbers I’ve ever had. From the moment I walked in, the atmosphere was welcoming and professional. Mike took his time to understand exactly what I wanted and delivered a flawless haircut with incredible attention to detail.\n\nNot only is he skilled, but he’s also super friendly, making the whole experience enjoyable from start to finish. From now on, I know exactly where I’m getting my haircut in Dubai. Thanks, Mike, for the outstanding service!\n\nHighly recommend Mike for anyone who values quality and precision.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lamar Simpson",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Always a great service with the main man Idris and main woman Synthia!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohib M",
+   "rating": 1,
+   "when": "7 months ago",
+   "text": "Mids ! Don’t ever chase the hype ! Barbers smoke while cutting ur hair",
+   "owner_reply": null
+  },
+  {
+   "author": "Youssef Hani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Kelvin at moneykuts is the best barber in Dubai👍 Really recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aqueeb Khan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Got a haircut from Kelvin,  made me look fresh! 11/10 service, provided water and and strepsil for my cough! Great friendly and welcoming environment, would definitely recommend anyone to come and pay them a visit!\nGot a pedicure by Jane, she made my feet look brand new! Soft and gentle hands! Very happy with their service!",
+   "owner_reply": null
+  },
+  {
+   "author": "T G",
+   "rating": 2,
+   "when": "a year ago",
+   "text": "Unfortunate experience.\n\nI went to the shop to ask if I could make an appointment to trim my beard at a certain time. Came back at that time (20 minutes later) and the one person working had just started with a new customer / told me it would be at least 25 minutes until I could be seen (time which I didn’t have)\n\nIf you don’t take appointments then that’s fine but would have been good for that to have been made clear so that I could have booked somewhere else.",
+   "owner_reply": null
+  },
+  {
+   "author": "Iyhab Serhan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Traveling all the way from Germany to Dubai just to have Kelvin cut my hair was absolutely worth it! I couldn't be more impressed with the results. His skill and expertise exceeded my expectations, and I'll definitely be returning. Kelvin deserves more than 5 stars for his exceptional service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sakke Noor",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an appointment with Kelvin and he was really great. I got a skin mid fade and it was perfect. Great customer service and atmosphere overall at the barber shop. They really know how to take care of their clients!",
+   "owner_reply": null
+  },
+  {
+   "author": "Adam Jio",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Kelvin was very professional and gave me a really good taper fade. The facial treatment was also very good and left me feeling very fresh with a powerful glow. Anytime I am in Dubai I’ll always hit him up. You can guarantee to get a good cut with attention to detail",
+   "owner_reply": null
+  },
+  {
+   "author": "ABRAR HOME SOLUTIONS",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Musa is the best barber in Dubai",
+   "owner_reply": null
+  },
+  {
+   "author": "Amir Sahi",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Richie is the best barber in the shop By far. No one better in dubai at giving you a fade. To top it off he has very good English as well. So you can explain exactly what you want. He will be able to give well rounded advice for the shape and style of your hair and beard.\n\nThe fade was first rate. He took his time to make sure he got it has sharp as possible. He would go over to make sure he had refined the fade.\n\nGreat service and will definitely be back next week.",
+   "owner_reply": null
+  },
+  {
+   "author": "Arjun Kareti",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "kelvin is the best barber in the shop. He is really good at giving you a fade and it’s easy to communicate with him as he speaks very good English as well. So you can explain exactly what you want. He will be able to give well rounded advice for the shape and style of your hair and beard.\n\nThe fade was top notch . He took his time to make sure he got it has sharp as possible. He would go over to make sure he had refined the fade.\nThe beard is amazing as well and he really put the effort to make it match the fade! I love the effort.\n\nGreat service and will definitely be back next time in Dubai",
+   "owner_reply": null
+  },
+  {
+   "author": "Guillaume Latruffe",
+   "rating": 1,
+   "when": "10 months ago",
+   "text": "Very bad experience tonight,\nThe barber Francis is slow, puting the sound of his video on a back ground.\nCut my beard with razor without even asking???\nVery bad experience and let me pay for the worst job I receive.\nI don’t recommand",
+   "owner_reply": null
+  },
+  {
+   "author": "Lieutenant XV",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Kelvin aka Picasso of the 21st century, hand of gold and design and artwork like back in the Roman Empire. 10/10 Service",
+   "owner_reply": null
+  },
+  {
+   "author": "Psycho YT",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I’ve been coming to Kelvin at MoneyKuts since I’ve moved to Dubai. After trying a lot of other barbers, he by far provided the best service and cut. Since my first cut with kelvin I haven’t gone anywhere else. Can’t cheat on my barber. I have had multiple different hairstyles, hair coloured, hair treatments etc. with kelvin and I can’t say he’s ever failed to impress. Best barber in Dubai and a nice clean shop too.\n\n- Rico",
+   "owner_reply": null
+  },
+  {
+   "author": "Hamaad Ali",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "Money Kuts is hands down best barber shop in dubai. From the service to the equipment in the store everything is second to none.\nAlways get my haircuts from kelvin he is simply the best at what he does. Always consistent and always perfect. Can’t recommend enough!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    244,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/money-kuts-barbers/",
+ "buy_likelihood": 6,
+ "notes": "Sunset Mall barber with tourist clientele; never replies.",
+ "display_name": "Money Kuts Barbers"
+}
