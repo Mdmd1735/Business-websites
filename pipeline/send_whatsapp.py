@@ -1,0 +1,56 @@
+#!/usr/bin/env python3
+"""Send the next N outreach messages through a running whatsapp-mcp bridge.
+
+  python3 pipeline/send_whatsapp.py --n 15 [--dry]
+
+Needs the Go bridge from github.com/lharries/whatsapp-mcp running and paired (REST on :8080).
+Picks the highest buy-likelihood leads that have a mobile number and haven't been messaged,
+waits a random 60-150 s between sends so it doesn't look like a blast, and records every
+send in data/outreach_log.json so nobody gets the same message twice.
+"""
+import argparse, csv, json, random, re, time, urllib.request
+from datetime import datetime, timezone
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+LOG = ROOT / "data/outreach_log.json"
+SKIP = {"Champions Gym"}  # first sample site, pitched by hand
+
+
+def send(api, number, text):
+    req = urllib.request.Request(f"{api}/api/send", data=json.dumps({"recipient": number, "message": text}).encode(),
+                                 headers={"Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.loads(r.read())
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--n", type=int, default=15)
+    ap.add_argument("--api", default="http://localhost:8080")
+    ap.add_argument("--dry", action="store_true")
+    a = ap.parse_args()
+    log = json.loads(LOG.read_text()) if LOG.exists() else {}
+    rows = [r for r in csv.DictReader(open(ROOT / "outreach.csv"))
+            if r["send_link"] and r["business"] not in SKIP and r["site"] not in log]
+    batch = rows[:a.n]
+    for i, r in enumerate(batch):
+        number = re.search(r"wa\.me/(\d+)", r["send_link"]).group(1)
+        if a.dry:
+            print(f"[dry] {r['business']} -> +{number}"); continue
+        try:
+            res = send(a.api, number, r["message"])
+        except Exception as e:
+            res = {"success": False, "message": str(e)}
+        ok = bool(res.get("success"))
+        print(f"{'sent' if ok else 'FAIL'} {r['business']} -> +{number} {'' if ok else res.get('message')}", flush=True)
+        if ok:
+            log[r["site"]] = {"business": r["business"], "number": f"+{number}",
+                              "sent_at": datetime.now(timezone.utc).isoformat(timespec="seconds"), "status": "sent"}
+            LOG.write_text(json.dumps(log, indent=1, ensure_ascii=False))
+        if i < len(batch) - 1:
+            time.sleep(random.uniform(60, 150))
+
+
+if __name__ == "__main__":
+    main()
