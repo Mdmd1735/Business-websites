@@ -1,0 +1,1014 @@
+{
+ "slug": "helen-beauty-salon",
+ "name": "Helen beauty salon",
+ "place_id": "ChIJsQ9UU8ddXz4RNB5jJk59OCc",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Nahda, Sharjah",
+ "address": "Bukhara Street 13st Al jabari tower 2 Bukhara Street 13st Al Nahda area Bukhara Street - 13 St - Sharjah - United Arab Emirates",
+ "building": "Best Gifts Center",
+ "location": {
+  "lat": 25.3001243,
+  "lng": 55.376363
+ },
+ "phone": "+971 50 193 1075",
+ "rating": 4.8,
+ "userRatingCount": 340,
+ "rating_distribution": {
+  "oneStar": 9,
+  "twoStar": 6,
+  "threeStar": 6,
+  "fourStar": 15,
+  "fiveStar": 304
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Helen%20beauty%20salon&query_place_id=ChIJsQ9UU8ddXz4RNB5jJk59OCc",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 11:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 11:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 11:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 11:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 12 PM, 1 to 11:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 11:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 11:30 PM"
+  }
+ ],
+ "owner_description": "Helen Beauty Salon UAE Sharjah One Of The Best Beauty Salon Services In Sharjah find One Place For All Your Beauty Needs Our Services. Moroccian Bath .Hair Coloring .Nail Extension .Pedicure .Menicure.Karatin Treatments .Hair Tteatments. Full Body Waxing. And More All Performed With A Friendly Smile With Our Expert Staff .Using the Highest qUality Beauty Product.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ]
+ },
+ "review_tags": [
+  "eyelashes",
+  "manicure",
+  "lash fixing",
+  "welcoming staff",
+  "boho braids",
+  "hellen salon",
+  "hair extension",
+  "hair styling",
+  "impressive staff",
+  "welcoming atmosphere"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 42
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 44
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 42
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 53
+   }
+  ]
+ },
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "Aisha Alblooshi",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "It’s my third time going there, and I absolutely love it! Driving 45min-1hr is so worth it. The staff are so incredibly sweet and nice, and the prices are so good, reasonable, and affordable. I’m definitely loyal to them when it comes to doing braids, hoping for a Dubai branch in the future 🫶🏼♥️",
+   "owner_reply": null
+  },
+  {
+   "author": "Shameema Abdul",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "My first time here and the girls at the salon did such a great job. Definitely be visiting again <3",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏🙏🙏"
+  },
+  {
+   "author": "zinny eme",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I’ve been a loyal customer of Helen Beauty Salon in Al Nahda, Sharjah, for quite some time now, and I can't recommend it enough! Every visit is a pleasant experience. The salon offers excellent services for hair, spa and nails, and I always leave feeling pampered and refreshed.\nA special mention goes to the manager, Ms. Helen—she’s not only incredibly skilled but also kind-hearted and truly cares about her clients. She always ensures that I’m comfortable and satisfied with the results. Her warm and welcoming personality makes each visit feel more like a visit to a friend’s place than just another appointment.\nThe team is professional, and the salon itself is always clean and well-maintained. If you're looking for a place to relax, get top-notch beauty treatments, and be treated with kindness, Helen Beauty Salon is the place to go!\nThank you, Ms. Helen and team, for always making my experience so special!",
+   "owner_reply": "Thank you very much for your time to share your experience with us , we love to see you every time 🙏"
+  },
+  {
+   "author": "Joan Waiganjo",
+   "rating": 5,
+   "when": "Edited 2 months ago",
+   "text": "I have been coming here for three years and always leave happy. Very friendly staffs.Customer service 100%\n\nHighly recommend ❤️017😍😘\n\nI still leave this place satisfied and happy always\n\nThanks to Udi for always making my hair so well. She is very polite and super friendly☺️",
+   "owner_reply": "Thank you for your time to review us,we love to serve you again 🙏"
+  },
+  {
+   "author": "Linda Asobo",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I am always very satisfied whenever Mazar is in the picture of doing my hair, very quiet and focused. The result is always evident and satisfactory. Thank you very much",
+   "owner_reply": "Thank you for sharing your experience with us 🙏"
+  },
+  {
+   "author": "Phanice Otieno",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "Helen beauty Salon is a place to go for your hair,\nThanks to Tyra she has been there for me .\nI went there for the first time without having hair line that was lost 8 years ago,but since Tyra started making my hair now my hair line is coming back slowly by slowly",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏  "
+  },
+  {
+   "author": "Ikram Dhobah",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "i had such a amazing experience they did my hair so beautifully all the girls were so nice especially abrehat especially she was so professional and did a great job at my hair",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "adventurous",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had such a great experience at this hair salon! Wazam was my hair stylist and she did a phenomenal job on my hair. I highly recommend her. My overall experience was great at this salon and all the ladies there were friendly, kind, and made my experience memorable. I got my hair washed with shampoo and conditioner then I did a sew in. I bought brown, long, human hair from the shop. It was such a pretty color! Wazam did an excellent job at installing it. If I'm ever in the UAE again, I will come here and get my hair done. Wazam made me look and feel beautiful.",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏🙏🙏"
+  },
+  {
+   "author": "GRACE ENEL",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing customer service by the team, very kind the my hair looks amazing and the nails they last for a long time. I would recommend its worth ur money115😍😍😍017🫶🏼🫶🏼🫶🏼",
+   "owner_reply": "Thank you for sharing your experience with us "
+  },
+  {
+   "author": "kidist bahru",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Besmam fere it was really pleasure meeting you, great customer service they make to feel I'm home with nice coffee and I get what I dream, I recommend anyone to come and get the amazing customer service 🥰🥰🥰",
+   "owner_reply": "Thank you for your time to review your experience with us 🙏 we love to serve you again."
+  },
+  {
+   "author": "Joyssi Ngang",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I loved the service and the staff. The Nail tech/designer is amazing. Thanks for the lovely nail design",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "Evelyn Mushonga",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The service was good...l highly recommend, l did my nails there and it was splendid",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "Iddy M",
+   "rating": 1,
+   "when": "10 months ago",
+   "text": "The ladies were polite, but the lack of transparency is unacceptable. There is no list of services or prices—everything seems to be decided on the spot and kept in the hairdressers’ heads. I was charged 100 dhs for a so-called deep conditioning treatment with Ethiopian butter, followed by one of the worst blow-dries I’ve ever had. I genuinely left looking worse than when I walked in.\n\nThe young girl who did the blow-dry was clearly very inexperienced, and it showed. The process was rough, poorly done, and left my hair looking sad, frizzy, and neglected rather than styled. After the wash—which was already quite harsh (understandable as I had just taken my braids down)—I asked for a roll set instead of a blow-dry. I was told this would cost extra, despite there being absolutely no pricing listed anywhere in the salon or online.\n\nTo make matters worse, I was asked to pay by card before receiving any service. The braiders appeared far more experienced (worth noting), but as a first-time client, this visit was extremely disappointing and left me very dissatisfied.",
+   "owner_reply": "Thank you 🙏 "
+  },
+  {
+   "author": "Alem Belay",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Thank You Helen Really Apreciate The Service and Important Thing Also your Shop Is Very Clean And Good Profesinal Staff With Good Managiment",
+   "owner_reply": "Thank you🙏"
+  },
+  {
+   "author": "Dee Vince",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Top notch service in this saloon. They totally understand what it means to accentuate and elevate confidence. Good job guys.",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "Mubezi Tosha",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I love to plate my hair at Helen beauty salon it's really working for me thank u so much Helen 🥰😘💕",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "riziki mwangi",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I always do my hair and nails here, always service top notch and the ladies always do a great job! 017🥰👏👏",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "Esraa Army",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I am so satisfied with the services I did my hair extension , nails in here and will come much often for other services as well 017❤️🔥💪",
+   "owner_reply": "Thank you for sharing your experience with us 🙏"
+  },
+  {
+   "author": "Hellen Nafula",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Did my nails on three different occasions and she did a very good job, she’s very skilled. Thank you 017",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "Nakatudde Sharifah",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Had an amazing time with the best nail tech ever hands down plus a very warm customer service 017🥰❤️❤️",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "Shiko Solo",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had the best service here,especially the nails\nGood job fere",
+   "owner_reply": "Thank you for your time for sharing your experience with us 🙏"
+  },
+  {
+   "author": "Abhena Bae",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Making nails with FERA was an amazing\nI recommend everyone to do their nails with her\nI really love it",
+   "owner_reply": "Thank you for your time for share your experience with us 🙏"
+  },
+  {
+   "author": "Skyler Gacheru",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I went and did my nails and I love them so much. Thank you 017🫣😘👌",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "Mercy Mumo",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Great customer service, attention to detail and very kind. Highly recommended.... Definitely my fav spot🌹017🙏",
+   "owner_reply": "Thank you for your time to share your experience with us 👍"
+  },
+  {
+   "author": "nchang tatiana ngang",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a lovely experience\nGood customer service\nSupportive staff.",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "Life as Barbra",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The ambiance was good my hair was well made definitely coming again… thank you Melvis and Mercy ❤️",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "Mahder Ayalew",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "The most perfect hair salon I have ever ever seen before 👏👏👏👍👍",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "Pst Immaculate",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have been a customer  in this saloon\nThey are the best and their nails is top notch so satisfying 017",
+   "owner_reply": "Thank you for sharing your experience with us "
+  },
+  {
+   "author": "mercy muthoni",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I like your services both hair and nails very perfect always best ever saloon017",
+   "owner_reply": "Thank you for your time to share your experience with us 🙏"
+  },
+  {
+   "author": "nirodha perera",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Thank u Fere for doing such an amazing nails for me. I’m really in love with it ❤️ It’s just stunning! Highly recommended for all 🫶🏻",
+   "owner_reply": "Thnak you  so much for sharing your experience with us."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    816,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1053
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    576,
+    1024
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1570
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/helen-beauty-salon/",
+ "buy_likelihood": 8
+}

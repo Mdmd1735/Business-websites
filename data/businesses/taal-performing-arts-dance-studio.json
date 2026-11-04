@@ -529,7 +529,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/taal-performing-arts-dance-studio/",
- "buy_likelihood": 8
+ "buy_likelihood": 7,
+ "notes": "JLT Kathak/Bollywood studio, Instagram, runs summer camps and wedding choreography.",
+ "display_name": "TAAL Performing Arts"
 }

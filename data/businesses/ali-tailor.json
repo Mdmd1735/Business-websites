@@ -1043,7 +1043,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/ali-tailor/",
- "buy_likelihood": 6
+ "buy_likelihood": 7,
+ "notes": "Perfect 5.0 from 259, tailor with walk-in tourist traffic. Never replies on Google.",
+ "display_name": "Ali Tailors"
 }

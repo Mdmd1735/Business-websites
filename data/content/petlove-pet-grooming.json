@@ -1,0 +1,33 @@
+{
+ "preset": "citrus-pop",
+ "theme": {"bg": "#FFFDF7", "surface_2": "#FFF0CC", "accent": "#E63946", "accent_text": "#C42E3A", "duo": "#FFD6A5", "busy": "#E63946", "band_bg": "#1C2B4A", "band_accent": "#FFC94D", "frame": "round", "hero_ratio": "1/1"},
+ "extra_css": ".hero-split .hero__slab{background:#FFC94D}.ticker{background:#1C2B4A;color:#FFC94D}",
+ "brand": {"name": "Petlove", "sub": "Grooming · Daycare · Marina", "mark": "P", "footer_word": "Petlove"},
+ "seo": {"title": "Petlove Dubai Marina | Pet Grooming, Daycare, Boarding, Pet Shop & Free Pet Taxi", "description": "Petlove at SkyView Tower, Jumeirah Beach Road, Dubai Marina: pet grooming with Tom, daycare and boarding with a play park and pool, dog walking, pet shop, and free pet taxi pick-up and drop. Open 7 AM to 10 PM."},
+ "hero": {"variant": "split", "kicker": "SkyView Tower · Jumeirah Beach Road · Dubai Marina", "title_lines": ["Groom, play, swim,", "and a free ride home."],
+   "lede": "Grooming, daycare and boarding with an indoor park and splash pool, dog walking and a full pet shop, plus a free pet taxi to pick up and drop off. Open 7 AM to 10 PM daily.",
+   "image": "img/hero.jpg", "image_alt": "Three freshly groomed Pomeranians", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Petlove, I'd like to book grooming with pet taxi.",
+ "proof_note": "206 reviews",
+ "address_lines": ["Petlove, SkyView Tower", "Jumeirah Beach Road, Dubai Marina"],
+ "ticker": ["Grooming", "Daycare", "Boarding", "Splash pool", "Dog walking", "Free pet taxi", "Pet shop"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Everything your pet needs,", "title_dim": "picked up and dropped off.",
+   "items": [
+    {"name": "Grooming", "feature": true, "img": "img/grooming.jpg", "alt": "Groomer blow-drying a Pomeranian", "desc": "Breed cuts, baths and spa, for dogs and cats.", "quote": "We have been regularly visiting our groomer Tom for six months now, and our Pomeranian Spitz absolutely adores him!", "cite": "Alyona L."},
+    {"name": "Daycare & play park", "img": "img/park.jpg", "alt": "Indoor dog play area with agility", "desc": "Supervised play in an indoor park and outdoor turf."},
+    {"name": "Splash pool", "img": "img/pool.jpg", "alt": "Dogs in the splash pool with staff", "desc": "Swim sessions in the doggy pool."},
+    {"name": "Boarding", "img": "img/turf.jpg", "alt": "Outdoor turf with obstacles", "desc": "Overnight stays while you travel."},
+    {"name": "Pet shop & free taxi", "img": "img/store.jpg", "alt": "Bright pet shop", "desc": "Food and accessories, free delivery and pet taxi."}
+   ],
+   "perks": ["Open daily 7 AM – 10 PM", "Free pick-up & drop", "Free delivery", "Two branches"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Book a slot", "title": "Weekends fill up.", "title_dim": "Weekday mornings are easy."},
+  {"type": "team", "id": "team", "nav": "Groomers", "eyebrow": "The groomers", "title": "Ask for Tom.", "title_dim": "Pomeranians do.",
+   "items": [{"name": "Tom", "count": 5, "role": "Senior groomer"}]},
+  {"type": "gallery", "images": [{"src": "img/team.jpg", "alt": "Petlove team with dogs"}, {"src": "img/yorkie.jpg", "alt": "Yorkie in a purple dress"}, {"src": "img/bath.jpg", "alt": "Bright bath area with murals", "wide": true}, {"src": "img/bichon.jpg", "alt": "Freshly bathed Bichon"}, {"src": "img/pom.jpg", "alt": "Pomeranian with the Marina skyline"}, {"src": "img/aisle.jpg", "alt": "Pet shop aisle"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Book", "title": "Book with pet taxi.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a full groom for my dog?", "Can you pick up my pet today?", "What does daycare cost per day?", "Do you have boarding space next week?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "SkyView Tower,", "title_dim": "Dubai Marina."}
+ ]
+}

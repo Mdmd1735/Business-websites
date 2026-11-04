@@ -1,0 +1,1141 @@
+{
+ "slug": "lamasat-al-maleka-beauty-lounge",
+ "name": "Lamasat Al Maleka Beauty lounge",
+ "place_id": "ChIJNcFtLihZXz4RaDz11IclJho",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Ajman",
+ "address": "Shoraf tower 1. SHOP 7 - Ajman - United Arab Emirates",
+ "building": "Ajman One Towers",
+ "location": {
+  "lat": 25.3969051,
+  "lng": 55.4292325
+ },
+ "phone": "+971 55 168 3843",
+ "rating": 4.7,
+ "userRatingCount": 396,
+ "rating_distribution": {
+  "oneStar": 21,
+  "twoStar": 6,
+  "threeStar": 1,
+  "fourStar": 15,
+  "fiveStar": 353
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Lamasat%20Al%20Maleka%20Beauty%20lounge&query_place_id=ChIJNcFtLihZXz4RaDz11IclJho",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11 AM to 12:30 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11 AM to 12:30 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11 AM to 12:30 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11 AM to 12:30 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "11 AM to 12:30 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11 AM to 12:30 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11 AM to 12:30 AM"
+  }
+ ],
+ "owner_description": "تجميل و سشوار وقص مكياچ تساريح مانكير وبدكير واكس حنة\nمساج فيشال. حمام مغربي. تركيب رموش. اكليرك. هارد چيل",
+ "amenities": {
+  "From the business": [
+   {
+    "Identifies as women-owned": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   },
+   {
+    "Wheelchair accessible entrance": false
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "friendly staff",
+  "Moroccan bath",
+  "hair coloring",
+  "henna",
+  "nail color",
+  "Hair extensions",
+  "kind staff",
+  "Refined service",
+  "eyebrows",
+  "manicure"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 37
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 60
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 42
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 62
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 57
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 95
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 52
+   }
+  ]
+ },
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "Dihia Chebini",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "I had such a lovely experience at this salon! 💕 The African girl who did my nails was absolutely amazing — so sweet, kind, and professional. She paid so much attention to every little detail and did her work with great care and precision. I’m honestly so happy with the results and absolutely love my nails! 😍✨\n\nThe whole team was also very friendly, welcoming, and lovely. You can really feel the positive atmosphere and care they put into their work. Special thanks to the lovely girl who did my nails — she did an outstanding job! I’ll definitely be coming back. Highly recommend! ❤️💅",
+   "owner_reply": null
+  },
+  {
+   "author": "Fatima Tan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had the most amazing HydraFacial.My aesthetician was incredibly knowledgeable and explained every single step of the process. The extraction process was painless, and the hydrating serums left my face feeling plump and refreshed. An hour of pure luxury, and I walked out with my skin glowing! Highly recommend this place.\nAnd I also  had my full makeup and hair done here, and I am absolutely in love with the result! The makeup artist listened perfectly to what I wanted and made sure my skin looked flawless, glowy, and natural. Highly recommend!\"",
+   "owner_reply": "❤️"
+  },
+  {
+   "author": "Holly Griffin-Abdelgadir",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "My family and I had the best spa experience we could have asked for. Zahra provided exceptional facials for all four of us, and each treatment was relaxing, personalized, and professionally done. Her attention to detail and expertise made our visit truly memorable. We highly recommend Zahra and look forward to coming back!",
+   "owner_reply": "🙏"
+  },
+  {
+   "author": "Zainab Rajput",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I had a great experience n all staff is very cooperative and loving… I highly recommended this salon because their services are excellent. Eman’s work is superb Aashika who is the nails artist her work is too good and sofia is also great.",
+   "owner_reply": "Thanks mam for u.  And for sharing your experience we are appreciate it "
+  },
+  {
+   "author": "Pure Bliss",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Highly recommend for topnotch beauty services i had an amazing experience the salon is clean and well maintained, enjoyed exceptional services nails/facial/nail extensions and massage, all at affordable prices\nSpecial thanks to Marilyn, Verna, and Ansija 🤍❤️for their professionalism and friendliness.",
+   "owner_reply": "Thank you so much Mam for your feedback..💗💗💗"
+  },
+  {
+   "author": "Mahira Allabergenova",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I got done my hair belayage and nails. I am very satisfied with the results. All stuff are professional! Great team! Thank you ladies 💐❤️",
+   "owner_reply": "🙏"
+  },
+  {
+   "author": "mïSS béLLà",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Absolutely loved my nails! Lady is so talented, professional, and detail-oriented. The shape, color, and design came out perfect. In general the beuty salon is Highly recommend",
+   "owner_reply": "Thanks 🙏 a lot for your review and we are happy that you get what u want. We are looking forward to seeing you soon "
+  },
+  {
+   "author": "Samira Ahamed khan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Hi Team, it’s been a pleasure to have my services done by the beautiful ladies in the saloon thanks to all . Amazing service loads of love 🥰🥰🫶🫶🫶",
+   "owner_reply": "🙏"
+  },
+  {
+   "author": "Monica Jain",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "Had a very bad experience with them ..I went only for underarms and eyebrows but the lady started doing upper lips without even asking .Tears were rolling down as her hands were very hard .. Underarms also she did veru roughly . Also they charged me extra amount ..Will never visit them again .. Pathetic experience moreover they dint even except their mistake .Not recommended for anyone.They charged me 45 for eyebrow ,under arms and uper lips ,where as on chat they mentioned 10 for eyebrow and 20 for underarms and 10 they charged me for upper lips so total should be 40 but not sure why they took 45 .",
+   "owner_reply": "Hi. Sorry mam for misunderstanding.   But the price they give u. It was 40 dirham. And the charge u 45. Because u pay visa. Or. By. Card.  That machine fee.    And regarding pain. It’s normal     "
+  },
+  {
+   "author": "Alaa Sedik",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "\"The nail master * Melissa * is a true artist, with the ability to transform any type of nail into a work of art , the nail master has mastered the art of nail care, providing services that leave your nails looking and feeling their best. From intricate nail art to clean, classic manicures, the nail master excels at every aspect of nail care. Whether you're looking for a quick polish change or an incredible nail makeover, the nail master is the perfect choice to trust with your nails., And for Mary she was the best ever did for me the face wax and eyebrows as my skin is very sensitive, but I didn’t feel anything it was very smooth and soft thansk ladies ❤️❤️ you’re the best",
+   "owner_reply": "Thank you mam for your feedback. 💗💗💗"
+  },
+  {
+   "author": "Maryam Pervez",
+   "rating": 1,
+   "when": "7 months ago",
+   "text": "Their prices are very low and I was surprised, but the service is very very bad. The lady doing my root touch up was breathing really heavily in my ear and her breath smelt of cigarettes. I told her to apply Vaseline before putting the color because it will stain my skin. She just didn’t listen and guaranteed that she will remove it after washing. Ofcourse in the end I left with big stains. Hair wash was terrible. Blow-dry uncomfortable, kept burning my scalp.",
+   "owner_reply": "Sorry for that.  But u can see other reviews no one complaining about service "
+  },
+  {
+   "author": "rosary vv",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This beauty salon offers great customer service. Ate Verna was really kind and accommodating, and she gave me exactly what I requested for my haircut.",
+   "owner_reply": "Thank you for your good feedback mam ❤️"
+  },
+  {
+   "author": "Huda Nasim",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I opted for hair color, mani and pedi. The staff was amazing passionate and so so loving. Loved how hospitable they were. Especially Ibtisam she stayed overtime just so my hair color turned out the way I wanted. It was my birthday the very next day and the ladies made me feel so special, they sang a group song for me. Felt more like family!!!🥹♥️♥️♥️♥️♥️",
+   "owner_reply": "Thanks mam for your support and for your lovely words about our team thanks again and we look forward to seeing you soon "
+  },
+  {
+   "author": "Maysa'a Sakr",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I would like to extend my happiness and honor for the great experience I had with Rania. She is indeed a talented and knows what style of make up and hair suits the individual. In fact, she has a magic hands that makes the style looks perfect. I highly recommend her.\n\nAlso, the girl Ramila is sweet and kind as she assisted with the services and was patiently serving me. I also recommend her. Great experiences yet fulfilling.",
+   "owner_reply": "Thanks mam for your feedback and we are happy  that you get what you r looking for.   Thanks again "
+  },
+  {
+   "author": "IIN WIDIYATI",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Today I'm doing menicure pedicure with Sunita from Nepal ,very nice Staff and hygiene and I'm recomended This beauty salon ❤️❤️",
+   "owner_reply": "🙏"
+  },
+  {
+   "author": "Its Me",
+   "rating": 1,
+   "when": "7 months ago",
+   "text": "I had really bad experience, i make french and it was so bad its been 50 min and until now it’s not dry and its becoming worse and worse. I paid 30 for nothing and im removing it right now. It really looks bad",
+   "owner_reply": "🙏"
+  },
+  {
+   "author": "Mariam Khalid",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was our first going there as well and it was the best there so friendly and kind with the customers they work hard",
+   "owner_reply": "Thanks mam for sharing your experience with us we are appreciate your support "
+  },
+  {
+   "author": "namuna gurung",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Thank you so much facial very nice Zahra and pedicure from sunita Nepali I’m recommend this beauty salon🥰",
+   "owner_reply": "🙏"
+  },
+  {
+   "author": "Saida Genieva",
+   "rating": 2,
+   "when": "11 months ago",
+   "text": "I paid 610 aed. For 150 capsule for long hair extensions.  First they make my hair fall totally. Second l believe that they recover it. I trust second time also. O my god. Then 80 pice capsula and 20 pice short short hairs they fixed and and l paid them even extra amount. My 200 aed just gone lost and my time.  To be honest l can't just ignore cheating. It's my experience. Unfortunately.  I don't advice make hair extensions in that saloon. But may be other services are fine. Thank you guys",
+   "owner_reply": "My dear. Please come over for last time. For fixing ur hair. For free"
+  },
+  {
+   "author": "Elena Vitoshko",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was my first time at this nail salon and I absolutely loved it! I was warmly welcomed with a smile, and they immediately made me feel comfortable. They even offered me a drink of my choice, which was such a thoughtful touch.  Romila — the nail technician — was incredibly kind, attentive, and thorough in her work and she helped me choose the perfect nail color. The owner, Ms. Heba, was also lovely and made sure everything went smoothly. A beautiful experience overall — I’ll definitely be coming back!",
+   "owner_reply": "Wow.   Thanks mam. For your lovely comment and we are super happy that you r get what you looking for ….  Thanks mam for your feedback.   And we are looking forward to seeing you soon 🩷"
+  },
+  {
+   "author": "Hana Mohammed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very welcoming place and nice staff. Had my makeup and hair done, Rania did my makeup and did a great job. Had me comfortable and made sure I liked every step.  Ibtisam was also wonderful and amazing, I loved my hair style so much. Thank you ❤️",
+   "owner_reply": "Thanks mam for your wonderful words    Welcome mam any time "
+  },
+  {
+   "author": "Fatimah",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I got two nail services, and it was amazingg! All the staff were incredibly nice and professional. I had the pleasure of being taken care by Rania and Lady. They treated us so well, even offering coffee and the salon itself was sparkling clean and comfortable. I’m glad to have discovered it. 🤗",
+   "owner_reply": "Thanks mam for your feedback "
+  },
+  {
+   "author": "praku arya",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience at this salon! The service was top-notch, and the staff was incredibly friendly and professional. Mary made sure I felt comfortable from the moment I walked in, while Ansija gave me a fabulous treatment that left my hair looking and feeling amazing. Melisa also added her special touch, offering helpful advice on styling. Highly recommend this salon if you're looking for great service and talented professionals!",
+   "owner_reply": "Thank you for your feedback mam ♥️"
+  },
+  {
+   "author": "Saleha Khan",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I loved the ambiance of the salon, overall good service as well. I felt very welcomed and they used good quality products as well. Must visit!",
+   "owner_reply": "Thank you ma’am! Hope to see you again soon 😊😊 "
+  },
+  {
+   "author": "Suhita Saha",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I got my nail extension refill done. They are super sweet and humble, though it was almost midnight still they did it. And they did an amazing job. Very happy with their service.",
+   "owner_reply": "Thanks a lot for ur feedback back we hope you get what you looking for.  And we are very happy that you visited us. And we looking forward to seeing you soon 🙏"
+  },
+  {
+   "author": "Shaima Mohed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very good and high quality work , I’m INLOVE my nailS🤍🤍",
+   "owner_reply": "Thanks a lot for your feedback and support 🙏"
+  },
+  {
+   "author": "Vaishna J",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had my first-ever hair smoothening done by Rania, and I couldn’t be happier with the results! She was incredibly professional, explained the whole process clearly, and made sure I felt comfortable throughout. My hair feels soft, sleek, and looks absolutely amazing — exactly what I was hoping for!\n\nI also had a relaxing hair spa with Rumala, and it was such a soothing experience. She has a very gentle touch and made sure my scalp and hair were well cared for.\n\nBoth Rania and Rumala are truly skilled and made my first experience unforgettable. Highly recommend them if you’re looking for expert hair care and a touch of pampering!",
+   "owner_reply": "Thanks mam for your lovely comment.  We are all happy for you get what u was looking for .  My pleasure.   We are looking forward to see you soon 🙏"
+  },
+  {
+   "author": "Nazar Nazari",
+   "rating": 1,
+   "when": "8 months ago",
+   "text": "My wife booked an appointment with them sharp 10:30 Am because we had an event to be at and she has been told that the person supposed to do her hair is not here yet and she will come after two hours . wasted our time and our money , her mood was totally spoiled and I would definitely not recommend this place at all .",
+   "owner_reply": "Sorrow for that dear"
+  },
+  {
+   "author": "Aisha Zia",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Amazing service from manager hiba who helped me select very good package to all staff were soo helpful\n\nKala did my pedi and menicure was soo good and kind and i enjoyed\n\nAliaa did my hair massage and she was soo good i almost slept with relaxement\n\nSaloon is clean with good massage seats\n\nLove the service",
+   "owner_reply": "🙏"
+  },
+  {
+   "author": "Habiba Hassan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "10/10 would recommend. The staff is SO nice and friendly. They did my hands and toes beautifully. It was my first time there and definitely my new favourite salon. Thank you Lady and all the staff! 💗",
+   "owner_reply": "Thanks mam for ur lovely words we are really appreciate you.  We are looking forward to seeing you soon 🩷"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    902,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    1014
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    906,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    482,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    522
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1123
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    464,
+    832
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    341,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    453
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    429,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    448,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    439,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    410,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/lamasat-al-maleka-beauty-lounge/",
+ "buy_likelihood": 8
+}

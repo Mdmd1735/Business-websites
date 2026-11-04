@@ -2207,7 +2207,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/alica-bakery-eatery/",
- "buy_likelihood": 6
+ "buy_likelihood": 5,
+ "notes": "Upscale Port de La Mer venue (Meraas); alicabakery.com parked. May be group-owned.",
+ "display_name": "ALICA Bakery / Eatery"
 }

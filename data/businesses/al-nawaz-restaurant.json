@@ -1,0 +1,1053 @@
+{
+ "slug": "al-nawaz-restaurant",
+ "name": "Al Nawaz Restaurant",
+ "place_id": "ChIJfQj_sAtDXz4R5v5f8YAXado",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Bur Dubai",
+ "address": "Shop 5 , 1st Floor Al Fahidi Souq - Dubai - United Arab Emirates",
+ "building": "Al Fahidi Souq",
+ "location": {
+  "lat": 25.2601822,
+  "lng": 55.2973653
+ },
+ "phone": "+971 56 538 7723",
+ "rating": 4.9,
+ "userRatingCount": 264,
+ "rating_distribution": {
+  "oneStar": 2,
+  "twoStar": 0,
+  "threeStar": 1,
+  "fourStar": 14,
+  "fiveStar": 247
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Nawaz%20Restaurant&query_place_id=ChIJfQj_sAtDXz4R5v5f8YAXado",
+ "website": "",
+ "categories": [
+  "Biryani restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 11:30 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 11:30 PM"
+  }
+ ],
+ "owner_description": "We have Veg and Non Veg items, we also take party orders, our special items are Wheat Paratha, Firni, Broasted Chicken, Puri Shaak",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Rooftop seating": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Offerings": [
+   {
+    "All you can eat": true
+   },
+   {
+    "Coffee": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Family-friendly": true
+   },
+   {
+    "Groups": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "chicken tikka biryani",
+  "paratha",
+  "italian roll",
+  "rolls",
+  "kohinoor roll",
+  "shahi roll",
+  "chicken lababdar",
+  "butter chicken",
+  "zafrani phirni",
+  "maharaja chicken"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Farha Azhar",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "We had a really good experience The food was flavorful, fresh and surprisingly affordable. Their Chicken Tikka Biryani was the highlight for me full of taste and proper desi flavours. The rolls were crispy and loaded, the whole wheat parathas were fresh, and the Chicken Lababdar paired perfectly with them. Also loved the Zafrani Phirni for dessert.\n\nGood portion sizes, reasonable pricing, and great variety in biryanis and rolls. Perfect place for affordable desi food in Dubai. Definitely worth visiting if you’re around Bur Dubai",
+   "owner_reply": null
+  },
+  {
+   "author": "Mizba Zaveri",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "We visited Nawaz Restaurant around dinner time specially for their Aloo Wali Biryani and Chicken Tikka Biryani. Both were very nice, pure, and authentic Indian style. We also had their Kohinoor three-type rolls, which were fully loaded and enough for one person. It was heavy, filling, and tasted really good. Thank you, Shamshad, for the great hospitality!",
+   "owner_reply": null
+  },
+  {
+   "author": "NA YU",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Went for Shopping In Meena Bazaar And Ended Up Having Best Food 🤗 We Truly Had an amazing Tasty experience at Al Nawaz Restaurant in Al Fahidi Souq, Meena Bazaar.\n\nWe visited during our shopping trip and were blown away by the authentic flavors and quality of the food.\nThe Viral Chicken Tikka Biryani was aromatic and delicious, the Chicken Makhni Handi was rich and creamy, and the Italian Rolls, Cheesy Shahi, and Kohinoor were absolutely mouthwatering.\n\nThe Lemon Mint Soda and Lassi were refreshing, and the Zafrani Phirni was the perfect sweet ending to our meal.\n\nEvery dish tasted fresh, flavorful, and truly gave us that authentic \"Pind Da Swaad\" feeling.\nThe service was warm, the atmosphere was welcoming, and the rooftop location added to the experience. MY kid Played all Around running was Happy Feel.\nHighly recommended for anyone looking for authentic desi food in Dubai. We'll definitely be back! 😍🍛✨\nA popular spot in Al Fahidi Souq, Meena Bazaar, known for its biryani, desi dishes, and rooftop dining experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sana Mohsin",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I recently visited Al Nawaz Restaurant and had a great experience. The food quality is excellent, especially considering how reasonable the prices are. Everything tasted fresh and flavorful, and the portion sizes were satisfying.\nTheir chicken tikka biryani is definitely a must-try — it was perfectly cooked, full of rich flavors, and absolutely delicious. The overall ambiance and service also added to the experience.\nHighly recommended for anyone looking for good quality food at an affordable price!",
+   "owner_reply": null
+  },
+  {
+   "author": "Viggy Yo",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Located in Al fahidi souq, this spot is a hidden gem with some delicious bites, Their rolls like Italian rolls , kohinoor and shahi rolls stand out. Their biryani and other dishes are pretty good too. Their zafrani phirni dessert is a must try.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rashiqua Feroze",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "The Maharaja Chicken is excellent here. It had me from the first bite.\nWe also tried their biryani, rolls and mojito.\nReally flavorful and delicious food.\nWould definitely recommend to all my friends\n\nThe best part is that they also offer catering service across the UAE - now I know what I’m gonna order for the next house party.",
+   "owner_reply": null
+  },
+  {
+   "author": "Manisha's creation",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Had a wonderful experience at Al Nawaz Restaurant! The food was absolutely delicious and full of authentic Delhi & Mumbai flavours.\nAs a vegetarian, I really enjoyed the Paneer Maharani with Lachha Paratha—it tasted just like homemade food. My husband loved the Chicken Rolls and said they were among the best he's ever had. The Chicken Tikka Dum Biryani was flavourful, authentic, and great value for money.\nThe rooftop seating offers a lovely atmosphere, and the Fresh Lime Soda was the perfect way to end the meal. The staff were friendly and the service was excellent.\nHighly recommended if you're looking for authentic Indian food in Dubai. We'll definitely be back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jasmine Virginia",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great place for food lovers. Do try their rolls and biryani.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohsin Ali",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Delicious food, the reviews don’t lie. We came very late unfortunately but they still accommodated us. We got the chicken fry, butter chicken, white rice and chapati. I loved the chicken Great zesty and lemony flavor. Butter chicken was good too, a bit too sweet for my taste but my wife liked it. Good rice and chapati. They gave us a bit of the chicken tikka biryani complimentary to try and it was amazing, would highly recommend the biryani.",
+   "owner_reply": null
+  },
+  {
+   "author": "Bismah Qureshi",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Had a wonderful dining experience at Al Nawaz Restaurant. We tried the chicken karahi, paratha, chicken biryani, shahi roll, Italian roll, kohinoor roll, and lemon soda and everything was delicious and full of flavour. The chicken karahi, paratha and shahi roll was especially outstanding, all the rolls were fresh and perfectly prepared. Great food, good portions, and friendly service. Highly recommended, and we'll definitely be back!",
+   "owner_reply": null
+  },
+  {
+   "author": "CHANDRIMA BANERJEE",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a wonderful experience at Al Nawaz Restaurant. I tried their Shahi, Kohinoor, and Italian rolls — all three tasted absolutely amazing. I also had the chicken tikka biryani, which was very good. They serve whole wheat paratha as well, which is less oily, healthier, and still very delicious.\nAll the staff members were very welcoming and friendly. Thank you! I will definitely visit again.",
+   "owner_reply": null
+  },
+  {
+   "author": "MOHAMMAD SAHAB SAIYED",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing experience! The owner is very friendly and welcoming, making you feel right at home.\n\nThe food was absolutely delicious. The Maharaja Chicken, Italian Roll, and Kohinoor Roll are a must-try they were full of flavor and perfectly cooked. The Chinese Chicken Fried Rice was also excellent, spicy, and very tasty.\n\nGreat food, great service, and a wonderful atmosphere. Highly recommended, and I will definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Roofina",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had a wonderful experience at Al Nawaz Restaurant! The rolls were incredibly juicy, delicious, and packed with flavor. Every dish we tried was fresh, tasty, and full of amazing flavors. The food exceeded our expectations, and the overall experience was fantastic.\n\nDefinitely worth trying if you’re in Meena Bazaar. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sidra khan",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had a great experience at Al Nawaz. The food was fresh, flavorful, and served hot. We especially enjoyed the rolls and the biryani—they were delicious and full of authentic taste. The staff were friendly, and the service was quick. Overall, it’s a nice place for anyone looking for good Pakistani food. Would definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Madiha Saeed",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I just loved the experience,  it's a hidden gem in mid of meena bazar. This small restaurant has a blast of flavours and authenticity of bombay. I highly recommend you their biryani and chicken lababdar , loved the furniture and yess , their lacha paratha that's wheat freshly made parathas. I'll be going there again and again. 😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Albert C",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Best dum biryani I tasted in Dubai. The price is very affordable and they also take bulk orders. The kitchen is hygienic and the staff is friendly. It's best to call them before visiting because they run out of biryani.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sky blue",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had a wonderful dinner experience here! The atmosphere is truly the highlight—the design layout and overall aesthetic are absolutely stunning, creating a perfect vibe for the evening. The food and service were both great, making for a very enjoyable visit.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shaikh Rukshar",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "So we were walking around Meena Bazar the other day, tired and hungry, and a friend suggested we try Al Nawaz. Genuinely one of the best decisions we made that trip. The food was delicious — but the rolls? Absolutely on another level. The flavours were spot on, nothing felt over-spiced or rushed, just really good honest food. The people there were super friendly too which always makes a difference. Will 100% be going back next time we’re in the area. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "AHAMAD HASAN AJMERI",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I visited Al Nawaaz Restaurant quite late, even after closing time, but the staff still attended me very kindly and didn’t rush at all. Really appreciated their hospitality!\nTried the chicken biryani, veg biryani, and Italian roll—everything was delicious. The biryanis were flavorful and perfectly cooked, and the Italian roll was fresh and very tasty.\nGreat food and even better service, especially at such a late hour. Highly recommended!\n\nOverall, it was a great late-night experience. The food was fresh, portions were generous, and the taste really hit the spot. Definitely a go-to place if you’re craving biryani or a quick, tasty roll—even at late hours.",
+   "owner_reply": null
+  },
+  {
+   "author": "N M",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Came here for dinner one evening and was greeted by the very friendly owner and immediately seated at their outdoor seating area.\nHad the chicken biryani which was delicious (good amount of spice). Very large portion for me though, and so I took half home for later.\nCredit card is accepted. Unfortunately their credit card machine wasn't working, but the owner arranged for me to be able to use my card at the neighbouring restaurant after my meal.\nIt's really tricky to find the restaurant, go up to the first floor (or second floor for those of you who are North American), and it's very close to VegMe (which you can see from the ground floor square looking up).\nWouldn't hesitate to come here again :).",
+   "owner_reply": null
+  },
+  {
+   "author": "Muqsit Kazia",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Amazing taste and great service a must visit spot in Meena bazar for all desi food lovers",
+   "owner_reply": null
+  },
+  {
+   "author": "Sana Ashfaq",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Here Bombay Biryani & Tikka dum biryani was super good 👍 loved it … best for proper wedding catering style bulk order biryani taste … they do accept party orders too I guess, also their rolls are lipsmacking… especially the Kohinior roll ….\nDo visit once and you’ll never regret 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Nawal Mandvia",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Hi, I tried the chicken tikka biryani and firni from al nawaz restaurant. Exceptional taste of food and great quality of service from ordering to receiving the food via delivery. A must try if looking for authentic desi indian food with fusion twist.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kumar Kartikey",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Absolutely one of the best places for authentic and flavorful food! Al Nawaz Restaurant serves outstanding rolls — the Spicy Shahi Roll, Italian Roll, and Kohinoor Roll are all must-try items, packed with taste and perfectly prepared. Their biryani is truly authentic, rich in flavor, and incredibly delicious. What makes the experience even better is that the owner personally oversees the quality, which clearly shows in every dish. Highly recommended for anyone looking for fresh, tasty, and quality food!\nDid you like this feature?",
+   "owner_reply": null
+  },
+  {
+   "author": "Ruksaar Ansari",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "A great hidden gem in Bur Dubai! Al Nawaz Restaurant is perfect for anyone looking for affordable and tasty food. The rolls like Kohinoor, Italian, and Shahi are packed with flavor and definitely worth trying. Their veg biryani is proper biryani, not veg pulao, and the portion size for the price is amazing. The chicken biryani is also one of the best I’ve had in Dubai. Simple, budget-friendly, and full of flavor — highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Dilpreet Salgotra",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Honestly such a good find! 😍\nCame here and tried their Italian Rolls — bro, don’t skip these. They’re so fun and the taste is just chef’s kiss. Didn’t expect to enjoy them this much but here we are lol.\nThe 1st floor seating has a really nice view, makes the whole vibe so much better. Great place to just sit, eat, and chill without rushing.\nPlace was super clean too which I always appreciate — and the staff were genuinely polite, not just doing-their-job polite. Actually nice people.\nAl Nawaz is the real deal. Already thinking about going back just for those rolls 😅 Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Farnaz Chhapra",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The food is extremely delicious! Some of the items , like their rolls are so unique and yummy , I have never tried these before ! Their entire menu is highly recommended, and since they serve bulk orders for parties too, I am thinking to order from them for my get together at home !",
+   "owner_reply": null
+  },
+  {
+   "author": "jazbi fatema",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Had an amazing food here. the tikka biryani was something that was so amazing and their Roll with different flavor was one of the best in their menu. amazing food. must try if you are in meena bazar",
+   "owner_reply": null
+  },
+  {
+   "author": "Hitesh Devaliya",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "The biryani is very good. I had an event at my house and my guests really liked the biryani.",
+   "owner_reply": null
+  },
+  {
+   "author": "Raza Ul Mustafa Yousuf",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing food ! Great service !! The chicken tikka masala is authentic and made with perfect flavours. The tikka biryani was on point as well.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1343,
+    913
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1273,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    292,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    297,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    296,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    295,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    291,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    294,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    296,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    291,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    292,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    294,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    297,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    292,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    402,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    293,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    294,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    291,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    316,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    307,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    315,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    438,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    332,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    332,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    452,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    414,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    407,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    388,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    383,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    396,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    500,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/al-nawaz-restaurant/",
+ "buy_likelihood": 7
+}

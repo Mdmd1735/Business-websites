@@ -1,0 +1,1578 @@
+{
+ "slug": "bo-s-coffee-sahara-center",
+ "name": "Bo's Coffee - Sahara Center",
+ "place_id": "ChIJEfjsGcZdXz4RqUfEF6RXqnk",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "Al Nahda, Sharjah",
+ "address": "19 Al Nahda St - Hay Al Nahda - Al Nahda - Sharjah - United Arab Emirates",
+ "building": "Sahara Centre",
+ "location": {
+  "lat": 25.2978137,
+  "lng": 55.3727749
+ },
+ "phone": "+971 6 743 6144",
+ "rating": 4.7,
+ "userRatingCount": 234,
+ "rating_distribution": {
+  "oneStar": 11,
+  "twoStar": 2,
+  "threeStar": 5,
+  "fourStar": 12,
+  "fiveStar": 204
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Bo's%20Coffee%20-%20Sahara%20Center&query_place_id=ChIJEfjsGcZdXz4RqUfEF6RXqnk",
+ "website": "https://www.instagram.com/boscoffeeuae/",
+ "categories": [
+  "Coffee shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 12:30 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 12:30 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 12:30 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 12:30 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "8 AM to 12:30 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "8 AM to 12:30 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "8 AM to 12:30 AM"
+  }
+ ],
+ "owner_description": "Experience the true essence of an artisan coffee experience. ☕️\n\nAll roads lead to one destination- Bo’s Coffee.",
+ "amenities": {
+  "Service options": [
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   },
+   {
+    "Great tea selection": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Solo dining": true
+   },
+   {
+    "Good for working on laptop": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   },
+   {
+    "Wheelchair accessible restroom": false
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Gender-neutral restroom": true
+   },
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Cozy": true
+   },
+   {
+    "Quiet": true
+   },
+   {
+    "Trendy": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Groups": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "welcoming staff",
+  "matcha latte",
+  "cozy atmosphere",
+  "philippine coffee beans",
+  "cold brew",
+  "friendly chef",
+  "cozy place",
+  "calm café",
+  "strawberry matcha latte",
+  "cheerfulness"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 88
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 50
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 44
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 41
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 58
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 50
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 55
+   }
+  ]
+ },
+ "owner_reply_rate": 0.13,
+ "reviews": [
+  {
+   "author": "イアン 佐藤",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great experience at Bo’s Coffee Sahara Centre! The staff were friendly, welcoming, and attentive. The coffee was fresh and tasted great, and the café was clean and comfortable. It’s a nice place to relax, catch up with friends, or get some work done. Keep up the good work! Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mary Grace Sante",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Very commendable service here in Sahara Center branch! Special mention to Sir Alvin for good customer service, very accommodating and approachable. Thank you so much for the good food! Will sure go back here again! Kudos to products and service of kabayan peeps! 👌🇵🇭",
+   "owner_reply": null
+  },
+  {
+   "author": "Vlogger Sami",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "\"If you're looking for good Filipino coffee, this is the place! The Tiramisu (Ð26) is yummy, and the Iced Ube Coconut Coffee (Ð25) is absolutely refreshing. Both are great and affordable!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Samar Alkhoor",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Hands down the best coffee in the mall! Despite the busy location, the café offers such a cozy and peaceful atmosphere that makes you feel like you’ve completely disconnected from the outside world. It’s the perfect spot to meet up with friends and is very easy to access. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Gonzales, Chelsey Ysabele Therese S.",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "They are so accommodating and welcoming. I’m glad they ask for feedback so they can continue improving their products.\nThe place is spacious and clean, making it great for coffee and work. They also have power sockets available.",
+   "owner_reply": "Dear Gonzales,<br><br>Thank you so much for your thoughtful review and for sharing your experience at Bo's Coffee.<br><br>We’re delighted to know that you found our team accommodating and welcoming, and we truly appreciate your recognition of our efforts to continuously improve through customer feedback.<br><br>It’s also wonderful to hear that you enjoyed the spacious and clean environment, making it a comfortable place for both coffee and work. We’re glad the available power sockets added to your convenience as well.<br><br>We look forward to welcoming you again soon for more great coffee and relaxing moments. ☕✨<br><br>Regards,<br><br>Team Bo's Coffee"
+  },
+  {
+   "author": "spot vibes",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "A little coffee escape in the heart of Sharjah ☕️✨\nGood coffee, cozy vibes, and the perfect spot to slow down and enjoy the moment. 🤎",
+   "owner_reply": null
+  },
+  {
+   "author": "Penggoy #domzroch",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Always loved their coffee.  And their foods are amazingly delicious, especially the pesto pasta and pizza.  The pistachio cream drink is a must try. The service is superb especially Alvin, he advised us what are they’re best sellers..  will come back here surely.",
+   "owner_reply": null
+  },
+  {
+   "author": "Joy Masillones",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "My husband and I always love Bos Coffee even sa Burjuman pa. Now that we moved to Al Nahda 1, we were grateful that there's still Bos Coffee here. We were a bit sad that we can't do 24 hours now but atleast we could still have coffee at BOS coffee. We love how accommodating the staff are. All of them actually but I would like to specifically mention Karen and Alvin for their very inviting aura and smile. Today, I got a free coffee from them hehe. Love it! Thank you 🫶 Ps. Love the fact that all their beans are from my home country 🇵🇭🫶",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed abdelgawad",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Everything from the food to the service to the atmosphere was absolutely spot on!\nThe staff was incredibly welcoming and attentive.\nIt is the perfect spot for a breakfast/dinner and a good quite place to work\n!Thanks for this amazing place",
+   "owner_reply": null
+  },
+  {
+   "author": "Real Reviews",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Okay so it’s 5 stars because of the service! The coffee was good and so was the omelette…. But the service was fantastic!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Leziel Sangalang",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "It's a great place for coffee and quick catch up with friends..\n\nA haven for coffee lovers due to lot of options to choose from. They the origins coming from the maintains of Philippines including Baguio, Sagada and from Mindanao Mt.  Matutum  and Mt. apo.\n\nThe hot food are so heartwarming that will transport you back home. Kudos to the Chef! He is not only talented,  he is also so friendly. ♥️♥️ You better gear up for more people to come for your pasta chef!. My daughter says smells like hotel food.\n\nGreat job!",
+   "owner_reply": "Dear Leziel,<br><br>Thank you so much for your wonderful review and for sharing such heartfelt feedback about your experience at Bo's Coffee.<br><br>We’re delighted to know that you enjoyed our coffee selections and appreciated the unique Philippine coffee origins from Baguio, Sagada, Mt. Matutum, and Mt. Apo. It means a lot to us to share the rich coffee culture of the Philippines with our guests.<br><br>We are especially happy to hear your compliments about our hot food and our chef. We will definitely share your appreciation with the chef and the entire team.<br><br>Thank you once again for your support and encouragement. We look forward to welcoming you and your family again soon for more great coffee, comforting food, and memorable moments. ♥️☕<br><br>Regards,<br><br>Team Bo's Coffee"
+  },
+  {
+   "author": "Toujani Rou",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a great experience at Bo’s coffee in Sahara Mall\nAlvin was very friendly and welcoming.\nHe greeted me with a smile and made the whole visit feel pleasant right from the start\nExcellent service thank you Alvin! 🙏🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Rizwan Khira",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I’ve been having coffee at Bo’s Café for the past 2–3 years, and the service has always been excellent. A special mention to Mr. Alvin, who is always friendly, attentive, and provides great service. His hospitality makes every visit enjoyable. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Roncher Bonacua",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Drinks: The coffee is crafted with real care—smooth, balanced, and perfectly done.\n\n​Service: The staff here are friendly, attentive, and genuinely passionate about what they serve, making the whole experience top-notch from start to finish. Special thanks to Alvin.",
+   "owner_reply": null
+  },
+  {
+   "author": "Awad Magzoub",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I visited Bo’s Coffee, Sahara Centre Sharjah, and ordered a hibiscus tea. I would like to highlight the excellent service of Albin. He was very kind, always smiling, and paid great attention to cleanliness and details. His positive attitude made me feel happy and comfortable while working here. It’s wonderful to see such dedication and passion for success.\n\nAs for the drink, I would rate it 8/10. It had a bit more sugar than I personally prefer, but that was on me since I forgot to mention I wanted it without sugar or with less sugar. For those who don’t like sweet drinks, I’d recommend asking for less sugar when ordering.",
+   "owner_reply": null
+  },
+  {
+   "author": "Reizl Mae Navarro",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This is our second time here in Bo's Sahara branch and Kuya Alvin is very professional,friendly and makes the best drink! I love the choco freeze and the hot chocolate..we also tried the pistacio freeze it's delish..highly recommended if you are looking for a place to relax while sipping your coffee.",
+   "owner_reply": null
+  },
+  {
+   "author": "Yassin Hussein",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Bos Coffee is a wonderful place to work and relax. The seating is very comfortable, the Wi-Fi is fast, and the view of Sahara Mall makes it even more enjoyable. The atmosphere is calm and perfect for focusing on work or just enjoying a coffee break.\nThe staff are always kind and welcoming — especially Alven, who makes every visit feel special with his friendly attitude and great service. Highly recommend this place!",
+   "owner_reply": null
+  },
+  {
+   "author": "Debbie Agbon",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It’s my first time here in Sahara Centre and it happened that I passed by at Bo’s Coffee and was so excited because I’ve been looking for coffee jelly for so long and what’s nice also is that Kuya Alvin is so accommodating. I came from hiking and been exhausted and it helped a lot to have someone who is so driven and kind towards other people. It’s not just the food and ambiance that make a coffee shop good it’s really the people working and serving the customers, that’s what matters the most. Thank you Kuya for being so nice. In a world full of hate, let’s always choose to be kind. God bless you more kuya. 🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "AMS Wahba",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing café with a warm atmosphere, great coffee, and excellent service. A special thanks to Alvin, who was incredibly welcoming, professional, and attentive throughout the visit. He made the experience even better with his kindness and great attitude. Definitely a place I would recommend and come back to again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lucky Rajput Official - Desi Boyz Productions",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had the pleasure of being served by Alvin America at Bo’s Coffee, and I must say, his service was outstanding! From the moment I walked in, Alvin greeted me with a warm smile and was very friendly. He took the time to explain the menu, offering recommendations based on my preferences, which I really appreciated. Throughout my visit, he was attentive and made sure I had everything I needed, all while maintaining a positive and professional attitude. His attention to detail and genuine care for customer satisfaction truly stood out. I’ll definitely be returning to Bo’s Coffee, especially if Alvin is there to help!",
+   "owner_reply": null
+  },
+  {
+   "author": "Hira",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "I was very disappointed with my experience at this café.\n\nI ordered the Classic Breakfast based on the menu description. When my order arrived, one of the listed items was missing. When I asked the staff about it, they told me it was a “printing issue” and that customers only receive what’s shown in the picture. That is not acceptable. Customers order and pay based on the written menu description, not just the image. If the menu contains an error, it should be corrected instead of expecting customers to accept less than what was advertised.\n\nThe menu should also be updated online to accurately reflect what is actually served so customers are not misled.\n\nI also ordered the Chicken Arrabbiata Pasta, and it was honestly the worst pasta I’ve ever had. It lacked flavor and was not enjoyable at all.\n\nOverall, the misleading menu information and the poor quality of the food made this a very disappointing visit. I hope the management updates both the in-store and online menus and improves the quality of the dishes.",
+   "owner_reply": null
+  },
+  {
+   "author": "Dnzl.",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "​A fantastic spot at Sahara Centre! Special shoutout to Sir Alvin for his extremely polite and accommodating service. The silent, peaceful ambience makes it a very relaxing cafe to take a break and enjoy a coffee.",
+   "owner_reply": null
+  },
+  {
+   "author": "Burhanuddin Garbadawala",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great coffee and even better service. Alvin was warm, attentive, and went out of his way to make sure I had a great experience. Bo's Coffee is lucky to have him!",
+   "owner_reply": null
+  },
+  {
+   "author": "ar.",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The service was nice and the people are polite, I've been here multiple times it's a nice authentic Filipino caffe, I'm sure they'd have a better Philippines essence given to blend in as much to the mall. The server Alvin America was quite lovely to talk to👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Ama James",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Absolutely loved the cozy ambience here.\n\nThe atmosphere was warm, relaxing, and beautifully designed — perfect for unwinding or catching up with friends.\n\nThe staff were welcoming, and the whole place had such a comfortable vibe. Definitely a spot I’d come back to again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lorena Morales",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Even after relocating, Bo's Coffee at Sahara Centere still feels very special to me... I truly miss stopping by for the coffee☕️ or chocolate drink, the atmosphere, and the warm experience by staffs. Wishing the team continued success in their new location — definitely worth a visit if you love great coffee and welcoming vibes.🤗🫡",
+   "owner_reply": "Dear Lorena,<br><br>Thank you so much for your kind words and continued support for Bo's Coffee. We are truly delighted to know that our Sahara Center branch holds such special memories for you.<br><br>Your appreciation for our coffee, chocolate drinks, atmosphere, and especially our team means a lot to us. Comments like yours motivate us to continue creating warm and memorable experiences for all our guests.<br><br>We look forward to welcoming you again soon at our new location for another great cup of coffee and the same welcoming vibe you enjoyed so much.<br><br>See you again soon! ☕🤗<br><br>Regards,<br><br>Team Bo's Coffee"
+  },
+  {
+   "author": "Elaine Saulon",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The new place is cozy and homey. Feels like zipping my strawberry matcha latte at Tagaytay 💖 The taste is giving the vibe “home away from home”. Thanks to Sir. Alvin for serving an excellent customer service 💙 the whole crew are nice and kind 🙌",
+   "owner_reply": "Dear Elaine,<br><br>Thank you so much for your beautiful and heartfelt review about Bo's Coffee.<br><br>We’re truly happy to know that our new location gave you a cozy and homey feeling, and that your Strawberry Matcha Latte reminded you of Tagaytay — “home away from home” is exactly the experience we hope to create for our guests. 💖<br><br>Your kind appreciation for Alvin’s excellent customer service and for the friendliness of the entire crew means a lot to us. We will gladly share your compliments with the team. 💙<br><br>We look forward to welcoming you back again soon for more comforting drinks and memorable moments. ☕🙌<br><br>Regards,<br><br>Team Bo's Coffee"
+  },
+  {
+   "author": "Christon Andrew Dsouza",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "A nice and cozy cafe, specializing in coffee from the Philippines. I ordered a coconut cold brew, and it was something new for me, unlike any other coffee I have had before. The seating is comfortable however the wifi is comparatively slower than other cafes.",
+   "owner_reply": null
+  },
+  {
+   "author": "ian bautista",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Really relaxing area even inside the mall, especially good service and coffee taste is great, my baby also has lot of space to play with. Alvin America and especially the indian Barista guy we know him for long time,he is very good to us. Thats why we are regularly visiting there. Great coffee, atmosphere and service overall",
+   "owner_reply": null
+  },
+  {
+   "author": "roderick lubrico",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Love the ambiance out here! A very quiet and good atmosphere. Alvin is a wonderful barista, he makes an amazing cup of coffee and is very attentive. Love it overall!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    743
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1067,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1201,
+    1339
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1408,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1408,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1400,
+    1056
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    284,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    400,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.instagram.com/boscoffeeuae/",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "boscoffeeuae"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {
+  "instagram": "boscoffeeuae"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/bo-s-coffee-sahara-center/",
+ "buy_likelihood": 6
+}

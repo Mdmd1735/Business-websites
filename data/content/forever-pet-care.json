@@ -1,0 +1,30 @@
+{
+ "preset": "ink-paper",
+ "theme": {"bg": "#F5F3EF", "accent": "#D9A441", "accent_text": "#9A6E15", "on_accent": "#1A1206", "duo": "#E6D4AC", "busy": "#B9892E", "band_bg": "#1E1E1E", "band_accent": "#F2C46A", "frame": "round", "hero_ratio": "16/10", "display": "\"Fraunces\",Georgia,serif", "google_fonts": "family=Fraunces:ital,opsz,wght@0,9..144,600;1,9..144,600&family=Inter+Tight:wght@400;500;600&family=Cairo:wght@700", "dw": "600"},
+ "brand": {"name": "Forever", "sub": "Pet Care · Sharjah", "mark": "F", "footer_word": "Forever"},
+ "seo": {"title": "Forever Pet Care Sharjah | Vet, Cat & Dog Grooming in Shuwaihean Plaza, Al Mareija", "description": "Forever Pet Care, Shuwaihean Plaza shops 9–10, Al Mareija, Sharjah: veterinary care by Dr. Nasreen, gentle cat and dog grooming, baths, nail and ear care, and a pet shop. 4.6 from 357 reviews."},
+ "hero": {"variant": "stack", "ar_name": "فوريفر للعناية بالحيوانات", "kicker": "Shuwaihean Plaza · Al Mareija · Sharjah", "title_lines": ["Where cats feel safe", "and dogs feel pampered."],
+   "lede": "Vet care, gentle grooming, baths, nail trims and ear cleaning for cats and dogs in Sharjah, led by Dr. Nasreen, plus a fully stocked pet shop next door.",
+   "image": "img/hero.jpg", "image_alt": "Forever Pet Care storefront in Shuwaihean Plaza", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Forever Pet Care, I'd like to book an appointment.",
+ "proof_note": "357 reviews",
+ "address_lines": ["Forever Pet Care, Shuwaihean Plaza, Shops 9–10", "Al Mareija, Hay Al Gharb, Sharjah"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Grooming, vet care", "title_dim": "and everything in between.",
+   "items": [
+    {"name": "Cat grooming & baths", "feature": true, "img": "img/cat-groom.jpg", "alt": "Groomer bathing a long-haired cat", "desc": "Calm handling, mat removal and a fluffy finish.", "quote": "Big kudos to the groomer for patiently removing the mats and still following the style we wanted.", "cite": "Mella M."},
+    {"name": "Dog grooming", "img": "img/poodle.jpg", "alt": "Freshly groomed poodle", "desc": "Breed cuts from photos you show us."},
+    {"name": "Vet care", "img": "img/vet.jpg", "alt": "Vet examining a cat", "desc": "Check-ups, treatment and aftercare with Dr. Nasreen."},
+    {"name": "Pet shop", "img": "img/shop.jpg", "alt": "Shelves of cat food", "desc": "Food, litter and accessories."}
+   ],
+   "perks": ["Open daily 10 AM – 10 PM (Fri from 1 PM)", "Cats, dogs & tortoises", "Kind owner-vet"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan your visit", "title": "Book a quiet slot", "title_dim": "for nervous pets."},
+  {"type": "team", "id": "team", "nav": "Vet", "eyebrow": "Your vet", "title": "Dr. Nasreen", "title_dim": "and the team.",
+   "items": [{"name": "Dr. Nasreen", "role": "Owner & veterinarian", "quote": "Forever grateful to Dr. Nasreen and the entire team for the care, compassion, and kindness shown to my puppies.", "cite": "Google reviewer"}]},
+  {"type": "gallery", "images": [{"src": "img/logo.jpg", "alt": "Forever Pet Care neon logo"}, {"src": "img/stbernard.jpg", "alt": "St Bernard on the grooming table"}, {"src": "img/persian.jpg", "alt": "White Persian cat"}, {"src": "img/kitten.jpg", "alt": "Kitten after grooming"}, {"src": "img/tortoise.jpg", "alt": "Tortoises visiting the clinic", "wide": true}, {"src": "img/sunglasses.jpg", "alt": "Small dog wearing sunglasses"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Book", "title": "Ask before you come.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a cat bath and groom?", "Can you remove matted fur?", "Can I book a vet check-up today?", "Do you stock Royal Canin?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Shuwaihean Plaza,", "title_dim": "Sharjah."}
+ ]
+}

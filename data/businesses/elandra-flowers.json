@@ -1271,7 +1271,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/elandra-flowers/",
- "buy_likelihood": 6
+ "buy_likelihood": 7,
+ "notes": "4.9, open till 3 AM, posts professional product shots. Never replies.",
+ "display_name": "Elandra Flowers"
 }

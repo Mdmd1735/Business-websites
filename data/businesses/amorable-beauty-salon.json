@@ -1,0 +1,1063 @@
+{
+ "slug": "amorable-beauty-salon",
+ "name": "Amorable Beauty Salon",
+ "place_id": "ChIJf7Zt_mtdXz4R4J4Fcu6O_Hs",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "Al murraqabat road Flat# 101, Bu Haleeba Building, Murraqqabat - Road - near Asiana grand hotel - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2643236,
+  "lng": 55.3292631
+ },
+ "phone": "+971 52 952 9907",
+ "rating": 4.9,
+ "userRatingCount": 347,
+ "rating_distribution": {
+  "oneStar": 3,
+  "twoStar": 3,
+  "threeStar": 3,
+  "fourStar": 5,
+  "fiveStar": 333
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Amorable%20Beauty%20Salon&query_place_id=ChIJf7Zt_mtdXz4R4J4Fcu6O_Hs",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Welcome to Amorable Beauty Salon—your escape into affordable luxury. Let our experts elevate your beauty with flawless hair styling, elegant nails, natural permanent makeup, soothing massages, and enchanting Moroccan treatments. Melt into relaxation with our Japanese Head Spa and renew your glow with our signature facials. Every visit feels special, every detail is crafted with care. At Amorable, beauty becomes an experience—luxurious, unforgettable, and made just for you.",
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "japanese head spa",
+  "full body massage",
+  "relaxing experience",
+  "foot spa",
+  "vietnamese head spa",
+  "moroccan bath",
+  "relaxing atmosphere",
+  "foot scrub",
+  "protein treatment",
+  "accommodating staff"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "Mark Louie Mendoza",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Miss Thao gave my wife the best Vietnamese head spa experience! She was very accommodating, friendly, and professional throughout the whole service. The staff were also very warm and welcoming, providing truly 10/10 customer service. The place is clean, relaxing, and perfect for anyone who wants to unwind and feel pampered. My wife really enjoyed the experience, and we will definitely come back and become regular clients. Highly recommended",
+   "owner_reply": "Thank you so much for your wonderful review, Sir Mark! We are truly happy to hear that your wife had the best Vietnamese Head Spa experience with Miss Thao. Your kind words about her professionalism, friendliness, and accommodating service mean a lot to us. We’re also glad that you appreciated our warm customer service and relaxing atmosphere. It was our pleasure to pamper your wife, and we’re very excited to welcome you both back again soon. Thank you for your recommendation and support! <br>"
+  },
+  {
+   "author": "Aveen Majid",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a Japanese head spa and massage , and also full body massage with the therapist Rowena. Lovely lady, and very professional. She was really great, took her time and gave me hair advice. Her pressure was very strong and good for my stiff neck and lumps. I will definitely come back! Many thanks for your service !",
+   "owner_reply": "Thank you for your gracious feedback Dear Aveen. We are delighted to know that your Japanese Head Spa and full-body massage with Rowena was such a positive experience. Her professionalism, attentive care, and thoughtful approach are truly appreciated, and we are pleased that the treatment helped relieve the tension in your neck. Your kind words will be shared with her, and we look forward to welcoming you again for another relaxing visit."
+  },
+  {
+   "author": "delyn grace plaga",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had such a wonderful experience at this salon and would highly recommend it to anyone looking for quality service and a truly relaxing experience. ✨\n\nLyxie, Sital, Thao, and Rowena were all incredibly warm, friendly, and accommodating. They were attentive throughout the entire experience and clearly take great pride in what they do. I genuinely felt comfortable, cared for, and in very good hands.\n\nIt’s not often that you come across a team that is not only skilled and professional but also makes you feel so welcomed and valued as a client. Thank you for making my visit such a lovely experience. ❤️\n\nI will definitely be coming back and looking forward to trying more of their services. Highly recommended! ✨",
+   "owner_reply": "Thank you so much for sharing such a beautiful review with us Dear Delyn❤️ Your kind words truly mean the world to our entire team.<br><br>Lyxie, Sital, Thao, and Rowena will be absolutely delighted to know that their warmth, care, and attention made your visit so special. Creating a space where our clients can feel relaxed, comfortable, and genuinely cared for is something we value deeply.<br><br>It was our pleasure to have you with us, and we’re so happy to know you left feeling refreshed and well taken care of. We’re already looking forward to welcoming you back and giving you another wonderful experience. Until then, stay beautiful and take care❤️"
+  },
+  {
+   "author": "Gemma Buenaflor",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a wonderful experience at Amorable Beauty Salon! From the moment I arrived, the staff were very welcoming, friendly, and attentive. They listened carefully to what I wanted and made sure I was comfortable throughout my appointment.\n\nI absolutely love my new hairstyle and hair color—they met my expectations exactly! The team was professional and took the time to ensure every detail was perfect.\n\nI highly recommend Amorable Beauty Salon to anyone looking for excellent service and a relaxing salon experience. Thank you for making me feel confident and beautiful.\n\nThanks to the staff.. Miss Rowena, Lanie and Michel.\n\nI'll definitely be coming back! ❤️",
+   "owner_reply": "Wow! Your review truly brightened our day Dear Gemma. Thank you for taking the time to share your experience with us. Knowing that every part of your visit, from the warm welcome to your new hairstyle and hair color, made you feel happy and confident is the greatest compliment we could receive. Your thoughtful mention of Miss Rowena, Lanie, and Michel means so much. We'll make sure they receive your kind words, as they'll be delighted to know their dedication made a difference. At Amorable Beauty Salon, every guest is treated like family, and creating beautiful results in a warm, relaxing atmosphere is what inspires us every day. Thank you for your trust, your recommendation, and for allowing us to be part of your beauty journey. We look forward to creating many more wonderful experiences with you. See you again soon!"
+  },
+  {
+   "author": "Fatma El",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I’ve had several treatments at this spa, and every experience has been amazing. The staff are professional, welcoming, and make you feel completely relaxed from the moment you arrive.\n\nMy absolute favorite treatment was the head spa with Thao. It was incredibly relaxing and left me feeling refreshed and amazing. I highly recommend it to everyone!",
+   "owner_reply": "Thank you so much for your beautiful words and continued trust in us Dear Fatma. We’re truly delighted to know that every visit has been a wonderful experience for you. Your appreciation for our team means a lot, and we’re especially happy to hear how much you enjoyed your Head Spa with Thao It’s always our goal to create a peaceful, relaxing escape for our guests, and knowing you left feeling refreshed and renewed makes us so happy. We look forward to welcoming you back again soon for more moments of care and relaxation."
+  },
+  {
+   "author": "Ethan Zoey Duka",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Another wonderful salon experience for the second time with Ms. Rowena! ❤️ I’m very happy and satisfied with the results. Definitely coming back again.",
+   "owner_reply": "Thank you so much for choosing us again, Dear Ethan Zoey🥰 We’re truly happy to know that you had another wonderful experience with Ms. Rowena and that you’re loving your results. Your trust and satisfaction mean so much to us. We can’t wait to welcome you back and pamper you again soon.Thank you for your continued love and support. ❤️"
+  },
+  {
+   "author": "Tina Simagala",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Pure bliss! Exceptional Japanese Head Massage from Miss Thao that instantly relieved my stress. Thank you for the magic touch! 😉❤ Amorable Beauty Salon has a clean environment, professional staff, and total relaxation. Highly recommend! 😍",
+   "owner_reply": "Thank you so much for your beautiful words Dear Tina! Reading your review truly made our day. We're delighted that Miss Thao was able to provide you with such a relaxing and stress-relieving Japanese Head Spa experience. Your appreciation means the world to us, and we'll be sure to share your kind compliments with her. Our goal is to create a peaceful escape where every guest leaves feeling refreshed, cared for, and smiling. Knowing we achieved that for you is the greatest reward we could ask for. We can't wait to welcome you back for another well-deserved moment of relaxation. Until then, take care and see you again soon!"
+  },
+  {
+   "author": "meliza alfonso",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had an amazing experience at Amorable Beauty Salon! I came in for hair services, and Ms. Rose did an excellent job. She was very professional, knowledgeable, and took the time to explain every treatment and procedure she was doing to my hair. She also gave me helpful tips on how to properly maintain my hair at home, which I really appreciated.\n\nThe service was outstanding, and I felt well taken care of throughout my visit. I’m very happy with the results and will definitely come back. Highly recommended, especially if you’re looking for someone who genuinely cares about your hair. Thank you, Ms. Rose, and the entire Amorable Beauty Salon team!",
+   "owner_reply": "Thank you so much for your wonderful and detailed feedback Dear, Meliza! 💖 <br><br>We’re delighted to hear that you had an amazing experience with Ms. Rose and that you were happy with your hair results. She will be very pleased to know that you appreciated her professionalism, explanations, and helpful aftercare advice.<br><br>Your kind recommendation means so much to our entire team. We look forward to welcoming you back to Amorable Beauty Salon soon! ✨<br><br>Warm Regards, <br>Amorable Beauty Salon<br>"
+  },
+  {
+   "author": "jonalyn acoymo",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Highly recommended! 💜 I had the Japanese head spa and it was one of the most relaxing experiences I’ve had. Sital is very friendly, professional and made me feel comfortable the whole time. The ambiance was calming and the service was excellent. I was so relaxed that I completely lost track of time. Will definitely come back again! 💆‍♀️",
+   "owner_reply": "Thank you so much for your wonderful feedback, Ms. Jonalyn! 💜 We’re so happy to hear that you had such a relaxing experience with our Japanese Head Spa. 🥰<br><br>Sital will be very pleased to know that you felt comfortable and well taken care of throughout the service. Thank you for appreciating her professionalism and friendliness. 💆‍♀️✨<br><br>We truly appreciate your kind words about our ambiance and service. We look forward to welcoming you back again for another relaxing and pampering experience soon! 💕<br><br>Warm Regards, <br>Amorable Beauty Salon"
+  },
+  {
+   "author": "Richard Alfonso",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I am extremely satisfied with Ate Rowena’s massage! She is really good at what she does. I felt so much better and lighter after the massage. I will definitely come back here again for another massage with her.\nThank you so much, Ms. Rowena! ❤️ Highly recommended!\n\nIt's me,\nCharity Alfonso",
+   "owner_reply": "Nothing makes us happier than knowing you left feeling refreshed, relaxed, and lighter Dear Richard. Thank you so much for your wonderful feedback and recommendation. We’ll be sure to share your kind words with Ate Rowena. she’ll be delighted to know how much you enjoyed her massage. We look forward to welcoming you back for another relaxing experience soon.❤️"
+  },
+  {
+   "author": "maryam zaina",
+   "rating": 2,
+   "when": "4 weeks ago",
+   "text": "The spa is easy to access, although the building itself is dull and gloomy.\n\nThe hair spa treatment itself was good . I personally found the interaction a little less welcoming.\n\nThe manicurist also did a good job.\n\nHowever, what really surprised me during my visit was seeing a cockroach inside the spa. I was quite shocked to see this. I have a video of it but I prefer not to attach it and I have shared it with the saloon .\n\nThey also have discounts/promotions for the Japanese spa, which may be worth checking if you’re considering trying it.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aleena S",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had a lovely first experience. Really a group of expert staff who are very kind, sweet, accomodating and well behaved. Fascinated meeting different nationalities. Special mention to Rose, Hasna, Fathima and Thao, and the Indonesian lady I missed to get the name of. Hasna and Fathima managed to revive my damaged nails. Rose understood the issue with my hair. And excellent relaxing Japanese Head spa by Thao. Very happy with the care and services. Definitely going back to try out more!",
+   "owner_reply": "Thank you so much for your beautiful and heartfelt review Dear Aleena 🥰❤️ It truly means a lot to our entire team to know that you had such a lovely first experience with us. We’re especially happy to hear that Rose, Hasna, Fathima, Thao, and our Indonesian team member made your visit special. We’ll definitely share your kind words with them; they’ll be so happy to hear your feedback. It was our pleasure to take care of your nails, hair, and provide you with a relaxing Japanese Head Spa experience. We’re so glad you enjoyed the care and service from our team.We can’t wait to welcome you back and pamper you again. Thank you for trusting us ❤️"
+  },
+  {
+   "author": "Ma. Jean Antoine Padua",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Rose, thank you so much for the amazing hair treatment last Saturday! Beyond your incredible skills, I felt like I was hanging out with an old friend. Thank you for the constant laughs and the wonderful conversation, you made my day so bright. I traveled all the way from DMCC to Al Rigga for this, and I have absolutely no regrets. Can't wait for my next appointment!",
+   "owner_reply": "This is such a heartwarming review to receive Dear Ma. Jean❤️ We’re so glad Rose made your visit extra special, not just with her amazing skills but also with her lovely personality. Thank you for making the trip from DMCC to Al Rigga just to see us. Your effort and trust mean the world to our team. We’re already looking forward to seeing you again to create even more beautiful memories together🥰"
+  },
+  {
+   "author": "May MyatNoe",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Me and my friend , we had an amazing full-body massage experience! Our therapist (Joey and Hasna) who were very professional, attentive, and skilled. They knew exactly where to focus and applied the perfect amount of pressure. We felt so relaxed and refreshed after the session. They were also very kind and made us feel comfortable throughout the entire massage. Definitely one of the best massages we’ve had. Highly recommended! ⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": "Thank you so much for sharing such a beautiful review Ma'am May🥰.We’re absolutely delighted to know that you and your friend had such a wonderful and relaxing experience with Joy and Hasna. It means a lot to us that you felt comfortable, cared for, and completely at ease throughout your massage. We’ll definitely share your kind words with them; they’ll be so happy to know their care and attention made your experience extra special. Thank you for recommending us, and we can’t wait to welcome you both back for another relaxing escape❤️"
+  },
+  {
+   "author": "Joem Zarate",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had an amazing experience at Amorable, especially with the hair spa service—it was truly top-notch. Thao’s expertise made it even more special, turning it into a genuinely beautiful and relaxing experience. The salon’s ambiance is also very cool and inviting. Highly recommended!",
+   "owner_reply": "Thank you so much for your lovely feedback Dear Ms. Joem! We’re truly delighted to know that you had such an amazing experience with our hair spa service. Ms. Thao will be very happy to hear your kind words it means a lot to all of us, We’re also glad you enjoyed the ambiance of our salon and felt relaxed during your visit. We sincerely appreciate your recommendation, and we can’t wait to welcome you again soon for another beautiful and relaxing experience!"
+  },
+  {
+   "author": "Idaria Sosa",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "i had a vietnamese head spa ,  with MS.THAO . Lovely lady, and very professional. She was really great, took her time  Her pressure was very strong and good . I will definitely come back! Many thanks for your service !",
+   "owner_reply": "Your kind words truly warm our hearts Dear Idaria❤️ We’re so happy to know that you enjoyed your Vietnamese head spa experience with Ms. Thao. It means so much to us that you appreciated her care, professionalism, and massage technique. Thank you for choosing us and for sharing such lovely feedback. We can’t wait to welcome you back and make your next visit just as relaxing and special."
+  },
+  {
+   "author": "May Ann Cagatin",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI had a very satisfying and relaxing massage experience with Ate Rowena. She is professional, reliable, and really knows how to make you feel comfortable and relaxed. The massage was exactly what I needed, and I left feeling refreshed and completely relaxed.\n\nI highly recommend Ate Rowena to anyone looking for a skilled, trustworthy, and reliable massage therapist. I will definitely come back again! 😊",
+   "owner_reply": "We’re so happy to know Ma'am May, that you enjoyed your massage with Ate Rowena. Thank you for taking the time to share your experience and for your kind words about her professionalism and care. It’s wonderful to hear that you left feeling refreshed, relaxed, and comfortable. Your recommendation means so much to us, and we truly appreciate your trust and support. We can’t wait to welcome you back for another relaxing experience ❤️"
+  },
+  {
+   "author": "bruni",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Miss Thao has given me a head massage and hair mask, excellent service! Done in a relaxing and cool atmosphere, she gave a great and calming head massage. I 100% recommend her and this salon. My hair feels soft and a lot better now :)",
+   "owner_reply": "Dear Bruni, thank you so much for sharing your beautiful experience with us. We’re truly delighted to hear that you enjoyed your soothing head massage and nourishing hair mask with Miss Thao. It’s wonderful to know you felt deeply relaxed in our calm and refreshing ambiance, and that your hair feels softer, healthier, and revitalized. Your heartfelt recommendation means a great deal to our team. We look forward to welcoming you back soon for another blissful pampering experience! "
+  },
+  {
+   "author": "Lorena Pérez",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Magnificent service! The whole team is wonderful, super helpful, and super professional. The pedicure and Vietnamese hair and scalp treatments are top-notch, and the body massage services are simply the best in the world—they completely reset you! I highly recommend them and will gladly return. Thank you all!",
+   "owner_reply": "Thank you so much for your wonderful and heartwarming feedback Dear Ms. Lorena! We are truly delighted to hear that you had such a magnificent experience with our team. It means a lot to us that you enjoyed your pedicure, Vietnamese hair and scalp treatment, and Full body massage, we’re so happy to hear that you feel completely relaxed and refreshed. Your kind words, recommendation, and support truly inspire us. We can’t wait to welcome you back again for another amazing experience!"
+  },
+  {
+   "author": "Raquel Santiago",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Had an amazing experience at Amorable Ladies Salon! The service was excellent — huge thanks to Lanie and Kristen for being so friendly and professional. The Moroccan bath, soothing scalp treatment, and full body massage were absolutely top-notch! I felt so relaxed and pampered from start to finish. Can’t wait to come back soon! 💕💇‍♀️💆‍♀️✨",
+   "owner_reply": "Thank you so much for your lovely feedback, Ms. Raquel! We’re glad you enjoyed the Moroccan bath, scalp treatment, and massage. Lanie and Kristen will be happy to hear your kind words. Can’t wait to pamper you again soon! 💕"
+  },
+  {
+   "author": "Jinelyn Aborde Fernandes",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Thank you Amorable Beauty Salon for a wonderful Keratin treatment yesterday with Ms. Rowena. I am very satisfied with the result. My hair is soft and shiny. And she advised me to keep using hair mask for my hair. I will definitely recommend this saloon. Happy customer here.",
+   "owner_reply": "Thank you so much for your wonderful feedback Dear, Jinelyn! 💖<br><br> We’re delighted that you loved your keratin treatment with Ms. Rowena and that your hair feels soft and shiny. We truly appreciate your recommendation and look forward to welcoming you back to Amorable Beauty Salon soon! ✨<br><br>Warm Regards, <br>Amorable Beauty Salon<br>"
+  },
+  {
+   "author": "Angelica Dabu",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had an amazing experience! Ms. Thao did a perfect job on my eyebrows. She was professional, gentle, and paid great attention to detail. She shaped my brows beautifully, and the result looked so natural and suited my face perfectly. I’m very happy with her work and will definitely come back. Highly recommended—thank you, Ms. Thao!\n\nSee you again after 2 months❤️❤️",
+   "owner_reply": "We truly appreciate you taking the time to share your experience Dear Angelica. It’s wonderful to know that Ms. Thao made you feel comfortable and created a natural eyebrow shape that suited your face beautifully. Your kind words will mean so much to her and our team. We look forward to welcoming you back again soon!"
+  },
+  {
+   "author": "Karen Purificacion",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Its cozy and one of a clean salon i went.\nProfessional russian tech for nails and i will definitely come back and stay. Thank you Geraldine for the very classy nails you made for me.",
+   "owner_reply": "Thank you so much for your kind review Dear Ms. Karen! We’re happy to hear that you found our salon cozy and clean, and that you were satisfied with our professional nail services. Geraldine will be delighted to know you loved your classy nails. We truly appreciate your support and look forward to welcoming you again soon!"
+  },
+  {
+   "author": "Darom",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Excellent Head Spa Experience\n\nI had a very relaxing and wonderful experience at the head spa. The service was excellent, and the staff were very professional and attentive. Special thanks to Thao and Resto for taking such good care of me. They were friendly, skilled, and made sure I was comfortable throughout the treatment.\n\nI highly recommend this place to anyone looking for a relaxing and refreshing head spa experience. I will definitely come back again! 😊",
+   "owner_reply": "Thank you so much for your lovely feedback Dear Darom! We’re delighted to hear that you enjoyed a calming and refreshing head spa experience with us. It’s wonderful to know that our team was able to take good care of you and make you feel comfortable throughout your visit. A special appreciation for Thao and Resto—they’ll be very happy to know their service made a positive impression on you. Your recommendation truly means a lot to us, and we look forward to pampering you again soon for another soothing escape."
+  },
+  {
+   "author": "Parvathy Chandran",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I got a Japanese head spa done by Thao and she was AMAZING. It felt so relaxing and calming. Will definitely come here again!",
+   "owner_reply": "Thank you so much for your sweet review Dear Parvathy❤️ We’re so happy to know that you had such a relaxing experience with Thao. We’ll definitely share your lovely feedback with her; it will surely make her day. 🥰 It means so much to us that you enjoyed your visit, and we can’t wait to pamper you again on your next visit. Take care and see you soon ❤️ "
+  },
+  {
+   "author": "Tha pop",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "We were a group of 3 — 2 of us got our nails done, and 1 had the head spa package. We had an amazing time, and we were all very happy with the experience! The staff were so nice, friendly, and polite. Highly recommend!",
+   "owner_reply": "Thank you so much for your lovely review Ma'am Tha🥰❤️ We’re so happy to hear that all three of you had a wonderful experience with us, from the nail services to the Japanese Head Spa. Your kind words about our team mean so much to us. t was a pleasure having you all at our salon, and we look forward to welcoming you back for another relaxing and enjoyable visit. Thank you for recommending us💕"
+  },
+  {
+   "author": "Nita Sharma",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Very good service. Sital  and Rowena  thanx both of you.   I am very to come hare . The way Sheetal performed my Japanese head massage and wash was mind-blowing.\nRowena gave a really good body massage; I felt very relaxed. See you next time",
+   "owner_reply": "It was a pleasure having you at our salon Dear Nita! We’re delighted that Sital’s Japanese Head Spa and Rowena’s relaxing body massage made your visit so enjoyable. We truly appreciate your lovely feedback and look forward to welcoming you again soon!"
+  },
+  {
+   "author": "Charulatha Mani",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I came for the Japanese head spa. I was greeted at the entrance itself. The hospitality and the friendliness of the staff was so nice on hot day in Dubai. I was a few minutes late but they were so understanding. Ms. Thao took care of me for my services and she did a really nice job. I was in and out of sleep when she was massaging me. I would definitely come back.",
+   "owner_reply": "Thank you for such a heartwarming review Dear Charulatha! We're so happy you were able to relax and unwind even drifting off to sleep is the best compliment for a head spa! We'll make sure Ms. Thao sees your kind words. It was a pleasure having you with us, and we can't wait to welcome you back for another blissful escape soon."
+  },
+  {
+   "author": "JC Cortez",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I had such a relaxing and amazing head spa experience at Amorable Beauty Salon. From the moment I came in, the atmosphere was calm, clean, and very soothing. The staff named Thao from Vietnam were very professional, gentle, and made sure I was comfortable the entire time.\nThe head spa treatment itself was incredible — the scalp massage relieved so much stress, and the products they used smelled great and felt refreshing. I could really feel my scalp being deeply cleansed. After the session, my scalp felt light and refreshed, and my hair was softer and healthier.\nOverall, it was a very relaxing experience and definitely worth it. I highly recommend this salon to anyone who wants to relax, de-stress, and take good care of their scalp and hair. I will surely come back again.",
+   "owner_reply": "Thank you so much for your detailed and wonderful review Mr. JC! We’re thrilled to hear you had such a relaxing and refreshing head spa experience at Amorable Beauty Salon. Miss Thao will be delighted to know her care and professionalism made your session so enjoyable. We truly appreciate your recommendation and can’t wait to welcome you back for another pampering session!"
+  },
+  {
+   "author": "Charmaine Catura",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Absolutely worth the visit! Their service was excellent. The staff were welcoming, attentive, and professional as wellz The massage was deeply relaxing, and the hair spa treatment left my hair feeling refreshed. The spa itself was clean, calming, and well-maintained. I highly recommend this place for anyone looking to unwind and treat themselves. I’ll definitely be returning!",
+   "owner_reply": "Your beautiful words truly mean the world to us Dear Charmaine! Knowing that every part of your visit, from the warm welcome to the relaxing massage and refreshing hair spa, made you feel cared for is the greatest compliment we could receive. We believe that true relaxation comes from both exceptional treatments and genuine hospitality, so we're delighted that you experienced both. Thank you for your heartfelt recommendation and for choosing us as part of your self-care journey. We can't wait to welcome you back for another relaxing escape whenever you need a little time just for yourself."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    940,
+    788
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    512,
+    354
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    451,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/amorable-beauty-salon/",
+ "buy_likelihood": 8
+}

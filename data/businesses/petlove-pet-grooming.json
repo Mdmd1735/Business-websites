@@ -1,0 +1,1238 @@
+{
+ "slug": "petlove-pet-grooming",
+ "name": "Petlove - Pet Grooming l Petshop l Daycare l Pet Boarding l Pet Taxi",
+ "place_id": "ChIJbXgAwVYTXz4RFy3nWvOAZzo",
+ "category": "pet grooming",
+ "category_weight": 10,
+ "area": "Jumeirah, Dubai",
+ "address": "SkyView Tower - Jumeirah Beach Road - Dubai Marina - Dubai - United Arab Emirates",
+ "building": "Skyview Tower",
+ "location": {
+  "lat": 25.0840378,
+  "lng": 55.1425111
+ },
+ "phone": "+971 56 123 6622",
+ "rating": 4.5,
+ "userRatingCount": 206,
+ "rating_distribution": {
+  "oneStar": 19,
+  "twoStar": 1,
+  "threeStar": 4,
+  "fourStar": 10,
+  "fiveStar": 172
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Petlove%20-%20Pet%20Grooming%20l%20Petshop%20l%20Daycare%20l%20Pet%20Boarding%20l%20Pet%20Taxi&query_place_id=ChIJbXgAwVYTXz4RFy3nWvOAZzo",
+ "website": "",
+ "categories": [
+  "Pet groomer",
+  "Dog day care center",
+  "Pet adoption service",
+  "Pet boarding service",
+  "Pet sitter",
+  "Pet store"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "7 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "7 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "7 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "7 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "7 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "7 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "7 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Provides Complete PET services - Grooming, Daycare / Boarding, Dog Walk, Pet Food & Accessories, Pet Taxi- Free Pick - Up & Drop, Free Delivery .",
+ "amenities": {
+  "Service options": [
+   {
+    "Outdoor services": true
+   },
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking garage": true
+   },
+   {
+    "Free parking lot": true
+   }
+  ]
+ },
+ "review_tags": [
+  "groomer tom",
+  "gentle groomer",
+  "product selection",
+  "pomeranian",
+  "friendly team",
+  "clean space",
+  "talented groomers",
+  "pet taxi",
+  "kind driver",
+  "value for money"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.03,
+ "reviews": [
+  {
+   "author": "Chady Majady",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Absolutely love your grooming service! You never disappoint. My cats always come out looking fresh, clean, and calm. It’s amazing how relaxed they are after every appointment, with no stress or anxiety at all. Thank you for always taking such great care of them ❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Алёна Ломовцева",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "We have been regularly visiting the grooming salon and our master Tom groomer for six months now, and our Pomeranian Spitz absolutely adores our groomer! The services here are of exceptional quality, and each visit leaves the most positive impressions. The groomer is attentive to every comment and request, allowing us to always achieve the perfect result.\n\nEvery time we leave completely satisfied, as the grooming is performed at the highest level! Our Spitz always looks stunning and well-groomed, as if straight off a magazine cover.\n\nWe don't just suggest, but strongly recommend this grooming salon to all our friends and acquaintances. Unique professionalism, individual approach, and care for the pet - this is what makes these services incredible. We are confident that we will continue to visit this wonderful groomer for many years to come.",
+   "owner_reply": null
+  },
+  {
+   "author": "Валентина Чекмазова",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Thank you very much for cat! She becomes even more beautiful and fluffy 🥰 job done very good, even I would say perfectly 👍 endlessly grateful for my cat! I think she is also happy to not have hairball anymore 🙈",
+   "owner_reply": null
+  },
+  {
+   "author": "Shaik Hussain",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "In a world where your furry friends deserve only the best, Pet Love is the epitome of care and quality. Imagine a place where every wag of a tail and every snarl of satisfaction is answered with expert hands and a heart full of compassion. At Pet Love, they transform grooming from a menial task to an enjoyable experience, ensuring your pets leave at salon not only looking great, but feeling loved.",
+   "owner_reply": null
+  },
+  {
+   "author": "John Rafael Dejarme",
+   "rating": 5,
+   "when": "5 years ago",
+   "text": "Pet love is a great place to go for services for your pets because they provide excellent quality of service to their clients and the staff is also customer and pet-friendly and they also offer many products to choose from! My dog is always excited to go there! Highly recommended!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "그라시타",
+   "rating": 5,
+   "when": "6 years ago",
+   "text": "Love bringing my pug here for grooming and day care. Clean and super friendly staff! Cial is knowledgeable and helpful. If you live in the Marina area, would highly recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "Gideon Agyei",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "I have three popies in ghana 1 bobi 2 lowkye   3lucky pls i get alot of esperinces  in popies,and 1cat called  bengaze i called by my name",
+   "owner_reply": "Hi, thank you for your message. We believe there may be a misunderstanding, as we do not have any record of a client from Ghana. Your review does not reflect any interaction we’ve had, and the content is unclear. We kindly ask that you refrain from posting inaccurate or misleading reviews. If you believe this is an error, please feel free to contact us directly so we can clarify. Thank you."
+  },
+  {
+   "author": "Hann Villar",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "My Pomeranian boy just had his first haircut, and voala!!! I'm thrilled with the outcome. Huge thanks to Kuya Tom for doing such an amazing job. He took great care of our Cosmo and showed incredible patience with this naughty and stubborn boy!",
+   "owner_reply": null
+  },
+  {
+   "author": "Justine Villanueva",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Taking Oscar to his first grooming appointment in Dubai was a bit nerve-wracking, but Kuya Tom at Petlove did an amazing job! We stayed at the store the whole time to make sure Oscar was comfortable. The establishment was very clean, and it was reassuring to see that they had a doggy daycare and in-house pets. It was a positive experience overall! 🥰🙌🏽",
+   "owner_reply": null
+  },
+  {
+   "author": "Nezaiah Joyce",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I’m really impressed with this pet shop. The staff took the time to explain everything I needed to know and helped me choose the right items for my pet. The store is clean, organized, and the animals are clearly well taken care of. Great customer service and good prices. I’ll definitely come back again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Joisce Cunha",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I just mover to Dubai and brought my York for full grooming! Tom was taking care of her at Dubai Marina Branch and I loved it!\nShe came back home as I wished and loved the service! Thanks so much",
+   "owner_reply": null
+  },
+  {
+   "author": "Catherine Herrera",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I visit at marina shop to buy treats and toys to my 2 babies. Amazing value for money and quality products. Staff are very friendly they can help you what you need.\nHighly recommended!\nThank you petlove😍",
+   "owner_reply": null
+  },
+  {
+   "author": "Maissoune Righa",
+   "rating": 1,
+   "when": "10 months ago",
+   "text": "I took my cat for deshading to this groomer and she came back home with a ringworm in her ears i had to spend 2000 Aed for treatment and isolation",
+   "owner_reply": null
+  },
+  {
+   "author": "Ginalyn Dayag",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful experience with their service from start to finish. Their team was very helpful during my initial phone inquiry, answering all my questions thoroughly about GROOOMING services. Then When I visited there shop I saw many Furbabies for Daycare are very happy,enjoying for playing😊\nSpecially for My Babies GROOOMING was very Amazing ,Nice Haircut and  Price less very affordable highly recommend this shop for all fur parents!",
+   "owner_reply": null
+  },
+  {
+   "author": "Queen Mehroo",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This is my third time to visited here in petslove for my cat grooming the tom  is very nice guy my cat love him and very comfortable with Tom  I am very satisfied  must visit here this 5 star for only tom ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Elina K",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had very good experience at Petlove. My dog had a beautiful haircut. I will definitely use Petlove services again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rochelle Cordova",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I had a great experience with this petlove grooming, the staff are approachable,  very kind and took a time to explain everything about their services. I would highly recommend this petlove grooming to my fellow pets owner out there.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rafiullah Khan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Fantastic Dog Daycare Petlove provides a safe, fun, and caring environment for my dog during the day. The staff is friendly, and my pup always comes home happy and tired. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Minnie Mouse",
+   "rating": 1,
+   "when": "5 years ago",
+   "text": "Bought online 12 diapers for my dog who is on heat and received 1 washable diaper. The driver told me what I ordered and received was the same but it clearly wasn’t. As I was desperate I accepted but it’s not suitable.",
+   "owner_reply": null
+  },
+  {
+   "author": "Faheema Begum",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "my experience at Petlove Grooming  was outstanding. It’s a relief to find a place that treats pets with the same love and care as we do. I’ll definitely be returning, and I highly recommend them to any cat owner looking for a reliable grooming service!",
+   "owner_reply": null
+  },
+  {
+   "author": "No One Care",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Highly recommend Pet Love! They take such good care of my Cloud. They groom him soo well. Very friendly staff. Can’t recommend them enough !",
+   "owner_reply": null
+  },
+  {
+   "author": "SHELAMAR MOSANG",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great experience with the grooming service! The groomer was gentle and clearly took good care of my pet. I'd definitely recommend this service with fellow pet owners.",
+   "owner_reply": null
+  },
+  {
+   "author": "Elvie Malubay",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I would like to express my appreciation for the best service i got from you guys specially for my baby cookie   to staying with you for boarding you always make him happy for playing and updating me all the time and sending a video's very appreciated ..Very highly recommended this shop 🐶👌❤..",
+   "owner_reply": null
+  },
+  {
+   "author": "Flexie Ann Zamora",
+   "rating": 5,
+   "when": "Edited 11 months ago",
+   "text": "Nice to meet Ms. Ghina, a very approachable and detail-oriented staff of Petlove. Thank you for answering my queries on point. Will definitely come back for your great services for my fur babies.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammed Zakir TAŞCI",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\nI’m really happy with the service at Petlove! The place is clean, organized, and everyone is friendly. Gina was very gentle and caring with my pet — you can tell she truly loves what she does.",
+   "owner_reply": null
+  },
+  {
+   "author": "Lukas",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "If you're looking for excellent grooming service for your cats, Petlove is you choice. We've been sending ours for quite some time now and am impressed every time they return.",
+   "owner_reply": null
+  },
+  {
+   "author": "Maryam Colis",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This Facility is highly recommended, the staff is very kind and approachable specially Ghiena, they would assist you and take care your pets. they have many options service that your pets needed, and they will guide you according to your pets need.",
+   "owner_reply": null
+  },
+  {
+   "author": "Maria Ilka Padilla",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Sent my 2 babies for full grooming at PetLove and they did a fantastic job! They were picked up at home, groomed and delivered back with lots of care and love !",
+   "owner_reply": null
+  },
+  {
+   "author": "Adnan Hanjra",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Amazing service! My dog loved it here—friendly staff, clean space and they really care. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Lima Said",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "Disgusting place.\nI have two dogs, and every time I brought them here, they came back dirty, smelling awful, and clearly stressed. The staff don’t clean properly, and the whole facility is filthy.\nThis place has no standards of hygiene or care.\nIt’s honestly shocking they’re still allowed to operate. I would never trust them again with my dogs.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    848,
+    480
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    960,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    848,
+    480
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    960,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    1256
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    267,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    267,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    332,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 61,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/petlove-pet-grooming/",
+ "buy_likelihood": 6,
+ "notes": "Two branches, polished brand photos; may have an agency. Never replies.",
+ "display_name": "Petlove (Dubai Marina)"
+}

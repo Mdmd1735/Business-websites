@@ -1,0 +1,959 @@
+{
+ "slug": "be-fit-gym",
+ "name": "Be Fit Gym",
+ "place_id": "ChIJW0TtFndcXz4RyK3O6e2R_54",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Al Nahda, Sharjah",
+ "address": "Carrefour Express Bldg - opp. NMC Medical Centre and Madina Supermarket - Hay Al Nahda - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3015567,
+  "lng": 55.3714021
+ },
+ "phone": "+971 58 880 1805",
+ "rating": 4.8,
+ "userRatingCount": 157,
+ "rating_distribution": {
+  "oneStar": 5,
+  "twoStar": 0,
+  "threeStar": 4,
+  "fourStar": 4,
+  "fiveStar": 144
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Be%20Fit%20Gym&query_place_id=ChIJW0TtFndcXz4RyK3O6e2R_54",
+ "website": "",
+ "categories": [
+  "Gym",
+  "Fitness center"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "5 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "5 to 9 PM"
+  }
+ ],
+ "owner_description": "FROM FAT TO FIT! The utmost place for all your fitness needs. We are here to support and guide you. We have the simplest solutions for your health concerns even weight loss or weight gain...",
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Shower": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "supportive trainers",
+  "trainer akhil",
+  "motivated trainer",
+  "cardio options",
+  "clean equipment",
+  "affordability",
+  "variety of equipment",
+  "friendly staff",
+  "weight loss",
+  "coaches"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 35
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 24
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 31
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 96
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 26
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 23
+   }
+  ]
+ },
+ "owner_reply_rate": 0.97,
+ "reviews": [
+  {
+   "author": "Shabari Girish",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Be Fit Gym has a great atmosphere with excellent equipment and a very motivating environment.\nTrainer Ashique is highly supportive, knowledgeable, and always pushes you to give your best.\nHis workout guidance and attention to proper form really helped improve my fitness journey.\nThe gym is clean, well-maintained, and perfect for both beginners and experienced members.\nHighly recommended for anyone looking to achieve their fitness goals with the right trainer!",
+   "owner_reply": "Thanks brother"
+  },
+  {
+   "author": "shijin T Netto",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Been training here for a while and really enjoying it .friendly staff. And a great workout atmosphere. Feels like a proper fitness community",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "Arshaque",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Joined this gym 3 months ago, very good experience. Clean equipment, nice environment, and a very supportive coach. Highly recommended for fitness training.",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "Ameer Aiman",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Been training at Be Fit Gym Al Nahda since 2018. Great atmosphere, good equipment, friendly staff, and a motivating environment. Feels like a second home highly recommended.",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "Musli",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Highly recommend this gym! The training sessions under Nikhil and Ashique are truly impressive. Their expertise and guidance have taken my fitness journey to the next level. The gym's atmosphere is motivating, and the trainers are super supportive. Five stars isn't enough – keep up the fantastic work! 💪🏋️‍♂️",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "Shinto Babu",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I highly recommend Be Fit Gym and Mr Ashique as your personal trainer. I reduced 6 kg over a period of 3 months. The level of professionalism, hygiene and availability of equipment are commendable. It is the best affordable Gym in Al Nahda.",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "shyam krishnan",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Befit is giving one of best physical training in Al Nahdah Sharjah … with a group of dedicated trainers….  Make yourself stronger than your excuses With Be fit team …",
+   "owner_reply": "Thank you somuch dear...!"
+  },
+  {
+   "author": "Nizam",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Excellent facility. Very impressed with the cleanliness and the layout of the machines. The team is professional and welcoming from the moment you walk in. Five stars for the service and the overall training environment 🔥🔥",
+   "owner_reply": "Thanks brother 🙏 "
+  },
+  {
+   "author": "thijith devarajan4",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great gym with a friendly atmosphere. Special thanks to trainer Aashiq for his support and guidance",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "JISHNU J",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "One of the best gym in al nahda sharjah\n. Especially the trainers Nikhil and Ashiq..the best trainers i have ever seen",
+   "owner_reply": "Thanks brother 🙏 "
+  },
+  {
+   "author": "Delson Thomas",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I can confidently say that joining Ashique training program has been one of the best decisions of my life. He not only pushes me beyond my limits but also guides me with the right form, diet tips, and motivation every single day. In just a short time, I’ve seen amazing changes in my strength, energy, and overall confidence.\n\nWhat sets him apart is his personal attention — he treats every client’s goal as his own and makes sure we stay consistent. His positive attitude and discipline truly inspire me to keep going, no matter what.\n\nIf you’re serious about fitness and want results that actually last, I 100% recommend training with ASHIQUE The best place",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "Nikhil Abraham",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Be Fit Gym has been one of the best gyms in Al Nahda Sharjah. I've been a member since 4 years now. The trainers are really knowledgable and friendly as well. I would recommend this gym to anyone whose looking to join. Cheers !",
+   "owner_reply": "Thanks brother 🙏 "
+  },
+  {
+   "author": "Abhilash Chandran",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Best fitness gym in al nahda sharjah... Have been in the same gym for at least 2 years now and i have reduced over 18kgs in 4 months. Ask for trainer Ashique... The best you can get",
+   "owner_reply": "Thanks brother 🙏 "
+  },
+  {
+   "author": "Charles Varghese",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "BE FIT  GYM is one of best gym I have visited. One of the best experiences with all the trainer especially with coach Mr.Akhil. Our trainer Akhil is very professional, polite, energetic and helpful. He is well trained coach who is knowledgeable about how to achieve our goal and trained dietitian. The different types of workout that he gives never get bored. Which why I highly recommend people to go this coach. From first day to till now I am getting training with him to achieve the goals.\n\nAbout the gym, it has a lot of positive vibes and environmental friendly which why I recommend all my friends and family member to join this gym",
+   "owner_reply": "Thank you somuch dear...!"
+  },
+  {
+   "author": "Ummer Mukthar",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I recently joined Be Fit Gym and have been extremely pleased with my experience so far. The facility is clean and well-maintained, with a wide variety of equipment and a good mix of cardio and weightlifting options. The staff is friendly and helpful, always willing to offer advice or assist with any questions I have. The atmosphere is positive and encouraging, and I've already made some great connections with other members. Overall, I highly recommend Be fit Gym to anyone looking for a high-quality fitness center.",
+   "owner_reply": "Thank you somuch dear"
+  },
+  {
+   "author": "dani george",
+   "rating": 5,
+   "when": "Edited 3 years ago",
+   "text": "Be Fit Gym is a fantastic fitness facility with top-notch facilities and equipment. The staff is friendly and welcoming, creating a positive and motivating environment. Mr. Akhil, the trainer, is exceptional in his knowledge, expertise, and dedication to helping clients reach their fitness goals. I highly recommend Be Fit Gym for anyone seeking a great workout experience …..",
+   "owner_reply": "Thanks "
+  },
+  {
+   "author": "Rahul K Anand",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "3 weeks ago I started my gym session here. I came to know about the gym from my friend. Trying to focus on my fitness, the training here had made me to the right track. The instructors here are highly motivated. Absolutely amazing place to rise and shine with your health.",
+   "owner_reply": "Thank you somuch dear "
+  },
+  {
+   "author": "Anish Ajay",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "It’s been 2months since I joined the gym, this is one of the best fully equipped & affordable gym in this area,  Mr.Ashique is one of the trainer here, he is very supportive, friendly & motivated. Overall very Nice atmosphere to workout.",
+   "owner_reply": "Thank you somuch dear "
+  },
+  {
+   "author": "xtian c",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Hi, I'd like to inquire how much is the gym membership",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "Natique Ibrar",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "This Gym uplifts your physical and mental conditions to the skies. The atmosphere of the gym is very friendly towards the newcomers. The gym consists of all the modern equipment to empower your workouts and has various options for cardio as well.",
+   "owner_reply": "Thank you somuch dear"
+  },
+  {
+   "author": "Deepak Divakaran",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "I have very high regards as it is very well organized and extremely clean. Above all it has the most modern equipments and is laid out very conveniently. The coaches are very friendly and highly supportive.I recommend the gymn to those who aspire to join..",
+   "owner_reply": null
+  },
+  {
+   "author": "AMEER ABBAS",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Highly recommended. Good trainers and one of the best gym",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "Arun Va",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Friendly trainer\nHelped me to gain muscles in 4 months",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "Nehmia Abraham",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I really enjoyed working out at \"be fit gym\". it really helped me alot the place is very clean and with alot of materials. The trainers are awesome and always pushing  and motivating akhil is one of the best trainers I have had. I would definitely recommend you try it!!!",
+   "owner_reply": "Thank you somuch dear"
+  },
+  {
+   "author": "aslam seyid",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I have joined this gym a couple of months ago, I should say it's highly recommend, thanks to Mr akhil my trainer who have been very helpful and supportive during my transformation.",
+   "owner_reply": "Thank you somuch dear"
+  },
+  {
+   "author": "Zair Wani",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "The trainer Akhil and his personal interest in your training is the best thing about this gym. The equipment covers complete range of exercises. I would suggest this gym for best results.",
+   "owner_reply": "Thanks 😊 "
+  },
+  {
+   "author": "Steven Dsouza",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "This gym is amazing with good facilities equipments and trainer. Akhil is a fantastic trainer very kind and helpful. Always attentive.",
+   "owner_reply": "Thank you somuch dear"
+  },
+  {
+   "author": "Adil Fazal",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Been going to this gym for 3 weeks, all the equipment are of high quality and the trainers here helped me a lot to figure out what I should do to achieve my perfect body.\n\nMy trainers name is Ashique.",
+   "owner_reply": "Thanks you somuch dear...!"
+  },
+  {
+   "author": "Allen",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I have been going to this gym for couple months now. It has pretty much all required machines. The trainers are friendly and always attentive.",
+   "owner_reply": "Thanks brother...!"
+  },
+  {
+   "author": "Abdullah Syed",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "Good for regular workout’s",
+   "owner_reply": "Thanks brother 🙏 "
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    512,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/be-fit-gym/",
+ "buy_likelihood": 8
+}

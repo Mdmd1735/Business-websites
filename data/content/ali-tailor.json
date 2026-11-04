@@ -1,0 +1,27 @@
+{
+ "preset": "bakery-butter",
+ "theme": {"bg": "#FBF8F1", "surface_2": "#EFE7D6", "accent": "#1E3A8A", "accent_text": "#1E3A8A", "duo": "#C9D3EE", "busy": "#3B5BC9", "band_bg": "#101A3A", "band_accent": "#FFD23F", "frame": "square", "hero_ratio": "3/4", "display": "\"DM Serif Display\",Georgia,serif", "google_fonts": "family=DM+Serif+Display:ital@0;1&family=Outfit:wght@400;500;600&family=Cairo:wght@700"},
+ "extra_css": ".hero-split .hero__slab{background:#FFD23F}.ticker{background:#FFD23F;color:#101A3A}",
+ "brand": {"name": "Ali Tailors", "sub": "Alterations · Port Saeed", "mark": "A", "footer_word": "Ali Tailors"},
+ "seo": {"title": "Ali Tailors Port Saeed | Clothing Alterations & Tailoring in Deira · Kandura, Abaya, Suits", "description": "Ali Alterations & Tailoring, Murjanet Al Khaleej building, Port Saeed, Deira: same-day alterations for pants, shirts, suits, dresses, kandura and abaya, plus embroidery. Open daily 11:30 AM to 11:30 PM. Rated 5.0 from 259 reviews."},
+ "hero": {"variant": "split", "ar_name": "علي للخياطة", "kicker": "Murjanet Al Khaleej Building · Port Saeed · Deira", "title_lines": ["Six dresses", "altered", "in one hour."],
+   "lede": "Fast, neat alterations and tailoring for men and women: pants, shirts, suits, kandura, abaya and dresses, plus embroidery. Rated a perfect 5.0 and open until 11:30 PM.",
+   "image": "img/hero.jpg", "image_alt": "Tailor at his sewing machine surrounded by thread spools", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Message Ali on WhatsApp", "cta_text": "Hi Ali Tailors, I have some clothes to alter.",
+ "proof_note": "Perfect 5.0 from 259 reviews",
+ "address_lines": ["Ali Tailors, Murjanet Al Khaleej Building", "Near Al Bassam Centre, Port Saeed, Deira, Dubai"],
+ "ticker": ["Pants hemming", "Shirt fitting", "Suit alterations", "Kandura", "Abaya", "Dress repairs", "Embroidery"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "layout": "list", "eyebrow": "Alterations & tailoring", "title": "Perfect fit,", "title_dim": "neat stitching, fast.",
+   "items": [{"name": "Pants & jeans", "desc": "Hemming, tapering and waist adjustments."}, {"name": "Shirts & suits", "desc": "Taking in, sleeves, jacket repairs."}, {"name": "Kandura & abaya", "desc": "Length, fit and repairs for traditional wear."}, {"name": "Dresses", "desc": "Alterations and repairs, often same day."}, {"name": "New stitching & embroidery", "desc": "Custom tailoring and embroidery service."}],
+   "perks": ["Open daily 11:30 AM – 11:30 PM", "Same-day service", "Men & women"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "No waiting", "title": "Drop in when", "title_dim": "it's quiet."},
+  {"type": "team", "id": "team", "nav": "Ali", "eyebrow": "Your tailor", "title": "Ali bhai.", "title_dim": "Named in 16 of our last 30 reviews.",
+   "items": [{"name": "Ali", "count": 16, "short": "him", "role": "Master tailor", "quote": "They altered 6 dresses in just one hour, with incredible attention to detail and professionalism.", "cite": "Chiara B."}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Ali Tailors shop window"}, {"src": "img/sign.jpg", "alt": "Ali Tailors sign with phone numbers"}, {"src": "img/happy.jpg", "alt": "Happy customer with Ali"}, {"src": "img/machine.jpg", "alt": "Tailor at the machine"}, {"src": "img/measure.jpg", "alt": "Tailor measuring trousers"}, {"src": "img/customers.jpg", "alt": "Customer with Ali"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "ask", "eyebrow": "Ask", "title": "How fast do you need it?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can you hem trousers today?", "How much to take in a suit jacket?", "Do you alter abayas?", "Can you do embroidery on a kandura?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Port Saeed,", "title_dim": "Deira."}
+ ]
+}

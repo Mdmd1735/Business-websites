@@ -1685,7 +1685,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/alhan-cafe/",
- "buy_likelihood": 6
+ "buy_likelihood": 6,
+ "notes": "3,070 reviews, 24/7; alhancafe.com shows 'Coming Soon' (maybe theirs, so they're already thinking about a site).",
+ "display_name": "Alhan Café"
 }

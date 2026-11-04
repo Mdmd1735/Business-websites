@@ -1,0 +1,969 @@
+{
+ "slug": "shatha-ladies-salon",
+ "name": "Shatha Ladies Salon (ഷതാ ലേഡീസ് സലൂൺ)",
+ "place_id": "ChIJs-_OiLBZXz4RX-HvbwLDPcA",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Ajman",
+ "address": "Near Naumiyah Tower, Beside Al Wasl Bakery - Waha street - Al Nuaimia 1 - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3886247,
+  "lng": 55.4588711
+ },
+ "phone": "+971 55 635 3550",
+ "rating": 4.6,
+ "userRatingCount": 690,
+ "rating_distribution": {
+  "oneStar": 41,
+  "twoStar": 3,
+  "threeStar": 13,
+  "fourStar": 64,
+  "fiveStar": 569
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Shatha%20Ladies%20Salon%20(%E0%B4%B7%E0%B4%A4%E0%B4%BE%20%E0%B4%B2%E0%B5%87%E0%B4%A1%E0%B5%80%E0%B4%B8%E0%B5%8D%20%E0%B4%B8%E0%B4%B2%E0%B5%82%E0%B5%BA)&query_place_id=ChIJs-_OiLBZXz4RX-HvbwLDPcA",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "9 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "9 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Shatha Ladies Salon is your go-to destination for beauty and self-care, proudly known as the Best Ladies Salon in Ajman. We offer a wide range of professional services including haircuts, hair styling, coloring, keratin treatments, facials, waxing, threading, manicures, pedicures, and bridal makeovers.\nIf you’re searching for a ladies salon near you, Shatha Ladies Salon provides a relaxing and hygienic environment with experienced staff dedicated to enhancing your natural beauty. We use high-quality products and the latest techniques to ensure every client leaves feeling confident and refreshed.\nVisit us today and experience top-quality beauty services in the heart of Ajman!",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "hair coloring",
+  "threading",
+  "cooperative staff",
+  "dandruff treatment",
+  "protein treatment",
+  "experienced staff",
+  "keratin treatment",
+  "waxing",
+  "hot oil massage",
+  "saree draping"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.13,
+ "reviews": [
+  {
+   "author": "Renuka Nair",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had a wonderful experience at the beauty parlor! A special shoutout to Nishana for the amazing service. She was very patient, professional, and paid great attention to detail. I am completely satisfied with the results and would definitely recommend her to everyone. Thank you, Nishana!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Shirin Ansar",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had a great experience at this salon! The place is clean, the atmosphere is welcoming, and the staff are friendly and professional.\n\nA special thanks to Nishana Mini and reshma for their excellent service. From the hair wash and haircut to the other treatments, they did a wonderful job and made sure I was comfortable throughout. I’m really happy with the results.\n\nHighly recommend this salon. Thank you to the entire team!",
+   "owner_reply": null
+  },
+  {
+   "author": "Shyni Zacariya",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Had the best pedicure with *Nishana* at *Shatha Saloon* today! She was so gentle, detailed, and made sure every step was perfect. My feet feel so light and pampered.\nI also did the facial and other services here — everything was hygienic, professional, and super relaxing. The staff is lovely and the ambience is so calming.\nThank you Nishana and Shatha team! Definitely coming back again. Highly recommend! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Cat Pro",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I don’t usually visit salons in Ajman but since I am living near the area and seeing good reviews, I had to try this salon. The one who cut my hair was really good but didn’t get her name. I think she does most of the haircut. She was thin Malayalee lady.It was not that busy when I visited. Just one feedback though there was one lady who was on the receptionist, she was not like friendly and smiling but still giving an overall good rating since I am satisfied with the haircut.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sumayya Shakeer",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had a wonderful coreafacial experience with Nishana. She was very friendly, professional, and gentle throughout the treatment. She explained everything clearly and made me feel very comfortable. My skin felt so fresh, clean, and glowing after the facial. I’m really happy with the service and would definitely recommend Nishana.,, ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Aysha Yasmin",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Recently visited for facial and I must say the service is really good, especially Nishana who did for me a did a wonderful job. I am really satisfied with the services. Highly recommendable.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jyothis Joy",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Visited Shatha Ladies Saloon thrice now and I am really happy with their service. Got haircuts for my me and my mom and the staff did a good job, they understand your requirements and follow references well.\n\nPlanning to try their other services and packages soon!",
+   "owner_reply": null
+  },
+  {
+   "author": "AMEER",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "My friend's sister got a hair Botox treatment and hair extensions done at this salon last May. We paid a total of AED 1,250, which included the treatment and the shampoo and hair mask that the salon recommended to maintain the results.\n\nUnfortunately, the hair Botox treatment didn't even last two months, despite using the recommended products exactly as advised.\n\nWhen we contacted the salon about the issue, they asked us to come in. Instead of taking responsibility, they said they would need to remove the hair extensions, redo the Botox treatment, and then reattach the extensions—but they wanted to charge an additional AED 125.\n\nThe owner was very rude, and the staff were not helpful. They kept insisting that no one had ever complained about their service. However, after reading the reviews here, I realized that other customers have reported similar experiences. I only wish I had checked the reviews before choosing this salon.\n\nMistakes can happen in any business, but what matters is how they respond. Unfortunately, instead of providing a fair solution after an expensive treatment failed so quickly, they asked us to pay more. Based on this experience, I would not recommend getting a hair Botox treatment here.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rayhana Ebrahim",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Amazing service.. Lovely customer care. The staffs were really nice and sweet. Me and my mom and two of my siblings visited the salon..the hair highlight.. Facial...haircut.. Eyebrow threading.. Everything was done as requested and we're genuinely happy with the way it turned out. Thank you so much.",
+   "owner_reply": null
+  },
+  {
+   "author": "$!LpA N$",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "I recently did my haircut and highlights at Shatha Beauty Salon Ajman and I’m really happy with the result. The service was done by Mini, who was very friendly, professional, and talented. She understood exactly the look I referred to and recreated it beautifully.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sony John Siby",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "My choice to visit the Shatha Salon was the best decision for the Onam fest programme. Each and every person appreciated the way I was styled hence looking forward to be a regular client. It was simple but classy. Thanks so much Sumi and Sindhu chechy for the guidance and understanding exactly my need. You are angels 😇 Best wishes",
+   "owner_reply": null
+  },
+  {
+   "author": "abi kathir",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Did face detan pack, hair spa and hair cut in shatha ajman branch. Resmi was the hair dresser, she did an amazing job with layer cut and eyebrows threatening.  Will definitely recommend them .",
+   "owner_reply": null
+  },
+  {
+   "author": "Nida Asad",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I got a haircut with layers and it was very well done. Resmi was my hairstylist and she did an amazing job! Definitely recommend.",
+   "owner_reply": null
+  },
+  {
+   "author": "RANJU NAJEEB",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Loved the service.. huge shoutout to nishana reshmi and mini. very friendly and they do their jobs really nicely. I had a wonderful experience and will definitely come back later. Thank u",
+   "owner_reply": null
+  },
+  {
+   "author": "harsha Shajan",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Loved my experience at Shatha Salon! My hair color turned out absolutely perfect, and I’m so happy with it. A special mention to the owner sindu aunty who was incredibly kind and professional, making the whole experience even better. Highly recommend!",
+   "owner_reply": "Thank you for your review! We truly appreciate your support and look forward to serving you again at Shatha Ladies Salon."
+  },
+  {
+   "author": "sreeja madhu",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "“I had a very bad experience with hair botox treatment. It damaged my hair and made it worse. I don’t recommend this treatment to anyone—please be careful before trying it.”",
+   "owner_reply": "We’re sorry to hear about your feedback. However, we are unable to find any record matching your review. Could you please let us know when you visited our salon and whether it was our Sharjah or Ajman branch? <br><br>If you had any concerns, we would have truly appreciated the opportunity to address them directly. We always encourage our customers to contact us so we can resolve issues promptly.<br><br>At this point, the review does not appear to reflect a genuine customer experience, and we kindly request that all feedback be shared honestly and responsibly."
+  },
+  {
+   "author": "Kiran Mary Johns",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I had a great experience at Shatha ladies saloon. Me and my mom went there for hairdo, saree draping and make up for my brother's engagement. We wanted simple but elegant style and they have done amazingly well than what we expected. Very happy with the service, staff and their  quality of service provided. Everyone loved our look. Thanks to Sindu and team for their support. Highly recommend their service and would love to visit there again.",
+   "owner_reply": null
+  },
+  {
+   "author": "sofiya sharaf",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I did my haircut and package I am so happy to see the result.\nthe service and attention to detail. The staff is warm, professional",
+   "owner_reply": null
+  },
+  {
+   "author": "Sarfraj Bhai",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very professional service and excellent results. I loved my haircut and facial. The staff listens carefully and gives exactly what you want. Definitely one of the best ladies salons in Ajman",
+   "owner_reply": null
+  },
+  {
+   "author": "Kaushi Wijesooriya",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I visited the salon today for the first time, and I had a really great experience. Sandeep did my cleanup and Sujath handled my pedicure, and both of them provided excellent service. They were professional, friendly, and made sure I was comfortable throughout. Truly appreciate their effort. Highly recommended!",
+   "owner_reply": "Thank You So Much 🙏"
+  },
+  {
+   "author": "Arathi Santhosh",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "Very good and supportive staff and management.  I'm using their services for more than 1 year and it's very promising and benefits compared to price what you pay for is worth. They are explained everything about the service taken and prost service care. Based on my experience, it's highly recommended. Their post service is also very good",
+   "owner_reply": null
+  },
+  {
+   "author": "Deepthi Muralidharan",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "It was really a great experience for me. Sindhu chechi and team you are awesome. They were so friendly & helpful. I went for hair cut and just told her what I want and she did better than what I wanted. I'm really happy with the outcome. Thank you team.😊",
+   "owner_reply": null
+  },
+  {
+   "author": "Susmita Susmita",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I find botox shatha ladies salon.super service,staff also is good & owner sindhu cut my hair amazing service.if you want good service pls visit shatha salon.thanks shatha& team.",
+   "owner_reply": null
+  },
+  {
+   "author": "Binumon Arolickal Thankappan",
+   "rating": 3,
+   "when": "4 months ago",
+   "text": "I had facial with abhita and threading shanti I am extremely happy with their service and highly recommended. Manicure and Pedicure service is not great.",
+   "owner_reply": null
+  },
+  {
+   "author": "Renu Vinit",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Reshmi provided exceptional saree draping services, and the staff demonstrated remarkable professionalism and amiability.",
+   "owner_reply": null
+  },
+  {
+   "author": "mohammad shameer",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Salon provides a very good service for their customers and Nishana was very good at facial and gave me very relaxing facial massage.",
+   "owner_reply": null
+  },
+  {
+   "author": "Perla Sosa",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "The ladies were so sweet , I was a little nervous because I have never been to a salon in ajman but they truly are the best my henna and nails came out so beautifully 🥰🥰🥰and they didn’t try raise up the prices or cheat me out even though they can clearly hear my American accent I 💯 recommend them",
+   "owner_reply": null
+  },
+  {
+   "author": "Nihsha Showkath",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "They fixed a terrible haircut I got from another place and made it look great again. I will definitely be back! Thankyou shatha chechi✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Vidya Nair",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "100% Recommended!\n\nI had a wonderful experience at Shatha Salon and would absolutely recommend it. I went in for a hair spa, which was done by Ms.Sushmita — she was excellent! The treatment started with a relaxing head massage that was the perfect way to kick off my Monday. My hair felt amazing afterward.\n\nMy sister had a botox hair treatment done by Ms. Sumi, who was incredibly sweet and professional. She made sure everything was done with care, and my sister was really happy with the results.\n\nThe staff at Shatha Salon are lovely, welcoming, and skilled. We had a great time and felt well taken care of.\nThank you so much for the amazing service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Yerleane Verona",
+   "rating": 4,
+   "when": "3 years ago",
+   "text": "Came here to try the promo 10 or 8 services for 100 dhs plus 5% Vat. The 3 staf are friendly they did all the services for me in maybe 1.5 hours. However, the person who did my pedicure i didnt like it, i think she doesnt know how to do it.",
+   "owner_reply": "It’s lovely to hear your kind words of appreciation and choosing our salon. Also, thank you for bringing this matter to our attention. I'm very sorry that we failed to meet your expectations. We take all feedback seriously and would like to address your concerns. Could you please reach out to us at +971556353550 so that we can discuss this further? We value your business and would like to make things right."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1102,
+    1559
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    640
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1156,
+    867
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/shatha-ladies-salon/",
+ "buy_likelihood": 7
+}

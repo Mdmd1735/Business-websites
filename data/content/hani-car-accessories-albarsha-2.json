@@ -1,0 +1,33 @@
+{
+ "preset": "garage-amber",
+ "theme": {"accent": "#FFE11A", "accent_text": "#FFE11A", "on_accent": "#111214", "duo": "#5A4F05", "busy": "#B8A110", "glow": "rgba(255,225,26,.14)", "band_accent": "#A8890A", "frame": "slant", "hero_ratio": "3/4"},
+ "extra_css": ".hero-split .hero__slab{background:#16A34A}",
+ "brand": {"name": "Hani", "sub": "Car Accessories · Al Barsha 2", "mark": "H", "footer_word": "HANI"},
+ "seo": {"title": "Hani Car Accessories Al Barsha | Upholstery, Tinting, Audio, Lights & Batteries", "description": "Hani Car Accessories, Umm Suqeim Street near FF3 Café, Al Barsha 2: car upholstery from dashboard to doors, window tinting, audio and screens, LED lights, carbon interior and mobile battery replacement (AED 350 with 1-year warranty). Open 8 AM to 11:45 PM."},
+ "hero": {"variant": "split", "ar_name": "هاني لإكسسوارات السيارات", "kicker": "Umm Suqeim Street · Near FF3 Café · Al Barsha 2", "title_lines": ["Your car's interior,", "rebuilt by Hani."],
+   "lede": "Full upholstery from dashboard to door cards, tint, Android screens and audio, LED lights and carbon trim, plus mobile battery replacement in 15 minutes. Open until 11:45 PM.",
+   "image": "img/hero.jpg", "image_alt": "Hani Car Accessories shop with shelves of audio and lights", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Get a price on WhatsApp", "cta_text": "Hi Hani, I'd like a price for my car.",
+ "proof_note": "Replies to 87% of reviews",
+ "address_lines": ["Hani Car Accessories, Umm Suqeim Street", "Near FF3 Café, Al Barsha 2, Dubai"],
+ "ticker": ["Upholstery", "Seat covers", "Window tint", "Android screens", "Audio", "LED lights", "Battery AED 350"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Inside out,", "title_dim": "done properly.",
+   "items": [
+    {"name": "Upholstery & leather", "feature": true, "img": "img/red-door.jpg", "alt": "Door card re-trimmed in red leather", "desc": "Dashboard, doors, seats, steering and headliners in any colour.", "quote": "I got the upholstery for the sunroof replaced on my Audi A7. What I liked is that they were honest with the work.", "cite": "Mohammed M."},
+    {"name": "Battery replacement", "price": "From AED 350 · 1-year warranty", "desc": "We come to your location and swap it in 10 to 15 minutes."},
+    {"name": "Screens & audio", "img": "img/screen.jpg", "alt": "Android screen fitted in a dashboard", "desc": "Android screens, speakers and amps."},
+    {"name": "Lights", "img": "img/headlights.jpg", "alt": "Mercedes with new headlights", "desc": "LED, headlight polishing and upgrades."},
+    {"name": "Tinting", "img": "img/tint.jpg", "alt": "Technician fitting tint film", "desc": "Heat-rejection window film."}
+   ],
+   "perks": ["Open daily 8 AM – 11:45 PM", "Mobile battery service", "Warranty on parts"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Drop in", "title": "Busiest after work.", "title_dim": "Mornings are fast."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Hani, Mehdi", "title_dim": "and Usman.",
+   "items": [{"name": "Hani", "count": 9, "role": "Owner", "quote": "Fast, effective, and affordable. They changed my battery at my location within 10 to 15 minutes.", "cite": "AbduRrhman S."}, {"name": "Mehdi", "role": "Installer"}, {"name": "Usman", "role": "Upholstery"}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Hani storefront on Umm Suqeim Street"}, {"src": "img/jeep.jpg", "alt": "Red Jeep Wrangler"}, {"src": "img/wheel.jpg", "alt": "Steering wheel re-wrap"}, {"src": "img/green-door.jpg", "alt": "Green leather door card", "wide": true}, {"src": "img/night.jpg", "alt": "Blue car at night", "wide": true}, {"src": "img/shop.jpg", "alt": "Shop interior"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "quote", "eyebrow": "Prices", "title": "Send your car model.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much to re-upholster my seats?", "Can you change my battery at my location?", "Price for an Android screen?", "How much is tint all round?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Umm Suqeim Street,", "title_dim": "Al Barsha 2."}
+ ]
+}

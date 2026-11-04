@@ -1,0 +1,723 @@
+{
+ "slug": "beautiful-hands-ladies-salon",
+ "name": "Beautiful Hands Ladies Salon",
+ "place_id": "ChIJ7RXPmtJeLYQRmizt9cos7O8",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Nahda, Sharjah",
+ "address": "Shop No.3 - Al Nahda St - Hay Al Nahda - Al Qusais Industrial Area - Sharjah - United Arab Emirates",
+ "building": "Al Yarmook C",
+ "location": {
+  "lat": 25.3025949,
+  "lng": 55.3842755
+ },
+ "phone": "+971 6 882 6265",
+ "rating": 4.5,
+ "userRatingCount": 584,
+ "rating_distribution": {
+  "oneStar": 55,
+  "twoStar": 2,
+  "threeStar": 4,
+  "fourStar": 50,
+  "fiveStar": 473
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Beautiful%20Hands%20Ladies%20Salon&query_place_id=ChIJ7RXPmtJeLYQRmizt9cos7O8",
+ "website": "",
+ "categories": [
+  "Beauty salon",
+  "Nail salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "hair botox",
+  "manicure",
+  "keratin treatment",
+  "head massage",
+  "welcoming staff",
+  "hair color",
+  "waxing",
+  "protein treatment",
+  "dandruff treatment",
+  "eyebrow threading"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Reshma Rajan",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I’ve been a regular customer of Beauty Hand Ladies Salon for over 3 years, and they never fail to make me feel special and valued! ❤️\n\nA special mention to Baljith Kaur for the back massage today. She was very professional and never rushed the process. It was so relaxing, refreshing, and satisfying that I couldn’t believe the session was over! The experience was so good that I ended up taking another package. 😊\n\nThank you, Beauty Hand Ladies Salon, for always treating me with such care and making every visit worthwhile. Keep up the great work!",
+   "owner_reply": null
+  },
+  {
+   "author": "Liji Mariya Babu",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "I had a very disappointing experience at this salon. Although the place looks nice, the hygiene standards are very poor. There was no proper cleanliness observed, and the staff were not using gloves or any basic protective equipment during the service.\n\nI also had to wait for a long time before being attended to, which was very inconvenient. The service quality was below expectations, and I felt that cheap or low-quality products were being used during the treatment.\n\nOverall, it does not meet basic professional salon standards. I hope the management seriously improves hygiene, customer service, and product quality in the future.",
+   "owner_reply": null
+  },
+  {
+   "author": "tanu uae",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "Dont ever get your bikni waxed from here, I feel she doesn’t know anything. Very aggressive and unethical. So much of burnt marks. Been in pain for 2 days…. Not a professional just some kid doing ur bikni… Beware!!!!!!!  Worst of the Worst experience in between receptionist comes and asks if she can borrow her for 15 mins like the customer who already came should wait🧐 Ridiculous experience. Please do not leave that kid do the Bikni for anyone else even though i mentioned its hot she said it will be hot only and continued not so friendly also as though I asked her to do it for free she behaved.\n\nI had got my haircut she was really good and also the girl who did my waxing for hands and legs were good like neatly done. But Bikni some other kid came!!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "rakhi raj",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "Absolutely the worst salon experience of my life.\nI trusted them with my hair and they completely ruined it. I walked in with healthy hair and walked out with damage that is beyond shocking. No professionalism, no knowledge, no care. They don’t listen, they don’t explain anything, and they clearly have no idea what they’re doing.\n\nMy hair is now totally messed up and looks nothing like what I asked for.\n\nIf you care even slightly about your hair, PLEASE avoid this place. I am now spending more time, money, and stress just to fix what they destroyed in a single appointment.\nWorst management ,Zero accountability. Terrible service.\n\nI regret going here and I don’t want anyone else to suffer the same.",
+   "owner_reply": null
+  },
+  {
+   "author": "SRUTHI SURESH KUMAR",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I recently visited this parlor after watching an Instagram reel and was thoroughly satisfied. The staff were warm, kind, and welcoming, and one of the staff Anu who attended to me was exceptionally skilled and professional. The services were of great quality, and I left very happy with the results. I'll definitely be visiting again! All the best team.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shilpa Singh",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Had a great experience at the salon. Special thanks to Queen—she did an amazing job with my nail extensions. She’s very kind and her work is excellent. all staff are very nice Really happy with the results",
+   "owner_reply": null
+  },
+  {
+   "author": "Celestina Antoniette Rebello (Tina)",
+   "rating": 5,
+   "when": "Edited 6 months ago",
+   "text": "I had a wonderful experience at this beauty parlour. The service was absolutely excellent and very professional. A special thanks to Athira and Hannah for their amazing work. Athira, she paid full attention to my every minute things and did a wonderful service, especially her pedicure and manicure. They were friendly, patient, and really made me feel comfortable throughout the service.\nThe manager was extremely friendly and supportive. She explained every detail clearly, answered all my questions patiently, and made sure I was fully satisfied before and after the service. That personal care really made a big difference.\nThe overall atmosphere was clean, relaxing, and welcoming. I’m very happy with the results and truly satisfied with the service.\nHighly recommended, and I will definitely visit again 😊✨",
+   "owner_reply": null
+  },
+  {
+   "author": "eranda millavitiya",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "My first experience in this Salon was magnificent. The receptionist was very warm and cooperative. I did Protein Keratin and Gel Nail Extensions. They did a great job it was super cool. I got a fantastic look at what I asked from them. I don't remember all of their names, but I can tell you that they are so good, kind, and very talented staff. Highly recommend it to beautiful ladies who want to become more attractive. Can't wait to see them after my vacation.. 🥰🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "Sruthy Ullas",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had a wonderful experience at the salon! Special thanks to Asmita for doing my hair so beautifully. She is very professional, patient, and friendly. The service was excellent, and I’m really happy with the result. Highly recommended! 💖✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Sabrina Mohammed",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "What an amazing atmosphere. Very professional and I was lucky to have found this place. I highly recommend. All of the ladies are so lovely. The receptionist so sweet today Freda made the booking so easy. The packages are a super Value. The services my mother and I had by Simran were exceptional. WE will return. Thank you ladies for making our visit so memorable. 💕 if anyone wants a bespoke service please visit this place. It’s a ladies heaven. mani pedi with massage. Hair wash and dry with massage. 💕💗",
+   "owner_reply": null
+  },
+  {
+   "author": "Saifu Noon",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Param and Simran, two talented sisters, provide the best nail services with care and expertise. Their warm personalities make every visit a delight. For perfect eyebrows and relaxing hair spa treatments, Anitha is your go-to expert. Madhu is the specialist for all your hair needs, ensuring exceptional results. When it comes to waxing, Kiran is simply the best. And don’t forget receptionists , who welcomes you with a warm smile and ensures everything runs smoothly",
+   "owner_reply": null
+  },
+  {
+   "author": "Ravali Bairi",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I always come here for my nails, the staff is extremely friendly and professional, they all deliver great service for an affordable price. I’m very pleased and would recommend the salon for nail extensions, facials and hair services.",
+   "owner_reply": null
+  },
+  {
+   "author": "Anisha Sundas",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I did my hair color and the color from there and it turned out amazing much more than expected, staff is also very humble would definitely recommend 💯",
+   "owner_reply": null
+  },
+  {
+   "author": "sana -",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I have done hair coloring, a facial, and many other services at this salon, and I am very satisfied with the results. Rehana was amazing very friendly and entertaining. The other staff members were great too. Excellent job, guys!",
+   "owner_reply": null
+  },
+  {
+   "author": "Utheesha Dinendri",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "I have done my nails here a countless number of times and I must say the rates are very reasonable and Sharmila is amazing! The quality of nails, the hospitable nature and her skill is amazing tbh!\n\nI’ve tried out their waxing services, massages and haircuts.\nWaxing was done by a nepali lady who was patient and very good at her job\n\nHaircut was alright, not much attention was paid to my hair… they just did it for the sake of it as they were quite busy and focused on everyone at once which i believe is the only con of the salon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ivy Lorina",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "🌟🌟🌟🌟🌟\nI had a wonderful experience here! Rehana and Param were both warm, professional, and made me feel completely comfortable throughout. The head spa and facial by Rehana were so relaxing and done with great care.\nThe waxing and eyebrow threading were also perfect — quick, clean, and just the way I wanted.\nI got my gel nails done my Ashmitha, donw neatly and beautifully with great suggestions for the colour .... I left feeling refreshed and pampered. Highly recommend their services 👌",
+   "owner_reply": null
+  },
+  {
+   "author": "Zahra alwanaljawda",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "OMGGGG I NEVER BELIEVED facials to be this magical. Truly Ms. REHANA did a wonderful facial to me, she was friendly through the whole session, i didn't feel all lonely❤️😍...My face is more brightened and smoother. Thank you alot...even the staffs were friendly too. Param also did my eyebrows and the shape was my favourite...Im so happy with your services 😊😊😊😊😊❤️‍🔥",
+   "owner_reply": null
+  },
+  {
+   "author": "Kaskam",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "A hidden gem in the heart of Sharjah.We wanted extra special heena for eid which is obvious in the pictures.Faryal is a all rounder with fantastic abilities from hair styling,to make up,heena you name it.If this salon was in dubai then people would be paying triple the amount.The owner Neha is such a sweet heart and ready to accommodate her clients in the best way possible. Beautiful interior of the salon.Definitely coming back for all my treatments from now onwards.",
+   "owner_reply": null
+  },
+  {
+   "author": "Catherine Catty",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "This salon's services never disappoints me. I did waxing and gel polish application. Waxing for legs,hands and underarms done by Kiran. She did it patiently and it wasn't painful at all. And gel polish application was done by Monisha. She was very friendly and handled my nails patiently because my cuticles are very sensitive. I usually do my nails and waxing here because of their package which is budget friendly. Can't wait to visit again. Thank you so much Ladies❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "suni rachel",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Beautiful Hands provided excellent service and it was totally worth the money. The hospitality was great and the staff were very polite and welcoming.\nSpecial thanks to Ms. Asmita, Ms. Rehana, and Ms. Hana — they were amazing.\n, and Ms. Rehana’s hot oil massage and facial were incredibly relaxing.\nI would definitely recommend their packages and highly recommend Beautiful Hands Salon to others. Thank you for the wonderful service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Cherry Lyn Solinap",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "5 stars and will come back soon. But i suggest they should use a cuticle remover to get the dry skin faster. All in all, service is good. Recommendable",
+   "owner_reply": null
+  },
+  {
+   "author": "Ayesha Raini",
+   "rating": 1,
+   "when": "4 months ago",
+   "text": "I would not recommend this salon. It was very dirty, and the hygiene standards were poor. I am not sure what products they use, but they seemed to be low quality. The service was disappointing, and I felt it was a waste of money and time. I would not recommend this salon to anyone.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sunita Mehra",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "The management is very very poor, when we arrived they took our number saying they will call as there is waiting of 1 hour , we waited but they took other customer haircut and eyebrow who came right after us and they took more than an hour to complete their service and made us wait. From 7 to 8.20pm. When I questioned them, all the lady says is our mistake we are sorry.\nThis is not the first time we faced issue.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ylevol Saticer",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I love their service they are so attentive and special thanks to parm for doing my nails always beautiful and shumaila for my hair ❤️Thank you Hannah for the body massage ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "anjaly prakash",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "I had my first nail extension done by Simran, and it was good. For painless threading, I highly recommend Anitha. She also provides a wonderfully relaxing hair spa massage. Hiran did a great job with my hair setting, facial, and massage.",
+   "owner_reply": null
+  },
+  {
+   "author": "AHS DUBAI",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I have done my manicure and pedicure with Ms Aadira.......she has done amazing service.....staff also so nice....recommended",
+   "owner_reply": null
+  },
+  {
+   "author": "Ansu John",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "I had a wonderful experience today at this salon .All the staffs did a very good pampering for me today .Special thanks to Sudha,Animol,Priscily for their incredible work.Will be visiting every month .Thank you.",
+   "owner_reply": null
+  },
+  {
+   "author": "Udara Gunasinghe",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I have personally been to many salons in Dubai but Beautiful Hands Ladies Salon is by far my favorite and go to salon for all my grooming requirements. The owner and lovely ladies working there always make sure that you get the best experience for an affordable price, they are very flexible towards our requirements and even stay back until they give their 100%. Last time I wanted hand painted extensions and I cannot go without mentioning Yolanda’s and Baby’s( I guess its her nick name) dedication and patience and the attention they gave to tiniest detail of the reference picture I gave them. I highly recommend this Salon as this lovely owner is very reasonable lady and specially this is only ladies salon we always have our privacy. Lastly I can promise you they ll make you feel as you met with some friends who you knew long from the minute you stepped in until you are done with your services. You never notice who much time you spent at the salon with their endless coffee tea and friendly gestures.",
+   "owner_reply": null
+  },
+  {
+   "author": "hina khalid",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I recently visited Beautiful Hands Salon and absolutely loved my experience! I took their manicure, pedicure, and hair spa services and everything was amazing. The staff was super gentle, the ambiance was relaxing, and the results were beyond my expectations. My nails look perfect and my hair feels so soft and refreshed. Highly recommended for anyone looking to pamper themselves! 💖✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Vidya RAJESH",
+   "rating": 1,
+   "when": "7 months ago",
+   "text": "I had a very disappointing experience at this salon. What should have been a simple haircut and hair color appointment turned into an exhausting wait of over 3.5 hours.\nWhile the staff may be skilled, the time management is extremely poor. Customers are left waiting for long periods without proper updates or consideration for their time. It felt quite unprofessional and frustrating.\nI would strongly suggest the management improve their scheduling and customer handling, as such delays are simply unacceptable. Unfortunately, based on this experience, I would think twice before visiting again.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1290,
+    726
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1080,
+    1080
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    878,
+    898
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    794,
+    1059
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    374,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    421,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    433,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/beautiful-hands-ladies-salon/",
+ "buy_likelihood": 6
+}

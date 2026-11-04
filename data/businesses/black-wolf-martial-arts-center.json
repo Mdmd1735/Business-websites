@@ -817,7 +817,8 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "backup",
  "site_url": "https://mdmd1735.github.io/Business-websites/black-wolf-martial-arts-center/",
- "buy_likelihood": 8
+ "buy_likelihood": 8,
+ "notes": "Scouted in batch 4, not built (fewer than 7 photos)."
 }

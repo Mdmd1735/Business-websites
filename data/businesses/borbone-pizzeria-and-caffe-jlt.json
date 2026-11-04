@@ -1,0 +1,1995 @@
+{
+ "slug": "borbone-pizzeria-and-caffe-jlt",
+ "name": "Borbone Pizzeria & Caffe JLT",
+ "place_id": "ChIJq77WfgBtXz4R8WLpeNSJ1HA",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "JLT, Dubai",
+ "address": "Lake Level, Platinum Tower - Cluster I First Al Khail St - Al Thanyah Fifth - Jumeirah Lakes Towers - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.0695198,
+  "lng": 55.1423707
+ },
+ "phone": "+971 50 259 6764",
+ "rating": 4.9,
+ "userRatingCount": 543,
+ "rating_distribution": {
+  "oneStar": 12,
+  "twoStar": 0,
+  "threeStar": 3,
+  "fourStar": 10,
+  "fiveStar": 518
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Borbone%20Pizzeria%20%26%20Caffe%20JLT&query_place_id=ChIJq77WfgBtXz4R8WLpeNSJ1HA",
+ "website": "",
+ "categories": [
+  "Italian restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "7 AM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "7 AM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "7 AM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "7 AM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "7 AM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "7 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "7 AM to 12 AM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Service options": [
+   {
+    "Outdoor seating": true
+   },
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   },
+   {
+    "Great dessert": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Cozy": true
+   },
+   {
+    "Quiet": true
+   },
+   {
+    "Trendy": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Groups": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "lake view",
+  "authentic italian pizza",
+  "spaghetti nerano",
+  "waterfront view",
+  "fresh juices",
+  "croissant",
+  "outdoor seating",
+  "tricolor sandwich",
+  "parmigiana",
+  "matcha"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 40
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 20
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 35
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 10
+   }
+  ]
+ },
+ "owner_reply_rate": 0.23,
+ "reviews": [
+  {
+   "author": "Shaimaa Shafi",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Today I enjoyed an early morning visit to this wonderful restaurant, and it was the perfect way to start the day. The outdoor seating area offers a beautiful, peaceful lake view, which paired wonderfully with the refreshing morning weather.\nThe highlight of the meal was the delicious tuna focaccia sandwich—flavorful, fresh, and expertly prepared. Paired with a high-quality, excellent cup of coffee, it made for a truly delightful breakfast.\nI also highly appreciate that the establishment is pet-friendly and warmly welcomes \"fur babies.\" While it is fantastic that pets are allowed to join their owners outdoors, it would elevate the experience even further if they introduced a dedicated pet menu. Having safe, curated options to share a meal alongside our pets would make this great spot absolute perfection.\nHighly recommended for a scenic, delicious, and pet-welcoming dining experience!",
+   "owner_reply": "Thank you for your lovely review! ❤️ We’re happy you enjoyed our food and service. We truly appreciate your support and look forward to seeing you again at Borbone Pizzeria! 🍕"
+  },
+  {
+   "author": "Viktoria Wehbe",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Late-night pizza cravings brought us to Borbone Pizzeria at JLT — and I’m so glad we went. Everything was fresh, flavorful, and truly delicious.\n\nBig thanks to our waitress Nira — she was super friendly and positive, helped us choose the right items, and made the whole experience even better.\n\nOne more thing: I’m usually not even a pepperoni pizza person, but their Pepperoni was insanely good — honestly, one of the best I’ve tried.\n\nI also loved the concept: you can choose pizza sizes S / M / L. We went with S (4 slices) and ordered three different pizzas, so we got to try a few flavors in one sitting — and all three were amazing.\n\nHighly recommend! We’ll definitely be back again.",
+   "owner_reply": "Thank you so much for your kind words and support! We're thrilled to hear you had a great experience with us. Your feedback means a lot to our team and keeps us motivated to keep doing our best. We look forward to welcoming you again soon!<br><br>Warm regards,<br>Borbone Management"
+  },
+  {
+   "author": "Andres Felipe Alzate Lopez",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "If you’re visiting Dubai, make sure this spot is on your list. The service is flawless, the atmosphere refined, and the food… simply unforgettable.\nThey have two prime locations — one in JBR and another in JLT — both offering the same elevated experience.\nMy personal recommendations: the Caesar salad and the lasagna, perfectly balanced and full of flavor.\nFor drinks, I went with a caramel frappuccino — smooth, sweet, and refreshing.\nIf you appreciate exceptional service and gourmet quality, this place is a must. Visit, indulge, and choose the dish that turns your moment into a memory.",
+   "owner_reply": "Thank you so much for your kind words and support! We're thrilled to hear you had a great experience with us. Your feedback means a lot to our team and keeps us motivated to keep doing our best. We look forward to welcoming you again soon!<br><br>Warm regards,<br>Borbone Management<br>"
+  },
+  {
+   "author": "Anna Korchagina",
+   "rating": 5,
+   "when": "Edited 7 months ago",
+   "text": "Bourbone JLT is charming and stylish spot in the heart of Jumeirah Lake Towers.\nThe menu offers a great selection of well-prepared dishes, all made with fresh ingredients and rich flavors. Portions are generous, and everything feels thoughtfully put together. Bresaola salad was amazing 👌🏽 And coffee is also very good.\n\nThe staff is attentive, welcoming, and genuinely cares about creating a good experience for guests, especially thanks to my waiter Nira🙏🏼",
+   "owner_reply": null
+  },
+  {
+   "author": "Regina Tomskih",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I absolutely loved this Italian restaurant 💚🤍❤️\nEverything was genuinely delicious, starting with salads — fresh, perfectly balanced, and full of flavor. Focaccia was incredible: warm, soft, aromatic, and impossible to stop eating 🤤 And pasta… simply outstanding. Creamy, beautifully stretchy sauce wrapped around every bite — true Italian 👌🏻\n\nAtmosphere was incredibly pleasant and cozy. You feel relaxed moment you walk in. Waiters are exceptionally friendly and attentive — you can really feel that they are constantly working, not just with orders, but with your mood. They create an experience, not just service 💛\n\nI left restaurant feeling truly happy, in wonderful, uplifted mood, with sense of lightness and joy that stayed with me long after.\nSpecial thanks to our waiter, Nira ✨, for making evening even more memorable.\n\nHighly recommended — place I will definitely return to ❤️❤️❤️❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Parastoo Ramezani",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "We ordered a mix of dishes and everything was really good. The lasagna was rich, cheesy, and comforting, served with fresh warm bread. The pizza was thin and crispy with generous toppings, very flavorful. The salad was fresh and well balanced, and the juices were refreshing. We finished with pistachio gelato which was creamy and delicious. Overall, great quality food and a lovely spot by the lake. Definitely coming back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ksundel __",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "It’s not my first time here\nand I truly love this place. The prices are reasonable, but the quality is always very high. The coffee is amazing, the fresh juices are delicious, and the ice cream is fantastic, I’ve tried several flavors and loved them all. The croissants, especially the Nutella one for breakfast, are absolutely incredible mmm 😋\nToday I had the tuna salad and a mushroom pizza with truffle sauce.. both were excellent. There’s in jlt also a beautiful view of the lake and the tennis courts.",
+   "owner_reply": null
+  },
+  {
+   "author": "Joey Luiz",
+   "rating": 5,
+   "when": "Edited 9 months ago",
+   "text": "Barbone JLT  Italian place with winter seating outside. Perfect ambiance for casual authentic Italian cuisine.\nLunch outside is good.\nFood is great and so tasty.\n\nThanks to Oshini. Absolutely doing her job well done.\n\nDefinitely recommending this place",
+   "owner_reply": null
+  },
+  {
+   "author": "Jona Jaira Padilla",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Had a wonderful experience at Borbone in JLT Cluster I. The food was absolutely amazing. Everything was fresh, flavorful, and beautifully prepared. A special thank you to Mara for being so accommodating and attentive throughout the visit. Her warm service really made the experience even better. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Denis Lauri",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Since I’m Italian and I like to cook pasta in a certain way, I don’t usually order pasta in Dubai’s restaurants since it usually not made in the way that would “make you feel home”, but I had to reconsider that after trying Nerano spaghetti and Tagliatelle Bolognese in Borbone and they were surprisingly delicious! I already had focaccia, pizza and many other things in Borbone and they were good, but I was scared to try pasta. It turned out they’re one of the few Italian restaurants where you can taste the proper Italian pasta flavours! I really suggest to try it, and also the staff is very king and professional! ⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": "Thank you so much for your kind words and support! We're thrilled to hear you had a great experience with us. Your feedback means a lot to our team and keeps us motivated to keep doing our best. We look forward to welcoming you again soon!<br><br>Warm regards,<br>Borbone Management<br><br>"
+  },
+  {
+   "author": "Sonya Navruzova",
+   "rating": 5,
+   "when": "Edited 8 months ago",
+   "text": "Great Italian restaurant in JLT! Cozy ambiance, tasty food, and very good coffee. Everything we tried was well prepared and the staff were polite and welcoming. A nice place to enjoy Italian cuisine without feeling rushed. ⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": null
+  },
+  {
+   "author": "HIUS J",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I love Borbone Café in JLT! The outdoor seating by the water, surrounded by the JLT skyline, is a real pleasure and very relaxing.\n\nSpecial thanks to Nira for her excellent service friendly, attentive, and professional. The food is delicious, and the coffee is rich and aromatic.\n\nI’ll definitely be coming back often.",
+   "owner_reply": null
+  },
+  {
+   "author": "Маргарита Тимощенко",
+   "rating": 5,
+   "when": "Edited 7 months ago",
+   "text": "We really loved Borbone Napoli café. My husband and I ordered tuna salads and they were very fresh and delicious. The chicken pasta was amazing and honestly one of the best we’ve had. Everything tasted high quality and well prepared.\n\nThe café is very comfortable and it was really nice to sit in the cozy armchairs and just enjoy the atmosphere.\n\nI would also like to mention the waiter Chamare who served us. He was very attentive and caring, which made our visit even more enjoyable. Thank you for such a lovely experience.",
+   "owner_reply": "Thank you so much for your kind words! We truly appreciate your support and hope to see you again soon!"
+  },
+  {
+   "author": "Farrah D",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Had a really nice experience here. The restaurant has a great atmosphere, especially the outdoor seating with a lovely night view that makes the whole dining experience feel very relaxing.\n\nThe food was delicious overall. Fresh, flavorful, and nicely presented. We tried a few different dishes and everything tasted well balanced and satisfying. The pasta was creamy and comforting, the flatbread was crispy with rich toppings, and the salad was fresh and refreshing.\n\nThe drinks were also very good and paired nicely with the meal. Overall, it’s a great spot to enjoy good Italian food with a beautiful view. Definitely worth a visit!",
+   "owner_reply": null
+  },
+  {
+   "author": "anastasiia k_k",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "We came here for breakfast and really enjoyed it. The croissant was fresh and buttery, and the cannoli was absolutely delicious. We also tried the tuna sandwich and the avocado burrata sandwich - both were very tasty and made with fresh ingredients.",
+   "owner_reply": null
+  },
+  {
+   "author": "Petar Stojanov",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Borbone in JLT is a great spot for relaxed Italian dining. Fresh, simple flavours done well — the prosciutto salad was light and balanced, and the pizza had a crisp base with generous toppings. The baked dishes are rich and comforting, perfect to share. Service was friendly and efficient, and the outdoor seating adds to the experience. A reliable go-to for casual meals with consistently good quality.",
+   "owner_reply": null
+  },
+  {
+   "author": "Yara Gouhary",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "I recently visited Bourbon Pizzeria Café at JLT and had such a lovely experience! They have both indoor and outdoor seating, and I chose to sit outdoors by the lake — absolutely beautiful and relaxing, especially with the nice weather now.\n\nThe food was delicious and full of authentic Italian flavor. My favorite dish was definitely the mozzarella cheese pizza — so fresh and perfectly cheesy.\n\nIt’s a great spot to chill, enjoy the view, and have a casual meal. I’d definitely recommend it and will be coming back for sure! 🇮🇹🍕✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Victoria Morozova",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "If you’re looking for an authentic Italian café-pizzeria with a relaxed Dubai vibe, this spot is a gem. The outdoor seating is a major highlight—cozy tables overlooking the calm water, making it perfect for a sunset coffee or a leisurely dinner.\nThe pizza is genuinely impressive: thin, crisp, and full of flavor, just like a true Italian pizzeria should be. You can taste the quality in the fresh ingredients, from the rich tomato sauce to the perfectly melted mozzarella. Their espresso and desserts are also on point, giving you the full Italian experience.\nService is very warm and friendly, and the atmosphere is laid-back yet charming. Whether you’re grabbing a quick bite or settling in for a relaxing evening by the water, this café-pizzeria is a fantastic choice in JLT. Highly recommended for pizza lovers and anyone who enjoys great views with great food. 🍕🇮🇹\nIf you want, I can rewrite it in a more casual, fancy, or humorous tone.",
+   "owner_reply": null
+  },
+  {
+   "author": "Farida Nasieku",
+   "rating": 5,
+   "when": "Edited 9 months ago",
+   "text": "What a cute and cosy outdoor restaurant! The best views of the lake, across from Marina and the pastel court! The food was delicious, we could barely finish our main course! Service was amazing! The staff are so happy and lovely. We got our neighborhood Italian restaurant in JLT! I had to come back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Goncagül Sezen",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "If you’re looking for a truly authentic Italian breakfast experience in Dubai, Caffè Borbone in JLT is an absolute gem.\n\nFrom the moment I arrived, everything felt thoughtfully curated the lakeside setting, the calm atmosphere with birds in the background, and the elegant yet relaxed ambiance instantly made me feel like I had been transported to Italy.\n\nI ordered a selection of breakfast items, and every single bite was exceptional. The ingredients were incredibly fresh and full of flavor. The sandwiches were perfectly balanced crisp, golden bread paired with vibrant lettuce, juicy sun-ripened tomatoes, and high quality olive oil that brought everything together beautifully. The mozzarella in the Caprese was soft, creamy, and delicate, complemented by fragrant basil and oregano. You could truly taste the authenticity in every ingredient.\n\nThe cannolo was another highlight light, delicately fried, and filled with a rich, smooth pastry cream that wasn’t overly sweet, just perfectly indulgent.\n\nTo top it all off, the coffee was excellent smooth, aromatic, and exactly what you’d expect from a proper Italian café.\n\nService was impeccable: attentive, professional, and genuinely warm without being intrusive. The presentation of the food was elegant and refined, showing real care and attention to detail.\n\nOverall, this was more than just breakfast it was an experience. Fresh, flavorful, peaceful, and beautifully executed. I can confidently say it felt like having breakfast in Italy.\n\nHighly recommended a well-deserved 5 stars.",
+   "owner_reply": "Thank you so much for your kind words and support! We're thrilled to hear you had a great experience with us. Your feedback means a lot to our team and keeps us motivated to keep doing our best. We look forward to welcoming you again soon!<br><br>Warm regards,<br>Borbone Management<br>"
+  },
+  {
+   "author": "Liga Liepina",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I like the location of this Borbone branch.\nIt’s very peaceful and with a lovely view of the lake.\nThe food is very fresh and tasty. They really pay attention to details with having olive oil, balsamic vinegar on the table.\nIt’s really great for the price. Spaghetti Nerano was a perfect recommendation. It’s so good. I also really enjoyed the buffalo & pachino pizza. 😋\nI hope to come back again for lunch and try out their coffee and sweet treats.\nService was very fast and Oshini and Mara were knowledgeable about the menu. 10/10 experience",
+   "owner_reply": null
+  },
+  {
+   "author": "deana blagojevic (deana_b_)",
+   "rating": 5,
+   "when": "Edited 10 months ago",
+   "text": "The best lunch time at Borbone pizzeria in Jlt with your friends during work time .Our host Chamara welcomed us and helped us choose perfect Lunch where we felt satisfied and comfortable with a beautiful view on a lake. Food is very delicious and tasty for any occasion to have. I really recommend them to take a visit and enjoy your day  with a croissant and coffee or lasagne for lunch or salad for dinner.",
+   "owner_reply": null
+  },
+  {
+   "author": "Gabriele Polo",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "An amazing place to enjoy authentic Italian cuisine in Dubai! The food was absolutely delicious, with fresh ingredients, authentic flavors, and perfectly prepared dishes. The pizza was outstanding and truly reminded me of Italy.\n\nThe atmosphere is warm, relaxing, and welcoming, making it a perfect place for lunch or dinner with family and friends.\n\nA special thank you to Nira, who provided exceptional service throughout our visit. She was kind, professional, attentive, and always smiling. Her hospitality made our experience even more enjoyable.\n\nI highly recommend Borbone Pizzeria & Caffe JLT to anyone looking for genuine Italian food and outstanding service. We will definitely be back!",
+   "owner_reply": "Thank you so much for your kind words and support! We're thrilled to hear you had a great experience with us. Your feedback means a lot to our team and keeps us motivated to keep doing our best. We look forward to welcoming you again soon!<br><br>Warm regards,<br>Borbone Management<br>"
+  },
+  {
+   "author": "Veruncik D",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "⭐️⭐️⭐️⭐️⭐️\nWonderful lunch experience !\n\nWe came to Borbonne for lunch and absolutely loved it. Even though it was raining, the staff kindly escorted us with an umbrella, which was a very thoughtful and memorable touch. The service was warm, polite, and attentive throughout our visit.\n\nThe food was outstanding — beautifully presented and incredibly delicious. We ordered matcha and fresh juice, and started with a salad with prosciutto, which was excellent. Everything tasted authentic, fresh, and high quality — truly amazing Italian cuisine.\n\nYou can sit outside on the terrace or inside; both options are very comfortable. The atmosphere is cozy, family-friendly, and welcoming.\n\nHighly recommended for a relaxed and delicious lunch. We’ll definitely be back! 🇮🇹",
+   "owner_reply": null
+  },
+  {
+   "author": "Iliana",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "As someone who loves Italian food, I totally recommend this restaurant. We started with salad and aranccini, followed by chicken bbq pizza and mushroom pasta. The portions are generous for such good price! Nira was our waitress and she was so nice and attentive all the time. Can't wait to come back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Valentina Miniailo",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Nice place Borbone in JLT, Dubai.\nAuthentic street food of Italian cuisine u should absolutely visit.\nPizza, pastas, salads, coffee, deserts you can find anything for your taste. Good prices.\nThe atmosphere is cozy and welcoming, making it a great spot for both casual dinners and relaxed evenings with friends or family. The staff were friendly, attentive, and made us feel genuinely welcome from the moment we walked in.\nI’ll definitely be coming back for more pizza!",
+   "owner_reply": null
+  },
+  {
+   "author": "Somya Bisla",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Borbone Pizzeria & Caffè offers an authentic Italian experience with delicious food and a warm, cozy vibe. The pizzas have a perfectly light, airy crust, the pasta is fresh and full of flavor, and the coffee is rich and genuinely Italian. Friendly service and great quality make Borbone Pizzeria & Caffè a place you’ll want to keep coming back to 🇮🇹🍕☕️",
+   "owner_reply": null
+  },
+  {
+   "author": "C K",
+   "rating": 5,
+   "when": "Edited 7 months ago",
+   "text": "Borbone Pizza in JLT is a fantastic spot for authentic Italian pizza. The crust is perfectly thin and crispy with just the right chew, and the ingredients taste fresh and high quality. You can really tell the pizzas are made with care and tradition in mind. The flavors are well balanced, especially the classic Margherita and pepperoni. Service is friendly and efficient, and the atmosphere is cozy and welcoming. Special thanks to Amazing Nora, Mara, and chefs Lebin and Raphael for delicious food. Definitely one of the best pizza places in JLT—highly recommended for pizza lovers!",
+   "owner_reply": null
+  },
+  {
+   "author": "Lulu Zakout",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "had the absolute most amazing dinner here. The food was incredible and the staff was exceptional. This cafe is right on the water so you get the most beautiful views while you eat. Would definitely recommend for a cute date night or a quiet catch up with friends, we will be back.!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Eugilyn",
+   "rating": 5,
+   "when": "Edited 8 months ago",
+   "text": "I visited for breakfast. I sat outside so i feel perfectly good. The atmosphere is so calm, set up and sitting are perfectly done. This place truly brings the heart of Italian street food to the city. The atmosphere is so cozy and inviting with great, relaxed vibes. Service was great , staffs are so welcoming, of course the food was amazing. Would definitely come back again!💗💗",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1218,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1448,
+    1086
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    287,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/borbone-pizzeria-and-caffe-jlt/",
+ "buy_likelihood": 6
+}

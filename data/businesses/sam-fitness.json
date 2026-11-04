@@ -1091,7 +1091,8 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "skipped",
  "site_url": "https://mdmd1735.github.io/Business-websites/sam-fitness/",
- "buy_likelihood": 8
+ "buy_likelihood": 8,
+ "notes": "Likely has a website (samfitness.org on banner, Cloudflare-protected)."
 }

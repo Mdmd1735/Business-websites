@@ -1,0 +1,33 @@
+{
+ "preset": "pet-sky",
+ "theme": {"bg": "#FBF8FF", "surface_2": "#EFE6FB", "accent": "#6A2FB8", "accent_text": "#5A26A0", "duo": "#DCCBF5", "busy": "#8A55D6", "glow": "rgba(255,212,0,.28)", "band_bg": "#26114A", "band_accent": "#FFD84D", "frame": "round", "hero_ratio": "4/3"},
+ "extra_css": ".hero-split .hero__slab{background:#FFD84D}.ticker{background:#FFD84D;color:#26114A}",
+ "brand": {"name": "Happy Paws", "sub": "Veterinary Clinic · Jumeira", "mark": "H", "footer_word": "Happy Paws"},
+ "seo": {"title": "Happy Paws Veterinary Clinic | Vet in Al Hudaiba, Jumeira Street, Dubai", "description": "Happy Paws Veterinary Clinic, G12 Block A, Al Hudaiba Awards Building, Jumeira Street: vaccinations, neutering, rescue and stray care, kitten and puppy care, and a pet shop. Open late on weekends. 4.6 from 324 reviews."},
+ "hero": {"variant": "split", "kicker": "Al Hudaiba Awards Building · Jumeira Street", "title_lines": ["Vets who love", "your pet", "like you do."],
+   "lede": "Vaccinations, neutering, baby care and rescue support from a team that treats every cat and dog like family, open from 8 AM daily and until 11 PM on weekends.",
+   "image": "img/hero.jpg", "image_alt": "Happy Paws clinic with pet portraits on a pink wall", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Happy Paws, I'd like to book an appointment for my pet.",
+ "proof_note": "324 reviews · rescue-friendly",
+ "address_lines": ["Happy Paws Veterinary Clinic, G12 Block A", "Al Hudaiba Awards Building, Jumeira Street, Dubai"],
+ "ticker": ["Vaccinations", "Neutering", "Rescue care", "Kitten & puppy care", "Pet shop", "Open till 11 PM weekends"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "From first jabs", "title_dim": "to happy recoveries.",
+   "items": [
+    {"name": "Check-ups & treatment", "feature": true, "img": "img/exam.jpg", "alt": "Vet team examining a small dog", "desc": "Gentle exams and clear advice.", "quote": "We cannot thank the team at Happy Paws enough for the exceptional care they gave our cat, Lucky.", "cite": "Sana H."},
+    {"name": "Vaccinations", "img": "img/vet-cat.jpg", "alt": "Vet holding a cat", "desc": "Puppy, kitten and adult schedules."},
+    {"name": "Neutering & surgery", "img": "img/cone.jpg", "alt": "Cat in a recovery cone", "desc": "Spay, neuter and aftercare."},
+    {"name": "Rescue & stray care", "img": "img/cat.jpg", "alt": "Rescue cat looking up", "desc": "Support for rescuers and strays."},
+    {"name": "Pet shop", "img": "img/reception.jpg", "alt": "Reception and Royal Canin shelves", "desc": "Food, prescription diets and accessories."}
+   ],
+   "perks": ["Mon–Thu 8 AM – 9 PM", "Fri–Sun 8 AM – 11 PM", "Pet shop on site"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Short waits", "title": "Come when", "title_dim": "it's calm."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The team", "title": "Doc Dhan", "title_dim": "and the Happy Paws family.",
+   "items": [{"name": "Dr. Dhan", "count": 5, "role": "Veterinarian"}, {"name": "Hildy", "count": 4, "role": "Vet nurse"}, {"name": "Mark", "count": 4, "role": "Vet assistant"}, {"name": "Julie & Manuel", "role": "Front desk", "quote": "Ms. Julie and Sir Manuel were always incredibly friendly and approachable.", "cite": "Jammity R."}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Happy Paws storefront"}, {"src": "img/night.jpg", "alt": "Clinic sign at night", "wide": true}, {"src": "img/persian.jpg", "alt": "Grey Persian cat"}, {"src": "img/tuxedo.jpg", "alt": "Tuxedo cat"}, {"src": "img/wall.jpg", "alt": "Pet portrait wall", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Book", "title": "Ask the clinic.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a consultation?", "What does neutering cost for a cat?", "Do you discount care for rescues?", "Can I come in tonight?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Jumeira Street,", "title_dim": "Al Hudaiba."}
+ ]
+}

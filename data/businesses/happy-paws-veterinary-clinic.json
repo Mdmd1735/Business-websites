@@ -1504,7 +1504,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/happy-paws-veterinary-clinic/",
- "buy_likelihood": 8
+ "buy_likelihood": 7,
+ "notes": "324 reviews, domain happypawsvet.com is parked: they may already want a site. Replies 43%.",
+ "display_name": "Happy Paws Veterinary Clinic"
 }

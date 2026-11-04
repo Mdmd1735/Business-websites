@@ -1,0 +1,31 @@
+{
+ "preset": "spice-ember",
+ "theme": {"bg": "#170A12", "surface": "#220F1B", "surface_2": "#2D1524", "accent": "#F2A922", "accent_text": "#F7BC4A", "on_accent": "#1A0F02", "duo": "#5C2A3E", "busy": "#B6295F", "glow": "rgba(182,41,95,.22)", "band_bg": "#FBF1E4", "band_accent": "#B6295F", "frame": "arch", "hero_ratio": "3/4", "display": "\"Gloock\",Georgia,serif", "google_fonts": "family=Gloock&family=DM+Sans:wght@400;500;600&family=Cairo:wght@700"},
+ "brand": {"name": "TAAL", "sub": "Performing Arts · JLT", "mark": "T", "footer_word": "TAAL"},
+ "seo": {"title": "TAAL Performing Arts Dance Studio JLT | Kathak, Bollywood & Wedding Choreography", "description": "TAAL Performing Arts, Mazaya Business Avenue BB1, Office 206, JLT: Kathak and semi-classical with Shreya, Bollywood and BollyFit, wedding choreography, kids' summer camps and private classes. 4.9 from 81 reviews."},
+ "hero": {"variant": "split", "kicker": "Mazaya Business Avenue BB1 · Office 206 · JLT", "title_lines": ["Kathak, Bollywood", "and your first", "wedding dance."],
+   "lede": "A warm, colourful studio in JLT for Kathak and semi-classical, Bollywood and BollyFit, kids' summer camps, private lessons and wedding choreography that gets the whole family on stage.",
+   "image": "img/hero.jpg", "image_alt": "TAAL students and teachers on the studio floor", "secondary": {"label": "Classes", "href": "#classes"}},
+ "cta_label": "Book a trial class", "cta_text": "Hi TAAL, I'd like to book a trial class.",
+ "proof_note": "4.9 from 81 reviews",
+ "address_lines": ["TAAL Performing Arts, Office 206", "Mazaya Business Avenue BB1, JLT, Dubai"],
+ "socials": {"instagram": "taalstudiodubai"},
+ "ticker": ["Kathak", "Semi-classical", "Bollywood", "BollyFit", "Wedding choreography", "Summer camp", "Private classes"],
+ "sections": [
+  {"type": "services", "id": "classes", "nav": "Classes", "eyebrow": "Classes", "title": "Classical roots,", "title_dim": "Bollywood energy.",
+   "items": [
+    {"name": "Kathak", "feature": true, "img": "img/kathak.jpg", "alt": "Kathak students in traditional dress", "desc": "Taught in depth by guru Shreya.", "quote": "Shreya ma'am, my Kathak guru, is an amazing teacher with in-depth knowledge of her art. She is very patient with us.", "cite": "Parul D."},
+    {"name": "Bollywood & BollyFit", "img": "img/adults.jpg", "alt": "Adult Bollywood class posing", "desc": "Fun choreography and a cardio workout."},
+    {"name": "Wedding choreography", "img": "img/mirror.jpg", "alt": "Instructor performing under a stage frame", "desc": "Sangeet and wedding routines for couples and families."},
+    {"name": "Kids & summer camp", "img": "img/kids.jpg", "alt": "Kids class with their teacher", "desc": "Dance, gymnastics, yoga and games."}
+   ],
+   "perks": ["Tue–Fri 11 AM – 8 PM", "Weekends 9 AM – 5:30 PM", "Private classes"]},
+  {"type": "team", "id": "team", "nav": "Teachers", "eyebrow": "Teachers", "title": "Shreya, Santosh", "title_dim": "and Chand.",
+   "items": [{"name": "Shreya", "count": 11, "role": "Kathak guru", "quote": "Shreyaji's workshop is my favorite.", "cite": "Shara N."}, {"name": "Santosh", "count": 9, "role": "Choreographer"}, {"name": "Chand", "count": 5, "role": "Bollywood", "quote": "I go there for Bollywood classes with Chand. It's a very nice class, sometimes challenging.", "cite": "Ritvik B."}]},
+  {"type": "gallery", "images": [{"src": "img/lounge.jpg", "alt": "Taalywood lounge with film posters"}, {"src": "img/semiclassical.jpg", "alt": "Semi-classical dance class poster"}, {"src": "img/class.jpg", "alt": "Kids dancing in the studio"}, {"src": "img/tiny.jpg", "alt": "Young students lined up"}, {"src": "img/posters.jpg", "alt": "Wall of Bollywood posters", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Try a class.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["When is the next Kathak trial?", "Can you choreograph our sangeet?", "What are the kids' class timings?", "How much are monthly fees?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Mazaya Business Avenue,", "title_dim": "JLT."}
+ ]
+}

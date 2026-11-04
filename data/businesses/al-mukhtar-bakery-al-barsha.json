@@ -2570,7 +2570,8 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "skipped",
  "site_url": "https://mdmd1735.github.io/Business-websites/al-mukhtar-bakery-al-barsha/",
- "buy_likelihood": 6
+ "buy_likelihood": 6,
+ "notes": "Already has a website (almukhtarbakery.com)."
 }

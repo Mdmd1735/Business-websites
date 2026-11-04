@@ -1,0 +1,1414 @@
+{
+ "slug": "desert-wave-ladies-salon-dubai",
+ "name": "Desert Wave Ladies Salon Dubai",
+ "place_id": "ChIJwa3qsYBdXz4RK86NSMW3ub0",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "26 26B St - Al Muraqqabat - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2656194,
+  "lng": 55.320863
+ },
+ "phone": "+971 4 886 6167",
+ "rating": 4.5,
+ "userRatingCount": 583,
+ "rating_distribution": {
+  "oneStar": 62,
+  "twoStar": 11,
+  "threeStar": 5,
+  "fourStar": 29,
+  "fiveStar": 476
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Desert%20Wave%20Ladies%20Salon%20Dubai&query_place_id=ChIJwa3qsYBdXz4RK86NSMW3ub0",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Experience personalized beauty and exceptional care at Desert Wave Ladies Salon, proudly serving our clients for over 12 years. Our team of skilled and creative beauty professionals is passionate about helping you look and feel your absolute best. With a strong focus on teamwork, attention to detail, and client satisfaction, we go the extra mile to create a welcoming experience and deliver beauty services that exceed your expectations.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "moroccan bath",
+  "full body massage",
+  "footspa",
+  "waxing",
+  "accommodating staff",
+  "hair color",
+  "waiting time",
+  "eyebrow threading",
+  "gel polish",
+  "face scrub"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Khadijah Warda",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I’ve been a loyal customer of Desert Waves Salon, and I always have a wonderful experience. I especially want to thank Ms. Cheryl, who always does my nails beautifully—I always request her whenever I visit. A special thanks as well to Ms. Mahi for taking such great care of my hair and other beauty services.\nThe salon offers affordable packages with excellent service, making every visit worth it. It can get busy, so there may be a little waiting time, but it’s definitely worth the wait.\nThank you, Desert Waves Salon, for your outstanding service. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "rowena lucaban",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Due to my busy schedule, I barely had time to get my nails done, and I was literally in a rush—but Desert Wave came to the rescue! 💅✨\n\nFrom the moment I arrived, the staff were incredibly welcoming and accommodating. A special thank you to Joan, who made booking my appointment so easy and stress-free; Ate Lyn, who did an amazing job with my feet; and Lovely, who made my fingernails look absolutely stunning! 💖💅\n\nI was also impressed by how fully equipped the salon is. They even have a free snack bar and coffee station! ☕🥐 It honestly saved me because I skipped breakfast and went straight to the salon. I got to pamper myself, enjoy a cup of coffee and a pastry, and leave feeling refreshed and beautiful. 🥰\n\nWhat an amazing experience! Thank you, Desert Wave, for making my busy day a little more relaxing and special. Highly recommended! ⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": null
+  },
+  {
+   "author": "pyaephyokhaing",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I’ve been coming to this salon for almost a year now, mainly for my manicure, pedicure, and underarm waxing, and I’m always so happy with their service. ❤️\n\nThe staff are professional, the prices are reasonable, and the salon is so comfortable, clean, and classy. I used to visit every two weeks, and even though I’m now busy with work and can only come once a month, I still love coming here.\nHighly recommended! ✨\n\nOne of the reason I go back to this salon is  ate Joane , she is too good and beautiful also.\nI feel so comfortable with her because she arrange nicely , she is always smiling even though I’m not Filipina she treat me nicely.\n🤍💚❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Catherine Kate Guab",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "I wouldn't recommend for pedicure this salon to anyone!\n\nI visited this salon after seeing their promotional advertisement. The place is clean and the prices are affordable, which is why I decided to try it.\n\nUnfortunately, the service quality did not meet expectations. Although I am aware that there could be a waiting time, I did not expect that it will take an hour for the waiting time which made me feel disappointed.\n\nThe services felt rushed rather than relaxing. During pedicure, I experienced excruriating pain and visible redness which I address. I am already removing my foot and telling to the staff that it hurts so much. There was no apology from the staff, hence, she blamed my toenail for having such a dry skin that is very hard to remove which was disappointing. Its almost a week after I went there and my toenail is still swelling and having liquid discharge with unpleasant smell. I feel so hurt whenever I will wear shoes for work. The overall approach seemed focused on speed rather than customer comfort.\n\nI hope the management works on improving service quality, customer safety, and giving equal attention to all customers.",
+   "owner_reply": null
+  },
+  {
+   "author": "Edilyn magbanua",
+   "rating": 5,
+   "when": "Edited 2 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nI’ve been coming back to Desert Wave Salon because every visit is such a wonderful experience! The ambiance is beautiful, relaxing, and peaceful—the perfect place to unwind.\n\nFrom the moment I walk in, the staff always make me feel so welcome. They really listen to what I want and understand my needs, which is one of the biggest reasons I keep coming back.\n\nA special shout-out to the amazing nail technicians, especially Joy and Ate Jean. They’re incredibly talented, and the nail section has such a classy and luxurious vibe—it really makes you feel pampered!\n\nFor hair services, I highly recommend Rissa. She’s absolutely amazing! I’ve had my hair color, highlights, and protein treatment done by her, and she always takes great care of my hair without damaging it. Every time I describe the hairstyle I want, she delivers it perfectly—100%! If you’re visiting Desert Wave Salon, definitely request Rissa. You won’t regret it!\n\nLastly, congratulations to the lovely owner, Mam April, and the manager, Ms. Joan, for running such an organized and peaceful salon. The booking system is smooth, everything is well-managed, and there’s never any chaos. It really shows how much they care about their clients’ experience.\n\nI’m so happy I found this salon. Highly recommended—it’s definitely a must-visit! 😊❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Annie Gayle Boy",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "⭐⭐⭐⭐⭐\nExcellent massage with Ate Angie! She was professional, friendly, and knew exactly how to relieve my muscle tension. I left feeling relaxed and refreshed. Highly recommended!\nThis ladies salon also got unbeatable promotions!\nNot to mention their very aesthetic salon vibe and snack bar! Love it!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rodgilyn Rodriguez",
+   "rating": 4,
+   "when": "6 months ago",
+   "text": "This is my first time going to Desert wave Salon . Their package services are affordable. They are very good at what they do. Their employees are very skilled and work heartily. They love their work. Their clients are also very satisfied.\nMs. Cecil is the best at my hair service, Ms. Cha for my nails done was great  also the young lady at my Moroccan bath was good doing her job.\nMs.Raj was also expert for any kind of massage and waxing shes very skilled person .\nAbove all, I am satisfying the service and can relieve my body aches worth my day.\n\nThe only thing that concerns is not good is their reception and head at the reception because they make their guests wait for more than an hour. It's tiring to wait and they don't like to be attended to the guests. They should be doing their job and know what they are doing. They know how to accommodate and schedule guests and don't let them wait for long.\nI hope the management takes action on their issues regarding the front receptionists because as a guest, I lose interest and trust in their service. I hope this salon is not just one of them, there are many other salons that are their competitors. If the company wants their guests to keep coming back as loyal guests, they should change the careless behavior of their receptionists.\nHoping soon there’s  changes on what as what guest concerns .",
+   "owner_reply": null
+  },
+  {
+   "author": "Mitchai Tinaco",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "I had such a wonderful experience at this salon! From the moment I walked in, I felt completely welcomed and relaxed. The atmosphere is beautifully designed and truly sets the tone for a calming escape.\nThe staff were incredibly professional, attentive, and friendly. They took the time to understand my needs and made sure I was comfortable throughout the entire visit. My nails is go nice it was absolutely amazing — I left feeling refreshed, pampered , and stress-free.\nEverything was clean, well-organized, and clearly maintained to a high standard. You can really tell they care about their clients’ experience.\nI highly recommend this salon to anyone looking to unwind and treat themselves. I will definitely be coming back again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Carla Aquino",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "LI visited Dessert Wave Ladies Beauty Salon today and I can honestly say they exceeded my expectations. I booked their promo for 10 services for only 79 AED, so I honestly thought the quality might be basic—but I was pleasantly surprised!\n\nThe whole experience was so relaxing and truly felt like a pamper day. Since there weren’t many clients when I arrived, they were able to attend to me very well and made sure I was comfortable the whole time.\n\nAll the staff were very friendly and professional—from the lady who did my shampoo and hot oil treatment, to the one who did my nails, paraffin treatment, facial scrub, and mask, and finally the stylist who gave me my haircut. Everyone did an amazing job and made the experience enjoyable.\n\nI left feeling refreshed, relaxed, and very satisfied with the services. Definitely great value for money and I highly recommend this salon!",
+   "owner_reply": null
+  },
+  {
+   "author": "Charisma Pandan",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "My experience in desertwave beauty salon Al rigga is amazing.i live in Al ain but everytime have a chance to go to Dubai,desertwave salon is my 1st stop.i like the vibe of salon so cosy,looks so expensive but in reality it's really affordable and budget friendly salon.\nbut hey the service is beyond the price you paid for,to be honest it's a must visit salon in Al rigga dubai.thank you Ms.Elena & Ms.Rc for doing my nails and Ms.Cecil for protein hair treatment.",
+   "owner_reply": null
+  },
+  {
+   "author": "Zoe’ Arianna Belicano",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "I wouldn’t recommend this salon to anyone.\n\nIt wasn’t my first time there, my first experience was actually good, but unfortunately, my second experience was completely different.\n\nI went here for an advance booking because I wanted to book an appointment at 8:00 PM. However, I was told that they only accept clients until 7PM, but they could wait for me until 7:30PM. So I agreed to come at 7:30PM.\n\nI arrived early, around 7:20PM, and waited patiently. I waited for 10, 20, 30 minutes, and eventually more than an hour. I didn’t even eat dinner because I thought I would just have dinner after my appointment since I wasn’t that hungry yet.\n\nAfter waiting for more than an hour, I finally asked the owner, I believe, how much longer I needed to wait. She simply told me, “May patapos na po,” meaning someone was almost finished. So I went back to my seat and continued waiting.\n\nA couple of minutes later, a therapist called someone named “Jhoey.” No one stood up, so I thought she was calling me and had just mispronounced my name. I approached her, only to find out that she wasn’t calling me at all. At that point, I was already extremely frustrated.\n\nThey should have just told me to come at 8:00 PM in the first place if they knew they would not be able to accommodate me at 7:30 PM. I completely understand that they had many clients, but I also believe they should respect the time of the clients who are waiting. I wasted more than an hour simply sitting there with no clear information about when I would actually be accommodated.\n\nI eventually told the receptionist that I wanted to cancel, and she apologized and said okay. I was already very frustrated at that point, and I admit that I banged the door when I left.\n\nI understand that businesses can get busy, and delays can happen. But good customer service is also about communication and managing expectations. If you know you already have too many clients and cannot accommodate another one within the agreed time, please be honest and let the customer know instead of asking them to come and making them wait indefinitely.\n\nCustomers have their own time and commitments too. A simple update or an honest estimate of the waiting time would have made a huge difference. Customer service should be about respecting not only the business’s time, but the customer’s time as well.",
+   "owner_reply": null
+  },
+  {
+   "author": "Quinola Erika",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had such a wonderful experience at this salon! I got my nails done and enjoyed a relaxing massage, and everything was amazing. A special thank you to Ate Angie for the incredible massage. She was so kind, professional, and made me feel completely relaxed throughout the session.\n\nI highly recommend Ate Angie and this salon to anyone looking for excellent service. I’ll definitely be coming back. Thank you for such a great experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Prarthana Dissanayake",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing experience at Desert Wave Salon!\n\nI had a wonderful experience at Desert Wave Salon from start to finish. Joane was extremely helpful in assisting me with my appointment booking and made the whole process smooth and convenient.\n\nA special thank you to Mehar for doing my hair so beautifully. Their professionalism, attention to detail, and expertise were truly impressive. They listened carefully to what I wanted and delivered even better results than I expected.\n\nThe salon was clean, welcoming, and the entire team was friendly and attentive. I left feeling confident and absolutely loving my new hair. I highly recommend Desert Wave Salon to anyone looking for excellent service and talented staff. Thank you for such a fantastic experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "ZAI MENDOZA",
+   "rating": 4,
+   "when": "5 months ago",
+   "text": "I love this salon, they have a lot of services and promo. Staff are accommodating and friendly too. They have snack bar as well. Thank you ate grace for doing treatment to my hair <333 must visit.\nPlus, it’s a ladies salon only. Recommended for muslim women. ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Isa Dosuzha",
+   "rating": 4,
+   "when": "4 months ago",
+   "text": "Ate Rissa has been cutting my hair since 2022 and I'm glad I found her again in this salon. 💖\n\nCheryl did my mani pedi. She was very precise and careful, which I extremely appreciate. Highly recommended ✨️💯",
+   "owner_reply": null
+  },
+  {
+   "author": "Vilma Lalo",
+   "rating": 4,
+   "when": "3 weeks ago",
+   "text": "I had a wonderful full-body massage today at Desert Wave Ladies Salon, and I’m very happy with the service. Raj was an excellent massage therapist—very professional, attentive, and skilled. He made sure I was comfortable throughout the session, and the massage was relaxing and refreshing. I truly enjoyed the experience and would definitely recommend Raj to anyone looking for a good massage. Thank you, Raj, for the great service! ⭐⭐⭐⭐⭐",
+   "owner_reply": null
+  },
+  {
+   "author": "prettyjolie",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I had a wonderful experience at this ladies-only salon! The salon is clean, neat, and beautifully maintained, creating a relaxing atmosphere from the moment you walk in.\n\nThe staff are all friendly, welcoming, and professional. A special thanks to Raj, who is an excellent massage therapist and highly skilled at eyebrow threading. I also highly recommend Lyn for manicure and pedicure, and Rej and Jackie for an amazing Moroccan bath experience.\n\nReceptionists are incredibly sweet and accommodating Joana and the rest of the girls! I loved the complimentary coffee and snacks while waiting.\n\nThe prices are very reasonable, especially considering the excellent quality of service. I recommend booking an appointment in advance, as it’s much better than walking in.\n\nHighly recommended if you’re looking for a ladies-only salon with outstanding service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Cyndi Mendoza",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "had a great manicure and pedicure experience here. The staff were friendly, attentive, and especially to Ate Angge/Anggie she’s very professional throughout the service, very excellent attention to detail, ensuring my nails looked neat and beautiful. The salon was clean, comfortable with some mini snacks, coffee, tea while waiting. Making the experience even more enjoyable. I’m very happy with the results and will definitely return for future treatments. Highly recommended!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Maria Fe Lajum",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a wonderful experience at Dessert Salon Dubai Branch. A big thank you to Ate Dory for the amazing Moroccan bath — she was very professional, gentle, and made me feel relaxed and refreshed. Also, thank you to Ate Angie for the relaxing body massage. Her hands were amazing, and I truly enjoyed the whole experience.\n\nThe service was excellent, and both of them were kind and welcoming. I highly recommend their services. Thank you for making my day so relaxing and special! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Nabeela Farooqui",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "It was my first visit to Desert Wave Salon today, and I spent almost 5 hours enjoying various services.\nThe salon is spacious, beautiful, spotlessly clean, and immediately gives off positive vibes with its professionalism. A special thank you to Rajveer Kaur, Mahi, and Lovely for taking such good care of me. They were incredibly sweet, accommodating, and highly professional throughout my visit.\nThank you all for making my experience so pleasant. I truly had a wonderful and fruitful day at your salon. Alhamdulillah. ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "SUE M.",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Highly recommended! ❤️ Thank you, Kaki, for the amazing and relaxing Moroccan bath. Kaki is truly the best!\n\nAnd a big thank you to Ate Lorna for my beautiful nails. Lorna is the best when it comes to nails! 💅✨ She did an amazing job, and I felt so comfortable and relaxed throughout the whole experience.\n\nThe salon has such a welcoming and comfortable atmosphere, and the staff are friendly and professional. I’m definitely coming back! Highly recommended! ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Khiana Mae Eugenio",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had such a wonderful experience at this salon! The staff were welcoming, professional, and attentive from the moment I walked in. The atmosphere was clean, relaxing, and beautifully maintained. I left feeling confident, refreshed, and extremely satisfied with the service. I highly recommend dessert wave salon to anyone looking for quality work and excellent customer care!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sunshine G",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "I honestly don't know how this salon is still in business. This is by far the **worst salon in Al Rigga** that I have ever visited.\n\nFrom the moment I walked in, the receptionist (who seemed to be the owner) was incredibly rude, and unfortunately, the rest of the staff had the same attitude. Not a single person made me feel welcome or valued as a customer.\n\nYes, their prices are cheap—but their service is even cheaper. The quality of the work, the professionalism, and the customer service were all extremely disappointing. I went to the salon expecting to relax and enjoy some self-care, but instead, I left feeling frustrated, stressed, and completely dissatisfied.\n\nNo customer should be treated this way. Saving a few dirhams is not worth receiving terrible service and being treated with disrespect.\n\n**I absolutely do NOT recommend this salon. Never again. There are far better salons in Dubai that actually care about their customers. Save yourself the stress and go somewhere else.**",
+   "owner_reply": null
+  },
+  {
+   "author": "Bea Franchezca Santos",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I am purely satisfied with the services and how staffs were too accommodating and friendly. I came yesterday with my colleague and we had our best day to destress ourselves. Thank you ate Baby, Ambeeka and Ashy for the outstanding services❤️did moroccan bath, face scrub, face mask, hair cut, manicure, pedicure and footspa.  Very hygienic and well maintained salon in the heart of Al Rigga. I will surely come back with family and friends💯💯 Kudos to Ms. April - you are so hands on with your business wishing Desert Wave all the best and more success. Highly recommended ❤️❤️💯 Worth it!!!",
+   "owner_reply": null
+  },
+  {
+   "author": "Katherine Gatchalian",
+   "rating": 5,
+   "when": "Edited 9 months ago",
+   "text": "I had a wonderful experience at this salon! The staff are incredibly accommodating and make you feel comfortable from the moment you walk in. The owner is very hands-on and truly cares about each client, making sure everyone is well taken care of and completely satisfied with the service.\n\nThe ambiance is warm and relaxing, and the Christmas decorations are absolutely beautiful, very welcoming and festive without being overwhelming. They also have snack bar. You can really feel the attention to detail, not just in the decor but in the overall customer experience.\n\nHighly recommended! I’ll definitely be coming back and telling my friends about this place.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kath Rebultan",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I highly recommend this beauty salon in Al Rigga! The staff are professional, friendly, and the services are excellent. I especially love their gel polish—the quality is amazing. They use nano gel polish, which is definitely worth the price because it lasts beautifully and looks flawless.\n\nA special thank you to Joyce for my manicure and pedicure. She is very skilled, gentle, and pays great attention to detail. I also want to commend the Indian Punjabi lady who did my waxing and facial scrub. She was very gentle, thorough, and made me feel comfortable throughout the service. I’m truly satisfied with the results.\n\nI will definitely come back and would gladly give this salon 5 stars!\n\nThe only area for improvement is the waiting time. The salon is very popular, so it can get quite busy. Even with an appointment, there can still be a long wait between services. I hope they can find a way to better manage the schedule so clients can be accommodated more efficiently and the waiting time can be reduced.\n\nOverall, I had a wonderful experience and highly recommend this salon to anyone looking for quality beauty services in Al Rigga.",
+   "owner_reply": null
+  },
+  {
+   "author": "Zeina Shatila",
+   "rating": 1,
+   "when": "2 weeks ago",
+   "text": "Reaching here by itself didn't feel right and is in a \"weird building\". Very crowded and the smell of chemicals will 100% cause you a headache. When I reached there despite this, I was told my hair is too long and they cant do the promo I booked. Altho it stated that hair ypto 16inches is included which is 40cm, which is about the length of my hair. And although i only wanted to trim my hair so it should be done regardless of its length!!!!. The receptionist kept saying neck to shoulder length only, which definitely isn't 40cm unless the hair is curly, which isnt my case. She didnt bother to provide another option to suit me as I said okay thank u bye. So just wasted my day to reach there and leave with a headache.",
+   "owner_reply": null
+  },
+  {
+   "author": "Catherine Pabustan",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "This was my second time visiting this branch. My first experience was great, which is why I confidently booked a multi-service package . Hoping to finish early, I booked the earliest available slot and arrived exactly on time.Unfortunately, this visit was highly unacceptable. After completing my Moroccan bath and nail services, I was ready for my scheduled massage at 12:10 PM. I patiently waited until 1:00 PM as the salon grew busier. At 1:30 PM, I asked your staff for an update and was assured that I was \"next.\"Despite this assurance, I was left waiting until 2:30 PM. To make matters worse, I witnessed multiple customers who arrived long after me being taken back for their massages ahead of me. Due to this severe lack of organization and a total wait time of nearly two and a half hours, I ultimately had to cancel my massage and leave.I understand peak hours can be chaotic, but prioritizing later walk-ins or appointments over a client who has been waiting since midday is poor customer service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Nheel ME Dubai",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had the best 30 minutes back massage. Definitely I will be back  for an hour whole body massage soon and will request for MISS DORIE💚",
+   "owner_reply": null
+  },
+  {
+   "author": "Charmaine Soriano",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "It's my 1st time to visit this Salon and had an amazing experience. The staffs are polite and very professional. I'm very satisfied especially Ate Dory who did my body massage,well recommended. Moreover, Cherry who did my nails was so meticulous and gentle, superb! Lastly Reig who did my Morrocan bath did her expertise on scrubbing with such eagerness to make sure that I'm satisfied too. Looking forward for my next visit!!!!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    740,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    293,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    291,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    291,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    308,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/desert-wave-ladies-salon-dubai/",
+ "buy_likelihood": 6
+}

@@ -1,0 +1,1017 @@
+{
+ "slug": "fitness-factory",
+ "name": "Fitness Factory",
+ "place_id": "ChIJQ7B8j3RDXz4RTBt1rSEbRmI",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Al Karama, Dubai",
+ "address": "67VX+24M - 2C St - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.242614,
+  "lng": 55.2977487
+ },
+ "phone": "+971 58 118 0045",
+ "rating": 4.7,
+ "userRatingCount": 175,
+ "rating_distribution": {
+  "oneStar": 6,
+  "twoStar": 0,
+  "threeStar": 5,
+  "fourStar": 10,
+  "fiveStar": 154
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Fitness%20Factory&query_place_id=ChIJQ7B8j3RDXz4RTBt1rSEbRmI",
+ "website": "",
+ "categories": [
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "5 to 10 PM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "supportive trainers",
+  "trainer vinayak",
+  "smiling coach",
+  "gym for beginners",
+  "calm coach",
+  "caring trainers",
+  "encouraging trainer",
+  "training quality",
+  "mixed gym",
+  "gym for professionals"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 10
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 7
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 3
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 10
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 3
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 3
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 8
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 7
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 9
+   }
+  ]
+ },
+ "owner_reply_rate": 0.07,
+ "reviews": [
+  {
+   "author": "Athulya Alingal",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I've been going to Gym for 3 months as of now,  I’ve had a really positive experience training with Amal. He is a very dedicated and professional instructor who genuinely cares about helping people improve. I really appreciate the way he explains exercises clearly, pays attension and makes sure I’m training safely and correctly.\n\nHe is also very approachable and encouraging. He knows how to motivate me while still understanding my individual needs and limitations.\n\nI’m very happy to have Amal as my instructor and would definitely recommend him to anyone looking for a knowledgeable, supportive, and responsible coach.\n\nOverall great Gym , good atmosphere, nice people would recommend it to everyone.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Firoz",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great budget-friendly gym in Karama with good equipment and professional trainers. Friendly staff, clean facilities, and excellent value for money. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Blessy Lorance",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I’ve been going to this gym for the past few months, and I’ve had a really positive experience so far. The gym has a great atmosphere and a friendly environment❤️\n\nI would like to extend a special thank you to Coach Mr. Amal for the excellent support he has provided throughout my fitness journey. Knowledgeable and patience , he always ensures that I perform my exercises correctly. His guidance and encouragement have helped me stay consistent and maintain my motivation😊\n\nOverall, I’m very happy with this gym and would definitely recommend it to anyone looking for a good place to work out with supportive trainers.😊❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Drisya jagadil",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Joining this gym has been one of the best decisions I've made. The trainers are supportive, the atmosphere is motivating, and every workout leaves me feeling stronger and more confident. I highly recommend this gym to anyone looking for a positive fitness journey.",
+   "owner_reply": null
+  },
+  {
+   "author": "ARAVIND RAVI",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I’ve been working out at this gym for the last 5 months, and I’m extremely happy with my experience. The equipment is excellent, the gym is well maintained, and the trainers are very supportive. Special mention to Vishnu, who has been guiding my personal training throughout. From my overall experience, this is the best gym in Karama.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammed Yoonus",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Great gym with a friendly atmosphere and good equipment. A special thanks to my trainer, Niyas, for his support and motivation. He is professional, encouraging, and always helps me stay focused on my fitness goals. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Jithin v nair",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great gym with excellent equipment and a friendly atmosphere. The trainers Amal, Sreejith and niyaz are supportive and always ready to help. Highly recommend Gym for anyone in Karama",
+   "owner_reply": null
+  },
+  {
+   "author": "Deepmala Mandal",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Hey everyone, who so ever is thinking to join gym…..I personally suggest to join a fitness factory 😎😎😎 This is my best experience in gym ever, the trainers are well knowledgeable and they guide according to your strength and need. My trainer is Mr. Sreejith💪🏋️‍♀️.  He is always helpful and approachable😎😎😎personally its good to be here🙃🙃",
+   "owner_reply": null
+  },
+  {
+   "author": "Ajay M",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great gym with a positive atmosphere and excellent facilities. Coach Sreejith is very supportive, knowledgeable, and always motivates us to do our best. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Billa Tanda",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent gym with a great atmosphere. Friendly staff specially shrijit coach, clean facilities, and top-quality equipment. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Aideesh Babu",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent gym with a clean and motivating environment. The instructor (Mr: Srejith) is knowledgeable, supportive, and always encourages us to do our best",
+   "owner_reply": null
+  },
+  {
+   "author": "Shanuka Lakmal",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I was join with this gym since 2023 and still im active person there and specially there trainers are very active and very helpful for us each an every moments  and also frendly and best customer service ever and im highly recommended to everyone this gym",
+   "owner_reply": "Thanku for your valuable words "
+  },
+  {
+   "author": "Riyas Mohmmed",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "this gym is absolutely good and best trainers in that gym amal and niyas is supportive and very kind.",
+   "owner_reply": null
+  },
+  {
+   "author": "Karun Prasad",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Quite spacious and clean gym…It has enough equipment, and all the trainers are professional, helpful, and provide excellent guidance…",
+   "owner_reply": null
+  },
+  {
+   "author": "Arjun Jayakrishnan",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Great place to work out. Knowledgeable trainers, a motivating atmosphere, and easily the best gym in Karama.",
+   "owner_reply": null
+  },
+  {
+   "author": "jidith krishna",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Great gym in Al Karama. The overall environment is very good and well maintained. Trainers are friendly, professional, and always helpful. Good equipment and positive vibe. Highly recommended for anyone looking to work out seriously in Al Karama.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jesna C",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Excellent gym and trainers are more supportive even in general training.",
+   "owner_reply": null
+  },
+  {
+   "author": "Chef Toshi",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Nice and well maintained environment for work out.All staff members are very friendly and helpful",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed afreth",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Very nice and calm place to workout with good equipment and excellent trainers.",
+   "owner_reply": "Thank you habibee"
+  },
+  {
+   "author": "sreehari sm",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great value for money and one of the finest gyms in Karama, Dubai. 🔥\nNEAR TO ADCB METRO STATION",
+   "owner_reply": null
+  },
+  {
+   "author": "Praveen Prakash",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Best gym in karama, good training quality👍🏻affordable",
+   "owner_reply": null
+  },
+  {
+   "author": "Desitha Amarawickrama",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Good gym, has most of the equpiments needed (crowded in evenings and at nights as every gym in Karama area)",
+   "owner_reply": null
+  },
+  {
+   "author": "abdul anzeel",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Sreejith is a good trainer, highly knowledgeable and dedicated.",
+   "owner_reply": null
+  },
+  {
+   "author": "Arwin Sampana",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "The machine equipment was so really good, and trainer was so hospitable and kind",
+   "owner_reply": null
+  },
+  {
+   "author": "vimal vijay",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great gym with well trained staff. The trainers are professional and provide proper guidance during workouts. Specialy Vishnu (Junior) – an amazing trainer who's dedicated and supportive.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sabin C",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "One of the best personal training in karama fitness factory",
+   "owner_reply": null
+  },
+  {
+   "author": "Ajay Sankar Prasannan",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Best gym in Karama. Trainers are very friendly and supportive. Highly recommendable.",
+   "owner_reply": null
+  },
+  {
+   "author": "Anand MJ",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "One of the best and affordable gyms in Karama Dubai that provides excellent training with a bunch of great trainers and good machines👌💪",
+   "owner_reply": null
+  },
+  {
+   "author": "Safvan Safu",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "All trainers are well supporting and good ambience to play in",
+   "owner_reply": null
+  },
+  {
+   "author": "Varsha Satish",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "A really good mixed gym in Karama with affordable fees. The gym equips with good quality machines and certified trainers for your fitness needs starting from beginner level. The gym has a good and decent crowd for ladies as well.\n\nHighly recommend Fitness Factory gym for your fitness needs and their certified personal trainers are always there for your help and support.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    384,
+    864
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1004
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    901,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 67,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/fitness-factory/",
+ "buy_likelihood": 8
+}

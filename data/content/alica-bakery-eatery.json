@@ -1,0 +1,28 @@
+{
+ "preset": "ink-paper",
+ "theme": {"bg": "#F6F4EE", "surface_2": "#E8E6DC", "accent": "#2F5D3A", "accent_text": "#2F5D3A", "on_accent": "#FFFFFF", "duo": "#CFDCCB", "busy": "#2F5D3A", "band_bg": "#1E2B20", "band_accent": "#E9D9A6", "frame": "round", "hero_ratio": "4/3"},
+ "brand": {"name": "ALICA", "sub": "Bakery / Eatery · Port de La Mer", "mark": "A", "footer_word": "ALICA"},
+ "seo": {"title": "ALICA Bakery / Eatery | Sourdough, Cardamom Buns & Breakfast at Port de La Mer, Jumeirah", "description": "ALICA Bakery / Eatery, La Côte 2, Port de La Mer, Jumeirah 1: sourdough, cinnamon and cardamom buns, folded eggs, seasonal organic plates and specialty coffee with views of the yachts. Open 8 AM daily."},
+ "hero": {"variant": "stack", "kicker": "La Côte 2 · Port de La Mer · Jumeirah 1", "title_lines": ["Sourdough, buns", "and a view of the yachts."],
+   "lede": "A neighbourhood bakery and eatery cooking with local, seasonal and organic produce: sourdough, cinnamon and cardamom buns, folded eggs and long breakfasts on the terrace by the marina.",
+   "image": "img/hero.jpg", "image_alt": "Coffee on a marble table on ALICA's terrace facing the marina", "secondary": {"label": "What to order", "href": "#menu"}},
+ "cta_label": "Call to reserve", "proof_note": "959 reviews",
+ "address_lines": ["ALICA Bakery / Eatery, La Côte 2", "2A PDLM Street, Port de La Mer, Jumeirah 1, Dubai"],
+ "ticker": ["Sourdough", "Cardamom bun", "Cinnamon bun", "Folded eggs", "Lemon cake", "Matcha", "Marina views"],
+ "sections": [
+  {"type": "services", "id": "menu", "nav": "Menu", "eyebrow": "What to order", "title": "Baked here,", "title_dim": "every morning.",
+   "items": [
+    {"name": "Breakfast plates", "feature": true, "img": "img/spread.jpg", "alt": "Breakfast spread with eggs, bread and dips", "desc": "Folded eggs, sourdough and seasonal sides.", "quote": "Had such a lovely breakfast experience. The breakfast was absolutely delicious and beautifully presented.", "cite": "Bites & Flights with Sana"},
+    {"name": "Buns & pastries", "img": "img/pastries.jpg", "alt": "Pastry counter with buns and cakes", "desc": "Cinnamon and cardamom buns, croissants and lemon cake."},
+    {"name": "Sourdough", "img": "img/eggs.jpg", "alt": "Folded eggs with sourdough", "desc": "Long-fermented loaves to eat in or take home."},
+    {"name": "Specialty coffee & matcha", "img": "img/latte.jpg", "alt": "Latte art in a striped cup", "desc": "Espresso drinks, matcha and iced coffees."}
+   ],
+   "perks": ["Open daily from 8 AM", "Terrace with marina views", "Local, seasonal & organic"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Get a terrace table", "title": "Weekday mornings", "title_dim": "are the calmest."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Say hi to", "title": "Ron.", "title_dim": "Hospitality in person.",
+   "items": [{"name": "Ron", "count": 4, "role": "Host", "quote": "Their pastry and sourdough are on the spot. Thank you Ron for his hospitality.", "cite": "Google reviewer"}]},
+  {"type": "gallery", "images": [{"src": "img/facade.jpg", "alt": "ALICA entrance at night"}, {"src": "img/interior.jpg", "alt": "Bright interior with paper lanterns", "wide": true}, {"src": "img/coffees.jpg", "alt": "Coffees on the terrace"}, {"src": "img/platter.jpg", "alt": "Brunch platter"}, {"src": "img/yachts.jpg", "alt": "Yachts in the marina"}, {"src": "img/entrance.jpg", "alt": "Planters by the entrance"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Port de La Mer,", "title_dim": "Jumeirah."}
+ ]
+}

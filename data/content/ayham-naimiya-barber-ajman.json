@@ -1,0 +1,25 @@
+{
+ "preset": "barber-ink",
+ "theme": {"accent": "#D4AF37", "accent_text": "#E2C25B", "on_accent": "#14110A", "duo": "#4A3D1C", "busy": "#9C7F2A", "band_accent": "#8C6E1E", "frame": "slant", "hero_ratio": "4/3"},
+ "brand": {"name": "Aiham", "sub": "Barber Shop · Al Nuaimia", "mark": "A", "footer_word": "AIHAM"},
+ "seo": {"title": "Aiham Barber Shop Ajman | صالون أيهم النعيمية 2 · King Faisal Street", "description": "Aiham Barber Shop, 67 King Faisal Street, Al Nuaimia 2, Ajman: Egyptian barbers for fades, beard styling and grooming, with coffee and Wi-Fi. Open daily 10 AM to midnight. Rated 5.0 from 185 reviews."},
+ "hero": {"variant": "split", "ar_name": "صالون أيهم", "kicker": "67 King Faisal Street · Al Nuaimia 2 · Ajman", "title_lines": ["Clean cuts.", "Respectful service.", "Open till midnight."],
+   "lede": "Egyptian barbers Saleh, Saber and Hani on King Faisal Street, with fades, beard work and facials, a coffee while you wait and a perfect 5.0 from 185 customers.",
+   "image": "img/hero.jpg", "image_alt": "Aiham Barber Shop interior with leather chairs and wood floors", "secondary": {"label": "Barbers", "href": "#team"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "مرحبا، أريد حجز موعد / Hi, I'd like to book a haircut.",
+ "proof_note": "Perfect 5.0",
+ "address_lines": ["Aiham Barber Shop, 67 King Faisal Street", "Al Nuaimia 2, Ajman"],
+ "socials": {"instagram": "_aiham.barbershop", "tiktok": "aiham.barbershop"},
+ "ticker": ["Fades", "Beard styling", "Facials", "Kids cuts", "Coffee & Wi-Fi", "Open till midnight"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "layout": "list", "eyebrow": "Services · الخدمات", "title": "Classy service,", "title_dim": "every visit.",
+   "items": [{"name": "Haircut & fade", "desc": "Modern and classic cuts."}, {"name": "Beard styling", "desc": "Shaping, line-up and hot towel."}, {"name": "Facial & mask", "desc": "Cleansing masks and grooming."}, {"name": "Kids' haircuts", "desc": "Patient with young clients."}],
+   "perks": ["Open daily 10 AM – 12 AM", "Coffee & Wi-Fi", "Instagram & TikTok @aiham.barbershop"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Walk in", "title": "Skip the", "title_dim": "evening queue."},
+  {"type": "team", "id": "team", "nav": "Barbers", "eyebrow": "The barbers", "title": "Saleh, Saber", "title_dim": "and Hani.",
+   "items": [{"name": "Saleh", "count": 3, "role": "Barber", "quote": "The salon is really nice and smells good, and Saleh is professional at cutting hair.", "cite": "Anaz O."}, {"name": "Saber", "count": 3, "role": "Barber"}, {"name": "Hani", "count": 4, "role": "Barber"}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Aiham Barber Shop storefront", "wide": true}, {"src": "img/front.jpg", "alt": "Shop front at night"}, {"src": "img/barber.jpg", "alt": "Barber smiling"}, {"src": "img/client.jpg", "alt": "Happy client"}, {"src": "img/mask.jpg", "alt": "Facial mask treatment"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "King Faisal Street,", "title_dim": "Ajman."}
+ ]
+}

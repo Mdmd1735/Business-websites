@@ -1,0 +1,1381 @@
+{
+ "slug": "ifthar-restaurant-al-quoz",
+ "name": "Ifthar Restaurant (Al Quoz)",
+ "place_id": "ChIJAS0uLwBpXz4Re1BkoUwOwIc",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Al Quoz, Dubai",
+ "address": "Herbz Ayurvedic Center LLC - Ground Floor - Al Asayel St - behind Al Khail Mall - Al Qouz Fourth - Al Quoz - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.1516688,
+  "lng": 55.2500882
+ },
+ "phone": "+971 50 222 1027",
+ "rating": 4.5,
+ "userRatingCount": 683,
+ "rating_distribution": {
+  "oneStar": 55,
+  "twoStar": 9,
+  "threeStar": 19,
+  "fourStar": 80,
+  "fiveStar": 520
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Ifthar%20Restaurant%20(Al%20Quoz)&query_place_id=ChIJAS0uLwBpXz4Re1BkoUwOwIc",
+ "website": "",
+ "categories": [
+  "Family restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "6 AM to 2 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "6 AM to 2 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "6 AM to 2 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "6 AM to 2 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "6 AM to 2 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "6 AM to 2 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "6 AM to 2 AM"
+  }
+ ],
+ "owner_description": "Ifthar Restaurant is a trusted family dining destination in Al Quoz, Dubai, serving authentic Kerala and Malabar cuisine since 2024. Ifthar brand originally began its journey in 2016, building experience in the food and hospitality industry. Located at Al Ameed Plaza, Herbz Ayurvedic Center LLC - Ground Floor, Al Asayel Street, behind Al Khail Mall, Al Quoz Fourth, we bring rich flavors, traditional recipes, and homely taste that connects you to Kerala in every bite.\nFrom hot porotta and beef roast to biriyani, Kerala meals, chai, and signature dishes, every item is prepared with freshness, care, and authenticity. As a popular Malabar restaurant in Al Quoz, we are known for quality food, affordable pricing, and a family-friendly atmosphere",
+ "amenities": {
+  "Service options": [
+   {
+    "Outdoor seating": true
+   },
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Drive-through": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "All you can eat": true
+   },
+   {
+    "Braille menu": true
+   },
+   {
+    "Coffee": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Organic dishes": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   },
+   {
+    "Vegetarian options": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Counter service": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Family-friendly": true
+   },
+   {
+    "Groups": true
+   }
+  ],
+  "Payments": [
+   {
+    "Checks": true
+   },
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   },
+   {
+    "Has changing table(s)": true
+   },
+   {
+    "High chairs": true
+   },
+   {
+    "Kids' menu": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Paid street parking": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "ifthar",
+  "biriyani",
+  "avocado charcoal",
+  "chicken charcoal",
+  "falooda",
+  "shawarma",
+  "seafood bucket",
+  "grill fish",
+  "momos",
+  "polite staff"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 24
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 22
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 22
+   }
+  ],
+  "We": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 18
+   }
+  ],
+  "Th": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 23
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 32
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 5,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 39
+   }
+  ]
+ },
+ "owner_reply_rate": 0.7,
+ "reviews": [
+  {
+   "author": "Alog Akku",
+   "rating": 4,
+   "when": "6 months ago",
+   "text": "Had a great experience at this iftar restaurant in Al Quoz. The food was fresh, well-prepared, and offered a good variety—perfect after a long day of fasting. The ambiance was calm and welcoming, and the staff were attentive and respectful throughout. Everything was well-organized. Definitely a good spot to enjoy iftar with family or friends. Recommended!",
+   "owner_reply": "Thank You For Your Kind Words, Alog Akku! <br><br>We’re Happy You Enjoyed The Food And Ambiance At Our Restaurant In Al Quoz. <br><br>Hope To Welcome You Again Soon For Another Great Dining Experience!"
+  },
+  {
+   "author": "Shabeer",
+   "rating": 5,
+   "when": "Edited 10 months ago",
+   "text": "Absolutely loved my experience at Ifthar Restaurant! The food tasted amazing, especially the biryani and grill items. The staff are super friendly and make you feel at home right away. The place is clean, comfortable and great for families too. I highly recommend this restaurant to anyone who enjoys delicious food and great service!",
+   "owner_reply": null
+  },
+  {
+   "author": "prasoon kumar",
+   "rating": 1,
+   "when": "6 months ago",
+   "text": "Very disappointing experience. We ordered a normal  chicken charcoal , but were delivered a spicy version instead. When we contacted the restaurant and shared pictures, they insisted that what we received was their “normal”  chicken charcoal , which is simply not true.\n\nWe’ve had  chicken charcoal from many places before, and this was completely different and clearly spicy. The lady staff member who took our order refused to acknowledge the mistake and was not willing to offer a replacement.\n\nPoor customer service and lack of accountability. Definitely not recommended.",
+   "owner_reply": "Thank you, Prasoon Kumar, for sharing your feedback.<br><br>We’re sorry to hear about your experience and regret the inconvenience caused with your order and service. Your concerns are taken seriously and will be reviewed to ensure better clarity and consistency in the future.<br><br>We truly hope you’ll give us another chance to serve you better on your next visit."
+  },
+  {
+   "author": "Rehan Thekia",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Ifthar is an amazing place to have your food. They have very tasty sputh indian food.\n\nVery humble, professional and welcoming staff. Special thanks to Jerry who was there for us.",
+   "owner_reply": "Thank you so much for your wonderful review! 😊<br><br>We’re delighted to hear that you enjoyed our tasty South Indian dishes and had a great dining experience at Ifthar. Your kind words about our humble, professional, and welcoming staff truly mean a lot to us.<br><br>A special thank you for mentioning Jerry — we’ll be sure to pass along your appreciation. He’ll be so happy to know he made your visit even more memorable!<br><br>We look forward to welcoming you back again soon. 🌟"
+  },
+  {
+   "author": "Abdullah Hamidullaev",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I came here and welcomed with a polite staff, I had a shawarma with black tea (ginger and lemon) it was all tasted good but in the receipt they mentioned as a fresh milk tea for some reason 😅 that was a bit surprising. It was a good experience overall. There was a balance between flavors and it tasted good. I asked a staff member about sunny side up egg price but she said 4 aed for 1 egg and I think it was because of language barrier. And later they clarified it is 2 aed for 1 sunny side up egg which was a normal price outside. If you plan to visit here, you might consider language barrier but main thing is a food which is important and they nailed it. I am gonna visit here more often if they keep same taste of the food and same polite hospitality.\nVisit and try it yourself.",
+   "owner_reply": "Thank you so much for sharing your detailed feedback! 😊 We’re glad to hear that you enjoyed the shawarma, black tea, and overall flavors, and that our staff made you feel welcomed with their polite service.<br><br>We appreciate your observations regarding the receipt and the sunny side up egg price—thank you for your understanding regarding the small mix-ups. We’ll continue working on clear communication to make your experience seamless.<br><br>Your support and kind words about our food and hospitality mean a lot, and we’re thrilled to hear you plan to visit us again. We’ll make sure to keep up the same great taste and warm service! 🍽️✨"
+  },
+  {
+   "author": "Myat Noe Thu",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Great food, reasonable price and friendly service. The staff were welcoming and attentive, professional and everything we ordered tasted really good. It would be even better if they were open 24 hours because of my duty timing 🫩. Would definitely come back.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muqeet Ali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We visited once at this restaurant at the opening time. Hemant is the one who attended us and his customer service skilled are extraordinary. Most of the time we are visiting there for food for the quality and mostly his friendly behaviour. Must visit their atleast once then you will become their regular customer...",
+   "owner_reply": "Thank you so much for your heartfelt review! We're thrilled to hear that Hemant made such a great impression—he truly is a valued member of our team. It's wonderful to know that the food quality and friendly service keep you coming back. Your support means the world to us, and we look forward to welcoming you again soon!"
+  },
+  {
+   "author": "anoop Balachandran",
+   "rating": 5,
+   "when": "Edited 8 months ago",
+   "text": "Great food and a nice ambience. What impressed me most was the staff and manager’s kindness. They went out of their way to help a nearby family take care of their child so they could enjoy their meal peacefully. Really heartwarming service. Highly recommended…",
+   "owner_reply": "Thank you so much for your valuable feedback"
+  },
+  {
+   "author": "Sai",
+   "rating": 4,
+   "when": "6 months ago",
+   "text": "Visited this restaurant recently and had a pleasant experience overall. The food was decent—we ordered a thali, which was quite good and satisfying. The ambience was comfortable and suitable for dining in.\n\nWhat truly stood out was the service. The serving staff were excellent, and a special mention goes to Ms. Manu. Even during busy hours, she served us with remarkable patience, a warm smile, and genuine kindness. She made sure to check with each of us personally on what we needed, which added a very thoughtful touch to the experience.\n\nWishing her all the best—God bless her for such wonderful service.",
+   "owner_reply": "Thank you, Sai, for dining at Ifthar Restaurant and sharing your valuable feedback.<br><br>We’re glad you enjoyed the authentic Indian thali experience at Ifthar Restaurant and appreciated our service and ambience. Your kind words about Ms. Manu’s hospitality truly mean a lot, she will be happy to hear this.<br><br>We look forward to welcoming you again soon for more great meals and warm service!"
+  },
+  {
+   "author": "Karthikeyan Parani Raj",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Their rubi charcoal chicken was absolutely delicious — full of flavor and perfectly cooked. I really loved it. What made the experience even better was the service. The staff were incredibly friendly, which is honestly rare to find these days.\n\nOverall, I enjoyed everything — the food, the service, and the welcoming atmosphere. Definitely a 10/10. Highly recommend if you’re in Al Quoz and enjoy spicy food!",
+   "owner_reply": "Thank you, Karthi Keyan, for your review of Ifthar Restaurant.<br><br>We’re glad you enjoyed the Rubi charcoal chicken and authentic spicy Indian flavors.<br><br>We truly appreciate your recommendation and look forward to serving you again soon!"
+  },
+  {
+   "author": "Shinan Shinu",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "1. Good Customer Rating\n\nAl Ifthar Restaurant has high ratings from customers, which means most people enjoyed the food and service.\n\n2. Tasty Food & Fresh Quality\n\nMany customers say the food is fresh, flavorful, and well-cooked, especially their breakfast and Malabari dishes.\n\n3. Value for Money\n\nThe restaurant offers good portion size for a reasonable price, so it’s budget-friendly.\n\n4. Clean and Comfortable\n\nThe dining area is clean, neat, and comfortable, making it a nice place to sit and eat peacefully.\n\n5. Friendly Staff\n\nPeople often mention that the staff is polite, fast, and helpful, which makes the experience better.\n\n6. Easy Location\n\nIt is located in Al Quoz, which is easy to reach and has enough space around.I’m",
+   "owner_reply": null
+  },
+  {
+   "author": "Kannan Kulandhaivelu",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "It's not a fake review. While I thought of reviewing and giving 5 stars, I had a thought crossing my mind that people would think that this is a fake review. NO. I had gone with my family last Monday evening just randomly while we were driving around. We ordered Charcoal pepper chicken as the girl recommended it for a less spicy chicken for my 9 years old daugter. It was properly marinated and tasted awesome on its own. With the mango sauce it was even more great. All three types of sauces were very fresh and tasty like the chicken itself. 48 Aed is worth the good sizes of 4 pieces of chicken.\n\nAnd the mango falooda for 12 Aed is so fresh and good. so we ordered one more.\n\nMy wife like the veg panneer butter masala which was again properly marinated and awesome taste.\n\nAmbience is v good with cleanliness. seems some 7 months old restaurant.\n\nHope the managment maintains the food and ambience this way.\nGod bless!",
+   "owner_reply": "Dear Kannan Kulandhaivelu,<br><br>Thank you so much for taking the time to share such a detailed review and for visiting Ifthar Restaurant with your family. We’re delighted to know you had a memorable dining experience and appreciated our food quality, ambience, and service.<br><br>Your kind words and support encourage our team to continue maintaining the same standards and hospitality. We look forward to welcoming you and your family again soon."
+  },
+  {
+   "author": "Luxe Akh",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "We had a wonderful dinning experience.The food was delicious,fresh,and served quickly.A special thanks to Manu for the excellent service - friendly, attentive.and very welcoming throughout our visit.\n\nThe chicken soup was absolutely amazing! It was so flavourful and comforting that it made us want to ask for the recipe. Compliments to the chef for such a wonderful dish.",
+   "owner_reply": null
+  },
+  {
+   "author": "Aafaque kazi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Good service and nice food! We had the grilled fish — it was number one in taste! The charcoal chicken was also very tasty. Miss Manu gave us great advice and excellent service.\nHighly recommended!",
+   "owner_reply": "Thank you so much for your wonderful feedback! We’re thrilled to hear you enjoyed the grilled fish and charcoal chicken, and that Manu made your experience even better with her excellent service and advice. We really appreciate your recommendation and can’t wait to welcome you back for another delicious visit!"
+  },
+  {
+   "author": "Aashesh",
+   "rating": 3,
+   "when": "10 months ago",
+   "text": "Mr. Jerry took really good care of us during our visit. He was attentive, friendly, and made sure everything was perfect throughout our meal. His excellent service truly enhanced our dining experience. Highly appreciated!",
+   "owner_reply": "Thank you so much for your wonderful feedback! 😊 We’re delighted to hear that Mr. Jerry made your dining experience so special with his attentiveness and friendly service. Your kind words mean a lot to him and to our entire team.<br><br>We look forward to welcoming you back for another excellent experience soon! 🍽️✨"
+  },
+  {
+   "author": "Ramith Das",
+   "rating": 1,
+   "when": "a month ago",
+   "text": "I had a very bad experience with your takeaway service.\nWe ordered one chicken charcoal, and we were told that complimentary soup is provided. However, the soup was not included with our takeaway order. I asked the lady receiving the order about it, but she refused to provide the soup and explained that it is only given to customers dining in.\n\nThis was very disappointing, especially since many restaurants provide complimentary soup with chicken charcoal orders, including for takeaway customers.\n\nThe way this issue was handled and the customer service we received were also very unpleasant. I hope you will look into this matter and improve your service and staff’s approach toward customers",
+   "owner_reply": null
+  },
+  {
+   "author": "pervez kazi",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Great place to have sea food.\nVery  pleasant staff and Miss Manu is always with happy to serve.",
+   "owner_reply": "Thank You For Your Feedback! <br><br>We’re Glad You Enjoyed The Seafood And Appreciated The Service. <br><br>Hope To Welcome You Again For Another Great Dining Experience!"
+  },
+  {
+   "author": "Aneesh Siva",
+   "rating": 3,
+   "when": "4 months ago",
+   "text": "The staff provided excellent service and were attentive throughout our visit. The ambience is pleasant and welcoming. During peak hours it can feel bit crowdy.\n\nThe food quality was generally good, and several dishes were enjoyable. However, few items did not quite meet the expectations as they recommended.",
+   "owner_reply": "Thank you for sharing your feedback, Aneesh!<br><br>We’re glad to hear you enjoyed our service, ambience, and many of our dishes.<br><br>We also appreciate your honest feedback regarding some of the recommended items. Your comments help us improve and serve you better.<br><br>We hope to welcome you again at Ifthar Restaurant for an even better experience soon!"
+  },
+  {
+   "author": "Razik Cm",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Amazing Iftar experience in Al Quoz. The service was excellent and all the staff were very polite and well behaved. The food was fresh, tasty, and really well prepared. Everything was perfectly managed and the atmosphere was great.\n\nOne of the best Iftar places in Al Quoz highly recommended!",
+   "owner_reply": "Thank You, Razik Cm! <br><br>We’re Happy You Enjoyed The Iftar Dining Experience. <br><br>We Truly Appreciate Your Recommendation And Hope To Serve You Again Soon!"
+  },
+  {
+   "author": "Sumayya KA",
+   "rating": 2,
+   "when": "4 months ago",
+   "text": "Today we had a strange experience at Iftar. The staff recommended a special item called Lime Butter Chicken Charcoal, which was not even listed on the menu. Unfortunately, it had almost no flavor and was disappointing overall. I would rate the taste 2/5.\n\nWhat was even more surprising was that we were charged AED 32 for a half charcoal portion, which did not feel worth the price at all. Now I understand why this item may not be included on the regular menu. I hope the restaurant improves the quality and value of such recommendations in the future.",
+   "owner_reply": "Dear Sumayya KA, thank you for taking the time to share your feedback and for visiting Ifthar Restaurant. We sincerely regret that your experience with our Lime Butter Chicken Charcoal did not meet your expectations. We always aim to serve authentic, flavorful dishes and provide a satisfying dining experience for every guest.<br><br>We appreciate your comments regarding the taste, recommendation, and pricing, as feedback like yours helps us improve our food quality and service standards. At Ifthar Restaurant, customer satisfaction is very important to us, and we will share your concerns with our team for review. We hope you will give us another opportunity to serve you and provide the true taste and hospitality we strive for."
+  },
+  {
+   "author": "Aneesh Pappachan",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "Extremely disappointing experience. Food quality has significantly declined despite high pricing, making the dining experience poor value for money. Taste, freshness, and portion sizes were all below expectations.\nEven more disappointing was the customer service. Complaints were not handled professionally, and there was little respect shown toward customer concerns or feedback. A restaurant should not only focus on charging premium prices but also on maintaining food standards, proper service, and basic respect for customers.\nThe manager’s behavior and attitude were disappointing. He appeared dismissive, unapproachable, and uninterested in customer concerns. Complaints were not handled professionally, and there was little appreciation shown toward regular customers. As a repeat customer, this experience has made me decide not to visit again, and I would rather choose better neighboring restaurants that value customer satisfaction.",
+   "owner_reply": "Dear Aneesh Pappachan,<br><br>We sincerely regret that your recent visit to Ifthar Restaurant did not meet your expectations.<br><br>We understand how important it is for guests to enjoy consistent food quality, fair value, and respectful service. It is disappointing to hear that your experience fell short in these areas. Situations like this are not reflective of the standards we aim to maintain for every guest who walks in.<br><br>Your concerns have been shared with our team for careful review, and we will be paying closer attention to both service approach and guest handling to ensure a more welcoming and comfortable experience going forward.<br><br>We genuinely hope you may consider giving us another chance in the future to provide you with a much improved experience."
+  },
+  {
+   "author": "Musthafa Kummil",
+   "rating": 4,
+   "when": "2 months ago",
+   "text": "Excellent dinner experience! Loved the ambience and the service was top-notch. The Charcoal Chicken was super tasty and perfectly cooked. Everything from the food quality to the vibe was great. Will definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Semjon Wächter",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Yes, yes and once more yes! A trained eye on google search gifted us this lucky draw. A true surprise with excellent food and even better service (big shoutout to Jerry)! And all at fairest pricing!\nWe can basically recommend everything from grill platter to shawarma, salads, dips, bone broth, dessert and many more. The food was so amazing that we only remembered taking pictures after the feast…so we will have to come back — also to try the venue’s speciality: the charcoal avocado chicken. See you soon!",
+   "owner_reply": null
+  },
+  {
+   "author": "Prathista RD",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Had an experience eating VEG KIZHI PAROTTA. It was very tasty with more panner. They prioritize customer thought and needs 1st. The way they treat the customer is also too fine. We are visiting here now the second continuous day. The price is also reasonable. Most suggested restaurant in UAE!!!",
+   "owner_reply": "Thank you so much for your wonderful feedback! We're absolutely delighted to hear that you enjoyed our Veg Kizhi Parotta, especially the generous portion of paneer—it’s one of our signature dishes, and we’re so glad it hit the mark for you.<br><br>It means a lot to us that you felt well taken care of. Prioritizing our guests' thoughts and needs is at the heart of what we do, and your kind words truly reaffirm that commitment. We're especially thrilled to know that you enjoyed the experience so much that you visited us two days in a row—what an honor!<br><br>Your mention of our reasonable pricing and recommendation as one of the most suggested restaurants in the UAE made our day. Thank you for your trust and support—it inspires our entire team to keep delivering memorable experiences.<br><br>We can’t wait to welcome you back again soon!"
+  },
+  {
+   "author": "Abraham Abid",
+   "rating": 1,
+   "when": "a month ago",
+   "text": "Very disappointing experience. The customer service was extremely poor, and there was absolutely no respect for customers. The staff did not seem to care about the customer’s concerns or experience. Food quality can sometimes vary, but treating customers with basic respect should never be optional. Definitely not coming back here",
+   "owner_reply": null
+  },
+  {
+   "author": "solu mathew",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Food is good,and the service too. The guy who served is highly energetic,great In knowledge  and super  professional,very hard to find the staff like these now a days .I know the place is new ,please maintain the same consistency.All the best",
+   "owner_reply": null
+  },
+  {
+   "author": "tRend_ ShafF_dxb",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "We had a very nice experience. Dev was very friendly, attentive, and provided excellent service throughout our visit. He made sure everything was comfortable and always checked if we needed anything. The food was very delicious, and the prices were very reasonable for the quality and portion size. Overall, we really enjoyed the service, food, and atmosphere. Highly recommended, and special thanks to Dev for the great hospitality.",
+   "owner_reply": "Thank You So Much For Your Kind Words!<br><br>We’re Happy To Hear You Had A Wonderful Experience At Ifthar Restaurant And That Dev Took Great Care Of You Throughout Your Visit.<br><br>We Truly Appreciate Your Support And Look Forward To Welcoming You Again For Another Great Dining Experience At Our Authentic Kerala Restaurant!"
+  },
+  {
+   "author": "afsal ponani",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "\"A standout Iftar destination in Al Quoz. The food from IFTHAR Restaurant is consistently authentic and flavorful, reflecting the high standards of their supplier, Mr.Deva'a.\n\nWhat makes this place truly special is the hospitality. Mr.Abdu at the cash counter is exceptionally friendly and welcoming; his warm service adds a personal touch that makes you feel right at home. Highly recommended for anyone looking for great food and even better service.\"",
+   "owner_reply": "Thank you so much for your thoughtful and detailed review! 🌙✨<br><br>We’re truly honored to be considered a standout Iftar destination in Al Quoz. It’s wonderful to know that you enjoyed the authentic and flavorful food from IFTHAR Restaurant and that the quality consistently meets your expectations.<br><br>Your kind words about Mr. Deva and his high standards mean a lot to us. We’re equally grateful for your special mention of Mr. Abdu — his friendly and welcoming nature is something we’re very proud of, and we’ll be sure to share your appreciation with him.<br><br>Creating a warm, homely atmosphere with great food and heartfelt hospitality is what we strive for every day. Thank you for your high recommendation — we look forward to welcoming you back again soon! 😊"
+  },
+  {
+   "author": "Mazhood bin Saidalavi",
+   "rating": 5,
+   "when": "Edited 5 months ago",
+   "text": "\"I recently visited this restaurant and had a mixed experience. While the food was excellent and the service staff were very hardworking and polite, the behavior of the lady manager (wearing a striped shirt) was extremely disappointing.\nAs a long-time expat (16 years), I have rarely encountered such an arrogant and indifferent attitude from someone in a leadership role. Despite seeing that the service staff were busy and I needed assistance, she showed no interest in helping or engaging with the customers. She acted as if the place couldn't run without her, yet her lack of basic hospitality was evident.\nIn an area with so many dining options, customer service is just as important as food quality. I hope the management takes note of this, as such a poor attitude from a manager can easily drive away loyal customers.\"",
+   "owner_reply": "Dear Mazhood bin Saidalavi,<br><br>Thank you for taking the time to share your feedback with us. We truly appreciate your kind words about our food and the efforts of our hardworking staff.<br><br>At the same time, we are genuinely sorry to hear that our customer service did not meet your expectations. Providing a warm and welcoming dining experience is very important to us, and we regret that we fell short during your visit.<br><br>Your feedback has been noted carefully and will be addressed internally so we can continue improving our service standards. We sincerely hope to have the opportunity to welcome you again and provide you with the experience you truly deserve."
+  },
+  {
+   "author": "M. Hemati",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Such great good, way better than what you expect. Location is hidden end not in best area, but food is just AMAZING!!\nAnd Manu is the great host, really caring. Thanks",
+   "owner_reply": "Thank you, M. Hemati, for visiting Ifthar Restaurant.<br><br>We’re glad you enjoyed the food and had a great experience with our team. We appreciate your feedback and look forward to welcoming you again for more amazing dishes."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/ifthar-restaurant-al-quoz/",
+ "buy_likelihood": 8
+}

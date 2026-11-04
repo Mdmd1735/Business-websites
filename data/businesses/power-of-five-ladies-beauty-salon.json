@@ -1,0 +1,545 @@
+{
+ "slug": "power-of-five-ladies-beauty-salon",
+ "name": "Power of Five Ladies Beauty Salon",
+ "place_id": "ChIJs909jE5pXz4RtKSpN4vHHUI",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Quoz, Dubai",
+ "address": "3A Street Al Meydan Rd - Al Qouz First - Al Quoz - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.175545,
+  "lng": 55.2554744
+ },
+ "phone": "+971 58 278 4980",
+ "rating": 4.9,
+ "userRatingCount": 134,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 0,
+  "fourStar": 3,
+  "fiveStar": 130
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Power%20of%20Five%20Ladies%20Beauty%20Salon&query_place_id=ChIJs909jE5pXz4RtKSpN4vHHUI",
+ "website": "https://www.facebook.com/profile.php?id=100089231506740",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 8 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 8 PM"
+  }
+ ],
+ "owner_description": "Reveal Your True Self",
+ "amenities": {
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "keratin treatment",
+  "threading",
+  "contemporary ambiance",
+  "blow dry",
+  "foot scrub and massage",
+  "deep cleanse facial",
+  "eyelash extensions",
+  "botox",
+  "friendly staff",
+  "nail technician"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Ruwini Madawala",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Anna did a fantastic hair treatment today. She was so attentive, and so professional. My hair was dry and damaged. She did a botox treatment, full color, cut and a blow dry. I was treated with a lovely snack and tea. I highly recommend Anna.",
+   "owner_reply": "Thank you so much for your lovely review Ms Ruwini! We’re so happy to hear that you’re happy with your hair and that you enjoyed your experience with Anna. She’ll be so happy to hear your kind words! We’re glad you enjoyed the little snack and tea as well. Thank you for trusting us with your hair and for recommending Anna. We truly appreciate it and hope to see you again soon!"
+  },
+  {
+   "author": "Jhoana Mhay Ortega",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Amazing service! My nail technician Aileen & Mary Jane was professional, detail-oriented, and did a beautiful job. My nails turned out exactly how I wanted them. Highly recommend, and I'll definitely be coming back! 💅✨",
+   "owner_reply": "Thank you so much for your wonderful review Ms Jhoana!  We’re delighted to hear that you had an amazing experience with Aileen and Mary Jane. Their professionalism, attention to detail, and passion for creating beautiful nails truly make a difference. We’re so happy that you loved your nails and we can’t wait to welcome you back again for another relaxing salon experience. Thank you for recommending Power of Five Ladies Beauty Salon! "
+  },
+  {
+   "author": "Ramya Yerra",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I got manicure by Aileen and hair cut by Anne! This is salon is a gem find!! They were extremely professional and I would come here again for sure. The receptionist was swift in her communication as well.",
+   "owner_reply": "Thank you so much for your wonderful review Ms Ramya! We’re delighted to hear that you had a great experience with Aileen for your manicure and Anne for your haircut. Your kind words about our team and receptionist mean a lot to us. We strive to provide professional service and a welcoming atmosphere for every client. We truly appreciate your support and look forward to welcoming you back to our salon soon!"
+  },
+  {
+   "author": "Khristine Marie Macasaet",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I booked haircut on this salon and Irene did a great job for my hair. She knows what style best for you and they are very friendly in salon. Price is good too. I recommend this salon and will come back for more services soon.",
+   "owner_reply": "Thank you Ms. Khristine for the wonderful review, we always make sure that all our clients, whether first time or regular, will surely be satisfied with our services."
+  },
+  {
+   "author": "Lhery David",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Absolutely love my nails! The technician did an amazing job, and the whole experience was relaxing and enjoyable. Great service, great atmosphere, and I'll definitely be back! 💅✨",
+   "owner_reply": "Thank you for your kind words Ms Lhey! It makes us so happy to know you had such a wonderful experience and left loving your nails. We appreciate your trust in our team and look forward to pampering you again soon! "
+  },
+  {
+   "author": "Aishani Shamsdin",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I really love this saloon! I went there to do my keratin for my hair because of having a rough hair texture and so I can change my looks. Turned out really amazing! I really recommend Irene for hair. Sharing my before and after photos. Thank you Power of Five Ladies Beauty Salon!💛",
+   "owner_reply": "We are very much thankful Ms. aishani for the wonderful review.It is our pleasure to provide best possible service to our clients, and we are glad that this commitment was reflected in your visit. You are most welcome and thank you for future recommendations."
+  },
+  {
+   "author": "Sanusha Shannu",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "It was an great experience with the team in saloon , they are very professional & they will do the service as we recommend, I'm highly satisfied.",
+   "owner_reply": "Thank you for your wonderful feedback Ms Sanusha!  It was our pleasure to serve you. We’re delighted that our team’s professionalism and attention to your preferences made your visit enjoyable. We look forward to welcoming you back for another exceptional salon experience. "
+  },
+  {
+   "author": "Lilian Martin",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Power of Five Ladies Salon..cheers💃staffs were friendly,professional,skilled,and the salon is clean,relaxing,welcoming..they paid great  attention to details ( services ) ,quite affordable ,i have a great experience with them ,they are totally exceptional.I highly recommend this Salon to everyone looking for a high-quality services ..I will definitely come back ..!!!",
+   "owner_reply": "Thank you so much for your wonderful review and recommendation Ms Lilian! We truly appreciate your kind words about our friendly team, professional service, and welcoming salon environment. It means so much to know you enjoyed your experience and found our services to be of great value. Your support inspires us to continue providing the highest quality beauty services. We can’t wait to welcome you back to Power of Five Ladies Beauty Salon for another exceptional experience. See you again soon!"
+  },
+  {
+   "author": "Fiona Gonsalves",
+   "rating": 5,
+   "when": "Edited 3 months ago",
+   "text": "This time, my hair Botox treatment was done by Anna, and she did an amazing job. She was incredibly patient and even stayed beyond her working hours to ensure I received the best possible treatment. I truly appreciate her dedication and attention to detail.\nI had a wonderful experience and left feeling so happy with the results. I would highly recommend Anna and encourage everyone to give this salon a try!\n\nI was suggested to get my hair Botox done at this salon by a friend and I’m happy to say that I had a delightful experience. The staff is very kind and patient. I am in love with my hair. I was being attended by Cathie and she gave me tips and tricks too as to how to maintain my hair. I recommend all to come and have a similar experience as mine.",
+   "owner_reply": "Thank you so much Ma'am for taking the time to leave a positive review. We are delighted to hear that you had a great experience at our salon. We strive to provide the best service possible and your feedback is greatly appreciated. We look forward to seeing you again soon Ms Fiona❤️"
+  },
+  {
+   "author": "M M",
+   "rating": 1,
+   "when": "5 months ago",
+   "text": "They had an Eid offer which should have been a warning in itself. I went for a pedicure on offer and came back bruised with a wound and pus the following day. Even manicure had me bleeding. Staff is not professional with very little to no experience. Not recommended",
+   "owner_reply": "Thank you for your message, and please accept our apologies for the delayed response due to the Eid holiday.<br>We are sorry to hear about your experience. Please note that we remain available to support our clients even after services, and we take all concerns seriously. At the same time, we stand by the professionalism and standards upheld by our team, which we believe are not reflected in the characterization provided.<br>As a gesture of goodwill, we would be happy to offer you a complimentary assessment and retouch at your convenience. Alternatively, should you prefer not to proceed, we are willing to refund the AED 80 paid."
+  },
+  {
+   "author": "Riza Jam",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Got my lash extensions done there. Great finish and the service is excellent. They also offer different services to choose from perfect for refresh.💆🏻‍♀️✨",
+   "owner_reply": "Thank you so much for your wonderful review Ms Riza! We’re delighted to hear that you loved your lash extensions and enjoyed our service. We’re happy to be your go-to place for a little refresh and self-care! We look forward to welcoming you back again soon. "
+  },
+  {
+   "author": "TheCozychapter",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "I’ve been coming for 2years almost every other week. The staff is amazing. Cathy always make sure I am well take care of. Salon is spotless and clean!!! I actually come because she is the best blow dry hairstylist I ever had in many salon trial in Dubai. Her technique is actually superior and I always end up with the best blow dry. If I ever leave for she leave it would devastating !",
+   "owner_reply": "Thank you so much for your incredible loyalty and for trusting us for the past two years Ma'am! Cathy will be so touched by your kind words. We’re also delighted that you appreciate our clean and welcoming space. We look forward to seeing you again very soon!"
+  },
+  {
+   "author": "Rajean Quilala",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I booked. They came. I got pampered!\nFeeling relaxed, refreshed and ready for next week's hustle! Thank you so much Dianne and Tess my nails will never be the same!  Lala, your magic touch got me looking forward to the next session!",
+   "owner_reply": "<br>Thank you very much Ms Rajean. It sounds like you had a fantastic experience! Dianne, Tess, and Lala seem to have made your pampering session truly special. It's wonderful to hear that you're feeling relaxed and rejuvenated. Treat yourself well, and enjoy the feeling of being pampered!"
+  },
+  {
+   "author": "Abby oOligo",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Very good service..recommendable for your future plans if you’d like to do your saloon things😘",
+   "owner_reply": "Thank you so much for your lovely review and recommendation Ms Abby! We’re so happy you enjoyed our service. Your support means a lot to us, and we look forward to welcoming you back to Power of Five Ladies Beauty Salon for your next beauty refresh! "
+  },
+  {
+   "author": "Marina Faustino",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently visited power of five ladies saloon and had an exceptional experience from start to finish. The staffs, most especially the manager Ms. Michelle  was incredibly welcoming with a sweet smile when I opened the door and made sure I felt comfortable throughout my visit.\n\nI opted for a nail gel polish, threading, my  nail technician Ms. Dianne did an amazing job as always. She knows what I want 😀 as she took care my nails for almost 2 years.\n\nThe salon itself is beautifully designed, clean, and has a friendly and relaxing atmosphere. They use high-quality products.\n\nOverall, I am extremely satisfied with the service I received. I would highly recommend this salon to anyone looking for top-notch hair care, nails polish and all services for a wonderful pampering experience ( experience the proud filipino saloon service with a smile ). I will definitely be returning for my next appointment of my hair care.",
+   "owner_reply": "Thank you so much for your wonderful review Ms. Marie! We're thrilled to hear about your exceptional experience at Power of Five Ladies Salon. It's great to know that Ms. Michelle and Ms. Dianne made your visit memorable with their welcoming smiles and outstanding service. We take pride in our clean, beautifully designed salon and high-quality products, and we're delighted that you enjoyed the relaxing atmosphere.<br><br>Your recommendation means a lot to us, and we're excited to continue providing you with top-notch care for your nails, hair, and more. We look forward to seeing you at your next appointment and providing you with another wonderful <br>pampering experience!❤️<br><br>"
+  },
+  {
+   "author": "nurhuda mahmod",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Been with the same hairstylist Cathy for 18 years!!! Of course there are times I try to cheat on her but I always came back because I regret it. A professional who is honest with recommendations and actually CARE for the well being of your hair.  Very clean and convenient location. All the staff are super friendly. Always come down in my comfy clothes cos they make me feel like home. Highly recommended!! Especially on keratin services cos Cathy is very detail in her work and make sure the end result is up to perfection.",
+   "owner_reply": "Thank you so much Ms Nurhuda for your heartfelt feedback! We’re thrilled to hear about your long-lasting relationship with Cathy. It means a lot to us that you feel at home in our salon and appreciate the care and attention our team provides. We’re proud of Cathy’s dedication to perfection, especially with her keratin services. Your recommendation is greatly valued, and we look forward to seeing you again soon!"
+  },
+  {
+   "author": "One21 Studio",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Best ever. Been with Cathy over 10 years now. She is truly the best",
+   "owner_reply": "Thank you so much for your wonderful review Ma'am! We are truly grateful for your loyalty and trust over the past 10 years. Cathy will be delighted to hear your kind words. It has been our pleasure to be part of your beauty journey, and we look forward to many more years of serving you. See you again soon!"
+  },
+  {
+   "author": "Jannah Marie Pangilinan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Tha salon was great and the staff are very accommodating and friendly. I will back again ❤️",
+   "owner_reply": "Thank you for your wonderful feedback Ms Jannah! It was our pleasure to serve you, and we’re so happy you felt comfortable and well taken care of. We can’t wait to welcome you back for your next visit. "
+  },
+  {
+   "author": "Sara Jaffar Ali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Really great services with Cathy, such amazing haircuts and she takes her time and gives a great service. Very good value for money. I find her services to be better than all the fancy salons and I’m always confident I’ll walk out happy with my hair.",
+   "owner_reply": "Thank you so much for your wonderful review Ms. Sara! We're delighted to hear that you've had such consistently great experiences with Cathy. She truly takes pride in her work, and your kind words mean a lot to both her and our team. It's especially rewarding to know you value her services even more than the big-name salons. We can’t wait to see you again soon!"
+  },
+  {
+   "author": "Jillian L",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Cathy is truly exceptional at hair color and styling. Her talent shines through in every transformation she creates. The amazing team at the salon consistently delivers outstanding customer service, ensuring that every visit feels special. You’ll definitely want to come back for your next appointment!",
+   "owner_reply": "Thank you so much for your wonderful review! We’re thrilled to hear you love Cathy’s work and our team’s service. We look forward to seeing you for your next appointment Ms. Chiqui❤️"
+  },
+  {
+   "author": "Marwa Jabbar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had an amazing experience at Power of Five Ladies Beauty Saloon.The staff is incredibly professional, friendly, and skilled. They took the time to understand my preferences and gave me the perfect haircut and styling. The salon is clean, well-maintained, and has a relaxing ambiance.\n\nHighly recommend this place for anyone looking for quality beauty services.",
+   "owner_reply": "Thank you so much for your kind words Ms. Marwa! We're thrilled to hear that you had such a positive experience with us. Our team works hard to make sure every client feels welcomed and leaves happy, it's wonderful to know we achieved that for you. We truly appreciate your recommendation and look forward to welcoming you back to Power of Five Ladies Beauty Saloon soon!<br>"
+  },
+  {
+   "author": "Rothel Nicdao",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently booked for a full at-home pampering session, and they absolutely exceeded my expectations! ✨\n\nThe keratin treatment left my hair silky smooth and frizz-free, and the gel polish mani and pedi were flawless—my nails have never looked better. The eyebrow, upper, and lower lip threading was done with such precision, and the technician made sure everything was perfectly shaped. The eyelash lift was a game-changer; my lashes look naturally lifted and stunning.\n\nThe team was punctual, professional, and brought the salon experience right to my home.\n\nHighly recommend ❤️",
+   "owner_reply": "Thank you very much Ms. Maria. We truly appreciate your continuous support and trust in us. Your 5-star review brightens our day. We are hoping to serve and see you again soon❤️"
+  },
+  {
+   "author": "Maya Choudry",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I recently visited this salon and had an exceptional experience. The staff was not only skilled but also friendly and attentive to my preferences. Special thanks to Irene for coloring my hair and providing an amazing haircut. The atmosphere was inviting, and the salon maintained a high level of cleanliness. I left feeling pampered and satisfied with the results. I highly recommend this salon to anyone seeking professional and personable service.",
+   "owner_reply": "We are grateful for the amazing feedback Ms. Maya. We are very confident with our  highly skilled and professional Hairdressers, to make sure that you leave our salon with utmost satisfaction. Thank you and see you soon."
+  },
+  {
+   "author": "Shreya Rajkumar",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The staff at Power of Five are so professional and welcoming . My daughter absolutely loves her new haircut , and my mother got highlights and a haircut and is very happy with the results. I have had a bad experience in the past with another salon, where the bleaching damaged my hair , so I was very hesitant to do it again , but the hairdresser was very knowledgeable and incredibly patient. She used a very mild bleach and waited for hours for it to act, and kept checking to ensure that my hair was still healthy. I truly appreciated her patience and I loved the outcome. They definitely deserve a 5 star rating , and we will surely be returning 👍😄",
+   "owner_reply": "We are very grateful for the wonderful feedback Dr. Shreya. Our clients satisfaction is our main priority and we are glad that this commitment was reflected in your visit. You are always welcome Dr. Shreya and again thank you so much."
+  },
+  {
+   "author": "Kristine A",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Easy appointments, welcoming staffs and talented employees.I can say now that this is the only salon that I trust to deal with my hair and nails.They all knew what they were doing, they were all great at their jobs and I love how my ash grey highlights came out.\nMy nail tech is amazing as well. She took her time and told me what she recommended and the outcome was perfect. Definitely recommend coming here.",
+   "owner_reply": "We are thankful for your feedback. It is our pleasure to provide the best possible service to our clients. And glad that this commitment was reflected in your visit."
+  },
+  {
+   "author": "Nouf Juma",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "wow the staff are nice and lovely, doing my hair with Cathy … she’s so lovely and the salon is cozy & clean & prices are reasonable as well loved this!",
+   "owner_reply": "Thank you so much for your beautiful review Ms. Nouf! We’re so happy to hear you had a great experience with Cathy. We’re glad you enjoyed the cozy atmosphere and found our prices reasonable. We can’t wait to welcome you back again soon!"
+  },
+  {
+   "author": "Nick Jhana",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "All the staff are friendly, the salon is clean and most importantly they are all high skilled. Kathy is an experienced hairstylist. She explained well the color, hairstyle and about hair care. The lady who did my eyelash and Eyebrow threading (sorry.. I forgot the name) is meticulous. I'll come back for sure.",
+   "owner_reply": "It sounds like you had a fantastic experience at the salon! It's great to hear that the staff were friendly, skilled, and provided thorough explanations of the services. Cathy and the meticulous lady Diane who did your eyelashes and eyebrows seem like real gems. See you on your next visit. Thank you very much Ms Jhana❤️"
+  },
+  {
+   "author": "Mirna Hammoud",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I stumbled across this salon on Facebook, and I have to say, it was one of the best coincidences in Dubai. The ladies there are super professional and really know what they're doing! They gave me proper recommendations on how to take care of my hair after the treatment, and I was super super happy with the results! I will definitely be back and recommend this hair salon to the everyone I know.",
+   "owner_reply": "We are greatful for your feedback. It is our pleasure to provide the best possible seevice to our clients. And glad that this commitment was reflected in your visit. You are always welcome in our salon and thank you so much for trusting us."
+  },
+  {
+   "author": "Darakhshan Syeddain",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "I recently got the protein treatment and I am extremely happy with the results. My hair is now much smoother and easier to manage, and it looks and feels healthier. The staff was very knowledgeable and professional, and they made sure I was comfortable throughout the entire process. I would definitely recommend Ting and Michelle to anyone looking for a quality protein\ntreatment.❤️👍",
+   "owner_reply": "Thank you for the superb review and recommendations. We always make sure that our clients are fully satisfied upon leaving our salon. We are looking forward in seeing you. "
+  },
+  {
+   "author": "Maryjoy Bringino",
+   "rating": 5,
+   "when": "3 years ago",
+   "text": "Today, I am planning to do Haircut only, but because of the staff who are so accommodating and very professional in their craft I decided to take some treatment. And I've never regret to experienced their magic hand.\n\nThank you for your love  and compassion in doing your work. I am really satisfied and so happy with the result. Looking forward for my highlights next time. :-)",
+   "owner_reply": "Thank you so much for amazing review. We are so happy to hear that you are satisfied and experienced the magic hand of our hairdresser and thank you for taking time to leave us this super kind review."
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1269,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    540,
+    960
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1229,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1202,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1166,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1284,
+    965
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    363,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    370,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.facebook.com/profile.php?id=100089231506740",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "facebook": "profile.php?id=100089231506740"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {
+  "facebook": "profile.php?id=100089231506740"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/power-of-five-ladies-beauty-salon/",
+ "buy_likelihood": 8
+}

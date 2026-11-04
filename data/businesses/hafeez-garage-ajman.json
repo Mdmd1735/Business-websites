@@ -1,0 +1,1047 @@
+{
+ "slug": "hafeez-garage-ajman",
+ "name": "HAFEEZ GARAGE MECHANICAL WORK ELECTRIC REPAIRING DENTING & PAINTING RADIATOR SERVICE AND REPAIR",
+ "place_id": "ChIJFWuIyGBYXz4RX6dYAuKPcTA",
+ "category": "car repair garage",
+ "category_weight": 12,
+ "area": "Ajman",
+ "address": "Manama street - near Noor Talal Ajman - New Industrial Area - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3777512,
+  "lng": 55.4709534
+ },
+ "phone": "+971 56 837 1081",
+ "rating": 4.9,
+ "userRatingCount": 144,
+ "rating_distribution": {
+  "oneStar": 2,
+  "twoStar": 0,
+  "threeStar": 1,
+  "fourStar": 1,
+  "fiveStar": 140
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=HAFEEZ%20GARAGE%20MECHANICAL%20WORK%20ELECTRIC%20REPAIRING%20DENTING%20%26%20PAINTING%20RADIATOR%20SERVICE%20AND%20REPAIR&query_place_id=ChIJFWuIyGBYXz4RX6dYAuKPcTA",
+ "website": "",
+ "categories": [
+  "Auto electrical service",
+  "Auto air conditioning service",
+  "Auto dent removal service",
+  "Auto painting",
+  "Auto repair shop",
+  "Car repair and maintenance service",
+  "Electrical repair shop",
+  "Engine rebuilding service",
+  "Mechanic",
+  "Radiator repair service"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "4 to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "8 AM to 11 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "8 AM to 11 PM"
+  }
+ ],
+ "owner_description": "The garage where you solve\nyour automobile issues\nWe worked\nAutomotive Mechanical work\nElectrical diagnostics, battery issues, wiring repairs, general maintenance\nComputer repairing and programming\nObd diagnostic scanner for checking faults known as DTCs\nAuto A/C gas topup & maintenance\nSpecialist care for Toyota, Honda, and Nissan hybrids.\nProfessional tools for professional results\nNew radiators\nRadiators repair & service\nDenting and painting\nProfessional in work\ncontact us for automobile\nmaintenance",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Assistive hearing loop": false
+   },
+   {
+    "Wheelchair accessible entrance": false
+   },
+   {
+    "Wheelchair accessible parking lot": false
+   },
+   {
+    "Wheelchair accessible restroom": false
+   },
+   {
+    "Wheelchair accessible seating": false
+   }
+  ],
+  "Offerings": [
+   {
+    "Oil change": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Debit cards": true
+   },
+   {
+    "Credit cards": true
+   }
+  ]
+ },
+ "review_tags": [
+  "car ac",
+  "radiator repair",
+  "engine replacement",
+  "friendly staff",
+  "engine work",
+  "experienced staff",
+  "cooperative staff",
+  "Clean work",
+  "professional team",
+  "mechanical work"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "SIDDEK MAHMOUD",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Excellent workshop. Honest, professional, and they take real pride in their work.\n\nThey explain everything clearly, don't push unnecessary repairs, and the quality of the job speaks for itself. Fair prices and genuine effort.\n\nHighly recommended. Thank you for the great work.",
+   "owner_reply": null
+  },
+  {
+   "author": "B O",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Excellent service and very professional team. They were honest, helpful, and explained the issue clearly before doing any work. The service was quick, and the price was reasonable. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Faizan Ahmad",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "If you Own a Nissan, This is one of the best places you can get your car repaired or looked at professionally. Friendly and reliable people, Proper fixes and no hassle.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ziyaul Hok",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "My car gaer chand onley one day but Alhamdulillah my car is good working thanks fafeez garage onwar hassan sab thank you good service",
+   "owner_reply": null
+  },
+  {
+   "author": "Muzammal Hussain",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I have issues of some electrical my friend recommended me to visit Hafeez garage I visit here told my problem then Hassan fixed that issue know my car is perfect good garage",
+   "owner_reply": null
+  },
+  {
+   "author": "ahmed eldesouky",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Very good work shop highly recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Adnan Joiya",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Excellent work fix my Toyota camery hybrid 2015 very good service",
+   "owner_reply": null
+  },
+  {
+   "author": "Adil Gani",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Heyy peoples..! Highly recommend\nMeet Hassan over there ..\nThe best in town for radiator service and electric related issues for your car and most least and reasonable price, even other garage people come to him which he is specialized for radiator works .",
+   "owner_reply": null
+  },
+  {
+   "author": "abd elghani belkhir",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "That was one of the most professional work I have ever see, if there was an extra star I would have give it",
+   "owner_reply": null
+  },
+  {
+   "author": "soheila yeganeh",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Elecrial work was good solved my issue in 20 mints",
+   "owner_reply": null
+  },
+  {
+   "author": "khaled stait",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Good experience and fast service\nMr.hassan is full cooperative",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Ahmad",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "They done amazing job . They repair my Honda Civic 18 model , ac work which was not done by the other garage workers , highly recommended Hafeez garage for automotive repair.\nThe workers behaviour was good ,they were cooperative and did there job efficiently.",
+   "owner_reply": null
+  },
+  {
+   "author": "Bilal Ammarin",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I can completely understand why this workshop consistently receives excellent reviews. I had a severe hydraulic line leak on Saturday evening, and even though the workshop was about to close, they still welcomed me and thoroughly inspected my car. Just one day later, I was able to pick up my car, and I am truly impressed by their meticulous and thorough work. Although I live in Sharjah, I will now always choose this workshop. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Akbar",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Excellent electrical work and professional guy’s",
+   "owner_reply": null
+  },
+  {
+   "author": "SR Rasel Islam",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "The Tasleli wala garage is very good, it is nice Hassan, thank you all, you did a great job on your own car, thank you bro.",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Omer",
+   "rating": 1,
+   "when": "a year ago",
+   "text": "Spent 1300 AED and wasted 2 full weeks and my car left the garage even more issues than I went to this garage with.\n\nPeople are very nice but unfortunately they are not capable for doing the job. First they told me to was valve issue, charged me for that and next day AC stopped working, then they opened the full dashboard and replaced sledger and then next day AC stopped working.\n\nThen they fixed the condenser and next day AC stopped working. When I took the car out of their garage, transmission oil and engine oil also got leaked.\n\nI had horrible time going to this garage again and again and lot of time got wasted and I also didn't have car for 12 days",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Shoaib",
+   "rating": 5,
+   "when": "Edited 9 months ago",
+   "text": "Best garage in ajman thanks Hassan\nMechanical work too good also fixed\nMy car A/C",
+   "owner_reply": null
+  },
+  {
+   "author": "Aadhil Automax",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "recently had the pleasure of visiting  Garage in Ajman for servicing my Lexus RX and Hyundai Genesis, and the experience exceeded all my expectations. From the moment I arrived. highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "siddique kb",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "that's alot Mr.safdar. I really appreciate  that the guy. he is the one of best  mechanic.  my car have small problem and I go many garage  but they didn't find out. then my best friend suggestion me to go  this garage and meet mr safdar  he wll fix your car  and i  go there direct his garage.  he find out the problem with in 30 minutes  and in a hour he fix it ..\nthanks alot\nMr safdar",
+   "owner_reply": null
+  },
+  {
+   "author": "Mubashir Ali",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I just want to share my experience here, my car had starting issue and they fixed this issue within 2 days while this was the 3rd Garage I visited to sort out, (they will always give you honest opinion and will not do anything they don't know or just wasting time and money)  very professional team, highly recommended... Appreciated their commitment towards work... Keep it up",
+   "owner_reply": null
+  },
+  {
+   "author": "shakir shakir",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I have never a bad experience at hafeez garage friendly service by knowledgeable people fixing my car electrical issues also they programming the ecm and transmission I have been coming here for a very long time, and I cannot think for  another place to take my car for general repair",
+   "owner_reply": null
+  },
+  {
+   "author": "Yasin Miya",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Thank you Hasan, you have done a great job on my car. Your workers are also very good and your way of working is also very good. My car is completely fixed. Thank you very much Mr. Hasan",
+   "owner_reply": null
+  },
+  {
+   "author": "Abdul Gafar Gafar",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "My car fixing break and dram good work and normal price thanks Mr.hassan",
+   "owner_reply": null
+  },
+  {
+   "author": "Sandun Heenkenda",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "The best radiator repair location in Ajman Industrial area they provided a excellent service which i was never experienced. Highly recommended for A/C , radiator repairs and replacement and also mechanical repairs.",
+   "owner_reply": null
+  },
+  {
+   "author": "tilak raj",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Good work in my car computer issues I am visiting 4 garage my money to much loss I am going hafeez garage my car is ok thanks hafeez garage mr.hassan",
+   "owner_reply": null
+  },
+  {
+   "author": "Usama Khan",
+   "rating": 5,
+   "when": "4 years ago",
+   "text": "Whenever there is a problem with my car, they fix it on time. It was a great experience as always. Satisfied and highly recommended it. I've never had a negative experience with them. Their customer service is fantastic.",
+   "owner_reply": null
+  },
+  {
+   "author": "TUGUME ANDREW",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "My car fixed new engine good work and normal price thanks.mr hassan",
+   "owner_reply": null
+  },
+  {
+   "author": "Sohel Mia",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "He is fixing my car ac good working normal price Thanks hafeez",
+   "owner_reply": null
+  },
+  {
+   "author": "sethu madhavan",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Very good service and reasonable price 👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Yasir Malik",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "My car is brak work to much fast and good work normal price thanks hafee☺️☺️☺️",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    739,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1396,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    908,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    738,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    804,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    882,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    866,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    762,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    576,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    738,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 66,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "built",
+ "site_url": "https://mdmd1735.github.io/Business-websites/hafeez-garage-ajman/",
+ "buy_likelihood": 6,
+ "notes": "4.9 from 144, never replies. Honest-mechanic reviews.",
+ "display_name": "Hafeez Garage"
+}

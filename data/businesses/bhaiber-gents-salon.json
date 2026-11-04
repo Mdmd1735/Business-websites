@@ -1,0 +1,918 @@
+{
+ "slug": "bhaiber-gents-salon",
+ "name": "Bhaiber Gents Salon",
+ "place_id": "ChIJRY9iT21rXz4ROKT89rBdjmM",
+ "category": "barber shop",
+ "category_weight": 10,
+ "area": "Al Barsha, Dubai",
+ "address": "Arabian Gulf Building - Al Barsha 1 - Street 11 - Al Barsha First - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.1138739,
+  "lng": 55.2020913
+ },
+ "phone": "+971 55 691 3050",
+ "rating": 4.9,
+ "userRatingCount": 477,
+ "rating_distribution": {
+  "oneStar": 8,
+  "twoStar": 1,
+  "threeStar": 0,
+  "fourStar": 8,
+  "fiveStar": 460
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Bhaiber%20Gents%20Salon&query_place_id=ChIJRY9iT21rXz4ROKT89rBdjmM",
+ "website": "",
+ "categories": [
+  "Barber shop"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 12 AM"
+  }
+ ],
+ "owner_description": "We offer:\n\nHaircut\nBeard Shaving\nManicure\nPedicure",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "head massage",
+  "professional barber",
+  "clean haircut",
+  "precise haircut",
+  "talented staff",
+  "beard trim",
+  "cleanliness",
+  "attention to detail",
+  "Respectful treatment",
+  "fade"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 65
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 74
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 63
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 89
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 85
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 97
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 78
+   }
+  ]
+ },
+ "owner_reply_rate": 0.03,
+ "reviews": [
+  {
+   "author": "lounis lounis am",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I had a wonderful experience at this salon! The staff were professional, friendly, and welcoming. The service was excellent, and the attention to detail was impressive. The salon was clean, comfortable, and well-maintained. I’m very happy with the results and highly recommend this place to anyone looking for quality service don't firget to look for David.Definitely coming back💇💆",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Ahmer",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I had a great experience at Bhaiber Gents Salon! I got a manicure and pedicure, and the service was excellent. The staff was professional, friendly, and attentive to detail. Everything was clean and hygienic, and I felt relaxed throughout the service. Highly recommended for anyone looking for quality grooming and excellent customer service. Will definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Lino Santorce",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Kaif is best really like my look kaif give me new look\nwith good prices neat and clean place highly recommended 10/10 ❤️❤️",
+   "owner_reply": " Thank you for your kind words! We’re happy you liked kaif service. Hope to see you again BhaiBer gent salon ."
+  },
+  {
+   "author": "Arj",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Got my haircut here today. Big thanks to Awais super friendly guy and knows what he’s doing. Clean shop, fair price, and fresh fade. Will definitely be coming back.",
+   "owner_reply": null
+  },
+  {
+   "author": "bilal faizi",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "It was a great experience! Awais, the barber, is highly professional and very experienced—he did an excellent job. Miss Zoya, the salon manager, is also very attentive and always makes sure everything is taken care of perfectly. Highly recommended for their quality service and professionalism!",
+   "owner_reply": null
+  },
+  {
+   "author": "sameer faisal",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Amazing atmosphere kind people, 10/10 service. Did a better cut than i expected and the head massage was unbelievable. Thank you vishal",
+   "owner_reply": null
+  },
+  {
+   "author": "Zayid Rahman",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Vishal is a great barber! Very professional, friendly, and skilled. He understands exactly what style you want and delivers a clean, perfect haircut. Highly recommended for anyone looking for quality service. Will definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "T L",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I really like my haircut I’m very satisfied I will come again Highly recommended Best in Barsha ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Abohend",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Excellent experience! The shop is very clean, well-organized, and hygiene is clearly a top priority. The staff are professional and friendly, and the haircut was exactly what I wanted. Highly recommended. Thank you for the great service!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed Magdy",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Mr Lethie is the best barber in Dubai mashallah all is perfect❤️❤️❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Ali",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Great service i enjoyed it very clean and the barber Wishal did a great job would recommend",
+   "owner_reply": null
+  },
+  {
+   "author": "Jake Knotman",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Great haircut.. amazing service and a nice coffee too! Thank you awais",
+   "owner_reply": null
+  },
+  {
+   "author": "Aiman Shaqura",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Very friendly and professional team! Good quality and very good value for money.  Bobby and Jess where just amazing - I do recommend them with confidence.",
+   "owner_reply": null
+  },
+  {
+   "author": "Yashwardhan Jain",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing service!My feet feel so fresh and clean.The staff was professional, gentle, and very attentive to detail.Highly satisfied with the manicure and pedicure. Thank you for the wonderful experience 😊 ✨️",
+   "owner_reply": null
+  },
+  {
+   "author": "richard dimaano",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Recommendable! Amzing staff, specially awais, he make my day! Thanks a lot for amzing harcut anfd hair color! Superb!⭐️",
+   "owner_reply": null
+  },
+  {
+   "author": "clinton cleetus",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Thus is my first time and I'm really happy and satisfied with the services and staff was awesome 👌 very friendly and welcoming Thanku Guy's I will definitely come again Very nice Salon Highly recommended 😊 superb services with good price",
+   "owner_reply": null
+  },
+  {
+   "author": "Dr. Samir M Smisim",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "It was wonderful experience to cut hair with awias he was very gentle and kind . I advise anyone go there .",
+   "owner_reply": null
+  },
+  {
+   "author": "afxal durrani",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "ONLY I FOUND PROFESSIONAL IN UAE IN 3 YEARS IS ONLY VISHAL ♥️ THEY WAY HE UNDERSTANDS THE MIND SET AND HAIR STRUCTURE- 100% satisfaction",
+   "owner_reply": null
+  },
+  {
+   "author": "Umar Khalid",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Had a fundamental service across with time exposure I would strongly recommend to try would definitely will make a awesome vibes and service specially a gentleman Mr. Awais who always stands to pay a attention to he's dignity and loyalty",
+   "owner_reply": null
+  },
+  {
+   "author": "Hasan Dhorajiwala",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Good staff Good Management Ammy and Awais\nVery neat and clean places with good services OSM 👍 Highly recommended I will suggest my friends to come here 🥰 best salon in Albarsha",
+   "owner_reply": null
+  },
+  {
+   "author": "Saad Khan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Amy - job well done - Very neat job and done patiently Owais & Kaif - I have utilized their hair cutting and beard shaping expertise both are equally good",
+   "owner_reply": null
+  },
+  {
+   "author": "Yusuf V",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Haircut from Awaiz - perfect !\nUnderstood exactly what I needed in English and happily did a few extra bits when requested - fade and thin out keeping the current shape. 100% recommended!\nDecent to zero wait time and 15 AED for a pro haircut.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ciro Liao",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Nice, clean place, Kaif cut my hair, did a nice work 👍🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "saud usman",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Had a great experience and cut with the master Agoshh",
+   "owner_reply": null
+  },
+  {
+   "author": "Buckle Bullion",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Awais was fantastic, very professional and cut my son and I, hair like a professional. Thank you. I’ll be coming back again, regularly.",
+   "owner_reply": null
+  },
+  {
+   "author": "Oussama Safadi",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Very good service and great care, good prices also, Aweiss was very professional and skilled, very satisfied will come again. I recommend giving them a visit.",
+   "owner_reply": null
+  },
+  {
+   "author": "Faruh Haydarow",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Agouah is too good im very satisfied with the services, highly recommended neat and clean place 👍👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Ramazan Islam",
+   "rating": 5,
+   "when": "Edited 4 weeks ago",
+   "text": "I got my hair cut by Vishal, I'm happy with the result. He's a great barrier and a very nice, pleasant person. I recommend this salon and this hairdresser to everyone.✊😁👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Obada Treesh",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Fantastic experience, An absolute top tier haircut by Kaif",
+   "owner_reply": null
+  },
+  {
+   "author": "Karthick Cristiano",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "They have an excellent service with high pro hair stylists. The receptionist hospitality also mentionable. Recommended",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/bhaiber-gents-salon/",
+ "buy_likelihood": 6
+}

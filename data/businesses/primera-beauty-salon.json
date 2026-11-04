@@ -1,0 +1,1070 @@
+{
+ "slug": "primera-beauty-salon",
+ "name": "Primera Beauty Salon",
+ "place_id": "ChIJ8ZrWWxBdXz4RiXe1OWns4YE",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "Al Zarooni - 203 - Building Al Rigga Rd - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2647691,
+  "lng": 55.3218621
+ },
+ "phone": "+971 55 108 8584",
+ "rating": 4.9,
+ "userRatingCount": 289,
+ "rating_distribution": {
+  "oneStar": 4,
+  "twoStar": 1,
+  "threeStar": 2,
+  "fourStar": 5,
+  "fiveStar": 277
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Primera%20Beauty%20Salon&query_place_id=ChIJ8ZrWWxBdXz4RiXe1OWns4YE",
+ "website": "",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 10 PM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 10 PM"
+  }
+ ],
+ "owner_description": "Primera Beauty Salon, we offer quality services, by competitive professionals at an affordable price.",
+ "amenities": {
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Beverages": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointment required": true
+   },
+   {
+    "Appointments recommended": true
+   },
+   {
+    "Accepts walk-ins": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "microshading",
+  "moroccan bath",
+  "full body massage",
+  "eyebrows",
+  "lip blush",
+  "microblading",
+  "keratin treatment",
+  "eyebrow shaping",
+  "vietnamese hair spa",
+  "hydrafacial"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 87
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ]
+ },
+ "owner_reply_rate": 1.0,
+ "reviews": [
+  {
+   "author": "Juliet",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "I had a wonderful experience at Primera Beauty Salon! 🌸 Joy did my Moroccan bath and was very professional, gentle, and thorough. My skin felt so clean, soft, and refreshed afterward. Chanda gave me a relaxing massage that helped me feel pampered and relieved of stress. Both of them were lovely and made my visit enjoyable and comfortable.\n\nThank you, Joy and Chanda, for the excellent service! I truly enjoyed my experience and would definitely recommend them to anyone looking for a relaxing Moroccan bath and massage. I will surely come back! ❤️✨",
+   "owner_reply": "Thank you so much for your wonderful review, Ma’am Juliet! ❤️🌸 We’re delighted to hear that you enjoyed your Moroccan bath with Joy and your relaxing massage with Chanda. Your kind words mean a lot to us. We look forward to welcoming you back to Primera Beauty Salon for another relaxing and enjoyable experience! ✨💕<br>"
+  },
+  {
+   "author": "ms. merino",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "I had a great experience at Primera Beauty Salon. The hairstylist Ate, (I forgot to ask her name) was very attentive to my hair. I simply showed her my hair inspo, and she recreated it exactly as I expected. I’m very happy with the result and will definitely come back! Highly recommended ⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": "Thank you so much for your wonderful 5-star review, Ms. Merino! ❤️✨ <br><br>We’re so happy to hear that you had a great experience at Primera Beauty Salon and that our hairstylist Winnie was able to recreate your hair inspiration exactly as you wanted. 🥰<br><br>We truly appreciate your kind words and recommendation! We’ll be happy to welcome you back again for your next hair appointment. See you soon, dear! 💕✨<br>"
+  },
+  {
+   "author": "Sneha Kulkarni",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Joy did my moroccan bath and she was really good. She kept asking how im doing and if it was okay. Then Joy also did my pedicure and that also was really good! Sabina did my massage and she was quite strong, you can tell her if the pressure is too much but I could handle it and I loved it. Even the kind lady at the reception was so nice and she kept checking if I was okay or wanted something to drink. Its small and very clea. Thank you ladies",
+   "owner_reply": "Thank you so much for your wonderful review, Dear Sneha! ❤️ We’re delighted to hear that you enjoyed your Moroccan bath, pedicure, and massage. We’ll be sure to share your kind words with Joy, Sabina, and our reception team. Your comfort and satisfaction mean so much to us. We truly appreciate your support and look forward to welcoming you back to Primera Beauty Salon! 🥰✨"
+  },
+  {
+   "author": "Aprille Joyce Amaba",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Love their service, speciallh the moroccan bath and full body massage. I even sleep during that massage as it relax my body. Thank you Primera. We'll always comeback for the moroccan bath experience.",
+   "owner_reply": "hank you so much for your lovely review Aprille! ❤️ We’re happy to know you enjoyed our Moroccan bath and full body massage and had such a relaxing experience. We truly appreciate your support and look forward to welcoming you back to Primera Beauty Salon for another pampering session! 🥰✨"
+  },
+  {
+   "author": "ET",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I had a wonderful and relaxing experience at Primera Beauty Salon in Rigga! A special thank you to Joy for her excellent Moroccan Bath and to Sabina for the relaxing massage. Both were so professional, friendly, and attentive. I truly enjoyed the experience and would definitely recommend them to my friends. Thank you, Joy and Sabina, for making my visit so special! 💖",
+   "owner_reply": "Thank you so much for your wonderful review, Ma’am ET! 💖🥰 We’re delighted to know that you enjoyed your Moroccan Bath with Joy and relaxing massage with Sabina. We’ll be sure to share your kind words with them. Your recommendation means a lot to us, and we look forward to welcoming you back to Primera Beauty Salon for another relaxing experience! ❤️✨"
+  },
+  {
+   "author": "Chandris Balantac",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Proudly client since 2024. I go to other salon but i am always coming back to the first salon that touches my hair! Thank you! Satisfied client here",
+   "owner_reply": "Thank you so much for your trust and loyalty since 2024, Ma’am Chandris! 🥰❤️ We truly appreciate you choosing Primera Beauty Salon and coming back to us. Your satisfaction means a lot to our team. We look forward to taking care of your hair and making you feel beautiful every time you visit! 💇🏻‍♀️✨"
+  },
+  {
+   "author": "Vangie Baculao",
+   "rating": 4,
+   "when": "3 weeks ago",
+   "text": "A Relaxing and Worth-It Experience at Primera Beauty Salon! 💆🏻‍♀️✨\n\nPrimera Beauty Salon is clean, quiet, and relaxing — the perfect place to unwind and pamper yourself! The services are affordable, and the experience is definitely worth the price. ❤️\n\nMy friend Janice and I enjoyed our visit. I availed myself of the head spa, gel manicure and pedicure, and foot spa. Sabina took care of me, and she was really good! She was gentle, attentive, and very caring throughout the treatments. You can really feel that she takes good care of her clients. 🥰\n\nMy friend Janice enjoyed the leg and back massage, as well as the head spa, with Chanda, who also made her experience enjoyable.\n\nOverall, we had a wonderful and relaxing experience. Highly recommended for anyone looking for quality beauty and spa services at an affordable price! Definitely worth coming back! 💖✨\n\nThank you, Sabina and Chanda, for taking such good care of us! 🫶🏻",
+   "owner_reply": "Thank you so much for your wonderful review Vangie! ❤️ We’re happy to know that you and your friend Janice enjoyed your relaxing experience at Primera Beauty Salon. Your kind words for Sabina and Chanda mean a lot to us. We truly appreciate your recommendation and look forward to welcoming you both back for another pampering session! 🥰💖"
+  },
+  {
+   "author": "Vic Cabello",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "I found this salon through Facebook and decided to try their Moroccan bath with massage and it definitely didn’t disappoint!\n\nThe staff are very accommodating and professional, and the salon is very clean, especially the Moroccan bath area. I absolutely loved the experience!\n\nHighly recommended, especially Ate Carmen and Sacha. They did an amazing job and made the whole experience even better. I’ll definitely be coming back! ❤️",
+   "owner_reply": "Thank you so much Vic for your wonderful and detailed feedback! ❤️ We’re truly happy to know that you found us through Facebook and decided to try our Moroccan bath and massage. It means a lot to hear that you enjoyed the experience and appreciated our clean salon, especially the Moroccan bath area.<br>We’ll definitely share your kind words with Ate Carmen and Sabina. They’ll be so happy to know that they made your experience even more special! 🥰 Thank you for recommending us, and we can’t wait to welcome you back again soon! ❤️"
+  },
+  {
+   "author": "angelie depatillo",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great services and good staffs at very affordable price♥️♥️ I enjoy the great massage with chanda and the combo eyebrow microshading with Thao. Will be a regular client soon together with my friends.",
+   "owner_reply": "Thank you so much for your wonderful review and kind recommendation Ms. Angelie! ❤️<br><br>We're delighted to hear that you enjoyed our services and found them to be of great value. It makes us so happy to know that you had a relaxing massage with Chanda and loved your eyebrow microshading with Thao. Your kind words about our team truly mean a lot to us.<br><br>We're especially grateful that you're planning to become a regular client and bring your friends along. We can't wait to welcome you all back for more pampering and beautiful results!<br><br>Thank you for choosing Primera Beauty Salon. See you again soon! ♥️✨<br><br>Warm Regards, <br>Primera Beauty Salon<br>"
+  },
+  {
+   "author": "Rechele Guamos",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had an amazing experience at Primera Salon! From the moment I arrived, the staff made me feel welcomed and well taken care of. I tried their Moroccan Bath, Full Body Massage, Japanese Head Spa, and Nails Service, and every treatment exceeded my expectations.\n\nThe Moroccan Bath was incredibly refreshing and left my skin feeling soft and rejuvenated. The full body massage was relaxing and helped relieve all my stress and tension. The Japanese Head Spa was an absolute highlight—so soothing and revitalizing! Lastly, the nails service was done with great attention to detail, and I absolutely loved the results.\n\nThe professionalism, cleanliness, and exceptional customer service truly made this a wonderful experience. I am a very satisfied client and highly recommend Primera Salon to anyone looking for quality treatments and outstanding service. I will definitely be coming back! ✨💆‍♀️💅🌿",
+   "owner_reply": "Thank you so much for your amazing review and for sharing your experience with us Ms. Rechele! ❤️<br><br>We are truly delighted to hear that you had such a wonderful time at Primera Salon. It means so much to us that you felt welcomed and well taken care of from the moment you arrived.<br><br>We're thrilled that you enjoyed all of your treatments—from the refreshing Moroccan Bath and relaxing Full Body Massage to the soothing Japanese Head Spa and beautifully done Nails Service. Knowing that each service exceeded your expectations is the greatest compliment we could receive.<br><br>Thank you as well for your kind words about our professionalism, cleanliness, and customer service. Our team works hard to provide the best experience possible, and your feedback motivates us to continue doing what we love.<br><br>We sincerely appreciate your recommendation and trust in Primera Salon. We can't wait to welcome you back for another relaxing and pampering experience soon! ✨💆‍♀️💅🌿❤️<br><br>Warm Regards,<br>Primera Beauty Salon<br>"
+  },
+  {
+   "author": "Oumaima Dh",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a wonderful experience at Primera Beauty Salon. The salon was very clean, professional, and welcoming from the moment I walked in. The staff were polite, friendly, and made me feel comfortable throughout my visit.\n\nA special thank you to Winnie for my haircut. She listened carefully to what I wanted, gave great advice, and did an amazing job. I'm very happy with the result and really appreciate her skill, attention to detail, and kindness.\n\nI highly recommend Primera Beauty Salon, and I will definitely be coming back. Thank you, Winnie, for such a great experience!",
+   "owner_reply": "Thank you so much for your wonderful review Ms. <br>Oumaima! ❤️ <br><br>We're delighted to hear that you had such a positive experience at Primera Beauty Salon.<br><br>Your kind words about our salon, team, and service truly mean a lot to us. We're especially happy to know that Winnie took great care of you and that you love your haircut. She will be thrilled to hear your compliments about her skill, attention to detail, and kindness. ✨<br><br>Thank you for recommending us. We truly appreciate your support and look forward to welcoming you back for another great experience soon! 😊💖<br><br>Warm Regards,<br>Primera Beauty Salon"
+  },
+  {
+   "author": "Jhen jhen Madrid",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Had a fantastic experience at Primera Salon & Spa! Ate Mercy did an excellent Moroccan bath, and Chanda gave a wonderfully relaxing full-body massage. Both were professional, friendly, and made me feel completely pampered. I left feeling refreshed and rejuvenated. Highly recommended! 😊✨",
+   "owner_reply": "Thank you so much for your wonderful feedback Ms. Jhen Jhen Madrid! 💖 <br><br>We're delighted to hear that you had a fantastic experience with us. Ate Mercy will be thrilled to know you enjoyed your Moroccan bath, and Chanda will be happy to hear that her massage helped you feel relaxed and rejuvenated. <br><br>Your kind words mean a lot to our team. We look forward to pampering you again soon! 😊✨<br><br>Warm Regards, <br>Primera Beauty Salon<br>"
+  },
+  {
+   "author": "Mardie Salo",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "done my massage with Sabina,i feel relax,and seems i gain my energy for the past few days,also her massage technic is kinda different.thank you Sabina for the good massage🩷\nIm sure gonna come back again🩷",
+   "owner_reply": "Thank you so much for your wonderful feedback Ms. Mardie! ❤️<br><br>We're so happy to hear that you enjoyed your massage with Sabina and that you left feeling relaxed, refreshed, and full of energy again. Sabina takes great pride in her unique massage techniques, and we're delighted that you had such a positive experience with her.<br><br>Your kind words mean a lot to us, and we will be sure to share them with Sabina. Thank you for choosing Primera Salon, and we look forward to welcoming you back for another relaxing session soon! 🩷✨<br><br>Warm Regards, <br>Primera Beauty Salon<br>"
+  },
+  {
+   "author": "Ara Jherielle",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Its my first time trying their Moroccan Bath, and its really relaxing and new experience and its a good thing I tried it here at Primera Salon Rigga. Thanks to the amazing care of Usha who did the scrubbing/Moroccan bath, and for the relaxing Massage thanks to Ate Mercy.\n\nMust try they have clean and decent salon for trying this service.",
+   "owner_reply": "Dear Ms. Ara,<br><br>Thank you so much for sharing your wonderful experience with us. We're so happy to hear that your first Moroccan Bath was relaxing and enjoyable — and even more so that you chose to try it here at Primera Salon.<br><br>Usha and Ate Mercy truly appreciate your kind words. They always aim to provide the best care, and your feedback means the world to them.<br><br>We're also glad you felt comfortable in our salon. Cleanliness and a welcoming atmosphere are things we take great pride in.<br><br>Looking forward to seeing you again soon!<br><br>Warm regards,<br>Primera Beauty Salon "
+  },
+  {
+   "author": "Jessica Hilario",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Got my nails done here (gel polish) and also tried the Olaplex Treatment for my hair, which turned out really nice.\n\nI highly recommend Sabina if you’re getting a manicure—she’s very light-handed, polished my nails beautifully, and even took care of the dry skin. For pedicures, Sital did a great job shaping my nails exactly how I wanted. Both of them also followed my request for just 2 coats of gel polish, which I really appreciated. 🤣😁\n\nFor the owner, I’d like to suggest investing in a proper nail area where customers can sit comfortably. I had to sit on a haircut chair during my manicure, which was uncomfortable, especially when curing my gel polish with the UV device just sitting on my lap. 😅\n\nI also want to give special mention to the lovely African lady working outside—she’s so hardworking, even in 40-degree heat, bringing customers in. She truly deserves recognition (and a raise!).\n\nOverall, it was a very nice experience, and I’d definitely recommend visiting.",
+   "owner_reply": "Hi Ms. Jessica! 😊<br><br>Thank you so much for your wonderful feedback! We’re so happy to hear you enjoyed your manicure with Sabina and pedicure with Sital. 💅✨ We’ll definitely share your kind words with them—they’ll be thrilled!<br><br>We really appreciate your suggestion about the seating area. Rest assured, on your next visit, you’ll find chairs that are much more comfortable for you! 🪑👍<br><br>Also, thank you for recognizing our hardworking team member Jenny outside—she truly works so hard under the sun! ☀️👏<br><br>Thanks again for recommending Primera Beauty Salon. We can’t wait to see you again soon for another relaxing pampering session! 💖<br><br>Warmest regards,<br>Primera Beauty Salon Team"
+  },
+  {
+   "author": "Luna Balan-ey",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "To Sabina who really knows how to ease my tension through her skillfully and gentle massaging techniques..\nThank you soo much!\nTo ate winnie who is always cheerful and nanay mercy who is always thoughtful,\nTo all the crew of Primera salon- thank you so much for making me feels like its second to home.",
+   "owner_reply": "Thank you so much for your heartfelt review and kind words Ms. Luna! ❤️<br><br>We're delighted to hear that Sabina was able to ease your tension with her skillful and gentle massage techniques. Your appreciation will surely make her day! We're also grateful for your lovely compliments to Winnie for her cheerful personality and Mercy for her thoughtfulness.<br><br>Thank you for being part of the Primera Salon family. It means so much to us that we can make you feel at home whenever you visit. We truly appreciate your trust and support, and we look forward to welcoming you back again soon! 🥰✨<br><br>Warm Regards, <br>Primera Beauty Salon<br>"
+  },
+  {
+   "author": "Anita Arita",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Had a Moroccan bath with massage inclusive and I really enjoyed the session with Joy . A pure and lovely experience with highly qualified customer service. Thank you. This is a must do again",
+   "owner_reply": "Thank you so much for your lovely feedback dear Anita❤️ We’re delighted to hear that you enjoyed your Moroccan bath and massage with Joy. Your kind words mean a lot to our team. We look forward to welcoming you back to Primera Beauty Salon for another wonderful experience!"
+  },
+  {
+   "author": "Cherilyn Tan",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "I visited your Al Rigga branch today for microshading. It was my first time, and I absolutely love the outcome.\n\nBig thanks to Miss Thao from Vietnam—she is very kind and friendly. Thank you for your magic hands for making me look pretty. I would also like to thank Ate Carmela, as I always go to her for my pedicure and she never disappoints. And thank you as well to Ate Wennie for being so kind and welcoming to customers.\n\nOverall, I had a great experience. Highly recommended!",
+   "owner_reply": "Hello Ms. Cherilyn, thank you so much for your lovely feedback! 😊 We’re truly happy to hear that you had a great first experience with your microshading and that you love the result.<br><br>Miss Thao will be delighted to know you appreciated her work—it means a lot to us! 💖 We’re also grateful for your continued trust in Ate Carmela for your pedicure, and we’ll make sure to share your kind words with Ate Winnie as well.<br><br>Your satisfaction and happiness are our top priority, and we’re so glad we could make your visit a wonderful one. Thank you for recommending us, and we look forward to seeing you again soon at Primera Beauty Salon! 🌸✨<br><br>Warm Regards, <br>Primera Beauty Salon"
+  },
+  {
+   "author": "Ann Viray",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I would like to appreciate Ate Mercy who did my moroccan bath and gold body scrub today! Absolutely loved the experience! The steam, gold scrub and loofah left my skin unbelievably smooth and glowing. The therapist Ate Mercy was professional and caring, and the whole session felt like a luxurious escape. Highly recommended for anyone needing a deep cleanse and total relaxation! 10/10",
+   "owner_reply": "Thank you so much for your lovely feedback! We’re so glad you enjoyed your Moroccan bath and gold body scrub with Ate Mercy. She will be very happy to hear your appreciation. We truly value your recommendation and can’t wait to pamper you again soon!<br><br>Warm Regards, <br><br>Primera Beauty Salon"
+  },
+  {
+   "author": "Manpreet Kaur",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "had such a relaxing experience at Primera Beauty Salon 🤍\nI went for a massage and Moroccan bath, and I truly loved the experience. Mercy did my massage so beautifully — it was calming, relaxing, and exactly what I needed. Winnie did my Moroccan bath, and she was amazing too. I left feeling fresh, clean, and completely relaxed ✨\nThe staff were kind, professional, and made me feel very comfortable. Definitely a lovely place for self-care and relaxation 🌷”",
+   "owner_reply": "Thank you so much for your lovely feedback and for choosing Primera Beauty Salon Ms. Manpreet Kaur🤍✨<br><br>We’re so happy to hear that you had such a relaxing and wonderful experience with us. Mercy will be delighted to know you loved your massage, and Winnie will also be very happy to hear your kind words about the Moroccan bath 🌷<br><br>Your satisfaction means so much to us, and we truly appreciate your trust and support. We’re looking forward to welcoming you again soon for another relaxing self-care experience 💆‍♀️✨<br><br>Warm Regards, <br>Primera Beauty Salon"
+  },
+  {
+   "author": "Sheila Mae Todoc",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "I had a wonderful experience at Primera Beauty Salon! Ms. Winnie took care of my hair and eyebrows with such skill and attention to detail. She listened carefully to exactly what I wanted and made sure everything looked perfect. The salon itself is clean, relaxing, and welcoming, making the whole visit enjoyable. Ms. Winnie is professional, friendly, and truly talented—I left feeling confident and refreshed. I highly recommend her for anyone looking for excellent hair and eyebrow services!",
+   "owner_reply": "Thank you so much for your kind words Ms. Sheila!<br><br> We’re thrilled to hear you had such a wonderful experience at Primera Beauty Salon with Ms. Winnie. She truly takes pride in listening to our clients and delivering results that make you feel confident and refreshed.<br><br>We’re also happy you enjoyed the clean, relaxing, and welcoming atmosphere—that’s exactly the vibe we aim for! Your recommendation means the world to us, and we can’t wait to welcome you back for your next visit 💖<br><br>Warm Regards,<br>Primera Beauty Salon<br>"
+  },
+  {
+   "author": "Jhem Loreno",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I recommend Primera Beauty Salon.\nStaff are very accommodating.\n\nI also recommend Ate Winnie, she's very professional and really knows what is best for me. Same as Miss Thao for doing my eyebrow, she's also professional.\nI went out in the salon happy and satisfied..",
+   "owner_reply": "Thank you so much for your wonderful recommendation and kind words Ms. Jhem! ❤️<br><br>We're delighted to hear that you had a happy and satisfying experience at Primera Beauty Salon. It means a lot to us that you found our staff accommodating and welcoming.<br><br>Thank you for recognizing Winnie and Thao for their professionalism and dedication. Winnie will be happy to know that her recommendations helped you, and Thao will be delighted that you loved your eyebrow results.<br><br>Your trust and support mean the world to us. We look forward to welcoming you back for another amazing experience soon! 🥰✨<br><br>Warm Regards,<br>Primera Beauty Salon<br>"
+  },
+  {
+   "author": "Jonalyn Balan-ey",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Hi sisters and aunties!, if your'e planning to have a beautifully woke up like this lips, seek Ms.Tao at primera salon for lip blush procedure and you will not regret it.\nBook appointment now!\nThanks Ms.Tao for my new woke up like this lips..\nSee u again!",
+   "owner_reply": "Thank you so much for your kind words and wonderful feedback Ms. Jonalyn! ❤️ We're delighted that you love your new lip blush results. Ms. Thao will be very happy to hear your appreciation.<br><br>Your beautiful transformation and satisfaction mean a lot to us. Thank you for trusting Primera Salon for your lip blush procedure. We look forward to seeing you again soon for your next visit!<br><br>Stay gorgeous and have a wonderful day! 💋✨<br><br>Warm Regards, <br>Primera Beauty Salon<br>"
+  },
+  {
+   "author": "Esha Indoria",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Amazing experience at primera, specially the massage done by Chanda was top notch, and the Moroccan bath by mercy was also worth coming, it was my first time here and I really loved the experience.",
+   "owner_reply": "Thank you for sharing your lovely experience with us Dear Esha!<br><br>We are so pleased to hear that your first visit to Primera was enjoyable and relaxing. It’s wonderful to know that Chanda’s massage and Mercy’s Moroccan bath made your time with us worth it.<br><br>Your appreciation is truly encouraging for our team, and we would be happy to welcome you back again soon.<br><br>Warm regards,<br>Primera Beauty Salon"
+  },
+  {
+   "author": "Kaveri Singh",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "Moroccan bath was very nice and the massage was very relaxing too! Thanks Joy, she was amazing !!",
+   "owner_reply": "Thank you so much for your wonderful feedback, Ma’am Kaveri❤️ We’re delighted to hear that you enjoyed the Moroccan bath and found the massage very relaxing. We’ll definitely share your kind words with Joy—she’ll be so happy to know you loved her service! We look forward to welcoming you again soon. 🥰"
+  },
+  {
+   "author": "Sunshine Lamban",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Primera beauty salon is highly recommended100%\nAll staff so nice and friendly, salon so clean and hygiene 👏👏 Carmela did my japanese shower spa she's so  professional and nice, chanda she  did my full body massage was so amazing  and professional 💪💪👏👏 this salon is highly recommended 😊😊😊",
+   "owner_reply": "Hello Ms. Sunshine, thank you so much for your wonderful feedback! 😊 We truly appreciate your kind words and are so happy to hear that you had a great experience with us.<br><br>We’re glad you enjoyed the Japanese Head Spa with Carmela and your relaxing full body massage with Chanda—they will be very happy to hear your compliments! 💖<br><br>Your satisfaction means a lot to us, and we look forward to welcoming you again soon at Primera Beauty Salon. Thank you for recommending us! 🌸✨<br><br>Warm Regards, <br>Primera Beauty Salon"
+  },
+  {
+   "author": "Kalu Khadka",
+   "rating": 5,
+   "when": "2 weeks ago",
+   "text": "I had a amazing experience in primera salon such a relaxing place and chanda hand like a magic highly recommend it ❤️❤️",
+   "owner_reply": "Thank you so much for your lovely review, Ma’am Kalu Khadka❤️🥰 We’re delighted to hear that you had a relaxing experience at Primera Beauty Salon. We’ll be sure to share your kind words with Chanda. We look forward to welcoming you back soon! 💖✨"
+  },
+  {
+   "author": "Everly Langit-Wahing",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "I got eyelash extensions and service with Savina. She’s good and will recommend her for this service.",
+   "owner_reply": "Thank you so much for your lovely feedback Ms. Everly! We’re happy you enjoyed your eyelash extension service with Sabina. <br><br>We truly appreciate your recommendation and look forward to welcoming you again soon. 💕<br><br>Warm Regards, <br>Primera Beauty Salon<br>"
+  },
+  {
+   "author": "Asif Hussain",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "Usha the neepali girl did my waxing and foot scurb she did amzing job .waxing and even upper lips threading she did with care and hard work. thank you usha .only thing i dont like about the saloon they dont have proper sitting for pedicure and AC in the main area not working . its was feeling hot no Cooling\n\nmy daughter had hair trim hot oil treatment was so satisfied and good service .",
+   "owner_reply": "Hello Dear! <br>Thank you so much for your kind words and detailed feedback! We're so glad to hear you were happy with Usha’s service and that your daughter enjoyed her treatment. Usha will be very happy to hear your compliments!<br><br>Regarding the AC, we sincerely apologize for the discomfort you experienced. One of our air conditioning units in the main area had a technical issue that day, but we're happy to let you know that it has already been fixed.<br><br>We truly appreciate your honest feedback and hope to welcome you back soon for an even more comfortable and relaxing experience.<br><br>— Primera Beauty Salon"
+  },
+  {
+   "author": "Joan Antiquin",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I just wanted to say a huge thank you for making my nails look extraordinary! Your artwork is amazing, and I really appreciate the extra touch of putting my cat charm in the details. I absolutely love it and will definitely keep coming back to Primers Beauty Salon. Look for Ms. Rhea, she’s the best!\n\nThanks again for everything!",
+   "owner_reply": "You are welcome Joan, We are glad that you liked it. looking forward to see you again at primera :)"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1280,
+    720
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    900
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/primera-beauty-salon/",
+ "buy_likelihood": 8
+}

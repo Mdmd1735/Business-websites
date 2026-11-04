@@ -1,0 +1,1193 @@
+{
+ "slug": "jenoub-fitness-ajman",
+ "name": "Jenoub Fitness Ajman",
+ "place_id": "ChIJr_ITwzTx9T4Rgtv8cGlDKYk",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Ajman",
+ "address": "Al Zahya - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.4098792,
+  "lng": 55.5897943
+ },
+ "phone": "+971 58 934 5323",
+ "rating": 4.7,
+ "userRatingCount": 247,
+ "rating_distribution": {
+  "oneStar": 14,
+  "twoStar": 1,
+  "threeStar": 4,
+  "fourStar": 8,
+  "fiveStar": 220
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Jenoub%20Fitness%20Ajman&query_place_id=ChIJr_ITwzTx9T4Rgtv8cGlDKYk",
+ "website": "",
+ "categories": [
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Thursday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Friday",
+   "hours": "3 PM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "Open 24 hours"
+  },
+  {
+   "day": "Sunday",
+   "hours": "Open 24 hours"
+  }
+ ],
+ "owner_description": "A Complete Gents & Ladies Fitness at Al Zahya Community.",
+ "amenities": {
+  "Accessibility": [
+   {
+    "Wheelchair accessible entrance": false
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Free street parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "friendly trainers",
+  "supportive trainers",
+  "karate classes",
+  "not overcrowded",
+  "variety of machines",
+  "lower body machines",
+  "certified trainers",
+  "tailored workouts",
+  "friendly staff",
+  "clean machines"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 0,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 7
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 41
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 0,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 98
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 49
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 0,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 6
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 38
+   }
+  ],
+  "We": [
+   {
+    "hour": 0,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 5
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 45
+   }
+  ],
+  "Th": [
+   {
+    "hour": 0,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 37
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 36
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 0,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 2,
+    "occupancyPercent": 4
+   },
+   {
+    "hour": 3,
+    "occupancyPercent": 3
+   },
+   {
+    "hour": 4,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 9
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 20
+   }
+  ]
+ },
+ "owner_reply_rate": 0.8,
+ "reviews": [
+  {
+   "author": "Manar Wassouf",
+   "rating": 5,
+   "when": "4 weeks ago",
+   "text": "⭐⭐⭐⭐⭐\n\nGreat gym with 24/7 access, which makes it very convenient. The staff are friendly, helpful, and professional. The trainers are excellent and always provide great support and motivation. Overall, a very clean and welcoming gym with a great atmosphere. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Aneesh Puthenpurakkel",
+   "rating": 5,
+   "when": "Edited 8 months ago",
+   "text": "I recently joined Jenoub Fitness Gym, and I’m extremely impressed! The gym is clean, well-equipped, and has a great positive atmosphere. The trainers are professional, supportive, and always ready to help.\n\nHighly recommended for anyone in Ajman who wants real fitness results! 💪",
+   "owner_reply": null
+  },
+  {
+   "author": "Muhammad Shafi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "jenoub gym is a welcoming atmosphere and staff, a clean and well-maintained facility with modern, versatile equipment, a supportive community, and a variety of classes and training areas ,the coaches are very good trainars …🥰🥰thare includes karate and kickboxing,good class and practicing. adults,kids and ladies classes available …",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "SOma Wisi",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "Unfortunately, the gym is completely closed on Sundays and only operates for half a day on Fridays, which is very inconvenient for many members.\n\nThe main reason I’m leaving this review is the manager’s lack of responsibility toward members’ concerns and suggestions. Despite repeated attempts to communicate, the manager does not answer phone calls or respond to WhatsApp messages, leaving customers’ feedback and requests completely ignored.\n\nWe kindly ask the owners and those responsible to look into this matter and take members’ concerns seriously. Better communication and more suitable operating hours would greatly improve the overall experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Evance Juma",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Jenoub Fitness Ajman is an excellent gym with great facilities, clean environment, and a very welcoming atmosphere. The staff are friendly, supportive, and highly professional — even the cleaning team keeps everything spotless, making workouts enjoyable. Truly one of the best gyms in Ajman",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Sanjay Krishnan Mr",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Yogesh is an excellent gym trainer with great knowledge, dedication, and a very supportive attitude. He always motivates and guides properly, making workouts effective and enjoyable. His commitment towards clients and attention to proper training really stand out. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Rabia Gilani",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Amazing experience and love the group classes they are fun and effective! The trainer is amazing and friendly but highly committed to the workouts! Highly recommend this gym!",
+   "owner_reply": null
+  },
+  {
+   "author": "ABBAS PAZHAMKULATHINGAL",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I recently had the opportunity to visit Jenoub Fitness Ajman. Here's my comprehensive review of my experience.\n\n*Facilities and Equipment:*\nThe gym has a wide range of modern equipment, including cardio machines, free weights, and resistance machines. The facilities are well-organized, making it easy to navigate.\n\n*Cleanliness and Maintenance:*\nThe gym is spotless, and the equipment is regularly cleaned and maintained. I was impressed with the hygiene standards.\n\n*Staff and Trainers:*\nThe staff are friendly and always ready to help. The trainers are knowledgeable and provided excellent guidance during my workout.\n\n*Atmosphere and Ambience:*\nThe atmosphere is motivating, with upbeat music and good lighting. It's a pleasant place to work out.\n\n*Membership and Fees:*\nThe membership fees are reasonable, especially considering the quality of the facilities. They also offer various promotions throughout the year.\n\n*Location and Accessibility:*\nLocated in a convenient area, it's easy to get to the gym. There's ample parking available, which is a plus.\n\n*Pros and Cons:*\n- *Pros:* Modern equipment, friendly staff, clean facilities\n- *Cons:* Can get crowded during peak hours\n\nOverall, I had a great experience at Jenoub Fitness Ajman. I would definitely recommend it to anyone looking for a quality gym in the area.",
+   "owner_reply": "Dear Mr.Abbas <br>Thank you so much for taking the time to share your detailed thoughts about your experience at our gym. We truly appreciate the effort you put into your feedback, and it means a lot to us.<br><br>We’re thrilled to hear that you enjoy working out in our gym. Your insights help us understand what we’re doing well and where we can improve. Our goal is to provide a welcoming and supportive environment for all our members, and your review reaffirms that we’re on the right track.<br><br>If you have any further suggestions or if there’s anything more we can do to enhance your experience, please don’t hesitate to reach out. We look forward to seeing you at the gym soon!<br><br>If you have any further suggestions or if there’s anything more we can do to enhance your experience, please don’t hesitate to reach out. We look forward to seeing you at the gym soon!"
+  },
+  {
+   "author": "Tito Tito",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Nice GYM with super friendly coach’s and everyone is supporting “ Free coaching sessions “\n\nRecommended",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "khalifa k",
+   "rating": 3,
+   "when": "Edited 3 months ago",
+   "text": "The gym is excellent in terms of cleanliness, modern equipment, and professional staff. The overall atmosphere is very motivating for regular workouts.\n\nHowever, I have one major complaint regarding the management's lack of respect for trainees' preferences when requesting music to be played. Working out without music makes the experience less enjoyable and dampens the enthusiasm. I highly recommend that management takes member feedback into consideration to create a better and more energetic workout environment",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Mr Zain",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Good gym with new machines and less crowd. rates are similar to any other gym. The lower section is for regular gym, whereas the upper section is for cardio and more focused on legs. Both section has its own washroom.\n\nAmenities:\n1) Lockers ( small and mid size)\n2) Shower\n3) Washrooms\n4) Free Parking\n\nBenefits:\n1) No other gym nearby in the vicinity\n2) Less crowd\n3) New Machines\n4) Coaches are really helpful",
+   "owner_reply": "Dear Mr.Zain<br>Thank you so much for taking the time to share your thoughts and experiences with us! We truly appreciate your detailed feedback and are thrilled to hear about your positive experiences at our gym.<br><br>Your insights help us understand what we’re doing well and where we can improve. We're committed to providing our members with the best possible environment and support for their fitness journeys. It’s wonderful to know that our efforts are making a difference for you!<br><br>If you have any further suggestions or if there's anything else we can do to enhance your experience, please don’t hesitate to reach out. We look forward to seeing you at the gym!"
+  },
+  {
+   "author": "Salma Mistry",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Honestly the friendliest staff I have come across. The trainers here are really supportive and take the time and effort to train each and every member that walks in the gym. My trainer Rashid has really helped me progress and reach my target ! Shoutout to Rashid, Mubeen, Pranav and akshaya 🫶🏻. You’re the best and thank you for your effort!!",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Caliii 23",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I’ve been coming to this gym for a while now, and I’ve been nothing but happy! The machines are always well taken care of and spotless. The trainers are very welcoming, friendly, and genuinely invested in helping you reach your goals. The atmosphere is great and the staff always greet you with a smile. Overall, a great place to train whether you’re just starting out or have been working out for years! Highly recommend! 💪",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "qazi adnan sajjad",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Best gym , the environment is best for everyone! Everyone trainer is professional and friendly, and lastly the hygiene is best .",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Habu",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great gym, friendly helpful staff and all the machines you need that are top quality",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Nabil moosa",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "What truly makes this gym stand out is the friendly and professional staff. The trainers are highly knowledgeable, always ready to help, and genuinely care about your fitness journey. They don’t just guide you – they motivate, support, and push you to achieve your goals the right way.",
+   "owner_reply": "Thank you so much for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Sunny Singh",
+   "rating": 4,
+   "when": "11 months ago",
+   "text": "Jenoub Gym is a great place to work out. The staff is very supportive, always ready to help, and they make the environment welcoming for everyone. The gym is well-maintained and kept clean at all times, which makes the experience even better. Overall, it’s a solid choice for anyone looking for a clean, friendly, and reliable gym.",
+   "owner_reply": "Thanks for your valuable feedback💪💗"
+  },
+  {
+   "author": "Darun Kaarthik Asokan",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Excellent gym with friendly coaches and provides the best pricing in this area.",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "ijaaz glover",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "they are very nice and everyone is respectful when using equipment and polite when asking for their turn",
+   "owner_reply": null
+  },
+  {
+   "author": "karan singh",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "I’ve had a great experience at my gym! The environment is always motivating and well-maintained. A special mention to Coach Rashid — he’s always there to assist me without even asking, making every workout smoother and more effective. Really appreciate his guidance and support! 💪",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Irfan Yoonus",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Great gym with a positive vibe! The staff are super welcoming, and the trainers really know their stuff. The gym is always clean, the machines are modern, and there’s plenty of space so it never feels overcrowded. I’ve noticed real progress since joining, and I actually look forward to my workouts now. Totally worth it!",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Rayees Fathima",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I've been training at this gym for a while now, it has a great atmosphere that keeps me motivated every time I walk in. Whether you're a beginner or more advanced, there's something here for everyone.\n\nWhat truly sets this gym apart is the coaching staff. The All Four coaches (Akshaya) are very knowledgeable and professional, and also incredibly supportive and approachable. They take the time to understand your goals, tailor workouts to your needs, and push you to become the best version of yourself — all while making sure you're staying safe and using proper technique.\n\nEvery session feels structured, challenging, and rewarding. Thanks to their guidance, I've seen real progress in my strength, endurance, and overall fitness.\n\nHighly recommend this gym to anyone looking for a supportive community and results-driven training environment. You won’t be disappointed!😊",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Siba 473",
+   "rating": 4,
+   "when": "8 months ago",
+   "text": "I’ve been coming here for almost 2 weeks and I really like it, the coaches are friendly and helpful, and the atmosphere is great. The only thing missing is internet access. I hope they can add it soon!",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Shamil S",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I've been training at this gym for a few months now, and I can honestly say it's one of the best fitness environments I've experienced. The facility is clean, well-maintained, and equipped with top-notch machines and free weights. The staff is always friendly, knowledgeable, and eager to help. Whether you're a beginner or a seasoned athlete, the trainers tailor workouts to your goals and make you feel supported every step of the way. I especially appreciate the positive vibe and sense of community here—it's motivating and energizing every time I walk in. Highly recommend!",
+   "owner_reply": "Thanks for your valuable feedback 💪 💗 "
+  },
+  {
+   "author": "Vajid Hassan",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Great gym with friendly trainers, positive coaches, and a motivating atmosphere. The facilities are clean and well-equipped. Highly recommended!",
+   "owner_reply": "Thanks for your valuable feedback ❤️💪"
+  },
+  {
+   "author": "Sarah Abbas",
+   "rating": 3,
+   "when": "a year ago",
+   "text": "Very nice place and the instructors are always nice and try to correct your workout if you are doing it wrong.\nHowever, there’s two down sides:\n1- not all AC always On. Especially in the morning, I need to ask the staff to turn it on multiple times.\n2- machines are there but lower body machines are literally 5 or 6. Which is could be an issue when the gym is a bit crowded.",
+   "owner_reply": "Thanks for your valuable feedback "
+  },
+  {
+   "author": "Samarth Shukla",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Clean and well-maintained gym with top-notch equipment.\n\nFriendly and knowledgeable trainers always ready to help.\n\nGreat variety of workout classes for all fitness levels.\n\nSpacious and never feels overcrowded.\n\nMotivating and positive atmosphere.\n\nHighly recommend for anyone looking to stay fit!",
+   "owner_reply": "Dear Mr.Samarth<br>Thank you so much for taking the time to share your thoughts and experiences with us! We truly appreciate your detailed feedback and are thrilled to hear about your positive experiences at our gym.<br><br>Your insights help us understand what we’re doing well and where we can improve. We're committed to providing our members with the best possible environment and support for their fitness journeys. It’s wonderful to know that our efforts are making a difference for you!<br><br>If you have any further suggestions or if there's anything else we can do to enhance your experience, please don’t hesitate to reach out. We look forward to seeing you at the gym!"
+  },
+  {
+   "author": "Srijin k",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I've been working out at this gym for a while now, and I’m really impressed.\nThe trainers are very friendly, and always willing to help. The atmosphere is motivating and there is plenty of space to work out comfortably, even during peak hours.\n\nAll the equipment is brand new and very well maintained, which makes a huge difference in the quality of workouts. One of my favorite perks is the daily free cardio workout class, it's a great way to stay consistent and push yourself.\n\nOverall, a fantastic place to train and stay fit. Highly recommend!",
+   "owner_reply": "🤩🥰"
+  },
+  {
+   "author": "Maryam Esteki",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "The atmosphere of the gym is amazing! The trainers and reception staff are all very friendly and professional. Especially Mobin, he’s always super helpful to me and my husband, guiding us through every workout. Highly recommend this place!",
+   "owner_reply": "Thanks for your valuable feedback ma'm 💪 💗 "
+  },
+  {
+   "author": "Toepie Pinky",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Good gym. Equipment is well-maintained and there's a great variety of machines and free weights. The atmosphere is motivating, with good music that keeps you energized during workouts. The staff is friendly, and the space is clean and organized. Highly recommend for anyone serious about fitness!",
+   "owner_reply": "Thank you so much for your kind words! We're thrilled to hear that you had a great experience with us. Your support means the world to our team, and we look forward to serving you again soon! If you have any feedback or suggestions, feel free to share. Have a wonderful day!"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    478,
+    850
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    512,
+    439
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/jenoub-fitness-ajman/",
+ "buy_likelihood": 8
+}

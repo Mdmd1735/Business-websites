@@ -1,0 +1,990 @@
+{
+ "slug": "eminence-gym",
+ "name": "Eminence gym",
+ "place_id": "ChIJDXXOJgBZXz4RK_q8pWnhWJs",
+ "category": "gym",
+ "category_weight": 15,
+ "area": "Ajman",
+ "address": "2 Al Nuaimia - Ajman - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3896724,
+  "lng": 55.4493522
+ },
+ "phone": "+971 55 280 8095",
+ "rating": 4.9,
+ "userRatingCount": 123,
+ "rating_distribution": {
+  "oneStar": 1,
+  "twoStar": 0,
+  "threeStar": 1,
+  "fourStar": 2,
+  "fiveStar": 119
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Eminence%20gym&query_place_id=ChIJDXXOJgBZXz4RK_q8pWnhWJs",
+ "website": "",
+ "categories": [
+  "Gym"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "5 to 11 PM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "5 AM to 2 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "5 AM to 2 AM"
+  }
+ ],
+ "owner_description": null,
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Membership required": true
+   }
+  ],
+  "Payments": [
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "coach nisham",
+  "new machines",
+  "free diet plan",
+  "Dedicated trainers",
+  "bodybuilding",
+  "trainers",
+  "coaching",
+  "affordable fees",
+  "clean equipment",
+  "friendly staff"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 34
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 97
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 25
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 84
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 31
+   }
+  ],
+  "We": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 21
+   }
+  ],
+  "Th": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 64
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 81
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 26
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 4,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 5,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 6,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 10
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 30
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "shahid riza",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "\"One of the best gyms around! Eminence gym offers excellent facilities and a great workout environment. The coaches and trainers are absolutely amazing, supportive, and knowledgeable. Highly recommended!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Adarsh As",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "One of the best Gym in ajman naumiya I have been training in the for the past 1 year very reasonable pricing and good coaches as well especially Anadhu he helped lose weight journey and build a good physique I recommend you all eminence gym",
+   "owner_reply": null
+  },
+  {
+   "author": "Akhil Ahmdd",
+   "rating": 5,
+   "when": "8 months ago",
+   "text": "Good gym and good training nice atmosphere, 💪😀\nEspecially Coach Nisham\nTry with coach nisham",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamad Abdulfatah",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "good gym experience good quality machines and equipment and affordable price 👍👍 good coaches especially coach nisham",
+   "owner_reply": null
+  },
+  {
+   "author": "Hiba Rishad",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Very nice training and friendly coaches 😊👍🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "AKM",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "coach nisham is the best coach\nreally the gym is nice and clean always and all equipments are the best.",
+   "owner_reply": null
+  },
+  {
+   "author": "Basheer Ttv",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Very very good  gym Mr noushad and Mr Isham very good trainer friendly corporateve supporter thanks",
+   "owner_reply": null
+  },
+  {
+   "author": "Waseem Ahamed",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Eminence gym in Nuaimiya, Ajman is very good. All the coaches are friendly and supportive. I especially like Coach Noushad — he feels like a brother to me in this gym. I have now completed 8 months here, and every time we visit, the atmosphere is active and energetic. The fees are affordable, and the quality of the machines and coaching is excellent.",
+   "owner_reply": null
+  },
+  {
+   "author": "reda bder",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Very nice gym and perfect coaching",
+   "owner_reply": null
+  },
+  {
+   "author": "Karas Seliman",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "really good gym. contains everything a gym man needs!",
+   "owner_reply": null
+  },
+  {
+   "author": "Lula Muhammed",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Very nice gym for ladies\nPerfect training\nNice coaches\nEspecially coach nisham",
+   "owner_reply": null
+  },
+  {
+   "author": "حليم ياسين النقيب",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Advanced devices And the coach is committed You can feel the difference from the start, thank you so much for all the support.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jashin",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Nce coaching\nAnd free deit plan and coaching\nVery nice atmosphere\nEspecially coach nisham is very nice",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohammed Albardawel",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Very nice gym , good atmosphere for workouts and friendly coaches give you workouts with diet plans, same like private coaching ❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "MalikAdnan sajjad",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Good training\nAnd good coach, especially coach nisham,💪",
+   "owner_reply": null
+  },
+  {
+   "author": "Yousf Alhousen",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Very nice gym and good training 💪 Coach Nisham",
+   "owner_reply": null
+  },
+  {
+   "author": "mohamed farah",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "What truly sets this gym apart is the community they've built. It's a place where you feel motivated not just by your own goals but by the collective energy and camaraderie of the members and staff. If you're looking for a place that combines excellent facilities with exceptional coaching and a supportive environment, this gym is the perfect choice. Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mujahid AlGabali",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "It's one of the most perfect gyms. Despite the area not being so wide, you can notice smartness and creativity in the design, where a lot of people are working out, at the same time, no queues, no waiting. So clean, couches are very nice and helpful, and you will miss nothing here as an expert bodybuilder, but the time you wasted before joining.",
+   "owner_reply": null
+  },
+  {
+   "author": "Essa 7",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Nisham is the best gym trainer at the best gym 💯🔝🔝🔝",
+   "owner_reply": null
+  },
+  {
+   "author": "Binsy Faisi",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Amazing facility, top equipment and great environment. Good service with friendly staff and super clean and comfortable gym for everyone from beginners to professional athletes to train at.\nBeing a lady i feel very much comfortable with the environment in gym. My coach Mr Noushad is very professional and strict. Mr Nisham also helping me in weight lifting workouts.\nOverall iam so happy with Eminence Gym",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohtashim Ali",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Very perfect coaching",
+   "owner_reply": null
+  },
+  {
+   "author": "Mohamed Abdo",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Good gym and good coaching 👍👍👍",
+   "owner_reply": null
+  },
+  {
+   "author": "Hassan Ali",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing coach and very friendly environment",
+   "owner_reply": null
+  },
+  {
+   "author": "Ruble Rubeneciaiii",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "This gym is fantastic, all the trainers are nice, great experience, i would recommend this to everyone",
+   "owner_reply": null
+  },
+  {
+   "author": "Haris Khan",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "Take care my love",
+   "owner_reply": null
+  },
+  {
+   "author": "ubaid rehman",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very friendly people very nice I come here and enjoy everyday",
+   "owner_reply": null
+  },
+  {
+   "author": "RayanSayal",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Amazing gym been there for over a month and truly helped me and motivated me amazing trainers too I recommend it",
+   "owner_reply": null
+  },
+  {
+   "author": "Shanu mukkandath",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Great gym with friendly staff and clean equipment. I always feel motivated to work out here. Highly recommend.💪",
+   "owner_reply": null
+  },
+  {
+   "author": "Jaker Hoshan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Very nice gym and nice training.\nIf you take Membership you got also diet i think thats nice 🤩",
+   "owner_reply": null
+  },
+  {
+   "author": "mostafa",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Good training and good atmosphere 👌 also hood coach, specially coach Nisham",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    386,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    387,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/eminence-gym/",
+ "buy_likelihood": 8
+}

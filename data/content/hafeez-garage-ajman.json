@@ -1,0 +1,31 @@
+{
+ "preset": "ocean-wash",
+ "theme": {"accent": "#0B5FA5", "accent_text": "#0B5FA5", "surface_2": "#DCE8F3", "duo": "#BFD5EA", "busy": "#2D7FC4", "band_bg": "#08223D", "band_accent": "#FFB020", "frame": "square", "hero_ratio": "4/3"},
+ "extra_css": ".ticker{background:#FFB020;color:#08223D}",
+ "brand": {"name": "Hafeez", "sub": "Garage · Ajman", "mark": "H", "footer_word": "HAFEEZ"},
+ "seo": {"title": "Hafeez Garage Ajman | Mechanical, Electrical, AC & Radiator Repair · Manama Street", "description": "Hafeez Garage, Manama Street near Noor Talal, New Industrial Area, Ajman: mechanical repair, electrical diagnostics, ECU programming, AC, radiator repair and engine replacement. Rated 4.9 from 144 reviews."},
+ "hero": {"variant": "stack", "ar_name": "كراج حفيظ", "kicker": "Manama Street · Near Noor Talal · New Industrial Area, Ajman", "title_lines": ["Honest repairs.", "No unnecessary extras."],
+   "lede": "Mechanical, electrical and AC work, ECU and computer programming, radiator repair and engine replacements, from a team that explains the fault before touching anything.",
+   "image": "img/hero.jpg", "image_alt": "Cars with bonnets open in the Hafeez Garage workshop", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Get a quote on WhatsApp", "cta_text": "Hi Hafeez Garage, I need a quote for my car.",
+ "proof_note": "Rated 4.9 from 144 reviews",
+ "address_lines": ["Hafeez Garage, Manama Street", "Near Noor Talal, New Industrial Area, Ajman"],
+ "ticker": ["Mechanical", "Electrical", "OBD diagnostics", "ECU programming", "Car AC", "Radiator repair", "Engine replacement"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "We find the fault", "title_dim": "before we fix it.",
+   "items": [
+    {"name": "Mechanical & engine", "feature": true, "img": "img/engine.jpg", "alt": "Engine bay during repair", "desc": "Engine and gearbox work, including full replacements.", "quote": "Honest, professional, and they take real pride in their work. They explain everything clearly and don't push unnecessary repairs.", "cite": "Siddek M."},
+    {"name": "Electrical & ECU", "img": "img/ecu.jpg", "alt": "Technician holding an ECU board", "desc": "Diagnostics, wiring, batteries and programming."},
+    {"name": "Radiator & cooling", "img": "img/radiator.jpg", "alt": "Radiator on the workbench", "desc": "Radiator repair, flush and testing."},
+    {"name": "Car AC", "img": "img/mechanic.jpg", "alt": "Mechanic working on the front of a car", "desc": "Gas, compressors and leak repair."}
+   ],
+   "perks": ["Open 8 AM – 11 PM (Fri 4 – 11 PM)", "Nissan specialists", "Clear explanations"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Plan your visit", "title": "Drop off early,", "title_dim": "collect same day."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Ask for", "title": "Hassan.", "title_dim": "Customers do.", "items": [{"name": "Hassan", "count": 4, "role": "Lead mechanic"}]},
+  {"type": "gallery", "images": [{"src": "img/sign.jpg", "alt": "Hafeez Garage sign"}, {"src": "img/hummer.jpg", "alt": "Hummer H2 in for repair", "wide": true}, {"src": "img/cruiser.jpg", "alt": "Land Cruiser on the ramp"}, {"src": "img/tank.jpg", "alt": "Radiator leak test tank", "wide": true}, {"src": "img/front.jpg", "alt": "Workshop front", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "quote", "eyebrow": "Quote", "title": "Tell us what's wrong.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["My car won't start. Can you check it today?", "How much for an AC gas refill?", "Can you program a replacement ECU?", "Price for a radiator repair?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "New Industrial Area,", "title_dim": "Ajman."}
+ ]
+}

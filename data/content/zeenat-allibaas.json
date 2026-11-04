@@ -1,0 +1,32 @@
+{
+ "preset": "royal-plum",
+ "theme": {"accent": "#E0A84B", "accent_text": "#EDBD69", "on_accent": "#1A1206", "bg": "#140C14", "surface": "#1E141E", "surface_2": "#291C29", "duo": "#4A2B48", "busy": "#9C4E8C", "band_bg": "#FBF2F7", "band_accent": "#8C2F72", "frame": "arch", "hero_ratio": "3/4", "dcase": "none"},
+ "brand": {"name": "Zeenat Al Libaas", "sub": "Ladies Tailoring · Abu Hail", "mark": "Z", "footer_word": "Zeenat"},
+ "seo": {"title": "Zeenat Al Libaas | Ladies Tailoring, Pakistani & Indian Suits, Embroidery in Abu Hail, Deira", "description": "Zeenat Al Libaas, Shop 18, MRM Building, 33rd Street, Abu Hail, Deira: Indian, Pakistani, Arabic and Western ladies' tailoring, salwar and blouse stitching, laces, embroidery and alterations for ladies and gents. 4.9 from 140 reviews."},
+ "hero": {"variant": "split", "ar_name": "زينة اللباس", "kicker": "Shop 18 · MRM Building · Abu Hail, Deira", "title_lines": ["Stitched right", "the first time."],
+   "lede": "Indian, Pakistani, Arabic and Western ladies' tailoring: suits, kurtis, salwar and blouse stitching with dyeing, laces and lining, embroidery and alterations, delivered on time.",
+   "image": "img/hero.jpg", "image_alt": "Zeenat Al Libaas storefront lit at night", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Message on WhatsApp", "cta_text": "Hi Zeenat Al Libaas, I'd like to get a suit stitched.",
+ "proof_note": "4.9 · the owner replies to every review",
+ "address_lines": ["Zeenat Al Libaas, Shop 18, MRM Building", "33rd Street, Abu Hail, Hor Al Anz East, Deira"],
+ "socials": {"facebook": "Zeenat-Al-Libaas-105304001699008"},
+ "ticker": ["Pakistani suits", "Indian suits", "Kurtis", "Salwar", "Blouse stitching", "Laces & lining", "Embroidery", "Alterations"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Your design,", "title_dim": "our needle.",
+   "items": [
+    {"name": "Suits & kurtis", "feature": true, "img": "img/yellow.jpg", "alt": "Yellow embroidered kurta with lace trim", "desc": "Pakistani and Indian suits, finished with dyeing, laces and lining.", "quote": "I have been stitching with Hubaib for the past 8–10 years. Every time, it's perfect.", "cite": "Farah N."},
+    {"name": "Party & Eid wear", "img": "img/orange.jpg", "alt": "Orange embroidered party suit", "desc": "Heavier embroidery and formal outfits."},
+    {"name": "Blouse & salwar", "img": "img/blue.jpg", "alt": "Blue silk with buttons", "desc": "Blouse, salwar and churidar stitching."},
+    {"name": "Alterations", "img": "img/mannequins.jpg", "alt": "Mannequins in the shop", "desc": "Mending and alterations for ladies and gents."}
+   ],
+   "perks": ["Open daily 11 AM – 11 PM", "On-time delivery", "Ladies & gents alterations"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Before Eid", "title": "Book early", "title_dim": "for festive orders."},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "The tailors", "title": "Hubaib, Afsha", "title_dim": "and Wajid.",
+   "items": [{"name": "Hubaib", "count": 4, "role": "Master tailor"}, {"name": "Afsha", "count": 4, "role": "Design & fitting"}, {"name": "Wajid", "count": 4, "role": "Tailor"}]},
+  {"type": "gallery", "images": [{"src": "img/teal.jpg", "alt": "Teal embroidered suit"}, {"src": "img/cake.jpg", "alt": "Celebration cake with Zeenat Al Libaas name"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "ask", "eyebrow": "Ask", "title": "Send us your design.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much to stitch a Pakistani suit?", "How long for an Eid order?", "Can you copy a design from a photo?", "Do you deliver?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Abu Hail,", "title_dim": "Deira."}
+ ]
+}

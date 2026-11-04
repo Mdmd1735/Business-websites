@@ -1,0 +1,1293 @@
+{
+ "slug": "kodiyal-restaurant-sharjah-al-nahda",
+ "name": "Kodiyal Restaurant Sharjah Al Nahda",
+ "place_id": "ChIJz7J8OiNdXz4RvBV0dxRHrws",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Al Nahda, Sharjah",
+ "address": "Al wazir building Nahda - behind KFC - Hay Al Nahda - Sharjah - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.3050704,
+  "lng": 55.3750975
+ },
+ "phone": "+971 58 859 1212",
+ "rating": 4.8,
+ "userRatingCount": 436,
+ "rating_distribution": {
+  "oneStar": 8,
+  "twoStar": 1,
+  "threeStar": 6,
+  "fourStar": 28,
+  "fiveStar": 393
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Kodiyal%20Restaurant%20Sharjah%20Al%20Nahda&query_place_id=ChIJz7J8OiNdXz4RvBV0dxRHrws",
+ "website": "",
+ "categories": [
+  "Restaurant"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "7 AM to 11 PM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "7 AM to 11 PM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "7 AM to 11 PM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "7 AM to 11 PM"
+  },
+  {
+   "day": "Friday",
+   "hours": "7 AM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "7 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "7 AM to 11 PM"
+  }
+ ],
+ "owner_description": "Serving Authentic Managorean food. We serve Breakfast, Lunch and Dinner",
+ "amenities": {
+  "Service options": [
+   {
+    "Delivery": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   },
+   {
+    "Great tea selection": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Offerings": [
+   {
+    "All you can eat": true
+   },
+   {
+    "Coffee": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Groups": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   }
+  ],
+  "Parking": [
+   {
+    "Paid parking lot": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "mangalorean food",
+  "golibaje",
+  "neer dosa",
+  "prawns ghee roast",
+  "mangalore buns",
+  "biryani",
+  "fish thali",
+  "fish fry",
+  "chicken kabab",
+  "fish curry"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 99
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 8
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 38
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 40
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 22
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 60
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 0
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 46
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 54
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 95
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 78
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "shammas abdul shukkoor",
+   "rating": 4,
+   "when": "2 months ago",
+   "text": "Tried fish thali at Kodiyal Restaurant and really enjoyed it. The food had an authentic Mangalorean seafood taste, and thali came with a decent sized fish fry along with some sides. Everything tasted fresh and well prepared.\n\nThe service was good, and the ambience was pleasant and comfortable. Overall, a great place to enjoy a proper Mangalorean style seafood meal. Definitely worth trying if you enjoy authentic coastal / Mangalorean flavours!",
+   "owner_reply": null
+  },
+  {
+   "author": "Satya M Shetty",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "⭐⭐⭐⭐⭐\n\nAbsolutely loved our experience at Kodiyal Restaurant! ❤️ The Mangalorean food was superb, authentic, and full of flavour—truly satisfying for anyone who loves Mangalorean cuisine.\n\nAnd a special mention to the waiter, who was exceptionally friendly, attentive, and helpful. His excellent service made our dining experience even more enjoyable. 👏\n\nAmazing food + outstanding service = a perfect experience!\nHighly recommended! ❤️🙏\n\n⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": null
+  },
+  {
+   "author": "Fiona Peters",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing food! It truly felt like home. The staff were very friendly, and the owner was warm and welcoming. We ordered the Crab Ghee Roast, Prawns Masala, and Prawns Mango Curry, and every dish was absolutely delicious. The flavors were authentic, fresh, and perfectly cooked. It was a complete foodgasm! 😍 Definitely one of the best Mangalorean food experiences. Highly recommended, and I'll definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Hnin Thiri",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Delicious biryani with rich flavors and generous portions. My husband absolutely loved the food.The food was fresh, tasty, and satisfying. Friendly service and a comfortable dining atmosphere. Will definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Cherry Plenos",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Amazing Biryani in Al Nahda\nOur Filipino family tried the chicken and mutton biryani and it was fantastic! The flavors are just like the fancy spots in town, but at great prices.\n\nHighly recommend it for anyone craving biryani!",
+   "owner_reply": null
+  },
+  {
+   "author": "Darshan",
+   "rating": 5,
+   "when": "Edited 5 months ago",
+   "text": "Tried this place while passing by Sharjah. Authentic Mangalorean food, Delicious Meals and fish. Staff and owner and very friendly. Must try . Will definitely visit again",
+   "owner_reply": null
+  },
+  {
+   "author": "Sowmya A",
+   "rating": 4,
+   "when": "Edited 2 months ago",
+   "text": "Must-try authentic Mangalorean food at a good price! The ambience is nice and clean, and the staff are very kind and welcoming. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Errol Clement Dsouza",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "One of the best mangalorean food that we had. Must visit restaurant in Sharjah. Enjoy their food. Very friendly staff and manager. They will ask for food feedback at the same time. If staying in Sharjah or in dubai please visit this place. Very cooperative. Good Mangalorean food options both multiple options for food. Thank you.",
+   "owner_reply": null
+  },
+  {
+   "author": "Amrita Mukherjee",
+   "rating": 3,
+   "when": "7 months ago",
+   "text": "We visited Kodiyal Restaurant and tried the Mysore Masala dosa—it was okay but not particularly outstanding. The staffs were polite and courteous, and the ambience was satisfactory. Overall, it was an average experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Tinu Thomas",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Mangalapuram meals tried nice also fish fry? Thank you team for the wonderful experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rohit Anand",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had a wonderful experience at this restaurant today the staff is very homely and courteous. The food was outstanding. I would recommend at this restaurant to anybody who would like to try Mandalorian food.",
+   "owner_reply": null
+  },
+  {
+   "author": "prashanth 2009",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "🙏🏼 Thank you, Kodiyal Restaurant, Sharjah! 🙏🏼\n\nWe had a family lunch function at home and initially ordered lunch for around 15 people. But the food was so delicious that we ended up serving around 22–23 people! 😍\n\nThe Mangalorean local food had around 13–15 different items, and every dish was absolutely amazing. The taste reminded us of a function back home in our hometown. ❤️\n\nAll our family and friends who came to our home really loved the food and appreciated the taste. There was absolutely no compromise on taste or quality.\n\nThank you so much, Kodiyal Restaurant, Sharjah, for making our family function even more special. 🙏🏼❤️\n\nThumba ishta aayithu namagellargu! 😍\nHighly recommended for authentic Mangalorean food! 👌🏼",
+   "owner_reply": null
+  },
+  {
+   "author": "Lancy Pinto",
+   "rating": 5,
+   "when": "3 months ago",
+   "text": "Finally we have an authenic Mangalorean restaurant in Sharjah. We tried this restaurant upon suggestion by one of our friends.  The food was amazing and also the service. You feel like you are eating the home cooked meal. Their biriyani reminded me of Mangalorean flavours. The fish thali is simply amazing. I would recommend this restaurant to anyone missing Mangalorean food",
+   "owner_reply": null
+  },
+  {
+   "author": "Sanjeev Vasudevan",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "First time visit on 11.01.26. For having breakfast with family. Had ordered Goli Bhaji, Mangalore Buns, Kesari Bath and Ghee Dosa. The food taste was very good. The service was very quick. Will go there again to try their non-veg dishes for lunch or dinner. Overall very satisfying. My office colleagues had recommended this place as they were from mangalore.",
+   "owner_reply": null
+  },
+  {
+   "author": "Avi Official",
+   "rating": 5,
+   "when": "Edited 5 months ago",
+   "text": "Tasty Mangalorean food! Tried the Chicken Kabab, Prawns Ghee Roast, Maanji Tawa Fry, Chicken Sukka , Neer Dosa, and Pundi — all were delicious. Will definitely revisit the restaurant to try more dishes. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Sasha Monteiro",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Awesome food! Their breakfast is great, and if you love authentic Mangalorean coastal food, their ghee roast and fresh seafood are a must-try. Totally worth it, easily one of the best spots in Sharjah.",
+   "owner_reply": null
+  },
+  {
+   "author": "MOHAMED SHAMEER MOOSAKHAN",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "One of the best of not the best mangalorean restaurants in Dubai and Sharjah… visited them for a late lunch they graciously accepted us. Staffs are friendly… food awesome… I had also visited their Dubai branch for breakfast… both Dubai and Sharjah branch food is amazing and good quality… all mangaloreans and all good food lovers must visit them… Dubai branch has slightly better interiors and more spacious..",
+   "owner_reply": null
+  },
+  {
+   "author": "Thilakraj Konchadi",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "We visited Kodiyal Restaurant for lunch and had a wonderful experience. The hospitality was excellent, and the staff were warm, welcoming, and attentive throughout our visit. What truly stood out was the authentic Mangalorean food served here. Every dish reflected traditional flavors and tasted just like home-cooked food. The quality, taste, and authenticity of the cuisine made our dining experience memorable. Highly recommended for anyone looking to enjoy genuine Mangalorean delicacies in Sharjah.",
+   "owner_reply": null
+  },
+  {
+   "author": "Calvin Rebello",
+   "rating": 3,
+   "when": "3 months ago",
+   "text": "Gave 3 star rating as I just went to this place with my family yesterday and while the ambience was good we requested for non-spicy chicken noodles for my 2yr old daughter and all the dishes for my dad which was green masala mutton curry and tawa fish fry to be non-spicy as they cannot handle spicy food. The waiter assured us of this but gave us super spicy food. We even ordered kori roti which we told less spice but that was also extremely spicy. We ordered also the Ghee roast which was super firey spicy but flavorful. Not too happy that our request was not considered but food was decent which is why I gave 3 stars.",
+   "owner_reply": null
+  },
+  {
+   "author": "Alphonse D'souza",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Tasty homely Mangalorean food. Friendly staff. Had delicious Chicken ghee roast (truly awesome!), fish thali (highly recommended).. cooling “kokam drink” for the summer! All in all, a great dining experience.",
+   "owner_reply": null
+  },
+  {
+   "author": "Rezekiev Rego",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "Amazing manglorean food, good and cozy place. Must visit!!\nBest item is angel fish and their Khori roti set..\nRohit was the best host at the restaurant..",
+   "owner_reply": null
+  },
+  {
+   "author": "Walter",
+   "rating": 5,
+   "when": "10 months ago",
+   "text": "Best Mangalorean food in Sharjah – just 10 minutes from Dubai!\n\nKodiyal Restaurant in Al Nahda, Sharjah is hands down the best place for authentic Mangalorean cuisine. The flavors are rich, traditional, and taste just like home. From the perfectly spiced chicken ghee roast to the neer dosa and seafood curries, every dish is fresh and full of authentic coastal flavor.\n\nThe service is warm and friendly, and the staff is always helpful with recommendations. Portions are generous and prices are very reasonable for the quality you get. If you’re craving true Mangalorean food, this place is a must-visit. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Mishal Dsouza",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Hands down the best mangalorean food in Sharjah. We took fish thali and king fish tawa fry. The fish was one of the best ever had in UAE. Prices are reasonable and food is worth.",
+   "owner_reply": null
+  },
+  {
+   "author": "Supriya Shetty",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "We had lunch here at Kodiyal restaurant, food quality was really good and authentic manglorean  taste you will get. Very fast service and hygiene 👌🏻if you want Mangalore taste must visit and enjoy. Staff are very friendly. Will visit again and again.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sandy King",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "I ordered chicken biryani from this restaurant for the first time today. The experience was very disappointing. The taste was very very bad, the chicken was not cooked properly, and even the raita seemed spoiled. I definitely won’t recommend this restaurant to anyone.",
+   "owner_reply": null
+  },
+  {
+   "author": "Premila Vas",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Awesome food! Their marvai pundi was more delicious than what I ate in Mangalore! 🥳🥳marwai was very fresh, curry had authentic taste, totally enjoyed.  Neeru dose  was just perfect. Chicken koliwada had mouthwatering taste so were the squids .  Service was quick.\nI enjoyed every bit of my experience at Kodiyal Restaurant . Will be visiting soon this weekend.\nIf you are looking for authentic Mangalorean delicacies with taste and freshness, do visit Kodiyal Resturant!\nHighly recommended 🤩",
+   "owner_reply": null
+  },
+  {
+   "author": "Sameer Sheikh",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "A perfect destination for authentic Mangalore food. If you’re craving the true flavors of Mangalore, don’t miss this place. Amazing food, friendly service, and affordable prices make it absolutely worth visiting.",
+   "owner_reply": null
+  },
+  {
+   "author": "Elston D'cruz",
+   "rating": 1,
+   "when": "6 months ago",
+   "text": "They were good when they started.\nWe were regular customers & we have suggested so many people to visit here as initially their food was good.\nBut right now they are not accepting Zomato pay, even when they are listed on Zomato.",
+   "owner_reply": null
+  },
+  {
+   "author": "Umama Saiad",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "If you’re craving authentic coastal flavors, Kodiyal Restaurant is definitely worth a visit!\nThe prawns curry is an absolute must-try—rich, flavorful, and perfectly spiced. The fish rawa fry is just as amazing, crispy on the outside and tender inside. Every bite really took me back to my home country.\nDon’t miss the lime soda—it’s incredibly refreshing and pairs perfectly with the meal.\nOverall, a fantastic experience with very nice food. Highly recommended for anyone looking to enjoy delicious seafood!",
+   "owner_reply": null
+  },
+  {
+   "author": "sinan CNan",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "We had a wonderful experience at this restaurant. The food was delicious with a great variety to choose from, and the breakfast was excellent. The service was impressively quick, and the staff was very attentive. It is a very family-friendly atmosphere, and we felt completely comfortable dining here with our infant",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    720,
+    1280
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    901
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    362,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    381,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    370,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    364,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    512,
+    367
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-11.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-12.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-13.jpg",
+   "source": "review",
+   "size": [
+    512,
+    298
+   ]
+  },
+  {
+   "file": "img/raw/review-14.jpg",
+   "source": "review",
+   "size": [
+    512,
+    460
+   ]
+  },
+  {
+   "file": "img/raw/review-15.jpg",
+   "source": "review",
+   "size": [
+    512,
+    342
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    366,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    470,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/kodiyal-restaurant-sharjah-al-nahda/",
+ "buy_likelihood": 7
+}

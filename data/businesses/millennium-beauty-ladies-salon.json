@@ -1,0 +1,393 @@
+{
+ "slug": "millennium-beauty-ladies-salon",
+ "name": "Millennium Beauty Ladies Salon",
+ "place_id": "ChIJo0WyWy9DXz4RtcuuMyfyW98",
+ "category": "beauty salon",
+ "category_weight": 12,
+ "area": "Al Karama, Dubai",
+ "address": "14 4A St - Al Karama - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.2516543,
+  "lng": 55.3040248
+ },
+ "phone": "+971 4 396 9618",
+ "rating": 4.6,
+ "userRatingCount": 210,
+ "rating_distribution": {
+  "oneStar": 10,
+  "twoStar": 2,
+  "threeStar": 2,
+  "fourStar": 24,
+  "fiveStar": 172
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Millennium%20Beauty%20Ladies%20Salon&query_place_id=ChIJo0WyWy9DXz4RtcuuMyfyW98",
+ "website": "http://instagram.com/hilitedxb",
+ "categories": [
+  "Beauty salon"
+ ],
+ "hours": [],
+ "owner_description": "Ladies Beauty Salon",
+ "amenities": {
+  "Amenities": [
+   {
+    "Restroom": true
+   }
+  ],
+  "Planning": [
+   {
+    "Appointments recommended": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "gel manicure",
+  "hot oil massage",
+  "threading",
+  "polite staff",
+  "waxing",
+  "botox",
+  "mani pedi",
+  "nail paint",
+  "expert staff",
+  "hair color"
+ ],
+ "popular_times": {},
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Kathleen Evedientes Aballe",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Had one of the package for manicure, pedicure, foot spa and etc. I like how they clean my nails with additional stuff applied (a lot of oil) that somehow helps my dry skin and help me to relax. Ate Lyn had a good hands tho. 😊",
+   "owner_reply": null
+  },
+  {
+   "author": "suchita acharekar",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Have been visiting Millenium Salon for years now, its always a friendly and pleasant experience for all the services on every visit. This time had been for Gelish Manicure & Pedicure. Sobha as always did a wonderful job. Very happy and satisfied with my new nail colour. Thank you Sobha 😄😊🥰",
+   "owner_reply": null
+  },
+  {
+   "author": "Tania",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Shobha did an excellent job with my nails. I got a manicure and pedicure from her, and they turned out absolutely perfect—just the way I wanted!",
+   "owner_reply": null
+  },
+  {
+   "author": "preethiamrita menon",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Shiva . Loved the gel nail polish . So classy . Thank you so much . Such loving and friendly . Very caring and gentle . Coming back for u",
+   "owner_reply": null
+  },
+  {
+   "author": "Ankita Gupte",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Beautiful haircut done at Millinieum Parlour by Lanie ♥️♥️♥️ The service is topnotch and very prompt. Thank you Millinieum Parlour",
+   "owner_reply": null
+  },
+  {
+   "author": "Latika Narain",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "It's a good saloon. Have been going there for years now and they provide consistent service...my facial today with Lanie was well done. Her hand is very good and guided well on type of facial. Asma too serves well with patience and expertise.",
+   "owner_reply": null
+  },
+  {
+   "author": "Carmin Fernandes",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "The best salon in Dubai. Lanie has the best hands for haircut if you want for a perfect haircut she is the one. She is very professional and sweet.\nThe salon staff is very polite and positive. 😘\n\nI will definitely recommend friends to come and get themselves pampered here.\n\nI am very overwhelmed with their service 👍🏻🙏🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Kristiel Espiritu",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I highly recommend Shova and Bichana for anyone looking for top-notch nail services. Their expertise in manicure and pedicure is unmatched, and their attention to detail ensures perfect results every time. They are not only skilled but also friendly and professional, making the entire experience relaxing and enjoyable. If you visit the salon, be sure to book with them!",
+   "owner_reply": null
+  },
+  {
+   "author": "Megha Patel",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "@Alisha for Perfect manicure and Lanie always the best\nThnk u for pampering me 🤗",
+   "owner_reply": null
+  },
+  {
+   "author": "Rohin Thomas",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Sobha, Bichana Lanie have done great job\nLanie did my Botox crown…. Great job",
+   "owner_reply": null
+  },
+  {
+   "author": "Marylyn Guipetacio",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I'm incredibly grateful to the team at Millennium Beauty Ladies Salon for their outstanding nail extension and hair services. As a customer, I'm genuinely satisfied and happy. I must commend all the staff for their friendliness, approachability, and kindness. A special shoutout to the salon owner for her kindness and understanding.\n\nI wholeheartedly recommend Millennium Beauty Ladies Salon in Karama for anyone seeking top-notch services. Visit their website and give their services a try; I assure you'll leave happy and satisfied.",
+   "owner_reply": null
+  },
+  {
+   "author": "Reena Fernandes",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "It’s very nice experience in millennium karama branch… Ms riddhi is best she done nice job.. I will give her 5 star for her work…",
+   "owner_reply": null
+  },
+  {
+   "author": "Urvi Kirodiwal",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Had a lovely experience with Sobha here today. We opted for the 155AED package, with mani-pedi, waxing and threading included, as well as the 51AED flash deal on Gold Facial. She was extremely gentle with her hands whilst doing all procedures, and left me feeling very pampered and fresh. Would definitely recommend taking service from this beauty salon, and do ask for Sobha as she is great at what she does :)",
+   "owner_reply": null
+  },
+  {
+   "author": "Priyanka Hemnani",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I’ve been doing all my hair services with Soni in the Karama branch. She’s really patient, talented and is a superb hair stylist. Always gives me exactly what I want and advices me on the right products and treatments for my hair. Will recommend her to all my friends and family.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ushus Bernard",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I've only been coming to this place in Al Raffa since a couple of months and this salon is indeed a gem in Mankhool neighborhood. Right from my first interaction with Tara, I knew I found the perfect place. The staff is very friendly and very accommodating. I highly recommend Millennium Beauty Salon in Al Raffa. The place is clean and quite airy. The staff ensures client satisfaction every single time. They have some great packages that are cost effective. I look forward to trying more services from here.",
+   "owner_reply": null
+  },
+  {
+   "author": "Komal Morey",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Over the last weekend had my facial and a 10 min massage done by Riddhi. It's the best I have ever had. Made me feel so light and relaxed. Also, I always get my pedicure done by Riddhi. Highly recommend her for all these services.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sujata Natarajan",
+   "rating": 4,
+   "when": "2 years ago",
+   "text": "Hi!!\nBeen visiting Millenium parlour for ages.Find the service to be good and the staff very friendly.\nAsma has been my regular go to beautician.\nToday tried out Shobha and found the experience very relaxing.\nShe gave a wonderful pedicure and facial.",
+   "owner_reply": null
+  },
+  {
+   "author": "persephone heaven",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Beautiful ladies, Shobha and Dilpreet with a gentle touch and lots of patience. Their sensitivity and willingness to be extra gentle to a pregnant lady is worth mentioning. Good at their jobs and definitely recommend around the Burjuman area. I would come here again. Decent package for manicure and pedicure with detan.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sidra Khan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing salon very lovely staff and excellent service",
+   "owner_reply": null
+  },
+  {
+   "author": "Chaitanya Sankar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Shoba did a really nice manicure and was very sweet\nand Bichana did my pedicure as well as eyebrows, very impressed by the job done\nLanie also did a really good job with my curly hair haircut",
+   "owner_reply": null
+  },
+  {
+   "author": "Indra Mohan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I have been visiting  Highlite beauty parlour over two decades  and  have remained a loyal customer till date . As a location , Highlight Parlour is convenient for me . However , I have had the experience at Millenium parlour  too ( same owner ) and experience is at par in both the places . They offer good packages . The staff  is very good and trained . They show their enthusiasm in offering the service  , creating a homely atmosphere that makes every visit a pleasant experience . In my opinion , this familiarity along with their skill and expertise helps maintain a loyal client base. The owner- Ms Arti’s professional touch further enhances the overall experience, encouraging clients to return.  Highly recommended!\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Himani Kalra",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Did pedicure and facial with Shobha...\nVery sweet girl, did everything meticulously.\nHas good eye to detail and removed all the callous and dead skin with precision. For facial also she did massage very nicely.\n\nFull marks for services Shobha.... Thankyou",
+   "owner_reply": null
+  },
+  {
+   "author": "catherine anu",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Thank you Thara for the patients for my hair service been 5 long hours. You did fantastic job.The last 2 years i am taking the service from millennium Mankhool branch. I am pretty satisfied.",
+   "owner_reply": null
+  },
+  {
+   "author": "Shenali Sahenya",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I had a fantastic experience today at Millennium Beauty Salon, where I enjoyed a hot oil massage and a herbal facial. Larnie took care of both treatments and was exceptional—friendly, professional, and attentive. I highly recommend this salon, especially Larnie, to all the ladies looking for top-notch service.",
+   "owner_reply": null
+  },
+  {
+   "author": "Audrey Menon",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Very good manicure done by  Shona will definitely repeat with her next time. Lanie is excellent in her job be it pedicure or hairstyling will highly recommend her to all.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ravisha Bhatia",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "My go-to saloon for many years...riddhi and sobha are amazing for manicure pedicures, and riddhi is very good at facials. All services are value for money, and they have a points system that makes each visit worth it",
+   "owner_reply": null
+  },
+  {
+   "author": "Ankita Deshpande",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "I am regular customer of Millennium salon. I must say the staff is very humble and services provided by them are up to mark with prompt response and good offers. Lanle is the best providing all services from threading, waxing to facial. She is just amazing and very hospitable. I just loved it, it was so relaxing and refreshing.\nThank you to Millennium beauty ladies salon and Lanle ✌🏻✌🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Mahvish khan",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "I loved my services at Millennium Salon as always.. Laani did an amazing facial, so relaxing. And Shobha did my mani pedi and hot oil. Thank you girls. Highly recommend it.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sunaina bhojwani",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Tara is truly amazing in her job…..she will make sure the customer leaves the saloon with big smile….she really puts in person touch in her services provided….additionally ashiwini and laxmi are also amazing in their job and will make sure the customer is satisfied…..the staff is always welcoming and smiling….love all of them",
+   "owner_reply": null
+  },
+  {
+   "author": "Parul Bhatia",
+   "rating": 5,
+   "when": "Edited 2 years ago",
+   "text": "I am a regular at Millennium Salon and they do a wonderful job with my hair color, Mani and Pedi... I have also done home service massage which was super relaxing and extremely convenient!\nHighly recommend!",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/review-00.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-01.jpg",
+   "source": "review",
+   "size": [
+    231,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-02.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-03.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-04.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-05.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-06.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-07.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-08.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-09.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-10.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "http://instagram.com/hilitedxb",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "instagram": "hilitedxb"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 68,
+ "socials": {
+  "instagram": "hilitedxb"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/millennium-beauty-ladies-salon/",
+ "buy_likelihood": 7
+}

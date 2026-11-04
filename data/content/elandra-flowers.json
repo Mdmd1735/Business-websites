@@ -1,0 +1,30 @@
+{
+ "preset": "rose-blush",
+ "theme": {"bg": "#FDF7F5", "accent": "#7A1F3D", "accent_text": "#6A1A35", "surface_2": "#F5E1E1", "duo": "#EBC4CB", "busy": "#B04A66", "band_bg": "#2A1018", "band_accent": "#F4B4C4", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "Elandra", "sub": "Flowers · Hor Al Anz", "mark": "E", "footer_word": "Elandra"},
+ "seo": {"title": "Elandra Flowers | Florist Open till 3 AM · Abu Baker Al Siddique Road, Hor Al Anz", "description": "Elandra Flowers, near United Hypermarket parking on Abu Baker Al Siddique Road, Hor Al Anz: fresh bouquets, luxury flower boxes, red roses, baby-shower and event décor. Open 10 AM to 3 AM. Rated 4.9 from 103 reviews."},
+ "hero": {"variant": "split", "kicker": "Abu Baker Al Siddique Road · Near United Hypermarket · Hor Al Anz", "title_lines": ["Forgot the flowers?", "We're open", "till 3 AM."],
+   "lede": "Fresh bouquets, luxury flower boxes, red roses, baby-shower arrangements and event décor, arranged in minutes and open late for the moments you didn't plan.",
+   "image": "img/hero.jpg", "image_alt": "Inside Elandra Flowers with arches of blooms and greenery", "secondary": {"label": "Arrangements", "href": "#flowers"}},
+ "cta_label": "Order on WhatsApp", "cta_text": "Hi Elandra Flowers, I'd like to order a bouquet.",
+ "proof_note": "Rated 4.9 from 103 reviews",
+ "address_lines": ["Elandra Flowers, Abu Baker Al Siddique Road", "Near United Hypermarket parking, Hor Al Anz, Dubai"],
+ "ticker": ["Bouquets", "Red roses", "Flower boxes", "Baby showers", "Birthdays", "Event décor", "Open till 3 AM"],
+ "sections": [
+  {"type": "services", "id": "flowers", "nav": "Flowers", "eyebrow": "Arrangements", "title": "Something for", "title_dim": "every occasion.",
+   "items": [
+    {"name": "Bouquets", "feature": true, "img": "img/pink.jpg", "alt": "Pink carnation bouquet", "desc": "Fresh, elegant and wrapped your way.", "quote": "I visited to get a birthday bouquet for my wife, and the experience was absolute perfection from start to finish.", "cite": "Mohamed Osman H."},
+    {"name": "Flower boxes", "img": "img/box.jpg", "alt": "Luxury flower box", "desc": "Luxury boxes and hat boxes."},
+    {"name": "Red roses", "img": "img/red.jpg", "alt": "Large red rose bouquet", "desc": "From a dozen to a hundred."},
+    {"name": "Baby & celebrations", "img": "img/baby.jpg", "alt": "It's a boy flower basket with teddy", "desc": "Baby showers, graduations and birthdays."},
+    {"name": "Event décor", "img": "img/arch.jpg", "alt": "Floral arch backdrop", "desc": "Arches, backdrops and balloon décor."}
+   ],
+   "perks": ["Open daily 10 AM – 3 AM", "Near Abu Baker Al Siddique Metro", "Discounts on bulk orders"]},
+  {"type": "team", "id": "team", "nav": "Team", "eyebrow": "Your florist", "title": "Ask for Elena.", "items": [{"name": "Elena", "count": 4, "role": "Florist", "quote": "Thank you Elena for your quick suggestion. I really love the bouquet.", "cite": "Aanisha G."}]},
+  {"type": "gallery", "images": [{"src": "img/storefront.jpg", "alt": "Shop front at night"}, {"src": "img/hatbox.jpg", "alt": "Round flower box"}, {"src": "img/lilies.jpg", "alt": "Lily and rose bouquet"}, {"src": "img/roses.jpg", "alt": "Red rose arrangement"}, {"src": "img/balloons.jpg", "alt": "Balloon and flower backdrop"}, {"src": "img/counter.jpg", "alt": "Shop counter"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "order", "eyebrow": "Order", "title": "Need flowers tonight?", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a bouquet of 50 red roses?", "Can you deliver tonight?", "Do you do baby-shower décor?", "Can I see today's flower boxes?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Hor Al Anz,", "title_dim": "near United Hypermarket."}
+ ]
+}

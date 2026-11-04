@@ -1,0 +1,30 @@
+{
+ "preset": "citrus-pop",
+ "theme": {"bg": "#0E0B14", "surface": "#17121F", "surface_2": "#211A2C", "text": "#F7F3FF", "text_2": "#D4CCE3", "dim": "#9D93AF", "line": "rgba(255,255,255,.1)", "line_strong": "rgba(255,255,255,.22)", "nav_bg": "rgba(14,11,20,.86)", "card_glass": "rgba(23,18,31,.9)", "tint": "rgba(255,255,255,.07)", "map_filter": "grayscale(1) invert(.9) contrast(.9)", "accent": "#FF3D8B", "accent_text": "#FF66A6", "on_accent": "#14040C", "duo": "#5A1036", "busy": "#C01F64", "glow": "rgba(255,61,139,.2)", "band_bg": "#FFF3F8", "band_text": "#14040C", "band_card": "#FFFFFF", "band_line": "#F0D9E4", "band_accent": "#C01F64", "ask_bg": "#0E0B14", "ask_text": "#FFFFFF", "quiet": "#5D6E86", "accent_on_photo": "#FF66A6", "frame": "slant", "hero_ratio": "4/3"},
+ "extra_css": ".hero-split .hero__slab{background:#7B3CFF}.ticker{background:#7B3CFF;color:#fff}",
+ "brand": {"name": "KK Tamizha", "sub": "Dance Studio · Karama", "mark": "K", "footer_word": "KK TAMIZHA"},
+ "seo": {"title": "KK Tamizha Dance Studio Dubai | Tamil, Malayalam & Telugu Dance Classes in Karama", "description": "KK Tamizha Dance Studio, Office M04, Al Karama: South Indian, Tamil, Malayalam and Telugu film dance, folk and crew classes for kids and adults, workshops and school shows. Rated 4.9 from 108 reviews."},
+ "hero": {"variant": "split", "kicker": "Office M04 · Al Karama · Dubai", "title_lines": ["Kuthu, folk", "and film songs.", "Dance like home."],
+   "lede": "South Indian dance for kids and adults in Karama: Tamil, Malayalam and Telugu film dance, folk, crew training, weekend workshops and stage shows across Dubai's schools and events.",
+   "image": "img/hero.jpg", "image_alt": "KK Tamizha crew performing on stage at Woodlem Park School", "secondary": {"label": "Classes", "href": "#classes"}},
+ "cta_label": "Book a trial class", "cta_text": "Hi KK Tamizha, I'd like to book a trial dance class.",
+ "proof_note": "4.9 · the owner replies to every review",
+ "address_lines": ["KK Tamizha Dance Studio, Office M04, Mezzanine floor", "Ali Khalifa Belaisha Building, Al Karama, Dubai"],
+ "socials": {"instagram": "kktamizhadancestudiodubai"},
+ "ticker": ["Tamil dance", "Malayalam", "Telugu", "Folk", "Crew training", "Workshops", "Kids classes", "Stage shows"],
+ "sections": [
+  {"type": "services", "id": "classes", "nav": "Classes", "eyebrow": "Classes", "title": "From scratch to", "title_dim": "stage-ready.",
+   "items": [
+    {"name": "Film dance classes", "feature": true, "img": "img/class.jpg", "alt": "Students practising a routine in the studio", "desc": "Tamil, Malayalam and Telugu songs, taught step by step.", "quote": "I tried a trial class here and had so much fun! They teach everything from scratch and are very patient and polite.", "cite": "Sree N."},
+    {"name": "Folk & traditional", "img": "img/beach.jpg", "alt": "Dancer posing on the beach", "desc": "Folk dance and traditional performance."},
+    {"name": "Crew & workshops", "img": "img/outdoor.jpg", "alt": "Crew rehearsing outdoors", "desc": "Weekend workshops and crew practice."},
+    {"name": "Kids classes", "img": "img/xmas.jpg", "alt": "Kids crew at a Christmas event", "desc": "Fun, confidence-building classes for children."}
+   ],
+   "perks": ["Trial classes", "Kids & adults", "Stage & school shows"]},
+  {"type": "gallery", "images": [{"src": "img/studio.jpg", "alt": "Studio with mirrors and wooden floor"}, {"src": "img/launch.jpg", "alt": "KK Tamizha Folklore Dance Performance launch"}, {"src": "img/street.jpg", "alt": "Breakdancer on a Dubai street"}, {"src": "img/celebration.jpg", "alt": "Studio celebration", "wide": true}, {"src": "img/duo.jpg", "alt": "Two dancers in KK tees"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Try a class.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["When is the next trial class?", "Do you have kids' batches on weekends?", "How much are monthly fees?", "Can you choreograph for our school event?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Karama,", "title_dim": "Dubai."}
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "preset": "emerald-gold",
+ "theme": {
+  "bg": "#120E0A",
+  "surface": "#1C1610",
+  "surface_2": "#271F16",
+  "accent": "#E3B341",
+  "accent_text": "#EDC463",
+  "on_accent": "#1A1206",
+  "duo": "#4E3E1C",
+  "busy": "#9C7A2A",
+  "band_bg": "#F6F0E3",
+  "band_accent": "#8C6417",
+  "hero_pos": "center 60%"
+ },
+ "brand": {
+  "name": "Alhan",
+  "sub": "Café · Al Nuaimia, Ajman",
+  "mark": "أ",
+  "footer_word": "ALHAN"
+ },
+ "seo": {
+  "title": "Alhan Café Ajman | 24-Hour Café, Arabic Food, Shisha & Matches · Al Ittihad Street",
+  "description": "Alhan Café, Al Ittihad Street, Al Nuaimia 1, Ajman: open 24 hours with Arabic and Jordanian dishes like mansaf and kabsa, grills, pizza and burgers, shakes, shisha, billiards and live matches on big screens. 4.7 from 3,070 reviews."
+ },
+ "hero": {
+  "variant": "full",
+  "ar_name": "الحان كافيه",
+  "kicker": "Al Ittihad Street · Al Nuaimia 1 · Ajman",
+  "title_lines": [
+   "Match night,",
+   "every night."
+  ],
+  "lede": "A 24-hour café and restaurant with big screens for the matches, billiards, smooth shisha and a full menu: mansaf, kabsa, grills, pizza, burgers and thick shakes.",
+  "image": "img/billiards.jpg",
+  "image_alt": "Alhan Café billiards room with big screens",
+  "secondary": {
+   "label": "Menu",
+   "href": "#menu"
+  }
+ },
+ "cta_label": "Reserve on WhatsApp",
+ "cta_text": "مرحبا، أريد حجز طاولة / Hi, I'd like to reserve a table.",
+ "proof_note": "3,070 reviews · open 24/7",
+ "address_lines": [
+  "Alhan Café, Al Ittihad Street",
+  "Al Nuaimia 1, Ajman"
+ ],
+ "ticker": [
+  "Open 24 hours",
+  "Live matches",
+  "Mansaf",
+  "Kabsa",
+  "Grills",
+  "Shisha",
+  "Billiards",
+  "Ramadan buffet"
+ ],
+ "sections": [
+  {
+   "type": "services",
+   "id": "menu",
+   "nav": "Menu",
+   "eyebrow": "On the menu",
+   "title": "Arabic classics,",
+   "title_dim": "café favourites.",
+   "items": [
+    {
+     "name": "Kabsa & mansaf",
+     "feature": true,
+     "img": "img/kabsa.jpg",
+     "alt": "Chicken kabsa poster",
+     "desc": "Jordanian mansaf, chicken kabsa and rice dishes.",
+     "quote": "We love spending our weekend evenings here. The atmosphere is always warm and welcoming.",
+     "cite": "Mohammed S."
+    },
+    {
+     "name": "Grills & shawarma",
+     "img": "img/grill.jpg",
+     "alt": "Mixed grill and mezze",
+     "desc": "Kebabs, mixed grills and shawarma plates."
+    },
+    {
+     "name": "Pizza & manakish",
+     "img": "img/pizza.jpg",
+     "alt": "Loaded pizza",
+     "desc": "Pizza, manakish and fatayer."
+    },
+    {
+     "name": "Burgers",
+     "img": "img/burger.jpg",
+     "alt": "Burger poster",
+     "desc": "Smash and classic burgers."
+    },
+    {
+     "name": "Shakes & shisha",
+     "img": "img/shake.jpg",
+     "alt": "Chocolate shake",
+     "desc": "Thick shakes, mocktails and shisha."
+    }
+   ],
+   "perks": [
+    "Open 24 hours",
+    "Big screens for football",
+    "Billiards",
+    "Ramadan buffet"
+   ]
+  },
+  {
+   "type": "crowd",
+   "id": "times",
+   "nav": "Best times",
+   "eyebrow": "Match night",
+   "title": "Big games fill up.",
+   "title_dim": "Reserve ahead."
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/lounge.jpg",
+     "alt": "Lounge with yellow armchairs",
+     "wide": true
+    },
+    {
+     "src": "img/hero.jpg",
+     "alt": "Alhan Café terrace at night",
+     "wide": true
+    },
+    {
+     "src": "img/seating.jpg",
+     "alt": "Velvet seating",
+     "wide": true
+    },
+    {
+     "src": "img/sofa.jpg",
+     "alt": "Gold sofa corner",
+     "wide": true
+    },
+    {
+     "src": "img/menu.jpg",
+     "alt": "Pizza and manakish menu"
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "asks",
+   "id": "reserve",
+   "eyebrow": "Reserve",
+   "title": "Big match tonight?",
+   "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": [
+    "Can I reserve a table for the match?",
+    "Do you have a family area?",
+    "Is mansaf available today?",
+    "Do you deliver in Ajman?"
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Al Ittihad Street,",
+   "title_dim": "Ajman."
+  }
+ ]
+}

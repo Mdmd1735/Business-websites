@@ -1,0 +1,31 @@
+{
+ "preset": "clinic-teal",
+ "theme": {"bg": "#FBF7F4", "surface_2": "#F3E5DE", "accent": "#E2546A", "accent_text": "#C23E55", "duo": "#F5CDD3", "busy": "#E2546A", "band_bg": "#2B1A1C", "band_accent": "#FF9CAB", "frame": "arch", "hero_ratio": "3/4"},
+ "brand": {"name": "Paw Prints", "sub": "Veterinary Clinic · Arjan", "mark": "P", "footer_word": "Paw Prints"},
+ "seo": {"title": "Paw Prints Veterinary Clinic Arjan | 24-Hour Vet, Grooming & Pet Travel, Dubai", "description": "Paw Prints Veterinary Clinic, NAS 2 Building, Shop 1, Arjan: 24-hour vet for dogs and cats, vaccinations, dental and tooth extraction, grooming, pet shop and pet travel paperwork. 4.7 from 151 reviews."},
+ "hero": {"variant": "split", "kicker": "NAS 2 Building · Shop 1 · Arjan", "title_lines": ["Your vet in Arjan.", "Open around the clock."],
+   "lede": "A 24-hour clinic for dogs and cats with vaccinations, dental care, grooming, a pet shop and the paperwork to take your pet abroad, at prices clients call very reasonable.",
+   "image": "img/hero.jpg", "image_alt": "Paw Prints waiting area with pink paw neon and plants", "secondary": {"label": "Services", "href": "#services"}},
+ "cta_label": "Book on WhatsApp", "cta_text": "Hi Paw Prints, I'd like to book an appointment.",
+ "proof_note": "Open 24 hours",
+ "address_lines": ["Paw Prints Veterinary Clinic, Shop 1", "NAS 2 Building, Arjan, Dubai"],
+ "ticker": ["Open 24 hours", "Vaccinations", "Dental care", "Grooming", "Pet travel", "Pet shop"],
+ "sections": [
+  {"type": "services", "id": "services", "nav": "Services", "eyebrow": "Services", "title": "Care for every stage,", "title_dim": "day or night.",
+   "items": [
+    {"name": "Vet care, 24/7", "feature": true, "img": "img/vet.jpg", "alt": "Vet holding a small dog at reception", "desc": "Check-ups, emergencies, dental and tooth extraction.", "quote": "Everyone is genuinely lovely, the prices are very reasonable, and you can really see how much they care.", "cite": "Elizaveta S."},
+    {"name": "Pet travel paperwork", "img": "img/travel.jpg", "alt": "Poodle travelling in Rome", "desc": "Microchips, vaccines and export documents.", "quote": "Doctor Joseph personally handled all the necessary paperwork to bring Heidi to Italy.", "cite": "Rossella D."},
+    {"name": "Grooming", "img": "img/groom.jpg", "alt": "Groomer drying a cat", "desc": "Baths, nail trims and full grooms."},
+    {"name": "Pet shop", "img": "img/shop.jpg", "alt": "Pet shop with treats and toys", "desc": "Food, treats and accessories."}
+   ],
+   "perks": ["Open 24 hours, 7 days", "Dogs & cats", "Pet travel support"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Short waits", "title": "Even at 3 AM,", "title_dim": "we're here."},
+  {"type": "team", "id": "team", "nav": "Vets", "eyebrow": "The vets", "title": "Dr. Ahmed,", "title_dim": "Dr. Yousef, Dr. Joseph.",
+   "items": [{"name": "Dr. Ahmed", "count": 6, "role": "Veterinarian"}, {"name": "Dr. Yousef", "count": 3, "role": "Veterinarian"}, {"name": "Dr. Joseph", "role": "Veterinarian & pet travel"}]},
+  {"type": "gallery", "images": [{"src": "img/reception.jpg", "alt": "Reception with balloons"}, {"src": "img/bench.jpg", "alt": "Waiting bench with paw neon"}, {"src": "img/poodle.jpg", "alt": "Toy poodle puppy"}, {"src": "img/doberman.jpg", "alt": "Doberman puppy on the table"}, {"src": "img/samoyed.jpg", "alt": "Samoyed in the grooming room"}, {"src": "img/colosseum.jpg", "alt": "Owner and dog at the Colosseum"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "book", "eyebrow": "Ask", "title": "Ask the clinic.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a consultation?", "What do I need to fly my dog abroad?", "Price for a cat dental clean?", "Can I bring my pet in now?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "NAS 2 Building,", "title_dim": "Arjan."}
+ ]
+}

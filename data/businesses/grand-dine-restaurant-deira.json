@@ -1,0 +1,2252 @@
+{
+ "slug": "grand-dine-restaurant-deira",
+ "name": "Grand Dine Restaurant Deira مطعم جراند داين ديرة",
+ "place_id": "ChIJA2QevmRdXz4RSxJJ8ddP1W4",
+ "category": "restaurant",
+ "category_weight": 12,
+ "area": "Deira, Dubai",
+ "address": "Al Muteena - Deira - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.273868,
+  "lng": 55.3246715
+ },
+ "phone": "+971 4 236 6001",
+ "rating": 4.6,
+ "userRatingCount": 592,
+ "rating_distribution": {
+  "oneStar": 28,
+  "twoStar": 4,
+  "threeStar": 13,
+  "fourStar": 68,
+  "fiveStar": 479
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Grand%20Dine%20Restaurant%20Deira%20%D9%85%D8%B7%D8%B9%D9%85%20%D8%AC%D8%B1%D8%A7%D9%86%D8%AF%20%D8%AF%D8%A7%D9%8A%D9%86%20%D8%AF%D9%8A%D8%B1%D8%A9&query_place_id=ChIJA2QevmRdXz4RSxJJ8ddP1W4",
+ "website": "",
+ "categories": [
+  "Middle Eastern restaurant",
+  "Catering food and drink supplier",
+  "Chinese restaurant",
+  "Coffee shop",
+  "Family restaurant",
+  "Restaurant",
+  "Restaurant supply store"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "11:30 AM to 1 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "11:30 AM to 1 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "11:30 AM to 1 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "11:30 AM to 2 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "11:30 AM to 2 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "11:30 AM to 2 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "11:30 AM to 1 AM"
+  }
+ ],
+ "owner_description": "Grand Dine Restaurant Deira – مطعم جراند داين ديرة offers authentic Turkish, Afghani, Indian, Steak, Arabic, and Middle Eastern cuisines in a luxury, family-friendly setting in Al Muteena, Deira Dubai. Popular with tourists, residents, families, and friends, we serve premium grills, live charcoal dishes, seafood specials, mandi, and beautifully presented meals. Located near major hotels and attractions, Grand Dine delivers a warm dining experience with rich flavours generous portions, and a welcoming ambience for everyone.",
+ "amenities": {
+  "Service options": [
+   {
+    "Outdoor seating": true
+   },
+   {
+    "No-contact delivery": true
+   },
+   {
+    "Delivery": true
+   },
+   {
+    "Onsite services": true
+   },
+   {
+    "Takeout": true
+   },
+   {
+    "Dine-in": true
+   }
+  ],
+  "Highlights": [
+   {
+    "Great coffee": true
+   },
+   {
+    "Great dessert": true
+   },
+   {
+    "Great tea selection": true
+   },
+   {
+    "Live music": true
+   },
+   {
+    "Sports": true
+   }
+  ],
+  "Popular for": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Solo dining": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Assisted listening devices": true
+   },
+   {
+    "Assistive hearing loop": true
+   },
+   {
+    "Wheelchair accessible entrance": true
+   },
+   {
+    "Wheelchair accessible parking lot": true
+   },
+   {
+    "Wheelchair accessible restroom": true
+   },
+   {
+    "Wheelchair accessible seating": true
+   }
+  ],
+  "Offerings": [
+   {
+    "Coffee": true
+   },
+   {
+    "Late-night food": true
+   },
+   {
+    "Private dining room": true
+   },
+   {
+    "Quick bite": true
+   },
+   {
+    "Small plates": true
+   }
+  ],
+  "Dining options": [
+   {
+    "Breakfast": true
+   },
+   {
+    "Brunch": true
+   },
+   {
+    "Lunch": true
+   },
+   {
+    "Dinner": true
+   },
+   {
+    "Catering": true
+   },
+   {
+    "Counter service": true
+   },
+   {
+    "Dessert": true
+   },
+   {
+    "Seating": true
+   },
+   {
+    "Table service": true
+   }
+  ],
+  "Amenities": [
+   {
+    "Restroom": true
+   },
+   {
+    "Wi-Fi": true
+   },
+   {
+    "Free Wi-Fi": true
+   }
+  ],
+  "Atmosphere": [
+   {
+    "Casual": true
+   },
+   {
+    "Cozy": true
+   },
+   {
+    "Quiet": true
+   },
+   {
+    "Trendy": true
+   }
+  ],
+  "Crowd": [
+   {
+    "Family-friendly": true
+   },
+   {
+    "Groups": true
+   },
+   {
+    "Tourists": true
+   }
+  ],
+  "Planning": [
+   {
+    "Accepts reservations": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   },
+   {
+    "Credit cards": true
+   }
+  ],
+  "Children": [
+   {
+    "Good for kids": true
+   },
+   {
+    "Has changing table(s)": true
+   },
+   {
+    "High chairs": true
+   },
+   {
+    "Kids' menu": true
+   }
+  ],
+  "Parking": [
+   {
+    "Free parking lot": true
+   },
+   {
+    "Usually plenty of parking": true
+   }
+  ]
+ },
+ "review_tags": [
+  "chicken madbi",
+  "mutton haneeth",
+  "cheese kebab",
+  "Mixed Grills",
+  "tomato chutney",
+  "live grill",
+  "food presentation",
+  "grand dine",
+  "family dining",
+  "biryani"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 13
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 90
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 45
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 22
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 14
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 20
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 24
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 48
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 33
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 11
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 19
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 35
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 29
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 12
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 15
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 36
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 31
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 58
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 23
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 21
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 29
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 76
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 80
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 42
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 21
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 16
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 47
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 57
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 92
+   },
+   {
+    "hour": 0,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 1,
+    "occupancyPercent": 33
+   }
+  ]
+ },
+ "owner_reply_rate": 0.33,
+ "reviews": [
+  {
+   "author": "Local Guide & Explorer",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Amazing Ambience, Great Service, and Very Affordable! 👌\nI recently visited Grand Dine Restaurant located on Al Mateena Street in Deira, Dubai. It is a remarkably spacious and beautiful restaurant with a fantastic, clean, and peaceful ambience. In addition to their comfortable indoor seating, they also have a great outdoor seating area.\nThey offer a wonderful variety of cuisines, including Afghani, Pakistani, Indian, and Iraqi dishes. We ordered the Iraqi specialty, Masgoof Fish with Rice. The fish was huge, weighing well over a kilo, and the portion was more than enough to comfortably satisfy 3 to 4 people. Given the excellent quality and quantity, the pricing is highly affordable and pocket-friendly.\nAnother highlight was the delicious complimentary Mutton Soup they served us upon request. The staff was incredibly welcoming and more than happy to provide it.\nParking is also very convenient here. While there is paid road-side parking available, the restaurant also provides its own Free Parking right at the back of the shop, which is a huge plus for anyone driving here.\nThe service deserves a special mention. Both the Nepali waitress and the Indian waiter took excellent care of us. The Nepali waitress, in particular, managed most of our service and handled our orders with an incredibly polite, warm, and professional attitude.\nIf you are looking for a place with an amazing atmosphere, a wide variety of cuisines, exceptional customer service, and great value for money, Grand Dine is highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "ADRIAN LEE",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "This restaurant is really amazing ambiance the food they serve is really good perfect for all nationalitys the taste of chicken and beef was so delicious all the staff is very accomodating and friendly special thanks to kabayan staff in the reception he really make a good customer service from reception to the table he provide a good and pleasant service\nOver all service is good specialy the food 100% recomended\nIm calling all kabayan and all nationalities must try and visit this restaurant here in almuteena deira",
+   "owner_reply": null
+  },
+  {
+   "author": "Rowell Jan Abacahin",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "The food was absolutely delicious, and the staff were very friendly and welcoming. Their hospitality made the experience even better. I would definitely visit again.\n\nMr. Shan",
+   "owner_reply": "Thank you and we hope to see you again"
+  },
+  {
+   "author": "shabana shajahan",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "Yesterday we celebrated our son’s birthday at Grand Dine Restaurant, and honestly, it was such a lovely experience. The food was really delicious and everyone enjoyed it so much.The desserts were also amazing. Ma Sha Allah, special thanks to the chef for the wonderful  food\n\nThe service made it even better the staff were very friendly and attentive. A special mention to the manager, Mr. Anton, who was so kind and made sure everything went perfectly for us.They also arranged parking\n\nI would definitely recommend this place for any kind of celebration. They also offer catering services.",
+   "owner_reply": "Thank you and we hope to see you again<br>"
+  },
+  {
+   "author": "anish thomas",
+   "rating": 3,
+   "when": "3 weeks ago",
+   "text": "This is the second time I am visiting Grand Dine in less than a month.\n\nFirst time, it was a wonderful experience. Vehicle parking was taken care of by Mr. Basil who assisted us till the restaurant and was so friendly. Our table was served by Ms. Vasana, who was also wonderful.\n\nOn my second visit today, we were served by another waiter. His service was utterly terrible. We ordered almost 6 dishes out of which only 3 came and 1 was wrong. On top of that, we asked for 2 glasses of warm water for my kids who weren't well and he refused to serve it saying that it isn't allowed.\n\nWe mainly came here to try their Beef Kushwa which was recommended to us, but it never came to the table.\n\nWe were forced to complain at the main counter,  and after that service went smooth. Mr. Basil and Ms. Vasana made the experience much better after that.\n\nThe food here tastes really good, and there are few staff here who's work is well commendable. But few others who ruin the experience, hope the management does the needful to train them properly and not lose customers due to this.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jasfer Garcia",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "The food at this restaurant is absolutely delicious! I really enjoyed the food, and the prices are very budget-friendly as well.\nA special thanks to Mr. Gilbert for his excellent customer service. Even though we are from the same nationality, what really stood out was the way he treated every customer—with genuine kindness, professionalism, and respect.\nExcellent food, great prices, and outstanding service. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Ra.23",
+   "rating": 5,
+   "when": "Edited 3 weeks ago",
+   "text": "We had an amazing experience! Mr. Gilbert provided excellent service and assisted us very well throughout our visit. He was attentive, caring, and made sure we were comfortable. The food was also amazing, and we will definitely keep coming back! We really enjoyed the good ambiance of the place as well. Highly recommended! ⭐️⭐️⭐️⭐️⭐️",
+   "owner_reply": null
+  },
+  {
+   "author": "Marwan Khalid",
+   "rating": 5,
+   "when": "Edited 10 months ago",
+   "text": "An Unforgettable Experience! ⭐⭐⭐⭐⭐\n\nI visited Grand Dine, and it was truly an incredible experience! From the moment you step in, you feel the calming ambiance and elegant décor that instantly put you at ease. The service is exceptional—staff are friendly and make you feel like a valued guest rather than just a customer.\n\nAs for the food? Absolutely phenomenal! The meat was tender, grilled to perfection, and the seasoning was spot on. I tried the [dish name], and it was simply outstanding—the blend of flavors was perfectly balanced. Even the appetizers and salads were fresh and delicious.\n\nThe prices are reasonable considering the top-notch quality and overall experience. Honestly, this place is worth every penny. If you're looking for a refined, relaxing atmosphere with mouthwatering food, don’t think twice—head to Grand Dine! 🔥",
+   "owner_reply": "Thank you and we hope to see you again."
+  },
+  {
+   "author": "Lyle Joy Geangan",
+   "rating": 5,
+   "when": "a week ago",
+   "text": "The food was delicious, and the atmosphere was cozy and welcoming. We really enjoyed our experience and would definitely recommend this restaurant! Special thanks to Gilbert for being so accommodating and providing excellent service. We truly appreciate it! 😊❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Joel Arnny Suyo",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "The ambiance and food is satisfying.\nToo much delicious. We will surely come back in this restaurant. 10/10 star for the staff name Sir Gilbert very approachable and accomodating. Love the service❤️😋",
+   "owner_reply": null
+  },
+  {
+   "author": "Tabassum Mz",
+   "rating": 5,
+   "when": "Edited 10 months ago",
+   "text": "We had a wonderful lunch today with our family — a group of 17 meWe had a wonderful lunch today with our family — a group of 17 members — and it was an absolutely delightful experience!\n\nThe food was superb, and the service was excellent. Every dish was full of flavour, and the overall taste was marvellous. I managed to take a few pictures too!\n\nA must-try item is the CHEESE KEBAB — it was perfectly juicy, cheesy, and simply delicious. All the other dishes were tasty as well.\n\nWe were warmly welcomed with a welcome drink, and at the end, we were pleasantly surprised with a complimentary sweet — a lovely gesture.\n\nAlso, parking is available behind the restaurant, which made things convenient for our big group.\n\nHighly recommended — everyone should try this restaurant at least once!",
+   "owner_reply": "Thank you and we hope to see you again"
+  },
+  {
+   "author": "Cecille Ladringan",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We had a fantastic experience at Grand Dine! From the moment we walked in, the customer service was outstanding — special mention to Abdul Rahman who went above and beyond to make our first visit memorable.\n\nThe food was absolutely superb, full of flavor and beautifully presented. The ambience was calm and inviting, making it a perfect place to relax and enjoy a great meal.\n\nHighly recommended for both the service and the overall dining experience!",
+   "owner_reply": "Thank you and we hope to see you again."
+  },
+  {
+   "author": "Richard Pacheco",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I had a wonderful dining experience at Grand Dine Restaurant in Muteena. The food was delicious, with generous portions and great flavors. The atmosphere was warm, relaxing, and perfect for enjoying a meal with family and friends.\n\nThe staff were all very friendly, attentive, and helpful. A special thank you to Gilbert for his outstanding service. He was courteous, professional, and made sure we had everything we needed throughout our visit.\n\nI highly recommend Grand Dine Restaurant to anyone looking for great food, excellent service, and an amazing dining experience. I’ll definitely be coming back!",
+   "owner_reply": null
+  },
+  {
+   "author": "Cynthia Cynthia",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "Tried this restaurant for the first time and I’m honestly impressed! The meal was absolutely delicious—full of flavor and perfectly prepared. I also loved the packaging, everything arrived neat, fresh, and well-presented. And shout-out to the delivery guy who came with such a warm smile—it really made the whole experience even better. Definitely ordering again!",
+   "owner_reply": null
+  },
+  {
+   "author": "chimp21pg",
+   "rating": 4,
+   "when": "4 weeks ago",
+   "text": "Surprisingly food are too fantastic in taste, its very neutral in all etnicity. the place are very elegant. And the service are awesome, thank you for ms. Wasana for a great customer service. We'll definetly come back",
+   "owner_reply": null
+  },
+  {
+   "author": "Syed Yousaf",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "Amazing taste, excellent service, and especially the biryani — absolutely delicious! 🍛 The food quality is truly 10/10.\nThe atmosphere is also very pleasant, with nice, relaxing music and a neat, clean environment. The beautiful flower decorations add a lovely touch to the overall ambiance. 🌸\nThe prices are a little on the higher side, but considering the quality of the food and service, it’s definitely worth it. Highly recommended! ⭐⭐⭐⭐⭐",
+   "owner_reply": null
+  },
+  {
+   "author": "Azeez Kamaliya",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I don’t know why 🤪 I hadn’t visited earlier!\n\nLast week, I went with a guest from Mumbai and some friends, and MashAllah, the experience exceeded all expectations. From the moment I called to reserve, the service was smooth and professional. They even arranged valet parking, which made things so easy.\n\nThe interior and ambiance were simply outstanding. The staff welcomed us with warm smiles and genuine hospitality. Everyone was well-dressed and carried a positive vibe.\n\nWe ordered Caesar salad, mixed grill, and a cheesy chicken kebab (forgot the name 😅) – all of it was absolutely delicious! I would happily give 5/5 for food, service, and overall atmosphere.\n\nNo doubt, I’ll be visiting again and again. Highly recommended!",
+   "owner_reply": "Thank you and we hope to see you again.<br>"
+  },
+  {
+   "author": "Muhammad wasim Muhammad wasim",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "⭐⭐⭐⭐⭐\nAmazing food and excellent service! Everything was delicious, and oh server MR. Danish was very friendly, polite, and attentive. He treated us really well and made our dining experience even better. Highly recommended!",
+   "owner_reply": null
+  },
+  {
+   "author": "Abraham Orge",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "our experience in this restaurant was very nice , nice so rounding and accommodating staff most specially Gilbert and Jafar. we will recommend this restaurant and rate this as a 5 ⭐ restaurant.",
+   "owner_reply": null
+  },
+  {
+   "author": "Dior Ann",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "A must-visit for anyone craving truly authentic flavors. Every dish tastes incredibly fresh, with high-quality ingredients that really stand out. Plus d ambiance is beautifully private, featuring soft lighting and cozy. Love it!!!",
+   "owner_reply": "Thank you and we hope to see you again"
+  },
+  {
+   "author": "ABDUL SALEEM KIZHAKEE",
+   "rating": 5,
+   "when": "Edited a year ago",
+   "text": "Grand Dining Restaurant in Dubai is a fantastic place. When you walk in, it looks amazing – fancy but also comfy. The people who work there are super friendly and take good care of you. They even have big, private rooms if you want to eat with your family quietly.\n\nNow, the food is really special. Try the CHEESE KEBAB – it's delicious! The MUTTON HANEETH is very tender, and the Lamb Chops and Mixed Grill are cooked perfectly. Even the little side dishes like the tomato chutney and raitha are fresh and tasty. For dessert, they bring out a special ice cream in a cool, secret way. It's not just a meal; it's a wonderful experience from start to finish!\n\nit is a must visit place",
+   "owner_reply": "Thank you and we hope to see you again.<br>"
+  },
+  {
+   "author": "Niichuu",
+   "rating": 1,
+   "when": "3 weeks ago",
+   "text": "​\"Worst experience ever! 😡 Visited Grand Dine Restaurant Deira with my friends to have Peri Peri Mandi. All three of us had an upset stomach that day, and eating food from here made our condition much worse. 🤢 The food quality and hygiene were extremely poor.\n\n​Moreover, the service and staff behavior were pathetic. 👎 The way the staff handled things was totally unprofessional. The washroom area was poorly maintained, and the behavior of the female staff there was extremely disappointing and rude. 🚫\n​We went there to spend some quality time together, but this place ruined our mood with their pathetic service and environment. I am leaving this negative review so that others don't have to go through the same bitter experience. Strongly not recommended! ❌\"",
+   "owner_reply": null
+  },
+  {
+   "author": "Aslam Mohd Abdul",
+   "rating": 5,
+   "when": "a month ago",
+   "text": "Had a wonderful experience at Grand Dine Restaurant! The food was delicious, fresh, and beautifully presented. The staff were very friendly, polite, and attentive, and the service was excellent. The atmosphere was comfortable and welcoming.\nThank you to the entire Grand Dine team for making our visit special. Highly recommended! 👏❤️",
+   "owner_reply": null
+  },
+  {
+   "author": "Almar Crisolo",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great food  and the staff are very accomodating and nice especially to Mr Gilbert! Thank you",
+   "owner_reply": null
+  },
+  {
+   "author": "Jerica Requiola",
+   "rating": 5,
+   "when": "Edited 3 weeks ago",
+   "text": "I would like to give positive feedback to Gilbert for his excellent service. He is very friendly, professional, and attentive to customers’ needs. He provides great customer service and always makes sure customers are well taken care of. Thank you, Gilbert, for your excellent service and support!",
+   "owner_reply": null
+  },
+  {
+   "author": "langmi junior",
+   "rating": 5,
+   "when": "5 months ago",
+   "text": "I had a wonderful experience at Grand Dine Restaurant on Al Muteenah Street. The seafood mix bucket was absolutely amazing  fresh, flavorful, and perfectly prepared. Every bite was enjoyable, and the presentation was excellent.\nA special appreciation to the waitress, Pemu, for her professionalism, kindness, and warm hospitality. She made the dining experience even more memorable with her friendly attitude and attentive service.\nI truly enjoyed my visit and will definitely come back again. I highly recommend this restaurant to anyone looking to enjoy great hospitality, delicious food, and a welcoming atmosphere.\n\nBy Chef bashir chin\nHead chef Reef & Beef steak and seafood downtown Dubai",
+   "owner_reply": null
+  },
+  {
+   "author": "B A",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "I had a wonderful experience at this restaurant! The food was fresh, delicious, and beautifully presented. What made the visit even more memorable was the excellent service. A special thanks to Manager Devan, who was incredibly attentive and welcoming. His professionalism and warm hospitality truly elevated the dining experience. Highly recommended!",
+   "owner_reply": "Thank you and we hope to see you again."
+  },
+  {
+   "author": "cha kuh",
+   "rating": 4,
+   "when": "2 weeks ago",
+   "text": "Great food and excellent service. Gilbert was very friendly, attentive and caring toward customers. He made sure am well taken care of. 👍🏽 Highly recommended.",
+   "owner_reply": null
+  },
+  {
+   "author": "CRISTY RAMOS",
+   "rating": 5,
+   "when": "Edited a month ago",
+   "text": "Best restaurants, the quality of food and drinks is very nice and very cheap i will recommend and eat again here with my friends.",
+   "owner_reply": null
+  },
+  {
+   "author": "Fiza Mariyam",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Top notch presentation and ambience, good staff easy to talk, the light music and the lightning gave a warm welcome.\nThe best tomato chutney I’ve ever tried, will easily come here just for that itself.\nBest for photo shoot snd post it. 10/10",
+   "owner_reply": "Thank you and we hope to see you again.<br>"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    996,
+    664
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    901,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1320,
+    1565
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1305,
+    943
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    642,
+    907
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1066,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    996,
+    664
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    480,
+    848
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1345
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    385,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    512,
+    322
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    484,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    385,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    512,
+    469
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    484,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    290,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    512,
+    230
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    293,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    230,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    429,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    512,
+    384
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-131.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-132.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-133.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-134.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-135.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-136.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-137.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-138.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-139.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-140.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-141.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-142.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-143.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-144.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-145.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-146.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-147.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "",
+  "status": "none",
+  "signals": [],
+  "emails": [],
+  "socials": {},
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {},
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/grand-dine-restaurant-deira/",
+ "buy_likelihood": 6
+}

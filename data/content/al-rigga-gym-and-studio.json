@@ -1,0 +1,32 @@
+{
+ "preset": "clinic-mint",
+ "theme": {"bg": "#0D1210", "surface": "#141B18", "surface_2": "#1C2521", "text": "#EEF4F0", "text_2": "#C7D2CB", "dim": "#93A198", "line": "rgba(255,255,255,.1)", "line_strong": "rgba(255,255,255,.22)", "nav_bg": "rgba(13,18,16,.86)", "card_glass": "rgba(20,27,24,.9)", "tint": "rgba(255,255,255,.07)", "map_filter": "grayscale(1) invert(.9) contrast(.9)", "accent": "#3DDC84", "accent_text": "#5CE89A", "on_accent": "#06140C", "duo": "#1F4A33", "busy": "#2FA866", "band_bg": "#EEF6F1", "band_text": "#0D1210", "band_card": "#FFFFFF", "band_line": "#D7E6DD", "band_accent": "#1F7A48", "ask_bg": "#0D1210", "ask_text": "#FFFFFF", "quiet": "#5C7A68", "accent_on_photo": "#5CE89A"},
+ "brand": {"name": "Al Rigga Gym", "sub": "& Studio · Deira", "mark": "R", "footer_word": "AL RIGGA GYM"},
+ "seo": {"title": "Al Rigga Gym & Studio | 24-Hour Gym, Kickboxing, Karate, Yoga & Zumba in Deira", "description": "Al Rigga Gym & Studio, VIVA Supermarket building, M floor, Al Maktoum Road: 24-hour gym with personal training, kickboxing, karate, Zumba, yoga, CrossFit and sound healing. 4.5 from 133 reviews."},
+ "hero": {"variant": "full", "kicker": "VIVA Supermarket Building · M Floor · Al Maktoum Road", "title_lines": ["Every rep is a promise", "to never settle."],
+   "lede": "A 24-hour gym above VIVA on Al Maktoum Road with personal training, kickboxing, karate, Zumba, yoga, CrossFit and even Tibetan sound healing, with floor-to-ceiling windows over Al Rigga.",
+   "image": "img/hero.jpg", "image_alt": "Al Rigga Gym training floor with square ceiling lights", "secondary": {"label": "Classes", "href": "#classes"}},
+ "whatsapp": "+971 50 408 5011", "cta_label": "Ask about membership", "cta_text": "Hi Al Rigga Gym, I'd like to know your membership prices.",
+ "proof_note": "Replies to 70% of reviews",
+ "address_lines": ["Al Rigga Gym & Studio, VIVA Supermarket Building, M floor", "Al Maktoum Road, Al Rigga, Deira, Dubai"],
+ "ticker": ["Open 24 hours", "Personal training", "Kickboxing", "Karate", "Zumba", "Yoga", "CrossFit", "Sound healing"],
+ "sections": [
+  {"type": "services", "id": "classes", "nav": "Classes", "eyebrow": "Gym & studio", "title": "One membership,", "title_dim": "a dozen ways to train.",
+   "items": [
+    {"name": "Personal training", "feature": true, "img": "img/ropes.jpg", "alt": "Member doing battle ropes on the turf", "desc": "One-to-one plans for weight loss and strength.", "quote": "Trainer Haris is highly professional, knowledgeable, and always motivating.", "cite": "Afsal A."},
+    {"name": "Kickboxing", "img": "img/boxing.jpg", "alt": "Coach and student on pads", "desc": "Pad work and conditioning."},
+    {"name": "Kids karate", "img": "img/karate.jpg", "alt": "Kids in karate uniforms with medals", "desc": "Belts, grading and discipline."},
+    {"name": "Yoga & sound healing", "img": "img/yoga.jpg", "alt": "Yoga class in a colourful studio", "desc": "Yoga for women, seniors and prenatal, plus Tibetan sound healing."},
+    {"name": "Strength floor", "img": "img/racks.jpg", "alt": "Racks by the windows", "desc": "Racks, machines and free weights."}
+   ],
+   "perks": ["Open 24 hours (Sun 4 PM – 12 AM)", "Not crowded", "Group classes"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Beat the crowd", "title": "Rarely packed.", "title_dim": "Here's proof."},
+  {"type": "team", "id": "team", "nav": "Coaches", "eyebrow": "Coaches", "title": "Haris, Salman", "title_dim": "and the team.",
+   "items": [{"name": "Coach Haris", "count": 6, "role": "Personal trainer"}, {"name": "Coach Salman", "count": 4, "role": "Coach"}, {"name": "Alina", "count": 4, "role": "Trainer"}, {"name": "Firoz", "count": 3, "role": "Trainer"}, {"name": "Angel", "role": "Front desk", "quote": "She has always been approachable whenever I needed assistance.", "cite": "Aries A."}]},
+  {"type": "gallery", "images": [{"src": "img/reception.jpg", "alt": "Al Rigga Gym reception"}, {"src": "img/mural.jpg", "alt": "Graffiti mural over the bikes"}, {"src": "img/floor.jpg", "alt": "Training floor with windows", "wide": true}, {"src": "img/turf.jpg", "alt": "Sled turf by the windows"}, {"src": "img/pads.jpg", "alt": "Kickboxing session"}, {"src": "img/bowls.jpg", "alt": "Sound healing with singing bowls", "wide": true}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Ask for this month's offer.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["How much is a monthly membership?", "When are the Zumba and yoga classes?", "Do you have kids' karate on weekends?", "What does personal training cost?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Above VIVA,", "title_dim": "Al Maktoum Road."}
+ ]
+}

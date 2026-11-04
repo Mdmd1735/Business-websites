@@ -1,0 +1,2069 @@
+{
+ "slug": "meet-cat-cafe",
+ "name": "Meet Cat Cafe",
+ "place_id": "ChIJIVRHu_VrXz4RW1c_ZRnGtDY",
+ "category": "cafe",
+ "category_weight": 10,
+ "area": "Al Barsha, Dubai",
+ "address": "456Q+XXW - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+ "building": null,
+ "location": {
+  "lat": 25.1124727,
+  "lng": 55.1899347
+ },
+ "phone": "+971 50 137 1218",
+ "rating": 4.6,
+ "userRatingCount": 371,
+ "rating_distribution": {
+  "oneStar": 17,
+  "twoStar": 8,
+  "threeStar": 11,
+  "fourStar": 16,
+  "fiveStar": 319
+ },
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Meet%20Cat%20Cafe&query_place_id=ChIJIVRHu_VrXz4RW1c_ZRnGtDY",
+ "website": "https://www.facebook.com/meetcatcafe",
+ "categories": [
+  "Cat cafe"
+ ],
+ "hours": [
+  {
+   "day": "Monday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Tuesday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Wednesday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Thursday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Friday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Saturday",
+   "hours": "10 AM to 12 AM"
+  },
+  {
+   "day": "Sunday",
+   "hours": "10 AM to 12 AM"
+  }
+ ],
+ "owner_description": "Meet Cat Cafe Is Located In Al Barsha,\nSurprising Cats Package - 49 AED.\n1 Hour With Cats, Beverage Not Included.\n\nWonderful Cats Package - 59 AED.\n1 Hour With Cats, Any Beverage Included.\n\nAwesome Cats Package - 99 AED.\n2 Hours With Cats, Any (1) Beverage Included.\n\nImpressive Cats Package - 129 AED.\n3 Hours With Cats, Any Beverage Included.",
+ "amenities": {
+  "Service options": [
+   {
+    "Onsite services": true
+   }
+  ],
+  "Accessibility": [
+   {
+    "Wheelchair accessible parking lot": true
+   }
+  ],
+  "Payments": [
+   {
+    "Credit cards": true
+   },
+   {
+    "Debit cards": true
+   },
+   {
+    "NFC mobile payments": true
+   }
+  ]
+ },
+ "review_tags": [
+  "lightweight cats",
+  "feeding cats",
+  "cozy atmosphere",
+  "bubble tea",
+  "relaxed cats",
+  "playful cats",
+  "kitties",
+  "clean cats",
+  "kind staff",
+  "cat interaction"
+ ],
+ "popular_times": {
+  "Su": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 32
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 37
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 86
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 82
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 47
+   }
+  ],
+  "Mo": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 25
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 45
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 79
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 93
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 89
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   }
+  ],
+  "Tu": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 23
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 30
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 44
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 52
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 69
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 50
+   }
+  ],
+  "We": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 26
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 49
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 51
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 53
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 78
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 34
+   }
+  ],
+  "Th": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 33
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 41
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 50
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 55
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 61
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 94
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 100
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 98
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 74
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 55
+   }
+  ],
+  "Fr": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 18
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 28
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 39
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 56
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 68
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 70
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 73
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 88
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 91
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 83
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 71
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 59
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 49
+   }
+  ],
+  "Sa": [
+   {
+    "hour": 6,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 7,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 8,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 9,
+    "occupancyPercent": 0
+   },
+   {
+    "hour": 10,
+    "occupancyPercent": 17
+   },
+   {
+    "hour": 11,
+    "occupancyPercent": 27
+   },
+   {
+    "hour": 12,
+    "occupancyPercent": 34
+   },
+   {
+    "hour": 13,
+    "occupancyPercent": 43
+   },
+   {
+    "hour": 14,
+    "occupancyPercent": 54
+   },
+   {
+    "hour": 15,
+    "occupancyPercent": 62
+   },
+   {
+    "hour": 16,
+    "occupancyPercent": 72
+   },
+   {
+    "hour": 17,
+    "occupancyPercent": 75
+   },
+   {
+    "hour": 18,
+    "occupancyPercent": 77
+   },
+   {
+    "hour": 19,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 20,
+    "occupancyPercent": 66
+   },
+   {
+    "hour": 21,
+    "occupancyPercent": 67
+   },
+   {
+    "hour": 22,
+    "occupancyPercent": 65
+   },
+   {
+    "hour": 23,
+    "occupancyPercent": 49
+   }
+  ]
+ },
+ "owner_reply_rate": 0.0,
+ "reviews": [
+  {
+   "author": "Rahmeh Alhendi",
+   "rating": 5,
+   "when": "3 weeks ago",
+   "text": "We had such an amazing time at this cat café! 🐱❤️ Meeting the cats, playing with them, and spending time around their sweet and playful personalities made the experience truly special. The atmosphere was lovely, relaxing, and full of positive energy. It’s such a unique place for cat lovers and anyone looking for something fun and different to do",
+   "owner_reply": null
+  },
+  {
+   "author": "EH H",
+   "rating": 4,
+   "when": "4 months ago",
+   "text": "Around at 4pm, there were only us. There are over 10-20 cats and well managed. There are wet&dry tissues on the tables, and some combs and cat toys. In the beginning all cat gathered us to get snack and most of them went to nap. 1-2 little cats were around us with curiosity. We could touched the cats freely. They never attacked us, but kind.\nWe bought a cat snack with 10AED.",
+   "owner_reply": null
+  },
+  {
+   "author": "Mary Ann Frago",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "A cozy haven filled with adorable cats, positive vibes, and genuinely kind staff. Everyone was welcoming and helpful, and it’s clear the cats are loved and well cared for. A wonderful place to relax, unwind, and enjoy some furry companionship🐈🐾",
+   "owner_reply": null
+  },
+  {
+   "author": "Z Asaly",
+   "rating": 1,
+   "when": "2 months ago",
+   "text": "ALL THE CATS ARE SICK IN THIS PLACE AND THEY NEED MEDICAL ATTENTION!!!\nThey’re laying on the floor barely moving and they’re throwing up\nI contacted the owner myself and another lady did the same and we warned him but he didn’t even have the courtesy to reply nor acknowledge\nThe cats there need help",
+   "owner_reply": null
+  },
+  {
+   "author": "Fuad Nsour",
+   "rating": 2,
+   "when": "5 months ago",
+   "text": "The place is nice, small full with cats, but staff are unprofessional, and price to much for what they are offering, and place odor is smelly from cat waste and pee, they need more attention.\nOtherwise it is calm fully and nice to be here and spend some quite time and stress relief",
+   "owner_reply": null
+  },
+  {
+   "author": "Fatima Alsoumahi",
+   "rating": 5,
+   "when": "2 months ago",
+   "text": "We had such a lovely experience at Meet Cat Cafe! My  3 girls enjoyed it so much and had a wonderful time with the cats.\nWhat really made the experience special for us was the staff. Everyone was soooo kind, friendly, and welcoming, and honestly, that made a huge difference. When you visit with children, the way the staff treats them can completely change the whole experience, and here they were amazing.\nA special thank you to Vinod (I hope I got his name right!). He was extremely kind, patient, and friendly with my girls and really helped make their visit memorable.\nThank you to the whole team for the lovely experience. My girls left very happy, and we will definitely visit again!",
+   "owner_reply": null
+  },
+  {
+   "author": "Erika Pineda",
+   "rating": 4,
+   "when": "8 months ago",
+   "text": "Went in the first time. The cats were very sleepy and relax. No signs of aggressiveness and stress. The cafe is clean and kuya was accommodating. The entrance is 54aed for 1 hour which is a bit pricey in my opinion, plus you pay extra if you want to feed the cats",
+   "owner_reply": null
+  },
+  {
+   "author": "Zalina Cheltaeva",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Absolutely loved this cat café! Cozy atmosphere, friendly staff, and the most adorable cats with big personalities. You can feel how loved and well cared for they are. Left with a huge smile and a fuller heart  a must-visit for any cat lover🥹🫶🏻",
+   "owner_reply": null
+  },
+  {
+   "author": "Ahmed kamal",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "Amazing experience! The staff really take care of the cats, and you can tell they’re healthy and loved. The coffee was great and the environment was clean and peaceful. Perfect spot for cat lovers.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kimberly Mabitazan",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "Really nice time at Meet Cat Café Dubai. We got to feed and play with the cats, which was the best part. The strawberry milkshakes are also really good. Great spot if you like cats. 🐱",
+   "owner_reply": null
+  },
+  {
+   "author": "Anne Curly",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "We really enjoyed our time at this cat cafe, if you need to unwind this is perfect place🫶🏻 All the fluffs and all their cuteness will make you forget about everything else and enjoy their company. We came close to 8 pm so most of the cats were sleeping, so if you want to play with them better come day time, they will be more active. They have only coffee in that place, no deserts, so it’s more like contact zoo rather than cafe, but still coffee was good. All cats are very clean and healthy, you can also buy some treats for them at the counter and feed them. Totally recommend this place 🐈",
+   "owner_reply": null
+  },
+  {
+   "author": "Ma. Jean Antoine Padua",
+   "rating": 5,
+   "when": "11 months ago",
+   "text": "This was my daughter’s and my first visit to a cat café, and it definitely didn’t disappoint. The place smells clean despite having many cats—something I know is hard to maintain as a mom of two cats myself—so they’re clearly doing an excellent job. The cats were friendly, and my kid were able to groom and pet most of them. The staff was also very welcoming and took great care of the cats. Overall, it was a wonderful experience!",
+   "owner_reply": null
+  },
+  {
+   "author": "Skibidi",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "It was an amazing time !\nSuch lovely cats and the team there are super helpful and kind. Also i think it's a good price for the experience, the treats for the kitties are available to buy there but you can also bring yours if you want they're very welcoming 😻😻😸😸",
+   "owner_reply": null
+  },
+  {
+   "author": "Gellian Francis Gumba",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "As a person who love cats, this is definitely a go-to! ❤️ It is a purrfect place to just be with & play along with this cute babies. I wish I could have spend the whole day with them. The two staffs during our visit were very friendly and very accommodating! They helped us get to know the cats as well and it suits the name of the cafe “meetcatcafe”. I highly recommend! 💯",
+   "owner_reply": null
+  },
+  {
+   "author": "maansi sahni",
+   "rating": 4,
+   "when": "a year ago",
+   "text": "Its a beautiful cozy cafe.They have many cutie cats and kittens .Very well maintained.We met Edrian and Reyes(maybe i forget how he spell his name),they were friendly and helped our kids to have most of their visit with the cats.\nI felt the charges are bit on higher side for this kind of a cafe but it was stress reliever for me and my family.\nCharges for anyone above 2 years is 59/- with a drink and 49/- without a drink.\nThey don’t keep snacks or any bakery products.\nBut overall it was a nice experience specially for the kids who love cats and can’t have them at their home.",
+   "owner_reply": null
+  },
+  {
+   "author": "Ss Bb",
+   "rating": 5,
+   "when": "9 months ago",
+   "text": "Cat heaven❤️Love love love this place.\nMust visit if you are a cat lover. All cats are adorable and mostly are friendly. My child enjoyed a lot with cats. Will visit again soon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Halima",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Finally visited this cat café. The place is cozy and clean, and it’s clear that the cats are well cared for. All of them are beautiful and well-groomed. However, most of them aren’t very friendly — they only show interest if you have food.\nWhat really concerned me is that many of the cats seem overfed, with some clearly overweight. This could affect their health, and I hope the staff will take notice.",
+   "owner_reply": null
+  },
+  {
+   "author": "Sana Saifi",
+   "rating": 1,
+   "when": "3 months ago",
+   "text": "One star rating not for the place or the owner or anything else. The place was well designed. The cats were happy and healthy. All the beautiful cats were friendly and so was the staff. We went there with our 1.5 year old baby because we are not raising him as an iPad baby. (Not a dig on parents who have to do that under other circumstances) but we try to keep him around nature and animals as much as possible. All he did was enjoy and run around the cats like what you would expect from a toddler. And at times when he was being little furious and tried touching them with quick turns we stopped him and kept teaching him to be gentle but there were these two people sitting across the room and the lady kept looking at my baby like he was a criminal or we came there for free. The audacity to keep coming up to the exact cats my baby was trying to interact with. She was furious it was so obvious. I kept ignoring and later she made the man let us know that there are cameras here. Like sure but why are you letting us know there are cameras here. Are we criminals? That lady was so pissed you could see on her face. And pissed from a baby! Wow I mean. Then there time limit was over and the staff asked them to leave. She kept insisting on staying a little longer so we could leave first. I mean what was that. At one point I had to ask them are you the owners because they behaved like they owned the entire place and we were intruding. They said no but we come very often. To make them comfortable that my baby won’t hurt the cats and we are right behind him I also assured them that we ourselves have 3 cats and he knows how to behave around them. But the lady kept looking at my child like she would literally make him leave. The entire one hour that we paid to stay there felt like we were under some surveillance. And the audacity. When they left they told the staff to ask the owner to make sure our child or any other child will not be allowed here. Like seriously? I would never visit there ever again. And neither I would let anyone I know visit here just because of the experience we had.",
+   "owner_reply": null
+  },
+  {
+   "author": "Jenny Noynay",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Another cat cafe in Dubai, a relaxing & cute experience! Lots of cute and friendly cats who love treats and play. The place is big and they gave us treat for the cats. My personal fave is Brito hihi\n\n49aed each for 1 hour without drinks, walk ins allowed.\nWill definitely go back if I want to enjoy a time with the cats.",
+   "owner_reply": null
+  },
+  {
+   "author": "Soda Krachood",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "The cats are adorable. The place is easy to find, right next to the metro and Insurance Market. They have a wide variety of drinks at reasonable prices. Most importantly, the staff are very attentive.",
+   "owner_reply": null
+  },
+  {
+   "author": "Kaynith Indicio",
+   "rating": 5,
+   "when": "6 months ago",
+   "text": "lovely and playful cats and the employee (Lory) is very approachable. Must visit :)",
+   "owner_reply": null
+  },
+  {
+   "author": "Anas Abdallah Nassar",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "A Tranquil Escape for Cat Lovers – Meet Cat Café, Al Barsha\n\nIf you're looking for a peaceful and heartwarming experience in Dubai, Meet Cat Café in Al Barsha is a hidden treasure that deserves all the love and recognition. From the moment I walked in, I felt a sense of calm and comfort. The interior is thoughtfully designed—minimalist yet cozy, with plenty of soft lighting, cushions, and cat-friendly furniture that allows the cats to roam freely and comfortably interact with visitors.\n\nThe café is spotlessly clean, and the cats are clearly very well taken care of. Each one has its own personality, and it’s a joy getting to know them. Whether you're looking to quietly sip on a coffee while a cat curls up beside you, or you're in the mood to play and interact with the more curious and energetic ones, there’s something here for every animal lover.\n\nThe staff deserve special mention—they’re friendly, polite, and truly passionate about animal welfare. They’re more than happy to tell you the names of the cats, their stories, and how best to approach each one. You can tell they genuinely care about creating a safe, respectful, and loving environment for both the animals and the guests.\n\nOn the café side, the menu is simple but satisfying, offering a range of beverages and light snacks. The food and drinks are well-prepared, and I appreciated the thoughtful touch of cat-themed decor on the cups and tables. It’s a lovely place to unwind with a book or catch up with a friend, surrounded by purring company.\n\nWhether you're a Dubai resident or a tourist looking for something unique and therapeutic, Meet Cat Café – Al Barsha offers a beautiful blend of comfort, compassion, and connection. It’s not just a café—it’s an experience. I left feeling lighter, happier, and already planning my next visit.\n\nHighly recommended for families, couples, solo visitors, or anyone in need of a little furry affection in their day.",
+   "owner_reply": null
+  },
+  {
+   "author": "Fathima Thahani",
+   "rating": 5,
+   "when": "7 months ago",
+   "text": "It was amazing, and oh my God, I was totally stressed out. I was thinking I wanted to spend some time, then I decided to go to this place, so I went. I was so happy. I had a great time with the cats, and the customer service was really nice. I truly appreciated it. I hope to come back and see you again every week. Thank you.",
+   "owner_reply": null
+  },
+  {
+   "author": "Glenna Panugan",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "What an incredible visit to Meet Cat Cafe!!! 😻💖\nLeo totally stole my heart today! He came right over, rubbed against my legs, and curled up for endless pets like we were besties. Such a sweet and friendly boy! The rest of the crew was amazing too.\n\nThis place is pure happiness and the perfect cat therapy session. Left with the biggest smile!\nCan’t wait to come back soon and see Leo and all his friends again ❤️ 🥰🥰Highly recommend!",
+   "owner_reply": null
+  },
+  {
+   "author": "Raulina Dela Cruz",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "I just had the BEST day ever at Meet Cat Cafe!!! 😻💖\nThis place is pure magic! As soon as I walked in, I was surrounded by the friendliest, fluffiest squad of cats. Leo came running straight to me like we were old friends and demanded all the attention, total charmer! Joshua was zooming around like a little maniac, making me laugh so hard with his playful antics. And Sibero? What a regal gentleman! He hopped right onto my lap, purred like an engine, and basically adopted me for the whole visit 😂\nThere are tons more adorable cats too. Everywhere you look there’s someone new to meet, whether they’re chasing toys, napping in cozy corners, or coming up for head scratches. The cafe has such warm, happy vibes and the staff clearly take amazing care of all their furry residents.\nI left with the biggest smile on my face and my heart so full. This is the ultimate therapy spot!\nSuper excited to come back and meet everyone again next visit, Leo, Joshua, Sibero, and all the new friends I haven’t even discovered yet! You can bet I’ll be a regular here ❤️\nIf you love cats even a little bit, run (don’t walk) to Meet Cat Cafe. Best decision ever!! 1000/10 recommend ✨",
+   "owner_reply": null
+  },
+  {
+   "author": "Yusha Murtaza",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "One of the best cat cafe I have ever been to. I have been to multiple cat cafes around the world but this was the best experience. Their cats are very friendly and very playful. The main reason I feel that cats are happy because of how much attention is paid to them by the cafe staff itself. The staff are doing an amazing job and really take great care of cats. Have already visited them twice during this tour to Dubai and I am planning to visit them again...Apart from cats, the refreshments are also not to be missed...Highly recommended to all cat lovers...",
+   "owner_reply": null
+  },
+  {
+   "author": "mary",
+   "rating": 4,
+   "when": "8 months ago",
+   "text": "Cats were very friendly and cute\n\nSmell of the room was neutral\n\nStaff was friendly and polite",
+   "owner_reply": null
+  },
+  {
+   "author": "Catarina Diniz",
+   "rating": 5,
+   "when": "2 years ago",
+   "text": "Lorie and Harvie were super nice and friendly and gave us a really good service. The experience was amazing! The cats seem very well taken care of and they were so cuddly and playful. Will be definitely coming back",
+   "owner_reply": null
+  },
+  {
+   "author": "Zahara Ahmad",
+   "rating": 5,
+   "when": "4 months ago",
+   "text": "Great experience,  the staff were lovely. Lots of beautiful cats there to play with. They were friendly and I loved being able to give them a cuddle. I look forward to going back soon.",
+   "owner_reply": null
+  },
+  {
+   "author": "Clint Cheng",
+   "rating": 5,
+   "when": "a year ago",
+   "text": "Plenty of kind staff in the Cafe. As I visited here as a tourist, they staff were kind enough to have a small chat with me and give me tips on what to visit in the area. Cats here are very cute too, and worth a look especially if you're into cats.",
+   "owner_reply": null
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/raw/owner-00.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "file": "img/raw/owner-01.jpg",
+   "source": "owner",
+   "size": [
+    740,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-02.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-03.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-04.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    948
+   ]
+  },
+  {
+   "file": "img/raw/owner-05.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-06.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-07.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-08.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-09.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-10.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-11.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-12.jpg",
+   "source": "owner",
+   "size": [
+    1600,
+    1309
+   ]
+  },
+  {
+   "file": "img/raw/owner-13.jpg",
+   "source": "owner",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-14.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/owner-15.jpg",
+   "source": "owner",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "img/raw/review-16.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-17.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-18.jpg",
+   "source": "review",
+   "size": [
+    512,
+    419
+   ]
+  },
+  {
+   "file": "img/raw/review-19.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-20.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-21.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-22.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-23.jpg",
+   "source": "review",
+   "size": [
+    350,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-24.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-25.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-26.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-27.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-28.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-29.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-30.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-31.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-32.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-33.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-34.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-35.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-36.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-37.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-38.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-39.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-40.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-41.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-42.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-43.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-44.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-45.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-46.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-47.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-48.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-49.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-50.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-51.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-52.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-53.jpg",
+   "source": "review",
+   "size": [
+    237,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-54.jpg",
+   "source": "review",
+   "size": [
+    237,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-55.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-56.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-57.jpg",
+   "source": "review",
+   "size": [
+    512,
+    236
+   ]
+  },
+  {
+   "file": "img/raw/review-58.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-59.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-60.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-61.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-62.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-63.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-64.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-65.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-66.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-67.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-68.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-69.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-70.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-71.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-72.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-73.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-74.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-75.jpg",
+   "source": "review",
+   "size": [
+    236,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-76.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-77.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-78.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-79.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-80.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-81.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-82.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-83.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-84.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-85.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-86.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-87.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-88.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-89.jpg",
+   "source": "review",
+   "size": [
+    512,
+    288
+   ]
+  },
+  {
+   "file": "img/raw/review-90.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-91.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-92.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-93.jpg",
+   "source": "review",
+   "size": [
+    395,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-94.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-95.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-96.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-97.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-98.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-99.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-100.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-101.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-102.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-103.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-104.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-105.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-106.jpg",
+   "source": "review",
+   "size": [
+    512,
+    409
+   ]
+  },
+  {
+   "file": "img/raw/review-107.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-108.jpg",
+   "source": "review",
+   "size": [
+    512,
+    303
+   ]
+  },
+  {
+   "file": "img/raw/review-109.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-110.jpg",
+   "source": "review",
+   "size": [
+    449,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-111.jpg",
+   "source": "review",
+   "size": [
+    430,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-112.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-113.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-114.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-115.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-116.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-117.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-118.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-119.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-120.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-121.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-122.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-123.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-124.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-125.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-126.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-127.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-128.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-129.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-130.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-131.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-132.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-133.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-134.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-135.jpg",
+   "source": "review",
+   "size": [
+    288,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-136.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-137.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-138.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-139.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-140.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-141.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-142.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-143.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-144.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-145.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-146.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-147.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-148.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-149.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-150.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  },
+  {
+   "file": "img/raw/review-151.jpg",
+   "source": "review",
+   "size": [
+    384,
+    512
+   ]
+  }
+ ],
+ "site_audit": {
+  "url": "https://www.facebook.com/meetcatcafe",
+  "status": "social",
+  "signals": [],
+  "emails": [],
+  "socials": {
+   "facebook": "meetcatcafe"
+  },
+  "prices": [],
+  "text": ""
+ },
+ "worth_score": 69,
+ "socials": {
+  "facebook": "meetcatcafe"
+ },
+ "emails": [],
+ "todo_manual": [
+  "Pick hero + usable photos from img/raw (Read a contact sheet)",
+  "Search Instagram (verify by phone number)"
+ ],
+ "site_status": "scouted",
+ "site_url": "https://mdmd1735.github.io/Business-websites/meet-cat-cafe/",
+ "buy_likelihood": 7
+}

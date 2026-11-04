@@ -1,0 +1,29 @@
+{
+ "preset": "noir-red",
+ "theme": {"frame": "square", "hero_ratio": "3/4"},
+ "brand": {"name": "Warriors Zone", "sub": "Academy · Al Khan, Sharjah", "mark": "W", "footer_word": "WARRIORS"},
+ "seo": {"title": "Warriors Zone Academy Sharjah | Kickboxing, Boxing & Muay Thai for Kids and Adults", "description": "Warriors Zone Academy, Al Maha Tower, Al Taawun St, Al Khan, Sharjah: kickboxing, boxing and Muay Thai classes, kids' self-defence, fitness and personal training. 4.9 from 94 reviews."},
+ "hero": {"variant": "split", "ar_name": "أكاديمية منطقة المحاربين", "kicker": "Al Maha Tower · Al Taawun Street · Al Khan, Sharjah", "title_lines": ["Confident kids.", "Strong adults.", "Warriors."],
+   "lede": "Kickboxing, boxing and Muay Thai for children and adults, with coaches who know how to keep kids motivated and make every class challenging, organised and fun.",
+   "image": "img/hero.jpg", "image_alt": "Coach kneeling to talk with a young boxer by the heavy bag", "secondary": {"label": "Classes", "href": "#classes"}},
+ "cta_label": "Book a trial class", "cta_text": "مرحبا، أريد حجز حصة تجريبية / Hi, I'd like to book a trial class.",
+ "proof_note": "4.9 from 94 reviews",
+ "address_lines": ["Warriors Zone Academy, Al Maha Tower", "Al Taawun Street, Al Khan, Sharjah"],
+ "ticker": ["Kickboxing", "Boxing", "Muay Thai", "Kids self-defence", "Fitness", "Personal training"],
+ "sections": [
+  {"type": "services", "id": "classes", "nav": "Classes", "eyebrow": "Classes", "title": "Train like", "title_dim": "a warrior.",
+   "items": [
+    {"name": "Kids kickboxing & boxing", "feature": true, "img": "img/kids.jpg", "alt": "Two young students holding certificates", "desc": "Discipline, fitness and confidence, with belts and certificates.", "quote": "My son absolutely loves his boxing classes here! He has become more confident.", "cite": "Za"},
+    {"name": "Muay Thai", "img": "img/ring.jpg", "alt": "Coach with a student by the ring", "desc": "Clinch, kicks and conditioning."},
+    {"name": "Adult classes", "img": "img/coach.jpg", "alt": "Coach and student fist-bump", "desc": "Kickboxing and boxing for fitness or sparring."},
+    {"name": "Fitness & nutrition", "desc": "Personal training and nutrition plans."}
+   ],
+   "perks": ["Kids & adults", "Closed Fridays", "Certificates & grading"]},
+  {"type": "crowd", "id": "times", "nav": "Best times", "eyebrow": "Visit", "title": "Drop in for", "title_dim": "a trial."},
+  {"type": "gallery", "images": [{"src": "img/award.jpg", "alt": "Student receiving a certificate"}, {"src": "img/class.jpg", "alt": "Class group photos"}]},
+  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
+  {"type": "asks", "id": "join", "eyebrow": "Join", "title": "Ask about classes.", "lede": "Tap a question and WhatsApp opens with it ready to send.",
+   "asks": ["Can my child try a free class?", "What are the kids' class timings?", "How much is a monthly membership?", "Do you have ladies' classes?"]},
+  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Al Maha Tower,", "title_dim": "Al Khan."}
+ ]
+}

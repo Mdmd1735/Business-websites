@@ -1263,7 +1263,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "scouted",
+ "site_status": "built",
  "site_url": "https://mdmd1735.github.io/Business-websites/forever-pet-care/",
- "buy_likelihood": 8
+ "buy_likelihood": 6,
+ "notes": "357 reviews, owner-vet Dr. Nasreen; never replies on Google.",
+ "display_name": "Forever Pet Care"
 }
