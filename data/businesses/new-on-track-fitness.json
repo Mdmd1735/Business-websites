@@ -1487,9 +1487,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "built",
+ "site_status": "skipped",
  "site_url": "https://mdmd1735.github.io/Business-websites/new-on-track-fitness/",
  "buy_likelihood": 8,
- "notes": "4.9, replies 97%, 24-hour gym with boxing; active social posts.",
+ "notes": "4.9, replies 97%, 24-hour gym with boxing; active social posts. Skipped: already has newontrackfitness.com (found before outreach).",
  "display_name": "New On Track Fitness"
 }
