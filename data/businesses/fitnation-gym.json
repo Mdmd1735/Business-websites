@@ -1111,9 +1111,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "built",
+ "site_status": "skipped",
  "site_url": "https://mdmd1735.github.io/Business-websites/fitnation-gym/",
  "buy_likelihood": 6,
- "notes": "Instagram, open till 4 AM, but owner never replies. Only 13 photos.",
+ "notes": "Instagram, open till 4 AM, but owner never replies. Only 13 photos. Skipped: already has fitnationgym.ae (found before outreach).",
  "display_name": "Fitnation Gym"
 }

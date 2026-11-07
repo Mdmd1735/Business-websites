@@ -1248,9 +1248,9 @@
   "Pick hero + usable photos from img/raw (Read a contact sheet)",
   "Search Instagram (verify by phone number)"
  ],
- "site_status": "built",
+ "site_status": "skipped",
  "site_url": "https://mdmd1735.github.io/Business-websites/al-bayadh-garage/",
  "buy_likelihood": 6,
- "notes": "678 reviews, never replies. Marketing banners in shop suggest they'd value a site.",
+ "notes": "678 reviews, never replies. Marketing banners in shop suggest they'd value a site. Skipped: already has albayadhgarage.com (found before outreach).",
  "display_name": "Al Bayadh Garage"
 }

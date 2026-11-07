@@ -279,5 +279,15 @@
   "number": "+971502970821",
   "sent_at": "2026-11-06T21:52:25+00:00",
   "status": "sent"
+ },
+ "https://mdmd1735.github.io/Business-websites/al-bayadh-garage/": {
+  "business": "Al Bayadh Garage",
+  "number": "+971 55 119 9065",
+  "status": "skipped_has_website"
+ },
+ "https://mdmd1735.github.io/Business-websites/fitnation-gym/": {
+  "business": "Fitnation Gym",
+  "number": "+971 56 789 9043",
+  "status": "skipped_has_website"
  }
 }
