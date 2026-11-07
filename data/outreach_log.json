@@ -242,7 +242,8 @@
   "business": "Happy Paws Veterinary Clinic",
   "number": "+971508984782",
   "sent_at": "2026-11-06T21:42:43+00:00",
-  "status": "sent"
+  "status": "declined",
+  "reply": "No plans for a website at present; will get in touch if needed."
  },
  "https://mdmd1735.github.io/Business-websites/ibn-al-nil-barber-ajman/": {
   "business": "Ibn Al Nil Barber Salon",
@@ -272,7 +273,8 @@
   "business": "Local House Restaurant",
   "number": "+971544711100",
   "sent_at": "2026-11-06T21:50:34+00:00",
-  "status": "sent"
+  "status": "interested",
+  "reply": "Wants booking + food ordering site for new Gathering project; asked for costs; checking with owner."
  },
  "https://mdmd1735.github.io/Business-websites/pinky-z-salon/": {
   "business": "Pinky'z Salon",
