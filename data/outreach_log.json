@@ -381,5 +381,22 @@
   "number": "+971568371081",
   "sent_at": "2026-11-07T17:47:26+00:00",
   "status": "sent"
+ },
+ "https://mdmd1735.github.io/Business-websites/high-touch-automotive/": {
+  "business": "High Touch Automotive",
+  "number": "+971545666560",
+  "sent_at": "2026-11-08T17:02:28+00:00",
+  "status": "sent"
+ },
+ "https://mdmd1735.github.io/Business-websites/warriors-zone-academy/": {
+  "business": "Warriors Zone Academy",
+  "number": "+971 52 633 2020",
+  "status": "skipped_has_website"
+ },
+ "https://mdmd1735.github.io/Business-websites/miti-restaurant-and-cafe/": {
+  "business": "Miti Restaurant & Café",
+  "number": "+971502599777",
+  "sent_at": "2026-11-08T17:03:05+00:00",
+  "status": "sent"
  }
 }
