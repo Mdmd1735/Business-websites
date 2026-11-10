@@ -513,5 +513,11 @@
   "business": "Roses Dew Beauty Lounge",
   "number": "+97165619690",
   "status": "failed (probably not on WhatsApp)"
+ },
+ "https://mdmd1735.github.io/Business-websites/senses-salon/": {
+  "business": "Senses Salon",
+  "number": "+971508451782",
+  "sent_at": "2026-11-10T19:28:08+00:00",
+  "status": "sent"
  }
 }
