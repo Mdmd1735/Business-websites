@@ -544,5 +544,10 @@
   "business": "ALICA Bakery / Eatery",
   "number": "+97143378948",
   "status": "failed (probably not on WhatsApp)"
+ },
+ "https://mdmd1735.github.io/Business-websites/cake-bloom/": {
+  "business": "Cake Bloom",
+  "number": "+97143446786",
+  "status": "failed (probably not on WhatsApp)"
  }
 }
