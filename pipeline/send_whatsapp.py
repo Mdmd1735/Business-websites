@@ -53,15 +53,16 @@ def main():
     ap.add_argument("--n", type=int, default=15)
     ap.add_argument("--api", default="http://localhost:8080")
     ap.add_argument("--dry", action="store_true")
+    ap.add_argument("--landlines", action="store_true", help="also try landline numbers (many run WhatsApp Business; unregistered ones just fail)")
     ap.add_argument("--store", help="whatsapp-bridge store/ dir: skip anyone we've chatted with before")
     a = ap.parse_args()
     log = json.loads(LOG.read_text()) if LOG.exists() else {}
     rows = [r for r in csv.DictReader(open(ROOT / "outreach.csv"))
-            if r["send_link"] and r["business"] not in SKIP and r["site"] not in log]
+            if (r["send_link"] or a.landlines) and r["business"] not in SKIP and r["site"] not in log]
     batch = []
     for r in rows:
         if len(batch) == a.n: break
-        number = re.search(r"wa\.me/(\d+)", r["send_link"]).group(1)
+        number = re.search(r"wa\.me/(\d+)", r["send_link"]).group(1) if r["send_link"] else re.sub(r"\D", "", r["phone"])
         if a.store and chatted_before(a.store, number):
             print(f"HOLD {r['business']} -> +{number} (already chatted)", flush=True)
             if not a.dry:

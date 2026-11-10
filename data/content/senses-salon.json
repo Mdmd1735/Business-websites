@@ -1,36 +1,186 @@
 {
  "preset": "midnight-teal",
- "theme": {"hero_pos": "center 40%"},
- "brand": {"name": "Senses", "sub": "Salon · JLT", "mark": "S", "footer_word": "SENSES"},
- "seo": {"title": "Senses Salon JLT | Hair Spa, Keratin & Colour on the 28th Floor, Cluster W", "description": "Senses Salon, Suite 2808, Cluster W, Jumeirah Lakes Towers: Phloreten hair spa, Brazilian blowout, keratin, colour, cuts and blow-dry with lake views. DMCC Members Award winner. 4.8 from 1,582 reviews."},
- "hero": {"variant": "full", "kicker": "Suite 2808 · Cluster W · Jumeirah Lakes Towers", "title_lines": ["Hair days", "with a view", "of the lakes."],
-   "lede": "Hair spa, Brazilian blowout, keratin, colour and cuts on the 28th floor of Cluster W, with floor-to-ceiling windows over JLT. Winner of the DMCC Members Award and a Best Customer Service Award.",
-   "image": "img/hero.jpg", "image_alt": "Senses Salon wash stations beside floor-to-ceiling windows over JLT", "secondary": {"label": "Treatments", "href": "#treatments"}},
- "cta_label": "Call to book", "proof_note": "1,582 reviews · DMCC award winner",
- "address_lines": ["Senses Salon, Suite 2808, Cluster W", "Al Sarayat Street, Jumeirah Lakes Towers, Dubai"],
- "ticker": ["Phloreten hair spa", "Brazilian blowout", "Keratin", "Colour & balayage", "Cuts & curls", "Head massage", "Waxing"],
+ "theme": {
+  "hero_pos": "center 40%"
+ },
+ "brand": {
+  "name": "Senses",
+  "sub": "Salon · JLT",
+  "mark": "S",
+  "footer_word": "SENSES"
+ },
+ "seo": {
+  "title": "Senses Salon JLT | Hair Spa, Keratin & Colour on the 28th Floor, Cluster W",
+  "description": "Senses Salon, Suite 2808, Cluster W, Jumeirah Lakes Towers: Phloreten hair spa, Brazilian blowout, keratin, colour, cuts and blow-dry with lake views. DMCC Members Award winner. 4.8 from 1,582 reviews."
+ },
+ "hero": {
+  "variant": "full",
+  "kicker": "Suite 2808 · Cluster W · Jumeirah Lakes Towers",
+  "title_lines": [
+   "Hair days",
+   "with a view",
+   "of the lakes."
+  ],
+  "lede": "Hair spa, Brazilian blowout, keratin, colour and cuts on the 28th floor of Cluster W, with floor-to-ceiling windows over JLT. Winner of the DMCC Members Award and a Best Customer Service Award.",
+  "image": "img/hero.jpg",
+  "image_alt": "Senses Salon wash stations beside floor-to-ceiling windows over JLT",
+  "secondary": {
+   "label": "Treatments",
+   "href": "#treatments"
+  }
+ },
+ "cta_label": "Call to book",
+ "proof_note": "1,582 reviews · DMCC award winner",
+ "address_lines": [
+  "Senses Salon, Suite 2808, Cluster W",
+  "Al Sarayat Street, Jumeirah Lakes Towers, Dubai"
+ ],
+ "ticker": [
+  "Phloreten hair spa",
+  "Brazilian blowout",
+  "Keratin",
+  "Colour & balayage",
+  "Cuts & curls",
+  "Head massage",
+  "Waxing"
+ ],
  "sections": [
-  {"type": "services", "id": "treatments", "nav": "Treatments", "eyebrow": "Treatments", "title": "Healthier hair,", "title_dim": "28 floors up.",
+  {
+   "type": "services",
+   "id": "treatments",
+   "nav": "Treatments",
+   "eyebrow": "Treatments",
+   "title": "Healthier hair,",
+   "title_dim": "28 floors up.",
    "items": [
-    {"name": "Phloreten hair spa", "feature": true, "img": "img/curls.jpg", "alt": "Client with glossy curls in front of the Senses Salon sign", "desc": "A deep-repair spa for dry, stressed hair.", "quote": "Amazing phloreten hair spa by Leha. My hair feels fresh, clean and less dry.", "cite": "Di Ja"},
-    {"name": "Brazilian blowout & keratin", "img": "img/long.jpg", "alt": "Long sleek straight hair after a keratin treatment", "desc": "Smooth, frizz-free hair for months."},
-    {"name": "Colour & balayage", "img": "img/balayage.jpg", "alt": "Caramel balayage waves", "desc": "Balayage, highlights and colour correction."},
-    {"name": "Cuts, curls & blow-dry", "img": "img/waves.jpg", "alt": "Soft curled blow-dry", "desc": "Precision cuts and styling."},
-    {"name": "Hair masks & head massage", "desc": "Treatments and relaxing head massages."},
-    {"name": "Nails & waxing", "img": "img/nails.jpg", "alt": "Dark red manicure", "desc": "Manicure, pedicure and waxing."}
+    {
+     "name": "Phloreten hair spa",
+     "feature": true,
+     "img": "img/curls.jpg",
+     "alt": "Client with glossy curls in front of the Senses Salon sign",
+     "desc": "A deep-repair spa for dry, stressed hair.",
+     "quote": "Amazing phloreten hair spa by Leha. My hair feels fresh, clean and less dry.",
+     "cite": "Di Ja"
+    },
+    {
+     "name": "Brazilian blowout & keratin",
+     "img": "img/long.jpg",
+     "alt": "Long sleek straight hair after a keratin treatment",
+     "desc": "Smooth, frizz-free hair for months."
+    },
+    {
+     "name": "Colour & balayage",
+     "img": "img/balayage.jpg",
+     "alt": "Caramel balayage waves",
+     "desc": "Balayage, highlights and colour correction."
+    },
+    {
+     "name": "Cuts, curls & blow-dry",
+     "img": "img/waves.jpg",
+     "alt": "Soft curled blow-dry",
+     "desc": "Precision cuts and styling."
+    },
+    {
+     "name": "Hair masks & head massage",
+     "desc": "Treatments and relaxing head massages."
+    },
+    {
+     "name": "Nails & waxing",
+     "img": "img/nails.jpg",
+     "alt": "Dark red manicure",
+     "desc": "Manicure, pedicure and waxing."
+    }
    ],
-   "perks": ["Open daily 10:30 AM – 9 PM", "Lake views", "Fully wheelchair accessible", "Complimentary drinks"]},
-  {"type": "team", "id": "team", "nav": "Stylists", "eyebrow": "The stylists", "title": "Leha and Terry.", "title_dim": "Book early.",
+   "perks": [
+    "Open daily 10:30 AM – 9 PM",
+    "Lake views",
+    "Fully wheelchair accessible",
+    "Complimentary drinks"
+   ]
+  },
+  {
+   "type": "team",
+   "id": "team",
+   "nav": "Stylists",
+   "eyebrow": "The stylists",
+   "title": "Leha and Terry.",
+   "title_dim": "Book early.",
    "items": [
-    {"name": "Leha", "count": 15, "role": "Senior stylist", "quote": "Leha did an amazing job cutting and curling my hair. She listened carefully to what I wanted.", "cite": "Zy Zii"},
-    {"name": "Terry", "count": 10, "role": "Stylist & hair spa", "quote": "The service was relaxing, professional, and exceeded my expectations.", "cite": "Maryjane C."}
-   ]},
-  {"type": "gallery", "images": [{"src": "img/mural.jpg", "alt": "Senses Salon mural and product shelves", "wide": true}, {"src": "img/layered.jpg", "alt": "Layered blow-dry"}, {"src": "img/colour.jpg", "alt": "Bronde colour"}, {"src": "img/mirror.jpg", "alt": "Clients in the salon mirror"}, {"src": "img/mural2.jpg", "alt": "Salon wall art", "wide": true}]},
-  {"type": "reviews", "id": "reviews", "nav": "Reviews"},
-  {"type": "faq", "id": "faq", "eyebrow": "Visiting", "title": "Finding us",
-   "items": [{"q": "Where exactly are you?", "a": "Suite 2808 on the 28th floor of Cluster W (Tiffany Towers / Oaks Liwa Heights), Al Sarayat Street, JLT."},
-             {"q": "How do I book?", "a": "Call +971 4 457 2290. Appointments are recommended, especially on weekends."},
-             {"q": "Is there parking?", "a": "Yes, wheelchair-accessible parking is available in the building."}]},
-  {"type": "visit", "id": "visit", "nav": "Visit", "title": "Cluster W,", "title_dim": "28th floor."}
- ]
+    {
+     "name": "Leha",
+     "count": 15,
+     "role": "Senior stylist",
+     "quote": "Leha did an amazing job cutting and curling my hair. She listened carefully to what I wanted.",
+     "cite": "Zy Zii"
+    },
+    {
+     "name": "Terry",
+     "count": 10,
+     "role": "Stylist & hair spa",
+     "quote": "The service was relaxing, professional, and exceeded my expectations.",
+     "cite": "Maryjane C."
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "img/mural.jpg",
+     "alt": "Senses Salon mural and product shelves",
+     "wide": true
+    },
+    {
+     "src": "img/layered.jpg",
+     "alt": "Layered blow-dry"
+    },
+    {
+     "src": "img/colour.jpg",
+     "alt": "Bronde colour"
+    },
+    {
+     "src": "img/mirror.jpg",
+     "alt": "Clients in the salon mirror"
+    },
+    {
+     "src": "img/mural2.jpg",
+     "alt": "Salon wall art",
+     "wide": true
+    }
+   ]
+  },
+  {
+   "type": "reviews",
+   "id": "reviews",
+   "nav": "Reviews"
+  },
+  {
+   "type": "faq",
+   "id": "faq",
+   "eyebrow": "Visiting",
+   "title": "Finding us",
+   "items": [
+    {
+     "q": "Where exactly are you?",
+     "a": "Suite 2808 on the 28th floor of Cluster W (Tiffany Towers / Oaks Liwa Heights), Al Sarayat Street, JLT."
+    },
+    {
+     "q": "How do I book?",
+     "a": "Call +971 4 457 2290. Appointments are recommended, especially on weekends."
+    },
+    {
+     "q": "Is there parking?",
+     "a": "Yes, wheelchair-accessible parking is available in the building."
+    }
+   ]
+  },
+  {
+   "type": "visit",
+   "id": "visit",
+   "nav": "Visit",
+   "title": "Cluster W,",
+   "title_dim": "28th floor."
+  }
+ ],
+ "whatsapp": "+971 50 845 1782"
 }
